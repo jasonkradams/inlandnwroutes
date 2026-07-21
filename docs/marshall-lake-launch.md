@@ -1,0 +1,43 @@
+# Marshall Lake Launch
+
+## Marshall lake launch
+
+---
+
+PADDLE DISTANCE: 3.5 miles
+Elevation: 1990’
+LENGTH AND ACREAGE: about 1 .mile to North bay, and .75 to Northeast bay. 190 acres
+MAPS: Bead Lake Topo
+Launch gps: 48°15’23” n 117°41’38”
+​PEND ORIELLE COUNTY SHERIFF: 911 or 509.447.3151
+
+---
+
+## Description
+
+We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
+​From the launch there are two bays to explore.
+
+## Attractions
+
+A nice peaceful tree lined lake
+
+## Directions
+
+**From Newport, WA**: Travel south on US-2 for 0.5 miles. Turn left onto Le Clerc Rd (9305) for 2.7 miles. Turn right onto Bead Lake Rd (3029) continue for 2.5 miles. Turn right onto Marshall Lake Rd continue for 1.4 miles. Turn left onto Marshall Lake Dr continue for 0.6 miles to Marshall Lake.
+
+## Cool things close by
+
+Bead Lake, Newport, Pend Orielle River, Diamond Lake, Ione’s Sweetwater Falls, and the American Selkirks.
+
+## R & p
+
+NA
+
+---
+
+## Plan your trip
+
+[Click for Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
+
+## Photo gallery

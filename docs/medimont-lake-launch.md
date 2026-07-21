@@ -1,0 +1,47 @@
+# Medimont Lake Launch
+
+## Medimont launch
+
+---
+
+PADDLE DISTANCE: varies
+Elevation: 2133’
+LENGTH AND ACREAGE: varies
+MAPS: IPNF, Medimont Topo
+Launch gps: 47°28’40” n 116°35’43” w
+​shoshone county sheriff: 208.556.1114
+
+---
+
+## Description
+
+The Medimont Launch services the Cave Lake, and Medicine Lake.
+To paddle to Cave Lake, paddle west to the bridge to Cave Lake.
+
+## Attractions
+
+These side lakes are shallow and have very little power boat use.
+
+## Directions
+
+from CDA drive east on I-90 over the 4th of July Pass, and turn right at the Rose Lake & Harrison exit. Hwy 3 continues south down the Chain Lakes. Turn right (S) onto S. Medimont Road, to E Rainy Hill Road to the launch and campgrounds.
+
+## Cool things close by
+
+CDA River, Cave Lake, and Killarney Lake.
+
+## R & p
+
+Trails End Brewery, Mexican Food Factory, Franklins, and Moon Time
+
+---
+
+## Plan your trip
+
+[Click for Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
+
+## Photo gallery
+
+## Please everyone...heed this health alert
+
+![Picture](/assets/images/5132025306p-2.jpg)

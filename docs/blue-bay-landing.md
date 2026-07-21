@@ -1,0 +1,50 @@
+# Blue Bay Landing
+
+## Blue bay landing
+
+---
+
+PADDLE DISTANCE: varies
+Elevation: 2128’
+LENGTH AND ACREAGE: varies
+MAPS: IPNF, Fernan lake, Mt. CDA topos
+Launch gps: 47°37’51” n 116°40’51” w
+​kootenai county sheriff: 208.446.1300
+
+---
+
+## Description
+
+We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
+The Blue Bay Landing is along the east shore of the bay, due north of I-90. Altho there isn’t a launch at this site, canoeist and kayakers can carry their boats down to the docks. BE AWARE...when the BLM built the docks, they are rather high off the water. Getting into a kayak is difficult, so be careful.
+
+## Attractions
+
+Blue Bay is a back water bay off of Wolf Lodge Bay. Also attached to this site s the BLM’s Wallace L. Forest Conservation Area. This area offers hiking from the landing, up over the east ridge, with nice views of Wolf Lodge and Beauty Bays.
+
+## Directions
+
+From CDA, drive east on I-90 to the Wolf Lodge, Harrison exit. At the stop sign, turn left (north) over the freeway to the stop sign. Turn left (west) onto the old highway, which is now called E. Yellowstone Trail. This road is very windy and caution should be taken while driving this road. Yellowstone summits the hill next to a private residence, then drops down to the north end of Blue Bay. About half way down this road, you will notice a parking area that is part of the trail system up from the landing.
+When you level out on Yellowstone, the left turn is onto S. Landing Road, and is next to Blue Creek. Continue about .5 miles to the landing.
+
+## Cool things close by
+
+Wolf Lodge Bay, Beauty Bay, Moscow Bay, and the back waters to the Wolf Lodge Creek, which in its self is a nice paddle away from power boats.
+
+## R & p
+
+Trail’s End Brewery, Mexican Food Factory, Moon Time, and Franklins Hoagies.
+
+---
+
+## Plan your trip
+
+[Click for Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
+
+## Photo gallery
+
+## Please everyone...heed this health alert
+
+![Picture](/assets/images/5132025306p-2.jpg)
+
+## No images available yet. to contribute, contact chic

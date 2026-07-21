@@ -1,0 +1,60 @@
+# Hike Rev B
+
+## ????? ????’
+
+---
+
+Event type: 
+Distance:
+Elevation: 
+Difficulty: 
+Maps: 
+Gps: n??° ?’ ?.??” w???° ?’ ??.??”
+
+---
+
+## Description
+
+## Directions
+
+---
+
+## Option #1
+
+## Option #2
+
+## Option #3
+
+---
+
+## Cool things close by
+
+## Hazards
+
+## R & p
+
+---
+
+## Plan your trip
+
+[Click for Current NOAA Weather Conditions](http://www.nws.noaa.gov/wtf/udaf/area/?site=otx)
+
+## Photo gallery
+
+---
+
+##
+
+<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](/assets/images/img-1826-3.jpg) --> -->
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---

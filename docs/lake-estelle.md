@@ -1,0 +1,109 @@
+# Lake Estelle
+
+## Lake estelle
+
+---
+
+EVENT TYPE: Day hiking, backpacking, camping
+DISTANCE: 6.2 miles RT to Lake Estelle. 3 miles RT to Moose Lake
+ELEVATION GAIN: Lake Estelle 1013 verts. Moose Lake 557 verts
+​acres: 3.1
+DIFFICULTY: easy to moderate
+MAPS: I.P.N.F., Mount Pend Orielle, Smith Mountain, Benning Mountain, and Trestle Peak topos
+GPS: Moose Lake. 48°21’16” N 116006’33” W
+Moose Mountain 48°20’46” N 116°07’23” W
+​RANGER DISTRICT:  Sandpoint R.D.   208.263.5111
+​BONNER COUNTY SHERIFF: 911 or 208.263.8417
+Idaho panhandle national forest/alerts
+[​<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)
+
+---
+
+## Description
+
+We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
+​This whole area is called the Moose Lake Trail System, and has an outhouse and ample parking at the trailhead.
+At the trailhead is a map showing the areas attractions, routes and distances.
+To me, the instructions don’t make much sense, so take an image of it to refer to on your walk.
+For the first .5 mile the trail climbs gently to the first junction. Turn left and in a short distance is a turn off to Lake Estelle Trail #36. See OPTION #1 below for info on this spur trail.
+
+In 1.5 miles is Moose Lake. I guarantee you, there will always be a place to pitch a tent. And your tent will be on soft grasses.
+Moose Lake sits in a cirque with magnificent views of its rocky terrain. To the SW is a mountain that you may think is Moose Mountain, but it’s not.
+Spend some time here relaxing in the shade.
+Return to the cars by following the route you walked in on. If you start climbing up the NW side of the lake, you will be headed up to Moose Mountain.
+
+Please refer to Moose Mountain Loop Hike on this website.
+
+## Option #1
+
+As you walk into this area from the parking lot, are Lake Estelle Trail #36 is 3.1 miles to a beautiful cirque lake nestled below towering mountains.
+
+The last .5 miles of the trail, skirts several cliffs, but offers great views of N. Idaho and Montana’s Big Sky Country.
+There are a few campsites scattered along the east shore line.
+
+## Option #2
+
+Because the distances are short to these lakes, you can visit two lakes by following the parking area map.
+If you do the loop, keep in mind that Trail #213 climbs out of the Moose Lake cirque and drops down to the trail outside of the Moose Lake cirque.
+
+## Option #3
+
+To further your hiking in this area, there is a hike from Lake Estelle to Gem Lake, or visa versa, to the west, at about 2.5 miles of hiking. You can make it a loop, but there is about a two mile walk on a road back to the trailhead.
+
+---
+
+## Directions
+
+Head north to Sandpoint and take the Hwy 200 exit and head east to the Pack River and Pend Orielle Lake confluences. At 3.4 miles from the Pack River, turn left (East) for 12 miles to a junction with the Lightning Creek Road #275. Turn left (north) up Lightning Creek for less then a mile, and turn right (S). Onto FR #1022 to the trailhead.
+
+---
+
+## Hazards
+
+None of note
+
+## Cool things close by
+
+Lake Estelle, Gem Lake, Pend Orielle Lake, Lunch Peak Fire Lookout & Mount Pend Orielle Peak, Char Falls, and Scotchman’s Peak.
+
+## R & p
+
+Squeeze Inn and the Clark Fork Pantry on Clark Fork. Jalapeños, Mr. Sub, Burgher Express,  and Eichardt’s in Sandpoint.
+
+## Photo gallery
+
+---
+
+![Picture](/assets/images/p382.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p382_orig.png" }
+
+## Moose Lake Trail System Map
+
+---
+
+*Picture (Image missing)*
+
+## A well signed trail system
+
+---
+
+---
+
+![Picture](/assets/images/2021115307-jpeg-1.jpg)
+
+## Chris on the trail to lake estelle
+
+---
+
+![Picture](/assets/images/2021115308-jpeg-1.jpg)
+
+As the trail nears lake estelle, it circles a ridge point before gently climbing into the lake estelle basin
+
+---
+
+![Picture](/assets/images/2021115309-jpeg-1.jpg)
+
+## There are two camp sites to the right, And one to the left as you come to the lake
+
+*Picture (Image missing)*
+
+## Heading back to the moose mountain loop trail
