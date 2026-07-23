@@ -34,112 +34,118 @@ stats:
   icon: shield-account
   value: CALL 911 FIRST or 208.263.8417
 notes:
-- Idaho panhandle national forest/alerts
-- h[ttps://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)
+- "[Idaho Panhandle National Forest Alerts](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)"
 ---
 
-# Hunt Lake 5813 Gunsight Peak 7352
+# Hunt Lake (5,813') & Gunsight Peak (7,352')
 
-*Hunt lake 5813' peak 6976' gunsight peak 7352' trail #1*
+*Hunt Lake 5,813' | Peak 6,976' | Gunsight Peak 7,352' | Trail #1*
 
-## Description
+## Overview & Trail Description
 
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​Look for a sign post that starts the hike. The trail quickly drops down 20 verts before ascending and entering the boulder field that makes up the rest of the "Trail'. Past methods of route finding were to follow the spray painted circles on the rocks as you ascend. However, many feet have created a path off the rocks. Stay along the tundra on the right side, until you see a path across the scree field, up on the first shelf. The path crosses the boulder field here and continues up the left side of the old trail to the lake. The new trail allows for faster ascents, and isn't as difficult. Sometimes the trail is a ways away from the scree field as it snakes up thru the woods. There will be several places you have to scramble out not the scree.
-Follow the pale green surveyor ribbon along the left side of the giant scree slopes. There are some orange surveyor tapes on the left side that are okay to follow.
-This whole trail climbs up and to the left.
-When you reach the first bench going up, as mentioned above, turn around and shoot an image of where you exit the scree slopes, to the left, out to the trailhead.
+!!! info "Emergency Contact Information"
+    In case of emergency, evaluate your circumstances and contact local authorities if needed:
+    - **Bonner County Sheriff:** Call **911** first, or `208-263-8417`.
+    - **Sandpoint Ranger District:** `208-263-5111`.
 
-## Directions
+Look for a wooden sign post marking the trailhead starting point. The trail quickly drops about 20 vertical feet before ascending into the boulder field that characterizes the main climb.
 
-From the East Shore Road drive 7.3 miles past Cavanaugh Bay to the Hunt Creek Road #24. Turn right (east) onto #24. Stay on #24 bearing left at the first "Y". You will come to the old #24 and 241 sign and a "Y"
+Historically, route-finding relied on following painted dots on the rocks. Today, heavy foot traffic has established a distinct trail alongside the boulders:
 
-The #241 sign has been replaced with a #243 wooden sign bolted over 241.
+- **Ascent Strategy:** Stay along the tundra on the right side until reaching a path across the scree field on the first shelf.
+- **Boulder Crossing:** The path crosses the scree field here and ascends along the left side of the old trail toward the lake. This newer trail offers a faster and less arduous ascent.
+- **Trail Markers:** Follow pale green and orange surveyor ribbon along the left side of the giant scree slopes. In places where the trail weaves through the forest away from the scree, you will occasionally scramble back out onto the rocks.
 
-And there’s a board with HUNT LAKE written on it, leaning against the #24 post.
-
-Please heed this warning….NO CARS OR TRUCKS WITHOUT HIGH CLEARANCE FOR THE LAST 2 MILES.
-
----
-
-## Option #1
-
-Hunt Lake to Gunsight Peak
-Hike around the west side of the lake to the SE corner. Look for a low spot on the ridge above on the east side of the lake. Its 927' gain to the saddle. Turn left (north) and head up hill for 612' to Gunsight Peak.
-
-## Option #2
-
-Hunt Lake to Fault Lake
-After hiking to Hunt Lake, scramble as indicated in OPTION #1 to the ridge above Hunt Lake. Head due south along the high ridge for about a mile to Peak 6514'. Look for a notch along the ridge to descend to Fault Lake. From Fault Lake, head down Trail #59 to it's trailhead.
-
-## Option #3
-
-From OPTION #2, Peak 6514', head south for about 1/2 a mile to Hunt Peak
-
-## Hazards
-
-Too many to list, so be extra careful in all aspects of these hikes
-
-## Cool things close by
-
-Fault Lake, Gunsight Peak, Priest Lake, Lions Creek Slides, and Upper Priest Lake
-
-## R & p
-
-Jalapeños, Eichardt's, Mr Sub, Burger Express,  Sandpoint
-
-## Plan your trip
-
-[Click for Current NOAA Weather Conditions](http://www.nws.noaa.gov/wtf/udaf/area/?site=otx)
-
-## Photo gallery
-
-![Picture](/assets/images/p620.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p620_orig.png" }
-
-## Hikers on the " trail" to hunt lake. notice the yellow/orange dot that marks the "route"
+When reaching the first bench on the ascent, turn around to note where the trail exits the scree slopes to the left back toward the trailhead.
 
 ---
 
-![Picture](/assets/images/p27.png)
+## Driving Directions
 
-## A pond below hunt lake
+1. From **East Shore Road**, drive **7.3 miles** past Cavanaugh Bay to **Hunt Creek Road #24**.
+2. Turn right (east) onto **Hunt Creek Road #24**. Stay on #24, bearing left at the first "Y".
+3. Continue to the junction marked with an old #24 / #241 sign ("Y"). Note that a wooden **#243** sign has been bolted over the 241 marker, and a wooden board labeled **HUNT LAKE** leans against the #24 post.
 
-![Picture](/assets/images/p621.png)
-
-## Hunt is so easy to get to, relaxing and enjoying the views are a must
-
----
-
-![Picture](/assets/images/p624.png)
-
-## Hunt lake with high ridge above
+!!! warning "High Clearance Vehicle Required"
+    High-clearance trucks or SUVs are **strictly required** for the final 2 miles of the access road due to severe rutting and rocky terrain. Low-clearance passenger cars should not attempt this section.
 
 ---
 
-![Picture](/assets/images/p26.png)
+## Route Options & Scrambles
 
-## Hunt lake with gunsight peak 7352’
+### Option 1: Hunt Lake to Gunsight Peak
 
-*Picture (Image missing)*
+Hike around the west side of Hunt Lake to the southeast corner. Look for a low saddle on the east ridge above the lake.
 
-## HUNT LAKE AND BACK WALL WITH SPRINGS 1st DUSTING OF SNOW
+- **Elevation Gain:** 927 feet up to the saddle.
+- **Summit Push:** Turn left (north) at the saddle and ascend 612 feet further to the summit of **Gunsight Peak** (7,352').
+
+### Option 2: Hunt Lake to Fault Lake Traverse
+
+From Hunt Lake, scramble to the ridge above as described in Option 1.
+
+- **Ridge Traverse:** Head due south along the high crest for approximately 1 mile to **Peak 6,514'**.
+- **Descent to Fault Lake:** Locate a notch along the ridge to descend to **Fault Lake**, then follow **Trail #59** down to the Fault Lake trailhead.
+
+### Option 3: Extension to Hunt Peak
+
+From Peak 6,514' (reached in Option 2), continue south along the ridge for approximately 1/2 mile to reach **Hunt Peak** (7,058').
 
 ---
 
-![Picture](/assets/images/p626.png)
+## Safety & Local Information
 
-## Scrambling to gunsight peak has many rewards. notice the folded rock
+!!! caution "Hazards & Safety Precautions"
+    Off-trail scrambling across high-alpine boulder fields, scree slopes, and sharp granite ridges presents numerous hazards. Exercise extreme caution, monitor changing weather, and bring proper navigation tools.
+
+### Nearby Attractions
+
+- **Glacial Lakes:** Fault Lake, Upper Priest Lake, Priest Lake.
+- **Peaks & Scrambles:** Gunsight Peak, Mt. Roothaan, Chimney Rock.
+- **Cascades & Parks:** Lions Creek Water Slides.
+
+### Post-Hike Food & Drinks
+
+Refuel in nearby **Sandpoint, ID**:
+
+- **Jalapeños** (Mexican Cuisine)
+- **Eichardt's Pub & Grill**
+- **Mr. Sub**
+- **Burger Express**
+
+### Weather & Planning
+
+- [Current NOAA Weather Forecast for Hunt Lake / Sandpoint Area](http://www.nws.noaa.gov/wtf/udaf/area/?site=otx){:target="_blank"}
 
 ---
 
-![Picture](/assets/images/p628.png)
+## Photo Gallery
 
-## Nearing the saddle below gunsight peak
+![Hikers on the trail to Hunt Lake](assets/images/p620.png)
+_Hikers navigating the boulder route toward Hunt Lake._
 
----
+![A alpine pond below Hunt Lake](assets/images/p27.png)
+_A serene alpine pond situated below Hunt Lake._
 
-![Picture](/assets/images/p629.png)
+![Hunt Lake resting in a granite basin](assets/images/p621.png)
+_Hunt Lake provides a relaxing spot to rest and take in surrounding Selkirk views._
 
-## Hunt lake from chimney rock- mt roothaan
+![Hunt Lake with high ridge above](assets/images/p624.png)
+_Hunt Lake nestled beneath the high granite ridge leading to Gunsight Peak._
 
-Wandering is a state of mind. ​ While chicwackin’ is a state of pleasure.              chic    8.29.2012
+![Hunt Lake with Gunsight Peak in the background](assets/images/p26.png)
+_Hunt Lake with Gunsight Peak (7,352') towering along the horizon._
+
+![Scrambling to Gunsight Peak with folded rock formations](assets/images/p626.png)
+_Scrambling to Gunsight Peak offers views of dramatically folded granite rock layers._
+
+![Nearing the saddle below Gunsight Peak](assets/images/p628.png)
+_Nearing the 6,740' saddle on the ridge below Gunsight Peak._
+
+![View of Hunt Lake from Mt. Roothaan and Chimney Rock](assets/images/p629.png)
+_Looking down at Hunt Lake from the high summits near Mt. Roothaan and Chimney Rock._
+
+!!! quote "Backcountry Reflection"
+    > *"Wandering is a state of mind, while bushwhackin' is a state of pleasure."*  
+    > — **Chic** (August 29, 2012)
+

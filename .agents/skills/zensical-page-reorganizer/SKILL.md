@@ -20,6 +20,7 @@ This skill provides a systematic workflow for refactoring unorganized, run-on, o
 - **Complete Page Reading**: Read the entire target file using `view_file` before making any edits to understand the overall page structure, heading hierarchy, and section boundaries.
 - **Unsquish Concatenated Text**: Scan for inline headings or text blocks that were accidentally concatenated into paragraph text (e.g., `...natural beauty. Access The Washington portion...` or `...you wish to visit. Geology The Priest Lake...`).
 - **Clean Invisible Characters**: Check for and strip hidden Unicode artifacts like zero-width spaces (`\u200b`), non-breaking spaces, or broken line breaks inside Markdown links (e.g., `trail #\n59]`).
+- **Frontmatter & Notes Consolidation**: Audit YAML frontmatter. Legacy pages often split a single note entry into two separate array items (e.g., `- Forest Service Alerts` followed by `- <https://...>` or `h[ttps://...`). Combine these split items into a single, clean Markdown link item (e.g., `- "[Forest Service Alerts](https://...)"`).
 - **Thematic Grouping**: Categorize content into logical sections and sub-topics (e.g., Geography & Topography, Land Management, Access, Geology, Cultural History, Climate & Vegetation, Wildlife, Alpine Lakes & Camping, Route Index).
 
 ### 2. Structural Hierarchy (`h1`, `h2`, `h3`, `h4`)
