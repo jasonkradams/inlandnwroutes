@@ -8,12 +8,13 @@ categories:
   - Winter Sports
 ---
 
+
 As Spring grows warm around our region, TICKS come out to play.
 
 <!-- more -->
 
 Tuesday, March 26th I did a training hike just north of Kellogg.
-Up near the top I stopped for a bite to eat. And there it was.  
+Up near the top I stopped for a bite to eat. And there it was.
 ​Heading up my pant leg was, 2024’s first tick.
 I watched it until it got to my knee, then flicked it off.
 
@@ -23,10 +24,10 @@ your hiking clothes into before you get in your car.
 
 David and I have created a whole section on ticks, why they climb onto us, what they do once they have snagged your pant
 legs, and how to deal with an imbedded tick.
-Ticks climb up animals legs, heading for the back of the deer, elk or other critter’s necks to imbed. 
+Ticks climb up animals legs, heading for the back of the deer, elk or other critter’s necks to imbed.
 Why you ask?
 A deer, elk or most other large animals can’t scratch the back of their necks, to dislodge the ticks.
-Elk are huge and majestic animals, but an infection of many ticks can kill a deer, moose, or elk, painfully. 
+Elk are huge and majestic animals, but an infection of many ticks can kill a deer, moose, or elk, painfully.
 That’s why they move up your body to imbed.
 Ticks can be temporary stopped under belts, elastic of underwear, bra straps, pant leg zipper flaps, or any other
 restriction.
@@ -56,7 +57,7 @@ If a tick is found imbedded in your skin, follow the procedures listed in our WI
 
 Basically, clean the area around the tick, with an alcohol wipe.
 Use a set of flat blade tweezers to gently but firmly extract the tick.
-The tweezers should come in from the side, and grasp the tick at your skins level. 
+The tweezers should come in from the side, and grasp the tick at your skins level.
 After ticks imbed in your skin, they have barbs and use a "glue" to anchor themselves. (So scratching won’t extract
 them, necessarily.)
 With the tweezers, keep them horizontal to your skin, and pull straight up. Because of how they attach to us, they

@@ -8,6 +8,7 @@ categories:
   - General News
 ---
 
+
 [Accessible Renovations South Bend](https://www.mobilityrenovations.com/us/stairlifts-indiana/accessible-renovations-south-bend.shtml)
 [link](https://www.mobilityrenovations.com/us/stairlifts-indiana/accessible-renovations-south-bend.shtml)
 

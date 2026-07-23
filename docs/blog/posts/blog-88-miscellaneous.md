@@ -8,7 +8,8 @@ categories:
   - Wildfire & Closures
 ---
 
-Miscellaneous  
+
+Miscellaneous
 ​
 
 <!-- more -->
@@ -18,19 +19,14 @@ Miscellaneous
 3. EVERY HIKER, EXCEPT GRANDMA OR GRAMPS, should carry their own packs. The 13 ESSENTIALS can and have saved lives. If a person wanders off and can’t find their way back, they will need a few things to survive. And most important, they need to know how to use these items.
 4. DOG TICKS ARE OUT.  If you hike, you must take action to ensure you don’t get infected. Ticks are everywhere, and have been for 93,000,000 years. If you brush off a tick crawling up your pant leg, when you get home, strip completely outside, and do a full body search. Then toss your hiking clothes into a dryer for 10 minutes. If by chance you get one imbedded in your skin, consult our WILDLIFE section under RESOURCES.  DO NOT JUST PULL IT OUT. If it leaves a part inside your wound, you could get infected.
 
-We hope this hiking season will be good for all of us. Get out early in the season so as not to have to put up with the heat.  
-  
-If any of you have tips on any aspect of enjoying Nature, feel free to send us your suggestions.   
-Did you know, you can start a fire with a plastic bottle of water?  
-That and so much more are in RESOURCES and HINTS.  
-  
-  
-Thank You all for reading and using our free, local website,  
-  
-  
-Chic          David  
-  
-  
-  
-  
+We hope this hiking season will be good for all of us. Get out early in the season so as not to have to put up with the heat.
+
+If any of you have tips on any aspect of enjoying Nature, feel free to send us your suggestions.
+Did you know, you can start a fire with a plastic bottle of water?
+That and so much more are in RESOURCES and HINTS.
+
+Thank You all for reading and using our free, local website,
+
+Chic          David
+
 InlandNWRoutes.com

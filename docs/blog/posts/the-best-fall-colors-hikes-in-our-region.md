@@ -8,6 +8,7 @@ categories:
   - Trail Safety & Gear
 ---
 
+
 fall colors hikes
 ​
 As summer is coming to an end, spring is turning the mountains into a beautiful color wheel.
@@ -32,7 +33,7 @@ Leigh Lake, CMW, MT.
 <https://www.inlandnwroutes.com/leigh-lake.html>
 
 Once at the lake, there is a trail along the right (N) shore line.
-Across the Leigh Lakes outlet creek is a campsite with different views. 
+Across the Leigh Lakes outlet creek is a campsite with different views.
 Be careful crossing on the logs.
 
 Roman Nose Lakes & Peak
@@ -52,7 +53,7 @@ There is no water source along this trail. Be prepared.
 Stash a few water bottles along the upper trail, for the walk out.
 Be sure to mark where your stash is.
 
-John A. Finch Arboretum 
+John A. Finch Arboretum
 <https://www.inlandnwroutes.com/finch-arboretum.html>
 
 The Finch Arboretum is a great place to go year round.
@@ -60,6 +61,7 @@ But in Roctober, there can be 6-8" of fallen leaves on the ground, with Garden S
 Some areas are ankle deep in yellow leave.
 
 Boundary Dam, Pewee Falls, Crawford State Park- Gardner Cave, and Hwy 31.
+
 <https://www.inlandnwroutes.com/pewee-falls-pend-orielle-river.html>
 
 <https://www.parks.wa.gov/492/Crawford>

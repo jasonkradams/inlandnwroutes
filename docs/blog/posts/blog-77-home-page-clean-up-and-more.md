@@ -8,6 +8,7 @@ categories:
   - Wildfire & Closures
 ---
 
+
 I visited David last week to discuss some ideas we both had for our website.
 
 <!-- more -->

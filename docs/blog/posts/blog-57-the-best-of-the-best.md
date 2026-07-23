@@ -8,6 +8,7 @@ categories:
   - Winter Sports
 ---
 
+
 the cabinet mountain wilderness
 
 <!-- more -->
@@ -17,7 +18,7 @@ One of my criteria is hiking in places where there aren’t many, if any other p
 OPTIONS are hikes that take skills and off trail navigation.
 They should only be done by knowledgeable and capable  enthusiasts.
 Click on the associated url’s to see my write ups on each hike.
-If you have specific questions about an area here or on our website, please feel free to contact me. At the bottom of every page is my email envelope. But do remember, I am often out doing research or enjoying these wonderful places. Contact me 2-3 days ahead of your hike, or call the Ranger district 3 days before every hike for more info. 
+If you have specific questions about an area here or on our website, please feel free to contact me. At the bottom of every page is my email envelope. But do remember, I am often out doing research or enjoying these wonderful places. Contact me 2-3 days ahead of your hike, or call the Ranger district 3 days before every hike for more info.
 The Cabinet Mountain Wilderness is so cool, it was one of the areas designated as Wilderness in The 1964 Wilderness Act.
 Think of it as a mini Glacier National Park, but without the hoarders of people.
 The drive up Hwy 56, between  the CMW and the PSPW, os me of my favorite drives.

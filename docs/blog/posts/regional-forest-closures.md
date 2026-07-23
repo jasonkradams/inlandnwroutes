@@ -8,6 +8,7 @@ categories:
   - Wildfire & Closures
 ---
 
+
 Hi hikers.
 Today’s BLOG is about our responsibilities to inform you about ALERTS, and details you need to know, before you venture into Nature.
 Our hopes is that you have fun, and success on your planned visit.
@@ -23,7 +24,7 @@ Chic Burge.       David Crafton
 
 forest closures
 The USFS as well as other agencies, often close areas, not only for the preservation of land, water and trees, but to keep the lands safe, intact, and accessible.
-When the USFS closes an area, they may restrict any and all activities. 
+When the USFS closes an area, they may restrict any and all activities.
 That includes hiking, mt. biking, camping, rafting and more.
 For instance, Forest Road #634 in the American Selkirks, that leads to Trout Lake, Big Fisher Lake, Fisher Peak, all of the Pyramid Lake area, and more is closed until 9.30.2023.
 

@@ -8,6 +8,7 @@ categories:
   - Trail Safety & Gear
 ---
 
+
 Early season hiking
 
 <!-- more -->
@@ -50,7 +51,7 @@ The below url will direct you to our MEDICAL INFORMATION section.
 
 This section covers most of the weather related illnesses.
 
-An idea would be to take "screenshots" of the types of illnesses 
+An idea would be to take "screenshots" of the types of illnesses
 you may encounter.
 That wise, you have the tools to deal with hot, cold, or wet circumstances.
 
@@ -60,5 +61,5 @@ That includes always having your 13 ESSENTIALS, handy.
 
 Please…plan well and be prepared
 
-Chic                David 
+Chic                David
 InlandNWRoutes.com

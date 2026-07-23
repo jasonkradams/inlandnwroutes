@@ -8,12 +8,13 @@ categories:
   - Trail Safety & Gear
 ---
 
+
 the importance of carrying a pack & 13 **Essentials**
 
 <!-- more -->
 
 This BLOG is designed to plant a seed.
-Often times when I’m on a hike, I notice that one of the hikers isn’t carrying a pack, 
+Often times when I’m on a hike, I notice that one of the hikers isn’t carrying a pack,
 I cringe.
 Every year we hear about people getting separated from their group.
 If only one is carrying a pack, how is the other to survive?
@@ -27,7 +28,7 @@ Each person should carry the following items in their own pack.   13 ESSENTIAL
 5. Place a  pair of down mittens in a plastic bag to keep them dry, and store in the bottom of your pack.
 6. Everybody has to do their business sometimes while in the woods.
 
-I carry a ziplock bag with folded paper towels. Why paper towels?     
+I carry a ziplock bag with folded paper towels. Why paper towels?
                 Have you ever had a blow out with toilet paper in the mountains?
 
 ​              A two way radio is an option, but I rarely use them. But for newbies, it may be wise. Use it only for 10
@@ -43,18 +44,18 @@ Do this by folding in half. Then wrap the halves around the branch and pass the 
 As you walk past them later, all you have to do is grab the loop end and pull it off the branch.
 But after reading all this, keep in mind, the most important item is your own 13 Essentials.
 The 13 essentials
-These item can save your life. 
+These item can save your life.
 But if you find yourself without any of them, you will never go out again without them.
 My 13 ESSENTIALS fit into an old zippered bank deposit bag.
-Carrying these is very important. 
+Carrying these is very important.
 But there is something about them that is more important
 If you use any of its contents, when you get home, you must replace the used items.
 I learned the hard way, that restocking your first aid kit is critical.
 
 SPENCO 2nd SKIN BURN DRESSING
 In the old days, we used Moll Skins to patch over blisters.
-But it still hurt to walk. 
-When 2nd Skins came on the market, blisters became very manageable. 
+But it still hurt to walk.
+When 2nd Skins came on the market, blisters became very manageable.
 The dressing is a medicated pad that not only cushions the blister, it eliminates the pain entirely.
 After cutting to size ( larger than the blister), and peeling one side’s protective layer off, you apply directly over the blister. Then remove the other protective layer off. DO NOT TOUCH THE DRESSING.
 Then I apply athletic tape over the 2nd Skin to hold it in place.
@@ -65,8 +66,8 @@ SPENCO 2nd Skin Burn Dressings are a must in all First Aid Kits.
 Practice applying one on your heel before you go out.
 It can be difficult, and you will need the following items.
 Athletic tape
-Scissors 
-Alcohol Cleaning Pads. 
+Scissors
+Alcohol Cleaning Pads.
 And the paper towels mentioned above.
 SPENCO 2nd Skins also come in patches. Altho they work, they don’t hold a candle to a the Burn Dressings for blister relief.
 There is a catch to using the Burn Dressings. You may only use one half of a pad. The remainder, put back into its protective packaging and tape it shut, air tight.

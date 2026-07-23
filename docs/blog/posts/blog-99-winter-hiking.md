@@ -8,6 +8,7 @@ categories:
   - Trail Safety & Gear
 ---
 
+
 There are amongst us, those that don’t hike year round.
 Or even get out in the Winter to enjoy the Winter Wonderland.
 And that’s mildly okay. But you are missing out on some incredible beauty.
@@ -29,12 +30,12 @@ Experiencing Nature, as you come upon it is a great part of going on a hike.
 Our trail stats
 When you read the distance and elevation gain or loss, they are not from personal GPS unit, unless I state that or you see the word "about", before the numbers.
  On a hike, if several people have GPS units, none of them will match each other. DO NOT RELY ONLY ON THEM.
- 
+
 They are not a map and compass, hence they are just a tool to help.
 Also, a GPS unit has batteries that can die, leaving you without a reliable source of where you are, and how you can get back to the trailhead.
 But if you see them without "about", they are from the U.S.F.S.
-The F.S. has high end gear, and their numbers are accurate. 
- 
+The F.S. has high end gear, and their numbers are accurate.
+
 Take a map & compass, and know how to use them
 Please take a map and compass on every hike in the mountains you do.
 By map, I mean a Forest Map of the forest you are hiking in, and a Topo map of the specific area you are visiting.
@@ -60,16 +61,14 @@ Altho we don’t describe the trails, foot by foot, the images that David and I 
 An old adage says, "a picture is worth a thousand words."
 Our goal in creating our website, is to show you the beauty you can find, all around us.
 
-Science 
+Science
 Science has proved that even a five minute hike on a trail, (not  concrete or pavement) will improve your state of mind, work your muscles, and improve your spirit and well being.
 
 Real dangers
-I would be remiss if I didn’t say there are real dangers in the mountains. 
+I would be remiss if I didn’t say there are real dangers in the mountains.
 But with proper research and learning how to behave, you too can see the wonders of Nature, first hand.
 That’s why we do what we do.
 
 Thank You All, for reading and using our local website.
 ​
 Chic      David
-
-[<https://www.inlandnwroutes.com](https://www.inlandnwroutes.com>/)

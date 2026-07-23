@@ -8,6 +8,7 @@ categories:
   - Trail Safety & Gear
 ---
 
+
 Hi Readers,
 ​A few years ago, a rescue of a friend was necessary.
 We were within 5 miles of Mullan, Idaho, and fortunately had cell coverage.
@@ -21,7 +22,7 @@ It was a little over 3.5 hours until the rescue leader got to us.
 It took 3.5 hours?, you asked!
 Below, I will explain what occurs when a rescue is called in.
 
-After the dispatch officer evaluates our situation, she called several of the Search & Rescue team members to come to their facility where they store their equipment. 
+After the dispatch officer evaluates our situation, she called several of the Search & Rescue team members to come to their facility where they store their equipment.
 After loading their side by side (S-S), they drove up to Lookout Pass to launch their S-S, they had to deal with soft snow.
 At least once, they got stuck. Stuck to a point they had to dig themselves out.
 When they got directly above us, the leader came down to us.
@@ -38,7 +39,7 @@ In reading this, it seems like 4-5 hours was a long time. But it wasn’t.
 For all the people to get ready, and go through all the necessary equipment, and work towards the victim, is very time consuming.
 And again, we were only 5 miles from Mullan.
 
-During the wait, I assessed the victims condition, treated for shock, supplied OTC pain killers carefully, and monitored her condition continually. 
+During the wait, I assessed the victims condition, treated for shock, supplied OTC pain killers carefully, and monitored her condition continually.
 The other hiker went down hill looking for a spot where the trees were open, and came back up. He found a large open area below us.
 I tied a sit pad to the victim, so i could carefully slide her down about a quarter of a mile.
 
@@ -52,7 +53,7 @@ She’s back riding her bike and hiking.
 Remembering that she was only 5 miles from Mullan.
 Imagine if an accident occurs 20 or 30 miles from a rescue service.
 
-Most all areas have a Search & Rescue service within their Sheriff’s Office. 
+Most all areas have a Search & Rescue service within their Sheriff’s Office.
 They are on call 24/7/365.
 They drop what they are doing, or wake up, and head to their equipment stash.
 All this takes a huge amount of time and planning. And as all planning goes, it must stay fluid, and adapt to the ever changing circumstances.
@@ -74,14 +75,14 @@ When we venture into Nature, WE MUST BE PREPARED for any and all circumstances. 
 
 A few days ago, I hiked into Lower Stevens Lake, to assess the amount of downed trees from the December wind storms.
 During my day to and back from the lake, there were three groups of two boys each, that were very unprepared for the walk.
-All 6 young men had on only shorts and tennis shoes. 
+All 6 young men had on only shorts and tennis shoes.
 I only saw two day packs, and none had shirts on.
 The two that made the lake were pretty pink, by the time they got to the trailhead.
 This kind of behavior is not acceptable.
 If something happened to either of these 6 young men, they can be in danger, but worse yet, they could be putting the S&R crew in peril.
 
 Please spend some time, and read and understand all aspects of RESOURCE, HINTS, AND MEDICAL sections.
-What I’ve written isn’t enough. After reading these sections, do your own research. 
+What I’ve written isn’t enough. After reading these sections, do your own research.
 The very best and most vital thing you can take with you on any kind of outing, is………KNOWLEDGE.
 
 Please plan well, have what you need to survive overnight, and protect yourself from stupid decisions.

@@ -8,23 +8,25 @@ categories:
   - Wildfire & Closures
 ---
 
+
 Below I will list the hikes in our region that will cause oohs and ahs at every turn.
 When you plan for Autumn hikes, please be sure to have extra clothes, food and water, and traction devises for your boots.
 
 <!-- more -->
 
 By the end of September, you may find light snow on many trails.
-With the amount of foliage I have encountered, this Autumn may be the best fall colors in some time.  
+With the amount of foliage I have encountered, this Autumn may be the best fall colors in some time.
 Below are low land trails, that will offer fall colors.
 
 Red Top Mountain and Hidden Lake.
 <https://www.inlandnwroutes.com/red-top-mountain-6266-trail-102.html>
 The hardest part of this hike is the drive. It’s about 3 hours to the trailhead, via Copeland, Idaho.
-Once on the trail, you will walk a forested ridge line, that lights up in the fall. 
+Once on the trail, you will walk a forested ridge line, that lights up in the fall.
 The trail will hike to the top of Joe Peak, then down to Hidden Lake.
 All along the trail, the fall color will amaze you
 
 Marie Creek Trail # 241
+
 <https://www.inlandnwroutes.com/marie-creek.html>
 This hike is located north of Wolf Lodge Bay, and takes you along Marie Creek after you walk thru the forest for about a mile.
 It is an easy hike to the washed out creek at about 2 miles.
@@ -34,6 +36,7 @@ Spokane Conservation Future Properties
 
 <https://www.inlandnwroutes.com/spokane-county-conservation-futures.html>
 In Spokane County you will find 17+ hiking areas to choose from.
+
 By clicking on the above url, it will take you to the Spokane County Futures Tax Properties, website.
 These properties are usually easy to moderate, and hike thru very diverse terrains all around Spokane County.
 ​
@@ -58,6 +61,7 @@ As you drive west on I-90, headed towards Seattle, on your right, next to the fr
 This arboretum has every tree, shrub and bush that is native to our region.
 If you call the arboretum soon, you can find when they start raking up the fallen leaves.
 If you go just before they rake, the entire area is covered in 6+ inches of fallen leaves.
+
 Along Garden Springs Creek are a few small waterfalls.
 If you can make it by mid Roctober, you will be amazed.
 
@@ -75,6 +79,7 @@ Don't miss the Quarts Mountain fire lookout, that has excellent views of Spokane
 **Riverside state park**
 
 <https://parks.wa.gov/find-parks/state-parks/riverside-state-park>
+
 RSP is a very large area along the Spokane River.
 The Bowl and Pitcher hike crosses a bridge that spans the river.
 Once across, you will be hiking in a blackish basalt wonderland. When the colors are at their best, the contrast is amazing.
@@ -86,6 +91,7 @@ The next two hikes are so incredible, you won’t want to miss either of them.
 **Upper & Lower Stevens Lakes, Idaho**
 
 <https://www.inlandnwroutes.com/upper-and-lower-stevens-lake.html>
+
 This hike is located 3.5 miles SSE of Mullan, Idaho, up Willow Creek.
 The hike to the upper lake is 5 miles round trip, with 1780 feet of gain.
 Don’t let the moderate distance and gain fool you. This trail is complicated to hike.
@@ -97,6 +103,7 @@ At the bottom of the of this write up are three historical articles, worth readi
 **Lone Lake & the Upper Sanctuary**
 
 <https://www.inlandnwroutes.com/lone-long-lake-lakes.html>
+
 Don’t miss this fall color hike.
 From the lake, looking SSE, is the most dynamic face of Stevens Peak 6838’
 After spending some time at the lake, walk the west shore line to the back of the lake and a small waterfall.
@@ -127,5 +134,3 @@ Where ever you go, be safe and enjoy our fall colors.
 David and I would like to thank you for reading and using our local  website.
 
 Chic          David
-
-[<https://www.inlandnwroutes.com](https://www.inlandnwroutes.com>/)

@@ -8,6 +8,7 @@ categories:
   - Trail Safety & Gear
 ---
 
+
 ​                              sprained ankles
 
 <!-- more -->
@@ -23,7 +24,7 @@ There was some snow near by, so I collected some for an ice pack. Carry an assor
 When my ankle was feeling less pained, I slowly started to lower my leg wrapped in the ice pack.
 If the throbbing started again, I put it back up, until it didn’t hurt so much. And lowered it slowly.
 
-Eventually, my foot was able to be on the ground. After treating my ankle with a special essential oils mixture, I re-laced, my boots and very carefully got to my feet. 
+Eventually, my foot was able to be on the ground. After treating my ankle with a special essential oils mixture, I re-laced, my boots and very carefully got to my feet.
 My ankle hurt a bit, but I could walk on it, carefully.
 By turning your toes outward, it takes the stress off the tendons.
 Also, if you walk on the higher part of a trail, you can point your injured foot down slope, as you walk.
@@ -54,8 +55,8 @@ Follow the following instructions, and you may be able to walk away from a twist
 7. If your ankle is too soar to bend while walking, put your injured ankle out in front of you.       now, bring your back foot’s toes up to the heel of your front foot. and do it again, and again. taking care not yo re-injure your ankle.
 8. If you are alone, pull out your whistle and blow three blasts, pause a few seconds and do two more blasts three times.  any three sounds, gun shots, etc, you here, is someone calling for help.
 
-We hope the above will help you walk out on your own, in case of an emergency. I wrap about 8 feet of Gorilla Tape on each hiking pole. 
-I have use this tape to make a lower leg support peg, or build a crutch. 
+We hope the above will help you walk out on your own, in case of an emergency. I wrap about 8 feet of Gorilla Tape on each hiking pole.
+I have use this tape to make a lower leg support peg, or build a crutch.
 A 50’ length of parachute cord can be used in so many emergency circumstances.
 
 Dollar Tree has Coban bandages that are 5 yards long by 2" wide, for just $1.25.

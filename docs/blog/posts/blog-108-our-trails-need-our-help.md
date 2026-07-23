@@ -8,6 +8,7 @@ categories:
   - Wildfire & Closures
 ---
 
+
 ​By now most of us has been on a mountain trail.
 What we are finding is a huge number of downed trees on almost every trail.
 
@@ -28,7 +29,7 @@ This is the same as I’m hearing from all over the I.P.N.F.
 
 English Point of Lancaster got hit hard. ITA was there to help with the downed trees.
 
-I can go on and on, but what our forests need from us right now, is us. 
+I can go on and on, but what our forests need from us right now, is us.
 We are the users. We owe it to our trails, to maintain them.
 
 These are just two trails amongst hundreds in our region, that need us.
@@ -36,13 +37,13 @@ These are just two trails amongst hundreds in our region, that need us.
 Below are the websites for three of the primary trail maintenance groups, in our area.
 Contact any of these organizations and volunteer to help our trails.
 
-Idaho Trails Association 
+Idaho Trails Association
 [<https://idahotrailsassociation.org](https://idahotrailsassociation.org>/)
 These fine folks have work parties all over Idaho.
 Their efforts are felt even up here in N. Idaho.
 They also lead Wednesday hikes around Sandpoint, and Thursday hikes around Couer d’ Alene.
 
-Washington Trails Associated 
+Washington Trails Associated
 [<https://www.wta.org](https://www.wta.org>/)
 The WTA has an Eastern Washington Trail representative in Spokane that has built and maintained our trails for years.
 Trails like FishTrap Lake west of Spokane are an example of their dedication to making our trails safe and scenic.
@@ -60,9 +61,7 @@ If you have ever done trail work, or if you are interested in helping our trails
 
 Our trails are our avenues to enjoy Nature, see the incredible sights, and to clear our minds.
 
-Thank You for being our readers. 
+Thank You for being our readers.
 Our goal is to show the beauty of our area how you can be part of it.
 
 Chic        David
-
-[<https://www.inlandnwroutes.com](https://www.inlandnwroutes.com>/)

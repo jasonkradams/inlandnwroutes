@@ -8,6 +8,7 @@ categories:
   - Wildfire & Closures
 ---
 
+
 Be prepared...be safe
 
 <!-- more -->
@@ -22,7 +23,7 @@ Nothing makes me upset, like driving for hours, to find a road or trail is close
 On our HOME PAGE, scroll down to the Managing Agencies Alerts.
 Tap on the url, of the area or forest you are planning to visit.
 Here you can access all the ALERTS.
-Please understand something. 
+Please understand something.
 If you go into an area that the USFS has closed, jail time and/or fines may be in your future.
 13 essentials
 
@@ -44,7 +45,7 @@ I have found that the timing in this graph is a bit more accurate than the quant
 
 I personally like using an umbrella, more than bundling up and sweating too much.
 
-Because it isn’t summer yet, the temperatures can drop to near freezing as soon as the sun goes down. Carry with you, warm clothes, like stocking caps, warm gloves, extra socks, chemical hand warmers, fleece thermo layer, and a waterproof jacket 
+Because it isn’t summer yet, the temperatures can drop to near freezing as soon as the sun goes down. Carry with you, warm clothes, like stocking caps, warm gloves, extra socks, chemical hand warmers, fleece thermo layer, and a waterproof jacket
 and/or pants.
 
 The more comfortable you are, the better the chance of spending a night out.
@@ -60,15 +61,15 @@ But in the mountains…."COTTON KILLS".
 Unlike high tech base layers (polypropylene), that wick the moisture away from your body, cotton absorbs moisture and sweat, and eventually cools the body below safe levels.
 Once your core temperature drops too low, you will be unable to make good decisions and get warm again.
 In WEATHER….read about HYPOTHERMIA.
-HYPOTHERMIA is a silent killer. 
+HYPOTHERMIA is a silent killer.
 Know how to deal with it, and how you can save a person suffering from HYPOTHERMIA.
 
 David and I have created the following sections to better inform our readers, of what we need to do before, during and after, an outing.
 
-Medical information 
+Medical information
 <https://www.inlandnwroutes.com/medical-information.html>
 
-Trail etiquette and skills 
+Trail etiquette and skills
 <https://www.inlandnwroutes.com/trail-etiquette-and-skills.html>
 
 Hints

@@ -8,6 +8,7 @@ categories:
   - Winter Sports
 ---
 
+
 Hourly weather forecast
 
 <!-- more -->
@@ -26,7 +27,7 @@ This will bring up a page that has the description of the upcoming week.
 These words are general descriptions of those days, but do not tell you the whole story.
 
 Scroll down to the green map with a darker green cursor.
-You can expand the map to see a more detailed area to get your forecast. 
+You can expand the map to see a more detailed area to get your forecast.
 By tapping on the lake, peak, or general area, it will show you the specific forecast for that spot.
 
 Now scroll down the HOME PAGE to the HOURLY WEATHER FORECAST, graph.

@@ -8,6 +8,7 @@ categories:
   - Winter Sports
 ---
 
+
 El niño and winter sports
 As you all know, we are always at the mercy of the weather.
 Whether we have La Niño or El Niño, we just have to deal with what we are dealt.
@@ -35,7 +36,7 @@ We have a whole section on weather, that will show you what to expect in detail.
 <https://www.inlandnwroutes.com/weather-thunderstorms-and-lightning.html>
 
 Some places to hike,
-​because...   
+​because...
 Skiing sucks right now
 
 Below are some suggestions of cool places to hike.
@@ -57,7 +58,7 @@ Revett Lake and/or Blossom Lakes
 Any of the following Spokane County Conservation Properties
 <https://www.inlandnwroutes.com/spokane-county-conservation-futures.html>
 
-Ross Creek Cedars 
+Ross Creek Cedars
 <https://www.inlandnwroutes.com/ross-creek-cedars1.html>
 
 Don’t be down. But rather get up and go play.

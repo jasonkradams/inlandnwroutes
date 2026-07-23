@@ -8,6 +8,7 @@ categories:
   - Wildfire & Closures
 ---
 
+
 I realize many of you are distraught about no snow in our mountains.
 And so am I. I haven’t skied a single day this year, yet.
 A seasoned skier or outdoors person must realize, we are at the mercy of Mother Nature, when we venture out.
@@ -15,7 +16,7 @@ We must take the bad with the good!
 Hopefully, snow will come soon.
 The best way to get outdoors, is to snowshoe, hike, bike in the areas that are usually too snowy to play in.
 The reason I bring this up, has another bit of bad news.
-If we don’t get our normal snowpack, our summer will be very poor and very dangerous. 
+If we don’t get our normal snowpack, our summer will be very poor and very dangerous.
 Because of the possibility of less snowpack, it’s time to get out and hike before forest fires and forest closures are enforced.
 Below are a variety of areas to consider.
 
@@ -31,7 +32,7 @@ Wallace L Forest Conservation Area
 This BLM area is on the north side of Wolf Lodge Bay, with its trailhead on the east shore of  Blue Creek Bay.
 The trail wonders around a 700+ acre forest with several trail options. Way back on the NE corner is a section of the Mullan Trail.
 
-Elk Creek Falls National Recreation Area 
+Elk Creek Falls National Recreation Area
 <https://www.inlandnwroutes.com/elk-creek-falls-national-recreation-area.html>
 This area is a great visit any time of the year.
 It is located about 44 air miles south of St Maries, Idaho.
@@ -53,6 +54,7 @@ This trailhead is located about .5 miles south of the Mineral Ridge parking lot,
 But be aware…this trail is long and moderately difficult, due to its elevation gain.
 
 Navigation Trail # 291
+
 <https://www.inlandnwroutes.com/navigation-trail-291.html>
 This low land trail skirts the west side of the Upper Priest Lake Thoroughfare, and leads to the south end of Upper Priest Lake.
 To further your hike, you can continue up the west shore line for as long as you like.
@@ -63,7 +65,7 @@ Check with the Idaho roads to make sure the road to Thompson Pass is at least op
 The actual trailhead is about 1 miles SW of the Thompson Pass parking area, up a road.
 It’s a relatively easy and short hike to a nice high country lake.
 To extend your hike, walk the left or SE shore to the back of the lake.
-But I would suggest returning on the same side of the lake. 
+But I would suggest returning on the same side of the lake.
 The NW "trail" is poor at best and not a good choice this time of the year.
 
 Lowe & Upper Blossom Lakes
@@ -73,6 +75,7 @@ But be aware, this time of the year, the trail may be snowy.
 The Upper Lake is an easy walk, and has a slightly more difficult trail to Pear Lake to extend your hike.
 
 Sullivan Lake Trail # 504
+
 <https://www.inlandnwroutes.com/sullivan-lake-shore-line.html>
 This hike skirts the east shore south to the Noisy Creek Campgrounds. If by chance you have a kayak or Canoe, you can return via the lake.
 Be sure to carry your paddling gear with you if you do this hike/paddle. And padlock your boats to a tree when you are hiking.
@@ -85,7 +88,7 @@ The entire length of the trail has infosigns to guide you and tell the heroic st
 
 Mickinnick Trail #13
 <https://www.inlandnwroutes.com/mickinnick-trail.html>
-Outside of Sandpoint, Idaho is the Mickinnick Trail, that offers a good workout and even better views. 
+Outside of Sandpoint, Idaho is the Mickinnick Trail, that offers a good workout and even better views.
 However, take you snowshoes or traction devises.
 A big draw of this trail is the Winter Wonderland for photography.
 
@@ -115,4 +118,3 @@ David and I would like to Thank all of you who used our website.
 In 2025, we had 57,000 hits.
 Thank You,
 Chic         David
-[<https://www.inlandnwroutes.com](https://www.inlandnwroutes.com>/)

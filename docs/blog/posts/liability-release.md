@@ -8,6 +8,7 @@ categories:
   - General News
 ---
 
+
 From the very beginning, David and I have had a Liability Release Form, but it was hard to find.
 David has placed the words….LIABILITY RELEASE at the bottom of each page.
 We encourage you to click on it, and read it.

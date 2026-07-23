@@ -8,8 +8,11 @@ categories:
   - Geology & History
 ---
 
+
 When I was in school decades ago, I had zero interest in what happened centuries or even years ago.
 But now, a main goal in our website is to offer this information for those who desire to learn about the areas they are visiting.
+
+<!-- more -->
 
 All SUBTITLES, like Cabinet Mountain Wilderness, Washington Scablands, American Selkirks, ETC., offer such information. Just type them into our search engine, and DOUBLE CLICK.
 

@@ -8,6 +8,7 @@ categories:
   - Wildfire & Closures
 ---
 
+
 Aluminum cans.                     80-200 years
 Glass bottles.                          1 million years
 Plastic bags.                             500-1000 years
@@ -19,6 +20,7 @@ Wet wipes.                               100 years
 Nylon fabric.                           30-40 years
 Synthetic fabrics.                 100 years +
 Feminine products.             250+ years
+
 Chewing gum.                       50-1000 years
 Diapers.                                    500 years
 ​Mono filament fish line.   600 years

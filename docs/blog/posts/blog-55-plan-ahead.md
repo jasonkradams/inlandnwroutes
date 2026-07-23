@@ -8,6 +8,7 @@ categories:
   - Wildfire & Closures
 ---
 
+
 plan ahead
 As you are planning your outing, I strongly suggest calling the Ranger District of the area you want to recreate in, to learn of any last minute "ALERTS".
 On all of our hike’s write ups, we have listed the managing agencies phone numbers, in the hike data section.
@@ -26,3 +27,5 @@ To learn about weather in all its wonders, check out this url.
 <https://www.inlandnwroutes.com/weather-thunderstorms-and-lightning.html>
 Chic              David
 InlandNWRoutes.com​
+
+<!-- more -->

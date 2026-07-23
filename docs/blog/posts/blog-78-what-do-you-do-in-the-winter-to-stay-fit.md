@@ -8,6 +8,7 @@ categories:
   - Winter Sports
 ---
 
+
 ​Staying fit durng snow season
 
 <!-- more -->
@@ -65,7 +66,7 @@ Lower risk of depression
 Increases positive emotions
 
 Physical health can..
-Lower heart rate and blood pressure 
+Lower heart rate and blood pressure
 Increases Vitamin D levels
 Lower risk of heart disease
 Reduces risk of obesity and diabetes
@@ -95,6 +96,7 @@ InlandNWRoutes.com
 ## **​**
 
 [sober living san luis obispo](https://maps.app.goo.gl/QCbYGZptHT4eqCEC7)
+
 [link](https://maps.app.goo.gl/QCbYGZptHT4eqCEC7)
 
 7/30/2025 12:17:04 am

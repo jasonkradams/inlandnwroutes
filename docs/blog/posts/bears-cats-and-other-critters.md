@@ -8,6 +8,7 @@ categories:
   - Wildfire & Closures
 ---
 
+
 ​                                                           Bears, cats, and other critters
 
 <!-- more -->
@@ -41,12 +42,19 @@ As I approach an open area, I pause and observe where I’m at and search for cr
 Then I do one or more of the following:
 
 * Smack your ski poles together.
+
 * YELL REALLY LOUD…Hey Bear.  Or I yell Oiya Oso. That roughly translates to hey bear. Years ago I yelled hey bear, and a lady on the hike, almost had a heart attack. Hence Oiya Oso.
+
 * When you come to a stream crossing, start yelling before, in and after you’ve crossed the creek. And any where your presents may be masked by Nature’s noise.
+
 * Even windy days can be noisy enough that you may not be heard.
+
 * All along the trails thru a forest, and in strong winds, yell as loud as you can. This will alert all critters to your presents, and most likely will cause them to scatter. They saying…"bears dislike us more than we dislike them" is true.
+
 * But if we are quiet, and stumble upon them, we could be in a world of hurt. And of course, never get between the mom and the cubs. And never turn and run. That’s what their prey does.
+
 * REMEMBER, we are guests in their house. We must play by their rules.
+
 * By alerting them of your presents, the chances of an encounter can be lessened.
 
 Yell like you are talking to someone across the football field.
@@ -54,15 +62,25 @@ Yell like you are talking to someone across the football field.
 Do not be shy!  yell loud
 
 * Some people carry an air horn. If a close encounter occurs, many loud blasts from an air horn, may scatter the critter.
+
 * In your 13 ESSENTALS pack is a whistle. If you are in bear country, wear it around your neck, and use it LOUD and OFTEN.
+
 * Guns don’t necessarily work on bears. If you are carrying a large caliber pistol, aim at the bears mouth, but only if charged. Most bears have a thick forehead plate that can deflect small caliber bullets. Also, keep in mind, bears charge without attacking you. They are simply trying to scar you away, or intimidate you.
+
 * Let other hikers know of any critters presents. They may not be aware enough, to spot a bear eating hucks. Or a Badger, being a Badger. They have chased away Grizzly Bears.
+
 * When you know, you are in bear country, LEASH YOUR DOGS. Critters in the forest can be severely stressed by loose dogs. Or your dog could be killed.
+
 * If you do encounter a bear up close, after spending a moment, writing down exactly what happened and where. These are things that a wildlife ranger will ask you.
+
 * Another idea, is to call the Ranger District in which you want to hike. Ask them about any recent encounters and areas where bears are active. Also, when talking to the rangers, ask about FOREST ALERTS, you may encounter.
+
 * All hike write ups on our website, contain the Ranger Districts, and Sheriff’s phone numbers.
+
 * I suggest you to do some screenshots of our write ups. They can answer questions about the route, and let you know who to call in case of an emergency.   911 is the first option.
+
 * I recently discovered an app that can be used as a rescue beacon.  Check out….AirFlare Ski App. It only costs $4.99 a year, and could possibly save your life. And you can find your hiking partners that wonder off, if needed.
+
 * Bear spray is a great tool to have if you are in bear country. But there is a lot you NEED TO KNOW before using bear spray. Wind direction is very important. In a split second, you grab your bear spray and let loose with a spray of fog. But, what if the bear is up wind from you. That means you get sprayed, instead of the bear. You need to be able to determine the wind direction in an instant, and react faster. Bear spray will do you no good, if you don’t know how to deploy it correctly. It’s best to refer to the bear spray manufactures, for proper use.
 
 It is paramount to arm yourself with as much knowledge and experience as possible.

@@ -8,13 +8,16 @@ categories:
   - Wildfire & Closures
 ---
 
+
 Today, I would like to talk about the 14 ESSENTIALS, and the importance for *Every* outdoor enthusiast to carry their own kit.
+
 There will come a time when you will have to deal with an emergency.
 You want to be prepared, because the options are not in your favor.
 
 <!-- more -->
 
 the 14+  essentials
+
 ​
 ​These item are to be carried by EVERY INDIVIDUAL, whether hiking solo or in a group. Couples are especially encouraged to carry their own 14 essentials, as well as their own food, water, and first aid supplies, just in case one or the other gets separated from their spouse or group.
 Please, error on the side of caution.
@@ -23,15 +26,15 @@ KNOWLEDGE is the most important thing you can take into the mountains.
 
 Fire starter.
 Waterproof  matches, lighters, small road flares (for winter conditions).
-There are commercial pastes, matches, and other types of fire starters on the market. 
-When in nature, you may notice the stringy lichen hanging from tree limbs. Beard lichen is an excellent fire starter, and can be used as a sponge for collecting water. 
+There are commercial pastes, matches, and other types of fire starters on the market.
+When in nature, you may notice the stringy lichen hanging from tree limbs. Beard lichen is an excellent fire starter, and can be used as a sponge for collecting water.
 Another use for something we all have around the house is dryer lint. Wrap it in paper like a tube, in a ziplock baggie, or stuff into an extra light container. Keep them in your 13 essentials for emergency use. See "HINTS"
 
 Rain gear, umbrella, poncho.
 It is essential that you stay as dry as possible. Rain suits tend to be too hot, while ponchos have more breathing ability. An umbrella is my choice for any hike that may be raining or snowing. Always carry a large lawn bag with many paper towels folded up.
 The lawn bag can be used as rain gear, and weights very little.
 
-Map & compass...gps 
+Map & compass...gps
 These items are useful tools
 ***A gps is not a replacement for a map & compas***S, and the knowledge to use them. Batteries die, but maps stay operational. Always have a copy of the National Forest Map, and topo map to the area you are hiking. A National Forest map, and a topo map are important for each member of the outing to have in case of separation or adverse weather conditions. They can be copies in a ziplock bag.
 If nothing else, PLEASE make a copy of the area you will be visiting, for each hiking partner.
@@ -44,10 +47,12 @@ If nothing else, PLEASE make a copy of the area you will be visiting, for each h
 **Point your hour hand at the sun, then observe the 12 o'clock position. Go half way between the two and opposite is north.**
 **Stick method**
 **In a  clearing, pound the stick in the ground, and place a rock at the tip of the shadow. Wait 15 minutes and place a rock at the tip of the shadow. The first rock will be on the west, while the second rock will be east. half way between the two is north.****Using the stars
+
 Thruout life, and observe the stars often for weeks before a hike. By doing this, you will know what constellations are in the south, or the rotation of the Big Dipper in the north.
 You can also look for the two stars farthest from the handle, of the Big Dipper.  Draw a line from the bottom star to the top star, and continue for about 5 times the distance of the two stars. They will be pointing at the****North Star, also known as Polaris.**
 
 Extra food.
+
 Always carry extra food, maybe in the form of energy bars, but always high in protein. Choose an energy bar that does not require a lot of water to digest. Change out often.
 A way to tell if your energy/protein bars are a good choice, is to look at the carbohydrates in the bar. Then look at the proteins. The proteins should be higher then the carbs.
 My choice is a MET RX bar. They are available in the pharmacy at Walmart. They have 32 grams of protein and 18 vitamins and minerals.
@@ -75,7 +80,7 @@ I carry several sizes of knives. One for small work like cutting up apples, but 
 
 First aid kit
 You must decide what you take with you. Be extra careful in your selection of proper First Aid supplies.
-Remember, you are responsible for yourself. 
+Remember, you are responsible for yourself.
 Carry what you may need, and add as necessary. Feminine pads are great items to have in your first aid kit.
 Once on a week long ski trip in Kokanee Glacier National Park, one of the women started her period early. She was two weeks early, so she was in a bad way. We made a game of creating pads from the very sparse inventory of materials. It worked. And think of this...you could be a savior in case of a normal emergency. See "HINTS"
 ​

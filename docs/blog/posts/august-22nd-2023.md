@@ -8,13 +8,14 @@ categories:
   - Wildfire & Closures
 ---
 
+
 Determining areas on fire and smoke plume direction
 
 <!-- more -->
 
 We have decided to clean up our home page.
 ​There is just too much information, which made it harder to navigate thru.
-So, I have moved the section "DETERMINING AREAS ONFIRE, SMOKE PLUME DIRECTION, 
+So, I have moved the section "DETERMINING AREAS ONFIRE, SMOKE PLUME DIRECTION,
 to RESOURCES……under WEATHER, THUNDERSTORMS, LIGHTNING & MORE.
 
 As you are planning your next outing, please refer to the above sections to get a better idea of what the weather and fire conditions are in the area you are planning to go to.

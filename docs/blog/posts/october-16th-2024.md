@@ -8,6 +8,7 @@ categories:
   - Trail Safety & Gear
 ---
 
+
 ##
 
 <!-- more -->
@@ -38,7 +39,7 @@ Make sure you cover your garment thoroughly. And then spray areas again like sho
 
 Then the garment goes in the dryer for at least 30 minute.
 If it’s not thoroughly dry, hang and let dry.
-Just don’t spray and go. 
+Just don’t spray and go.
 The DWR’s need to blend with the material.
 
 As the ski or hiking season progresses, you may have to retreat your garments.
@@ -49,13 +50,13 @@ Nikwax DWR
 Gearaid dwr
 Granger dwr
 
-All these manufacturers make a special Wash. 
+All these manufacturers make a special Wash.
 If you don’t have the Arm & Hammer laundry soap, consider one of the above brands.
 However, Arm & Hammer cost a fraction of the above brands.
 
 A word about these pump spray applicators…
 They are difficult to spray on evenly.
-What I do, is spray my garments lightly twice. 
+What I do, is spray my garments lightly twice.
 Then while wearing a plastic glove, I rub the DWR into the cloth, before drying them. That way, I know it’s spread evenly.
 
 If you buy all the Arm & Hammer and the DWR sprays  above now, you can get a jump on late Fall early Winter physical training, and ski season.
@@ -66,7 +67,7 @@ Spring
 Summer
 And Fall
 as nice as they are
-are simply fillers between 
+are simply fillers between
 Ski Seasons.
 
 Always be prepared, and have the necessary items and most of all, the knowledge to survive the night.

@@ -8,6 +8,7 @@ categories:
   - Wildfire & Closures
 ---
 
+
 The 13 ESSENTIALS are one of your most important items to take with you whenever you go into Nature.
 Way back in 1993-4, when I was President of the Spokane Mountaineers (SMI), I argued that the 10 ESSENTIALS were not adequate.
 We adopted  the 13 ESSENTIALS so our members would be prepared for many situations that occur in the woods 0r on glaciers.
@@ -61,9 +62,9 @@ Years ago, I skied off a 12’ embankment and broke my heel bone.
 When I was taken to the Aid Room, I simply handed the patroller my MIC. It had everything they needed to process me and treat me.
 
 Going into Nature is one of our greatest pleasures.
-Please be prepared. 
+Please be prepared.
 That includes having your spouse carry their own emergency supplies, map, water and food.
-If you wander off to pee and stumble and knock yourself out, what is your spouse going to do? 
+If you wander off to pee and stumble and knock yourself out, what is your spouse going to do?
 If your spouse stab themselves on a sharp twig, how are they going to treat their wound?
 
 Each of us, when we wander, are responsible for our selves and our fellow hikers.

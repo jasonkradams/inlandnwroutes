@@ -8,6 +8,7 @@ categories:
   - Wildfire & Closures
 ---
 
+
 ## fire restrictions are in place
 
 <!-- more -->

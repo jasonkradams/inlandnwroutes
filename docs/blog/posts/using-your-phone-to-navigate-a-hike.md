@@ -8,11 +8,12 @@ categories:
   - Trail Safety & Gear
 ---
 
+
 First let me state…if you go into Nature with only a phone, you are in danger.
 Be absolutely sure you carry a power stick.
 If you find yourself lost, only turn your phone on for 10 minutes on the hour. Or you can put your phone on "low power mode."
 This way you can be assured you will have a battery when you need it.
-Batteries die. 
+Batteries die.
 When that happens, you could miss info, like critical turns, faint routes, and your way.
 When I hike, I take screenshots of the DISTANCE & ELEVATION GAIN, DIRECTIONS, DESCRIPTION, and OPTIONS, from my own website, as well as Google Earth images
 All of the above, is my safety net.
@@ -30,7 +31,7 @@ These show me what I need to know.
 And as I’m walking the route, I can use the images to determine where I am and how far it is to a feature.
 Also for the phones, is an app that turns your phone into a rescue devise.
 Log onto AirFlare.com.
-Because AirFlare is an app, it weights nothing, and can send emergency coordinates to rescuers. 
+Because AirFlare is an app, it weights nothing, and can send emergency coordinates to rescuers.
 If a partner is misplaced in the woods, AirFlare can communicate up to a quarter of a mile with them.
 AirFlare can operate on as little as one bar on your reception scale.
 But that isn’t the best part.

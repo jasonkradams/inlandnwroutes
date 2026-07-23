@@ -8,35 +8,35 @@ categories:
   - Flora & Wildlife
 ---
 
-iNaturalist  
-  
-  
-Have you ever seen a wildflower on a hike that you didn’t know what it was?  
-There’s an app for that.  
-  
-iNaturalist is a free app that will identify any living plant, animal, etc.  
-  
-While you hike, and see a flower or whatever, all you do is take several images, log onto the app and download your image(s).  
-In a few days, they will have their world wide identifiers, tell you what it is.  
-  
-Then they plot where it was photographed.  
-All this data is plotted on a world map, that shows everywhere in the world they grows.  
-  
-After creating an account, all of your observations are in your account, and can be accessed for your future reference.  
-  
-To date, they have over 151,000,000 observations, of 431,785 species, by 6,692,461 people around the world.  
-  
-This whole app is sponsored by National Geographic and a few other organizations.  
-  
-It’s fun to be able to learn what you wonder about on your hikes.  
-  
-I take screenshots of 12 or so observation at a time, which makes it easier to access and use them to identify them when I need to.  
-Keep in mind, they can identify any living organism.  
-  
-Log onto….[<https://www.inaturalist.org](https://www.inaturalist.org>/)  
-  
-  
-InlandNWRoutes.com  
-  
-  
+
+iNaturalist
+
+<!-- more -->
+
+Have you ever seen a wildflower on a hike that you didn’t know what it was?
+There’s an app for that.
+
+iNaturalist is a free app that will identify any living plant, animal, etc.
+
+While you hike, and see a flower or whatever, all you do is take several images, log onto the app and download your image(s).
+In a few days, they will have their world wide identifiers, tell you what it is.
+
+Then they plot where it was photographed.
+All this data is plotted on a world map, that shows everywhere in the world they grows.
+
+After creating an account, all of your observations are in your account, and can be accessed for your future reference.
+
+To date, they have over 151,000,000 observations, of 431,785 species, by 6,692,461 people around the world.
+
+This whole app is sponsored by National Geographic and a few other organizations.
+
+It’s fun to be able to learn what you wonder about on your hikes.
+
+I take screenshots of 12 or so observation at a time, which makes it easier to access and use them to identify them when I need to.
+Keep in mind, they can identify any living organism.
+
+Log onto….[<https://www.inaturalist.org](https://www.inaturalist.org>/)
+
+InlandNWRoutes.com
+
 Chic Burge      David Crafton

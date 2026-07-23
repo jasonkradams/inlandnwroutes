@@ -8,6 +8,7 @@ categories:
   - Wildfire & Closures
 ---
 
+
 what does a rescue look like
 
 <!-- more -->
@@ -16,8 +17,8 @@ Let’s say you are hiking into a new lake or mountain top, with friends.
 On your way out, someone trip and hurt themselves.
 First, you must assess  your victim for any injuries, and determine the proper course of action.
 If needed, stop any bleeding, and assess any other possible injuries.
-Now let’s say you don’t have three bars on your phone. 
-There is an app that weights nothing and can alert rescue crews of your location.  
+Now let’s say you don’t have three bars on your phone.
+There is an app that weights nothing and can alert rescue crews of your location.
 It’s called AirFlare.com, and only cost $4.99 a YEAR. Please see BLOG #9.
 This app only sends dispatch your GPS coordinates. Do not move from this site, because that is where the rescuers are headed to.
 If you move, they may not be able to find you in a timely manner.
@@ -31,7 +32,7 @@ Or activate a search on the phone app…AirFlare.com. This app works without cel
 You’ve initiated a rescue crew to come and help you.
 
 Here’s what you do…
-Treat any bleeding wound immediately, and monitor how your victim's wound is acting. 
+Treat any bleeding wound immediately, and monitor how your victim's wound is acting.
 STOP THE BLEEDING. It’s why we carry the 14 ESSENTIALS.
 
 Then keep a close eye on the victim. If they go into shock, you must warm them.
@@ -42,6 +43,7 @@ Lay them down, and lift their legs above their heart.
 A good rule of thumb is D.O.T.S.
 
 D- DEFORMATION  of extremities, spine, neck, hips, arms and legs.
+
 O-OPEN WOUNDS. Treat for bleeding immediately. Other than a pulse and breathe in, controlling bleeding is essential..
 T-TENDERNESS. Check the victim very carefully. Examine all areas of tenderness for additional injuries.
 S-SWEELING. While checking for tenderness, take note of any area that shows any degree of swelling.
@@ -57,7 +59,7 @@ Then ride or walk to find you.
 From the second you push the button, to seeing a rescue crew can take many hours.
 PLEASE keep in mind, they are hurrying to get to you, but these things take time.
 
-For instance….in 2023, a friend got hurt while snowshoeing in the Stevens Peak area. 
+For instance….in 2023, a friend got hurt while snowshoeing in the Stevens Peak area.
 It took the S&R crew over 5 hours to get to the scene of the accident.
 Mullan is only 3.5 miles from the accident.
 
@@ -91,4 +93,5 @@ Chic          David
 
 |  |  |
 | --- | --- |
+
 |  |  |

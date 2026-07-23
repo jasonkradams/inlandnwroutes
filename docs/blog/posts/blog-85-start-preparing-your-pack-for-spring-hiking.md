@@ -8,6 +8,7 @@ categories:
   - Wildfire & Closures
 ---
 
+
 Hi Readers,
 As Winter begins to fade, Spring hiking is about to bloom.
 Below are some ideas for us all to consider this year.
@@ -18,7 +19,7 @@ After all, it is the very best playground we have.
 
 <!-- more -->
 
-Things to pack and do this year 
+Things to pack and do this year
 ​
 A) Plastic Grocery Bags
 In 2024 as I hiked into lakes to have dinner with a view, I came across three smoldering campfires.
@@ -26,7 +27,7 @@ It was scary, but when I realized these campfires were from the weekend, and I w
 In a sandwich size ziplock fold up a dozen grocery bags. Fold them to fit in a ziplock, then weight them to flatten and release air.
 Each bag weights about 6 grams, and can save a forest.
 
-B) But there’s more. 
+B) But there’s more.
 These light bags can hold pounds of your and others trash.
 It is now our job to clean up others messes.
 Does that sound gross to you?
@@ -37,7 +38,7 @@ The trail
 The trails we hike, take us to the most amazing and beautiful places.
 Caring for our trails must fall on us, the users.
 
-As you come upon downed twigs, branches, rocks, and other trail debris, use your poles to flick them off the trail. 
+As you come upon downed twigs, branches, rocks, and other trail debris, use your poles to flick them off the trail.
 Years ago, I didn’t, and tripped on it on the way down.
 
 If you find some downed trees that cross the trails, let the local hiking or other sports clubs know.
@@ -60,11 +61,11 @@ The reason I ask hikers to do this, is because these lands are our lands.
 If you come across messy campers, don’t say anything. Just hope they clean up after themselves.
 Confrontation in the mountains is ugly.
 
-See the previous blog #84 
+See the previous blog #84
 For trail organizations in our area.
 
 If you come across road closures, slides, floods, construction, or what ever will keep us from getting to the trailheads, email me.
-Please be very specific in your details. 
+Please be very specific in your details.
 Use the envelope at the bottom of each page on the website to contact me.
 Your input can help others. Or maybe you may enjoy others work.
 
@@ -75,7 +76,7 @@ If you don’t have a quality back up, you could be in peril.
 The above url is the Eastern Washington Orienteering Club.
 They offer classes and outings to practice your skills.
 Do not be embarrassed, Be safe.
-The use of map and compass does require a memory and practice. 
+The use of map and compass does require a memory and practice.
 But ask yourself…what’s your life worth?
 
 Try this….the next time you are on a hike, ask your fellow hikers to instantly point and stay pointing……north, or any of the other three directions.

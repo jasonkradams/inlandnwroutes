@@ -8,12 +8,13 @@ categories:
   - Trail Safety & Gear
 ---
 
+
 Because the weather is not favorable right now, it’s time to treat your gear for the snowy wet conditions.
 I have use the method below for many decades and it works.
 
 <!-- more -->
 
-First, log onto Gearaid.com, and order their REVIVEX DURABLE WATER REPELLENT. 
+First, log onto Gearaid.com, and order their REVIVEX DURABLE WATER REPELLENT.
 Buy their three pack, because you will eventually have to treat your hiking gear after Winter. And shipping will be less.
 
 Second, buy Arm & Hammer powder laundry soap.
@@ -30,7 +31,7 @@ When spraying your gear, do not use the whole bottle.
 A 16.9 ounce bottle will do several garments.
 Hold the bottle about 10 inches away as you spray.
 
-Something I do, is put on a plastic food grade glove and work the sprayed DWR into the material and seams. 
+Something I do, is put on a plastic food grade glove and work the sprayed DWR into the material and seams.
 Always treat the areas that collect snow, like top of your arms and legs, back, and seat, again after about 15 minutes.
 
 Once you are satisfied with the coverage, put your gear in the dryer on medium heat, for 30 to 45 minutes.

@@ -8,6 +8,7 @@ categories:
   - Winter Sports
 ---
 
+
 ​The Inland Pacific Northwest has many great fall hikes and fall colors.
 Below I will suggest some of the best fall color hikes with additional insights.
 
@@ -20,7 +21,7 @@ Cabinet mountain wilderness
 Lower & Upper Geiger Lakes & Lost Buck Pass
 <https://www.inlandnwroutes.com/geiger-llost-buck-pass.html>
 
-Lower Geiger Lake is an easy 2 miles and 1000verts. 
+Lower Geiger Lake is an easy 2 miles and 1000verts.
 The Upper Geiger Lake is just a mile further, with 600verts.
 But don’t stop there. Above you in a notch to the south is Lost Buck Pass. Here the trail merges with the Cabinet Divide Trail #360. If you walk south on this high ridge, the views of Wanless Lake below Engle Peak, fills your view.
 
@@ -32,7 +33,7 @@ Rock Lake & The Milwaukee Pass
 The unusual thing about Rock Lake, is that it sits below two peaks.
 But these two peaks are very close together. Hence a long narrow lake.
 To the north, up a long valley, sit Milwaukee Pass. Even hiking up half way, produces great views and photo ops, of Rock Lake.
-East of Rock Lake, is a peak called Ojibway. 
+East of Rock Lake, is a peak called Ojibway.
 What you will notice walking the west shore line, is how incredibly steep the walls are, right out of the lake.
 The hike up Trail #935 is gentle for about 3 miles, then it switchbacks gently to the lake.
 Trail #935 is 8.2 miles RT with 1708verts.
@@ -43,6 +44,7 @@ Harrison Lake
 <https://www.inlandnwroutes.com/harrison-lake--peak-7292-trial--217.html>
 
 Harrison Lake Trail # 217 is an easy 2.5 miles one way with 1435verts.
+
 Along the trail there are several viewpoints to stop and admire the Pack River Valley, and its surrounding peaks.
 Harrison Lake sits below the Selkirk Crest, that circles most of the lake.
 There are many options to extend your hike, listed on our website.
@@ -62,7 +64,7 @@ Lone Lake & the Upper Sanctuary
 
 Lone Lake sits below the most dynamic face of Stevens Peak.
 If you are a fall color enthusiast, the Upper Sanctuary is a place for you.
-Trail #138 climbs 2 miles with 1637verts. 
+Trail #138 climbs 2 miles with 1637verts.
 By walking around the west shore, and up over the waterfall, you will reach the Sanctuary in less than a mile and about 250verts gained.
 DO NOT MISS THIS LAKE AND ABOVE in the last week of September to the second week in Rocktober.
 
@@ -98,7 +100,7 @@ Once on this website, enter the place you are planning to go to, in the top left
 This will bring up a page that has the description of the upcoming week.
 These words are general descriptions of those days, but do not tell you the whole story.
 Scroll down to the green map with a darker green cursor.
-You can expand the map to see a more detailed area to get your forecast. 
+You can expand the map to see a more detailed area to get your forecast.
 By tapping on the lake, peak, or general area, it will show you the specific forecast for that spot.
 
 Now scroll down the HOME PAGE to the HOURLY WEATHER FORECAST, graph.

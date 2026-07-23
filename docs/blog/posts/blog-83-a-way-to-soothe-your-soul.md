@@ -8,6 +8,7 @@ categories:
   - Winter Sports
 ---
 
+
 If you are suffering from "The Winter Blues", there is relief.
 First, log onto our website, and go to MORE in the drop brown menu.
 Then choose WRITINGS.
@@ -42,8 +43,8 @@ Experience Nature’s high.
 
 chic. 8.12.2014
 
-Spring 
-Summer 
+Spring
+Summer
 and Fall,
 as nice as they are,
 are simply fillers

@@ -8,6 +8,7 @@ categories:
   - Winter Sports
 ---
 
+
 ​As Spring is about to turn into Winter, there are ways to see how the conditions are at your favorite ski resort or backcountry areas.
 
 <!-- more -->
@@ -34,7 +35,7 @@ But by using these three websites to educate yourself, they will at least tell y
 For additional information on all aspects of weather, log onto…..
 <https://www.inlandnwroutes.com/weather-thunderstorms-and-lightning.html>
 
-David snowboards, while I ski. 
+David snowboards, while I ski.
 We use these sites to get a better picture of the conditions we will encounter.
 
 Ben Franklin once said…
@@ -43,9 +44,9 @@ Be Weatherwise.
 
 "Turn off the news,
 go outside,
-​breathe, 
+​breathe,
 you were never meant
-to carry the burden 
+to carry the burden
 of the entire world."
 
 Unknown

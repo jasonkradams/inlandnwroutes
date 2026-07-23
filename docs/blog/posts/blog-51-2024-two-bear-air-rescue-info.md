@@ -8,12 +8,13 @@ categories:
   - Trail Safety & Gear
 ---
 
+
 Two Bear Air Rescue is a non-profit organization flying out of the Kalispell area, operating across Eastern Washington, Montana, Idaho, and beyond to assist in search and rescue missions at no cost to victims.
 
 <!-- more -->
 
 !!! info "Two Bear Air Video Feature"
-    Be sure to watch this video detailing Two Bear Air's capabilities and operations:  
+    Be sure to watch this video detailing Two Bear Air's capabilities and operations:
     <https://vimeo.com/921329656>
 
 Hi InlandNWRoutes Readers,
@@ -48,13 +49,18 @@ Below are several blog posts that I have written that relate to the above story.
 David and my goal is to inform our readers of what precautions need to go into the planning phase, the actual hike, and any scenario that may arise.
 
 * [Blog #27: Call 911 Only in an Emergency](call-911-only-in-an-emergency.md)
+
 * [Blog #9: AirFlare Rescue App for Your Phone](airflare-rescue-app-for-your-phone.md)
+
 * [Blog #13: The Importance of Carrying a Pack & 13 Essentials](the-importance-of-carrying-a-pack-13-essentials.md)
+
 * [Blog #19: What Does a Rescue Look Like?](what-does-a-rescue-look-like.md)
+
 * [Blog #23: Medical Information Card (MIC)](july-29th-2023.md)
+
 * [Blog #36: 13+ Essentials & More](september-21st-2023.md)
 
-If you would like to contact me, David has placed an envelope link at the bottom of every page, or you can email us directly at:  
+If you would like to contact me, David has placed an envelope link at the bottom of every page, or you can email us directly at:
 [info@inlandnwroutes.com](mailto:info@inlandnwroutes.com)
 
 Thank you for reading our website and our blogs.

@@ -8,6 +8,7 @@ categories:
   - Wildfire & Closures
 ---
 
+
 So you plan a hike to your favorite area.
 Once at the trailhead, you find the USFS has closed the area or restricted specific activities within the area.
 Do not blow this warning off.
@@ -30,6 +31,7 @@ Current closures are listed below, on our HOME PAGE.
 And to be sure our readers get the message, I’ve listed any closures orders under the events opening image.
 This all came about a few years ago when we drove 2.5 hours north, only to find that Boundary County was replacing a bridge a mere 400’ from the turn off.
 We had to get back to 95 and access the frontage road via Copeland, which is near the U.S.- Canadian boarder.
+
 It set our hike back 1.5 hours.
 Please plan your trip days in advance, then check InlandNWRoutes.com, and the USFS for any Forest ALERTS.
 Thank you, for being our readers,

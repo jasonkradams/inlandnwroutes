@@ -8,6 +8,7 @@ categories:
   - Trail Safety & Gear
 ---
 
+
 As you walk into an area, lake or onto a ridge top, notice the terrain you are waking in, along the way. As well as mid and far off terrain features., like mountains, mesas, power lines, etc.
 These observations can help you if you get misplaced.
 And if you get to a summit, you can ask your hiking partners if they see any features they pointed out on the hike in.
@@ -20,7 +21,7 @@ One of the hikers pulled out her phone and brought up "Peak Finder" the app. Pea
 
 She was amazed that I knew and had been on so many of the peaks.
 By doing this with your partner, you both can see "the lay of the land." It’s a real important thing to know.
-The next time you are on one of those far off peaks, you can get a greater perspective of the vast land before you. 
+The next time you are on one of those far off peaks, you can get a greater perspective of the vast land before you.
 And ID the mountains you have been on.
 
 A few of the things you want to be able to identify are….
@@ -28,8 +29,8 @@ Notice the direction you are walking in or walking away from.
 Ask your hiking partners if they can quickly tell you what direction they are headed.
 Occasionally ask your fellow hikers, which way is north.
 Even do this exercise at night. Using the stars to navigate is an important skill to learn.
-Years ago we used to stash our avalanche transceivers around our property. 
-One of us would, out of the blue, hand the other a transceiver, and say….an avalanche has occurred. 
+Years ago we used to stash our avalanche transceivers around our property.
+One of us would, out of the blue, hand the other a transceiver, and say….an avalanche has occurred.
 You have three minutes to find the transceiver.
 Don’t do this when she’s in the shower, tho.
 But think past transceivers, and on your next hike, play a game with your hiking partners.

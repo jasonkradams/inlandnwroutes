@@ -8,6 +8,7 @@ categories:
   - Trail Safety & Gear
 ---
 
+
 Winter hiking
 Hi readers,
 As Winters snow pile up, we all must practice good skills in the mountains.
@@ -27,6 +28,7 @@ The DWR products are people safe.
 Something I carry when in the Winter mountains, are automobile Road Flares. They burn at 1500°, and can start wet materials ablaze.
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*however, you must use extreme caution in carrying them.\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 I tape mine in a mailing tube, and it never gets put in a spot that may bend or break them.
+
 And I joy carry them outside my pack. That way bcan separate it from the act f needed.
 Please reread all the information in our RESOURCE section.
 You must know how to treat for cold injuries, and so much more.
@@ -54,7 +56,7 @@ Benjamin Franklin once said:
 "If you fail to plan, you are planning to fail."
 
 The very easiest way to overcome the Winter Blues, is to go out and really experience Winter in all its beauty.
-(start with The Finch Arboretum) 
+(start with The Finch Arboretum)
 But do not wear cotton anything. If they get wet, they zap your body heat in minutes.
 Look at GEAR-CHIC. In there are very good base layers that don’t cost like national brands.
 
@@ -64,7 +66,7 @@ Winter Wonderlands are all around us.
 
 You too can see and appreciate the wonders of Winter.
 
-Yahoooooo, 
+Yahoooooo,
 In the last 366 days, we have had 44,223 hits on our website.
 Thank you
 
