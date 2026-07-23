@@ -101,8 +101,6 @@ scenic water accesses.
 
 ## Photo Gallery
 
-<div class="gallery-grid" markdown>
-
 - ![Beehive Lake nestled under the granite walls of the Selkirk Crest](../assets/images/12192021802p.jpg)
 - ![Granite slabs and pine timber surrounding an alpine lake](../assets/images/20201028557p.jpg)
 - ![Reflections across a tranquil mountain tarn](../assets/images/121920218091p.jpg)
@@ -211,5 +209,3 @@ scenic water accesses.
 - ![Alpine lake tucked below granite cliffs](../assets/images/img-0826.jpg)
 - ![Lone Lake (left), Willow Ridge (center), Lower & Upper Stevens Lakes](../assets/images/3312022852p-copy.jpg)
 - ![Unnamed double lake in the upper basin](../assets/images/8152025439p.jpg)
-
-</div>
