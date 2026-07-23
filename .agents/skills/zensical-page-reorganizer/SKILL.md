@@ -126,7 +126,7 @@ When reorganizing a page identified as a blog post (located in `docs/blog/`, `do
 
 ### 6. Verification & Validation
 
-- **Markdown Linting**: Run `./scripts/lint.sh` or `pymarkdown --config .pymarkdownlnt.json scan <path/to/file.md>` to verify compliance (checking `MD009` trailing spaces, `MD022` heading blanks, and `MD032` list blanks).
+- **File-Level & Project Markdown Linting**: Run `just lint` (or `./scripts/lint.sh`) against every single file touched during reorganization to verify strict compliance (checking `MD009` trailing spaces, `MD013` line length <= 120, `MD022` heading blanks, and `MD032` list blanks).
 - **Site Build**: Execute `just build` or `mkdocs build` to verify that all Markdown extensions (admonitions, tables, superfences, glightbox) render correctly without build errors.
 - **HTML Anchor Verification**: Inspect generated HTML in `site/<page>/index.html` to confirm that `<a class="glightbox">` `href` paths resolved to correct relative URLs (`../assets/images/...`).
 
