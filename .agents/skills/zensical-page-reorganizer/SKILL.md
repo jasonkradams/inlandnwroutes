@@ -80,6 +80,8 @@ This skill provides a systematic workflow for refactoring unorganized, run-on, o
 - **Relative Image Paths Rule**: Always use relative paths for Markdown images (`assets/images/filename.jpg` or `../assets/images/filename.jpg`). **NEVER use root-leading slashes** (`/assets/images/filename.jpg`).
 - **Why**: `zensical.extensions.glightbox` constructs `<a class="glightbox" href="...">` anchors directly from `img.src`. A leading slash causes `href` to remain absolute (`/assets/images/...`), bypassing MkDocs' relative URL rewriter and breaking lightbox image modal previews on subpages.
 
+- **Caption Newline Display Rule**: Always ensure image tags and italicized captions (`_Caption text_`) render on separate block lines (`display: block; clear: both;` in `extra.css`). Small or portrait-oriented photos must never allow caption text to float or wrap inline next to the photo.
+
 ### 5. Blog Post Detection & Specialized Formatting
 
 When reorganizing a page identified as a blog post (located in `docs/blog/`, `docs/blog/posts/`, or containing blog frontmatter / title `Blog #...`):

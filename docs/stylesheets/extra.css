@@ -250,11 +250,30 @@ body,
   justify-content: center;
 }
 
-/* Standard inline image polish across all content */
-.md-typeset img {
+/* Standard image formatting: enforce block display so captions are always on a newline below photos */
+.md-typeset img,
+.md-typeset a.glightbox {
+  display: block;
+  clear: both;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  max-width: 100%;
   border-radius: 12px;
   box-shadow: var(--inw-card-shadow);
   transition: transform 0.3s ease;
+}
+
+.md-typeset p > a.glightbox {
+  display: block;
+  clear: both;
+}
+
+/* Captions directly under photos */
+.md-typeset p > em {
+  display: block;
+  clear: both;
+  margin-top: 0.35rem;
+  margin-bottom: 1.25rem;
 }
 
 /* ==========================================================================
