@@ -1,168 +1,155 @@
 ---
 tags:
-- Lakes
-- Easy
-- Day Hiking
-- Backpacking
-- Scrambling
+  - Lakes
+  - Easy
+  - Day Hiking
+  - Backpacking
+  - Scrambling
 stats:
-- label: Event Type
-  icon: hiking
-  value: Day hiking, backpacking, scrambling
-- label: Distance
-  icon: map-marker-distance
-  value: 4 miles RT
-- label: Elevation Gain
-  icon: elevation-rise
-  value: 500 verts
-- label: Difficulty
-  icon: speedometer
-  value: Easy
-- label: Maps
-  icon: map
-  value: IPNF, LOLO N.F., Burke, Thompson Pass topos
-- label: GPS
-  icon: crosshairs-gps
-  value: 47 °56’09’ n 115°75’10"
-- label: CdA River Ranger District
-  icon: pine-tree
-  value: 208.752.1221
-- label: Shoshone County Sheriff
-  icon: shield-account
-  value: CALL 911 FIRST or 208. 556. 1114
+  - label: Event Type
+    icon: hiking
+    value: Day hiking, backpacking, scrambling
+  - label: Distance
+    icon: map-marker-distance
+    value: 4.0 miles RT (Granite Peak Scramble ~5.5 miles RT)
+  - label: Elevation Gain
+    icon: elevation-rise
+    value: 500' gain to lake (1,800' gain to Granite Peak)
+  - label: Acres
+    icon: vector-square
+    value: '20.2'
+  - label: Difficulty
+    icon: speedometer
+    value: Easy to lake, strenuous off-trail scramble to Granite Peak
+  - label: Maps
+    icon: map
+    value: IPNF, Lolo N.F., Burke, Thompson Pass USGS topos
+  - label: GPS
+    icon: crosshairs-gps
+    value: Revett Lake 47°33’39"N 115°45’06"W (Granite Peak 47°33’12"N 115°45’48"W)
+  - label: Ranger District
+    icon: pine-tree
+    value: Coeur d'Alene River R.D. (208.769.3000)
+  - label: Shoshone County Sheriff
+    icon: shield-account
+    value: CALL 911 FIRST, or 208.556.1114
 notes:
-- Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+  - "[Idaho Panhandle National Forests Alerts](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)"
 ---
 
-# Revett Lake
-
-## Revett lake, id-mt boarder trail #9
+# Revett Lake & Granite Peak (Trail #9)
 
 ## Description
 
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an emergency ocurrs, evaluate your circumstances and call only if needed. This short hike is great
-for families. From the trailhead, hike a mellow trail SW to a where the trail crosses Cascade Creek. Look
-for up to 4 12' waterfall early in the year, on your left (SW). The trail above does a single switchback
-before descending 30' to the lake. You can walk the shore line all the way around the lake for views. From
-the SE shore, there is a good view of Granite Peak 6814' to the west towering above the lake. There are a
-few campsites off to the NE shore.
+Revett Lake is a pristine 20-acre subalpine lake nestled in a steep glacial cirque right along the Idaho-Montana
+border near Thompson Pass. The easy 2.0-mile trail to the lake makes it a popular destination for families,
+day hikers, and beginner backpackers.
 
-## Option #1
+From the Thompson Pass Trailhead, Trail #9 gently traverses southwest through dense cedar and pine timber. Early
+in the summer season, hikers pass Cascade Creek, which tumbles down a series of four cascading waterfalls.
+After a single switchback and a brief 30-foot descent, the trail reaches the crystal-clear outlet of Revett Lake.
+Primitive shoreline campsites are scattered along the northeast shore, framed by the towering granite cliffs of
+Granite Peak (6,814') to the west.
 
-Granite Peak. (See Granite Peak write up) Be aware, this is steep and exposed There are three main routes to
-the summit. The first is a serious scramble up from the NE corner of the lake. The terrain looks like
-stepped rock shelves. Above the scramble the terrain is grassy and not as steep. In about 200' you will
-access a ridge and turn left to the top. The summit is about 20' wide and 50' long. The first thing you see
-as you approach the top, are two very tall rock cairns. One is about 14' tall. To the SE of the larger
-cairn, there are slabs of rock made into lounge chairs. Have a seat and relax during lunch. Off the SE in
-the distance the view of Upper & Lower Stevens Lakes is head on. To the north is the massive mountains of
-the Cabinet Mountain Wilderness and the Proposed Scotchman Peak’s Wilderness. The easiest and safest descent
-is down the scree slope on the SW end of the lake. There is an 8 foot cliff band about 1/3 the way down to
-navigate.
+## Route Options & Scrambles
 
-## Option #2
+### Option 1: Granite Peak Scramble (6,814')
 
-Barton Creek Trail #140 starts up Granite Gulch about .1 miles along Forest Road #9 about 3.4 miles past the
-east end of Murray, Idaho.
+Granite Peak towers directly above the western shore of Revett Lake. This off-trail scramble gains 1,300' over
+steep, exposed rock shelves and scree slopes.
 
-It intersects with Trail #137 at the summit of Granite Peak.
+* **Ascent Route:** From the northwest corner of the lake, climb the stepped rock ledges. Above the scramble
+  band, the slope transitions to steep grassy meadows. Gain the ridgeline and turn left (south) to reach the 20'x50'
+  summit plateau.
+* **Summit Views:** The summit features two massive stone cairns (one standing 14' tall) and hand-built rock slab
+  lounge chairs. Sweeping vistas encompass Stevens Peak, Lone Lake, the Cabinet Mountains Wilderness, and the
+  Proposed Scotchman Peaks.
+* **Descent Route:** The safest descent follows the scree slope down to the southwest end of the lake, carefully
+  navigating an 8-foot cliff band one-third of the way down.
 
-Its a rarely used trail, but if solitude is your goal, this trail is for you. However, during hunting
-season, you might encounter hunters. The trail is 4.25 miles with about 3540 verts.
+### Option 2: Barton Creek Trail #140
 
-## Option #3
+For solitude, Barton Creek Trail #140 ascends Granite Gulch from Forest Road #9 (3.4 miles east of Murray, ID)
+and climbs 3,540' over 4.25 miles to intersect Trail #137 near the summit of Granite Peak.
 
-As described in the Blossom Lakes write up, you can climb the saddle between the Revett & Blossom Lakes and
-descend to the trailhead. It makes a good loop hike.
+### Option 3: Revett Lake to Blossom Lakes Loop
 
-## Option #4
+From the northeast end of Revett Lake, climb the saddle separating Revett and Blossom Lakes. From the pass,
+descend past Upper and Lower Blossom Lakes to return to the Thompson Pass Trailhead for a scenic loop hike.
 
-There's a cool loop hike you can do to get great views of the whole area. After climbing Granite Peak from
-Revett Lake, head SW to a low ridge that leads you over to the Idaho/Montana boarder. Turn right(S) down the
-boarder, and you find yourself above Pear Lake, walk about .3 of a mile to the Idaho Centennial Trail, and
-drop down to Pear Lake. Once at Pear Lake you can take one of two trails/routes to Blossom Lakes If you
-follow the Idaho Centennial Trail, you will get to Lower Blossom Lake. But if you do a bit of Chicwackin'
-you can get to Upper Blossom Lake.
+### Option 4: High Divide & Pear Lake Traverse
 
-## Option #5
-
-Starting at Revett Lake, scramble up to Granite Peak, and follow the route in OPTION #4, until you get to
-the Boarder, and turn left NE to the ridge between Revett and Blossom Lakes.
-
-Stay up on the ridge until you get even with the NE end of Revett Lake. Here, drop down the scree slopes to
-Trail #9 (Revett Lake Trail), and out to the parking area.
+From Granite Peak, traverse southwest along the low ridgeline to the Idaho-Montana border. Follow the border
+south above Pear Lake for 0.3 miles to intersect the Idaho Centennial Trail. Descend to Pear Lake and connect to
+Lower or Upper Blossom Lakes.
 
 ## Directions
 
-Drive I-90 east to the Kingston exit # 43, and turn left (north) over the freeway and up FR #9, also known
-as
+Take I-90 east to Exit #43 (Kingston). Turn left (north) onto Forest Road #9 (Coeur d'Alene River Road). Drive 21
+miles north to Prichard, then bear right (east) for 16 miles up Thompson Pass Road to the Idaho-Montana border.
+Park at the Thompson Pass summit lot; Trailhead #9 begins near the south corner of the parking area.
 
-the Coeur
+## Hazards & Safety Tips
 
-d'Alene River Road. Drive north for about 21 miles and bear right (east) at Pritchard, continue for about 16
-miles to Thompson Pass at the Idaho Montana boarder. Off to the right at the summit of the road, you will
-see a parking area. The trailhead is up a short road near the south corner of the parking area.
+The main trail to Revett Lake is safe and easy. However, the scramble to Granite Peak involves steep exposure,
+loose scree, and class 3 rock ledges. Helmets and off-trail scrambling experience are recommended.
 
-## Hazards
+## Nearby Attractions
 
-None to the lake. be extra cautious on all route to granite peak, and high options.
+Upper & Lower Blossom Lakes, Pear Lake, Coeur d'Alene River, Shadow Falls, Fern Falls, and Cube Iron Mountain.
 
-## Cool things close by
+## Refreshments & Dining (R & P)
 
-U & L Blossom Lakes, Pear Lake, the CDA River, and The Snake Pit.
+Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ & Saloon,
+and Wallace Brewing Co. in Wallace; Radio Brewing in Kellogg; The Snake Pit in Enaville; Moon Time in Coeur d'Alene.
 
-## R & P
+## Photo Gallery
 
-Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ &
-Saloon, Muchacho’s Tacos, Wallace Brewing Co., Radio Brewing, the Snake Pit, and Moon Time.
+![Easy and scenic trail approach to Revett Lake](assets/images/111120211020p.jpg)
+_Easy and scenic trail approach to Revett Lake._
 
-## Photo gallery
+![One of four cascading drops along Cascade Creek](assets/images/p327.png)
+_One of four cascading drops along Cascade Creek._
 
-### Picture (Image missing)
+![Revett Creek Falls tumbling over rock ledges](assets/images/p271.png)
+_Revett Creek Falls tumbling over rock ledges._
 
-![Picture](assets/images/p327.png)
+![Spectacular rock wall along the trail before the lake](assets/images/722025305p.jpg)
+_Spectacular rock wall along the trail before the lake._
 
-## One of four revett creek falls
+![Revett Lake eastern shoreline](assets/images/2021116-6-jpeg-1.jpg)
+_Revett Lake eastern shoreline._
 
----
+![Tranquil waters along the east shore of Revett Lake](assets/images/p258.png)
+_Tranquil waters along the east shore of Revett Lake._
 
-![Picture](assets/images/2021116-6-jpeg-1.jpg)
+![Hiker resting on the summit of Granite Peak near the stone cairns](assets/images/p331.png)
+_Hiker resting on the summit of Granite Peak near the stone cairns._
 
-## Revett lake east shore line
+![Granite Peak trail covered in early season snow](assets/images/p337.png)
+_Granite Peak trail covered in early season snow._
 
----
+![Trail #7 ridgeline path heading toward Burke Canyon](assets/images/p286.png)
+_Trail #7 ridgeline path heading toward Burke Canyon._
 
-![Picture](assets/images/p331.png)
+![Revett Lake viewed from the high ridge between Revett and Blossom Lakes](assets/images/2021116-7-jpeg-1.jpg)
+_Revett Lake viewed from the high ridge between Revett and Blossom Lakes._
 
-## Chris napping on granite peak
+![Looking down at Revett Lake from the Granite Peak ascent route](assets/images/p266.png)
+_Looking down at Revett Lake from the Granite Peak ascent route._
 
----
+![Relaxing along the lake shore with a dog and a book](assets/images/p267.png)
+_Relaxing along the lake shore with a dog and a book._
 
-![Picture](assets/images/p337.png)
+![Cascade Creek 4-tier waterfall in full summer flow](assets/images/722024308p.jpg)
+_Cascade Creek 4-tier waterfall in full summer flow._
 
-## Granite peak trail in snow
+![Rare large cluster of Mariposa Lilies along the trail](assets/images/722025319p.jpg)
+_Rare large cluster of Mariposa Lilies along the trail._
 
----
+!!! quote "Summit Peace on Granite Peak"
 
-![Picture](assets/images/p286.png)
-
-## The high trail #7 towards burke canyon
-
----
-
-![Picture](assets/images/2021116-7-jpeg-1.jpg)
-
-## Revett lake from ridge between revett & blossom lakes
-
----
-
-On top of Granite Peak amungst the massive rubble of scree, the trail has been defined by the separation of
-
-stones.
-
-Next to the two rock cairns, are large slabs stacked as back rests. As you sit comfortably on rock, the
-views of three states, two countries, are all around you. The songs of birds as they soar in the wind,
-brings peace. chic. 9.14.11
-
----
+    On top of Granite Peak amongst the massive rubble of scree, the trail has been defined by the separation of stones.
+    Next to the two rock cairns are large slabs stacked as backrests. As you sit comfortably on rock, the views of
+    three states and two countries surround you. The songs of birds as they soar in the wind bring peace.  
+    — Chic Burge (September 14, 2011)
