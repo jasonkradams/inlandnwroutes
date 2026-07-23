@@ -13,7 +13,7 @@
     },
     "MD033": {
       "enabled": true,
-      "allowed_elements": "div, span, iframe, p, br, a, img, table, tr, td, th, thead, tbody, !--"
+      "allowed_elements": "div, span, iframe, p, br, a, img, table, tr, td, th, thead, tbody, input, script, !--"
     },
     "MD041": {
       "enabled": false

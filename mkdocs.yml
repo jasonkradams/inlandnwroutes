@@ -58,6 +58,9 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - javascripts/extra.js
+
 not_in_nav: "blog/posts/*.md"
 
 plugins:
