@@ -126,13 +126,15 @@ When reorganizing a page identified as a blog post (located in `docs/blog/`, `do
 
 ### 6. Verification & Validation
 
-- **File-Level & Project Markdown Linting**: Run `just lint` (or `./scripts/lint.sh`) against every single file touched during reorganization to verify strict compliance (checking `MD009` trailing spaces, `MD013` line length <= 120, `MD022` heading blanks, and `MD032` list blanks).
+- **Non-Destructive File-Level & Project Markdown Linting**: Run `just lint` (or `./scripts/lint.sh <file.md>`) against every single file touched during reorganization to verify strict compliance (`MD009` trailing spaces, `MD013` line length <= 120, `MD022` heading blanks, `MD032` list blanks, `MD041` first line heading, `MD047` single trailing newline).
+- **Read-Only Scanner Guarantee**: Linting commands MUST run as pure, read-only scanners (`pymarkdown scan`). Never execute mutating regex pre-processors or destructive legacy scripts (`cleanup_markdown.py`) during lint runs.
 - **Site Build**: Execute `just build` or `mkdocs build` to verify that all Markdown extensions (admonitions, tables, superfences, glightbox) render correctly without build errors.
 - **HTML Anchor Verification**: Inspect generated HTML in `site/<page>/index.html` to confirm that `<a class="glightbox">` `href` paths resolved to correct relative URLs (`../assets/images/...`).
 
 ## Common Pitfalls
 
+- **Destructive Pre-processors**: Avoid invoking file-rewriting scripts during lint checks. Use `scripts/reorganize_all_docs.py` for structured formatting and keep linting strictly read-only.
 - **Boundary Collisions & Duplicate Walls**: When editing full pages with multiple sections, replace large contiguous blocks carefully or perform a single coherent rewrite of the file content to prevent duplicating legacy text walls below the edited section.
-- **Indentation in Admonitions**: All content inside an admonition box (lists, text, blockquotes) must be indented by exactly 4 spaces.
+- **Indentation in Admonitions**: All content inside an admonition box (lists, text, blockquotes) must be indented by exactly 4 spaces and preceded by a blank line if it starts a list.
 - **Preserving Details**: Ensure no original numbers, dates, place names, species, or technical terms are lost during reorganization.
 - **Broken Markdown Link Syntax**: Watch for multi-line link targets or squished `[Link 1](a.md) [Link 2](b.md)` entries and format them into clean, separate list items or table rows.
