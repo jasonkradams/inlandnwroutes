@@ -1,15 +1,10 @@
 ---
 title: "August 15th, 2023"
-
 date: 2023-08-15
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - General News
 ---
 

@@ -1,52 +1,37 @@
 ---
 tags:
-
 - Lakes
-
 - Difficult
-
 - Day Hiking
-
 - Backpacking
-
 - Equestrian
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, and equestrian
-
 - label: Distance
   icon: map-marker-distance
   value: varies, but 25 miles RT
-
 - label: Elevation Gain
   icon: elevation-rise
   value: 3400 verts
-
 - label: Difficulty
   icon: speedometer
   value: Difficult
-
 - label: Maps
   icon: map
   value: LOLO National Forest, Ninemile District, Bruin Hill, S. Patrick Peak, Schleswig
     Mountain topos
-
 - label: GPS
   icon: crosshairs-gps
   value: 46°54’29" n 114°48’12" w
-
 - label: Nine Mile Ranger District
   icon: pine-tree
   value: 406.626.5201
-
 - label: Mineral County Sheriff
   icon: shield-account
   value: 406.822.3555Lolo national forest/alerts
 notes:
-
 - https[://www.fs.usda.gov/alerts/lolo/alerts-notices](https://www.fs.usda.gov/alerts/lolo/alerts-notices)
 ---
 
@@ -91,7 +76,7 @@ The National Recreation Trail #738, Straight Peak, Cedar Peak, and Fish Lake.
 
 Any time you hike a 25 mile route, there are always hazards. Be careful on all sections of this hike, especially the numerous creek crossings.
 
-## R & p
+## R & P
 
 Hike in the Wall Lodge.
 

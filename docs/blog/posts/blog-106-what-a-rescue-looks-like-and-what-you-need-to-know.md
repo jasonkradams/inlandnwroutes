@@ -1,15 +1,10 @@
 ---
 title: "Blog #106: What a rescue looks like and what you need to know."
-
 date: 2026-05-05
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Trail Safety & Gear
 ---
 

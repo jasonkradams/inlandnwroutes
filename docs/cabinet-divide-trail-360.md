@@ -1,49 +1,35 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 - Difficult
-
 - Day Hiking
-
 - Backpacking
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking
-
 - label: Distance
   icon: map-marker-distance
   value: up to 16 miles RT, of which 6 miles is within the CMW
-
 - label: Elevation
   icon: terrain
   value: Varies depending on access trailhead
-
 - label: Difficulty
   icon: speedometer
   value: Difficult
-
 - label: Maps
   icon: map
   value: Kootenai N.F., Goat Peak, Silver Butte topos
-
 - label: GPS
   icon: crosshairs-gps
   value: 48°00’54" n 115°3’46" w
-
 - label: Cabinet Ranger District
   icon: pine-tree
   value: 406.827.3533
-
 - label: Lincoln County Sheriff
   icon: shield-account
   value: 911 or 406.293.4112
 notes:
-
 - Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 
@@ -74,7 +60,7 @@ From the north, you can access the trail from above the Upper Geiger Lake Trail 
 
 Bear Lake, Baree Lake, Wanless Lake, Clark Fork River, Trout Creek and the Proposed Scotchman Peak's Wilderness
 
-## R & p
+## R & P
 
 Henry’s in Libby by the Rosauers, Clark Fork Pantry, Eicharts, Mr Sub & Jalapeños in Sandpoint
 

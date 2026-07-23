@@ -1,39 +1,28 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 - Extremely Strenuous
-
 - Scrambling
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Scrambling
-
 - label: Distance
   icon: map-marker-distance
   value: 11.1 miles RT
-
 - label: Elevation Gain
   icon: elevation-rise
   value: 5208’
-
 - label: Difficulty
   icon: speedometer
   value: Extremely strenuous
-
 - label: Maps
   icon: map
   value: Cranbrook. 82 G/NE-NW
-
 - label: GPS
   icon: crosshairs-gps
   value: Trailhead. 49°38’01"N 115°30’42"W
 notes:
-
 - Summit. 49°38’47"N 115°29’04"W
 ---
 
@@ -86,7 +75,7 @@ This is a serious hike/scramble. However, weather and rock fall are a big concer
 Cranbrook, Kimberly, Purcell Wilderness P.P., Goat Range P.P., Valhalla P.P.,
 The Rockies P.P., and of course, the home of Kokanee Beer in Creston, B.C.
 
-## R & p
+## R & P
 
 N/A
 

@@ -1,15 +1,10 @@
 ---
 title: "Blog #18: Using your phone to navigate a hike"
-
 date: 2023-07-21
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Trail Safety & Gear
 ---
 

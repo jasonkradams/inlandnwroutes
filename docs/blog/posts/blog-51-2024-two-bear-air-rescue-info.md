@@ -1,15 +1,10 @@
 ---
 title: "Blog #51: 2024 Two Bear Air Rescue Info"
-
 date: 2024-03-15
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Trail Safety & Gear
 ---
 

@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2128’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Maps
   icon: map
   value: IPNF, Fernan lake, Mt. CDA topos
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°37’51" n 116°40’51" w
-
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300
@@ -50,7 +42,7 @@ When you level out on Yellowstone, the left turn is onto S. Landing Road, and is
 
 Wolf Lodge Bay, Beauty Bay, Moscow Bay, and the back waters to the Wolf Lodge Creek, which in its self is a nice paddle away from power boats.
 
-## R & p
+## R & P
 
 Trail’s End Brewery, Mexican Food Factory, Moon Time, and Franklins Hoagies.
 
@@ -58,12 +50,13 @@ Trail’s End Brewery, Mexican Food Factory, Moon Time, and Franklins Hoagies.
 
 ## Plan your trip
 
-[Click for Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
+[Click for Current NOAA Weather Conditions](https://forecast.weather.gov/MapClick.php?lat=47.6153&lon=-116.6789)
+
+!!! Warning
+    - Please everyone...heed this health alert
+
+    ![Picture](assets/images/5132025306p-2.jpg)
 
 ## Photo gallery
 
-## Please everyone...heed this health alert
-
-![Picture](assets/images/5132025306p-2.jpg)
-
-## No images available yet. to contribute, contact chic
+> _No images available yet. to contribute, contact Chic_

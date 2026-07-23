@@ -1,31 +1,23 @@
 ---
 tags:
-
 - Waterfalls
-
 stats:
-
 - label: Waterfall
   icon: waterfall
   value: 'elk creek falls national recreation area trail #740'
-
 - label: Drop
   icon: arrow-collapse-down
   value: VARIES FROM 20' TO ABOUT 70', with a total of 140 '
-
 - label: Waterfall Type
   icon: waterfall
   value: Slide, tiered, plunge
-
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: Lower 4 Falls are about a mile. Middle Falls is about .3 of a mile, and the
     upper falls is about .4 miles
-
 - label: Maps
   icon: map
   value: Clearwater National Forest, and the Palouse Ranger District. 208.875.1131
-
 - label: GPS
   icon: crosshairs-gps
   value: 46°76’62" n 116°1820" w
@@ -84,7 +76,7 @@ There is another falls wettish from Elk Creek called Bull Run Falls, bit I have 
 All waterfalls are a hazard, due to their slippery nature. always be extra careful near any waterfall.
 I can't steress enough. keep your children away from the edges of these waterfalls view points.
 
-## R & p
+## R & P
 
 NA
 

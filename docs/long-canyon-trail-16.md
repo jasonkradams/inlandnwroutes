@@ -1,54 +1,38 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 - Difficult+
-
 - Hike
-
 - Backpack
-
 - Mountain Bike
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Hike, Backpack and Mountain Bike
-
 - label: Distance
   icon: map-marker-distance
   value: 19 miles one way (seems like A LOT MORE). (Pyramid Pass 2.7 miles and 1300
     vents
-
 - label: Elevation
   icon: terrain
   value: 4750'+ gain or loss
-
 - label: Difficulty
   icon: speedometer
   value: Difficult+
-
 - label: Maps
   icon: map
   value: 'IPNF-Kaniksu N. F., USGS: Smith Peak, Pyramid Peak, Shorty Peak'
-
 - label: GPS
   icon: crosshairs-gps
   value: n48° 57’ 20.7" w116° 32’ 43.3"
-
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 2-8.267.5561
-
 - label: Boundary County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.267.3151
 notes:
-
 - Idaho panhandle national forest/alerts
-
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -86,7 +70,7 @@ Long hard ups below Pyramid Pass, and then a long hard up above the pass. There 
 
 Pyramid Peak & Lake, Parker Ridge, Long Mountain Lake & Peak, Kootenai National Wildlife Refuge, the Purcell Trench, and Bonners Ferry.
 
-## R & p
+## R & P
 
 Jalapeños, Mr. Sub, Burger Express, Eicharts in Sandpoint
 

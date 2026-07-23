@@ -1,15 +1,10 @@
 ---
 title: "Blog #88: Miscellaneous"
-
 date: 2025-05-10
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Wildfire & Closures
 ---
 

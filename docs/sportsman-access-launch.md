@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: up to 7 miles one way.
-
 - label: Elevation
   icon: terrain
   value: 2239’
-
 - label: Length and Acreage
   icon: vector-square
   value: about 7 miles & 3800 acres.
-
 - label: Maps
   icon: map
   value: Hayden Lake, and Athol topos
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°48’40" n. 116°41’50" w
-
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300
@@ -49,7 +41,7 @@ From CDA, drive north on Hwy 95 to Lancaster. Turn right (East) for 3.6 miles, p
 
 Canfield Mountain, Spades Lookout, Mokins Slough and camp ground.
 
-## R & p
+## R & P
 
 Rustler’s Roost for breakfast, and the Porch in Hayden. In CDA is the Mexican Food Factory, Franklins Hoagies, and the Trails End Brewery.,
 

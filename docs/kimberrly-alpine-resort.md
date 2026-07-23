@@ -1,33 +1,24 @@
 ---
 tags:
-
 - Winter & Skiing
-
 stats:
-
 - label: Phone
   icon: phone
   value: 250.427.0788
-
 - label: Acres
   icon: vector-square
   value: 1800+
-
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 156"
-
 - label: Base Elevation
   icon: terrain
   value: 4035'
-
 - label: Verts
   icon: arrow-expand-vertical
   value: 2465'
 notes:
-
 - Ski kimberrly.com
-
 - Summit elevation" 6500'
 ---
 

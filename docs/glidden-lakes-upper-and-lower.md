@@ -1,53 +1,36 @@
 ---
 tags:
-
 - Lakes
-
 - Easy
-
 - Day Hike
-
 - Backpacking
-
 - Backcountry Skiing
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hike, backpacking, backcountry skiing
-
 - label: Distance
   icon: map-marker-distance
   value: Upper 3.2 miles RT. Lower lake you drive to.
-
 - label: Elevation
   icon: terrain
   value: minimal
-
 - label: Difficulty
   icon: speedometer
   value: Easy
-
 - label: Maps
   icon: map
   value: IPNF, Lolo N.F., Cooper Gulch topo
-
 - label: GPS
   icon: crosshairs-gps
   value: Lower Lake. 47°31’05" N 115°43’45" W
-
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. CALL 911 FIRST or 208.769.3000
 notes:
-
 - acres (lower) 14.2 (upper) 18
-
 - Upper Lake. 47°31’08" N 115°43’05" W
-
 - Idaho panhandle national forest/alerts
-
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -99,7 +82,7 @@ None noticeable to the lakes. However, if you go off trail, have the appropriate
 
 Beautiful Burke Canyon, scenic and very photogenic (look for the cool rock walls above Burke), historic Wallace, the Lookout Pass Ski Area, the Trail of the CDA’s, and the Route of the Hiawatha.
 
-## R & p
+## R & P
 
 Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ & Saloon, Muchacho’s Tacos, and the Wallace Brewing Co. Radio Brewing in Kellogg. The Snake Pit north of Kingston. Moon Time & The Mexican Food Factory in CDA.
 

@@ -1,22 +1,16 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2067’
-
 - label: Length and Acreage
   icon: vector-square
   value: 65 miles long & 14 Square miles or 88,008 acres, and 125 mikes of shore line.
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°6’22" n 126°32’29 w
@@ -41,7 +35,7 @@ Parking is always a problem, so be patient
 
 Sand Creek, P.O.Lake, the Long Bridge 1 mile walk. As you cross under the RR tracks heading towards the park, take a sharp left turn onto Railroad Depot Road to the end. There you will find the lakeside P.O. Bay Trail. It goes all the way to the town of Ponderay.
 
-## R & p
+## R & P
 
 Mr. Sub, Eichardt’s, Jalapeños in Sandpoint. And the Burger Express near Dover to the west.
 

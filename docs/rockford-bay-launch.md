@@ -1,26 +1,19 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2128’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Maps
   icon: map
   value: IPNF., Rockford Bay topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°30’31" n 116°53’59" w
@@ -47,7 +40,7 @@ The launch is just past the marina.
 
 Sun Up Bay, Windy Bay, and the Harrison Slough
 
-## R & p
+## R & P
 
 Trails End Brewery, Franklins, Moon Time, Mexican Food Factory
 

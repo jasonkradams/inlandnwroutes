@@ -1,29 +1,22 @@
 ---
 tags:
-
 - Winter & Skiing
-
 stats:
-
 - label: Genesis Name
   icon: book-open-variant
   value: Ceanothus velutinus
-
 - label: Distribution
   icon: earth
   value: Snowbrush is found from British Columbia and Alberta south to California
     and east to South Dakota and Colorado.
-
 - label: Season
   icon: calendar
   value: Blooms May & June. Flowers late June thyru August
-
 - label: Medical Use
   icon: medical-bag
   value: A boil of this plant is **used to induce sweating as a treatment for colds
     and fevers**. The inner root bark is used as a medicine for treating lymphatic
     disorders, ovarian cysts, fibroid tumors, and tonsillitis.
-
 - label: Features
   icon: information-outline
   value: Snowbrush is easy to identify by its shiny, often sticky, evergreen leaves
@@ -32,7 +25,6 @@ stats:
     sticky foliage of this 3-5 ft. broadleaf evergreen shrub. Snowbrush’s stems are
     stout and much-branched, lending a spreading, round-topped habit. The entire plant
     is pleasantly aromatic.
-
 - label: Leaves
   icon: leaf
   value: Glossy, evergreen leaves have a heavy, spicy-resinous fragrance when crushed
@@ -44,7 +36,6 @@ stats:
     to prevent excess water loss. A pair of stipules (leaf-like appendages), each
     1 mm long, attach to stems at leaf stalks
 notes:
-
 - Snowbrush is a member of the buckthorn family (family Rhamnaceae), which includes
   shrubs, woody vines, and small to large trees (rarely herbs). There are about 700
   species worldwide.

@@ -1,26 +1,19 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2067’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Maps
   icon: map
   value: IPNF, Packsaddle Mountain topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°14’20" n 116°17’36" w
@@ -44,7 +37,7 @@ From Sandpoint, take Hwy 200 towards Clark Fork. When you come next to the Hope 
 
 The north shore of Pend Orielle Lake, Cottage Island, Pearl Island, Warren Island, Memaloosa Island, and Samowen Camp Grounds
 
-## R & p
+## R & P
 
 Mr. Sub! Eicharts, Jalapeños, and Burger Express, in Sandpoint.
 

@@ -1,46 +1,32 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 - Easy
-
 - Day Hiking
-
 - Nature Walks
-
 - An Auto Tour
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, nature walks, and an auto tour
-
 - label: Distance
   icon: map-marker-distance
   value: varies depending n which trail you choose
-
 - label: Elevation
   icon: terrain
   value: 110 verts
-
 - label: Difficulty
   icon: speedometer
   value: Easy
-
 - label: Maps
   icon: map
   value: T.N.W.R. Brochure , Cheney topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 48°26’32" n 117°32’05" w
-
 - label: Managing Agency
   icon: domain
   value: u.s.f.&w service. 509.235.4723
-
 - label: Spokane County Sheriff
   icon: shield-account
   value: CALL 912 FIRST or 509.477.2240
@@ -78,7 +64,7 @@ Wood ticks are present, so tuck your pant legs into your socks. And physically c
 
 The Columbia Plateau Trail, Cheney, the Eastern Washington University, and Lenny's Italian Restaurant.
 
-## R & p
+## R & P
 
 Lenny’s in Cheney
 

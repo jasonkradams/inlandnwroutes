@@ -1,15 +1,10 @@
 ---
 title: "Blog #75: Technical clothing & waterproofing"
-
 date: 2024-10-16
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Trail Safety & Gear
 ---
 

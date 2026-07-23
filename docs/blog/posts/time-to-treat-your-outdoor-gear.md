@@ -1,15 +1,10 @@
 ---
 title: "Blog #40: Time to treat your outdoor gear & spokane county conservation futures properties"
-
 date: 2023-11-04
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Trail Safety & Gear
 ---
 

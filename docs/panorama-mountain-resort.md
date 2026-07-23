@@ -1,35 +1,26 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 stats:
-
 - label: Phone
   icon: phone
   value: 250.342.6941
-
 - label: Acres
   icon: vector-square
   value: '2975'
-
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 204"
-
 - label: Summit Elevation
   icon: terrain
   value: 8038'
-
 - label: Base Elevation
   icon: terrain
   value: 3773'
-
 - label: Verts
   icon: arrow-expand-vertical
   value: 4265'
 notes:
-
 - Panoramaresort.com
 ---
 

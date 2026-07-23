@@ -1,15 +1,10 @@
 ---
 title: "Blog b#35. learn to observe your surroundings"
-
 date: 2023-09-21
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Trail Safety & Gear
 ---
 

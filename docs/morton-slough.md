@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2066’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Maps
   icon: map
   value: IPNF, Morton Topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°10’ 50" n 116°42’52" w
-
 - label: Bonner County Sheriff
   icon: shield-account
   value: 208.263.8417
@@ -53,7 +45,7 @@ please drive slowly as you descend towards duford road.
 
 Round Lake, Morton Slough on the back side of its peninsula, Laclede Climbing Area, and the Riley Creek Recreation Area.
 
-## R & p
+## R & P
 
 In Sandpoint, Burger Express, Mr Sub, Eichardt’s, and Jalapeñoss
 

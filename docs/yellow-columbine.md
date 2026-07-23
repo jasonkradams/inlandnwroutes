@@ -1,34 +1,26 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Genesis Name
   icon: book-open-variant
   value: Aquilegia flavescent
-
 - label: Distribution
   icon: earth
   value: Alaska and the Pacific North West including Utah & New Mexico
-
 - label: Season
   icon: calendar
   value: June thru August
-
 - label: Medical Use
   icon: medical-bag
   value: Yellow columbine has been reported to be an antispasmodic to induce sweating
     and to resolve abnormal growths such as tumors. The seed has been used to treat
     lice in the hair.
-
 - label: Edibility
   icon: food-apple
   value: Yellow columbine has been reported to be an antispasmodic to induce sweating
     and to resolve abnormal growths such as tumors. The seed has been used to treat
     lice in the hair.
-
 - label: Features
   icon: information-outline
   value: Several stems and basal leaves form a bushy perennial columbine one to three
@@ -40,11 +32,9 @@ stats:
     are only two centimeters long and sixteen millimeters wide. Spurs range from less
     than four to more than ten centimeters in length, with four to nine centimeters
     most common.
-
 - label: Leaves
   icon: leaf
   value: The stems are long with three long narrow leaves that protrude from the stem.
-
 - label: Fruits
   icon: fruit-cherries
   value: Columbine fruits are **cylindrical pods** that open along the inner side,

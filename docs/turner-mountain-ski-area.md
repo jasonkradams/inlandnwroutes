@@ -1,35 +1,26 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 stats:
-
 - label: Phone
   icon: phone
   value: 406.293.2468
-
 - label: Acres
   icon: vector-square
   value: 400+-
-
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 200"
-
 - label: Summit Elevation
   icon: terrain
   value: 5952'
-
 - label: Base Elevation
   icon: terrain
   value: 3842'
-
 - label: Verts
   icon: arrow-expand-vertical
   value: 2110'
 notes:
-
 - Skiturner.com
 ---
 

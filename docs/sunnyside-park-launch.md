@@ -1,27 +1,20 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2067’
-
 - label: Length and Acreage
   icon: vector-square
   value: 65 mikes long, 148 square miles or 88,008 acres, 125 miles of shore line
     & 1150 feet deep.
-
 - label: Maps
   icon: map
   value: IPNF, Elmira topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°16’46" n 126023’59" w
@@ -46,7 +39,7 @@ After crossing the Long Bridge, take the Hwy 200, Clark Fork exit to Hwy 200. Dr
 
 Pack River & Delta, Pack River Wildlife Management Area, and Trestle Creek, and 4 Islands to paddle around.
 
-## R & p
+## R & P
 
 Mr. Sub, Eichardt’s, Jalapeños and the Burger Express
 

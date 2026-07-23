@@ -1,31 +1,23 @@
 ---
 tags:
-
 - Winter & Skiing
-
 stats:
-
 - label: Phone
   icon: phone
   value: 250.498.4086
-
 - label: Acres
   icon: vector-square
   value: 360+240 glades
-
 - label: Summit Elevation
   icon: terrain
   value: 6995'
-
 - label: Base Elevation
   icon: terrain
   value: 5665'
-
 - label: Verts
   icon: arrow-expand-vertical
   value: 1300'
 notes:
-
 - Baldyresort.com
 ---
 

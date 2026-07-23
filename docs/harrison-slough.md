@@ -1,26 +1,19 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2128’
-
 - label: Maps
   icon: map
   value: Plummer NE Topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°27’57" n 116°45’53" w
-
 - label: Bonner County Sheriff
   icon: shield-account
   value: 208.263.8417
@@ -46,7 +39,7 @@ Stay on I-90 over the 4th of July Pass to the Rose Lake exit Hwy 3. Drive south 
 
 The CDA River, Harrison, Trail of the CDA’s, the Chain Lakes along Hwy 3, and Anderson Lake.
 
-## R & p
+## R & P
 
 NA
 

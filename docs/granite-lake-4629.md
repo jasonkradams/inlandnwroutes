@@ -1,57 +1,40 @@
 ---
 tags:
-
 - Lakes
-
 - Hiking
-
 - Backpacking
-
 - Scrambling
-
 - Ice Climbing
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Hiking, backpacking, scrambling, and ice climbing.
-
 - label: Distance
   icon: map-marker-distance
   value: 12 miles RT
-
 - label: Elevation Gain
   icon: elevation-rise
   value: 1400' gain
-
 - label: Acres
   icon: vector-square
   value: '56.7'
-
 - label: Difficulty
   icon: speedometer
   value: Difficult, but harder during spring runoff.
-
 - label: Maps
   icon: map
   value: Kootenai N.F., Treasure Mt., Snowshoe Peak
-
 - label: GPS
   icon: crosshairs-gps
   value: 48°15’10"n 115°41’20"w
-
 - label: Ranger District
   icon: pine-tree
   value: Libby R.D. 406.293.7333
-
 - label: Lincoln County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.293.4112
 notes:
-
 - Kootenai national forest/alerts
-
 - <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 
@@ -79,7 +62,7 @@ The most hazardous part of this hike is the creek crossing, especially in the sp
 
 Historic Libby, Montana, Leigh Lake, Snowshoe Peak, Upper & Lower Geiger Lakes with Lost Buck Pass above, A Peak, two of the largest Douglas Firs in Montana are located near the back of the lake. In 2016 during our Summer Outing, member Chuck Huber and his hiking team found dozens of Morel Mushrooms along this trail.
 
-## R & p
+## R & P
 
 Kaiju Bar & Grill in Libby.     For a 1950’s dining experience, stop by Henry’s. It is located close to the Roseaurs, Pizza Hut, in Libby, Clark Fork Pantry & Squeeze In in Clark Fork. , Eicharts, Mr Sub & Jalapeños in Sandpoint.
 In Libby, try The Shed

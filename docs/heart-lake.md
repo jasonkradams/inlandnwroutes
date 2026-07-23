@@ -1,53 +1,37 @@
 ---
 tags:
-
 - Lakes
-
 - Moderate
-
 - Day Hiking
-
 - Backpacking
-
 - Equestrian
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, and equestrian.
-
 - label: Distance
   icon: map-marker-distance
   value: 6 miles RT
-
 - label: Elevation Gain
   icon: elevation-rise
   value: 1295 verts
-
 - label: Difficulty
   icon: speedometer
   value: moderate
-
 - label: Maps
   icon: map
   value: LOLO N.F. Superior District, Straight Peak NW, Hoodoo Pass topos
-
 - label: GPS
   icon: crosshairs-gps
   value: Trailhead 46°59’02" N 114°58’43" W
-
 - label: Superior Ranger District
   icon: pine-tree
   value: 406.822.4233
-
 - label: Mineral County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.822.3555
 notes:
-
 - Lolo national forest/alerts
-
 - https[://www.fs.usda.gov/alerts/lolo/alerts-notices](https://www.fs.usda.gov/alerts/lolo/alerts-notices)
 ---
 
@@ -80,7 +64,7 @@ Diamond Lake, Cliff Lake & Eagle Cliff Peak, St. Joe Wild and Scenic River, Ward
 The hike to Heart and Pearl Lakes are pretty straight toward.
 The State Line National Recreation Trail #738 is a little more technical, with scree and route finding skills.
 
-## R & p
+## R & P
 
 NA
 

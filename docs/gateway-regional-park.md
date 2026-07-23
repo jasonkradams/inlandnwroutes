@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2030'
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Maps
   icon: map
   value: Spokane County Conservation Futures
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°41'53" n 117°02'29" w
-
 - label: Spokane County Sheriff
   icon: shield-account
   value: 509.477.2240
@@ -51,7 +43,7 @@ Take I-90 to the last Washington State exit just past the Liberty Lake exit. Tur
 
 Spokane River Washington & Idaho, Scraps Dog Park, Liberty Lake -State Line Trail, the Washington Centennial Trail, Liberty Lake, Q'emlin Park, Post Falls, and Hauser Lake.
 
-## R & p
+## R & P
 
 NA
 

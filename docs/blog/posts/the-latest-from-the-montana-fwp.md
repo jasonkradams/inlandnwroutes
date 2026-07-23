@@ -1,15 +1,10 @@
 ---
 title: "#32 the latest from the montana fish, wildlife & parks"
-
 date: 2023-09-06
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Flora & Wildlife
 ---
 

@@ -1,30 +1,21 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 - Easy
-
 - Flat Water Paddling
-
 stats:
-
 - label: Event Type
   icon: kayaking
   value: Flat Water Paddling
-
 - label: Distance
   icon: map-marker-distance
   value: 5 miles RT
-
 - label: Elevation
   icon: terrain
   value: 2,067'
-
 - label: Difficulty
   icon: speedometer
   value: Easy
-
 - label: GPS
   icon: crosshairs-gps
   value: n??° ??’ ??.?" w???° ??’ ??.?"
@@ -44,7 +35,7 @@ stats:
 
 ---
 
-## R & p
+## R & P
 
 ---
 

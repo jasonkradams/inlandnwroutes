@@ -1,42 +1,30 @@
 ---
 tags:
-
 - Lakes
-
 - Easy, But Consult Hazards.
-
 - Flat Water Paddling
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Flat Water Paddling
-
 - label: Distance
   icon: map-marker-distance
   value: 5+ miles RT
-
 - label: Elevation
   icon: terrain
   value: 2,057’
-
 - label: Acres
   icon: vector-square
   value: 94,720
-
 - label: Difficulty
   icon: speedometer
   value: Easy, but consult HAZARDS.
-
 - label: Maps
   icon: map
   value: Farragut S. P., Idlewilde Bay, Bernard Peak topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°56’56" n 116°30’14" w
-
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300
@@ -72,7 +60,7 @@ Do not let the winds hit your boat broadside, It can blow you over.
 
 ---
 
-## R & p
+## R & P
 
 Rustler’s Roost in Hayden on 95. In CDA, Mexican Food Factory, Franklin’s Hoagies, and Moon Time
 

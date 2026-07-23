@@ -1,53 +1,37 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 - Easy
-
 - Day Hike
-
 - Backpack
-
 - Fire Lookout Rental
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hike, backpack, fire lookout rental
-
 - label: Distance
   icon: map-marker-distance
   value: 1.3 miles one way from gate. Check to see if you can get a key for the gate.
-
 - label: Elevation
   icon: terrain
   value: 500 verts from gate to lookout
-
 - label: Difficulty
   icon: speedometer
   value: Easy
-
 - label: Maps
   icon: map
   value: IPNF, Pond Peak topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°47’52" n 116°00’21" w
-
 - label: Ranger District
   icon: pine-tree
   value: CDA River vR.D. 208.769.3000
-
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
 notes:
-
 - Idaho panhandle national forest/alerts
-
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -78,7 +62,7 @@ Way too many incredible views. You. may become addicted to fire lookout rentals.
 
 Shadow Falls, Fern Falls, Continental Falls, the CDA River North N.R.T., Spion Kop Rocks, Cathedral Rocks, and Jordan Camp.
 
-## R & p
+## R & P
 
 Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ & Saloon, Wallace Brewing Co.,  Muchachos Tacos in Wallace. Radio Brewing in Kellogg. The Snake Pit, north of Kingston. The Moon Time & The Mexican Food Factory in CDA
 

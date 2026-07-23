@@ -1,35 +1,26 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Phone
   icon: phone
   value: 509.328.4725
-
 - label: Acres
   icon: vector-square
   value: '530'
-
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: '300'
-
 - label: Summit Elevation
   icon: terrain
   value: 5670'
-
 - label: Base Elevation
   icon: terrain
   value: 4545'
-
 - label: Verts
   icon: arrow-expand-vertical
   value: '1125'
 notes:
-
 - Bluewood.com
 ---
 

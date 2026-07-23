@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: Varies
-
 - label: Elevation
   icon: terrain
   value: 2125’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Maps
   icon: map
   value: IPNF, Post Falls Topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°41’32" n 116°55’08" w
-
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300
@@ -51,7 +43,7 @@ From I-90 and the Post Falls, take the Spokane Street exit and drive over the Sp
 
 Q’Emlin Park, Post Falls Dam and Park and climbing rocks
 
-## R & p
+## R & P
 
 Franklins Hoagies, the Moon Time, the Mexican Food Factory, and the Trails End Brewery.
 

@@ -1,46 +1,32 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 - Moderate
-
 - Day Hiking
-
 - Backpacking
-
 - Equestrian
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, equestrian
-
 - label: Distance
   icon: map-marker-distance
   value: 11 miles RT
-
 - label: Elevation Gain
   icon: elevation-rise
   value: 3429 verts
-
 - label: Difficulty
   icon: speedometer
   value: moderate
-
 - label: Maps
   icon: map
   value: IPNF, CDA River Ranger District.
-
 - label: GPS
   icon: crosshairs-gps
   value: trailhead 47°38’54" N 116°07’13" W.
-
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
-
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
@@ -73,7 +59,7 @@ CDA River, Bumblebee Campgrounds, Trail #17 Graham Ridge, Fern & Shadow Falls, L
 
 Trail #33 to Graham Mountain is a 5.5 mile trail that climbs steadily on the same aspect to the summit. In the spring, there are several creek crossings that may be difficult.
 
-## R & p
+## R & P
 
 The Snake Pit, and the Radio Brewery in Kellogg,
 

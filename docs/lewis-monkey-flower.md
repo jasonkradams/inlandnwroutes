@@ -1,34 +1,25 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Genesis Name
   icon: book-open-variant
   value: Mimulus lewisii
-
 - label: Distribution
   icon: earth
   value: AL, WA, ID, MT, OR, CO, UT, NV, CA. Canada..BC, AB
-
 - label: Season
   icon: calendar
   value: Summer
-
 - label: Medical Use
   icon: medical-bag
   value: na
-
 - label: Poisonous
   icon: skull-crossbones
   value: 'no'
-
 - label: Edibility
   icon: food-apple
   value: Leaves and stems - raw or cooked
-
 - label: Features
   icon: information-outline
   value: Mimulus lewisii (Lewis' Monkeyflower or Great Purple Monkeyflower) is a perennial
@@ -39,13 +30,11 @@ stats:
     mountain species that requires higher elevations, snow in winter, cool temperatures
     in summer, and plenty of water. The flowers are attractive to hummingbirds. This
     would be a nice plant if your garden is in Mammoth Lakes or Truckee.
-
 - label: Leaves
   icon: leaf
   value: The opposite leaves are lance-to egg-shaped with pointed tips and have palmate
     venation of 3-7 strong veins. The leaves range from 3-7 cm long and the margins
     are irregularly toothed.
-
 - label: Fruits
   icon: fruit-cherries
   value: na

@@ -1,35 +1,26 @@
 ---
 tags:
-
 - Winter & Skiing
-
 stats:
-
 - label: Phone
   icon: phone
   value: 800.548.4486
-
 - label: Acres
   icon: vector-square
   value: '5850'
-
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 400"
-
 - label: Summit Elevation
   icon: terrain
   value: 11166'
-
 - label: Base Elevation
   icon: terrain
   value: 6800'
-
 - label: Verts
   icon: arrow-expand-vertical
   value: 4350'
 notes:
-
 - Bigskyresort.com
 ---
 

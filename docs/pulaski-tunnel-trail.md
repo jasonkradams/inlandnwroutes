@@ -1,51 +1,36 @@
 ---
 tags:
-
 - Winter & Skiing
-
 - Easy
-
 - Day Hiking
-
 - History
-
 stats:
-
 - label: Event Type
   icon: ski
   value: Day hiking, history
-
 - label: Distance
   icon: map-marker-distance
   value: 4 miles RT
-
 - label: Elevation
   icon: terrain
   value: 800’
-
 - label: Difficulty
   icon: speedometer
   value: easy
-
 - label: Maps
   icon: map
   value: IPNF, Pulaski Tunnel Trail Brochure, Wallace topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°45’87" n 115°93’57" w
-
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
-
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
 notes:
-
 - Idaho panhandle national forest/alerts
-
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -72,7 +57,7 @@ From I-90, take exit 61. At off-ramp stop sign, turn right (south). At Front Str
 
 Cool things close by: Stevens Lakes & Peak, Lone Lake, St. Regis Lakes, National Recreation Trail #16 on the St Joe/CDA River Divide, U. & L. Glidden Lakes, Silver Mt., The Trail of the Coeur d’Alenes, Route of the Hiawatha, and the CDA River
 
-## R & p
+## R & P
 
 Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ & Saloon, Wallace Brewing Co., and Muchacho’sTacos in Wallace. Radio Brewing In Kellogg. The Snake Pit north of Kingston. And the Moon Time in CDA
 

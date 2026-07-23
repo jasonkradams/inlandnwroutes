@@ -1,22 +1,16 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Genesis Name
   icon: book-open-variant
   value: Lamium purpureum
-
 - label: Distribution
   icon: earth
   value: They originated in Europe and Asia, but are found throughout the U.S.
-
 - label: Season
   icon: calendar
   value: These plants can bloom in all seasons.
-
 - label: Medical Use
   icon: medical-bag
   value: The whole plant is astringent, diaphoretic, diuretic, purgative and styptic.
@@ -24,18 +18,15 @@ stats:
     to stem hemorrhaging whilst fresh bruised leaves have been applied to external
     wounds and cuts. The leaves are also made into a tea and drunk to promote perspiration
     and discharge from the kidneys in treating chills.
-
 - label: Poisonous
   icon: skull-crossbones
   value: 'No'
-
 - label: Edibility
   icon: food-apple
   value: '**Red Dead-Nettle is edible** (as are the similar species mentioned above).
     You can use Red Dead-Nettle as per White Dead-Nettle, Lamium album and the leaves
     and flowering tops are great in salads. Unlike White Dead-nettle, there doesn''t
     seem to be the tendency for the leaves to become bitter with age.'
-
 - label: Features
   icon: information-outline
   value: The stems are square, with a smooth texture. Purplish flowers have a top
@@ -68,16 +59,13 @@ stats:
     are summer annuals may bloom during the fall. Each flower is replaced by 4 nutlets.
     The root system consists of a taproot. This plant occasionally forms dense colonies
     by reseeding itself.
-
 - label: Leaves
   icon: leaf
   value: Crowded heart-shaped leaves tend to overlap; upper leaves are often purplish
     with greenish undersides and hairy. Short petioles. Wavy to serrated margins.
-
 - label: Fruits
   icon: fruit-cherries
   value: '**Like many in the dead nettle family, this plant produces four tiny nutlets**.'
-
 - label: Parts Used
   icon: information-outline
   value: Leaves, flowering tops and flowers

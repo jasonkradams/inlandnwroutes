@@ -1,64 +1,45 @@
 ---
 tags:
-
 - Lakes
-
 - Near Difficult
-
 - Hiking
-
 - Backpacking
-
 - Fishing
-
 - Skiing
-
 - Climbing
-
 - Paddling
 
 stats:
-
 - label: Event Type
   icon: hiking
   value: hiking, backpacking, fishing, skiing, climbing and paddling
-
 - label: Distance
   icon: map-marker-distance
   value: 3.04 miles RT to lake 6 miles RT with Amphitheater by raft.
-
 - label: Elevation Gain
   icon: elevation-rise
   value: 1104' gain. The hike up thru the Amphitheater, to the center summit is 1875
     verts
-
 - label: Acres
   icon: vector-square
   value: '129.2'
-
 - label: Difficulty
   icon: speedometer
   value: Near Difficult
-
 - label: Maps
   icon: map
   value: Cabinet Mountain Wilderness, Kootenai N.F., Snowshoe Peak
-
 - label: GPS
   icon: crosshairs-gps
   value: '[48°13’28"n](https://goo.gl/maps/GDAcZfwdD5ZRiU3h7) [115°39’39"w](https://goo.gl/maps/GDAcZfwdD5ZRiU3h7)'
-
 - label: Ranger District
   icon: pine-tree
   value: libby ranger district 406.293.7773
-
 - label: Sanders County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.827.3584
 notes:
-
 - Kootenai national forest/alerts
-
 - <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 
@@ -136,7 +117,7 @@ be extra careful crossing this section. or better off, do not cross this wet spo
 
 Kootenai Falls, historic Libby, Montana, U & L Geiger Lakes, Snowshoe Peak, Blackwell Glacier, and A Peak, and Ross Creek Cedars
 
-## R & p
+## R & P
 
 Kaiju Bar & Grill in Libby.   Henry’s, Pizza Hut, and The Shed in Libby, Clark Fork Pantry and Squeeze Inn in Clark Fork, Eicharts, Mr Sub, Burger Express, & Jalapeños in Sandpoint.
 In Libby, try The Shed south on Hwy 2

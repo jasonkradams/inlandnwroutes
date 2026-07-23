@@ -1,34 +1,24 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 - Difficult
-
 - Day Hiking
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day Hiking
-
 - label: Distance
   icon: map-marker-distance
   value: 6.4 Miles
-
 - label: Elevation
   icon: terrain
   value: 1,150 gain/loss
-
 - label: Difficulty
   icon: speedometer
   value: Difficult
-
 - label: Maps
   icon: map
   value: GaiaGPS.com USFS 2016
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°50'25.4"n 116°57'32.3"w
@@ -68,7 +58,7 @@ We had a pleasant lunch break eating in the sun while sitting on the old stone f
 
 ## Hazards
 
-## R & p
+## R & P
 
 ---
 

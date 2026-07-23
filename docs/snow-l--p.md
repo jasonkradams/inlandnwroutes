@@ -1,57 +1,40 @@
 ---
 tags:
-
 - Winter & Skiing
-
 - Difficult Because of Distance
-
 - Day Hiking
-
 - Backpacking
-
 - Scrambling
-
 stats:
-
 - label: Event Type
   icon: ski
   value: Day hiking, backpacking & scrambling
-
 - label: Distance
   icon: map-marker-distance
   value: 11.2 miles RT
-
 - label: Elevation
   icon: terrain
   value: to Snow Lake 1554’. To Snow Peak 2557’
-
 - label: Acres
   icon: vector-square
   value: '8.1'
-
 - label: Difficulty
   icon: speedometer
   value: Difficult because of distance
-
 - label: Maps
   icon: map
   value: I.P.N.F., KANIKSU N. F., Roman Nose topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 48°49’57"n 116°34’17"w
-
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561
-
 - label: Bonners Ferry County Sheriff
   icon: shield-account
   value: 208/267.3151
 notes:
-
 - Idaho panhandle national forest/alerts
-
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -88,7 +71,7 @@ if you do the loop, plan on more then ample time from lake to lake.
 
 Kootenai National Wildlife Refuge, Myrtle Falls, Burton Peak, Lower & Upper Snow Creek Falls, Roman Nose Lakes & Peak.
 
-## R & p
+## R & P
 
 Eichardt’s, Mr Sub, & Burger Express, Jalapeño in Sandpoint
 

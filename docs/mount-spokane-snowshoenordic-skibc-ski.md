@@ -1,38 +1,26 @@
 ---
 tags:
-
 - Winter & Skiing
-
 - Moderat
-
 - Snowshoe
-
 - Ski
-
 - Mt Bike
-
 stats:
-
 - label: Event Type
   icon: ski
   value: Snowshoe, Ski, Mt Bike
-
 - label: Distance
   icon: map-marker-distance
   value: 10.5 Miles
-
 - label: Elevation
   icon: terrain
   value: 1,686 feet Ascent/Descent
-
 - label: Difficulty
   icon: speedometer
   value: Moderat
-
 - label: Maps
   icon: map
   value: '[Mount Spokane State Park Map](https://parks.state.wa.us/DocumentCenter/View/1912/Mount-Spokane-State-Park-PDF)'
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°54'17.0"n 117°06'07.6"w
@@ -84,7 +72,7 @@ Side country skiing
 
 It is not a short hike around the mountain. Bring food, water and warm clothes.
 
-## R & p
+## R & P
 
 Foggy Bottom Lounge, Big Barn Brewery
 

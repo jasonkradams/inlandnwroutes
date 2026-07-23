@@ -1,49 +1,34 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 - Easy to Moderate
-
 - Day Hiking
-
 - Climbing
-
 - Photography
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, climbing, and photography
-
 - label: Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: varies depending on where you start
-
 - label: Difficulty
   icon: speedometer
   value: easy to moderate
-
 - label: Maps
   icon: map
   value: IPNF, Post Falls Park & Recreation Map, Post Falls Topo
-
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000. Post Falls Parks. 208.773.3511
-
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 911 or 208.446.1300
 notes:
-
 - Spokane Street Bridge 47°42’08" N 116°57’15" W
-
 - West Riverview Drive. 47°41’45" N 116°58’23" W
 ---
 
@@ -73,7 +58,7 @@ Because Q’emiln Park is dotted with cliffs, extra caution should be use.
 Anywhere along the Spoken River, is another place to practice extra caution.
 In the Community Forest, some trails are steep, and or rocky. Pay attention to the parks colored dot system to navigate the area.
 
-## R & p
+## R & P
 
 The White House Grill
 

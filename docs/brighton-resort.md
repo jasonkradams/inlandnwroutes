@@ -1,35 +1,26 @@
 ---
 tags:
-
 - Winter & Skiing
-
 stats:
-
 - label: Phone
   icon: phone
   value: 801.532.4731
-
 - label: Acres
   icon: vector-square
   value: 1050+
-
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 500"
-
 - label: Summit Elevation
   icon: terrain
   value: 10500'
-
 - label: Base Elevation
   icon: terrain
   value: 8755'
-
 - label: Verts
   icon: arrow-expand-vertical
   value: 1875'
 notes:
-
 - Brightonresort.com
 ---
 

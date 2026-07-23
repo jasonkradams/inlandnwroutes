@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Lakes
-
 stats:
-
 - label: Waterfall
   icon: waterfall
   value: little harrison lake falls
-
 - label: Drop
   icon: arrow-collapse-down
   value: 40'
-
 - label: Waterfall Type
   icon: hiking
   value: Cascading tiered falls
-
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: 4.6 miles one way
-
 - label: Maps
   icon: map
   value: IPNF-Kaniksu N.F., The Wigwams
-
 - label: GPS
   icon: crosshairs-gps
   value: 48°39’41"n 116°39’18"w
@@ -59,7 +51,7 @@ Fault Lake, the Kootenai National Wildlife Refuge, the Purcell Trench, Sandpoint
 *South Route
 *From Beehive Lake the scrambling is serious but doable.
 
-## R & p
+## R & P
 
 Jalapeños, Mr, Sub, Eichardt’s in Sandpoint
 

@@ -1,35 +1,27 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Genesis Name
   icon: book-open-variant
   value: Camassia quash
-
 - label: Distribution
   icon: earth
   value: CA, ID, MT, NV, OR, UT, WA, WY. Canada..BC
-
 - label: Season
   icon: calendar
   value: Blooms May thru August
-
 - label: Medical Use
   icon: medical-bag
   value: Used as **a cough medicine**, blue camas bulbs where boiled and the juice
     mixed with honey to make a sweet therapeutic tea. It has been used as a medication
     for a long time to treat common infections at home.
-
 - label: Poisonous
   icon: skull-crossbones
   value: While Camas is edible, a close looking Death Camas is poisonous. Death camas
     (Zigadenus spp.) is a **common poisonous plant** on foothill rangelands in western
     North America. The steroidal alkaloid zygacine is believed to be the primary toxic
     component in death camas.
-
 - label: Edibility
   icon: food-apple
   value: The sweet bulbs of the Common Camas are considered by many to be a Northwest
@@ -37,17 +29,14 @@ stats:
     potato, and can even used to sweeten other foods. The longer they’re cooked, the
     sweeter they get. Native American peoples, wild foragers, and sustainable gardeners
     have and continue to value this plant as nourishing food.
-
 - label: Features
   icon: information-outline
   value: Common camas is a stout, robust plant 12-28 inches (30-70 cm) tall with a
     dense inflorescence.
-
 - label: Leaves
   icon: leaf
   value: The stems have a length between 30 and 90 centimetres (12 and 35 in). The
     leaves are basal and have a grass-like appearance.
-
 - label: Fruits
   icon: fruit-cherries
   value: The pale blue to deep blue [flowers](https://en.wikipedia.org/wiki/Flower)
@@ -55,7 +44,6 @@ stats:
     are arranged in a [raceme](https://en.wikipedia.org/wiki/Raceme) at the end of
     the stem. Each of the radially symmetrical, star-shaped flowers has six petals.
 notes:
-
 - Common Camas is also a major source of carbohydrates and very high in protein. It
   contains 5.4 ounces of protein per pound of root, even more hearty than a filet
   of Salmon with 3.7 ounces per pound. Bulbs can be eaten immediately after cooking,

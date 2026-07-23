@@ -1,26 +1,19 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2128’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Maps
   icon: map
   value: IPNF, Fernan Lake, Mount CDA topos
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°38’16" n 116°42’48" w
@@ -47,7 +40,7 @@ From I-90 and The Sherman Street exit, continue straight thru the stoplight onto
 
 Blue Bay, Beauty Bay, Wolf Lodge Bay, Moscow Bay, Squaw Bay
 
-## R & p
+## R & P
 
 Moon Time, Mexican Food Factory, Franklins Hoagies, and Trails End Brewery
 

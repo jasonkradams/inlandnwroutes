@@ -1,17 +1,12 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: GPS
   icon: crosshairs-gps
   value: n??° ?’ ?.??" w???° ?’ ??.??"
 ---
-
 # Boundrary Dam
-
 ## Description
 
 ## Option #1
@@ -30,7 +25,7 @@ stats:
 
 ## Hazards
 
-## R & p
+## R & P
 
 ---
 

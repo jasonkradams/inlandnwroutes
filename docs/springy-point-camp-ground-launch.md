@@ -1,26 +1,19 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2066’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Maps
   icon: map
   value: IPNF, Sandpoint Topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°14’13" n. 116°35’12" w
@@ -45,7 +38,7 @@ Stay on Lakeshore Drive for just over 3 miles to the Springy Point Camp Grounds.
 
 Dover, Sandpoint, the Long Bridge, Pend Orielle Lake and City Beach, and Round Lake State Park.
 
-## R & p
+## R & P
 
 Burger a Express, Mr Sub, Eichardt’s, and Jalapeños.
 

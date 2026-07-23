@@ -1,61 +1,43 @@
 ---
 tags:
-
 - Lakes
-
 - Hiking
-
 - Backpacking
-
 - Scrambling
-
 - Climbing
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Hiking, backpacking, scrambling and climbing
-
 - label: Distance
   icon: map-marker-distance
   value: Lake 5 miles RT, Harrison Peak about 8.6 miles
-
 - label: Elevation Gain
   icon: elevation-rise
   value: Lake 1435' gain, Peak 2546' gain
-
 - label: Acres
   icon: vector-square
   value: '28.8'
-
 - label: Difficulty
   icon: speedometer
   value: Lake Moderate, Peak very Strenuous
-
 - label: Maps
   icon: map
   value: IPNF-Kaniksu N.F, The Wigwams
-
 - label: GPS
   icon: crosshairs-gps
   value: 48° 39’ 57.4"n 116° 37’ 38.0"W
-
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry 208.267.5561 & Sandpoint R.D. 208.263.5111
-
 - label: Boundary County Sheriff
   icon: shield-account
   value: 911 or 208.267.3151
-
 - label: Bonner County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.263.8417
 notes:
-
 - Idaho panhandle national forest/alerts
-
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -132,7 +114,7 @@ When you are approaching Harrison's  summit block, PAY CLOSE ATTENTION TO WHERE 
 
 Beehive Lake, Myrtle Lake, Fault Lake, Kootenai National Wildlife Refuge, Myrtle Falls, Snow Creek Falls, Burton Peak, the Purcell Trench, and Bonners Ferry.
 
-## R & p
+## R & P
 
 Jalapeños, Eichardt's, Burger Express, Mr, Sub in Sandpoint
 

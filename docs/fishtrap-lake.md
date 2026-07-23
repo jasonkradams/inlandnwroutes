@@ -1,50 +1,34 @@
 ---
 tags:
-
 - Lakes
-
 - Easy
-
 - Day Hiking
-
 - Paddling
-
 - Mt Biking
-
 - Fishing
-
 - Equestrian
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, paddling, mt biking, fishing, equestrian
-
 - label: Distance
   icon: map-marker-distance
   value: 6.5 miles with variations
-
 - label: Elevation
   icon: terrain
   value: Minimal
-
 - label: Difficulty
   icon: speedometer
   value: easy
-
 - label: Maps
   icon: map
   value: BLM maps, FishTrap topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°21’64" n 117°49’84" w
-
 - label: Managing Agency
   icon: domain
   value: blm. 509.536.1200
-
 - label: Spokane County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 509.477.2240
@@ -78,7 +62,7 @@ Rattlesnakes, wood ticks, heat, and dust. There are ankle sleeves you can buy to
 
 Fog Canyon, Lake & Falls, the Turnbull National Wildlife Refuge, Bonnie and Rock Lakes, and Escure Ranch & Towell Falls.
 
-## R & p
+## R & P
 
 Lenny’s in Cheney.
 

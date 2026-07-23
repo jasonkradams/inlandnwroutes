@@ -1,55 +1,38 @@
 ---
 tags:
-
 - Lakes
-
 - Easy
-
 - Day Hiking
-
 - Backpacking
-
 - Scrambling
-
 - Scenery
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, scrambling & Scenery
-
 - label: Distance
   icon: map-marker-distance
   value: 5 mile RT
-
 - label: Elevation Gain
   icon: elevation-rise
   value: 1523’
-
 - label: Difficulty
   icon: speedometer
   value: easy
-
 - label: Maps
   icon: map
   value: IPNF, Kootenai National Forest, Caribou Creek
-
 - label: GPS
   icon: crosshairs-gps
   value: 48°47’17"n 116° 47’ 41"w
-
 - label: Ranger District
   icon: pine-tree
   value: Idaho Dept. of Lands, Priest River. 208.448.2302
-
 - label: Boundary County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.267.3151
 notes:
-
 - Idaho panhandle national forest/alerts
-
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 

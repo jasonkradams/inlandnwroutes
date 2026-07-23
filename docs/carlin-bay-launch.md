@@ -1,26 +1,19 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2128’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Maps
   icon: map
   value: ipnf, cda se
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°32’12" n 116°46’30" w
@@ -45,7 +38,7 @@ Drive I -90 to the Harrison exit, and continue on Hwy 97A past the Turner Bay ro
 
 Powder Horn Bay, Turner Bay, and LoffsBay.
 
-## R & p
+## R & P
 
 Moon Time, Franklins Hoagies, the Mexican Food Factory, and the Trails End Brewery.
 

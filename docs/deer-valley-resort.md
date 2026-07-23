@@ -1,35 +1,26 @@
 ---
 tags:
-
 - Winter & Skiing
-
 stats:
-
 - label: Phone
   icon: phone
   value: 800.908.5000
-
 - label: Acres
   icon: vector-square
   value: '2026'
-
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 300"
-
 - label: Summit Elevation
   icon: terrain
   value: 9570'
-
 - label: Base Elevation
   icon: terrain
   value: 6570'
-
 - label: Verts
   icon: arrow-expand-vertical
   value: 3000'
 notes:
-
 - Deervalley.com
 ---
 

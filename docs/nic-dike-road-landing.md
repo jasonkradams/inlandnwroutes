@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2128’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Maps
   icon: map
   value: IPNF., Mica Bay topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°40’30" n 116°48’07" w
-
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300
@@ -54,7 +46,7 @@ Turn left and drive thrun the Round About, staying on W. River Ave to the next R
 
 Cougar Bay, Casco Bay, the Spokane River, City Beach, Tubbs Hill, and Sanders Beach.
 
-## R & p
+## R & P
 
 Trails End Brewery, Moon Time, Franklins, Mexican Food Factory
 

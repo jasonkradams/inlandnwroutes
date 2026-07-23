@@ -1,47 +1,34 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 - Roped Snow
-
 - Ice Travel Training
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Roped snow and ice travel training
-
 - label: Distance
   icon: map-marker-distance
   value: 2.5 miles round trip to base camp
-
 - label: Elevation
   icon: terrain
   value: 1900' gain to base camp, 1500' gain from camp to summit
-
 - label: Difficulty
   icon: speedometer
   value: Difficult - This is a short but high intensity output activity
-
 - label: Maps
   icon: map
   value: '**IPNF, Stevens Lakes topo**'
-
 - label: GPS
   icon: crosshairs-gps
   value: '**Lower 47°43’36" N -115°75’96" W'
-
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
-
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114**Idaho panhandle national forest/alerts
 notes:
-
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -90,7 +77,7 @@ Lone Lake, St. Regis Lakes, State Line Ridge, Upper & Lower Glidden Lakes, Coope
 
 Avalanches: It had warmed up the week prior to our trip and the snow pack consolidated and reached equilibrium in temperature making for the best avalanche conditions for the year. The problem was that it snowed 3 to 9" inches on Thursday and then the sun came out on Friday causing wet loose avalanches on both the east and west aspects which we saw as we hiked up the basin Saturday morning. Things froze solid Saturday night when the sun went down and we peaked out in the morning before it warmed back up.
 
-## R & p
+## R & P
 
 City Lights Brewery in Wallace and Radio Brewery in Kellogg. They both have exceptionally good food and beer. Muchachos Tacos and Pizza Factory in Wallace.
 

@@ -1,53 +1,37 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 - Moderate
-
 - Day Hiking
-
 - Beach Camping
-
 - Swimming
-
 - Diving
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, beach camping, swimming, diving
-
 - label: Distance
   icon: map-marker-distance
   value: 4 miles RT
-
 - label: Elevation Loss
   icon: arrow-down-bold
   value: 1107’
-
 - label: Difficulty
   icon: speedometer
   value: moderate
-
 - label: Maps
   icon: map
   value: IPNF, Kaniksu N.F., Mt. Pend Orielle topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 48°07’00" n 116°32’29" w
-
 - label: Ranger District
   icon: pine-tree
   value: Sandpoint R.D. 208.263.5111
-
 - label: Bonner County Sheriff
   icon: shield-account
   value: 911 or 208.263.8517
 notes:
-
 - Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -86,7 +70,7 @@ Talache Landing, Cocolalla Lake, the Three Sister, Bayview, Farragut S.P., and E
 
 POISON IVY, relatively steep trail, and people
 
-## R & p
+## R & P
 
 Moon Time, Franklins Hoagies, the Mexican Food Factory, and the Trails End Brewery.
 

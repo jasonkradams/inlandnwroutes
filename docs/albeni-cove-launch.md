@@ -1,26 +1,19 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2066’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°10’35" n 116°59’49" w
-
 - label: Bonner County Sheriff
   icon: shield-account
   value: 208.263.8417
@@ -49,7 +42,7 @@ From Spokane, drive north to Newport. At Newport, head east on Hwy 2 for less th
 
 Box Canyon and Boundary Dams, Pewee Falls, Sweetwater Falls, and Sullivan Lake
 
-## R & p
+## R & P
 
 NA
 

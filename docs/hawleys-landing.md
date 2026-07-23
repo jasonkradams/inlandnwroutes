@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2128’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Maps
   icon: map
   value: IPNF., Plummer & Chatcolet
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°21’13" n 116°46’22" w
-
 - label: Benewah County Sheriff
   icon: shield-account
   value: 208.245.2555
@@ -51,7 +43,7 @@ From CDA drive south on 95 to Plummer. At Plummer, turn left (East), onto Hwy 5 
 
 Heyburn S.P., Trail of the CDA’s, Lake Chatcolet, St. Maries River- the highest navigable River in the world, and Indian Cliffs hiking area.
 
-## R & p
+## R & P
 
 Trails End Brewery, Mexican Food Factory, the Moon Time
 

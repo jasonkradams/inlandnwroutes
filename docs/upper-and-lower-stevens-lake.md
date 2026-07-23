@@ -1,52 +1,37 @@
 ---
 tags:
-
 - Lakes
-
 - Moderate to Moderately Difficult
-
 stats:
-
 - label: Distance
   icon: map-marker-distance
   value: 4.7miles RT to Lower Stevens, 6.7 miles RT to Upper Stevens Lake.
-
 - label: Elevation
   icon: terrain
   value: 1580, gain to Lower, 1780 to Upper
-
 - label: Acres
   icon: vector-square
   value: (lower) 28….(upper) 12
-
 - label: Difficulty
   icon: speedometer
   value: Moderate to Moderately Difficult
-
 - label: Maps
   icon: map
   value: IPNF, LOLO N.F., IPNF, Stevens Lakes topo
-
 - label: GPS
   icon: crosshairs-gps
   value: Lower 47°43’36" N -115°75’96" W
-
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
-
 - label: Shoshone County Sheriff
   icon: shield-account
   value: call** **208.556.1114 or****911 ONLY IN AN EMERGENCY or**
 
 notes:
-
 - '**EVENT TYPE: Hiking, backpacking, camping, scrambling, and photography'
-
 - Upper 47°42’80" N -115°76’25" W
-
 - Idaho panhandle national forest/alerts
-
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -113,7 +98,7 @@ Lone Lake, Stevens Peak, Gold Hill, St. Regis Lakes, Cooper Lake, Shoshone Park 
 
 Some of the trail to Lower Stevens Lake is very slippery in wet conditions. The trail from Upper Stevens Lake, up to the summit and down to Lone Lake are hazardous. Use extreme caution. In OPTION #3, you should use EXTREME CAUTION PAST THE ROCK PROMINENCE ALONG THIS RIDGE
 
-## R & p
+## R & P
 
 Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ & Saloon, Wallace Brewing Co., and Muchacho’s Tacis in Wallace. Radio Brewing, the Snake Pit, and Moontime.
 

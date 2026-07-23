@@ -19,8 +19,6 @@ Welcome to the Inland NW Routes blog! Explore trail updates, safety guides, fore
 
 | **2026-04-04** | [Blog #105: It’s waterfall season.](posts/blog-105-its-waterfall-season.md) | `Winter Sports` |
 
-| **2026-04-04** | [Blog 104: Usfs Road And Area Closures](posts/blog-104-usfs-road-and-area-closures.md) | `Wildfire & Closures` |
-
 | **2026-01-22** | [Blog # 103: Taking the bad with the good](posts/blog-103-taking-the-bad-with-the-good.md) | `Wildfire & Closures` |
 
 | **2026-01-01** | [Blog #102: Winter hikes in the scabs](posts/blog-102-winter-hikes-in-the-scabs.md) | `Trail Safety & Gear` |
@@ -138,8 +136,6 @@ Welcome to the Inland NW Routes blog! Explore trail updates, safety guides, fore
 - **2026-05-24**: [Blog #108: Our trails need our help](posts/blog-108-our-trails-need-our-help.md)
 
 - **2026-05-16**: [Blog #107: Forest alerts and closures](posts/blog-107-forest-alerts-and-closures.md)
-
-- **2026-04-04**: [Blog 104: Usfs Road And Area Closures](posts/blog-104-usfs-road-and-area-closures.md)
 
 - **2026-01-22**: [Blog # 103: Taking the bad with the good](posts/blog-103-taking-the-bad-with-the-good.md)
 

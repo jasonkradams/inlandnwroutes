@@ -1,15 +1,10 @@
 ---
 title: "Blog #5: Yellow Bells, Fritillaria pudica"
-
 date: 2023-03-31
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Winter Sports
 ---
 

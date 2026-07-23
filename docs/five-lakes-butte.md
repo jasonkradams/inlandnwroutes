@@ -1,51 +1,36 @@
 ---
 tags:
-
 - Lakes
-
 - Moderate
-
 - Day Hiking
-
 - Backpacking
-
 - Equestrian
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, and equestrian
-
 - label: Distance
   icon: map-marker-distance
   value: 6.4 miles RT to Five Lakes Butte.
-
 - label: Elevation Gain
   icon: elevation-rise
   value: 1563’ to the Butte
-
 - label: Difficulty
   icon: speedometer
   value: moderate
-
 - label: Maps
   icon: map
   value: Clearwater N.F., North Fork District, Bacon Peak & Chamberlain Mountain topos
-
 - label: GPS
   icon: crosshairs-gps
   value: 46°56’06" n 115°14’44" w
-
 - label: Ranger District
   icon: pine-tree
   value: North Fork R.D. 208.476.4541
-
 - label: Butte County Sheriff
   icon: shield-account
   value: 911 or 208.527.8553
 notes:
-
 - '[Clearwater national forest/ alerts](https://www.fs.usda.gov/alerts/lolo/alerts-notices)<https://www.fs.usda.gov/alerts/nezperceclearwater/alerts-notices>'
 ---
 
@@ -94,7 +79,7 @@ St. Joe Wild and Scenic River, the Mallard-Larkin Pioneer Area, Black Peak, Eagl
 
 Up to the ridge above Gold Lake, the trail is pretty straight forward. Beyond the Five Lakes Butte summit, route finding skills & care is needed.
 
-## R & p
+## R & P
 
 NA
 

@@ -1,39 +1,30 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Genesis Name
   icon: book-open-variant
   value: Lupinus Sp.
-
 - label: Distribution
   icon: earth
   value: Alaska , California , Connecticut , Idaho , Massachusetts , Maryland , Maine
     , Michigan , Minnesota , Montana , New Hampshire , Nevada , New York , Oregon
     , Vermont , Washington , Wisconsin
-
 - label: Season
   icon: calendar
   value: April thru July
-
 - label: Medical Use
   icon: medical-bag
   value: Yellow lupin is an **herb**. The seeds and other parts that grow above the
     ground are used to make medicine. Despite serious safety concerns, people take
     yellow lupin for urinary tract disorders, fluid retention, and worms. Yellow lupin
     is sometimes applied directly to the skin for skin ulcers.
-
 - label: Poisonous
   icon: skull-crossbones
   value: Seeds can be toxic both to livestock and humans, especially in larger quantity.
-
 - label: Edibility
   icon: food-apple
   value: No, blue Lupine is poisonous.
-
 - label: Features
   icon: information-outline
   value: Flowers form a spike of up to 80 purple to blue, asymmetrical flowers. There
@@ -45,7 +36,6 @@ stats:
     wing petals, and two petals fused into a keel are set between the wing petals.
     In the center, there are 10 stamens, 5 with short filaments and long anthers,
     and 5 with long filaments and short anthers. Flowers bloom from May to August.
-
 - label: Leaves
   icon: leaf
   value: Any of numerous plants of the genus *Lupinus* of the pea family, having palmately
@@ -53,7 +43,6 @@ stats:
     are cultivated asornamentals and others for their edible seeds. Palmately (fan-shaped)
     compound (divided) leaves, 11 to 17 oblong leaflets. The tops of the leaves are
     usually sparsely hairy.
-
 - label: Fruits
   icon: fruit-cherries
   value: The fruit is a dry hairy capsule (shaped like a pea pod) that turns dark
@@ -61,7 +50,6 @@ stats:
     tip of the stem, 1 to 2 in (2 to 4 cm) long. Pods open explosively when ripe,
     and seeds are spread a short distance.
 notes:
-
 - Lupines are found in a wide range of habitats. All lupines share the characteristic
   leaf shape seen in the accompanying picture. All parts of lupines are toxic, especially
   spring foliage, flowers, and fruits. Lupine consumption by pregnant females can

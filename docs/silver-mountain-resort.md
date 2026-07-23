@@ -1,35 +1,26 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 stats:
-
 - label: Phone
   icon: phone
   value: 208.783.1111
-
 - label: Acres
   icon: vector-square
   value: '1600'
-
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 300"
-
 - label: Summit Elevation
   icon: terrain
   value: 6300'
-
 - label: Base Elevation
   icon: terrain
   value: 4100'. mountain house 5700'
-
 - label: Verts
   icon: arrow-expand-vertical
   value: 2200'
 notes:
-
 - Silvermt.com
 ---
 

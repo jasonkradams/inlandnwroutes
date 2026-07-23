@@ -1,15 +1,10 @@
 ---
 title: "Blog #65: Campfires and your responsibilities"
-
 date: 2024-06-29
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Wildfire & Closures
 ---
 

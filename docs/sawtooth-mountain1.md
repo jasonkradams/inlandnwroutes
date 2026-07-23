@@ -1,46 +1,32 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 - Strenuous
-
 - Day Hiking
-
 - Backpacking
-
 - Scrambling
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, scrambling
-
 - label: Distance
   icon: map-marker-distance
   value: 18 miles RT
-
 - label: Elevation Gain
   icon: elevation-rise
   value: 2263 verts
-
 - label: Difficulty
   icon: speedometer
   value: Strenuous
-
 - label: Maps
   icon: map
   value: Kootenai N.F., Heron & Sawtooth topos
-
 - label: GPS
   icon: crosshairs-gps
   value: 48°16’38"n 115°97’78"w
-
 - label: Ranger District
   icon: pine-tree
   value: Three Rivers R.D. [406.295.4693](tel:406.295.4693)
-
 - label: Lincoln County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or [406.293.4112](tel:406.293.4112)Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
@@ -72,7 +58,7 @@ We have seem bear tracks here, so use caution. yell "Hey Bear" often.
 
 Heron, Montana, Clark Fork River, Cabinet Gorge Dam, Sandpoint, Clark Fork, Pend Orielle Lake, the Proposed Scotchman Peaks Wilderness, Highway 56, and the Cabinet Mountain Wilderness
 
-## R & p
+## R & P
 
 Clark Fork Pantry& Squeeze In, in Clark Fork. Jalapeños, Mr. Sub, Burger  Express, & Eichardt’s in Sandpoint
 

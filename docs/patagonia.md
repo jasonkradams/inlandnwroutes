@@ -1,40 +1,27 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 - Easy to Difficult
-
 - Backpacking
-
 - Dinning
-
 - Hiking
-
 - Photography
-
 - Rafting
-
 - So Much More
 
 stats:
-
 - label: Event Type
   icon: hiking
   value: Backpacking, dinning, hiking, photography, rafting, and so much more.
-
 - label: Distance
   icon: map-marker-distance
   value: 6,851 miles as the crow flies
-
 - label: Elevation
   icon: terrain
   value: Sea level to 6,000'
-
 - label: Difficulty
   icon: speedometer
   value: easy to difficult
-
 - label: Maps
   icon: map
   value: Patagonia
@@ -60,7 +47,7 @@ Another real cool feature to El Chalten, was all the trail to the towers are rig
 
 Early spring snows were an issue. A guide friend told us to exit the high country if it started to snow. That was great advise. The first day up high below the towers, it snowed about 6". After we retreated back to Camp Pehoe, there was many feet of snow that blew down thru the high country, onto the valley floor. It snowed 3+ feet up high where we were camp.
 
-## R & p
+## R & P
 
 While you are in Calafate, Argentina, be sure to have a quality dinner at The Los Alamos Resort.
 

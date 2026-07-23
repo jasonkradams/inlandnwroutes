@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2128’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Maps
   icon: map
   value: IPNF. Mt. CDA topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°37’28" n 116°44’38" w
-
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300
@@ -54,7 +46,7 @@ Turn right (North) onto the Eddyville Road, and stay on this road all the way to
 
 the Main body of Lake CDA, Wolf Lodge Bay, Moscow Bay, Arrow Point Resort
 
-## R & p
+## R & P
 
 Trails End Brewery, Franklins, Mexican Food Factory, and Moon Time
 

@@ -1,26 +1,19 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2067’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°12’36" n 116°15’18" w
-
 - label: Bonner County Sheriff
   icon: shield-account
   value: 208.263.8417
@@ -46,7 +39,7 @@ As you drive through Sandpoint, turn right (East) onto Hwy 200, which is known a
 
 Hope Boat Launch, Samowen Camp Ground, Pend Orielle Wildlife Area, Clark Fork, the Clark Fork River, Johnson Creek Recreation Area, and Scotchman’s Peak
 
-## R & p
+## R & P
 
 In Sandpoint look for Mr. Subs, Eichardts, Jalapeños, and Burger Express.
 

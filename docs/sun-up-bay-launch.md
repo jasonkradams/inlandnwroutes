@@ -1,26 +1,19 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2128’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Maps
   icon: map
   value: IPNF, Worley topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°29’13" n 116°54’52" w
@@ -46,7 +39,7 @@ From CDA, drive over the Spokane River on Hwy 95. Take a milage reading as you c
 
 Rockford Bay, Windy Bay, and Rockford Point
 
-## R & p
+## R & P
 
 Trails End Brewery, Franklins, Mexican Food Factory, and  Moon Time
 

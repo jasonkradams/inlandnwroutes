@@ -1,49 +1,35 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 - Easy
-
 - Day Hiking
-
 - Snowshoeing
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, snowshoeing
-
 - label: Distance
   icon: map-marker-distance
   value: 3.3 mile loop to 5.3 mile loop
-
 - label: Elevation
   icon: terrain
   value: 630’
-
 - label: Difficulty
   icon: speedometer
   value: easy
-
 - label: Maps
   icon: map
   value: IPNF, Lane Topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°36’55" n 116°4’43" w
-
 - label: Managing Agency
   icon: domain
   value: blm spokane 509.536.1200
-
 - label: Kootenai County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.446.1300
 notes:
-
 - Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -72,7 +58,7 @@ Wallace L. Forest Conservation Area, Beauty Bay Overlook, Trail #257, Trail 79, 
 In the winter, the trail can be icy, carry traction devises.
 Some areas along the trail have very steep slopes below. Please use caution.
 
-## R & p
+## R & P
 
 Moon Time, The Mexican Food Factory, Franklins Hoagies, and the Trails End Brewery.
 

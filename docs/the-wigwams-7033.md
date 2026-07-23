@@ -1,54 +1,38 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 - Hike
-
 - Scrambling
-
 - Backpack
-
 - Climb
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Hike, scrambling, backpack, and climb.
-
 - label: Distance
   icon: map-marker-distance
   value: 4 miles RT + 2 miles to the high ridge with views of the Two Mouth Lakes
     area.
-
 - label: Elevation Gain
   icon: elevation-rise
   value: 950' gain +
-
 - label: Difficulty
   icon: speedometer
   value: The trail to the Wigs is easy, but beyond is difficult +
-
 - label: Maps
   icon: map
   value: IPNF, Kaniksu N.F., The Wigwams
-
 - label: GPS
   icon: crosshairs-gps
   value: 48°42’49" n -116°44’49" w
-
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561
-
 - label: Boundary County Sheriff
   icon: shield-account
   value: 911 or 208.267.3151
 notes:
-
 - Idaho panhandle national forest/alerts
-
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -83,7 +67,7 @@ My opinion:
 Because the Idaho Dept. of Lands don't want us on "their" land, they sabotage the roads so only large 4 wheel drive trucks with high clearance can access the trailheads in the area.
 Extremely rough roads with car swallowing Kelly Humps.
 
-## R & p
+## R & P
 
 Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint. Burger Express in Priest River.
 

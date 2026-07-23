@@ -1,14 +1,10 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Length and Acreage
   icon: vector-square
   value: '1445'
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: ??° ??’ ??.?"n ???° ??’ ??.?"w
@@ -26,7 +22,7 @@ stats:
 
 ## Cool things close by
 
-## R & p
+## R & P
 
 ---
 

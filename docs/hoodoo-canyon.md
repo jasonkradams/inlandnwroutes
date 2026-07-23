@@ -1,53 +1,38 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 - Easy
-
 - Day Hiking
-
 - Camping
-
 - Fishing
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, camping, and fishing
-
 - label: Distance
   icon: map-marker-distance
   value: 6.2 miles RT
-
 - label: Elevation
   icon: terrain
   value: South trailhead to Emerald Lake is 244 verts down. NW trailhead to Emerald
     Lake is 744 verts up.
-
 - label: Difficulty
   icon: speedometer
   value: easy
-
 - label: Maps
   icon: map
   value: Colville National Forest Map, , and Kettle Falls topos, Bangs Mt., and Boyds
     Mt Topos
-
 - label: GPS
   icon: crosshairs-gps
   value: South trailhead. 48°37’33" N 118°15’26" W
-
 - label: Managing Agency
   icon: domain
   value: Three Rivers R.D. 509.738.6111
-
 - label: Ferry County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 509.775.3132
 notes:
-
 - NW trailhead. 48°39’46" N 118°16’ 50 W
 ---
 
@@ -86,7 +71,7 @@ Crystal Falls, Douglas Falls, and the Salmo-Priest Wilderness.
 
 The trail down into the Hoodoo Canyon is rocky and can be dangerous.
 
-## R & p
+## R & P
 
 NA
 

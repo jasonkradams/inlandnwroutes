@@ -1,35 +1,26 @@
 ---
 tags:
-
 - Winter & Skiing
-
 stats:
-
 - label: Phone
   icon: phone
   value: 208.332.5100
-
 - label: Acres
   icon: vector-square
   value: '2600'
-
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 250+-
-
 - label: Summit Elevation
   icon: terrain
   value: 7590'
-
 - label: Base Elevation
   icon: terrain
   value: 5790'
-
 - label: Verts
   icon: arrow-expand-vertical
   value: 2200'
 notes:
-
 - Bogusbasin.org
 ---
 

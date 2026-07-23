@@ -1,55 +1,39 @@
 ---
 tags:
-
 - Lakes
-
 - Easy
-
 - Day Hiking
-
 - Backpacking
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking
-
 - label: Distance
   icon: map-marker-distance
   value: 3 miles RT
-
 - label: Elevation
   icon: terrain
   value: 800 verts
-
 - label: Acres
   icon: vector-square
   value: '9.4'
-
 - label: Difficulty
   icon: speedometer
   value: Easy
-
 - label: Maps
   icon: map
   value: Howard Lake
-
 - label: GPS
   icon: crosshairs-gps
   value: Lower 48°01’47" N 115°33’09" N UPPER48°01’37" N 115°33’44" W
-
 - label: Ranger District
   icon: pine-tree
   value: libby ranger district
-
 - label: Lincoln County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.293.4112
 notes:
-
 - Kootenai national forest/alerts
-
 - <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 
@@ -86,7 +70,7 @@ From the lower lake to the upper lake, there is no defined trail, so use a compa
 
 Upper & Lower Geiger Lakes & Lost Buck Pass, Wanless Lake, Leigh Lake, and Cabinet Divide Trail.
 
-## R & p
+## R & P
 
 Henry’s in Libby, Pizza Hut, Clark Fork Pantry & Squeeze Inn in Clark Fork. Jalapeños, Burger Express, Mr Sub, Eicharts all in Sandpoint.
 

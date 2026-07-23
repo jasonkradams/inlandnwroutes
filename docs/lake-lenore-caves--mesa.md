@@ -1,48 +1,34 @@
 ---
 tags:
-
 - Lakes
-
 - Easy
-
 - Day Hiking
-
 - Historical Hike
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, and historical hike
-
 - label: Distance
   icon: map-marker-distance
   value: 3 miles RT
-
 - label: Elevation
   icon: terrain
   value: 200’
-
 - label: Acres
   icon: vector-square
   value: 1670 total
-
 - label: Difficulty
   icon: speedometer
   value: easy
-
 - label: Maps
   icon: map
   value: Sun Lakes-Dry Falls State Park & W.D.F & W, Banks Lake & Moses Lake topos
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°32’03" n 119°29’ 38" w
-
 - label: Managing Agency
   icon: domain
   value: w.d.f.&w. 509.486.7275
-
 - label: Grant County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 509.754.2011
@@ -89,7 +75,7 @@ There are ways to hike the Scabs without worries about snakes. Google. <https://
 The snake bite proof gaiters will take the worry out of leg strikes.
 Thirdly, take google earth images of the area you will be hiking in. And while hiking, take images of the far off mesas, creek channels, and valleys for reference. Having images, and seeing mesas from different angles, and looking at your images will show you the perspective you need to use to get back on track.
 
-## R & p
+## R & P
 
 Lenny’s in CHENEY
 

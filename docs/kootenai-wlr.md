@@ -1,55 +1,38 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 - All Routes Are Easy
-
 - Hiking
-
 - Auto Tour
-
 - Bird
-
 - Animal Viewing
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Hiking, auto tour, bird and animal viewing,
-
 - label: Distance
   icon: map-marker-distance
   value: Longest trail is 2.2 miles. Auto Tour is a 4.5 mile drive with pullouts.
-
 - label: Elevation
   icon: terrain
   value: Level 1787’ base elevation
-
 - label: Difficulty
   icon: speedometer
   value: All routes are easy
-
 - label: Maps
   icon: map
   value: Stop by the refuge headquarters for a brochure, viewing guide and restrooms.
-
 - label: GPS
   icon: crosshairs-gps
   value: 48°42’25"n 116°24’54"w
-
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561
-
 - label: Boundary County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.267.3151
 notes:
-
 - Idaho panhandle national forest/alerts
-
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -96,7 +79,7 @@ As stated above in option#3, be very careful with your children at the falls ove
 
 Burton Peak, Myrtle Peak & Lake, Pyramid Lakes & Peak, Long Mountain Lake & Peak, Roman Nose Lakes & Peak with Upper & Lower Snow Creek Falls, ( don’t miss these falls.) They are less then 3/8 of a mile on a great trail), Trout Lake & Peak, with Big Fisher Lake beyond, 2 Mouth Lakes, and the MIghty Kootenai River.
 
-## R & p
+## R & P
 
 Jalapeños, Eichardt’s, Burger Express, and Mr. Sub in Sandpoint.
 

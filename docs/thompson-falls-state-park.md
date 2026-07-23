@@ -1,14 +1,10 @@
 ---
 tags:
-
 - Waterfalls
-
 stats:
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: ??° ??’ ??.?"n ???° ??’ ??.?"w
-
 - label: Sanders County Sheriff
   icon: shield-account
   value: 406.827.3584
@@ -24,7 +20,7 @@ stats:
 
 ## Cool things close by
 
-## R & p
+## R & P
 
 ---
 

@@ -1,15 +1,10 @@
 ---
 title: "Blog #12.  geology, geography and history"
-
 date: 2023-07-06
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Geology & History
 ---
 

@@ -1,15 +1,10 @@
 ---
 title: "Blog #41: Why everyone should carry a map & compass"
-
 date: 2023-11-19
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Wildfire & Closures
 ---
 

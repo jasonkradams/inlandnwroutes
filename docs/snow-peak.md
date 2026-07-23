@@ -1,51 +1,36 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 - Moderate
-
 - Day Hiking
-
 - Backpacking
-
 - Equestrian
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, and equestrian
-
 - label: Distance
   icon: map-marker-distance
   value: 9.6 miles RT
-
 - label: Elevation
   icon: terrain
   value: 2660’
-
 - label: Difficulty
   icon: speedometer
   value: moderate
-
 - label: Maps
   icon: map
   value: IPNF-St Joe District at Avery, Bathtub Mountain, Montana Peak topos
-
 - label: GPS
   icon: crosshairs-gps
   value: Trailhead 47°04’40" N 115°34’41" W
-
 - label: Ranger District
   icon: pine-tree
   value: Avery R. D. 208.245.4517
-
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
 notes:
-
 - Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -97,7 +82,7 @@ Getting to the trailhead requires good navigational skills, so have your co-pilo
 the trail itself is well maintained by the Spokane Mountaineers and other groups. As you approach the summit prominence, the trail climbs over 1200’ to the summit and the fire lookout. There are Mountain Goats on Snow Peak, so keep them away from you. But try to be kind to them.
 And most importantly, it would be wise to leave your dogs at home.
 
-## R & p
+## R & P
 
 NA
 

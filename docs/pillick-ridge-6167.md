@@ -1,51 +1,36 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 - Strenuous
-
 - Day Hiking
-
 - Backpacking
-
 - Equestrian
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, equestrian
-
 - label: Distance
   icon: map-marker-distance
   value: up to 22 miles RT
-
 - label: Elevation Gain
   icon: elevation-rise
   value: 3400+ verts
-
 - label: Difficulty
   icon: speedometer
   value: Strenuous
-
 - label: Maps
   icon: map
   value: Kootenai N.F., Sawtooth & Smeads Bench topos
-
 - label: GPS
   icon: crosshairs-gps
   value: Trailhead 48°06’18" N 115°47’26" W
-
 - label: Ranger District
   icon: pine-tree
   value: Cabinet R.D. 406.827.3533
-
 - label: Lincoln County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.293.4112
 notes:
-
 - Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 
@@ -83,7 +68,7 @@ From Clark Fork, head east on Highway 200 to Highway 56 and turn left (north) on
 
 Scotchmans Peak, Cabinet Mountain Wilderness, Highway 56, Kootenai Falls, Ross Creek Cedars, and the Proposed Scotchman Peaks Wildreness.
 
-## R & p
+## R & P
 
 Clark Fork Pantry, Clark Fork  Jalapeños, Mr. Sub,
 burger Express, Eichardt’s in Sandpoint

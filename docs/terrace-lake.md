@@ -1,49 +1,35 @@
 ---
 tags:
-
 - Lakes
-
 - Easy, With Challenges
-
 - Day Hiking
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking
-
 - label: Distance
   icon: map-marker-distance
   value: Under 4 miles RT
-
 - label: Elevation
   icon: terrain
   value: slightly over 1100verts
-
 - label: Difficulty
   icon: speedometer
   value: Easy, with challenges
-
 - label: Maps
   icon: map
   value: Lolo National Forest, Vermillion Peak top
-
 - label: GPS
   icon: crosshairs-gps
   value: n47°77'00" w-115°25'71"
-
 - label: Ranger District
   icon: pine-tree
   value: thompson falls ranger district 406.826.3821
-
 - label: Sanders County Sheriff
   icon: shield-account
   value: call 911 first
 notes:
-
 - Lolo national forest/alertS
-
 - https[://www.fs.usda.gov/alerts/lolo/alerts-notices](https://www.fs.usda.gov/alerts/lolo/alerts-notices)
 ---
 
@@ -106,7 +92,7 @@ Stoney Lake, Mount Headley, Mount Vermillion & falls, Cabin Creek and Glacier Na
 
 Finding your way from Hwy 200 to the lake.
 
-## R & p
+## R & P
 
 NA
 

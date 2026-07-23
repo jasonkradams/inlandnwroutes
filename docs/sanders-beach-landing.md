@@ -1,22 +1,16 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2128’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: west 47°39’58" n 116°46’10" w. east 47°39’57" n 116°45’53" w
@@ -42,7 +36,7 @@ Drive east on I-90 to the 15th Street exit, and head south to Sanders Beach.
 
 See Atractions above
 
-## R & p
+## R & P
 
 Trails End Brewery, Franklins, Mexican Food Factory, and Moon Time.
 

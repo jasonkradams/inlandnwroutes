@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Lakes
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: about 3.8 miles shore line paddle
-
 - label: Elevation
   icon: terrain
   value: 2186’
-
 - label: Length and Acreage
   icon: vector-square
   value: 1.2 miles and 539 acres
-
 - label: Maps
   icon: map
   value: Newman Lake & Mount Spokane topos
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°46’13" n. 117°01’04" w
-
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300
@@ -50,7 +42,7 @@ From the state line, drive 1.9 miles to the Hauser Lake Road. Turn left (north) 
 
 Hayden Lake, Twin Lakes, Spirit Lake, Hauser Conservation Area, and Newman Lake with the McKenzie Conservation Area
 
-## R & p
+## R & P
 
 Rustler’s Roost for breakfast, the American Food Factory, Franklins Hoagies, and the Trails End Brewery.
 

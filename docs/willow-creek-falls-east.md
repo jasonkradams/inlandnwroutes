@@ -1,31 +1,23 @@
 ---
 tags:
-
 - Waterfalls
-
 stats:
-
 - label: Waterfall
   icon: waterfall
   value: Willow Creek Falls East
-
 - label: Drop
   icon: arrow-collapse-down
   value: Several drops
-
 - label: Waterfall Type
   icon: waterfall
   value: Several types
-
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: Lower falls are below the trailhead for about .5 milesUpper falls is about
     2.25 miles
-
 - label: Maps
   icon: map
   value: I.P.N.F., CDA River Ranger District 208.769.3000 & 208. 752.1221
-
 - label: GPS
   icon: crosshairs-gps
   value: The Stevens Lakes and Lone Lake trailhead is 47°26'16" N 115°45'57" W
@@ -67,7 +59,7 @@ Lower & Upper Stevens Lakes, Stevens Peak 6838', Lone Lake & the Upper Sanctuary
 
 All waterfalls are a hazard, due to their slippery nature. always be extra careful near any waterfall.
 
-## R & p
+## R & P
 
 Muchackos Tacos Pizza Factory in Wallace.  Radio Brewery in Keellogg
 

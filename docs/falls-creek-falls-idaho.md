@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Waterfalls
-
 stats:
-
 - label: Waterfall
   icon: waterfall
   value: falls creek falls, st. joe river road, idaho
-
 - label: Drop
   icon: arrow-collapse-down
   value: 25'
-
 - label: Waterfall Type
   icon: waterfall
   value: Tiered horsetail
-
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: 40'
-
 - label: Maps
   icon: map
   value: I.P.N.F., ST JOE N.F., St. Joe topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°19’15" n 116°12’51" w
@@ -55,7 +47,7 @@ The Rochat Divide, Crystal Lake, the Shadowy St. Joe River, Ward & Eagle Peaks, 
 
 All waterfalls are a hazard, due to their slippery nature. always be extra careful near any waterfall.Missing the falls as you are driving by is a concern. PLEASE BE CAREFUL. Continue on to a safe place to turn around
 
-## R & p
+## R & P
 
 TFP's
 55 Milwaukee Road

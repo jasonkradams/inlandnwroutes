@@ -1,63 +1,43 @@
 ---
 tags:
-
 - Lakes
-
 - Easy to Moderate
-
 - Day Hiking
-
 - Backpacking
-
 - Camping
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, camping
-
 - label: Distance
   icon: map-marker-distance
   value: 6.2 miles RT to Lake Estelle. 3 miles RT to Moose Lake
-
 - label: Elevation Gain
   icon: elevation-rise
   value: Lake Estelle 1013 verts. Moose Lake 557 verts
-
 - label: Acres
   icon: vector-square
   value: '3.1'
-
 - label: Difficulty
   icon: speedometer
   value: easy to moderate
-
 - label: Maps
   icon: map
   value: I.P.N.F., Mount Pend Orielle, Smith Mountain, Benning Mountain, and Trestle
     Peak topos
-
 - label: GPS
   icon: crosshairs-gps
   value: Moose Lake. 48°21’16" N 116006’33" W
-
 - label: Ranger District
   icon: pine-tree
   value: Sandpoint R.D. 208.263.5111
-
 - label: Bonner County Sheriff
   icon: shield-account
   value: 911 or 208.263.8417
 notes:
-
 - Moose Mountain 48°20’46" N 116°07’23" W
-
 - Idaho panhandle national forest/alerts
-
-- '[https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)'
----
-
+- '[https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)'---
 # Lake Estelle
 
 ## Description
@@ -107,7 +87,7 @@ None of note
 
 Lake Estelle, Gem Lake, Pend Orielle Lake, Lunch Peak Fire Lookout & Mount Pend Orielle Peak, Char Falls, and Scotchman’s Peak.
 
-## R & p
+## R & P
 
 Squeeze Inn and the Clark Fork Pantry on Clark Fork. Jalapeños, Mr. Sub, Burgher Express,  and Eichardt’s in Sandpoint.
 

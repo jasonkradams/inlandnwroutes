@@ -1,15 +1,10 @@
 ---
 title: "Blog #13: The Importance of Carrying a Pack & 13 Essentials"
-
 date: 2023-07-06
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Trail Safety & Gear
 ---
 

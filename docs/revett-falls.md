@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Waterfalls
-
 stats:
-
 - label: Waterfall
   icon: waterfall
   value: revett falls
-
 - label: Drop
   icon: arrow-collapse-down
   value: 20'
-
 - label: Waterfall Type
   icon: waterfall
   value: Tiered
-
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: .8 miles
-
 - label: Maps
   icon: map
   value: I.P.N.F., Burke & Thompson Pass topos
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°56’09" N 115°??75’?10" W. Wallace Ranger District 208.752.1221
@@ -59,7 +51,7 @@ Settler's Grove of  ancient Cedars, historic Murray, L. & U. Blossom Lakes, Pear
 
 None to the Lake, unless you who in the snow.
 
-## R & p
+## R & P
 
 Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ & Saloon, Wallace Brewing Co., Muchacho’s Tacos in Wallace. Radio Brewing in Kellogg. , the Snake Pit, Moon Time, and the Mexican Food Factory
 

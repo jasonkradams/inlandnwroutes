@@ -1,54 +1,37 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 - Difficult
-
 - Hiking
-
 - Backpacking
-
 - Fishing
-
 - Scrambling
-
 - Camping
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Hiking, backpacking, fishing, scrambling, and camping.
-
 - label: Distance
   icon: map-marker-distance
   value: 12 miles RT
-
 - label: Elevation Gain
   icon: elevation-rise
   value: 3700 verts
-
 - label: Difficulty
   icon: speedometer
   value: Difficult
-
 - label: Maps
   icon: map
   value: Kootenai N. F., Treasure Mountain
-
 - label: GPS
   icon: crosshairs-gps
   value: Upper Sky Lake. 48°19’12" N 115°42’55" W Hanging Valley. (Lake). 48°19’04"
     N 115°41’18" w.
-
 - label: Lincoln County Sheriff
   icon: shield-account
   value: CALL 911 FIRST, or 406.293.4112
 notes:
-
 - libby ranger district 406.293.7773
-
 - Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 
@@ -87,7 +70,7 @@ Trail #135 is steep and rugged, with a poorly maintained trail.
 
 Ross Creek Cedars, Cedar Lakes, Dome Mountain, Kootenai Falls, the Proposed Scotchman Peaks Wilderness, Granite Lake, and Leigh Lake.
 
-## R & p
+## R & P
 
 Henry’s, Pizza Hut, The Shed, Rosaeurs in Libby. Clark Fork Pantry & Squeeze Inn in Clark Fork. Eicharts, Mr Sub, Burger Express, Jalapeños in Sandpoint
 

@@ -1,27 +1,20 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2067’
-
 - label: Length and Acreage
   icon: vector-square
   value: 65 miles long, 125 miles if shore line, 148 square miles or 88,008 acres
     and 1150’ deep
-
 - label: Maps
   icon: map
   value: Packsaddle Mountain Topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°07’43" n 116°28’ 4" w
@@ -50,7 +43,7 @@ Please, do not litter or leave any human waste. and please be resectful.
 
 To the north is Umbrella Point and Garfield Bay. To the south is Maiden Rock Boat Camp, and Evans Landing. Evans Landingbis foot and boat access only, no roads.
 
-## R & p
+## R & P
 
 In Sandpoint is Mr. Sub, Eichardt’s, Jalapeños, and Burger Express in Dover.
 

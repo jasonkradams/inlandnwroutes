@@ -1,15 +1,10 @@
 ---
 title: "Blog #74: Our earth's water"
-
 date: 2024-10-03
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Winter Sports
 ---
 

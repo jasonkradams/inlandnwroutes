@@ -1,6 +1,6 @@
 # 14 Essentials
 
-as you read this section, please understand that it is designed to inform you.  but more importantly, all these topics are things you should do your own research on to further your knowledge. The most important thing you can take with you on your outing is…… Knowledge
+as you read this section, please understand that it is designed to inform you. but more importantly, all these topics are things you should do your own research on to further your knowledge. The most important thing you can take with you on your outing is…… Knowledge
 
 ## 14+ essentials
 
@@ -8,31 +8,32 @@ as you read this section, please understand that it is designed to inform you.  
 
 These items are to be carried by EVERY INDIVIDUAL, whether hiking solo or in a group. Couples are especially encouraged to carry their own 14 essentials, as well as their own food, water, and first aid supplies, just in case one or the other gets separated from their spouse or group. Please, error on the side of caution. NEVER rely on others. And know your equipment inside and out, before venturing into nature. KNOWLEDGE is the most important thing you can take into the mountains.
 
-1. fire starter.
+## 1. Fire Starter
 
-Waterproof  matches, lighters, small road flares (for winter conditions).
+Waterproof matches, lighters, small road flares (for winter conditions).
 There are commercial pastes, matches, and other types of fire starters on the market.
 
 When in nature, you may notice the stringy lichen hanging from tree limbs. Beard lichen is an excellent fire starter, and can be used as a sponge for collecting water.
 
 Another use for something we all have around the house is dryer lint. Wrap it in paper like a tube, in a ziplock baggie, or stuff into an extra light container. Keep them in your 13 essentials for emergency use. See "HINTS"
 
-1. plastic grocery bags
+## 2. Plastic Grocery Bags
 
 I have added PLASTIC GROCERY BAGS, because it is up to US to take care of our FORESTS, LAKES, STREAMS, RIVERS, AND TRAILS.
 
-In 2024 I personally extinguished three camp fires that were left burning for up to 3 days. Because I always pick up others trash and clean fire rings of debris.  During a hike to Upper Glidden Lake to have dinner, I noticed that the fire pit was still hot. I had already picked up a lot of their trash, so I emptied the bag and went to the lake to scoop up about 1.5 gallons of water, 4 times.
+In 2024 I personally extinguished three camp fires that were left burning for up to 3 days. Because I always pick up others trash and clean fire rings of debris. During a hike to Upper Glidden Lake to have dinner, I noticed that the fire pit was still hot. I had already picked up a lot of their trash, so I emptied the bag and went to the lake to scoop up about 1.5 gallons of water, 4 times.
 
-Plastic grocery bags only weigh 6 grams per bag, and those 6 grams, could save a forest. But they can’t hold the weight of 1.5 gallons with holes in them. The next time you are at a Grocery Outlet, snag 6-12 grocery bags.  Fold them up to fit in a ziplock bag, and keep them on your pack. They are stronger than most and can be used for so many purposes.
+Plastic grocery bags only weigh 6 grams per bag, and those 6 grams, could save a forest. But they can’t hold the weight of 1.5 gallons with holes in them. The next time you are at a Grocery Outlet, snag 6-12 grocery bags. Fold them up to fit in a ziplock bag, and keep them on your pack. They are stronger than most and can be used for so many purposes.
 
 Please be kind to our natural forests resources.
 
-1. rain gear, umbrella, poncho
+## 3. Rain Gear, Umbrella, Poncho
+
 It is essential that you stay as dry as possible. Rain suits tend to be too hot, while ponchos have more breathing ability. An umbrella is my choice for any hike that may be raining or snowing. Always carry a large lawn bag with many paper towels folded up.
 
 The lawn bag can be used as rain gear, and weights very little.
 
-1. map & compass...gps
+## 4. Map & Compass...GPS
 
 These items are useful tools
 
@@ -42,7 +43,7 @@ If nothing else, PLEASE make a copy of the area you will be visiting, for each h
 
 ### You must calibrate your watch that has a compass built into it, as well as your GPS
 
-### Paper clip,  pin, nail
+### Paper clip, pin, nail
 
 ### Another way to tell which way is magnetic north, I learned while watching NCIS. In your 14 ESSENTIAL pack, carry several paper clips
 
@@ -56,14 +57,14 @@ If nothing else, PLEASE make a copy of the area you will be visiting, for each h
 
 ### Stick method
 
-**In a  clearing, pound the stick in the ground, and place a rock at the tip of the shadow. Wait 15 minutes and place a rock at the tip of the shadow. The first rock will be on the west, while the second rock will be east. half way between the two is north, and****opposite to the sun.**
+**In a clearing, pound the stick in the ground, and place a rock at the tip of the shadow. Wait 15 minutes and place a rock at the tip of the shadow. The first rock will be on the west, while the second rock will be east. half way between the two is north, and\****opposite to the sun.**
 
 ### Using the stars
 
 **Thruout life, and observe the stars often for weeks before a hike. By doing this, you will know what constellations are in the south, or the rotation of the Big Dipper in the north.
-You can also look for the two stars farthest from the handle, of the Big Dipper.  Draw a line from the bottom star to the top star, and continue for about 5 times the distance of the two stars. They will be pointing at the****North Star, also known as Polaris.**
+You can also look for the two stars farthest from the handle, of the Big Dipper. Draw a line from the bottom star to the top star, and continue for about 5 times the distance of the two stars. They will be pointing at the\****North Star, also known as Polaris.**
 
-1. extra food.
+## 5. Extra Food
 
 ### Always carry extra food, maybe in the form of energy bars, but always high in protein. Choose an energy bar that does not require a lot of water to digest. Change out often
 
@@ -71,52 +72,59 @@ You can also look for the two stars farthest from the handle, of the Big Dipper.
 
 ### My choice is a MET RX bar. They are available in the pharmacy at Walmart and at Winco. They have 32 grams of protein and 19 vitamins and minerals
 
-1. extra water or water purifier
- Because water is not always available along some trails, carrying enough water is paramount. I often drop water bottles along an out and back route, so I don’t have to carry so much water the full distance. Mark location carefully. See "HINTS"
+## 6. Extra Water or Water Purifier
 
-1. extra clothing
+Because water is not always available along some trails, carrying enough water is paramount. I often drop water bottles along an out and back route, so I don’t have to carry so much water the full distance. Mark location carefully. See "HINTS"
+
+## 7. Extra Clothing
+
 Socks come to mind as an important item to have in case your feet get wet. A micro-fiber cloth works well and dries quickly. Other items may include polar fleece jacket and/or pants, spare wool or fleece gloves, stocking caps, and face masks. See "HINTS"
 
-1. paper towels & trowel
+## 8. paper towels & trowel
+
 I suggest paper towels over toilet paper, because a blow is very messy. The USFS suggests that all human waste be buried at least 6 inches deep, AND AT LEAST 200 FEET FROM ANY WATER SOURCE. THAT INCLUDES PEE.
 
 I carry several ziplock bags of paper towels in my pack. They are light, and can be of great value, if needed.
 
-1. shelter
+## 9. Shelter
+
 A piece of plastic sheeting and twine will suffice for a shelter if needed. However, a very light bivy tent is a good choice. There are other options to consider.
 
-1. headlight & extra batteries
+## 10. Headlight & Extra Batteries
+
 I date my batteries when I install them in my headlight. Modern LED/LCD/COB headlights don’t need spare bulbs, so a second headlight is advised. Check the batteries before every trip to make sure you will have light when needed.
 A COB type of headlight floods the view with way more lumens , hence I've noticed that depth of field and obstacles awareness is improved substantially. See "HINTS"
 
-1. knife
+## 11. Knife
+
 I carry several sizes of knives. One for small work like cutting up apples, but a large one if I’m on a potential difficult hike. A large Bowie type knife can be used to make kindling. See "HINTS"
 
-1. first aid kit
+## 12. First Aid Kit
+
 You must decide what you take with you. Be extra careful in your selection of proper First Aid supplies.
 
- Remember, you are responsible for yourself.
+Remember, you are responsible for yourself.
 
 Carry what you may need, and add as necessary. Feminine pads are great items to have in your first aid kit.
 
 Once on a week long ski trip in Kokanee Glacier National Park, one of the women started her period early. She was two weeks early, so she was in a bad way. We made a game of creating pads from the very sparse inventory of materials. It worked. And think of this...you could be a savior in case of a normal emergency. See "HINTS"
 
-1.
+## 13. Signaling Devises
 
-1. signaling devises
 A whistle, canned air horn, or a mirror work well.
 
-14. sun tan lotion & sun protection
- Make sure your sun tan lotion is always fresh, and close at hand. I prefer a large sun hat like Sunday Afternoon, Solaris, or Sun Blocker. 100% UVA/UVB/IRA sun glasses are wise. If you spend time on snow, side and nose shades on sun glasses will protect your eyes and nose from reflected rays. Snow blindness is a very serious affliction while out. See"HINTS".
+## 14. sun tan lotion & sun protection
 
-### S.t.o.p
+Make sure your sun tan lotion is always fresh, and close at hand. I prefer a large sun hat like Sunday Afternoon, Solaris, or Sun Blocker. 100% UVA/UVB/IRA sun glasses are wise. If you spend time on snow, side and nose shades on sun glasses will protect your eyes and nose from reflected rays. Snow blindness is a very serious affliction while out. See"HINTS".
+
+### S T O P
 
 The below is information you need to know in the case you become misplaced.
 Along with the information on this entire page, you can reduce your risk of getting lost, and how you can manage yourself after you realize you are misplaced.
 
-### Stop     think    observe     plan
+### Stop think observe plan
 
-**S**……STOP your movement and sit down and calm yourself. This is by far the hardest part of being lost.  Start making noise with your whistle.
+**S**……STOP your movement and sit down and calm yourself. This is by far the hardest part of being lost. Start making noise with your whistle.
 Three blasts of any noise means someone (maybe you) needs help. Keep making noise until you doze off.
 **T**…..THINK calm down. Make sure you are calm enough to make wise decisions.
 **O**…..OBSERVE look far and wide to see if you recognize any terrain features, trails, paths, rock bands, forests, scree slopes, summits, etc.
@@ -125,7 +133,7 @@ If one or more terrain features looks familiar, observe what it looks like now, 
 Think this thru very carefully. What you decide, may save or cost you your life.
 Well before you head out to hike, be sure to you pack your 14 ESSENTIALS pouch.
 And if you have to spend the night out, start preparing your "camp" early. Creating a place to spend the night can be difficult the darker and colder it gets.
-Gather wood for a fire, but only if it’s safe to lite one.  If you are in a forest with light or dark colored stringy Lichen, hanging from tree branches, they are very good fire starter.
+Gather wood for a fire, but only if it’s safe to lite one. If you are in a forest with light or dark colored stringy Lichen, hanging from tree branches, they are very good fire starter.
 Pine bowls can be used for making a soft place to rest/sleep, and can act as a blanket.
 Something I’ve done both in a group or solo, is mark the trail with a distinguishing mark. Put an X or arrow pointing in the direction you are walking.
 When I come across it again, it gives me a clue as to where I was. Include an arrow showing the direction of travel. If you come across it again, you can correct your course, if needed.
@@ -147,7 +155,7 @@ Life flight network
 800.982.9299
 Lifeflight.org
 If you ever need to be transported because of a medical emergency, Life Flight is a small membership fee, to pay for the services they provide.
-A helicopter transport may cost tens of thousands of dollars. But for under 100$,  you and all dependents living at your address are covered.
+A helicopter transport may cost tens of thousands of dollars. But for under 100$, you and all dependents living at your address are covered.
 This membership does not act as a rescue service, tho.
 Your transportation is determined by your medical need to be rushed to the nearest hospital.
 It also covers ground and fixed wing medical transportation.
@@ -181,7 +189,7 @@ Please be of help and be responsible.
 
 -A face towel or a bandanna works well to wipe sweat out of your eyes.
 
--A large leaf bag can be used to keep you dry. Punch *small* arm and neck holes where needed and pull it on. I’ve used string to secure my chest and hips from getting caught on branches.
+-A large leaf bag can be used to keep you dry. Punch _small_ arm and neck holes where needed and pull it on. I’ve used string to secure my chest and hips from getting caught on branches.
 
 Take along a length of parachute cord to secure items, make a tent, etc.
 

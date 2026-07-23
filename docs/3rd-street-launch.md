@@ -1,26 +1,19 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: 4.7 mile loop
-
 - label: Elevation
   icon: terrain
   value: 2047’
-
 - label: Length and Acreage
   icon: vector-square
   value: 1.7 miles long and 708 acres
-
 - label: Maps
   icon: map
   value: Liberty Lake Regional Park,
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°39’14" n 117°05’02" w
@@ -49,7 +42,7 @@ Take the Liberty Lake exit off the freeway, and drive south on N. Liberty Lake R
 
 Both Mica Peaks, Liberty Lake Regional Park,
 
-## R & p
+## R & P
 
 NA
 

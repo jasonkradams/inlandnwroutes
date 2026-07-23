@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2066’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Maps
   icon: map
   value: IPNF, Priest River Topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°10’50" n 116°53’33" w
-
 - label: Bonner County Sheriff
   icon: shield-account
   value: 208.263.8417
@@ -49,7 +41,7 @@ From the stop light in Priest River, drive east on Hwy 2 for 1.3 miles to the en
 
 The American Selkirks, Upper & Lower Priest Lakes, Round Lake State Park, and the Pend Orielle River.
 
-## R & p
+## R & P
 
 Burger Express
 

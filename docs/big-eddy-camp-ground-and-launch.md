@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: The Lower Clark Fork River
-
 - label: Elevation
   icon: terrain
   value: 2177’
-
 - label: Length and Acreage
   icon: vector-square
   value: na
-
 - label: Maps
   icon: map
   value: Kootenai National Forest
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°04’01 n 115°55’38" w
-
 - label: Sanders County Sheriff
   icon: shield-account
   value: 406.827.3584
@@ -48,7 +40,7 @@ From Clark Fork, Idaho, drive east on Hwy 200 into Montana. In about 7 miles fro
 
 Bull River, the Noxon Reservoir, and the Johnson Creek Delta.
 
-## R & p
+## R & P
 
 Clark Fork Pantry, Squeeze Inn (not in winter months), Clark Fork.
 

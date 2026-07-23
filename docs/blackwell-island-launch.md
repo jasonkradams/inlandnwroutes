@@ -1,26 +1,19 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: kayaking, canoeing, SUP
-
 - label: Elevation
   icon: terrain
   value: 2128’
-
 - label: Length and Acreage
   icon: vector-square
   value: 25 miles & 49.81 square miles
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°41’10" n 116°48’19" w
-
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300
@@ -48,7 +41,7 @@ Drive I-90 east to the CDA’s first exit, Northwest Boulevard. Head SW down Nor
 
 NIC’s W. River Road and beach, CDA’s City Beach, Tubbs Hill, Sanders Beach, Cougar Bay, Casio Bay, and Kidd Island.
 
-## R & p
+## R & P
 
 Moon Time, Franklins Hoagies, Mexican Food Factory, and the Trail’s End Brewery
 

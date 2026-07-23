@@ -1,45 +1,33 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 stats:
-
 - label: Acres
   icon: vector-square
   value: '3850'
-
 - label: Summit Elevation
   icon: terrain
   value: 6807'
-
 - label: Base Elevation
   icon: terrain
   value: 3887'
-
 - label: Verts
   icon: arrow-expand-vertical
   value: 2920'
-
 - label: Runs
   icon: ski
   value: '119'
-
 - label: Lifts
   icon: gondola
   value: '8'
-
 - label: Distance from Spokane
   icon: map-marker-distance
   value: 124 miles
-
 - label: Amenities
   icon: star-outline
   value: xc, ns, cat s,
 notes:
-
 - Redresort.com
-
 - 800.663.0105
 ---
 

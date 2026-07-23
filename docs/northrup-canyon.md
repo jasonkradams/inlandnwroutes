@@ -1,50 +1,35 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 - Moderate
-
 - Day Hiking
-
 - Backpacking
-
 - Equestrian
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, & equestrian.
-
 - label: Distance
   icon: map-marker-distance
   value: 7 miles RT
-
 - label: Elevation
   icon: terrain
   value: 510’
-
 - label: Acres
   icon: vector-square
   value: '2.5'
-
 - label: Difficulty
   icon: speedometer
   value: Moderate
-
 - label: Maps
   icon: map
   value: Steamboat Rock SE, Electric City topos
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°51’96’ n 119°04’95" w
-
 - label: Managing Agency
   icon: domain
   value: w.s.p.& r. 509.636.1304
-
 - label: Grant County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 509.536.1200
@@ -111,7 +96,7 @@ There are safety shin guards you can buy to protect from snake bites.
 
 Steamboat Rock, Banks Lake, Grand Coulee Dam, Lenore Caves, and Sun Lakes-Dry Falls State Park
 
-## R & p
+## R & P
 
 Harvest Retsaurant. Lenny’s In Cheney
 

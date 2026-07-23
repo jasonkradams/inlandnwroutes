@@ -1,31 +1,23 @@
 ---
 tags:
-
 - Waterfalls
-
 stats:
-
 - label: Waterfall
   icon: waterfall
   value: Granite Creek Falls
-
 - label: Drop
   icon: arrow-collapse-down
   value: 10' and hundreds of feet
-
 - label: Waterfall Type
   icon: waterfall
   value: Plunge and serious cascades
-
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: 2.3 miles to Granite Falls, & about 8.5 miles to the back wall of A Peak
     8634'
-
 - label: Maps
   icon: map
   value: Kootenai N.F., Treasure Mountain & Snowshoe Peak topes
-
 - label: GPS
   icon: crosshairs-gps
   value: Approximate coordinates 48°17’?13" N 115°40’14" W
@@ -54,7 +46,7 @@ Historic Libby, Montana, Leigh Lake, Snowshoe Peak, Upper & Lower Geiger Lakes w
 
 All waterfalls are a hazard, due to their slippery nature. always be extra careful near any waterfall.In the spring the entire forest around Granite Falls can be flooded due to spring run off.
 
-## R & p
+## R & P
 
 For a 1950’s dining experience, stop by Henry’s. It is located close to the Roseaurs, Pizza Hut, in Libby, Clark Fork Pantry & Squeeze In in Clark Fork. , Eicharts, Mr Sub & Jalapeños in Sandpoint.
 In Libby, try The Shed

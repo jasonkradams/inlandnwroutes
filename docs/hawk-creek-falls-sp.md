@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Waterfalls
-
 stats:
-
 - label: Waterfall
   icon: waterfall
   value: Hawk Creek Falls State Park
-
 - label: Drop
   icon: arrow-collapse-down
   value: About 40 feet
-
 - label: Waterfall Type
   icon: waterfall
   value: chute
-
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: 300 feet
-
 - label: Maps
   icon: map
   value: Washington State Parks
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°81'09' n 118°31'04"w
@@ -74,7 +66,7 @@ All waterfalls are a hazard, due to their slippery nature. always be extra caref
 As in any walks in the Washington Scablands, you must be aware of rattlesnakes.
 There are lower leg wraps that will protect you from snake bites.
 
-## R & p
+## R & P
 
 Lenny’s in Cheney
 

@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2067’
-
 - label: Length and Acreage
   icon: vector-square
   value: 65 miles long, & 148 square miles and 1150’ deep.
-
 - label: Maps
   icon: map
   value: Bayview Topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°58’50" n 116°33’30" w
-
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300
@@ -86,7 +78,7 @@ Drive about 17.7 miles to the Athol exit, and turn right (East) onto Hwy 54. Aft
 Silverwood Theme Park. I only list this, because the more people at Silverwood, the less on the lake.
 Other cool things are Lake Cocolalla, Packsaddle Mountain, Lakeview, and N. & S. Chilco Peaks
 
-## R & p
+## R & P
 
 Trails End Brewery, Mexican Food Factory, Franklins Hoagies, and the Moon Time.
 

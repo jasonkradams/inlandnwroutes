@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Lakes
-
 stats:
-
 - label: Waterfall
   icon: waterfall
   value: St. Paul Lake Waterfalls
-
 - label: Drop
   icon: arrow-collapse-down
   value: Varies from about 25' to 60'
-
 - label: Waterfall Type
   icon: hiking
   value: Plunge, Horsetail, Tiered, Ribbon and more
-
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: 4.5 miles one way
-
 - label: Maps
   icon: map
   value: Kootenai N.F., C.M.W., Elephant Peak topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 48°05’24" w 115°39’32" n
@@ -73,7 +65,7 @@ There is no visible outlet to the lake, so the shore line is very steep. Take ex
 The falls
 The falls are located on the south side of the lake, up in the forest. Because of the steep terrain and wet rocks, take every precaution as you scramble up to the many falls.
 
-## R & p
+## R & P
 
 Henry’s & Pizza Hut, in Libby, Clark Fork Pantry, Eicharts, Mr Sub & Jalapeños in Sandpoint
 

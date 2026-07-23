@@ -1,15 +1,10 @@
 ---
 title: "Blog #24: INaturalist"
-
 date: 2023-07-30
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Flora & Wildlife
 ---
 

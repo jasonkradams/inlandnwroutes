@@ -1,51 +1,36 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 - Difficult
-
 - Hiking
-
 - Backpacking
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Hiking & Backpacking
-
 - label: Distance
   icon: map-marker-distance
   value: 35 Miles RT, (Pyramid Pass 2.7 & 1300 verts)
-
 - label: Elevation Gain
   icon: elevation-rise
   value: From the Canyon Creek TH 5280’ from Parker Creek TH 4570’
-
 - label: Difficulty
   icon: speedometer
   value: Difficult
-
 - label: Maps
   icon: map
   value: IPNF, Kaniksu N.F., Smith Peak, Pyramid Peak, Shorty Peak
-
 - label: GPS
   icon: crosshairs-gps
   value: 48°52’25" n 116°35’16" w
-
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561
-
 - label: Boundary County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.267.3151
 notes:
-
 - Idaho panhandle national forest/alerts
-
 - '[https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)'
 ---
 
@@ -68,7 +53,7 @@ From the Kootenai National Wildlife Refuge, drive north 10 miles to the Trout Cr
 
 Fisher Peak, Shorty & Lone Tree Peaks, Cutoff Peak, Red Top Mt, West Fork Lake & Peak, the Purcell Trench, Bonners Ferry, and across the Purcell Trench, is the Northwest Peaks Scenic Area. It’s located in Montana right next to Idaho and Canada.
 
-## R & p
+## R & P
 
 Jalapeños, Mr. Sub, Burger Express, Eicharts in Sandpoint
 

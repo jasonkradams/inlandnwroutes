@@ -1,55 +1,38 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 - Moderate
-
 - Day Hiking
-
 - Backpacking
-
 - Fishing
-
 - Scrambling
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, fishing, scrambling
-
 - label: Distance
   icon: map-marker-distance
   value: 8.5 miles RT
-
 - label: Elevation Gain
   icon: elevation-rise
   value: 2950’
-
 - label: Difficulty
   icon: speedometer
   value: Moderate
-
 - label: Maps
   icon: map
   value: Lolo N. F., Plains-Thompson Falls
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°68’72" n 115°29’07" w
-
 - label: Plains/thompson Falls Ranger District
   icon: pine-tree
   value: 406.826.3821
-
 - label: Sanders County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.827.3584
 notes:
-
 - Lolo national forest/alerts
-
 - https[://www.fs.usda.gov/alerts/lolo/alerts-notices](https://www.fs.usda.gov/alerts/lolo/alerts-notices)
 ---
 
@@ -80,7 +63,7 @@ No notable hazards, until you hike up to Cube Iron Mountain. Then be cautious up
 
 Lower & Upper Blosson Lakes, Revett Lake, Granite Peak, Siamese Lake Loop, Heart Lake, Hub Lake, Ward & Eagle Peaks, St. Regis Lakes.
 
-## R & p
+## R & P
 
 NA
 

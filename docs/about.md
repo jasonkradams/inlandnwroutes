@@ -95,7 +95,7 @@ Now it is your responsibility to work thru them without hurting yourself or allo
 
 If at any time you feel uncomfortable, stop. tell the others. make a plan. if you go the distance, it will be much harder to get you out.
 
-R & p or restaurants and pubs.
+R & P or restaurants and pubs.
 Some of these hikes are difficult, and tax your nutritional needs.
 
 So after a hike, the restaurants and pubs listed, will get you good food to resupply your caloric losses during the outing.

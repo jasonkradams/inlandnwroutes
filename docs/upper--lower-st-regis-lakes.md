@@ -1,59 +1,41 @@
 ---
 tags:
-
 - Lakes
-
 - Easy
-
 - Day Hiking
-
 - Backpacking
-
 - Fishing
-
 - Backcountry. Skiing
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, fishing, Backcountry. Skiing.
-
 - label: Distance
   icon: map-marker-distance
   value: 6 miles RT
-
 - label: Elevation
   icon: terrain
   value: gains 1090 verts
-
 - label: Acres
   icon: vector-square
   value: '8.62'
-
 - label: Difficulty
   icon: speedometer
   value: easy
-
 - label: Maps
   icon: map
   value: I.P.N.F., LOLO N.F., Lookout Pass topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°42’65" n -115°75’10" w
-
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
-
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
 notes:
-
 - Idaho panhandle national forest/alerts
-
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -84,7 +66,7 @@ During spring high water, crossing the river may be more difficult above the tra
 
 Lookout Pass Ski Area, Route of the Hiawatha, The Trail of the Coeur d'Alenes, historic Wallace, Idaho, and Montana, Stevens Lakes, and Lone Lake
 
-## R & p
+## R & P
 
 Radio Brewing in Kellogg, Pizza Factory and Muchacho’s Tacos in Wallace
 

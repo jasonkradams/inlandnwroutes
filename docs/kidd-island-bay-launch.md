@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2128’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Maps
   icon: map
   value: IPNF, Mica Bay topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°37’58" n 116°48’22" w
-
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300
@@ -50,7 +42,7 @@ From CDA and the Spokane River Bridge, drive south on 95 to Mica. Turn left (Eas
 
 Kidd Island (private), and Cougar Bay
 
-## R & p
+## R & P
 
 Trails End Brewery, Franklins Hoagies, Mexican Food Factory, and Moon Time.
 

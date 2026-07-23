@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: 4.5 miles
-
 - label: Elevation
   icon: terrain
   value: 2320’
-
 - label: Length and Acreage
   icon: vector-square
   value: 4.5 miles & 1202 acres
-
 - label: Maps
   icon: map
   value: Kootenai N. F., Bull Lake Topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°13’11" n 115°51’22" w
-
 - label: Lincoln County Sheriff
   icon: shield-account
   value: 406.293.4112
@@ -50,7 +42,7 @@ Turn left (west) and follow the road to the boat launch.
 
 Cabinet Mountain Wilderness, Lake Koocanusa, Libby, Rock Lake, the Proposed Scotchman Peak Wilderness, and Kootenai Falls.
 
-## R & p
+## R & P
 
 Clark Fork Pantry In Clark Fork, Henry’s in Libby.
 

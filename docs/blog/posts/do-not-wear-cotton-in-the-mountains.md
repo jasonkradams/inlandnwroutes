@@ -1,15 +1,10 @@
 ---
 title: "Blog #33: Do not wear cotton in the mountains"
-
 date: 2023-09-11
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Trail Safety & Gear
 ---
 

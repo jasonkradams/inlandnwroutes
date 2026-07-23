@@ -1,56 +1,38 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 - Day Hiking
-
 - Lookout Rental
-
 - Equestrian
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, lookout rental, equestrian
-
 - label: Distance
   icon: map-marker-distance
   value: '1.4 mile from the gate, plus Trail #81, up the Shoshone Ridge'
-
 - label: Elevation Gain
   icon: elevation-rise
   value: 540 verts
-
 - label: Difficulty
   icon: speedometer
   value: easy to lookout & moderate on the Shoshone Ridge trail
-
 - label: Maps
   icon: map
   value: IPNF, Mount Pend Orielle Topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°48’ 34" n 116°01’25 w
-
 - label: Ranger District
   icon: pine-tree
   value: cda river r.d. 208.769.3000
-
 - label: Shoshone County Sherrif
   icon: information-outline
   value: 911 or 208.556.1114
 notes:
-
 - Idaho panhandle national forest/alerts[https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)
-
 - Idaho panhandle national forest/alerts
-
-- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
----
-
+- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>---
 # Little Guard Peak  Lookout
 
 *Little guard peak 6031’ & lookout trail #81*
@@ -85,7 +67,7 @@ Fern, Shadow, and Continental Falls, Upper CDA River National Recreation Trail #
 
 None to the lookout. From the lookout to the high point 4.3 miles along the Shoshone Ridge Trail #81 is on the ridge the whole way. Use caution.
 
-## R & p
+## R & P
 
 The Snake Pit, and the Radio Brewery in Kellogg. The Moon Time in CDA.
 

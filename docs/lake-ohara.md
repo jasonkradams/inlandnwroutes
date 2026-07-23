@@ -1,32 +1,23 @@
 ---
 tags:
-
 - Lakes
-
 - Easy
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Bus into the campground and do world class day hikes from there
-
 - label: Distance
   icon: map-marker-distance
   value: 1.75 miles
-
 - label: Elevation
   icon: terrain
   value: Minor ups and downs
-
 - label: Difficulty
   icon: speedometer
   value: Easy
-
 - label: Maps
   icon: map
   value: Lake O'Hara Trail Map - Yoho National Parks, Canada
-
 - label: GPS
   icon: crosshairs-gps
   value: 51°21'23.7"n 116°20'03.0"w
@@ -87,7 +78,7 @@ Abbot Pass and Hut (ACC), Elizabeth Parker Hut (ACC), Sentinel Pass
 
 A child could do the Alpine Circuit but there are sections that you do not want to fall off of the trail.
 
-## R & p
+## R & P
 
 Afternoon Tea at the Lake O'Hara Lodge. Deer Lodge for smoked ham and eggs.
 

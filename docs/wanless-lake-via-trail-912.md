@@ -1,55 +1,39 @@
 ---
 tags:
-
 - Lakes
-
 - Strenuous
-
 - Fast Day Hiking
-
 - Backpacking
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Fast day hiking, backpacking
-
 - label: Distance
   icon: map-marker-distance
   value: 26 miles RT
-
 - label: Elevation
   icon: terrain
   value: 2500’
-
 - label: Acres
   icon: vector-square
   value: '111.5'
-
 - label: Difficulty
   icon: speedometer
   value: Strenuous
-
 - label: Maps
   icon: map
   value: Kootenai N.F., Noxon Rapids, Howard Lake, Goat Peak
-
 - label: GPS
   icon: crosshairs-gps
   value: Swamp Creek Trailhead. 47°55’02" N 115°37’00" W
-
 - label: Ranger District
   icon: pine-tree
   value: Cabinet Ranger District 406.827.3533
-
 - label: Lincoln County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.293.4112
 notes:
-
 - Kootenai national forest/alerts
-
 - <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 
@@ -107,7 +91,7 @@ MCKAY Creek Road #1022
 
 Take Hwy 200, to 3 miles past the Noxon Bridge to the McKay Creek Road #1022. It’s turn off is opposite the Noxon Rapids Viewpoint. Turn left NE and drive 4 miles to the trailhead.
 
-## R & p
+## R & P
 
 Henry’s & Pizza Hut, in Libby, Clark Fork Pantry, Eicharts, Mr Sub & Jalapeños in Sandpoint
 

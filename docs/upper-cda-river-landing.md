@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2182’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Maps
   icon: map
   value: varies
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: varies
-
 - label: Shoshone County Sheriff
   icon: shield-account
   value: 208.556.1114
@@ -80,7 +72,7 @@ From Kingston, turn left over the freeway and up the CDA River Road to several p
 
 Shadow, Fern, and Centennial Falls, Little Guard Lookout Rental, Bloom Peak on the Idaho-Montana boarder.
 
-## R & p
+## R & P
 
 Radio Brewery and Noah’s at Silver Mountain in Kellogg
 

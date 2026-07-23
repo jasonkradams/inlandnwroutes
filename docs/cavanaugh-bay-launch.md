@@ -1,17 +1,12 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: ??° ??’ ??.?"n ???° ??’ ??.?"w
 ---
-
 # Cavanaugh Bay Launch
-
 ## Description
 
 ## Attractions
@@ -20,7 +15,7 @@ stats:
 
 ## Cool things close by
 
-## R & p
+## R & P
 
 ---
 

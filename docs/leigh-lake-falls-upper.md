@@ -1,31 +1,23 @@
 ---
 tags:
-
 - Lakes
-
 stats:
-
 - label: Waterfall
   icon: waterfall
   value: Leigh Lake, Cabinet Mountain Wilderness, Montana
-
 - label: Drop
   icon: arrow-collapse-down
   value: So many of all types
-
 - label: Waterfall Type
   icon: hiking
   value: Every kind except Plunge Pool
-
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: 1.52 miles and gains 1104 verts
-
 - label: Maps
   icon: map
   value: Kootenai National Forest, Libby Ranger District, 406.293.7773, Snowshoe Peak
     topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 48°13’27" n 115°??39’?39" w
@@ -81,7 +73,7 @@ The Proposed Scotchman Peaks Wilderness, the Bull River and Lake, and the Clark 
 All waterfalls are a hazard, due to their slippery nature. always be extra careful near any waterfall.
 Please keep a close eye on your children when climbing the vertical section above the Leigh Creek Falls.
 
-## R & p
+## R & P
 
 Henry's Restaurant, The Shed in Libby.
 

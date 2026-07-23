@@ -1,37 +1,26 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 - Day Hiking
-
 - Backpacking
-
 - Hut Stays
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, hut stays, world class rock climbing.
-
 - label: Distance
   icon: map-marker-distance
   value: About 10.5 miles RT to Cobalt Lake. Conrad Kain Hut about 6.2 miles RT, but
     it takes most of a day, and is very scenic.
-
 - label: Elevation Gain
   icon: elevation-rise
   value: Cobalt Lake, 2297’. Conrad Kain Hut, 2640’
-
 - label: Difficulty
   icon: speedometer
   value: Moderately Difficult and complicated to the hut
-
 - label: Maps
   icon: map
   value: Howser Creek. 82K/10 topo
-
 - label: GPS
   icon: crosshairs-gps
   value: Conrad Kain Hut 50°44’15" N 116°45’458" W
@@ -85,7 +74,7 @@ Be aware that this short 3.5 mile trail is steep, rugged and incredible beautifu
 
 Yoho N.P., Kootenay N.P., Radium Hot Springs, Golden B.C., Lake Louise, Banff, Glacier N.P. Of Canada, and Mt. Assiniboine.
 
-## R & p
+## R & P
 
 NA
 

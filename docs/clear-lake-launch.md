@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Lakes
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: about 5.6 miles with side trips
-
 - label: Elevation
   icon: terrain
   value: 2346’
-
 - label: Length and Acreage
   icon: vector-square
   value: 1.7 miles & 155.7 acres
-
 - label: Maps
   icon: map
   value: Medical Lake Topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°31’00" n 117°41’38" w
-
 - label: Spokane County Sheriff
   icon: shield-account
   value: 911 or 509.477.2240
@@ -49,7 +41,7 @@ Take I-90 west to Hwy 902 exit. Turn right (west) for 140’ and turn right onto
 
 Medical & West Medical Lakes, Silver Lake, and the Turnbull National Wildlife Refuge.
 
-## R & p
+## R & P
 
 Lenny’s in Cheney
 

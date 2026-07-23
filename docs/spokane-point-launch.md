@@ -1,22 +1,16 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2128’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°26’49" n 116°48’53" w
@@ -42,7 +36,7 @@ Drive south over the Spokane River on Hwy 95 to Worley, Idaho. Turn left at 26.3
 
 Windy Bay, Harrison, Idaho, the CDA River outlet, and the Chain Lakes up the CDA River
 
-## R & p
+## R & P
 
 Trails End Brewery, Franklins, Moon Time,and Mexican Food Factory
 

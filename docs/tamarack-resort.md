@@ -1,35 +1,26 @@
 ---
 tags:
-
 - Winter & Skiing
-
 stats:
-
 - label: Phone
   icon: phone
   value: 208.325.1000
-
 - label: Acres
   icon: vector-square
   value: '1100'
-
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 300"
-
 - label: Summit Elevation
   icon: terrain
   value: 7700'
-
 - label: Base Elevation
   icon: terrain
   value: ???49-00'
-
 - label: Verts
   icon: arrow-expand-vertical
   value: 2800'
 notes:
-
 - Tamarackidaho.com
 ---
 

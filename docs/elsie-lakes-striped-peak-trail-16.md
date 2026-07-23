@@ -1,61 +1,42 @@
 ---
 tags:
-
 - Lakes
-
 - Moderately Easy
-
 - Dayhiking
-
 - Backpacking
-
 - Fishing
-
 - Floating
-
 - Orving
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Dayhiking, backpacking, fishing, floating, ORVing
-
 - label: Distance
   icon: map-marker-distance
   value: From Elsie Lake to Striped Peak is about 6 miles RT
-
 - label: Elevation
   icon: terrain
   value: 1289 verts
-
 - label: Acres
   icon: vector-square
   value: '16.2'
-
 - label: Difficulty
   icon: speedometer
   value: Moderately easy
-
 - label: Maps
   icon: map
   value: IPNF, Wallace topo
-
 - label: GPS
   icon: crosshairs-gps
   value: Elsie Lake 47°25’42"N 116°01’24"W Striped Peak. 47°26’23"N 115°59’45"W
-
 - label: Ranger District
   icon: pine-tree
   value: cda river r.d. 208.769.3000
-
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
 notes:
-
 - Idaho panhandle national forest/alerts
-
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -91,7 +72,7 @@ Watch and listen for ORV’s everywhere up Big Creek. Striped Peak has no ORV tr
 
 Stevens Peak & Lakes, U. & L Glidden Lakes, Silver Mountain Resort, Graham Mountain, the Trail of the CDA’s, and the Route of the Hiawatha.
 
-## R & p
+## R & P
 
 Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ & Saloon, Wallace Brewing Co.,mane Muchacho’s Tacos in Wallace. Radio Brewing in Kellogg. , The Snake Pit north of Kingston. And the Moon Time in CDA
 

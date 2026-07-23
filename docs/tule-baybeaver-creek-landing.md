@@ -1,14 +1,10 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Length and Acreage
   icon: vector-square
   value: '1339.9'
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: ??° ??’ ??.?"n ???° ??’ ??.?"w
@@ -30,7 +26,7 @@ From Priest River, Idaho, take Hwy 57 north to Nordman, then turn right on Reede
 
 Indian Creek Camp Grounds, Upper Priest Lake, the Thorough Fare to Upper Priest Lake, Priest Lakes State Park Lionshead Unit, Granite Falls, and Blacktail Mountain
 
-## R & p
+## R & P
 
 Burger Express
 

@@ -5,7 +5,6 @@ pages (EVENT TYPE / DISTANCE / GPS / ...) into real YAML frontmatter:
   - tags: derived from nav section, activity type, and difficulty
   - stats: a list of {label, icon, value} rows
   - notes: any leftover unlabeled lines from the old block
-
 The `hooks/stat_card.py` mkdocs hook renders `stats`/`notes` into a themed
 table at build time - the page body itself stays clean prose, with no
 generated markup written into it.
@@ -430,7 +429,6 @@ def already_migrated(raw: str) -> bool:
     if end == -1:
         return False
     return "stats:" in raw[4:end]
-
 
 def process_file(path: Path, section_map: dict[str, str]) -> tuple[str, dict]:
     raw = path.read_text(encoding="utf-8")

@@ -1,15 +1,10 @@
 ---
 title: "Blog #43: Treespnw.com"
-
 date: 2023-12-10
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Flora & Wildlife
 ---
 

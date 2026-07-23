@@ -1,26 +1,19 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2066’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Maps
   icon: map
   value: IPNF, Priest River Topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°09’32" n 116°46’19" w
@@ -48,7 +41,7 @@ In Laclede, turn off Hwy 2 at the S. Riley Creek Park Drive. In .4 miles the dri
 
 Morton Slough, Round Lake State Park, Priest River, and Sandpoint
 
-## R & p
+## R & P
 
 Burger Express in PriestvRiver
 

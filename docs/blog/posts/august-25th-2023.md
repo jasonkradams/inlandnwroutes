@@ -1,15 +1,10 @@
 ---
 title: "Blog #30: Recommendation for any foot or ankle issues."
-
 date: 2023-08-25
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Trail Safety & Gear
 ---
 
@@ -50,8 +45,7 @@ So the take away here is simple.
 If you need any kind of foot or ankle work done, make an appointment with the CDA Foot & Ankle Clinic.
 You won’t be disappointed.
 
-[<https://www.cdafootankle.com/home/.>     208.666.0605
-](https://www.cdafootankle.com/home/)
+[https://www.cdafootankle.com/home/.  208.666.0605](https://www.cdafootankle.com/home/)
 InlandNWRoutes.com
 
 Chic Burge    David Crafton

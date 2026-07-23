@@ -1,26 +1,19 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2128’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Maps
   icon: map
   value: IPNF, Worley topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°46’36" n 116°93’08" w
@@ -45,7 +38,7 @@ Drive south on Hwy 95 from CDA to the W. Settlers Road, and turn right. Drive a 
 
 Sun Up Bay, Rockford Bay, Rockford Point, and the main body of Lake CDA
 
-## R & p
+## R & P
 
 Trails End Brewery, Franklins, Moon Time, and Mexican Food Factory
 

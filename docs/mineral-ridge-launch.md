@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2128’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Maps
   icon: map
   value: IPNF, Mt. CDA topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°37’07" n 116°39’37" w
-
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300
@@ -53,7 +45,7 @@ Drive about .9 of a mile to the launch on the right.
 
 Wolf Lodge Creek & Bay, Beauty Bay, Blue Bay, and Moscow Bay
 
-## R & p
+## R & P
 
 Trails End Brewery, Mexican Food Factory, Moon Time
 

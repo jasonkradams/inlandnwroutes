@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Waterfalls
-
 stats:
-
 - label: Waterfall
   icon: waterfall
   value: towell Falls
-
 - label: Drop
   icon: arrow-collapse-down
   value: Lower 12' & Upper 20'
-
 - label: Waterfall Type
   icon: waterfall
   value: lower Cascade & Plunge
-
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: 5 miles one way
-
 - label: Maps
   icon: map
   value: BLM Brochure
-
 - label: GPS
   icon: crosshairs-gps
   value: Trailhead 47°00’51" N 117°56'’36" W. Falls. 46°58'58" N 117°55'55" W
@@ -100,7 +92,7 @@ As stated above, hiking in the Scabs can be dangerous, but very rewarding.
 Observe all terminal features, and discuss them all with your hiking partner(S).
 Always be on the lookout for rattlesnakes. Practice wise hiking.  I've seen Badgers on the trail to the falls. Stear  clear. Give them space. Wait for them to move on. DO Not try to challenge them to move, you will loose.
 
-## R & p
+## R & P
 
 NA
 

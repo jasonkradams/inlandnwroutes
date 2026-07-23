@@ -1,26 +1,19 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2128’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°35’ 58" n 116°51’33" w
-
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300
@@ -46,7 +39,7 @@ From the SW end of the Spokane River bridge, drive south past Mica, Idaho, to th
 
 Mica Bay Boaters Camp, Camp Sweyolakan, and Toad Rock.
 
-## R & p
+## R & P
 
 Trails End Brewery, Mexican Food Factory, Franklins Hoagies, and Moon Time
 

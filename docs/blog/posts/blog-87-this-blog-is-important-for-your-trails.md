@@ -1,15 +1,10 @@
 ---
 title: "Blog #87: This blog is important for your trails"
-
 date: 2025-04-17
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Wildfire & Closures
 ---
 

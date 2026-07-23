@@ -1,35 +1,26 @@
 ---
 tags:
-
 - Lakes
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2130’
-
 - label: Length and Acreage
   icon: vector-square
   value: 1.6 miles & 401 acres
-
 - label: Maps
   icon: map
   value: IPNF, Medimont topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: Rainy Hill Launch 47°28’23" N 116°35’17" W
-
 - label: Shoshone County Sheriff
   icon: shield-account
   value: 208.556.1114
 notes:
-
 - Thompson Lake Launch 47°29;'8" N 116°43'29" W
 ---
 
@@ -60,7 +51,7 @@ Be aware: alway take into account the flow of the river. either launch, you will
 
 Harrison Lake, Anderson Lake, CDA River, and Lake CDA.
 
-## R & p
+## R & P
 
 Trails End Brewery, Moon Time, Franklins, Mexican Food Factory
 

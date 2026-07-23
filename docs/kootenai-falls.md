@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Waterfalls
-
 stats:
-
 - label: Waterfall
   icon: waterfall
   value: Kootenai Falls
-
 - label: Drop
   icon: arrow-collapse-down
   value: Several
-
 - label: Waterfall Type
   icon: waterfall
   value: several
-
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: .5 miles
-
 - label: Maps
   icon: map
   value: Kootenai National Forest, Cabinet Ranger District 406.827.3533,
-
 - label: GPS
   icon: crosshairs-gps
   value: 48°45’53" n 115°76’?38" w
@@ -88,7 +80,7 @@ The Proposed Scotchman Peaks Wilderness with trails to Pillick Ridge, Scotchmans
 All waterfalls are a hazard, due to their slippery nature. always be extra careful near any waterfall.
 The rivers edge are exposed. PLEASE take care of your children while all along the Kootenai River
 
-## R & p
+## R & P
 
 Henry's, The Shack, in Libby.
 

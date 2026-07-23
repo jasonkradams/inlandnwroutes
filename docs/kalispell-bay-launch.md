@@ -1,26 +1,19 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2439’
-
 - label: Length and Acreage
   icon: vector-square
   value: 19 miles long and 26,000 acres
-
 - label: Maps
   icon: map
   value: IPNF, Outlet Bay, Coolin, Priest Lake SW Topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°44’32" n. 116°50’00" w
@@ -72,7 +65,7 @@ To access the Kalispell Bay Boat Launch, travel on Highway 57 for 31 miles to Ka
 
 The American Selkirks, Hunt Creek Falls, Indian Creek Camp Grounds, and the Priest Lake State Park
 
-## R & p
+## R & P
 
 Burger Express
 

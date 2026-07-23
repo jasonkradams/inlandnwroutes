@@ -1,26 +1,19 @@
 ---
 tags:
-
 - Lakes
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2128’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°27’56" n 1145’53" w
-
 - label: Shoshone County Sheriff
   icon: shield-account
   value: 208.446.1300
@@ -48,7 +41,7 @@ From Spokane, drive east on I-90 over 4th of July Pass, and turn right (S), onto
 
 Harrison Idaho, the Harrison Slough, Anderson Lake, and Thompson Lake,
 
-## R & p
+## R & P
 
 Moon Time, Mexican Food Factory, Trails End Brewery and Franklin's.
 

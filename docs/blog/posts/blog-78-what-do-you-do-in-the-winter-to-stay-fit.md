@@ -1,15 +1,10 @@
 ---
 title: "Blog #78: What do you do in the winter to stay fit"
-
 date: 2024-11-28
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Winter Sports
 ---
 
@@ -51,8 +46,7 @@ The Dishman Hills is located south of Sprague Street, and west of South Dishman 
 With over 3,200 acres to explore, these trails are well worth the effort to enjoy them.
 The above url will show you maps of the many trails at Dishman Hills.  Get out and enjoy this local treasure.
 
-[<https://www.inlandnwroutes.com>
-](https://www.inlandnwroutes.com/)
+<https://www.inlandnwroutes.com/>
 For those of you who want warmer areas to hike in, check out our section on the Washington Scablands.
 Log on and go to…..
 Activity……..hike…….washington…..washington scablands.

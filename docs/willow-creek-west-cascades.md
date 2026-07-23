@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Waterfall
   icon: waterfall
   value: west willow creek falls
-
 - label: Drop
   icon: arrow-collapse-down
   value: several falls, and 500’ steep cascades
-
 - label: Waterfall Type
   icon: hiking
   value: nearly every type
-
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: headwall falls .9 miles. many more above & below
-
 - label: Maps
   icon: map
   value: ipnf, mullan topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°26’17" n 115°46’26" w
@@ -81,7 +73,7 @@ In developed areas, mind the rules, or pay the price.
 
 All waterfalls are a hazard, due to their slippery nature. always be extra careful near any waterfall
 
-## R & p
+## R & P
 
 Muchacho’s tacos, pizza factory, in wallace. radio brewery in kellogg.
 

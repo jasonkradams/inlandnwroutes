@@ -1,46 +1,32 @@
 ---
 tags:
-
 - Lakes
-
 - Moderately Easy
-
 - Day Hiking
-
 - Mt Biking
-
 - Wandering
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, mt biking, wandering
-
 - label: Distance
   icon: map-marker-distance
   value: About 2.2 miles RT
-
 - label: Elevation Gain
   icon: elevation-rise
   value: 400’
-
 - label: Difficulty
   icon: speedometer
   value: Moderately easy
-
 - label: Maps
   icon: map
   value: Monument Hill, Ephrata SW, and at nature.com/Washington
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°09’36 N 119°58’50" W Trailhead
-
 - label: Managing Agency
   icon: domain
   value: Washington Nature Conservancy 206.343.4345
-
 - label: Grant County Sheriff
   icon: shield-account
   value: 911 or 509.754.2011
@@ -70,7 +56,7 @@ Rattlesnakes, and Badgers. Stay away from both of them.
 
 Quincy Lakes, the Gorge Amphitheater, Frenchman Coulee, the Columbia River, Vantage, and the Petrified Forest.
 
-## R & p
+## R & P
 
 Lenny ‘s in Cheney
 

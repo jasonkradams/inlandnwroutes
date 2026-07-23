@@ -1,26 +1,19 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2067’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°15’02" n. 116°18’55" w
-
 - label: Bonner County Sheriff
   icon: shield-account
   value: 208.263.8417
@@ -46,7 +39,7 @@ From Sandpoint, turn right (East) onto Hwy 200, and drive towards Hope. As Hwy 2
 
 Samowen Camp Ground, Warren Island, Pearl Island, Ellisport Bay, Memaloose Island, and David Thompson State Wildlife Preserve.
 
-## R & p
+## R & P
 
 Old Ice House Pizzeria
 

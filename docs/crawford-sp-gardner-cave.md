@@ -1,42 +1,30 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 - Easy
-
 - Spelunking Made Easy
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Spelunking made easy
-
 - label: Distance
   icon: map-marker-distance
   value: The laddered descent is 494 feet down
-
 - label: Elevation
   icon: terrain
   value: 2775’
-
 - label: Difficulty
   icon: speedometer
   value: Easy
-
 - label: Maps
   icon: map
   value: Washington State Parks & Rec.
-
 - label: GPS
   icon: crosshairs-gps
   value: 48°59’46" n 117°22’15" w
-
 - label: Managing Agency
   icon: domain
   value: w.s.p.& r. 509.238.4258
-
 - label: Pend Orielle County Sheriff
   icon: shield-account
   value: 509.447.3151
@@ -81,7 +69,7 @@ Crystal Falls NE of Colville
 
 The cave is 39° year round. Dress warm with gloves and stocking caps.
 
-## R & p
+## R & P
 
 NA
 

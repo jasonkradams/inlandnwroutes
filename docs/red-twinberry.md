@@ -1,18 +1,13 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Genesis Name
   icon: book-open-variant
   value: Lonicera involcrata. (Lonicera utahensis)
-
 - label: Distribution
   icon: earth
   value: Western half U.S & Great Lakes
-
 - label: Season
   icon: calendar
   value: 'April thru JuneMedical use: Twinberry was employed medicinally by a number
@@ -20,21 +15,18 @@ stats:
     It is little, if at all, used in modern herbalism. The bark is disinfectant, galactogogue,
     ophthalmic and pectoral. A decoction is used in the treatment of coughs and as
     an eyewash.'
-
 - label: Poisonous
   icon: skull-crossbones
   value: The **berries were mostly considered poisonous**, but were sometimes eaten
     for food. The fruit or leaves were used to induce vomiting for purification or
     after poisoning. ... Bears also eat the berries. Black Twinberry provides cover
     for small animals.
-
 - label: Edibility
   icon: food-apple
   value: '**The berries are edible but not particularly tasty**. Some birds and bears
     are known to eat the fruit, but these plants are not common enough to be important
     to wildlife. Twinberry is widespread, however, and the yellow flowers and paired
     fruits often attract attention.'
-
 - label: Features
   icon: information-outline
   value: Twinberry honeysuckle is a long-lived deciduous shrub which grows up to 10
@@ -53,7 +45,6 @@ stats:
     streamsides, and meadow edges, ranging in elevation from sea level along the Pacific
     Coast to subalpine sites in the mountains.
 notes:
-
 - Reports on the fruit **vary from poisonous**, to mildly toxic, to bitter and unpalatable,
   to edible and useful as food, depending on tribe, region or publication. The berry
   was used as a source of dye. Medicinal uses were many and varied among tribes.

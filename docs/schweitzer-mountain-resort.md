@@ -1,35 +1,26 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 stats:
-
 - label: Phone
   icon: phone
   value: 208.263.9555
-
 - label: Acres
   icon: vector-square
   value: '2900'
-
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 300"
-
 - label: Summit Elevation
   icon: terrain
   value: 6400'
-
 - label: Base Elevation
   icon: terrain
   value: 4000'
-
 - label: Verts
   icon: arrow-expand-vertical
   value: 2400'
 notes:
-
 - Schweitzer.com
 ---
 

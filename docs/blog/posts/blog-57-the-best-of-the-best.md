@@ -1,15 +1,10 @@
 ---
 title: "Blog #57: The best of the best"
-
 date: 2024-04-30
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Winter Sports
 ---
 

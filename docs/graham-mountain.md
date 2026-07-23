@@ -1,53 +1,37 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 - Moderately Difficult
-
 - Day Hike
-
 - Backpacking
-
 - Snowshoeing
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hike, backpacking, snowshoeing
-
 - label: Distance
   icon: map-marker-distance
   value: 11 miles RT
-
 - label: Elevation
   icon: terrain
   value: 3445 verts
-
 - label: Difficulty
   icon: speedometer
   value: Moderately Difficult
-
 - label: Maps
   icon: map
   value: IPNF, Kellogg topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°36’11" n. 116°08’07" w
-
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
-
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911FIRST or 208.556.1114
 notes:
-
 - Idaho panhandle national forest/alerts
-
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -72,7 +56,7 @@ Long steady trail up with few switchbacks.
 
 The CDA River, the Snake Pit, views across to Silver Mountain, and Shadow & Fern Falls.
 
-## R & p
+## R & P
 
 Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ & Saloon, Wallace Brewing Co. and Muchacho’s Tacos in Wallace. Radio Brewing in Kellogg. The Snake Pit north of Kingston. The Moon Time & The Mexican Food Factory in CDA.
 

@@ -1,48 +1,33 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 - Moderate
-
 - Day Hiking
-
 - Backpacking
-
 - Equestrian
-
 - Mountain Biking
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, equestrian and mountain biking
-
 - label: Distance
   icon: map-marker-distance
   value: 9+ mileS RT
-
 - label: Elevation
   icon: terrain
   value: 1700 verts
-
 - label: Difficulty
   icon: speedometer
   value: moderate
-
 - label: Maps
   icon: map
   value: Colville National Forest, Thirteenmile Creek, and Bear Mountain topos
-
 - label: GPS
   icon: crosshairs-gps
   value: Trailhead 48°28’54" N 118°43’37" W
-
 - label: Republic Ranger District
   icon: pine-tree
   value: 509.775.7400
-
 - label: Ferry County Sheriff
   icon: shield-account
   value: 509.775.3132
@@ -74,7 +59,7 @@ BE AWARE, TICKS AND RATTLESNAKES are a part of life up here. Wear light colored 
 Rattlesnakes come out in the morning to sun themselves and get warm. Watch for them on the west to south to east sides of rocks. If you step over rocks, know that your landing spot for your foot, isn’t on or near a sunning snake.
 If you like hiking in the Steppes and in the Scablands, there are lower leg shields to prevent snake bites.
 
-## R & p
+## R & P
 
 NA
 

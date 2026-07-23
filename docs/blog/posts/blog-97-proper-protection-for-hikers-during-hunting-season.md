@@ -1,15 +1,10 @@
 ---
 title: "Blog #97: Proper protection for hikers during hunting season"
-
 date: 2025-09-29
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Flora & Wildlife
 ---
 

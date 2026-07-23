@@ -1,26 +1,19 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2439’
-
 - label: Length and Acreage
   icon: vector-square
   value: 19 miles long & 26,000 acres
-
 - label: Maps
   icon: map
   value: IPNF, Priest Lake NE TopO
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°44’32" n 116°50’00" w
@@ -46,7 +39,7 @@ This trail is only accessible by boat. Boaters can access the island by going to
 
 The American Selkirks, Hunt Creek Falls, Indian Creek Camp Grounds, Priest Lake State Park, and Upper Priest Lake
 
-## R & p
+## R & P
 
 Burger Express
 

@@ -55,7 +55,7 @@ Do not drive it on iffy tires.
 
 A potential hazard is the current at the outlet stream. The camp ground beach wraps around to the mouth of the outlet stream and depending on the season there could be a considerable amount of flow there that could sweep you down stream. Brown bears and mountain lions could get you or your food. Store your food properly. A cooler is not bear proof. The wind can come up on the lake and produce big waves and rough paddling conditions. Cold water can kill. You are in a remote area and calling for help will be difficult.
 
-## R & p
+## R & P
 
 The Polebridge Mechantile is a favorite for their coffee and pastries. Northern Lights Saloon and Cafe is an option too.
 

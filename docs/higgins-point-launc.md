@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2128’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Maps
   icon: map
   value: IPNF, Fernan topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°37’47" n 116041’28" w
-
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300
@@ -52,7 +44,7 @@ From the east end of Sherman Avenue, turn right (south) on to Lake CDA Drive. Co
 
 Wolf Lodge Bay, Beauty Bay, and Booth Park Launch,
 
-## R & p
+## R & P
 
 Trails End Brewery, Franklins Hoagies, Mexican Food Factory, and Moon Time
 

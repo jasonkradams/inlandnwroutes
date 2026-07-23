@@ -1,31 +1,23 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Genesis Name
   icon: book-open-variant
   value: Sisyrinchium inflatum
-
 - label: Distribution
   icon: earth
   value: id, nv, or, ut, wa, and bc
-
 - label: Season
   icon: calendar
   value: Blooms March thru June
-
 - label: Poisonous
   icon: skull-crossbones
   value: No information found on whether this plant has any edible value -- consider
     poisonous.
-
 - label: Edibility
   icon: food-apple
   value: See above
-
 - label: Features
   icon: information-outline
   value: A member of the iris family (family Iridaceae) which consists of herbs growing
@@ -35,11 +27,9 @@ stats:
     Lily, and Montbretia are popular ornamentals. Saffron dye is obtained from Crocus,
     and "essence of violets," used in perfumes, is extracted from the rhizomes of
     Iris.
-
 - label: Leaves
   icon: leaf
   value: The leaves are as tall as the stem, or often shorter.
-
 - label: Fruits
   icon: fruit-cherries
   value: Grass widow fruits are capsules that break open from the top into three chambers

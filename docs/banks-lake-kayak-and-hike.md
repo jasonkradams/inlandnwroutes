@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Lakes
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 1571’
-
 - label: Length and Acreage
   icon: vector-square
   value: 26.7 miles long & 26,890 acres
-
 - label: Maps
   icon: map
   value: Steamboat Rock SW
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°52’2" n 119°05’ 54" w
-
 - label: Brant County Sheriff
   icon: shield-account
   value: 509.754.2011
@@ -73,7 +65,7 @@ Great rock climbing at Northrup Canyon and Highway Rock with 70 routes on its 30
 
 This is sage brush country so there are rattlesnakes. Wear boots and snake gaiters if you have them and keep dogs on a leash.
 
-## R & p
+## R & P
 
 NA
 

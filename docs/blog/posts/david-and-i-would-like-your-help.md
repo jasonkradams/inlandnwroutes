@@ -1,15 +1,10 @@
 ---
 title: "Blog #26: David and i would like your help"
-
 date: 2023-08-04
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - General News
 ---
 

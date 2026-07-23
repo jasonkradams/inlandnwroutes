@@ -1,42 +1,33 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Genesis Name
   icon: book-open-variant
   value: Apocynum androsaemifoilium
-
 - label: Distribution
   icon: earth
   value: Most U.S. & Canada
-
 - label: Season
   icon: calendar
   value: June thru August
-
 - label: Medical Use
   icon: medical-bag
   value: The **roots are used for heart stimulants**. Mashed leaves are used for rheumatism
     and applied to wounds. A charm is made with the plant to be used against 'bad
     medicine' or evil influence.
-
 - label: Poisonous
   icon: skull-crossbones
   value: If you break a spreading dogbane stem or leaf, you will see that the plant
     contains a bitter, sticky, milky white sap. The sap contains **cardiac glycosides
     that are toxic to humans**. The root also contains a potent cardiac stimulant,
     cymarin. These toxic compounds help protect spreading dogbane from grazing animals.
-
 - label: Edibility
   icon: food-apple
   value: '**No edible uses are known**. All parts of the plant are said to be poisonous
     to dogs, humans, livestock, and other mammals. The sap that emerges when you break
     a stem or leaf of Spreading Dogbane contains cardiac glycosides that are toxic
     to humans.'
-
 - label: Features
   icon: information-outline
   value: A 2-5 ft. widely branching, bushy, perennial with opposite, oval leaves and
@@ -48,14 +39,12 @@ stats:
     found in fields and is poisonous. Clasping-leaved Dogbane (*A. sibiricum*), found
     widely throughout the Northeast in sandy or gravelly habitats such as stream banks,
     has stalkless or nearly stalkless leaves.
-
 - label: Leaves
   icon: leaf
   value: Each branch is lined with **opposite leaves** that droop down. At the end
     of the branches are clusters of fragrant flowers. ... Spreading dogbane is found
     in a variety of habitats, from native plant communities to weedy roadsides and
     waste areas.
-
 - label: Fruits
   icon: fruit-cherries
   value: The fruit of Spreading Dogbane consists of **long, slender pods**about two

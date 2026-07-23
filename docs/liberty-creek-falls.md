@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Waterfalls
-
 stats:
-
 - label: Waterfall
   icon: waterfall
   value: U. & L. Liberty Creek Falls
-
 - label: Drop
   icon: arrow-collapse-down
   value: Both about 30'
-
 - label: Waterfall Type
   icon: waterfall
   value: Both are Slide falls
-
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: 7 miles loop
-
 - label: Maps
   icon: map
   value: Liberty Lake Regional Park
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°35’?59" n 117°02’36" w
@@ -69,7 +61,7 @@ Liberty Lake, Liberty Lake Conservation Area, the Mica Peak Conservation Area, S
 
 All waterfalls are a hazard, due to their slippery nature. always be extra careful near any waterfall.
 
-## R & p
+## R & P
 
 Mexico Lindo, Brothers Office Pizza, and the Barlows
 

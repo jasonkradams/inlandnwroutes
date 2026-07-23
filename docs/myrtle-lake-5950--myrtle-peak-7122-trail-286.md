@@ -1,57 +1,40 @@
 ---
 tags:
-
 - Lakes
-
 - Moderately Difficult
-
 - Hike
-
 - Backpack
-
 - Mt Biking
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Hike, backpack, mt biking
-
 - label: Distance
   icon: map-marker-distance
   value: 6 miles RT to the peak and 9.6 miles RT to the lake
-
 - label: Elevation Gain
   icon: elevation-rise
   value: 1682' gain to the peak 1172' loss to the lake
-
 - label: Acres
   icon: vector-square
   value: '19.8'
-
 - label: Difficulty
   icon: speedometer
   value: Moderately difficult
-
 - label: Maps
   icon: map
   value: IPNF-Kaniksu N. F., USGS-Roman Nose, The Wigwams, Smith Peak
-
 - label: GPS
   icon: crosshairs-gps
   value: n48° 44’ 12.4" w116° 36’ 19.0"
-
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561
-
 - label: Boundary County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.267.3151
 notes:
-
 - Idaho panhandle national forest/alerts
-
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -77,7 +60,7 @@ The trail from the start is relentless. Then add the sun. Please take extra caut
 
 Burton Peak, Myrtle Creek Game Preserve, Two Mouth Lakes, Cooks Peak & Lake, the Kootenai National Wildlife Refuge, and the northern trail to Harrison Lake.
 
-## R & p
+## R & P
 
 Jalapeños,  Mr. Sub, Burger Express, Eichardt’s n Sandpoint
 

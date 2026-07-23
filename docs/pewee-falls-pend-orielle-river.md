@@ -1,31 +1,23 @@
 ---
 tags:
-
 - Waterfalls
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: 17.5 miles
-
 - label: River Elevation
   icon: terrain
   value: 1990’
-
 - label: Length and Acreage
   icon: vector-square
   value: na
-
 - label: Maps
   icon: map
   value: BLM maps & brochures, Colville National Forest, Metaline Falls & Boundary
     Dam topos.
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°58’58"n 117°21’02" w
-
 - label: Pend Oreille County Sheriff
   icon: shield-account
   value: 509.447.3151
@@ -69,7 +61,7 @@ From Spokane, take U.S. Highway 2 north. Just past the Pend Oreille County line 
 Crawford Caves, Gardner State Park, Sullivan Lake, Priest Lakes, and the American Selkirks.
 Also, the drive from Metaline to Boundary Dam is an exceptional fall color drive.
 
-## R & p
+## R & P
 
 NA
 

@@ -1,53 +1,37 @@
 ---
 tags:
-
 - Lakes
-
 - Easy+
-
 - Day Hiking
-
 - Backpacking
-
 - Paddling
-
 - Fishing
-
 - Climbing
-
 - More
 
 stats:
-
 - label: Event Type
   icon: hiking
   value: day hiking, backpacking, paddling, fishing, climbing, and more
-
 - label: Distance
   icon: map-marker-distance
   value: varies on activity
-
 - label: Elevation Gain
   icon: elevation-rise
   value: Up to 700 verts depending on activity
-
 - label: Acres
   icon: vector-square
   value: 26,890
-
 - label: Difficulty
   icon: speedometer
   value: easy+
-
 - label: Maps
   icon: map
   value: coulee dam area
-
 - label: GPS
   icon: crosshairs-gps
   value: At the Steamboat Rock S.P. entrance road & Hwy 155. 47°49’45" N 119°08’01"
     W
-
 - label: Grant County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 509.754.2011
@@ -95,7 +79,7 @@ Looking very closely for snakes.
 Because the scablands are very different from where you usually hike, you must be aware of your surroundings. Observe the land marks all around the area you are in. If you think you are misplaced, STOP. Retrace your steps back the way you came into an area. DO NOT go off trail, unless you are proficient in route finding. And always carry a map and compass.
 See our resources section....trail etiquette & skills, and wildlife for more info on snakes
 
-## R & p
+## R & P
 
 N/A
 

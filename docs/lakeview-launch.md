@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Lakes
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2067’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Maps
   icon: map
   value: Lakeview Topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°58’23" n 116°27’11" w
-
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300
@@ -52,7 +44,7 @@ From CDA, drive north on Hwy 95 to Exit #446, south of Silverwood Theme Park. At
 
 Farrugut S.P., Packsaddle Mountain, Granite Rock and Whiskey Rock.
 
-## R & p
+## R & P
 
 To my knowledge, there are few services at Lakeview. TAKE ALL YOU WILL NEED.
 

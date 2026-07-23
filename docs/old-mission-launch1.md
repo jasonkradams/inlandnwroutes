@@ -1,26 +1,19 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2133’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Maps
   icon: map
   value: IPNF., Kingston topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°33’08" nne 116°22’00" w
@@ -49,7 +42,7 @@ From CDA, drive east on I-90 to the Old Mission State Park exit. Turn right into
 
 Cataldo, the Old Mission S.P., the Chain Lakes along side the river, all the way to Harrison, Idaho. Rose Lake, Killarney Lake, Swan Lake, Cave Lake, Medicine Lake, Black Lake, Blue Lake, Thompson Lake, Anderson Lake, and the Harrison Slough are all part of the Chain Lakes.
 
-## R & p
+## R & P
 
 Radio Brewery in Kellogg. Moon Time, Mexican Food Factory, Franklins Hoagies, and the Trail’s End Brewery in CDA
 

@@ -1,51 +1,36 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 - Difficult
-
 - Hiking
-
 - Backpacking
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Hiking & backpacking
-
 - label: Distance
   icon: map-marker-distance
   value: About 11 miles RT
-
 - label: Elevation Gain
   icon: elevation-rise
   value: 3420'
-
 - label: Difficulty
   icon: speedometer
   value: Difficult
-
 - label: Maps
   icon: map
   value: IPNF-Kaniksu N.F., Clifty Mt, Leana
-
 - label: GPS
   icon: crosshairs-gps
   value: 48°54’49"n 116°41’06"w
-
 - label: Ranger District
   icon: pine-tree
   value: Sandpoint R.D. 208.263.5111
-
 - label: Bonner County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.263.8417
 notes:
-
 - Idaho panhandle national forest/alerts
-
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -78,7 +63,7 @@ Black Mountain, Clifty Mountain, Bonners Ferry, Kootenai N.W.R., Burton Peak, Sh
 Expect a very steep trail to Iron Mountain. The only reliable water source is the Middle Fork Boulder Creek, SE of Iron Mountain.
 keep in mind, the down is 3420 verts.
 
-## R & p
+## R & P
 
 Jalapeños, Sandpoint Eichardt's, Sandpoint Mr. Sub Sandpoint
 

@@ -1,40 +1,29 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 - Hiking
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Hiking
-
 - label: Distance
   icon: map-marker-distance
   value: 8 miles RT, 856 ft Ascent
-
 - label: Elevation
   icon: terrain
   value: 640’
-
 - label: Difficulty
   icon: speedometer
   value: Moderate with some exposure for a short section
-
 - label: Maps
   icon: map
   value: '[Ginkgo State Park](https://goo.gl/maps/JahA7sFov3WmejDS6). 509.856.2290'
-
 - label: GPS
   icon: crosshairs-gps
   value: 46.95490243707056, -119.98802785567764
-
 - label: Ranger District
   icon: pine-tree
   value: '[Washington State Parks Gingko Petrified Forest](https://www.parks.wa.gov/288/Ginkgo-Petrified-Forest)'
-
 - label: Kittitas County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 509.962.7525
@@ -62,7 +51,7 @@ Gorge Amphitheater, Wild Horse Monument, Climbing at Frenchman Coulee
 There are sections of the trail where you have to side hill for a mile or so. Short sections have some exposure. This is a sunny and windy place, so bring lots of water. I hydrate 24 hours prior to any hot dry long day and I carry two liters of water if there is no water source along the route.
 Do not filter the scabs open water. the lakes and streams are full of agriculture runoff.
 
-## R & p
+## R & P
 
 Michael's Market & Bistro in Moses Lake
 

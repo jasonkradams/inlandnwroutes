@@ -1,53 +1,42 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Genesis Name
   icon: book-open-variant
   value: Gentiana affinis
-
 - label: Distribution
   icon: earth
   value: AZ, CA, CO, ID, MN, MT, ND, NM, NV, OR, SD, TX, UT, WA, WY. Canada...sk
-
 - label: Season
   icon: calendar
   value: August thu September
-
 - label: Medical Use
   icon: medical-bag
   value: Gentian is an herb. The root of the plant and, less commonly, the bark are
     used to make medicine. Gentian is used for **digestion problems** such as loss
     of appetite, bloating, diarrhea, and heartburn. It is also used for fever and
     to prevent muscle spasms
-
 - label: Edibility
   icon: food-apple
   value: It also has a peppery taste, but when cooked it turns mildly sweet and almondy.
     The plants **grow from edible tubers**, which can swell to the size of an egg.
     ... Cook grows Gentian sage from seed, which he starts every year in the greenhouse
-
 - label: Features
   icon: information-outline
   value: It also has a peppery taste, but when cooked it turns mildly sweet and almondy.
     The plants **grow from edible tubers**, which can swell to the size of an egg.
     ... Cook grows Gentian sage from seed, which he starts every year in the greenhouse.
-
 - label: Leaves
   icon: leaf
   value: linear-lanceolate to lance-ovate 2.5-4 cm long, 0.5-1 cm wide, puberulent
     on margins and lower surface of midrib
-
 - label: Fruits
   icon: fruit-cherries
   value: It also has a peppery taste, but when cooked it turns mildly sweet and almondy.
     The plants **grow from edible tubers**, which can swell to the size of an egg.
     ... Cook grows Gentian sage from seed, which he starts every year in the greenhouse.
 notes:
-
 - '.Poisonous: no'
 ---
 

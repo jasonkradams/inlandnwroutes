@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Lakes
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 1539'
-
 - label: Length and Acreage
   icon: vector-square
   value: varies and 307.9 acres
-
 - label: Maps
   icon: map
   value: Spokane County Parks
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°48'51" n 117°46'56'w
-
 - label: Spokane County Sheriff
   icon: shield-account
   value: 509.477.2240
@@ -53,7 +45,7 @@ This route is very complicated, so take a Google Earth image to direct you.
 
 Avista Dam, Fisk StaTE PARK, AND THE MCLELLAN CONSERVATION AREA
 
-## R & p
+## R & P
 
 NA
 

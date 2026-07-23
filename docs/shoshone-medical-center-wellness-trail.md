@@ -1,55 +1,38 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 - Easy
-
 - Walking
-
 - Running
-
 - Hiking
-
 - Picnicking
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Walking, running, hiking & picnicking
-
 - label: Distance
   icon: map-marker-distance
   value: less then a mile RT
-
 - label: Elevation Gain
   icon: elevation-rise
   value: about 240’
-
 - label: Difficulty
   icon: speedometer
   value: easy
-
 - label: Maps
   icon: map
   value: IPNF, Kellogg topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°32’50"n 116°08’47"w
-
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
-
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
 notes:
-
 - Idaho panhandle national forest/alerts
-
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -80,7 +63,7 @@ None
 
 Silver Mountain Resort, Historic Wallace, Elsie Lake & Striped Peak, Stevens Lakes & Peak, Lone Lake, U. & L. Glidden Lakes, Trail of the CDA’s, and the Route of the Hiawatha.
 
-## R & p
+## R & P
 
 Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ & Saloon, Wallace Brewing Co., and Muchacho’s Tacos in Wallace. Radio Brewing in Kellogg. the Snake Pit north of Kingston, and Moon Time in CDA
 

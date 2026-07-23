@@ -1,49 +1,35 @@
 ---
 tags:
-
 - Lakes
-
 - Moderate
-
 - Day Hiking
-
 - Backpacking
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking
-
 - label: Distance
   icon: map-marker-distance
   value: 6 miles RT
-
 - label: Elevation Gain
   icon: elevation-rise
   value: 2000 verts
-
 - label: Difficulty
   icon: speedometer
   value: Moderate
-
 - label: Maps
   icon: map
   value: K.N.F., Silver Butte Pass, Goat Peak topos
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°49’35" n 115°22’46" w
-
 - label: Cabinet Ranger District
   icon: pine-tree
   value: 406.827.3533
-
 - label: Lincoln County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.293.4112
 notes:
-
 - Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 
@@ -69,7 +55,7 @@ Trail #531 actually goes to the Cabinet Divide Trail 360. At the CMW boundary, l
 
 Cabinet Divide Trail, Geiger Lakes, Baree Mountain, Noxon, Mt., the Clark Fork River, Bull Lake & River, and the Ross Creek Cedars.
 
-## R & p
+## R & P
 
 Clark Fork Pantry & Squeeze Inn in Clark Fork. Henry’s & Pizza Hut in Libby, Eicharts, Mr. Sub & jalapeño in Sandpoint.
 

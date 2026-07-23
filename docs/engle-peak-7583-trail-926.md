@@ -1,49 +1,35 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 - Backpacking
-
 - Hiking
-
 - Backcountry Skiing
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Backpacking, hiking, and backcountry skiing
-
 - label: Distance
   icon: map-marker-distance
   value: 7.8 miles RT
-
 - label: Elevation Gain
   icon: elevation-rise
   value: About 3489'
-
 - label: Difficulty
   icon: speedometer
   value: Moderate due to 1500, in first mile.
-
 - label: Maps
   icon: map
   value: Kaniksu National Forest, Cabinet Mountain Wilderness and Goat Peak
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°97’30" n -115°76’10"
-
 - label: Ranger District
   icon: pine-tree
   value: Cabinet R.D. 406.827.3533
-
 - label: Sanders County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.827.3684
 notes:
-
 - Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 
@@ -72,7 +58,7 @@ Drive east of Clark Fork on Hwy #200 to milepost 17. About 2 miles east of Noxon
 
 Engle Lakes, Rock Lake off in the distance below you, Wanless Lakes
 
-## R & p
+## R & P
 
 And if you like sushi, try the Kaiju Bar & Grill. They also make incredible burgers
 Henry’s, Pizza Hut, & The Shed in Libby.

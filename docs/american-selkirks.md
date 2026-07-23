@@ -15,7 +15,7 @@ These rocks were emplaced deep underground as molten plutons during tectonic upl
 _Myrtle’s Turtle: A massive dome of exposed granitic rock in the Selkirks._
 
 !!! info "Further Geologic Reading"
-    For additional background on local geology, visit [Mountains moved to form the Purcell Trench](https://www.naturallynorthidaho.com/2012/12/mountains-moved-to-form-purcell-trench.htm){:target="_blank"}.
+For additional background on local geology, visit [Mountains moved to form the Purcell Trench](https://www.naturallynorthidaho.com/2012/12/mountains-moved-to-form-purcell-trench.htm){:target="_blank"}.
 
 ---
 
@@ -24,7 +24,7 @@ _Myrtle’s Turtle: A massive dome of exposed granitic rock in the Selkirks._
 Igneous rock forms through the crystallization ("freezing") of molten rock. Underground molten rock is termed **magma**, whereas surface molten rock is termed **lava**. Magma crystallizes at extreme temperatures ranging from 650°C to 1,100°C (1,202°F to 2,012°F).
 
 | Mineral / Composition | Crystallization Temp | Common Examples & Rock Characteristics |
-| :--- | :--- | :--- |
+| :-------------------- | :------------------- | :------------------------------------- |
 
 | **Silica-Rich (Felsic)** | Lower Temp | Quartz, Feldspar; forms light-colored granite & granodiorite |
 
@@ -104,7 +104,7 @@ _Looking east across the Purcell Trench toward the Purcell Mountains._
 ### Regional Tectonic & Glacial History
 
 !!! quote "Geology of North Idaho & Western Montana"
-    *Adapted from historical geological analyses by Charles Mortensen.*
+_Adapted from historical geological analyses by Charles Mortensen._
 
 #### Prehistoric Timeline & Terrane Accretion
 
@@ -120,15 +120,13 @@ The Selkirks form the backbone of the **Priest River Uplift**, exposing Cretaceo
 
 During maximum glaciation of the Ice Age, the **Cordilleran Ice Sheet** descended from Canada, encasing all but the highest Selkirk peaks in ice exceeding **4,500 feet** thick near Sandpoint.
 
-```text
-       [ Alpine Cirque ] ──► Accumulates snow & ice in steep-sided bowl basin
-              │
-       [ Glacial Horn ]  ──► Sharp peak formed where cirques erode back on multiple sides
-              │
-       [ Knife Arête ]   ──► Narrow ridge separating adjacent ice-carved valleys
-              │
-     [ U-Shaped Trough ] ──► Broad valley with hanging basins & bedrock tarn lakes
-```
+    [ Alpine Cirque ] ──► Accumulates snow & ice in steep-sided bowl basin
+          │
+    [ Glacial Horn ]  ──► Sharp peak formed where cirques erode back on multiple sides
+          │
+    [ Knife Arête ]   ──► Narrow ridge separating adjacent ice-carved valleys
+          │
+    [ U-Shaped Trough ] ──► Broad valley with hanging basins & bedrock tarn lakes
 
 - **Cirques & Tarns:** Steep-sided, rounded bowl features carved into mountains where snow accumulated into glacial ice. Meltwater now forms pristine bedrock lakes in cirque hollows.
 
@@ -148,7 +146,7 @@ In 1987, the Idaho Panhandle National Forest designated **26,700 acres** of the 
 
 - **Granite Quality:** The high-friction granitic rock allows safe walking and scrambling on steep 45°+ slabs.
 
-- **Un-Named Peak Nomenclature:** Peaks listed as *"Peak 6514'"* or similar refer to un-named summits designated by their spot elevation.
+- **Un-Named Peak Nomenclature:** Peaks listed as _"Peak 6514'"_ or similar refer to un-named summits designated by their spot elevation.
 
 ---
 
@@ -186,23 +184,23 @@ The main mass of the American Selkirks forms an extended ridge system dividing t
 
   - **Northeast Ridges:** Up to 7,700+ feet
 
-  - **High Point:** Unnamed peak topping out at **7,709 feet** (*UN 7,709*, informally misnamed "South Selkirk Crest").
+  - **High Point:** Unnamed peak topping out at **7,709 feet** (_UN 7,709_, informally misnamed "South Selkirk Crest").
 
 On both sides of the crest, ridges drop off abruptly due to the intense scouring of massive glacial ice lobes that advanced southward from Canada during the last ice age. Smaller mountain groups also lie further west between Priest Lake and the Pend Oreille River in Washington State.
 
 !!! note "Peak Listing Criteria"
-    Mountain listings for this area primarily highlight peaks above 7,000 feet in elevation that are either named or possess at least 300 feet of topographic prominence. Numerous worthwhile peaks exist between 6,000 and 7,000 feet; consult individual mountain pages in the sidebar for details.
+Mountain listings for this area primarily highlight peaks above 7,000 feet in elevation that are either named or possess at least 300 feet of topographic prominence. Numerous worthwhile peaks exist between 6,000 and 7,000 feet; consult individual mountain pages in the sidebar for details.
 
 ---
 
 ### Land Management & Protected Areas
 
 | Jurisdiction / Area | Primary Manager | Characteristics & Protection Status |
-| :--- | :--- | :--- |
+| :------------------ | :-------------- | :---------------------------------- |
 
-| **Selkirk High Country** | Idaho Panhandle National Forest | Primitive, roadless granite alpine terrain; managed *de facto* for wilderness values. |
+| **Selkirk High Country** | Idaho Panhandle National Forest | Primitive, roadless granite alpine terrain; managed _de facto_ for wilderness values. |
 
-| **Salmo-Priest Wilderness** | Colville National Forest & IPNF | Designated Wilderness (*39,937 acres*); high point Gypsy Peak (*7,309 ft*). |
+| **Salmo-Priest Wilderness** | Colville National Forest & IPNF | Designated Wilderness (_39,937 acres_); high point Gypsy Peak (_7,309 ft_). |
 
 | **State & Private Lands** | State of Idaho & Timber Industry | Lower east side canyons & Priest Lake east shore; managed primarily for timber production. |
 
@@ -213,7 +211,7 @@ Located in the far northeast corner of Washington State, the **Salmo-Priest Wild
 #### Long Canyon Basin
 
 !!! tip "Long Canyon's Unique Character"
-    **Long Canyon** is the largest unroaded and unmanaged valley in North Idaho, stretching roughly 18 miles from the crest down to a giant hanging valley in the Purcell Trench near the Canadian border.
+**Long Canyon** is the largest unroaded and unmanaged valley in North Idaho, stretching roughly 18 miles from the crest down to a giant hanging valley in the Purcell Trench near the Canadian border.
 
     - **Old-Growth Canopy:** Features a spectacular 10-mile continuous corridor of ancient Western Red Cedar, Western Hemlock, and Western White Pine.
 
@@ -225,7 +223,7 @@ Situated between the western foot of the main Selkirks and the lower Washington 
 
 - **Dimensions:** 19 miles long, 1 to 5 miles wide, 360 feet max depth, featuring 8 islands.
 
-- **Upper Priest Lake:** Connected to the main lake by the 2-mile **Thorofare** channel. Accessible only by boat or on foot, it is protected within the designated *Upper Priest Lake Scenic Area*.
+- **Upper Priest Lake:** Connected to the main lake by the 2-mile **Thorofare** channel. Accessible only by boat or on foot, it is protected within the designated _Upper Priest Lake Scenic Area_.
 
 - **Fishery History & Restoration:** Priest Lake historically produced a world-record Kokanee salmon and still holds the national record for Lake Trout (57 lbs). Mismanagement of the aquatic food web led to the extinction of Kokanee in the lake. Current management focuses on restoring native **Cutthroat Trout** and **Bull Trout**.
 
@@ -252,13 +250,13 @@ Access to trailheads across the American Selkirks is available via several major
 The **Lower Kootenai Tribe** has inhabited the region since prehistoric times. As one of six bands of the Kootenai Nation, their traditional territory spanned North Idaho, northwest Montana, and southeast British Columbia. They lived a semi-nomadic lifestyle focused on hunting, fishing, and gathering, maintaining close ties with neighboring Flathead, Kalispel, and Pend Oreille tribes.
 
 !!! quote "The 1975 Declaration of War"
-    The Kootenai Tribe was omitted from the 1855 Hellgate Treaty and left without recognized reservation lands. On **September 20, 1975**, the Kootenai Tribe of Idaho gained international attention when it formally declared war on the United States. The nonviolent protest successfully pressured the federal government to grant the tribe official reservation land in North Idaho.
+The Kootenai Tribe was omitted from the 1855 Hellgate Treaty and left without recognized reservation lands. On **September 20, 1975**, the Kootenai Tribe of Idaho gained international attention when it formally declared war on the United States. The nonviolent protest successfully pressured the federal government to grant the tribe official reservation land in North Idaho.
 
 #### Early Explorers, Missionaries & Place Names
 
 - **David Thompson (1809):** The Welsh fur trader and geographer (working for the North West Company) was the first non-Native explorer to map the region. He established **Kullyspell House** at the mouth of the Clark Fork River in 1809—the first European structure built in Idaho.
 
-- **Father Peter DeSmet (1844–1846):** Jesuit missionary who brought Christianity to local tribes. Local Native Americans originally called Priest Lake *Kaniksu* (meaning "black robe," referring to the Jesuits). Father DeSmet renamed it *Roothaan Lake* after his Jesuit superior in Rome; over time it evolved into **Priest Lake**, while nearby **Mount Roothaan** still honors Father DeSmet's superior.
+- **Father Peter DeSmet (1844–1846):** Jesuit missionary who brought Christianity to local tribes. Local Native Americans originally called Priest Lake _Kaniksu_ (meaning "black robe," referring to the Jesuits). Father DeSmet renamed it _Roothaan Lake_ after his Jesuit superior in Rome; over time it evolved into **Priest Lake**, while nearby **Mount Roothaan** still honors Father DeSmet's superior.
 
 #### Mining, Logging & The CCC Era
 
@@ -281,7 +279,7 @@ Driven by prevailing Pacific westerlies, the Selkirks experience an **inland mar
 #### Forest Zones & Ancient Groves
 
 | Elevation Zone | Dominant Tree Species | Forest Characteristics |
-| :--- | :--- | :--- |
+| :------------- | :-------------------- | :--------------------- |
 
 | **Low Elevations (<4,500 ft)** | Western Red Cedar, Western Hemlock, Douglas Fir, Grand Fir, Larch, Ponderosa Pine | Lush, highly productive canopy; cedar/hemlock in moist draws; pine savannas on sunny south slopes. |
 
@@ -294,7 +292,7 @@ Driven by prevailing Pacific westerlies, the Selkirks experience an **inland mar
 - **Rare Bogs & Fens:** Lowland depressions near Priest Lake host peat bogs containing rare circumboreal plant species at the extreme southern limit of their North American range.
 
 !!! warning "Wildfire History: The 1967 Sundance Fire"
-    In 1967, the famous **Sundance Fire** ignited east of Priest Lake. Fueled by extreme winds, it executed a terrifying 16-mile run toward Bonners Ferry in under 8 hours—burning at an incredible rate of **100 acres per minute** and charring 57,000 acres across Sundance Mountain, Pack River Canyon, and Roman Nose.
+In 1967, the famous **Sundance Fire** ignited east of Priest Lake. Fueled by extreme winds, it executed a terrifying 16-mile run toward Bonners Ferry in under 8 hours—burning at an incredible rate of **100 acres per minute** and charring 57,000 acres across Sundance Mountain, Pack River Canyon, and Roman Nose.
 
 ---
 

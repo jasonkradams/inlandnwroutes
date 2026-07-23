@@ -1,47 +1,33 @@
 ---
 tags:
-
 - Lakes
-
 - Difficult
-
 - Day Hiking
-
 - Backpacking
-
 - Loop
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, loop
-
 - label: Distance
   icon: map-marker-distance
   value: 8 miles RT
-
 - label: Elevation Gain
   icon: elevation-rise
   value: 2200 verts
-
 - label: Difficulty
   icon: speedometer
   value: Difficult
-
 - label: Maps
   icon: map
   value: Kootenai N.F,, Treasure Mt. Topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 48°20’55" N 115°43’39" W. Libby Ranger District 406.293.7773
-
 - label: Lincoln County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.293.4112
 notes:
-
 - Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 
@@ -72,7 +58,7 @@ In Libby, at the intersection of Hwy 2 & 37, turn west and go one block. Turn le
 
 Ross Creek Cedars, Cedar Lakes, Dome Mountain, Kootenai Falls, the Proposed Scotchman Peaks Wilderness, Granite Lake, and Leigh Lake.
 
-## R & p
+## R & P
 
 Henry’s in Libby, Pizza Hut, Rosaeurs, Clark Fork Pantry & Squeeze Inn n Clark Fork. Eicharts, Mr Sub, Burger Express,  & Jalapeños in Sandpoint
 

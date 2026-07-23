@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Lakes
-
 stats:
-
 - label: Waterfall
   icon: waterfall
   value: 'Leigh Creek Falls Trail #132'
-
 - label: Drop
   icon: arrow-collapse-down
   value: about 100'
-
 - label: Waterfall Type
   icon: hiking
   value: plunge, cascades, fans, blocks, horsetails, tiers, chutes and slides
-
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: 1.2 miles
-
 - label: Maps
   icon: map
   value: Kootenai National Forest, Cabinet Mountain Wilderness, Snowshoe Peak topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 48°13’32" n 115°39’?17" w
@@ -73,7 +65,7 @@ The Proposed Scotchman Peaks Wilderness, the Bull River and Lake, and the Clark 
 All waterfalls are a hazard, due to their slippery nature. always be extra careful near any waterfall.
 Please keep a close eye on your children when climbing the vertical section above the Leigh Creek Falls.
 
-## R & p
+## R & P
 
 Henry"s and The Shed in Libby
 

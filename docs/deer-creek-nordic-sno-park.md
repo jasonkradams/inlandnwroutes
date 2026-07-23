@@ -1,46 +1,32 @@
 ---
 tags:
-
 - Winter & Skiing
-
 - Easy
-
 - Track Ski
-
 - Skate
-
 - Hok Ski
-
 - Telemark
-
 - Bc X-contry
-
 - Snowshoe
 
 stats:
-
 - label: Event Type
   icon: ski
   value: Track Ski, Skate, Hok Ski, Telemark, BC X-Contry, Snowshoe
-
 - label: Distance
   icon: map-marker-distance
   value: Four miles RT
-
 - label: Elevation
   icon: terrain
   value: +/- ~200 ft
-
 - label: Difficulty
   icon: speedometer
   value: Easy
-
 - label: Maps
   icon: map
   value: '[Deer Creek Nordic Map](https://parks.state.wa.us/DocumentCenter/View/60)
 
     - Washington State Parks, Mt. Leona - USGS,'
-
 - label: GPS
   icon: crosshairs-gps
   value: 48°51'54.3"n 118°23'45.7"w
@@ -98,7 +84,7 @@ Ferry County Rail Trail, Altai Skis Shop, Kettle Crest Trail
 
 Remote mountain pass with no services. The plows came buy regularly and the deputy too.
 
-## R & p
+## R & P
 
 Curlew Saloon for good beer and food, Tug Boat in Curlew for excellent hand cut and breaded fish and chips, Meyers Falls Market in Kettle Falls for groceries and deli items. I recommend the whole grain bread loaves along with the made from scratch ginger, lemon and honey tea to keep you warm from the inside.
 

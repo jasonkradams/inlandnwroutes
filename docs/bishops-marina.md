@@ -1,13 +1,10 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Launch GPS
   icon: crosshairs-gps
-  value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+  value: 48.4803° ??’ ??.?"n ???° ??’ ??.?"w
 ---
 
 # Bishops Marina
@@ -22,7 +19,7 @@ stats:
 
 ## Cool things close by
 
-## R & p
+## R & P
 
 ---
 

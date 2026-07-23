@@ -1,51 +1,36 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 - Strenous
-
 - Day Hike
-
 - Backpacking
-
 - Loop Backpack
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hike, backpacking, loop backpack
-
 - label: Distance
   icon: map-marker-distance
   value: 10 miles RT
-
 - label: Elevation Gain
   icon: elevation-rise
   value: 4200 verts
-
 - label: Difficulty
   icon: speedometer
   value: Strenous
-
 - label: Maps
   icon: map
   value: Kootenai N.F., Scenery topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 48°24’57" n 115°43’02" w
-
 - label: Libby Ranger District
   icon: pine-tree
   value: 406.293.7773
-
 - label: Lincoln County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.293.4112
 notes:
-
 - Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 
@@ -74,7 +59,7 @@ About 4 miles west of Libby, look for the Cedar Creek Road #402 sign on the SW s
 
 Cedar Lakes, William Grambauer Mt., Taylor Peak, and Dome Mt.
 
-## R & p
+## R & P
 
 Henry’s, The Shed,  Pizza Hut,& Rosauers in Libby.  Clark Fork Pantry & Squeeze Inn in Clark Fork. Eicharts, Mr Sub, Burger Express, & Jalapeños in Sandpoint
 

@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2066’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Maps
   icon: map
   value: I.P.N.F., Sandpoint Topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°15’51" n 116°33’28" w
-
 - label: Bonner County Sheriff
   icon: shield-account
   value: 208.263.8417
@@ -54,7 +46,7 @@ From the Sandpoint exit off of 95, you will be on Superior. In a block, turn rig
 
 Pend Orielle Lake, Round Lake, Priest River, and the Laclede Climbing Area.
 
-## R & p
+## R & P
 
 Burger Express, Mr. Sub, Eichardt’s, and Jalapeños.
 

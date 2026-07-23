@@ -1,14 +1,10 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: ??° ??’ ??.?"n ???° ??’ ??.?"w
-
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.263.8417
@@ -24,7 +20,7 @@ stats:
 
 ## Cool things close by
 
-## R & p
+## R & P
 
 ---
 

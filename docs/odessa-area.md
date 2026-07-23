@@ -1,53 +1,37 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 - Easy
-
 - Day Hiking
-
 - Backpacking
-
 - Fishing
-
 - Paddling
-
 - Hunting
-
 - Mt Biking
 
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, fishing, paddling, hunting, mt biking, picnicking,
     and camping.
-
 - label: Distance
   icon: map-marker-distance
   value: up to 25 miles, depending on your activity
-
 - label: Elevation
   icon: terrain
   value: 600 verts depending on your activity.
-
 - label: Difficulty
   icon: speedometer
   value: easy
-
 - label: Maps
   icon: map
   value: BLM website, Pacific Lake & Sullivan Lake topos.
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°42’83" n 118°44’47" w
-
 - label: Managing Agency
   icon: domain
   value: blm. 509.536.1200
-
 - label: Lincoln County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 509.725.3501
@@ -82,7 +66,7 @@ Rattlesnakes, sunburns, and do not drink or filter any ground water in the scabs
 
 Hog Canyon, Fishtrap  Lake, Z Lake, Twin Lakes, Palouse Falls S. P., Steamboat Rock, Northrup Canyon & Lake, and Fort Spokane.
 
-## R & p
+## R & P
 
 Harvest Restaurant in Spangle. Lenny’s in Cheney.
 

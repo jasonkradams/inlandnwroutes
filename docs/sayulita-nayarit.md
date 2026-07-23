@@ -1,18 +1,13 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Distance from Spokane
   icon: map-marker-distance
   value: 2,500 miles
-
 - label: Elevation
   icon: terrain
   value: 0 ft
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 20° 52’ 05.4"n 105° 26’ 20.4"w
@@ -48,7 +43,7 @@ In the upper left hand corner of the map below click on the right arrow -> to ex
 
 Take the water taxi from PV to Jelapa for a short hike to a  water fall with a full bar, trail run through the jungle to San Poncho, take the bus north to Chacala
 
-## R & p
+## R & P
 
 * Eric's Bar Mirimar - He releases the turtles with you
 

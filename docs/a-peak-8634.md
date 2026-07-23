@@ -1,48 +1,34 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 - Very Difficult, Exposure
-
 - Long Day Hike
-
 - Backpack
-
 - Scramble
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Long day hike, backpack & scramble
-
 - label: Distance
   icon: map-marker-distance
   value: Trailhead 2446'. To high camp (approx. 3722')5.9 miles one way. Camp site
     to A Peak summit approx. 1.3.miles one way
-
 - label: Elevation Gain
   icon: elevation-rise
   value: 6188 verts
-
 - label: Difficulty
   icon: speedometer
   value: Very Difficult, exposure
-
 - label: Maps
   icon: map
   value: Kooternai National Forest, Snowshoe Peak topo.
-
 - label: Ranger District
   icon: pine-tree
   value: Libby R.D. 406.293.7773
-
 - label: Sanders County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.827.3584
 notes:
-
 - Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 
@@ -96,7 +82,7 @@ Bull Lake, Ross Creek Cedars, Engle Peak, St Paul Lake, Cliff Lake  & Rock Peaks
 Every aspect of this hike/scramble can be dangerous. please use every precaution & do not take any risks.
 You will be in grizzly coutry, plan ahead.
 
-## R & p
+## R & P
 
 Kaiju Bar & Grill in Libby. Henry's, The Shed, and a cool Rosauers in Libby
 

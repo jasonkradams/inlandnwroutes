@@ -1,55 +1,39 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 - Easy
-
 - Day Hiking
-
 - Scrambling
-
 - Climbing
-
 - Rock Diving
-
 - Kayaking
-
 - Sun Bathing
 
 stats:
-
 - label: Event Type
   icon: hiking
   value: day hiking, scrambling, climbing, rock diving, kayaking, sun bathing, and
     good old fashion loafing.
-
 - label: Distance
   icon: map-marker-distance
   value: up to 2.4 miles
-
 - label: Elevation
   icon: terrain
   value: up to 300/verts
-
 - label: Difficulty
   icon: speedometer
   value: easy
-
 - label: Maps
   icon: map
   value: INNF, Tubbs Hill Foundation Guided map, CDA Topo
-
 - label: GPS
   icon: crosshairs-gps
   value: West trailhead 47°40’ 13" N 116°46’54"/W East trailhead 47°40’01" N 116°46’19"
     W
-
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 911 or 208.446.1300
 notes:
-
 - RANGER DISTRICT. CDA River R.D. 208.769.3000
 ---
 
@@ -86,7 +70,7 @@ Canfield Butte, Marie Creek Trail, Wallace L. Forest Conservation Area, Mineral 
 
 The trail on Tubbs Hill are rocky and have many tree roots to trip on. PLEASE USE CAUTION.
 
-## R & p
+## R & P
 
 Moon Time, Franklins Hoagies, the Mexican Food Factory, and the Trails End Brewery.
 

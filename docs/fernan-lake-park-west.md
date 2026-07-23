@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Lakes
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: 7 mile loop
-
 - label: Elevation
   icon: terrain
   value: 2133’
-
 - label: Length and Acreage
   icon: vector-square
   value: 2 miles long & 423 acres
-
 - label: Maps
   icon: map
   value: IPNF, Fernan topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°40’13" n 116°44’52" w
-
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300
@@ -54,7 +46,7 @@ To get to the west launch, you will pass the Fernan Ranger Station. The next str
 
 CDA Lake, Hayden Lake, the Idaho Panhandle National Forest, Fernan Saddle, and the old Spades Lookout.
 
-## R & p
+## R & P
 
 Michael D’s for breakfast, the Moon Time, Franklins Hoagies, Mexican Food Factory, and the Trails End Brewery.
 
