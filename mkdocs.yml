@@ -64,12 +64,13 @@ plugins:
   - tags
   - blog:
       blog_dir: blog
+      post_dir: "{blog}/posts"
+      post_url_format: "posts/{slug}"
       authors: true
       authors_file: blog/.authors.yml
       authors_profiles: true
       categories: true
       archive: true
-      post_url_format: "{slug}"
       post_date_format: MMMM d, yyyy
       post_readtime: true
       post_excerpt: optional
