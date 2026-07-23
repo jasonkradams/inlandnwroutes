@@ -2,9 +2,9 @@
 
 ## Paddle routes and put ins
 
-## Useful  information all paddlers need to know
+## Useful  information all paddlers need to know
 
-​​   Paddling info
+   Paddling info
 
 Like in all outdoor sports, there are inherent hazards in paddling.
 Your chore is to notice those hazard before it becomes an issue.
@@ -69,7 +69,7 @@ And take a paddling course, to insure you have all your ducks in a row.
 
 Never paddle close to, or near wildlife. Just enjoy them from a distance.
 
-​Paddle rules and hints
+Paddle rules and hints
 
 Uncle chucks list of kayaking rules.
 
@@ -89,17 +89,17 @@ Rule #7……..Never paddle in high winds. Go ashore and sit it out.
 
 Rule #8……..As you start your paddle, ALWAYS paddle up stream, or up wind. Why?
 
-Rule #9……..Like hiking or mountaineering, always leave your paddle location,                                               destination, time in and out, return time, and when and who to call if you                             are overdue.
+Rule #9……..Like hiking or mountaineering, always leave your paddle location,                                               destination, time in and out, return time, and when and who to call if you                             are overdue.
 
 Rule #10……If you do not have all your essential gear, do not paddle.
 
-Rule #11……Repair or replace any gear that is worn or needs work, before your next                                 paddle.
+Rule #11……Repair or replace any gear that is worn or needs work, before your next                                 paddle.
 
 Rule #12…..Use common sense before and when you are paddling.
 
 Rule #13…..Use paddle strokes that will allow you to relax while paddling.
 
-Rule #14…..Obey all laws, regulations, and law enforcement directions. 
+Rule #14…..Obey all laws, regulations, and law enforcement directions.
 
 Rule #15…..And NEVER back talk or sass authorities.
 
@@ -113,30 +113,30 @@ Rule #19…..Wear proper clothing, sunscreen, gloves, and a wide brim sun hat.
 
 Rule #20…..Check all weather sites, and notifications.
 
-Rule #21…..Lead a paddle for the Spokane Mountaineers, and invite the Spokane Canoe                         and Kayak Club and the CDA Canoe and Kayak Clubs.
+Rule #21…..Lead a paddle for the Spokane Mountaineers, and invite the Spokane Canoe                         and Kayak Club and the CDA Canoe and Kayak Clubs.
 
-Rule #22…..Log onto…InlandNWRoutes.com for paddle locations and directions to the                           launches. Please keep in mind, our website is under construction.
+Rule #22…..Log onto…InlandNWRoutes.com for paddle locations and directions to the                           launches. Please keep in mind, our website is under construction.
 
-Rule #23…..Be sure to secure your boats correctly to your vehicles. And take a long                                    coated cable and locks to secure your boats when not near them.
+Rule #23…..Be sure to secure your boats correctly to your vehicles. And take a long                                    coated cable and locks to secure your boats when not near them.
 
 Rule #24…..Always pass boats on your left, just like cars.
 
 Rule #25…..Take a beginners class before you head out the first time. BE SAFE!
 
 not done yet.
-Rule #  Have tooooo much fun!
+Rule #  Have tooooo much fun!
 
 After the paddle, I thot of some things that I feel is pretty important.
 The items below are things I take on every paddle trip I do. Because you just never know when an accident or high winds will pin you down.
 
 In a medium large dry bag, I always have these items. Think of them as the"Essentials" for a safe paddling.
-Altho I’ve only gone over three times, each have been getting into the kayak after lunch, etc.  (Sullivan Lake has a very steep shore line below the water line.)
+Altho I’ve only gone over three times, each have been getting into the kayak after lunch, etc.  (Sullivan Lake has a very steep shore line below the water line.)
 
 Starting at the bottom of the dry bag…
 A cheap rain suit, tops and bottoms. Use a cheap rain suit from Walmart
 A fleece pair of pants & jacket. The thicker the better.
 A complete set of underwear.
-A set of wool gloves, a wool stocking cap, a pair of wool socks, and a pair of waterproof over mitts or gloves.
+A set of wool gloves, a wool stocking cap, a pair of wool socks, and a pair of waterproof over mitts or gloves.
 A designated pair of paddling gloves, for kayaking only.
 And most importantly, a very plush terry cloth bath size towel on top of the above.
 You will need to strip down, dry off, and redress as quickly as possible.
@@ -148,17 +148,17 @@ If by chance you go overboard, you will need to have every piece of the above.
 Also think about carrying the following.
 A whistle in your PFD pocket
 Look at different sit and back pads. You may have to cut it to fit, so no sharp corners are poking your legs. Do not use blow up sit pads. They leak.
-A 13 or so essentials kit. 
+A 13 or so essentials kit.
 If the winds are up too high, DO NOT paddle. Go to shore and sit it out. The above emergency kit and clothing will be necessary.
 An assortment of dry bags from phone size to larger.
-Emergency red flashing headlight. 
+Emergency red flashing headlight.
 And for night paddling, you must have port and starboard side red and green lights on the front respectfully, and a white light on the back. The p & s lights should only be seen from there respective sides only. The white light should be visible from all directions.
 
 Optional equipment.
 A bilge pump
 Waterproof headlight and extra batteries, ( Not rechargeable)
 Cockpit covers to keep your interior clean in transit.
-A rain skirt for rough waters and rainy days.  However, from 1991 to date, I’ve only used mine twice. But I really needed it. If you can find one that’s waterproof and has a sealable opening for accessing your below deck personal stuff, buy it. Having to take off your skirt while paddling is a pain. Think dry bag closure systems.
+A rain skirt for rough waters and rainy days.  However, from 1991 to date, I’ve only used mine twice. But I really needed it. If you can find one that’s waterproof and has a sealable opening for accessing your below deck personal stuff, buy it. Having to take off your skirt while paddling is a pain. Think dry bag closure systems.
 A coiled strap so you can’t loose your paddle, and in rough seas, a coiled strap between you and your kayak. I’ve never been in seas that needed them, tho.
 A soft side cooler for water and food.
 A towel to cover your legs from the sun. It allows for air movement.
@@ -169,7 +169,7 @@ A wax to keep your kayak clean, shiny and has easy water run off.
 There is a wax called 303 for boats. Don’t know the brand. Or Meguiar’s Ultimate quick wax.
 They both don’t show white scratches.
 
-​For general reference, I am listing the accepted,
+For general reference, I am listing the accepted,
 "International Scale of Grading the Difficulty of River Cruising Routes."
 
 Grade i
@@ -211,6 +211,7 @@ Please burry your human waste 6" or deeper, and if there are rocks around, stack
 I carry an old Nalgene bottle to be able to pee on board. Women can use a Lady Jane devise to aid peeing on board.
 
 Pack it in- pack it out
+
 PLEASE help to keep the rivers and lakes clean.
 Whether you are burying human waste or fish parts (DO NOT DIGARD GUTS & HEAD BACK INTO THE WATER., PLEASE use the same protocol as disposing of human waste.
 And please remember the old adage....
@@ -239,6 +240,7 @@ While you are at it, check to see if your bilge pump is working properly. The ga
 \*Their may have been some BS above.\*
 
 Yoga & stretching onboard
+
 Years ago a girlfriend and I paddled heavily for years. We developed a full set of stretches and poses to do while paddling. Sooner or later you will get sore from sitting to long. If you know yoga & stretching, adapt what you know to relieve any sore spots.
 Just remember, do not allow your nose to go outside of the boat’s cockpit rim.
 You may have to go to shore once in a while to do stretching.

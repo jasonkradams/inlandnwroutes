@@ -1,13 +1,17 @@
 ---
 title: "Blog #51: 2024 Two Bear Air Rescue Info"
+
 date: 2024-03-15
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Trail Safety & Gear
 ---
-
 
 Two Bear Air Rescue is a non-profit organization flying out of the Kalispell area, operating across Eastern Washington, Montana, Idaho, and beyond to assist in search and rescue missions at no cost to victims.
 

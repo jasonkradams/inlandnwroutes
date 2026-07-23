@@ -1,10 +1,14 @@
 ---
 tags:
+
 - Paddling & Rivers
+
 stats:
+
 - label: Length and Acreage
   icon: vector-square
   value: '1339.9'
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: ??° ??’ ??.?"n ???° ??’ ??.?"w
@@ -12,7 +16,7 @@ stats:
 
 # Tule Baybeaver Creek Landing
 
-*Tule bay/beaver creek landing​*
+*Tule bay/beaver creek landing*
 
 ## Description
 

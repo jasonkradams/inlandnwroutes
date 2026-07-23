@@ -1,39 +1,57 @@
 ---
 tags:
+
 - Lakes
+
 - Difficult
+
 - Day Hiking
+
 - Backpacking
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking
+
 - label: Distance
   icon: map-marker-distance
   value: 8 miles RT
+
 - label: Elevation Gain
   icon: elevation-rise
   value: 2700 verts
+
 - label: Acres
   icon: vector-square
   value: '10.1'
+
 - label: Difficulty
   icon: speedometer
   value: Difficult
+
 - label: Maps
   icon: map
   value: Kootenai N.F., Silver Butte Pass, Goat Peak topos
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°57’41" n 115°32’23" w
+
 - label: Ranger District
   icon: pine-tree
   value: 'libby ranger district: 406.293.7773'
 notes:
+
 - Kootenai national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+
 - 'LINCOLN COUNTY, MT SHERIFF: 911 or [406.293.4112](tel:406.293.4112)'
+
 - Kootenai national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 
@@ -44,12 +62,12 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​On the southern edge of the Cabinet Mountain Wilderness, sits Baree Mountain 6050’. It’s grassy dome shaped has nice high meadows to enjoy. Once at the lake, look SE for an old miners cabin, which is deteriorating.
+On the southern edge of the Cabinet Mountain Wilderness, sits Baree Mountain 6050’. It’s grassy dome shaped has nice high meadows to enjoy. Once at the lake, look SE for an old miners cabin, which is deteriorating.
 There is a primitive campsite on the lake’s SE shore.
 
 ## Option #1
 
-The route from the lake to Baree Mountain is done by skirting the lake to the south, then up several rocky ledges SE to the summit. This route offers some  great scrambling.
+The route from the lake to Baree Mountain is done by skirting the lake to the south, then up several rocky ledges SE to the summit. This route offers some  great scrambling.
 
 ## Option #2
 

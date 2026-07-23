@@ -1,37 +1,53 @@
 ---
 tags:
+
 - Waterfalls
+
 - Easy
+
 - Day Hike
+
 - Backpack
+
 - Mt. Biking
+
 - Swimming
+
 stats:
+
 - label: Event Type
   icon: waterfall
   value: Day hike, backpack, Mt. Biking, swimming
+
 - label: Distance
   icon: map-marker-distance
   value: 16.2 miles RT
+
 - label: Elevation Gain
   icon: elevation-rise
   value: 640’
+
 - label: Difficulty
   icon: speedometer
   value: easy
+
 - label: Maps
   icon: map
   value: I.P.N.F., Kaniksu N.F., Continental Mountain
+
 - label: GPS
   icon: crosshairs-gps
   value: 48°53’45" n 116°57’51" w
+
 - label: Ranger District
   icon: pine-tree
   value: Priest Lake r.d. 208.443.2512
+
 - label: Boundary County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208. 267.3151
 notes:
+
 - Idaho panhandle national forest/alerts [https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)
 ---
 
@@ -40,7 +56,7 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​Altho this trail seems long, it is a beautiful trail to hike on the hottest day of the year. Most of Trail #308 is surrounded by large Hemlocks and Cedars.
+Altho this trail seems long, it is a beautiful trail to hike on the hottest day of the year. Most of Trail #308 is surrounded by large Hemlocks and Cedars.
 
 For the most part, this trail skirts the Upper Priest River. Along your hike or mt. bike, there are numerous wood walkways to protect the fragile, often moist ground. Trees make this hike a real memory. And this area is one of the largest, in tact old growth forests in the Pacific Northwest.
 Some of the trees are up to 10 feet in diameter.
@@ -65,7 +81,7 @@ Hughes Meadows & Ridge, Little Snowy Top, and Snowy Top.
 ## Hazards
 
 The hiking, and biking hazards are simple. If you gawk too much, you will leave the trail.
-​On Trail #28, you just pay attention to the trail as it drops 140’.
+On Trail #28, you just pay attention to the trail as it drops 140’.
 
 This area is frequented by moose and grizzly bears. make lots of noise to alert them that you are in the area.
 
@@ -99,6 +115,6 @@ Burger Express in Priest River.
 
 ---
 
-There are two things I like about life… Living it, and living in nature. ​ The solitude is deafening.                     chic     1.1.2023
+There are two things I like about life… Living it, and living in nature.  The solitude is deafening.                     chic     1.1.2023
 
 ---

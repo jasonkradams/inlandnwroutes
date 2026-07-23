@@ -1,32 +1,41 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Phone
   icon: phone
   value: 503.337.2222
+
 - label: Acres
   icon: vector-square
   value: '2150'
+
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 430"
+
 - label: Summit Elevation
   icon: terrain
   value: 7300'
+
 - label: Base Elevation
   icon: terrain
   value: 4523'
+
 - label: Verts
   icon: arrow-expand-vertical
   value: 2777'
 notes:
+
 - Skihood.com
 ---
 
 # Mount Hood Meadows
 
-*Mountn hood meadows    mount hood, or*
+*Mountn hood meadows    mount hood, or*
 
 ## of named runs: 85
 
@@ -47,7 +56,7 @@ Don't miss Heather or Clark Canyons.
 
 ---
 
-Mt. Hood Meadows offers some of the most spectacular skiing and snowboarding in the Northwest! The resort is close to Portland - just 90 minutes away - but delivers a big mountain experience you'd expect to travel much farther to enjoy. Mt. Hood Meadows operates on a special use permit in the Mt. Hood National Forest, and the resort sprawls across Mt. Hood's southeast flank. The sunny, wind-protected side of Mt. Hood. Meadows' playful terrain welcomes and challenges all levels of skiers and snowboarders. We have a huge mountain with terrain for everyone, magnificent views and snowfall beyond belief. Our entire staff is committed to providing you with a truly memorable and unique experience that is Mt. Hood Meadows. 
+Mt. Hood Meadows offers some of the most spectacular skiing and snowboarding in the Northwest! The resort is close to Portland - just 90 minutes away - but delivers a big mountain experience you'd expect to travel much farther to enjoy. Mt. Hood Meadows operates on a special use permit in the Mt. Hood National Forest, and the resort sprawls across Mt. Hood's southeast flank. The sunny, wind-protected side of Mt. Hood. Meadows' playful terrain welcomes and challenges all levels of skiers and snowboarders. We have a huge mountain with terrain for everyone, magnificent views and snowfall beyond belief. Our entire staff is committed to providing you with a truly memorable and unique experience that is Mt. Hood Meadows.
 
 From the steeps of the front side bowls to the gentle slopes of our beginner runs, Mt. Hood Meadows terrain is known for its diversity and playfulness. Voted by Oregonians for having the best cruising intermediate terrain in the state, Meadows offers more than 2,150 acres of pure enjoyment. Rising to its highest lift-served elevation of 7,300 feet, you’ll feel like you’re on the top of the world as you take in a panoramic view to the east and south.
 

@@ -1,19 +1,26 @@
 ---
 tags:
+
 - Waterfalls
+
 stats:
+
 - label: Waterfall
   icon: waterfall
   value: Silver Falls State park
+
 - label: Drop
   icon: arrow-collapse-down
   value: 31 feet to 178 feet
+
 - label: Waterfall Type
   icon: waterfall
   value: All types of falls
+
 - label: Maps
   icon: map
   value: ???
+
 - label: GPS
   icon: crosshairs-gps
   value: ??°??’??" n ???°??’??" w
@@ -23,9 +30,9 @@ stats:
 
 ## History provided by oregon state parks
 
-Your browser does not support viewing this document. Click [here](https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11222021934p.pdf) to download the document.
+Your browser does not support viewing this document. Click [here]( to download the document.
 
-Your browser does not support viewing this document. Click [here](https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11222021955p.pdf) to download the document.
+Your browser does not support viewing this document. Click [here]( to download the document.
 
 ## Photo gallery
 

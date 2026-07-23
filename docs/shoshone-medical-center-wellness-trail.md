@@ -1,38 +1,55 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 - Easy
+
 - Walking
+
 - Running
+
 - Hiking
+
 - Picnicking
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Walking, running, hiking & picnicking
+
 - label: Distance
   icon: map-marker-distance
   value: less then a mile RT
+
 - label: Elevation Gain
   icon: elevation-rise
   value: about 240’
+
 - label: Difficulty
   icon: speedometer
   value: easy
+
 - label: Maps
   icon: map
   value: IPNF, Kellogg topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°32’50"n 116°08’47"w
+
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
+
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
 notes:
+
 - Idaho panhandle national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -89,7 +106,7 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 *Picture (Image missing)*
 
-## A section of the trail above the picnic table    6.30.2022
+## A section of the trail above the picnic table    6.30.2022
 
 ![Picture](assets/images/p156.png)
 

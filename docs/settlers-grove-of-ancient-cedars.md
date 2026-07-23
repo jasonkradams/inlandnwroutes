@@ -1,36 +1,51 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 - Easy to Moderate
+
 - Day Hiking
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, interpretive trail thru the Cedars.
+
 - label: Distance
   icon: map-marker-distance
   value: Less then a mile within the botanical area.
+
 - label: Elevation Gain
   icon: elevation-rise
   value: about 2400’ to Bloom Peak.
+
 - label: Difficulty
   icon: speedometer
   value: easy to moderate
+
 - label: Maps
   icon: map
   value: Idaho Panhandle N.F., Burke topo
+
 - label: GPS
   icon: crosshairs-gps
   value: Trailhead 47°42’34" N -115°49’36" W
+
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
+
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
 notes:
+
 - About 12 miles RT to Bloom Peak.
+
 - Idaho panhandle national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -40,13 +55,14 @@ notes:
 
     Settlers grove of ancient cedars
 
-*​Forest road 805 to settlers grove of ancient cedars is closed due to being washed out*
+*Forest road 805 to settlers grove of ancient cedars is closed due to being washed out*
 
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
 Settlers Grove was established as a botanical area in 1970, and is the only old growth cedar botanical area in the CDA River Ranger District.
 The Cedars measure up to 7 feet in diameter, and have been estimated at 600 + years old.
+
 The West Fork Eagle Creek runs thru the grove, and crosses the trail on foot bridges several times. Meander up thru the Cedars for about a mile before the formal grove ends.
 
 ## Option #1
@@ -111,7 +127,7 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 ![Picture](assets/images/p48.png)
 
-## Giant western red cedars  ​(having fun)
+## Giant western red cedars  (having fun)
 
 ![Picture](assets/images/202111535381-jpeg-1.jpg)
 
@@ -135,4 +151,4 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 ## Eagle creek
 
-I walked amongst giants today. Some were growing along streams. Some were so old they turned white decades ago, among the high ridges.                           These giant trees, no matter their age, are monarchs.              chic.  9.14.11
+I walked amongst giants today. Some were growing along streams. Some were so old they turned white decades ago, among the high ridges.                           These giant trees, no matter their age, are monarchs.              chic.  9.14.11

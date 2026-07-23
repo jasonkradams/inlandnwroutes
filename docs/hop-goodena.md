@@ -4,12 +4,13 @@
 
 ---
 
-Genesis name:  
+Genesis name:
+
 Distribution:
 Season:
-Medical use:  
-Poisonous:  
-Edibility:  
+Medical use:
+Poisonous:
+Edibility:
 Features:
 Leaves:
 Fruits:

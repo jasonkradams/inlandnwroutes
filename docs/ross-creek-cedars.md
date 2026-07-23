@@ -1,31 +1,43 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 - Scenic Nature Hike
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Scenic Nature Hike
+
 - label: Elevation
   icon: terrain
   value: Minimal
+
 - label: Difficulty
   icon: speedometer
   value: easy & wheel chair accessible
+
 - label: Maps
   icon: map
   value: Kootenai N.F., Sawtooth Mountain topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 48°12’30" n 115°54’53" w
+
 - label: Ranger District
   icon: pine-tree
   value: Three River R.D. 406.295.4693
+
 - label: Lincoln County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.293 4112
 notes:
+
 - DISTANCE 1 mile loop +
+
 - Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 
@@ -36,12 +48,12 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​For the most part, this trail is level as it winds thru a large stand of Western Red Cedars.
+For the most part, this trail is level as it winds thru a large stand of Western Red Cedars.
 Some of the trees in this preserve are 5 to 8 feet in diameter and exist in all ages of life.
 The 1 mile loop trail takes you close and in some instances thru some of the trees.
 There is a picnic area next to the parking lot with tables and a bridge across Ross Creek.
 Across from the restrooms are picnic tables, and the creek here has hundreds of cairns built on the stream bed.
-​do not miss this walk.
+do not miss this walk.
 
 ## Option #1
 
@@ -49,7 +61,7 @@ As you walk the trail, look for a spur Trail #142 at the very back of the hike, 
 
 You can continue on this trail for another 2 miles to the base of Middle Mountain and Sawtooth Mountain.
 Please be aware that this route is in bear country. pay attention and make a lot of noise as you hike this trail.
- And watch for Pine Martins along this route.
+ And watch for Pine Martins along this route.
 
 ## Directions
 
@@ -123,4 +135,4 @@ This braided log was a beautiful part of the cedar, but someone cut it out a few
 
 ## The cabinet mountain wilderness from near the ross creek cedars
 
-I walked amongst giants today. They stretched to the clouds, and stood tall and proud. They were majestic. But Western Red Cedars  always invoke awe.     chic       2.8.2025
+I walked amongst giants today. They stretched to the clouds, and stood tall and proud. They were majestic. But Western Red Cedars  always invoke awe.     chic       2.8.2025

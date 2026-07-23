@@ -1,15 +1,20 @@
 ---
 title: "Blog #96: Autumn hiking is here"
+
 date: 2025-09-22
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 
-
 Below I will list the hikes in our region that will cause oohs and ahs at every turn.
+
 When you plan for Autumn hikes, please be sure to have extra clothes, food and water, and traction devises for your boots.
 
 <!-- more -->
@@ -39,7 +44,7 @@ In Spokane County you will find 17+ hiking areas to choose from.
 
 By clicking on the above url, it will take you to the Spokane County Futures Tax Properties, website.
 These properties are usually easy to moderate, and hike thru very diverse terrains all around Spokane County.
-​
+
 Saltese Uplands and Flats
 <https://www.inlandnwroutes.com/saltese-flats-wetland-trail.html>
 This hike has some up hill hiking but nothing serious.
@@ -47,7 +52,7 @@ The views of Mica Peak and the surrounding wetlands, will light up earlier than 
 
 Wallace L. Forrest Conservation Area
 
-url…..   BLM wallace l forest conservation area
+url…..   BLM wallace l forest conservation area
 The Wallace L.Forest Conservation Area is managed by the BLM.
 It contains 736 acres of forest and open grassy terrain, and has a cool overlook on its south border.
 On it’s west side, is a day use area with a dock and picnic area.
@@ -131,6 +136,6 @@ A thermos of hot chocolate would be wise.
 
 Where ever you go, be safe and enjoy our fall colors.
 
-David and I would like to thank you for reading and using our local  website.
+David and I would like to thank you for reading and using our local  website.
 
-Chic          David
+Chic          David

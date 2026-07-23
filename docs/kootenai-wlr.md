@@ -1,38 +1,55 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 - All Routes Are Easy
+
 - Hiking
+
 - Auto Tour
+
 - Bird
+
 - Animal Viewing
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Hiking, auto tour, bird and animal viewing,
+
 - label: Distance
   icon: map-marker-distance
   value: Longest trail is 2.2 miles. Auto Tour is a 4.5 mile drive with pullouts.
+
 - label: Elevation
   icon: terrain
   value: Level 1787’ base elevation
+
 - label: Difficulty
   icon: speedometer
   value: All routes are easy
+
 - label: Maps
   icon: map
   value: Stop by the refuge headquarters for a brochure, viewing guide and restrooms.
+
 - label: GPS
   icon: crosshairs-gps
   value: 48°42’25"n 116°24’54"w
+
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561
+
 - label: Boundary County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.267.3151
 notes:
+
 - Idaho panhandle national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -43,10 +60,10 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​The Kootenai National Wildlife Refuge was established in 1964, and contains 2775 acres. 
+The Kootenai National Wildlife Refuge was established in 1964, and contains 2775 acres.
 There are over 300 species of vertebrate animals that stop over throughout the year. Stop by the headquarters and pick up a free brochure that outlines which species are around for the time you are visiting the refuge. There are over 220 species of migratory birds. Moose, deer, elk, otter, and Bald Eagles are regulars at the refuge.
-​Within the refuge are 5 hiking trails, the longest is 2.2 miles, one of which is a 1/4 mile trail to Myrtle Falls.
-​At the headquarters are restrooms
+Within the refuge are 5 hiking trails, the longest is 2.2 miles, one of which is a 1/4 mile trail to Myrtle Falls.
+At the headquarters are restrooms
 
 ## Option #1
 
@@ -54,13 +71,13 @@ The Deep Creek Trail is 2.2 miles and starts on the SW corner along Riverside Ro
 
 ## Option #2
 
-The Island Pond  Trail starts on Frontage Road 417, and circles Island Pond for 1.5 miles.
+The Island Pond  Trail starts on Frontage Road 417, and circles Island Pond for 1.5 miles.
 
 ## Option #3
 
 The Myrtle Falls Trail is across from the headquarters to the west. It has its own parking area. The hike to the Myrtle Falls Overlook is only .9 of a mile along Myrtle Creek. A steel bridge crosses the creek as it gently ascends to the overlook, via several switchbacks. Along the way, be sure to admire Myrtle Creek. It can be followed north along Frontage Road 417 to the bridge at the north end of the headquarters, near the Auto Tour Road.
 The Myrtle Creek is spectacular in the winter. Don't miss it.
-There is a hazard here you must pay attention to.  at the falls overlook is an unprotected viewing area. please watch your children very carefully here.
+There is a hazard here you must pay attention to.  at the falls overlook is an unprotected viewing area. please watch your children very carefully here.
 
 ## Option #4
 
@@ -87,11 +104,11 @@ Jalapeños, Eichardt’s, Burger Express, and Mr. Sub in Sandpoint.
 
 ## Photo gallery
 
-To read more about the purcell trench, the american selkirks, and the cabinet mountain wilderness, ​double click on the regions name in the drop down menu
+To read more about the purcell trench, the american selkirks, and the cabinet mountain wilderness, double click on the regions name in the drop down menu
 
 ![Picture](assets/images/28140013.jpg)
 
-## Two photog friends trying to get a good image ​next to the meeting room barn
+## Two photog friends trying to get a good image next to the meeting room barn
 
 *Picture (Image missing)*
 
@@ -105,7 +122,7 @@ To read more about the purcell trench, the american selkirks, and the cabinet mo
 
 ## The kootenai national wildlife refuge from road #18, south side
 
-![Picture](assets/images/2021116-61-jpeg-1.jpg){: data-src="assets/images/2021116-61-jpeg-1.jpg" }
+![Picture](assets/images/2021116-61-jpeg-1.jpg)"
 
 ## The kootenai national wildlife refuge from the myrtle lake road
 

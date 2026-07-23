@@ -1,29 +1,38 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Genesis Name
   icon: book-open-variant
   value: Calochortus macrocarpus
+
 - label: Distribution
   icon: earth
   value: Occurring east of the Cascades crest in Washington; British Columbia to California,
     east to Montana and Nevada.
+
 - label: Season
   icon: calendar
   value: Blooms in June and can also thru summer
+
 - label: Medical Use
   icon: medical-bag
   value: '**Okanagan-Colville** - Poultice of mashed bulbs applied to the skin for
     poison ivy. Bulbs eaten raw or pit cooked with other roots. Roots used as a principle
     food. Corms formerly cooked and used for food. Sweet flower buds used for food.'
+
 - label: Poisonous
   icon: skull-crossbones
   value: 'no'
+
 - label: Edibility
   icon: food-apple
   value: Mariposa-lily (Calochortus spp.) Calochortus spp. **bulbs are edible raw**.
     bulbs are best when cooked.
+
 - label: Features
   icon: information-outline
   value: Umbels 1-3 flowered; flowers large, lavender to white, erect, each petal
@@ -31,13 +40,16 @@ stats:
     pointed; petals 3, obovate, moderately bearded above the gland; gland triangular-oblong,
     surrounded with a broad, fringed membrane, and densely covered with slender processes;
     stamens 6, style tapered, stigma trifid, persistent.
+
 - label: Leaves
   icon: leaf
   value: The leaves are blue-green and grass-like
+
 - label: Fruits
   icon: fruit-cherries
   value: Capsule linear-lanceolate, 3-angled, pointed.
 notes:
+
 - individual plants of Calochortus macrocarpus can remain dormant for a period of
   one to four years. This seems to be a strategy by the plant to avoid unfavourable
   environmental conditions in a particular year, allowing it to instead grow within

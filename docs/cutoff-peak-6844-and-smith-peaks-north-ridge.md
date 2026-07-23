@@ -1,49 +1,64 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Hiking
+
 - Backpacking
+
 - No Trail. Yahooo
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Hiking, backpacking and equestrian. Maybe some mt biking to Cutoff Peak,
     but the very long ridge towards Smith Peak has many blow downs, and no trail.
     Yahooo
+
 - label: Distance
   icon: map-marker-distance
   value: Cutoff Peak about 6 miles RT. Smith Peak from Cutoff Peak 8 miles RT
+
 - label: Elevation
   icon: terrain
   value: To Cutoff Peak 1440' gain To Smith Peak about 2700'+
+
 - label: Difficulty
   icon: speedometer
   value: Moderate to Cutoff Peak Difficult to Smith Peak
+
 - label: Maps
   icon: map
   value: IPNF - Kaniksu N.F., USGS - Shorty Peak & Smith Peak
+
 - label: GPS
   icon: crosshairs-gps
   value: 48° 53’ 46.0"n 116° 38’ 41.5"w
+
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561
+
 - label: Boundary County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.267.3151
 notes:
+
 - Idaho panhandle national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
 # Cutoff Peak 6844 And Smith Peaks North Ridge
 
-*Cutoff peak 6844' and smith peak's 7653’ north ridge​*
+*Cutoff peak 6844' and smith peak's 7653’ north ridge*
 
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​The first part of this trail is on an old roadbed for about .5 miles, then picks up Trail #17 for about 2.5 miles to Cutoff Peak. Along this section of the trail, it climbs steeply to a ridge top, with views of Cutoff Peak in the distance. A short distance on the ridge, Trail #17 meets up with Trail #18. As the trail continues south, it skirts Cutoff Peak and summits on the south flank. Once on the ridge, head north a short distance to a dilapidated old cabin. Wander about this area to the east for views of the Long Canyon drainage. Once back on Trail #18, the trial undulates to a higher point, where there is an excellent camp site. Although there is no trail to Smith Peak 4 miles one way, the ridge is wide and spectacular. There are several bumps along the ridge before a taller one closer to Smith Peak. About half way up this bump, there is a route to skirt the bump towards Smith Peak. As you access the saddle below Smith Peak and start climbing, you should skirt the NW side of Smith Peak to the west side. From here it's just a scramble up thru the trees and scree to the summit.
+The first part of this trail is on an old roadbed for about .5 miles, then picks up Trail #17 for about 2.5 miles to Cutoff Peak. Along this section of the trail, it climbs steeply to a ridge top, with views of Cutoff Peak in the distance. A short distance on the ridge, Trail #17 meets up with Trail #18. As the trail continues south, it skirts Cutoff Peak and summits on the south flank. Once on the ridge, head north a short distance to a dilapidated old cabin. Wander about this area to the east for views of the Long Canyon drainage. Once back on Trail #18, the trial undulates to a higher point, where there is an excellent camp site. Although there is no trail to Smith Peak 4 miles one way, the ridge is wide and spectacular. There are several bumps along the ridge before a taller one closer to Smith Peak. About half way up this bump, there is a route to skirt the bump towards Smith Peak. As you access the saddle below Smith Peak and start climbing, you should skirt the NW side of Smith Peak to the west side. From here it's just a scramble up thru the trees and scree to the summit.
 
 ## Directions
 
@@ -72,7 +87,7 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
 ## Photo gallery
 
-![Picture](assets/images/68a4ad15-0410-4a7c-ae68-346834a4c8f2.jpg){: data-src="assets/images/68a4ad15-0410-4a7c-ae68-346834a4c8f2.jpg" }
+![Picture](assets/images/68a4ad15-0410-4a7c-ae68-346834a4c8f2.jpg)"
 
 ## Near the start of the trail to cutoff peak on way to smith peak
 
@@ -80,11 +95,11 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
 ## An old lookout cabin on cutoff peak on way to smith peak
 
-## ​
+##
 
 ![Picture](assets/images/997aec07-d053-4ec0-b4a3-cf22929e2991.jpg)
 
-## ​chris on cutoff peak
+## chris on cutoff peak
 
 ![Picture](assets/images/7515cfd6-fd72-4246-a14b-241813106c41.jpg)
 
@@ -106,15 +121,15 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
 ![Picture](assets/images/110620211026p.jpg)
 
-## On the ridge between cut off peak and smith peak ​image by chris herath
+## On the ridge between cut off peak and smith peak image by chris herath
 
 ![Picture](assets/images/110620211029p.jpg)
 
-## Smith lake with lion head on the next ridge ​image by chris herath
+## Smith lake with lion head on the next ridge image by chris herath
 
 ![Picture](assets/images/100620211053p.jpg)
 
-## The summit of smith peak ​image by chris herath
+## The summit of smith peak image by chris herath
 
 ![Picture](assets/images/110620211050p.jpg)
 
@@ -124,4 +139,4 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
 ## One last look back at the summit of smith peak Image by chris herath
 
-Wondering the mountains takes us on a path thru our soul. While a path thru our soul takes us to new heights. New heights expand our love of wandering.                                                                chic.  7.29.11
+Wondering the mountains takes us on a path thru our soul. While a path thru our soul takes us to new heights. New heights expand our love of wandering.                                                                chic.  7.29.11

@@ -1,17 +1,22 @@
 ---
 title: "Blog #89: Its time to talk the 13 essentials and more"
+
 date: 2025-05-22
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 
-
 The 13 ESSENTIALS are one of your most important items to take with you whenever you go into Nature.
+
 Way back in 1993-4, when I was President of the Spokane Mountaineers (SMI), I argued that the 10 ESSENTIALS were not adequate.
-We adopted  the 13 ESSENTIALS so our members would be prepared for many situations that occur in the woods 0r on glaciers.
+We adopted  the 13 ESSENTIALS so our members would be prepared for many situations that occur in the woods 0r on glaciers.
 So, why does a hiker to any of our spectacular locations, need bandages or fire starter, etc.?
 Stuff happens in the mountains.
 
@@ -35,9 +40,9 @@ If it weren’t for that rain suit, I would have had to walk down those slopes.
 About 3 years ago, I led a hike on a nice Sunday afternoon to Gold Peak?
 When we got to the summit, I noticed one of the girls was in physical pain.
 She was trying out a new pair of boots that were too small and laced too tight.
-​She had quarter size blisters on both heels.
+She had quarter size blisters on both heels.
 I asked her to take off her boots and lay on her stomach so I could treat her blisters.
-For many decades, both privately and for the SMI, I’ve always carried in my 13 ESSENTIALS, SPENCO 2nd Skin BURN PADS. Not 2nd Skin patches.
+For many decades, both privately and for the SMI, I’ve always carried in my 13 ESSENTIALS, SPENCO 2nd Skin BURN PADS. Not 2nd Skin patches.
 After sterilizing her blisters I cut and placed the 2nd Skins over her blisters and taped them in place.
 Yes, she was embarrassed, but when we descended, I saw her skipping down the trail.
 
@@ -54,7 +59,7 @@ Because I lead trips, my 13 ESSENTIAL is only part on my personal ESSENTIALS. On
 Yes, it’s simply a check list that covers all situations and needs.
 But I can tell you…many have thank me for being prepared.
 
-PLEASE read our sections under RESOURCES AND HINTS, for additional important  information.
+PLEASE read our sections under RESOURCES AND HINTS, for additional important  information.
 Under RESOURCES is a section on Medical Information Card (MIC).
 If you are found unconscious and can’t tell rescuers your name, person to call, medications and medical information, it may take precious time for EMT’s to figure out how to treat you.
 
@@ -75,6 +80,6 @@ If you have any questions or comments on anything on our website, use the envelo
 
 David and I would like to thank you for reading and using our totally free, local website.
 
-Chic      David
+Chic      David
 
 InlandNWRoutes.com

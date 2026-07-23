@@ -1,13 +1,17 @@
 ---
 title: "Blog #62: Be prepared...be safe"
+
 date: 2024-05-26
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
-
 
 Be prepared...be safe
 
@@ -80,6 +84,6 @@ We want all readers to be safe, have way toooo much fun in Nature, and return ho
 
 THANK YOU ALL for reading and using our website.
 
-Chic          David
+Chic          David
 
 InlandNWRoutes.com

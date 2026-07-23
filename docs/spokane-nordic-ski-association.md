@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Winter & Skiing
+
 stats:
+
 - label: Resort Name
   icon: domain
   value: Spokane Nordic Ski Association
+
 - label: Type of Business
   icon: ski
   value: Nordic Ski Club (501c3 Non-Profit)
+
 - label: Website
   icon: web
   value: '[www.spokanenordic.org](https://www.spokanenordic.org)'
+
 - label: Address
   icon: map-marker
   value: PO BOX 501, Spokane, WA 99210
+
 - label: Phone
   icon: phone
   value: n/a
+
 - label: Email
   icon: web
   value: '[Email Protected](mailto:protected@example.com)'
@@ -26,7 +34,7 @@ stats:
 
 ## Description
 
-The Nordic Ski Area at Mt Spokane State Park is possible because of  the cooperation between WA State Parks, Inland Empire Paper Co, and The ID Department of Lands.  SNSA exists to advocate, on behalf of the Nordic skiers who use the trail network, on issues related to maintenance and development of the Nordic ski area.
+The Nordic Ski Area at Mt Spokane State Park is possible because of  the cooperation between WA State Parks, Inland Empire Paper Co, and The ID Department of Lands.  SNSA exists to advocate, on behalf of the Nordic skiers who use the trail network, on issues related to maintenance and development of the Nordic ski area.
 
 Through membership, donations, and volunteer efforts, Spokane Nordic provides maps, signs, trail maintenance, firewood, land lease costs, facility improvements, grooming logistics, and requests for State development funds.
 

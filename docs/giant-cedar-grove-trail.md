@@ -1,34 +1,47 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 - Easy
+
 - Sight Seeing
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Sight seeing
+
 - label: Distance
   icon: map-marker-distance
   value: .5 miles
+
 - label: Elevation
   icon: terrain
   value: minimal
+
 - label: Difficulty
   icon: speedometer
   value: easy
+
 - label: Maps
   icon: map
   value: Elk Creek Falls National Recreation Area map.
+
 - label: GPS
   icon: crosshairs-gps
   value: 46°88’80" n 116°11’82" w
+
 - label: Ranger District
   icon: pine-tree
   value: Palouse R.D. 208.875.1131
+
 - label: Clearwater County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.476. 4521
 notes:
+
 - '[Clearwater national forest/ alerts](https://www.fs.usda.gov/alerts/lolo/alerts-notices)<https://www.fs.usda.gov/alerts/nezperceclearwater/alerts-notices>'
 ---
 
@@ -51,7 +64,7 @@ That damage can harm the ancient tree.
 
 From Elk River take County Road #382 north for about 10 miles, turn right on F.S.Road 4764. The trailhead is .25 miles beyond the parking area.
 
-Be sure to pick up a brochure of the area.
+Be sure to pick up a brochure of the area.
 
 ## Cool things close by
 
@@ -59,7 +72,7 @@ Elk Creek Falls National Recreation Area, the a giant Western Red Cedars, Dworsh
 
 ## Hazards
 
-No hazard, beyond walking on your Lowe jaw.
+No hazard, beyond walking on your Lowe jaw.
 
 ## R & p
 

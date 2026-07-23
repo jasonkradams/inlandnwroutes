@@ -1,24 +1,34 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Difficult
+
 - Day Hiking
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day Hiking
+
 - label: Distance
   icon: map-marker-distance
   value: 6.4 Miles
+
 - label: Elevation
   icon: terrain
   value: 1,150 gain/loss
+
 - label: Difficulty
   icon: speedometer
   value: Difficult
+
 - label: Maps
   icon: map
   value: GaiaGPS.com USFS 2016
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°50'25.4"n 116°57'32.3"w
@@ -64,7 +74,7 @@ We had a pleasant lunch break eating in the sun while sitting on the old stone f
 
 ## Plan your trip
 
-Click for Current NOAA Weather Conditions: [www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=2500&uel=5500&polygon=47.865%2C-117.002%2C47.866%2C-116.907%2C47.811%2C-116.902%2C47.810%2C-116.998%2C&area=17](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=2500&uel=5500&polygon=47.865%2C-117.002%2C47.866%2C-116.907%2C47.811%2C-116.902%2C47.810%2C-116.998%2C&area=17)
+Click for Current NOAA Weather Conditions: [www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=2500&uel=5500&polygon=47.865%2C-117.002%2C47.866%2C-116.907%2C47.811%2C-116.902%2C47.810%2C-116.998%2C&area=17](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=2500&uel=5500&polygon=47.865%2C-117.002%2C47.866%2C-116.907%2C47.811%2C-116.902%2C47.810%2C-116.998%2C&area=17)
 
 trailforks widget startpowered by [Trailforks.com](https://www.trailforks.com/)
 
@@ -74,7 +84,7 @@ trailforks widget end
 
 ---
 
-![Picture](assets/images/202311180631.jpg){: data-src="assets/images/202311180631.jpg" }
+![Picture](assets/images/202311180631.jpg)"
 
 Parking pull outs at the end of hidden valley road just before the gated fire road on the right leading up to the scenic lodge
 

@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Lakes
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: 7 mile loop
+
 - label: Elevation
   icon: terrain
   value: 2133’
+
 - label: Length and Acreage
   icon: vector-square
   value: 2.3 miles long & 300 acres
+
 - label: Maps
   icon: map
   value: IPNF, Fernan topo
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°40’43" n 116°42’33" w
+
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300
@@ -28,7 +36,7 @@ stats:
 
 WEST END LAUNCH: The west end has an unusual designation. It's outlet flows in both directions, depending on what time of the year it is.
 There are only a few streams in the U.S. that do that.
-This is a very busy fishing spot for those without a boat. 
+This is a very busy fishing spot for those without a boat.
 Please do not block the launch area.
 
 ## Attractions
@@ -40,11 +48,11 @@ Fernan is a lake I go to if the winds are up on CDA.
 
 From downtown CDA, drive east on Sherman Street (Main Street thru downtown), under the I-90 overpass east of Lake CDA Drive.
 On your right is the IPNF CDA River Ranger District, Fernan Ranger District office. Turn right (S) onto Theis Dr to the launch.
-​Parking is limited, so stay between the lines, do not park on the sides, grass, or neighborhood.
+Parking is limited, so stay between the lines, do not park on the sides, grass, or neighborhood.
 
 ## Cool things close by
 
-The NEW Fernan  Lake Natural Area, Lake CDA Drive to Higgins Point, the Fernan Saddle, Mineral Ridge, and the Wallace L. Forest Conservation Area.
+The NEW Fernan  Lake Natural Area, Lake CDA Drive to Higgins Point, the Fernan Saddle, Mineral Ridge, and the Wallace L. Forest Conservation Area.
 
 ## R & p
 

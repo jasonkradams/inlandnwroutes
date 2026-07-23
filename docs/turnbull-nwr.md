@@ -1,32 +1,46 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 - Easy
+
 - Day Hiking
+
 - Nature Walks
+
 - An Auto Tour
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, nature walks, and an auto tour
+
 - label: Distance
   icon: map-marker-distance
   value: varies depending n which trail you choose
+
 - label: Elevation
   icon: terrain
   value: 110 verts
+
 - label: Difficulty
   icon: speedometer
   value: Easy
+
 - label: Maps
   icon: map
   value: T.N.W.R. Brochure , Cheney topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 48°26’32" n 117°32’05" w
+
 - label: Managing Agency
   icon: domain
   value: u.s.f.&w service. 509.235.4723
+
 - label: Spokane County Sheriff
   icon: shield-account
   value: CALL 912 FIRST or 509.477.2240
@@ -47,7 +61,7 @@ The area was named after an early settler, Cyrus Turnbull in 1937.
 Over 200 kinds of birds call the T.N.W.R. Home or a place to stop during their migration.
 Many mammals also frequent the refuge.
 
-​The whole area is within the Glacier Lake Missoula Flood area that was last flooded about 12,000 years ago.
+The whole area is within the Glacier Lake Missoula Flood area that was last flooded about 12,000 years ago.
 
 ## Directions
 

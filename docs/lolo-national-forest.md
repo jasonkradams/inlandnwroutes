@@ -1,6 +1,6 @@
 # Lolo National Forest
 
-​Lolo National ForestLocated west of the continental divide, the Lolo National Forest is influenced by both continental and maritime climates, which provide for a wide range of environmental gradients producing a forest of high diversity.
+Lolo National ForestLocated west of the continental divide, the Lolo National Forest is influenced by both continental and maritime climates, which provide for a wide range of environmental gradients producing a forest of high diversity.
 The diverse ecosystems of the Lolo are home for 17 conifer and 5 hardwood tree species, more than 300 bird species, at least 20 fish species, more than 60 mammal species and an estimated 1,500 plant species, including 250 non-native plant species. Within the Lolo NF, are record-sized trees, the Montana Champion ponderosa pine located in the Fish Creek drainage and a national co-champion western larch near Seeley Lake.
 Elevation ranges from less than 2,400 ft. on the Clark Fork River below Thompson Falls to many peaks higher than 7,000 ft. and topping out at over 9,000 ft. at Lolo Peak near the town of Lolo and Ptarmigan Point near Seeley Lake. The highest point is Scapegoat Mountain within the Scapegoat Wilderness.
 Water is plentiful within the Lolo, producing more than 100 named lakes and nearly 1,000 named streams including five major rivers.
@@ -10,12 +10,13 @@ The Lolo offers some of the finest recreation opportunities in western Montana. 
 Located west of the continental divide, the Lolo National Forest is influenced by both continental and maritime climates, which provide for a wide range of environmental gradients producing a forest of high diversity.
 
 Recreation
-The Lolo offers some of the finest recreation opportunities in western Montana. [Click here](http://www.fs.fed.us/r1/lolo/recreation/)to access the forest's page with links to more information on fishing, hiking, hunting, biking, wildlife viewing and exploring.
+The Lolo offers some of the finest recreation opportunities in western Montana. [Click here](http://www.fs.fed.us/r1/lolo/recreation/)to access the forest's page with links to more information on fishing, hiking, hunting, biking, wildlife viewing and exploring.
 
-Copy and paste this url. It will bring you the Prehistory of the Lolo and Bitterroots National. Forest
+Copy and paste this url. It will bring you the Prehistory of the Lolo and Bitterroots National. Forest
 <https://nfsl.contentdm.oclc.org/digital/api/collection/p17053coll2/id/1207/download>
 
-​Bitterroot National ForestHalf of the Bitterroot National Forest in southwest Montana and Idaho is dedicated to the largest expanse of continuous wilderness in the lower 48 states -- the Selway Bitterroot, Frank Church River of No Return, and the Anaconda Pintler.
+Bitterroot National ForestHalf of the Bitterroot National Forest in southwest Montana and Idaho is dedicated to the largest expanse of continuous wilderness in the lower 48 states -- the Selway Bitterroot, Frank Church River of No Return, and the Anaconda Pintler.
+
 Much of the Bitterroot's beauty can be attributed to the heavily glaciated, rugged peaks of the Bitterroot Range. Drainages carved by glaciers form steep canyons that open into the valley floor. The abundance of natural resources offers a wide range of opportunities for recreation, grazing, wildlife, fisheries, timber, and minerals. Come enjoy the magnificent mountains, the serenity of wilderness, the miracle of spring flowers, majestic big game, and the sounds of birds here in our land of multiple uses.
 Get outdoors!
 Elevation ranges from 3,200 feet at the north end of the Bitterroot Valley to [Trapper Peak](http://www.idahosummits.com/trapper/trapper.htm) at 10,157 feet in the mountains on the south. In the Idaho portion of the Forest, elevations drop to about 2,600 feet along the [Selway River](http://www.nationalgeographic.com/selway/) and 2,200 feet on the[Salmon River.](http://www.nps.gov/rivers/wsr-salmon-main.html)

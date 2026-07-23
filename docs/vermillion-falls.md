@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Waterfalls
+
 stats:
+
 - label: Waterfall
   icon: waterfall
   value: ????
+
 - label: Drop
   icon: arrow-collapse-down
   value: ???
+
 - label: Waterfall Type
   icon: waterfall
   value: ???
+
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: ???
+
 - label: Maps
   icon: map
   value: ???
+
 - label: GPS
   icon: crosshairs-gps
   value: ??°??’??" n ???°??’??" w

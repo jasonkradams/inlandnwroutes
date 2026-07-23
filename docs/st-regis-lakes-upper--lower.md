@@ -1,37 +1,53 @@
 ---
 tags:
+
 - Lakes
+
 - Easy
+
 - Day Hiking
+
 - Backpacking
+
 - Fishing
+
 - Backcountry Skiing
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, fishing, Backcountry Skiing.
+
 - label: Distance
   icon: map-marker-distance
   value: 6 miles RT
+
 - label: Elevation Gain
   icon: elevation-rise
   value: gains 1090 verts. Minimal loss to Lower St. Regis Lake
+
 - label: Difficulty
   icon: speedometer
   value: easy
+
 - label: Maps
   icon: map
   value: I.P.N.F., LOLO N.F., Lookout Pass topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°42’65"n 115°75’10"w
+
 - label: CdA River Ranger District
   icon: pine-tree
   value: 208.752.1221
+
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
 notes:
+
 - Idaho panhandle national forest/alerts [https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)
 ---
 
@@ -40,7 +56,7 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​St.Regis Lakes are located in Montana SW of the Lookout Pass Ski Area. The trail starts at the old railroad's hairpin turn up the south side of the ski resort. If you don’t have a high clearance vehicle or 4 wheel drive, park near the south chairlift base. Walk the road west for about a mile to the official trailhead. Take Trail #267 south west up thru a canyon crossing the river three times before heading up to the lakes. At the second river crossing, the trail continues for a short distance, then bear right (west). At the trails third crossing of the river, the trail cuts up hill for about 400' to the lakes basin. The first lake you come to is actually the Upper St. Regis Lakes at 5990' while the second lake is the lower lake at 5559'. There are several campsite around the lake. Follow the trail thru the woods to the right (west), and you will find the lower lake. To the west is the very scenic ridge between St. Regis Lakes and U & L Stevens Lakes, and also is the Idaho Montana boarder and the State Line Ridge
+St.Regis Lakes are located in Montana SW of the Lookout Pass Ski Area. The trail starts at the old railroad's hairpin turn up the south side of the ski resort. If you don’t have a high clearance vehicle or 4 wheel drive, park near the south chairlift base. Walk the road west for about a mile to the official trailhead. Take Trail #267 south west up thru a canyon crossing the river three times before heading up to the lakes. At the second river crossing, the trail continues for a short distance, then bear right (west). At the trails third crossing of the river, the trail cuts up hill for about 400' to the lakes basin. The first lake you come to is actually the Upper St. Regis Lakes at 5990' while the second lake is the lower lake at 5559'. There are several campsite around the lake. Follow the trail thru the woods to the right (west), and you will find the lower lake. To the west is the very scenic ridge between St. Regis Lakes and U & L Stevens Lakes, and also is the Idaho Montana boarder and the State Line Ridge
 
 ## Option #1
 
@@ -68,7 +84,7 @@ Radio Brewing in Kellogg, Pizza Factory, 1313 Club, and Muchacho’s Tacos in Wa
 
 ## Photo gallery
 
-![Picture](assets/images/p299.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p299_orig.png" }
+![Picture](assets/images/p299.png)"
 
 ## The trail into st. regis lakes along the headwaters of the st. regis river
 
@@ -82,7 +98,7 @@ Radio Brewing in Kellogg, Pizza Factory, 1313 Club, and Muchacho’s Tacos in Wa
 
 ![Picture](assets/images/p302.png)
 
-## Chic scrambling up to the id. mt. state lines above st. regis lake ​image by tony kozlowski
+## Chic scrambling up to the id. mt. state lines above st. regis lake image by tony kozlowski
 
 ![Picture](assets/images/112026435p.jpg)
 
@@ -90,7 +106,7 @@ This is the state line ridge sw of st. regis lake On the opposite side of this r
 
 ![Picture](assets/images/p303.png)
 
-## The state line ridge from above st. regis lake. see below. ​
+## The state line ridge from above st. regis lake. see below.
 
 ![Picture](assets/images/p304.png)
 

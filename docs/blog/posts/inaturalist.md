@@ -1,13 +1,17 @@
 ---
 title: "Blog #24: INaturalist"
+
 date: 2023-07-30
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Flora & Wildlife
 ---
-
 
 iNaturalist
 
@@ -39,4 +43,4 @@ Log onto….[<https://www.inaturalist.org](https://www.inaturalist.org>/)
 
 InlandNWRoutes.com
 
-Chic Burge      David Crafton
+Chic Burge      David Crafton

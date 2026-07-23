@@ -5,8 +5,8 @@
 ---
 
 Uncle chuck’s world famous chocolate chip blondies
- (Kinda like Brownies, but blonde)
-​embellished recipe by chic
+ (Kinda like Brownies, but blonde)
+embellished recipe by chic
 
 Ingredients:
 3 Pillsbury yellow cake mixes
@@ -15,7 +15,7 @@ Semi sweet chocolate chips, large bag
 Water
 Prep
 In a large mixing bowl, add one cake mix at a time.
-Add just enough water to make a dry mixture. Or about an ounce. 
+Add just enough water to make a dry mixture. Or about an ounce.
 Just make sure, it is not wet like a cake mix usually is.
 Add 1/3 of vanilla, and stir until it’s mixed well.
 Then add a third of the bag of chocolate chips, and stir in.
@@ -27,8 +27,8 @@ When you take it out of the oven, it will not look done. TRUST ME, THEY ARE.
 Let cool for about 30 minutes before cutting into squares.
 Years ago, a friend was so excited, she grabbed a square and chomped down on it. She burned her lips.
 An option for this recipe, is to make cookies.
-Bake at 350° for 11 minutes. 
+Bake at 350° for 11 minutes.
 They won’t look done. But after cooling, they will set up.
 These desserts are a great potluck dish.
-​
+
 Enjoy

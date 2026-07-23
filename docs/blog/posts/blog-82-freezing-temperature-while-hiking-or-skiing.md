@@ -1,15 +1,20 @@
 ---
 title: "Blog #82: Freezing temperature while hiking or skiing"
+
 date: 2025-01-31
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 
-
 There’s nothing quit like the outdoors on a Winter day.
+
 Hiking
 The air is crisp and cold, and dangers are all around.
 Use extra caution when walking by utilizing traction devises on your boots.
@@ -63,6 +68,6 @@ But DO NOT get you information from social media sites.
 
 Thank You All for Using our Website
 
-Chic          David
+Chic          David
 
 InlandNWRoutes.com

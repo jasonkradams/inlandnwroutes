@@ -1,13 +1,17 @@
 ---
 title: "Blog #28: Human caused wildfires"
+
 date: 2023-08-15
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
-
 
 ## fire restrictions are in place
 
@@ -42,4 +46,4 @@ Please, put your fires "dead out."
 
 InlandNWRoutes.COM
 
-Chic Burge       David Crafton
+Chic Burge       David Crafton

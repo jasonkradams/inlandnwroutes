@@ -1,30 +1,42 @@
 ---
 tags:
+
 - Lakes
+
 - Easy, But Consult Hazards.
+
 - Flat Water Paddling
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Flat Water Paddling
+
 - label: Distance
   icon: map-marker-distance
   value: 5+ miles RT
+
 - label: Elevation
   icon: terrain
   value: 2,057’
+
 - label: Acres
   icon: vector-square
   value: 94,720
+
 - label: Difficulty
   icon: speedometer
   value: Easy, but consult HAZARDS.
+
 - label: Maps
   icon: map
   value: Farragut S. P., Idlewilde Bay, Bernard Peak topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°56’56" n 116°30’14" w
+
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300
@@ -37,7 +49,7 @@ stats:
 ## Paddling instructions
 
 The paddle to Echo Bay starts at Bayview public launch, or the Farragut S. P. Eagle Boat Launch. From either site, paddle due East across Idlewilde Bay to Bernard Point at about 2.5 to 1.3 miles, respectfully.
-​Paddle the shore line below Bernard Peak, under the massive near vertical wall. From Bernard Point to Echo Bay, keep an eye out for Mountain Goats high above.
+Paddle the shore line below Bernard Peak, under the massive near vertical wall. From Bernard Point to Echo Bay, keep an eye out for Mountain Goats high above.
 As you paddle NE along the shore line, a mile long Echo Bay has a beach worth visiting. Because of the lay of the land, it’s mostly shaded. But has several sunny areas to catch the rays.
 A major attraction to Echo Bay, is the massive amount of near perfect skipping rocks. But be careful, I’ve skipped so many, paddling back became an issue.
 
@@ -90,7 +102,7 @@ Just past steamboat rock are the cliffs above echo bay As soon as you get to ste
 
 *Picture (Image missing)*
 
-## Cliffs in the  lakeview area
+## Cliffs in the  lakeview area
 
 *Picture (Image missing)*
 

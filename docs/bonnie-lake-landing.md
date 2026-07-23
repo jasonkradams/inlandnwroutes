@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Lakes
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: 5.4 includes Rock Creek paddle
+
 - label: Elevation
   icon: terrain
   value: 1798’
+
 - label: Length and Acreage
   icon: vector-square
   value: 5.4 miles long. 327 acres
+
 - label: Maps
   icon: map
   value: Chapman Lake, Pine City, Rock Lake topos, Spokane & Whitman County Maps
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°14’22" n 117°35’45" w
+
 - label: Spokane County Sheriff
   icon: shield-account
   value: 911 or 509.477.2240
@@ -31,14 +39,14 @@ stats:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​Bonnie Lake is a long lake with an island about 2/3rds the paddle distance. This island has a camp ground and the only area that is public accessible, except a one square mile section surrounding the island. Please be aware, all other land around the lake is privately owned. Do not trespass.
+Bonnie Lake is a long lake with an island about 2/3rds the paddle distance. This island has a camp ground and the only area that is public accessible, except a one square mile section surrounding the island. Please be aware, all other land around the lake is privately owned. Do not trespass.
 
 ## Attractions
 
 As you paddle up Rock Creek from the put in at the bridge, look for a natural arch almost to the lake.
 You will notice some of Bonnie Lakes shore lines have 600 to 800 foot walls.
 As you paddle the lake, look for Turkey Vultures early in the morning sunning and warming themselves up on the rocks.
-When they start to fly, you will notice that Turkey Vultures are incredible flyers. Take a moment and observe these ugly but very graceful birds in flight.
+When they start to fly, you will notice that Turkey Vultures are incredible flyers. Take a moment and observe these ugly but very graceful birds in flight.
 
 ## Directions
 

@@ -1,15 +1,20 @@
 ---
 title: "Blog #68: The stories of east willow creek"
+
 date: 2024-07-31
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Winter Sports
 ---
 
-
 Hello Readers,
+
 In order to bring you the history of the areas we enjoy hiking in, I have spent the last 10 months, doing research on the pipe line at the Stevens Lakes area.
 While researching the pipe line article, I learned way more than I was expecting.
 Did you know there was actually two pipe lines along the East Willow Creek?
@@ -21,4 +26,4 @@ Thank You all for reading and using our website.
 
 <!-- more -->
 
-Chic        David
+Chic        David

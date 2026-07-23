@@ -1,40 +1,57 @@
 ---
 tags:
+
 - Lakes
+
 - Easy
+
 - Day Hiking
+
 - Backpacking
+
 - Scrambling
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, scrambling
+
 - label: Distance
   icon: map-marker-distance
   value: 4 miles RT
+
 - label: Elevation
   icon: terrain
   value: 500 verts
+
 - label: Acres
   icon: vector-square
   value: '20.2'
+
 - label: Difficulty
   icon: speedometer
   value: Easy
+
 - label: Maps
   icon: map
   value: IPNF, LOLO N.F., Burke, Thompson Pass topos
+
 - label: GPS
   icon: crosshairs-gps
   value: 47 °56’09’ n 115°75’10" w
+
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
+
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
 notes:
+
 - Idaho panhandle national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -45,7 +62,7 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​This short hike is great for families.
+This short hike is great for families.
 From the trailhead, hike a mellow trail SW to a where the trail crosses Cascade Creek. Look for a 12' waterfall early in the year, on your left (SW). The trail above does a single switchback before descending 30' to the lake. You can walk the shore line all the way around the lake for views. From the SE shore, there is a good view of Granite Peak 6814' to the west towering above the lake. There are a few campsites off to the NE shore.
 
 ## Option #1
@@ -53,7 +70,7 @@ From the trailhead, hike a mellow trail SW to a where the trail crosses Cascade 
 Granite Peak.
 Be aware, this is steep and exposed route, and should not be attempted by anyone how hasn't had proper training and experience.
 
-The route is a serious scramble up from the NW corner of the lake. The terrain looks like stepped rock shelves. Above the scramble, the terrain is grassy and not as steep. In about 200' you will access a ridge and turn left to the top. The summit is about 20' wide and 50' long. The first thing you see as you approach the top, are two very tall rock cairns. One is about 14' tall. To the SE of the larger cairn, there are slabs of rock made into lounge chairs. Have a seat and relax during lunch. Off the SE, in the distance, is the view of Lone Lake & Upper Sanctuary, and Stevens Peak  head on. To the north is the massive mountains of the Cabinet Mountain Wilderness. The easiest and safest descent is down the scree slope on the SW end of the lake. There is an 8 foot cliff band about 1/3 the way down to navigate.
+The route is a serious scramble up from the NW corner of the lake. The terrain looks like stepped rock shelves. Above the scramble, the terrain is grassy and not as steep. In about 200' you will access a ridge and turn left to the top. The summit is about 20' wide and 50' long. The first thing you see as you approach the top, are two very tall rock cairns. One is about 14' tall. To the SE of the larger cairn, there are slabs of rock made into lounge chairs. Have a seat and relax during lunch. Off the SE, in the distance, is the view of Lone Lake & Upper Sanctuary, and Stevens Peak  head on. To the north is the massive mountains of the Cabinet Mountain Wilderness. The easiest and safest descent is down the scree slope on the SW end of the lake. There is an 8 foot cliff band about 1/3 the way down to navigate.
 
 ## Option #2
 
@@ -66,7 +83,7 @@ Drive I-90 east to the Kingston exit # 43, and turn left (north) over the freewa
 ## Hazards
 
 None to the lake.
-​ be extra cautious on all routes to granite peak.
+ be extra cautious on all routes to granite peak.
 
 ## Cool things close by
 
@@ -134,7 +151,7 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 ![Picture](assets/images/p266.png)
 
-Revett lake from the ridge between revett & lower blossom lakes ​the steep slope top left of center is the route to granite peak
+Revett lake from the ridge between revett & lower blossom lakes the steep slope top left of center is the route to granite peak
 
 ---
 

@@ -1,7 +1,10 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: GPS
   icon: crosshairs-gps
   value: n??° ?’ ?.??" w???° ?’ ??.??"
@@ -41,7 +44,7 @@ Click for Current NOAA Weather Conditions
 
 ##
 
-![Picture](assets/images/img-1826-97.jpg){: data-src="assets/images/img-1826-97.jpg" }
+![Picture](assets/images/img-1826-97.jpg)"
 
 ---
 

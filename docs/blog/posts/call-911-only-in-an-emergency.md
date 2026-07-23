@@ -1,10 +1,15 @@
 ---
 title: "Blog #27: Call 911 Only in an Emergency"
+
 date: 2023-08-14
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Trail Safety & Gear
 ---
 
@@ -21,7 +26,9 @@ Make your victim comfortable, listen to every word they say, and do no harm!
 I carry a pad of paper and a pen in my 13 Essentials just for this reason and for recording vitals:
 
 * **Monitor Vitals:** Check heartbeat, breathing, temperature, and any visible injuries.
+
 * **Log Everything:** Write down the time checked along with the results.
+
 * **Control Bleeding:** If your victim is bleeding, do what it takes to stop the bleeding.
 
 !!! warning "Tourniquet Precautions"
@@ -39,18 +46,25 @@ It would be a very good idea to take a **CPR & FIRST AID CLASS**. This way, you 
 There is something I must spell out: **having blisters and other minor injuries does not constitute an emergency.**
 
 * Emergencies are life-threatening and require immediate attention.
+
 * If you call for help and it isn’t life-threatening, you may be charged for the rescue.
+
 * It is all of our responsibilities to have the items needed to treat minor injuries on our own.
 
 ## Essential Emergency Gear Checklist
 
 Items you need to have in your pack include the following (and there may be more):
 
-* **13 Essentials:** Restock as needed (see our drop-down menu).
+* **13 Essentials:** Restock as needed (see: [14 Essentials](../../14-essentials.md)).
+
 * **First Aid Kit:** Restock as needed.
+
 * **Gorilla Tape:** Wrap about 3 yards around each of your hiking poles for quick field repairs.
+
 * **Airway Mask:** Needed if mouth-to-mouth resuscitation during CPR or other circumstances is required, protecting both parties from potential contamination.
+
 * **Prescription Medications:** **Do not** give anyone your prescription painkillers.
+
 * **Knowledge:** This is the most important item you can take into the mountains. **DO NOT GO UNTIL YOU HAVE THE KNOWLEDGE.**
 
 ## Wilderness Training & Preparation

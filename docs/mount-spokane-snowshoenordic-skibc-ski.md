@@ -1,26 +1,38 @@
 ---
 tags:
+
 - Winter & Skiing
+
 - Moderat
+
 - Snowshoe
+
 - Ski
+
 - Mt Bike
+
 stats:
+
 - label: Event Type
   icon: ski
   value: Snowshoe, Ski, Mt Bike
+
 - label: Distance
   icon: map-marker-distance
   value: 10.5 Miles
+
 - label: Elevation
   icon: terrain
   value: 1,686 feet Ascent/Descent
+
 - label: Difficulty
   icon: speedometer
   value: Moderat
+
 - label: Maps
   icon: map
   value: '[Mount Spokane State Park Map](https://parks.state.wa.us/DocumentCenter/View/1912/Mount-Spokane-State-Park-PDF)'
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°54'17.0"n 117°06'07.6"w
@@ -42,7 +54,7 @@ There really is not a good way to get across the ski area to properly complete t
 
 ## Directions
 
-RED TAPE: Starting December first the park becomes a snow park. Prior to December first you need a Discover pass after the first you need a sno-park pass. You need one or the other depending on the time of year. You do not need both. If you plan to use the groomed Nordic trails you need a Groomed Trail pass too. You do not need either to go to the ski resort. You can buy both on line here for $40 dollars each: <https://epermits.parks.wa.gov/Store/SNO/SnoChoice.aspx>
+RED TAPE: Starting December first the park becomes a snow park. Prior to December first you need a Discover pass after the first you need a sno-park pass. You need one or the other depending on the time of year. You do not need both. If you plan to use the groomed Nordic trails you need a Groomed Trail pass too. You do not need either to go to the ski resort. You can buy both on line here for $40 dollars each: <https://epermits.parks.wa.gov/Store/SNO/SnoChoice.aspx>
 
 Take Highway 206 Mount Spokane Park Drive about 30 miles to the snowmobile parking lot. From there start hiking up trail 131 on up to 130 or take the Summit road up. It is a pretty straight forward hike around the backside of the mountain. Progress is measured by signs at each of the stream crossing simply labeling them by number descending down to Chair 4.
 
@@ -86,7 +98,7 @@ Foggy Bottom Lounge, Big Barn Brewery
 
 ---
 
-![Picture](assets/images/img-7044.jpg){: data-src="assets/images/img-7044.jpg" }
+![Picture](assets/images/img-7044.jpg)"
 
 ---
 

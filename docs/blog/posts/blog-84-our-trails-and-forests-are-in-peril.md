@@ -1,13 +1,17 @@
 ---
 title: "Blog # 84: Our trails and forests are in peril"
+
 date: 2025-03-02
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
-
 
 As you have heard, the current administration has slashed forest personnel and dollars spent on maintaining our forests and parks.
 
@@ -74,8 +78,8 @@ Friends of Mount Spokane
 The above is a partial list of organizations we have around Spokane.
 
 Instead of just using our trails, we at InlandNWRoutes.com
-[<https://www.inlandnwroutes.com,](https://www.inlandnwroutes.com>/) encourage all users to help us keep our trails open and healthy.
-While on your hikes, pick up trash, make sure campfires are dead out, kick twigs, branches rocks,  etc. off trails.
+[<https://www.inlandnwroutes.com,](https://www.inlandnwroutes.com>/) encourage all users to help us keep our trails open and healthy.
+While on your hikes, pick up trash, make sure campfires are dead out, kick twigs, branches rocks,  etc. off trails.
 
 PLEASE carry with you, about a dozen plastic grocery bags.
 They can be used as water buckets to put out smoldering campfires.
@@ -93,11 +97,11 @@ My past work on trails is too extensive to list all. But with the Spokane Mounta
 
 David and I would like to THANK YOU ALL, for reading and using our website.
 
-Please feel free to contact me at info@inlandnwroutes.com, concerning  anything on our website.
+Please feel free to contact me at info@inlandnwroutes.com, concerning  anything on our website.
 There is an envelope at the bottom of every page, that goes directly to me.
 
-Our trails, parks, rivers, air, lands,  forests, and fellow hikers, THANK YOU for volunteering.
+Our trails, parks, rivers, air, lands,  forests, and fellow hikers, THANK YOU for volunteering.
 
-Chic           David
+Chic           David
 
 InlandNWRoutes.com

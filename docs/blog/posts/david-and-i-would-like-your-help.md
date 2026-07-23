@@ -1,16 +1,20 @@
 ---
 title: "Blog #26: David and i would like your help"
+
 date: 2023-08-04
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - General News
 ---
 
-
 david and i would like your help
-​
+
 Since 2018, when David and I came up with the idea of building this website, we have worked diligently to add as much information as possible.
 But we are human, and have made mistakes along the way.
 We strive to….
@@ -36,10 +40,10 @@ This way, we can make sure the information you read, is as accurate as possible.
 
 Thank you all,
 
-Chic Burge.                         David Crafton
+Chic Burge.                         David Crafton
 info@inlandnwroutes.com
 208.659.8183
 Ps….while I’m working on our site daily, I have come across a new cable channel that is real exciting.
 Search EARTHXTV.
 This channel basically is about conservation, re-purposing, and ecological education.
-Check it out and let me know what you think.    c.
+Check it out and let me know what you think.    c.

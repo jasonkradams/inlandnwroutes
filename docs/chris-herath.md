@@ -7,7 +7,7 @@
 Chris is a semi retired architect who lives in otis orchard, with his wife shea and daughters tia and sarah.
 I first met chris in 1980 and have been skiing and hiking together ever since.
 Chris led our 2005 trip to patagonia. see...
-​<https://www.inlandnwroutes.com/patagonia.html>
+<https://www.inlandnwroutes.com/patagonia.html>
 
 ---
 
@@ -15,11 +15,11 @@ Chris led our 2005 trip to patagonia. see...
 
 ![Picture](assets/images/4202024436p.jpg)
 
-## This is a "broken spectre"  a shadow cast on an underlying cloud
+## This is a "broken spectre"  a shadow cast on an underlying cloud
 
 *Picture (Image missing)*
 
-## WESTERN TRILLIUM (Trillium ovatum)    AKA-WAKING ROBIN
+## WESTERN TRILLIUM (Trillium ovatum)    AKA-WAKING ROBIN
 
 *Picture (Image missing)*
 
@@ -27,7 +27,7 @@ Chris led our 2005 trip to patagonia. see...
 
 *Picture (Image missing)*
 
-## Horseshoe pond  popposed scotchman peaks wilderness, mt (pspw)
+## Horseshoe pond  popposed scotchman peaks wilderness, mt (pspw)
 
 *Picture (Image missing)*
 
@@ -35,7 +35,7 @@ Chris led our 2005 trip to patagonia. see...
 
 *Picture (Image missing)*
 
-## A view along the route to billiard table mountain  (pspw)
+## A view along the route to billiard table mountain  (pspw)
 
 ![Picture](assets/images/4292024427p.jpg)
 
@@ -43,7 +43,7 @@ Chris led our 2005 trip to patagonia. see...
 
 *Picture (Image missing)*
 
-## Rock lake and rock peak up near libby lakes  cmw
+## Rock lake and rock peak up near libby lakes  cmw
 
 *Picture (Image missing)*
 

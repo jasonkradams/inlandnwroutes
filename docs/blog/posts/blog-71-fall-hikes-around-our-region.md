@@ -1,21 +1,26 @@
 ---
 title: "Blog #71: Fall hikes around our region"
+
 date: 2024-09-03
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Winter Sports
 ---
 
+The Inland Pacific Northwest has many great fall hikes and fall colors.
 
-​The Inland Pacific Northwest has many great fall hikes and fall colors.
 Below I will suggest some of the best fall color hikes with additional insights.
 
 <!-- more -->
 
 (a note….
-All of my trail distances and elevation gains, are strictly from the U.S.F.S. websites on that particular hike, unless I prefix the number with "about".  C.),
+All of my trail distances and elevation gains, are strictly from the U.S.F.S. websites on that particular hike, unless I prefix the number with "about".  C.),
 
 Cabinet mountain wilderness
 Lower & Upper Geiger Lakes & Lost Buck Pass
@@ -84,11 +89,11 @@ Check out our RESOURCES section, for all you need to know, before you go.
 
 Enjoy,
 
-Chic            David
+Chic            David
 
 InlandNWRoutes.com
 
-blog #70   planning your trip
+blog #70   planning your trip
 
 I’m sure at one time or another, we have all been foiled by bad weather.
 Below are some ways to predict if your outing will be successful.
@@ -143,6 +148,6 @@ Our goal is to bring you, our readers, the most up to date information and knowl
 
 Thank You for reading and using our local website.
 
-Chic          David
+Chic          David
 
 InlandNWRoutes.com

@@ -1,42 +1,61 @@
 ---
 tags:
+
 - Lakes
+
 - Moderately Easy
+
 - Dayhiking
+
 - Backpacking
+
 - Fishing
+
 - Floating
+
 - Orving
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Dayhiking, backpacking, fishing, floating, ORVing
+
 - label: Distance
   icon: map-marker-distance
   value: From Elsie Lake to Striped Peak is about 6 miles RT
+
 - label: Elevation
   icon: terrain
   value: 1289 verts
+
 - label: Acres
   icon: vector-square
   value: '16.2'
+
 - label: Difficulty
   icon: speedometer
   value: Moderately easy
+
 - label: Maps
   icon: map
   value: IPNF, Wallace topo
+
 - label: GPS
   icon: crosshairs-gps
   value: Elsie Lake 47°25’42"N 116°01’24"W Striped Peak. 47°26’23"N 115°59’45"W
+
 - label: Ranger District
   icon: pine-tree
   value: cda river r.d. 208.769.3000
+
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
 notes:
+
 - Idaho panhandle national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -47,13 +66,13 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​The most unfortunate thing about this old trail, National Recreation Trail #16, is, it is now an ORV trail.
+The most unfortunate thing about this old trail, National Recreation Trail #16, is, it is now an ORV trail.
 
 The trailhead is on the east side of Elsie Lake, and basically heads SE for about two miles to N.R.T #16.
 
  ***At this trail junction, be sure to look back, or take a picture, at the junction so on your return hike, you know where to turn down to Elsie Lake.***Once on N.R.Trail #16, head NE for about .3 of a mile and bear left up towards Striped Peak for a little less then a mile to its long summit. Walk north on the summit and see a rock/wind shelter someone built with great skill. Retrace your steps back to the lake.
 
-​warning
+warning
 The first right walking back to Elsie Lake off of N.R.Trail #16 is not the road back to Elsie Lake. Walk about .4 miles to the next right turn and head down to Elsie Lake.
 
 ## Option #1
@@ -78,7 +97,7 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 ## Photo gallery
 
-![Picture](assets/images/p61.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p61_orig.png" }
+![Picture](assets/images/p61.png)"
 
 ## Big creek campsites
 

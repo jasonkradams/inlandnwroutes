@@ -1,35 +1,49 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 - Day Hiking
+
 - Backpacking
+
 - Equestrian
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, and equestrian
+
 - label: Distance
   icon: map-marker-distance
   value: up to 7 miles RT, 14 mile loop
+
 - label: Elevation
   icon: terrain
   value: About 300 verts verts, about 700 verts to do the loop.
+
 - label: Difficulty
   icon: speedometer
   value: along the creek it’s easy. Beyond the creek it’s moderate
+
 - label: Maps
   icon: map
   value: ipnf,
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°40’37" n 116°35’08" w
+
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
+
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 911 or 208.446.1300
 notes:
+
 - Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -40,7 +54,7 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​The Marie Creek trailhead starts in a large clearing that is shared with the equestrian folks. At the far NE end of the parking lot, the trail immediately crosses Marie Creek. It continues thru the woods, not gaining much elevation until about 1.5 miles in. It then climbs up over and into a few side creek drainages, then drops down along a Marie Creek. After a short time, the trail breaks out in a long clearing. Off to your left is some stone work made into fire pits with seating. Once back on the trail, the forest isn’t so dense, and nears Marie Creek which you may have to cross a few times, until it comes to a wide washed out area. This is where you turn around for a short hike. If you continue over the wash out, it eventually comes to Skitwish Creek, where you turn up hill along Skitwish Creek.. You will come to an old logging road that you follow back towards the trailhead. The road will drop down to the trailhead eventually.
+The Marie Creek trailhead starts in a large clearing that is shared with the equestrian folks. At the far NE end of the parking lot, the trail immediately crosses Marie Creek. It continues thru the woods, not gaining much elevation until about 1.5 miles in. It then climbs up over and into a few side creek drainages, then drops down along a Marie Creek. After a short time, the trail breaks out in a long clearing. Off to your left is some stone work made into fire pits with seating. Once back on the trail, the forest isn’t so dense, and nears Marie Creek which you may have to cross a few times, until it comes to a wide washed out area. This is where you turn around for a short hike. If you continue over the wash out, it eventually comes to Skitwish Creek, where you turn up hill along Skitwish Creek.. You will come to an old logging road that you follow back towards the trailhead. The road will drop down to the trailhead eventually.
 
 ## Option #1
 
@@ -88,7 +102,7 @@ Moon Time, Franklins Hoagies, the Mexican Food Factory, and the Trails End Brewe
 
 *Picture (Image missing)*
 
-## A section of the trail we worked on a years ago ​this section is just before the meadows
+## A section of the trail we worked on a years ago this section is just before the meadows
 
 ![Picture](assets/images/11072021443p.jpg)
 
@@ -108,4 +122,4 @@ The meadows. A ways further in, the creek washed out badly, and is hard to cross
 
 ## High winds above marie creek
 
-I walked thou an ancient Ponderosa forest today. Some of these huge trees stretched to the sky. They stand so proud and beautiful. The Marie Creek trail passes by several such beauties.                The peace and tranquility amongst such giants  soothes the soul.                                                                                   chic.   9.19.11
+I walked thou an ancient Ponderosa forest today. Some of these huge trees stretched to the sky. They stand so proud and beautiful. The Marie Creek trail passes by several such beauties.                The peace and tranquility amongst such giants  soothes the soul.                                                                                   chic.   9.19.11

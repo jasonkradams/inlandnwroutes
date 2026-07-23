@@ -5,6 +5,7 @@
 ---
 
 Ingredients:
+
 Extra Virgin Olive oil
 2/3 of a hard of cabbage, sliced
 1/2 C chopped onion
@@ -20,9 +21,8 @@ Prep
 Prepare noddles of your choice.
 
 Cook the cabbage, celery, onion, and garlic in olive oil til near done.
-Add tomato sauce, sun dried tomatoes clams and  juiced, chicken base to pan, and cook for 1 minute.
+Add tomato sauce, sun dried tomatoes clams and  juiced, chicken base to pan, and cook for 1 minute.
 
 In bowls, pour sauce over the noodles.
 
-​
 Enjoy

@@ -4,12 +4,13 @@
 
 ### As we wander in the mountains, the end of the day, may require food and drink
 
-Below are restaurants and pubs to consider.
+Below are restaurants and pubs to consider.
 If you come upon a great restaurant, please use the envelope at the bottom of each page to contact me, directly.
-​
+
 *Washington*
 
 Harvest Restaurant & Lounge
+
 401 W 1st
 Spangle, Wa509.245.3552
 
@@ -23,14 +24,13 @@ Pete"s pizza
 Spokane
 509.326.1900
 
-​821 E Sharp Spokane
+821 E Sharp Spokane
 509.487.9795
 
-​
-
-​***Idaho***
+***Idaho***
 
 Muchachos Tacos
+
 517 Banks Street,
 Wallace, Idaho.
 208.661.2062.
@@ -41,13 +41,13 @@ Clark Fork Pantryy
 208.266.1300
 Incredible sandwiches and don't leave without several peanut butter cookies Its also a cool bulk food store.
 
-​Squeeze Inn 
-202 W. 4th 
-Clark Fork 
+Squeeze Inn
+202 W. 4th
+Clark Fork
 208.266.0234
 
-​​burger express
-​Great burgers made with quality ingredients
+burger express
+Great burgers made with quality ingredients
 
 Priest River
 5597 Hwy 2
@@ -69,7 +69,6 @@ Spokane Valley
 6505 E. Sprague
 509.954.2696
 
-​
 Mexican Food Factory
 1032 N. 4th
 CDA
@@ -183,20 +182,19 @@ Rathdrum
 
 The Kingston Hilltop Bar & Grill
 41845 Silver Valley Road
-​Kingston, Idaho 83839
+Kingston, Idaho 83839
 208.682.3390
 
-TFP's 
+TFP's
 55 Milwaukee Road
 Avery, Idaho
 208.568.2181
-Wood Fired Pizza, Broasted Chicken & JoJos, Beer & Wine 
-
-​
+Wood Fired Pizza, Broasted Chicken & JoJos, Beer & Wine
 
 ***Montana***
 
 Kaiju Bar & Grill
+
 419 W 9th
 Libby, Montana
 406.293.3999
@@ -205,7 +203,7 @@ This restaurant is owned by Frank Ciccone, and is related to CDA's Cricket Bar &
 
 The Shed
 36476 Hwy 2
-Libby, Mt.  59923
+Libby, Mt.  59923
 406.293.3264
 eatattheshed.gmail.com
 Great eclectic menu. Don't miss The Shed when you are near Libby.
@@ -221,7 +219,7 @@ Big Sky Pantry
 1018 Hwy 200 Near Hwy 200 & Hwy 56
 406.847.2662
 
-​Pizza Hut
+Pizza Hut
 903 California Ave.
 406.293.7744
 
@@ -229,4 +227,3 @@ Rosauers
 703 9th Libby.
 406.293.2743
 
-​

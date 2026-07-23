@@ -1,13 +1,17 @@
 ---
 title: "Blog #70: Weather planning for your outing"
+
 date: 2024-08-09
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Winter Sports
 ---
-
 
 Hourly weather forecast
 
@@ -44,7 +48,7 @@ The next info is the Precipitation Potential (%).
 
 The next is the percentage of Sky Cover (%).
 
-The fourth is the Rain potential. The green bars are a visual details.
+The fourth is the Rain potential. The green bars are a visual details.
 
 But notice the very left column.
 They are from bottom to top….SChc…meaning slight chance
@@ -68,6 +72,6 @@ For further information on all things weather, check out our RESOURCE section…
 Our goal is to bring you, our readers, the most up to date information and knowledge available.
 Thank You for reading and using our local website.
 
-Chic          David
-​
+Chic          David
+
 InlandNWRoutes.com

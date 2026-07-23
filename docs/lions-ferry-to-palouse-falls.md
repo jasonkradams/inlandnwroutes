@@ -1,31 +1,44 @@
 ---
 tags:
+
 - Waterfalls
+
 - Moderate
+
 - Day Hiking
+
 - Equestrian
+
 stats:
+
 - label: Event Type
   icon: waterfall
   value: Day hiking, equestrian
+
 - label: Distance
   icon: map-marker-distance
   value: 6-8 miles one way
+
 - label: Elevation
   icon: terrain
   value: 354 verts
+
 - label: Difficulty
   icon: speedometer
   value: Moderate
+
 - label: Maps
   icon: map
   value: Starbuck West
+
 - label: GPS
   icon: crosshairs-gps
   value: 46°35’49" n 118°13’10" w
+
 - label: Managing Agency
   icon: domain
   value: w.s.p. & r 509.646.3229
+
 - label: Franklin County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 509.536.1200
@@ -38,7 +51,7 @@ stats:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​On your way past Palouse Falls, drop off a car or two, because this is a one way hike.
+On your way past Palouse Falls, drop off a car or two, because this is a one way hike.
 Continue south on Hwy 261 past Palouse Falls to Lyons Ferry S.P., and look for the parking area on the left.
 From the parking area, hike NE along the high bluffs overlooking the Palouse River.
 You must pay attention to the faint trail that follows the Palouse River all the way to Palouse Falls.

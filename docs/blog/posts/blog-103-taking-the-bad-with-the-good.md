@@ -1,15 +1,20 @@
 ---
 title: "Blog # 103: Taking the bad with the good"
+
 date: 2026-01-22
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 
-
 I realize many of you are distraught about no snow in our mountains.
+
 And so am I. I haven’t skied a single day this year, yet.
 A seasoned skier or outdoors person must realize, we are at the mercy of Mother Nature, when we venture out.
 We must take the bad with the good!
@@ -29,7 +34,7 @@ This hike can be extended by following old trails and current roads to make the 
 
 Wallace L Forest Conservation Area
 <https://www.blm.gov/visit/blue-creek-bay-recreation-site-and-trail>
-This BLM area is on the north side of Wolf Lodge Bay, with its trailhead on the east shore of  Blue Creek Bay.
+This BLM area is on the north side of Wolf Lodge Bay, with its trailhead on the east shore of  Blue Creek Bay.
 The trail wonders around a 700+ acre forest with several trail options. Way back on the NE corner is a section of the Mullan Trail.
 
 Elk Creek Falls National Recreation Area
@@ -117,4 +122,4 @@ If your inquiry is upcoming, please email me at least three days before you hike
 David and I would like to Thank all of you who used our website.
 In 2025, we had 57,000 hits.
 Thank You,
-Chic         David
+Chic         David

@@ -1,39 +1,56 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Moderate
+
 - Day Hiking
+
 - Backpacking
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking & backpacking
+
 - label: Distance
   icon: map-marker-distance
   value: 9 mile loop
+
 - label: Elevation Gain
   icon: elevation-rise
   value: 1635’
+
 - label: Acres
   icon: vector-square
   value: '16.5'
+
 - label: Difficulty
   icon: speedometer
   value: moderate
+
 - label: Maps
   icon: map
   value: I.P.N.F., Kaniksu National Forest, Mount Pend Orielle, Smith Mountain, Benning
     Mountain, and Trestle Peak topos
+
 - label: GPS
   icon: crosshairs-gps
   value: Moose Lake 48°21’16" N 116°06’33" W
+
 - label: Bonner County Sheriff
   icon: shield-account
   value: 911 or 208.263.8417
 notes:
+
 - Moose Mountain. 48°20’46" N 116°07’22" W
+
 - RANGER DISTRICT. Sandpoint R.D. 208.263.5111
+
 - Idaho panhandle national forest/alerts
+
 - '[https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)'
 ---
 
@@ -55,6 +72,7 @@ As you continue along the west side of the lake, the trail climbs at a steady an
 Turn right (west) up the ridge for less then .6 miles to the summit.
 Once on the summit, drop your pack and grab your camera.
 From Moose Mountains 6543’ summit, the views east of the Proposed Scotchman Peak Wilderness, and the Cabinet Mountain Wilderness are stretched out for 30+ miles in front of you. The west face of these peaks are very rugged and drop off precipitously.
+
 Then the fun starts. Start up north and identify the peaks of both areas all the way to Hwy 200 to the south. Take along a P.S.P.W. Map and a C.M.W. map to aid your identification. Or download the free app...PEAK FINDER.
 The view of the peaks to the east from Moose Mountain blew me away.
 Then to make it even more spectacular, when we summited the next peak (very close), you can see most all the American Selkirks to the west. Chimney Rock sticks up like a....pinnacle.
@@ -96,13 +114,13 @@ Lake Estelle, Gem Lake, Pend Orielle Lake, Lunch Peak Fire Lookout & Mount Pend 
 ## Hazards
 
 The trail to Moose Lake is easy, but refer to your trail map picture of the route if needed.
-The walk up to Moose Mountain isn moderate on a nice trail. 
+The walk up to Moose Mountain isn moderate on a nice trail.
 After spending some time on top looking at the the magnificent west faces of then Proposed Scotchman Peaks Wilderness and the Cabinet Mountain Wilderness, continue NW on Trail #213 and turn right (NNW) on Trail #24, to the main junction and left tom the trailhead.
 
 ## R & p
 
 Squeeze Inn and the Clark Fork Pantry on Clark Fork. Jalapeños, Mr. Sub, Burger
-Express, and Eichardt’s in Sandpoint.
+Express, and Eichardt’s in Sandpoint.
 
 *Picture (Image missing)*
 
@@ -110,7 +128,7 @@ Express, and Eichardt’s in Sandpoint.
 
 ---
 
-![Picture](assets/images/2021115312-jpeg-1.jpg){: data-src="assets/images/2021115312-jpeg-1.jpg" }
+![Picture](assets/images/2021115312-jpeg-1.jpg)"
 
 At the parking area is this sign showing the many options. be sure to snap an image of this sign for reference further along the trails
 
@@ -148,14 +166,14 @@ As you reach the summit of moose mountain, you get the first glimpse of the prop
 
 *Picture (Image missing)*
 
-Way off to the west is the american selkirks. can you spot chimney rock? ​this ridge line is your descent route from moose mountain
+Way off to the west is the american selkirks. can you spot chimney rock? this ridge line is your descent route from moose mountain
 
 ---
 
 ![Picture](assets/images/10112024715p.jpg)
 
-## A shingled hedgehog along the trail to moose mountain ​aka hawks wing mushroom
+## A shingled hedgehog along the trail to moose mountain aka hawks wing mushroom
 
 ##
 
-Nature is my life. Every time I go out, I know what to expect, but am amazed at what I experience. Nature brings me purpose.  chic  12.27.2024
+Nature is my life. Every time I go out, I know what to expect, but am amazed at what I experience. Nature brings me purpose.  chic  12.27.2024

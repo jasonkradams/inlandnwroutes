@@ -1,10 +1,14 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Genesis Name
   icon: book-open-variant
   value: Lathyrus latifolius
+
 - label: Distribution
   icon: earth
   value: 'The Lathyrus genus contains 160 species **from the north temperate zone,
@@ -14,25 +18,30 @@ stats:
     vine produces flowers in abundance **throughout the summer and into the fall**.
     To encourage more blooms, be sure to deadhead spent flowers. If you don''t deadhead,
     the plant will produce seedpods which resemble those of an edible pea plant.'
+
 - label: Poisonous
   icon: skull-crossbones
   value: The seeds of sweet peas are **mildly poisonous**, containing lathyrogens
     that, if ingested, in large quantities can cause a condition called Lathyrus.
     This is generally seen to occur after famines where the seed is often the only
     source of nutrition for extended periods of time.
+
 - label: Edibility
   icon: food-apple
   value: Although word has apparently gotten around that the peas within the seed
     pods are not only edible but also tasty, eating large quantities can trigger a
     disease fittingly called lathyrism.
+
 - label: Features
   icon: information-outline
   value: Broad-leaf Sweet Peas range from white to pink too purple. the pedals are
     very showy, and often have different shares of purple on a single flower
+
 - label: Leaves
   icon: leaf
   value: The leaves are pointed oblong green leaves that are placed on alternative
     sides of the stem.
+
 - label: Fruits
   icon: fruit-cherries
   value: Sweet peas will **keep flowering** if you pick the flowers regularly - a

@@ -1,16 +1,20 @@
 ---
 title: "Blog #31: The best fall colors hikes in our region"
+
 date: 2023-09-03
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Trail Safety & Gear
 ---
 
-
 fall colors hikes
-​
+
 As summer is coming to an end, spring is turning the mountains into a beautiful color wheel.
 During the last two weeks of September, and the first two weeks of Roctober, we can enjoy incredible fall colors all around our region.
 Below are a few of the best.
@@ -76,4 +80,4 @@ But do not miss the Gardner Cave. It is only open 5.15 to 9.15
 
 InlandNWRoutes.com
 
-Chic Burge        David Crawford
+Chic Burge        David Crawford

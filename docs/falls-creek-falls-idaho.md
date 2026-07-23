@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Waterfalls
+
 stats:
+
 - label: Waterfall
   icon: waterfall
   value: falls creek falls, st. joe river road, idaho
+
 - label: Drop
   icon: arrow-collapse-down
   value: 25'
+
 - label: Waterfall Type
   icon: waterfall
   value: Tiered horsetail
+
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: 40'
+
 - label: Maps
   icon: map
   value: I.P.N.F., ST JOE N.F., St. Joe topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°19’15" n 116°12’51" w
@@ -49,11 +57,11 @@ All waterfalls are a hazard, due to their slippery nature. always be extra caref
 
 ## R & p
 
-TFP's 
+TFP's
 55 Milwaukee Road
 Avery, Idaho
 [208.568.2181](tel:208.568.2181)
-Wood Fired Pizza, Broasted Chicken & JoJos, Beer & Wine ​
+Wood Fired Pizza, Broasted Chicken & JoJos, Beer & Wine
 
 ---
 

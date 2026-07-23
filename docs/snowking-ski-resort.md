@@ -1,38 +1,47 @@
 ---
 tags:
+
 - Winter & Skiing
+
 stats:
+
 - label: Phone
   icon: phone
   value: 307.201.5464
+
 - label: Acres
   icon: vector-square
   value: '450'
+
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 167"
+
 - label: Summit Elevation
   icon: terrain
   value: 7808'
+
 - label: Base Elevation
   icon: terrain
   value: 6237'
+
 - label: Verts
   icon: arrow-expand-vertical
   value: 1571'
 notes:
+
 - Snowkingmountain.com
 ---
 
 # Snowking Ski Resort
 
-*Snowking ski resort      jackson hole, wy*
+*Snowking ski resort      jackson hole, wy*
 
 ## of named runs: 35
 
 ## of lifts: 3
 
-Miles from spokane: 565 miles 
+Miles from spokane: 565 miles
 Other amenities: ???
 
 ---
@@ -141,5 +150,5 @@ A new Magic Carpet surface lift and additional lighting are added to enhance the
 2018
 Tarzan Swing added to the Treetop Adventure Course.
 
-​Winter 2018/2019
+Winter 2018/2019
 Snow King celebrates its 80th anniversary with one of the best snow years in a decade

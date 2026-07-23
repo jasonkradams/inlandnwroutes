@@ -1,32 +1,41 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Phone
   icon: phone
   value: 800.852.3816
+
 - label: Acres
   icon: vector-square
   value: '1720'
+
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 160"
+
 - label: Summit Elevation
   icon: terrain
   value: 8570'
+
 - label: Base Elevation
   icon: terrain
   value: 5770'
+
 - label: Verts
   icon: arrow-expand-vertical
   value: 3000'
 notes:
+
 - Skimarmot.com
 ---
 
 # Marmot Basin
 
-*Marmot basin    jasper, alberta, canada*
+*Marmot basin    jasper, alberta, canada*
 
 ## of named runs: 91
 
@@ -49,7 +58,8 @@ The first trail was blazed from the Athabasca Valley in the 1930's. 1942 saw the
 Bill Ruddy and Tom McCready lobbied for a road to be built from the highway to Marmot Basin. Bill then ran a bombardier snow cat, transporting 15 passengers at a time to Marmot Basin.
 1960's
 In 1961 Toby Rayner took over the snow car concession and installed a 700m/2296ft long rope tow on Paradise, constructed from parts of an old British Army Truck. In 1964
-Marmot Basin Ski-Lifts Ltd. was issued a *License of Operation* by Parks Canada. In 1964/65 The Upper Chalet was built, and the Yellow T-Bar was installed. The Red T-Bar was installed in 1965/66.
+Marmot Basin Ski-Lifts Ltd. was issued a *License of Operation* by Parks Canada. In 1964/65 The Upper Chalet was built, and the Yellow T-Bar was installed. The Red T-Bar was installed in 1965/66.
+
 In 1968/69 10 sheltered runs were developed, the Lower Chalet was built, and the Yellow Chair was installed.
 1970's
 In 1970 a modern access highway to Marmot Basin was completed. The Caribou Chair was installed from the 4th parking lot. The Knob Chair was installed in the Upper Basin – the serviced vertical rise became 701m/2300ft in 1976.
@@ -59,6 +69,7 @@ Runs were extended and developed in 1984. 1986 saw the Spillway T-Bar installed.
 The Eagle Express Quad Detachable Chair was installed in 1990. In 1991 the Paradise chalet was introduced at mid-mountain, adding 10,000 square feet of indoor space.
 In 1993, Marmot Basin's first Terrain Park was introduced.
 1997 saw a 17,500 square foot new addition to the Lower Chalet area - the Caribou Chalet.
+
 2000's
 In 2001 the Eagle Ridge Quad Chair was installed, opening up a large area of terrain including expert areas.
 The Magic Carpet ski lift was installed in the learning area in 2003. Two new high alpine bowls opened on Eagle East completing the 3 year Eagle Ridge Project.

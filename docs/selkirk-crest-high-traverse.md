@@ -1,51 +1,66 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Moderate to Strenuous
+
 - Hiking
+
 - Backpacking
+
 - Scrambling
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Hiking, backpacking and scrambling
+
 - label: Distance
   icon: map-marker-distance
   value: About 10 miles
+
 - label: Elevation
   icon: terrain
   value: 3500 to 4000'
+
 - label: Difficulty
   icon: speedometer
   value: Moderate to strenuous
+
 - label: Maps
   icon: map
   value: IPNF - Kaniksu N.F., USGS - The Wigwams, Roman Nose, ID
+
 - label: GPS
   icon: crosshairs-gps
   value: Harrison Lake 48° 42’ 12.5"N 116° 37’ 23.4"W, Beehive Lake 48° 38’ 59.3"n
     116° 37’ 25.0"w
+
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 911 or 208.267.5561
 notes:
+
 - Idaho panhandle national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
 # Selkirk Crest High Traverse
 
-*Selkirk crest high traverse.  trails # 217 & 279*
+*Selkirk crest high traverse.  trails # 217 & 279*
 
 ## Description
 
-Because of the length of the drive, I would suggest staying at or near the trailhead. Leave a car at the Beehive Trailhead so you don't have to walk the 1.2 miles up to the cars. Hike to the 2.3 miles to Harrison Lake on trail # 217. While enjoying the lake and your snack, notice the back wall above the lake. Your goal is to scramble to the SECOND LOWEST NOTCH on that wall, or the left notch. After a snack, walk around the left (south) side of the lake and look for a small stand of Sub-Alpine Fir on your left about 75 verts above the back of the lake. Skirt the right (west) side of the trees, and start your scramble to the notch. Yes it’s steep, but very doable. Stop as much as you need to rest. Once you are on top, you are on the American Selkirk's Crest. Turn left (south) and make your way to Peak 7171'. Peak 7171' is the second high peak on the Crest above the lake. This is a good place to have your first lunch. From here you can hike the Crest south for up to 3 summits. You can't get down the 4th peak. All along the ridge there are ways to get down to the high meadows below. Once in the meadows, walk the 1.4 miles south towards the long ridge ABOVE Little Harrison Lake.
+Because of the length of the drive, I would suggest staying at or near the trailhead. Leave a car at the Beehive Trailhead so you don't have to walk the 1.2 miles up to the cars. Hike to the 2.3 miles to Harrison Lake on trail # 217. While enjoying the lake and your snack, notice the back wall above the lake. Your goal is to scramble to the SECOND LOWEST NOTCH on that wall, or the left notch. After a snack, walk around the left (south) side of the lake and look for a small stand of Sub-Alpine Fir on your left about 75 verts above the back of the lake. Skirt the right (west) side of the trees, and start your scramble to the notch. Yes it’s steep, but very doable. Stop as much as you need to rest. Once you are on top, you are on the American Selkirk's Crest. Turn left (south) and make your way to Peak 7171'. Peak 7171' is the second high peak on the Crest above the lake. This is a good place to have your first lunch. From here you can hike the Crest south for up to 3 summits. You can't get down the 4th peak. All along the ridge there are ways to get down to the high meadows below. Once in the meadows, walk the 1.4 miles south towards the long ridge ABOVE Little Harrison Lake.
 
 However, make absolutely sure you stay up high on your right in the meadow. Going low, puts you in a few difficult creek gully.
 Little Harrison Lake is a good place for your second lunch and a quick nap. After you have enjoyed Little Harrison Lake, walk around the left (east) side of the lake, and scramble to the top of the ridge. On the ridge look for a notch and a faint trail down to Beehive Lake.
 The steep gully that the user caused braided trail is difficult and unsafe. Look for a route to the left or slightly down hill from the steep gully.
- Enjoy Beehive because the hike to the trailhead is nearly 3.8 miles below the lake. Be aware, the trail has diminished in quality ver the last few years.
-​be extra careful n the beehive trail.
+ Enjoy Beehive because the hike to the trailhead is nearly 3.8 miles below the lake. Be aware, the trail has diminished in quality ver the last few years.
+be extra careful n the beehive trail.
 
 ## Directions
 
@@ -178,7 +193,7 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 *Picture (Image missing)*
 
-## Little harrison lake ​photo by jennifer stone
+## Little harrison lake photo by jennifer stone
 
 ---
 
@@ -210,4 +225,4 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 ## Little harrison lake from ridge between beehive and l.h.l
 
-## Wisdom is the knowledge we gain, usually too late.  chic     2013
+## Wisdom is the knowledge we gain, usually too late.  chic     2013

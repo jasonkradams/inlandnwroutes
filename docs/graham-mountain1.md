@@ -1,32 +1,46 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Moderate
+
 - Day Hiking
+
 - Backpacking
+
 - Equestrian
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, equestrian
+
 - label: Distance
   icon: map-marker-distance
   value: 11 miles RT
+
 - label: Elevation Gain
   icon: elevation-rise
   value: 3429 verts
+
 - label: Difficulty
   icon: speedometer
   value: moderate
+
 - label: Maps
   icon: map
   value: IPNF, CDA River Ranger District.
+
 - label: GPS
   icon: crosshairs-gps
   value: trailhead 47°38’54" N 116°07’13" W.
+
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
+
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
@@ -39,9 +53,9 @@ stats:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​Trail #41 skirts Coal Creek, crossing it only once. Once on the trail, you are in the thick of the forest all the way to the summit ridge.
+Trail #41 skirts Coal Creek, crossing it only once. Once on the trail, you are in the thick of the forest all the way to the summit ridge.
 
-​The views are great looking in all directions. Silver Mountain is due south, with the upper CDA River to the north.
+The views are great looking in all directions. Silver Mountain is due south, with the upper CDA River to the north.
 
 ---
 

@@ -1,13 +1,17 @@
 ---
 title: "Blog #75: Technical clothing & waterproofing"
+
 date: 2024-10-16
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Trail Safety & Gear
 ---
-
 
 ##
 
@@ -15,7 +19,7 @@ categories:
 
 Technical clothing and water proofing
 
-​At one time or another, we all get wet in the mountains.
+At one time or another, we all get wet in the mountains.
 Whether you are hiking, climbing, paddling, or enjoying winter sports, we all need to waterproof our outer layers.
 
 But there are hazards to using some products.
@@ -30,7 +34,7 @@ What ever works for you is okay, as long as you know some important facts.
 
 First I wash my gear one by one.
 I use powdered Arm & Hammer laundry soap.
-Detergents that are not powdered, may contain additives that may affect your garments water proofing  abilities.
+Detergents that are not powdered, may contain additives that may affect your garments water proofing  abilities.
 
 I wash my garment, then rewash the garment WITHOUT any laundry soap.
 
@@ -59,7 +63,7 @@ They are difficult to spray on evenly.
 What I do, is spray my garments lightly twice.
 Then while wearing a plastic glove, I rub the DWR into the cloth, before drying them. That way, I know it’s spread evenly.
 
-If you buy all the Arm & Hammer and the DWR sprays  above now, you can get a jump on late Fall early Winter physical training, and ski season.
+If you buy all the Arm & Hammer and the DWR sprays  above now, you can get a jump on late Fall early Winter physical training, and ski season.
 
 Years ago, I wrote this…….
 
@@ -75,6 +79,6 @@ Waterproof clothing is a big part staying dry when you need it most.
 
 <https://www.inlandnwroutes.com/13-essentials.html>
 
-Chic         David
+Chic         David
 
 InlandNWRoutes.com

@@ -1,35 +1,50 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 - Moderate
+
 - Day Hiking
+
 - Backpacking
+
 - Equestrian
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, & equestrian.
+
 - label: Distance
   icon: map-marker-distance
   value: 7 miles RT
+
 - label: Elevation
   icon: terrain
   value: 510’
+
 - label: Acres
   icon: vector-square
   value: '2.5'
+
 - label: Difficulty
   icon: speedometer
   value: Moderate
+
 - label: Maps
   icon: map
   value: Steamboat Rock SE, Electric City topos
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°51’96’ n 119°04’95" w
+
 - label: Managing Agency
   icon: domain
   value: w.s.p.& r. 509.636.1304
+
 - label: Grant County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 509.536.1200
@@ -42,7 +57,7 @@ stats:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​As you drive into the parking lot, it becomes obvious that this is a special place. On the trail/road in at the start, the towering cliffs that circle the lower canyon demand your attention.
+As you drive into the parking lot, it becomes obvious that this is a special place. On the trail/road in at the start, the towering cliffs that circle the lower canyon demand your attention.
 But, as you walk the road, curious items make you go off road to see a spectacular sight.
 On your left is a sea of tin cans, so deep you can't see the ground.
 In 1934 the Grand Coulee Dam was under construction. Northrup Canyon was the site of a huge encampment of Dam employees. Up hill from the tin can pile, was the kitchen and mess hall. As they used the can, they would just throw them out the back door. Hence, a massive pile of old rusty tin cans with a few bottles, cups and plates here and there.

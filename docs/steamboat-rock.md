@@ -1,29 +1,40 @@
 ---
 tags:
+
 - Paddling & Rivers
+
 - Day Hiking
+
 stats:
+
 - label: Event Type
   icon: kayaking
   value: Day hiking
+
 - label: Distance
   icon: map-marker-distance
   value: 4 miles RT, unless you wander a lot
+
 - label: Elevation
   icon: terrain
   value: 700’
+
 - label: Difficulty
   icon: speedometer
   value: The ascent to the Rock is difficult. Once on top it’s easy.
+
 - label: Maps
   icon: map
   value: Barker Canyon, Electric City, Steamboat Rock SE & SW
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°51’83" n 119°07’39" w
+
 - label: Managing Agency
   icon: domain
   value: w.s.p. & r. 509.663.1304
+
 - label: Grant County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 509.754.2011
@@ -51,7 +62,7 @@ The trail up onto the Rock is rough, as is the loop trail above.
 The obvious 800' side walls can be hazardous.
 Keep close eye on your kids and pets, near the edge.
 
-​There are safety shin guards you can buy to protect from snake bites.
+There are safety shin guards you can buy to protect from snake bites.
 
 ## Cool things close by
 
@@ -60,7 +71,7 @@ Northrup Canyon, Summer Falls, Lake Lenore Caves, and the Sun Lakes-Dry Falls St
 ## R & p
 
 Harvest Restaurant,
-​Lenny’s in Cheney
+Lenny’s in Cheney
 
 ---
 
@@ -118,7 +129,7 @@ Click for Current NOAA Weather Conditions
 
 ![Picture](assets/images/spring89steamboatrockdayhike-unk-joesimpson-unk-paulmonroe-melissawick-stuartgrossmanj-oliviacaullaux.jpg)
 
-## Spokane mountaineers clowning around on steamboat rock    spring 1989
+## Spokane mountaineers clowning around on steamboat rock    spring 1989
 
 ---
 

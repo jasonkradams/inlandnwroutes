@@ -6,11 +6,11 @@
 
 ## Click on image to enlarge
 
-## Check out <https://www.weather.gov/owlie/weird-weather> for more weather phenomenons
+## Check out <https://www.weather.gov/owlie/weird-weather> for more weather phenomenons
 
 ---
 
-## A brocken spectre ​image by chris herath
+## A brocken spectre image by chris herath
 
 *Picture (Image missing)*
 

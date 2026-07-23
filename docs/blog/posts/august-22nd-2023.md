@@ -1,20 +1,24 @@
 ---
 title: "Blog #29: Determining areas on fire and smoke plume"
+
 date: 2023-08-22
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
-
 
 Determining areas on fire and smoke plume direction
 
 <!-- more -->
 
 We have decided to clean up our home page.
-​There is just too much information, which made it harder to navigate thru.
+There is just too much information, which made it harder to navigate thru.
 So, I have moved the section "DETERMINING AREAS ONFIRE, SMOKE PLUME DIRECTION,
 to RESOURCES……under WEATHER, THUNDERSTORMS, LIGHTNING & MORE.
 
@@ -33,6 +37,6 @@ You will be able click on the USFS Order, to read it for yourself.
 
 Thank you all for being our readers
 
-​InlandNWRoutes.com,
+InlandNWRoutes.com,
 
-Chic Burge       David Crafton
+Chic Burge       David Crafton

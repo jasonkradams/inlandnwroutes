@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Waterfalls
+
 stats:
+
 - label: Waterfall
   icon: waterfall
   value: Myrtle Creek Falls
+
 - label: Drop
   icon: arrow-collapse-down
   value: 100' in two drops
+
 - label: Waterfall Type
   icon: waterfall
   value: Tiered
+
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: .2 miles
+
 - label: Maps
   icon: map
   value: I.P.N.F., KOOTENAI National Wildlife Refuge, Moravia topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 48°’42"23" n 116°25’09" w
@@ -41,12 +49,12 @@ In the Winter, this falls and creek are exceptionally photogenic.
 ## Directions
 
 As you drive thru Bonners Ferry, you will come the the Kootenai River.
-Before crossing the river, turn left (W) onto Riverside Street. Be sure to drive no faster then the posted speed. I've been pulled over here at 28 mph. 
+Before crossing the river, turn left (W) onto Riverside Street. Be sure to drive no faster then the posted speed. I've been pulled over here at 28 mph.
 Anyway, continue west on Riverside Street along the Kootenai River where it will turn left (W) over Deep Creek.
 Staying on Riverside to where it meets up with the West Side Road #18. On older maps this was F.R.418.
 
 The road bears right, and in a short distance you will see the Myrtle Falls parking area. There is a restroom across the street with parking.
-​See Kootenai National Wildlife Refuge under HIKE...Idaho...K.N.W.R.
+See Kootenai National Wildlife Refuge under HIKE...Idaho...K.N.W.R.
 
 ---
 
@@ -86,7 +94,7 @@ Click for Current NOAA Weather Conditions
 
 ![Picture](assets/images/28140006.jpg)
 
-## Myrtle creek down creek from  the bridge
+## Myrtle creek down creek from  the bridge
 
 ![Picture](assets/images/28140010.jpg)
 

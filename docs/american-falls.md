@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Waterfalls
+
 stats:
+
 - label: Waterfall
   icon: waterfall
   value: American Falls
+
 - label: Drop
   icon: arrow-collapse-down
   value: 40'
+
 - label: Waterfall Type
   icon: waterfall
   value: Slide
+
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: 16.2 miles RT with 1400 verts
+
 - label: Maps
   icon: map
   value: Kanicsu N.F., Continental Mountain 208.443.7223
+
 - label: GPS
   icon: crosshairs-gps
   value: Trailhead 48°??53’??53" N 116°??5759" W
@@ -24,11 +32,11 @@ stats:
 
 # American Falls
 
-*Ameri. aka u. priest river  falls trail #308*
+*Ameri. aka u. priest river  falls trail #308*
 
 ## Description
 
-Trail #308 hikes up the Upper Priest River for about 8 miles one way.   the trail only gain 640 feet, making it a great backpack, mountain bike, or long day hike.
+Trail #308 hikes up the Upper Priest River for about 8 miles one way.   the trail only gain 640 feet, making it a great backpack, mountain bike, or long day hike.
 
 Most the trail wonders up thru cedar forests. On the hottest day of the summer, this walk is around 20° cooler.
 The plant life, large or small, is worth the effort.
@@ -43,7 +51,7 @@ For a one way bike, you can leave one car at Trial #308's trailhead.
 
 With the second car, you can drive up F.R. #1013, to Trail # 28. Its a 2.3 mile descent to near American Falls. Then about 8 miles to the 308 trailhead.
 
-​This bike is great for beginners and able kids.
+This bike is great for beginners and able kids.
 
 ---
 
@@ -60,8 +68,7 @@ Salmo-Priest Wilderness, Gypsy Peak, Hughes Meadows & Ridge, Upper Priest Lake, 
 ## Hazards
 
 Its a long day hike, so start very early.
-​Do not forget your First Aid Kit.
-​
+Do not forget your First Aid Kit.
 
 ## R & p
 

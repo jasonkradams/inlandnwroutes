@@ -1,15 +1,20 @@
 ---
 title: "Blog #53: Do not fail to plan"
+
 date: 2024-04-17
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 
-
 You’re probably thinking, why would anyone plan to fail?
+
 I would bet all of us at one time or another, found ourselves in deep doo.
 Arriving at a detour, or forgetting a key piece of clothing, or after driving 2-3+ hours to get to a trailhead, that has a closed road, are some problems with planning an outing.
 
@@ -63,16 +68,16 @@ Please read the below url to help you plan and succeed, in your adventure.
 
 Creating a group and plan
 I call my hiking partners and let them know about a hike. From there, we can build our group.
-Pick your hiking partners carefully. Make sure each person has their own equipment, 13 ESSENTIALS,  map, and knowledge to do the trip.
+Pick your hiking partners carefully. Make sure each person has their own equipment, 13 ESSENTIALS,  map, and knowledge to do the trip.
 When you go into the mountains, YOU are solely responsible for YOURSELF.
 Each person must have their own 13 ESSENTIALS, and know how to use them.
 The reason I say that, is because if one person gets separated, and they don’t have food, headlight, water and ESSENTIALS, they could be in trouble.
 A couple of years ago, a father daughter team went to the Cabinet Mountain Wilderness to backcountry ski.
 The father fell with a broken cornice, and his daughter had to spend the night out, WITHOUT ANYTHING.
 Fortunately, all ended well, and they were united. But remember she had nothing to get her thru the night.
-​
+
 On our website there are two section called RESOURCES & HINTS.
-​I encourage you all to read both of these sections.
+I encourage you all to read both of these sections.
 The more you know, the better your chances are to succeed.
 Make sure each person has a their own supplies.
 It’s very important that each hiker has a first aid kit, and knows CPR/FIRST AID.
@@ -104,6 +109,6 @@ Benjamin Franklin once said…
 
 David and I wish that your day in Nature is a great success.
 
-         Chic                      David
+         Chic                      David
 
-       InlandNWRoutes.com
+       InlandNWRoutes.com

@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Paddling & Rivers
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
+
 - label: Elevation
   icon: terrain
   value: 2124’
+
 - label: Length and Acreage
   icon: vector-square
   value: na
+
 - label: Maps
   icon: map
   value: IPNF, Post Falls Topo
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°42’12" n 116°55’08" w
+
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300

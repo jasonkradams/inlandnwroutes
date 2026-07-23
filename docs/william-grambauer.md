@@ -1,33 +1,47 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 - Very Strenuous
+
 - Day Hiking
+
 - Backpacking
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking
+
 - label: Distance
   icon: map-marker-distance
   value: 14 miles RT
+
 - label: Elevation
   icon: terrain
   value: 4900 verts
+
 - label: Difficulty
   icon: speedometer
   value: Very strenuous
+
 - label: Maps
   icon: map
   value: K.N.F., Kootenai Falls topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 48°12’11" n 115°44’66" w
+
 - label: Lincoln County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.293.4112
 notes:
+
 - Three Rivers Ranger District 406.295.4693
+
 - Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 

@@ -1,15 +1,20 @@
 ---
 title: "Blog #16: Usfs & other agencies closures & alerts"
+
 date: 2023-07-10
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 
-
 So you plan a hike to your favorite area.
+
 Once at the trailhead, you find the USFS has closed the area or restricted specific activities within the area.
 Do not blow this warning off.
 This is an excerpt from a current closure notice, listed in that Ranger District’s website ALERTS
@@ -37,5 +42,5 @@ Please plan your trip days in advance, then check InlandNWRoutes.com, and the US
 Thank you, for being our readers,
 
 InlandNWRoutes.com
-​
-Chic Burge       David Crafton
+
+Chic Burge       David Crafton

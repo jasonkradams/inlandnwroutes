@@ -1,16 +1,22 @@
 ---
 tags:
+
 - Lakes
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: 4.7 mile loop
+
 - label: Elevation
   icon: terrain
   value: 2048’
+
 - label: Length and Acreage
   icon: vector-square
   value: 1.7 miles long and 780 acres
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°38’15" n 117°03’ 48" w
@@ -20,7 +26,7 @@ stats:
 
 ## Description
 
-​We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
+We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
 
 ## Attractions
 

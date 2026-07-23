@@ -1,10 +1,15 @@
 ---
 title: "Blog #13: The Importance of Carrying a Pack & 13 Essentials"
+
 date: 2023-07-06
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Trail Safety & Gear
 ---
 
@@ -19,12 +24,19 @@ I stress that every hiker must be prepared for any circumstance into which they 
 Every hiker should carry the following items in their own pack:
 
 * **Rain Gear & Emergency Shelter:** A technical rain jacket, umbrella, and a large lawn bag.
+
 * **Navigation:** A copy of the Forest Service map and a USGS topo map of the area visiting.
+
 * **Water & Filtration:** Water, plus a 5 oz. Sawyer water purifier.
+
 * **Warmth & Insulation:** Thermo jacket for warmth. Store a pair of down mittens inside a plastic bag at the bottom of your pack to keep them dry.
+
 * **Food & Snacks:** Lunch, trail snacks, and emergency food. Try to keep your pack light, but carry all you need.
+
 * **Sanitation & Hygiene:** A Ziploc bag with folded paper towels. (Paper towels are far more reliable than toilet paper in the woods to prevent accidental blowouts).
+
 * **Two-Way Radio (Optional):** An option, especially for beginners. Use it for only 10 minutes on the hour to preserve battery life.
+
 * **Personal Items:** Chapstick, sunscreen, personal items, etc.
 
 ### Trail Marking Tip: Retractable Survivor's Tape
@@ -32,6 +44,7 @@ Every hiker should carry the following items in their own pack:
 Something I carry in a handy place is a dozen or so 12" survivor's tape strips. If a junction or faint trail may be a question later, these retractable strips can be a life saver:
 
 1. **Application:** Fold the strip in half. Wrap the halves around a branch, pass the two tails through the loop, and pull tight.
+
 2. **Retrieval:** As you walk past on your return, grab the loop end and pull it right off the branch.
 
 ## Managing Your 13 Essentials

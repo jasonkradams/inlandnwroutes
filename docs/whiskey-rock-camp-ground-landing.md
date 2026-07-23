@@ -1,16 +1,22 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
+
 - label: Elevation
   icon: terrain
   value: 2067’
+
 - label: Length and Acreage
   icon: vector-square
   value: 148 square miles or 88,008 acres, 125 miles of shore, and 1150’ deep
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°05’12" n 116°45’38" ww

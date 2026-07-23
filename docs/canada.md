@@ -9,6 +9,7 @@
 1. More than half of all the lakes in the world are located in Canada! The country counts more than 3 million lakes and 31,700 big lakes with an area over 300 hectares. Canada also includes two of the biggest lakes in the world: Great Bear Lake and Great Slave Lake.
 
 1. Toronto is Canada's largest metropole with over 6 million people. Montreal, Canada's second largest city with over 4 million inhabitants, is also the second largest city in the world that has a French-speaking population - after Paris in France.
+
 Montreal, the second most populated city in Canada
 
 * Nine out of ten Canadians live in the US - Canada border region which includes the area up to 160 km/ 99 miles from the US - Canada border.
@@ -58,33 +59,43 @@ Ice Hockey Match between Canada and the USA
 * About half of Canada's landmass is covered by forest. There are about 180 tree species in Canada. Timber is among the main exports of the country. Canada is the third most forested country in the world.
 
 Canada - Forest as far as the eye can see
+
 Did you know that Canada is taking part in NASA's Lunar Gateway project? [Read more about Canada's role in the Moon exploration here.
 
-​](https://www.asc-csa.gc.ca/eng/astronomy/moon-exploration/canada-role.asp)Weird, Fun and Interesting Facts About Canada
+](https://www.asc-csa.gc.ca/eng/astronomy/moon-exploration/canada-role.asp)Weird, Fun and Interesting Facts About Canada
 
 * [Canada](https://hikebiketravel.com/category/canada/)
 
 * [138 Comments](https://hikebiketravel.com/145-weird-fun-interesting-facts-canada/#view_comments)
 
 For fellow Canadians and those even mildly interested in Canada I thought I’d put a blog together and give you 145 weird, fun and interesting facts about Canada. Canada came into being as a country on **July 1, 1867,** when the British Parliament passed the British North America Act.
+
 Walking towards the Parliament Buildings in OttawaFamous CanadiansFamous Canadian **celebrities** include Justin Bieber, Michael Buble, James Cameron, Jim Carrey, Celine Dion, Ryan Gosling, Rachel McAdams, Mike Myers, Ryan Reynolds and William Shatner.
+
 Famous Canadian **rock and rollers** include Bryan Adams, Paul Anka, the Guess Who, Rush, Steppenwolf, The Barenaked Ladies, Alanis Morissette, Bachman Turner Overdrive, Neil Young and Avril Lavigne.
+
 Other famous and well known **musicians and songwriters** include Sarah McLachlan, Nelly Furtado, Diana Krall, Chantal Kreviazuk, K.D.Lang, Maureen Forrester, Leonard Cohen, Raffi Cavoukian, Bruce Cockburn, Gordon Lightfoot, Anne Murray, David Foster, Robert Goulet, Shania Twain, Buffy Sainte-Marie and Joni Mitchell.
+
 Famous Canadian **authors** include Lucy Maud Montgomery (Anne of Green Gables), Margaret Atwood (The Handmaid’s Tale) and Alice Munro (Lives of Girls and Women), Mavis Gallant, Stephen Leacock, Pierre Berton, Robertson Davies, Douglas Copeland, Alistair MacLeod, Farley Mowat and Michael Ondaantje.
+
 Famous Canadian **artists** include the Group of Seven made up of Lauren Harris, A.Y. Jackson, J.E.H.MacDonald, Arthur Lismer, Frederick Varley, Frank Johnston and Franklin Carmichael. Tom Thomson and Emily Carr, two artists associated with the group are also very well know.
+
 Inspirational Canadians include Terry Fox who attempted a one-legged cross country run for cancer research, Rick Hansen, a paraplegic athlete who completed an around the world marathon for spinal cord injury research and Donovan Bailey, the world’s fastest man.
 Famous Canadian dancers include Karen Kain, Veronica Tennant and Lynn Seymour.
 Superman was co-created by a Canadian Joe Shuster and American Jerry Siegal. The character was created while Shuster was visiting Siegal in Cleveland in 1934.
 Famous Canadian **journalists, TV or radio personalities** include Peter Jennings, Alex Trebek, Lloyd Robertson, Peter Gzowski, Robert MacNeil, Morley Safer and John Roberts.
+
 Banff National Park near the Plain of the Six Glaciers TeahouseFun Geography Facts about CanadaCanada is the second largest country in the world.
 The highest tides in the world occur in the Bay of Fundy in New Brunswick. You can [**kayak at Hopewell Rocks**](https://hikebiketravel.com/trip-hopewell-rocks-brunswick-foot-kayak/) but start on the mud in your kayak and just wait for the water to lift you off.
 The capital of Canada is Ottawa, the second coldest capital in the world after Moscow.
 **Read:** [**5 Things You Must do on a Visit to Ottawa**](https://hikebiketravel.com/5-things-you-must-do-on-a-visit-to-ottawa/)
+
 The first view of the Grand Hall at the Canadian Museum of HistoryCanada has ten provinces and three territories.
 Canada has the longest coastline of any country in the world at 243,977 kilometers – 151,600 miles.
 Montreal is the world’s second largest French speaking city after Paris.
 Six cities in Canada have a population of over 1 million: Toronto, Montreal, Vancouver, Calgary, Edmonton and Ottawa.
 **Read:** [**Everything You Need to Know to Visit Canada**](https://breathedreamgo.com/everything-you-need-to-know-to-visit-canada/)
+
 Inside the Calgary Library that opened in 2018Canada is lucky to have 9% of the world’s renewable water supply!
 The largest non-polar ice field in the world can be found in the St. Elias Mountains, Yukon Territory. It covers an area of 40,570 square kilometers of which 16,900 square kilometers are located in Canada, the remainder being in Alaska.
 Canada has six time zones.
@@ -98,6 +109,7 @@ Despite being a huge country, Canada has the fourth lowest population density in
 The coldest temperature ever recorded in Canada was -63°C (-81.4°F) on February 3, 1957, in Snag, Yukon.
 Want to show the world you’re a Canadian? Why not pick up a [**beanie with a Canadian flag**](https://www.amazon.ca/gp/product/B07K1Q9JR3/ref=as_li_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=B07K1Q9JR3&linkCode=as2&tag=hikebiketrave-20&linkId=16421b03960fdc95ac2c818d00fba5b8) or throw on the cozy [**hooded sweatshirts – also sporting a Canadian flag.**](https://amzn.to/2IjyzPD)
 Flying over mountains in the vicinity of Mt Logan in the YukonAlert, in **[Nunavut](https://hikebiketravel.com/16731/nunavut/)** Territory, is the northernmost permanent settlement in the world.
+
 The highest waterfall in Canada is Della Falls, British Columbia, 440 meters high (1,444 feet).
 The border between Canada and the United States is officially known as the International Boundary. It is 5,525 miles long, including the 1,538 miles between Canada and Alaska. It’s the world’s longest unprotected border.
 Ocean Falls, British Columbia has on average 330 days of rain per year. Yuck!
@@ -108,6 +120,7 @@ Nunavut takes up one-fifth of Canada’s total land area.
 Mt Thor – the world’s tallest cliff
 [**Manitoulin Island**](https://hikebiketravel.com/7-reasons-to-visit-manitoulin-island-this-summer/) is the largest freshwater island in the world.
 Two of the largest lakes in the world are found in the Northwest Territories - Great Bear Lake and Great Slave Lake.
+
 Calgary is famous for its Chinooks – a weather phenomenon that can raise the temperature by 10 degrees in a matter of minutes.
 A view of Calgary from the Calgary Tower
 Cool facts about Canadian People
@@ -201,6 +214,7 @@ Spectacular vineyard views from Summerhill Pyramid Winery near Kelowna
 Cheddar is the most popular cheese in Canada. On average Canadians consume 23.4 pounds per person annually.
 The Maritimes are famous for their desserts. Try Blueberry Grunt and Raspberry Buckle.
 There are more **doughnut shops** in Canada per capita than any other country.
+
 Each Canadian eats an average of 190 eggs per year.
 Canadians drink more fruit juice per capita than any other country.
 National Parks and UNESCO WORLD Heritage SitesCanada is home to 48 national parks and national park reserves, 167 national historic sites and four marine conservation areas.
@@ -265,7 +279,7 @@ There are 459 cars for every 1000 people.
 Thirty-two percent of Canadians are very happy, 55% are quite happy.
 This is just a smattering of facts about Canada. If there are any you’d like to add please be sure to leave a comment. Further reading on interesting facts in Canada
 
-​Bugaboo is a first-class mountaineering region, situated in the rugged Purcell Mountains in the BC Rockies region of British Columbia.
+Bugaboo is a first-class mountaineering region, situated in the rugged Purcell Mountains in the BC Rockies region of British Columbia.
 This 13,646-hectare park encompasses extensive ice fields, the largest glaciers in the Purcells, and spectacular granite spires, some of which exceed 3,000 metres in elevation. Its challenging peaks in the northern extremity of the Purcell Mountain Range have attracted climbers from around the world since the late 1880s.
 Particularly popular are the North Howser Tower and the South Ridge of Bugaboo Spire, which are considered to be very difficult. The landscape is certainly breathtaking, but you shouldn’t attempt to hike or climb this region unless you are experienced, well-equipped and in good physical condition.
 The Purcells, bounded by the Rocky Mountain Trench in the east, are actually ancient compared to the much younger Rocky Mountains, dating back 1,500 million years when the only form of life on the planet was algae. It was not until the dinosaurs era that the Rocky Mountains were born, some 70 million years ago. Heavy snowfall of the ‘Columbia Wet Belt’ continues to support large remnants of the vast alpine glaciers that shaped the rugged Purcell Mountains.

@@ -5,14 +5,15 @@
 ---
 
 Ingredients:
-Organic potatoes 
+
+Organic potatoes
 2 sprigs of salad onions, chopped
 4 or more Regular button mushrooms, sliced.
 Baked chicken thighs and breasts from a deli, or cook your own.
-​
+
 Remove all chicken meat and place the bones in a pot to boil.
 Boil for as long as you can to draw out the flavor and other benefits of bone broth.
-Remove all solids and chicken pieces from the boiling water , and put the broth in a frying pan.
+Remove all solids and chicken pieces from the boiling water , and put the broth in a frying pan.
 Cook at a medium heat.
 
 Take a 6-8 ounce jar with a lid. Put an inch or two inches of regular flour in the jar.

@@ -1,16 +1,22 @@
 ---
 tags:
+
 - Paddling & Rivers
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
+
 - label: Elevation
   icon: terrain
   value: 2128’
+
 - label: Length and Acreage
   icon: vector-square
   value: varies
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°26’49" n 116°48’53" w
@@ -26,7 +32,7 @@ immediately, you are out into the body of the lake.
 ## Attractions
 
 Less traffic at the launch,
-​Fast access to the main body of CDA Lake, and the CDA River is directly across the lake.
+Fast access to the main body of CDA Lake, and the CDA River is directly across the lake.
 
 ## Directions
 

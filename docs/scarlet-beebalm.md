@@ -1,27 +1,36 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Genesis Name
   icon: book-open-variant
   value: Monarada didyma
+
 - label: Distribution
   icon: earth
   value: Washington, Oregon, Idaho and eastern U.S & Canada
+
 - label: Season
   icon: calendar
   value: May thru Roctober
+
 - label: Medical Use
   icon: medical-bag
   value: It's a potent medicinal and **a tasty edible too**. There are two main varieties,
     Monarda didyma, or scarlet bee balm is what you'll see most commonly in garden
     perennial beds. ... Both species are edible and medicinal and have similar properties.
+
 - label: Poisonous
   icon: skull-crossbones
   value: 'No'
+
 - label: Edible
   icon: food-apple
   value: 'Yes'
+
 - label: Features
   icon: information-outline
   value: Scarlet beebalm is aromatic herb a member of the mint family. It is also
@@ -46,6 +55,7 @@ stats:
     and markedly two-lipped; the upper lip continues the corolla tube while the lower
     lip turns downward and is broader than the upper lip.
 notes:
+
 - The spectacularly scarlet showy flower cluster of scarlet beebalm is a wonderful
   delight to hikers who commonly encounter this native wildflower in shady woods generally
   along stream banks and thickets. Flowering starts in late June to early July to
@@ -55,6 +65,7 @@ notes:
   flower heads allows for easier seed extraction and then pass the crushed heads into
   a 1/25 screen to separate out the seeds. Germination is greatly enhanced by a cool,
   moist stratification for 2 to 3 weeks.
+
 - Beebalms are coarse herbs and many gardeners have a love-hate relationship with
   because of their ability to spread by seed throughout a flowerbed and their susceptibility
   to succumb to powdery mildew in humid climates. The chance of becoming infected
@@ -72,9 +83,9 @@ notes:
 
 ## Description
 
-A dense, rounded, terminal, head-like cluster of bright red, tubular flowers atop a square stem. Scarlet beebalm is a popular perennialwith scarlet-red flowers in terminal tufts. The 3 ft. stems are lined with large, oval, dark-green leaves. Individual flowers are narrowly tube-shaped, tightly clustered together in 2 in. heads. The leaves have a minty aroma. 
-This species is coarser than true mints (Mentha) but is very showy and frequently cultivated in gardens. Hummingbirds are especially attracted to the red flowers. The alternate common name Oswego Tea refers to the use of the leaves for a tea by the Oswegos of New York. Early colonists also used the plant for this purpose when regular tea was scarce. A white-flowered variant is sometimes grown in gardens.
+A dense, rounded, terminal, head-like cluster of bright red, tubular flowers atop a square stem. Scarlet beebalm is a popular perennialwith scarlet-red flowers in terminal tufts. The 3 ft. stems are lined with large, oval, dark-green leaves. Individual flowers are narrowly tube-shaped, tightly clustered together in 2 in. heads. The leaves have a minty aroma.
+This species is coarser than true mints (Mentha) but is very showy and frequently cultivated in gardens. Hummingbirds are especially attracted to the red flowers. The alternate common name Oswego Tea refers to the use of the leaves for a tea by the Oswegos of New York. Early colonists also used the plant for this purpose when regular tea was scarce. A white-flowered variant is sometimes grown in gardens.
 It is susceptible to powdery mildew, but some cultivars, such as 'Jacob Cline', are mildew resistant.
-Linnaeus named the genus Monarda in honor of a 16th century Spanish physician and botanist, Nicolas Bautista Monardes (1493-1588). Monardes never went to the Americas but was able to study medicinal plants in Spain because Spain controlled navigation and commerce from the New World.
+Linnaeus named the genus Monarda in honor of a 16th century Spanish physician and botanist, Nicolas Bautista Monardes (1493-1588). Monardes never went to the Americas but was able to study medicinal plants in Spain because Spain controlled navigation and commerce from the New World.
 
 ---

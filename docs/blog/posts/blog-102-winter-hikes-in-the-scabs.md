@@ -1,15 +1,20 @@
 ---
 title: "Blog #102: Winter hikes in the scabs"
+
 date: 2026-01-01
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Trail Safety & Gear
 ---
 
-
 Hi readers, hikers, snowshoers, and all types of skiers
+
 It’s sad that Winter isn’t happening as it should, but it can be a good thing, also.
 
 <!-- more -->
@@ -62,7 +67,7 @@ The views all around the rock are interesting geological features.
 Because the rock is basalt, I strongly suggest sturdy boots and hiking poles.
 
 Fishtrap lake
-​<https://www.inlandnwroutes.com/fishtrap-lake.html>
+<https://www.inlandnwroutes.com/fishtrap-lake.html>
 
 FishTrap Lake is only about 25 miles west of Spokane, an offers an easy up to 6.5 mile hike around the lake. In some places, there are hooknose beaches, and pot holes to see. Waterfowl is very common here.
 
@@ -100,7 +105,7 @@ Many bird species migrate thru this area. And moose are seen there.
 Moderate hikes
 
 Hog canyon falls
-​<https://www.inlandnwroutes.com/hog-canyon--falls.html>
+<https://www.inlandnwroutes.com/hog-canyon--falls.html>
 Real close to Spokane is a stair step waterfall named Hog Canyon.
 Technically it’s part of the FishTrap lake,but requires a different area to walk to.
 The falls drop seven times thru a narrow channel, and are best viewed from across an area where you first view the falls.
@@ -141,6 +146,6 @@ This hike is a must do.
 
 Thank You all for a great year on our local website.
 
-Chic           David
+Chic           David
 
 InlandNWRoutes.com

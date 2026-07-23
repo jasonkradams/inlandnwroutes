@@ -1,36 +1,51 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Moderately Difficult
+
 - Day Hiking
+
 - Backpacking
+
 - Equestrian
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, and equestrian.
+
 - label: Distance
   icon: map-marker-distance
   value: 6 miles RT to peak, & 9 miles RT to lake
+
 - label: Elevation
   icon: terrain
   value: Peak 7122’. Lake -1172’
+
 - label: Difficulty
   icon: speedometer
   value: moderately difficult
+
 - label: Maps
   icon: map
   value: IPNF, Kaniksu N.F., Roman Nose, Smith Peak, and the Wigwams.
+
 - label: GPS
   icon: crosshairs-gps
   value: 48°45’54" n 116°38’38" w
+
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561
+
 - label: Boundary County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.267.3151
 notes:
+
 - Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -44,7 +59,7 @@ We have added the areas sheriff’s emergency phone numbers for each trip write 
 
 ## Option#1
 
-From Myrtle Peak, the  Myrtle Lake  "trail" is sparse and rough, and drops about 1172’.
+From Myrtle Peak, the  Myrtle Lake  "trail" is sparse and rough, and drops about 1172’.
 
 ## Directions
 
@@ -57,7 +72,7 @@ Burton Peak, Myrtle Creek Game Preserve, Two Mouth Lakes, Cooks Peak & Lake, the
 ## Hazards
 
 There is no water after Slide Creek at about 3 miles.
-​From Myrtle Peak, the trail to Myrtle is sparse, and rough.
+From Myrtle Peak, the trail to Myrtle is sparse, and rough.
 
 ## R & p
 

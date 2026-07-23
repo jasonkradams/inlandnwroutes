@@ -1,19 +1,26 @@
 ---
 tags:
+
 - Paddling & Rivers
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
+
 - label: Elevation
   icon: terrain
   value: 2133’
+
 - label: Length and Acreage
   icon: vector-square
   value: varies
+
 - label: Maps
   icon: map
   value: IPNF., Kingston topo
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°33’08" nne 116°22’00" w
@@ -26,9 +33,9 @@ stats:
 ## Description
 
 The CDA River Launch is located next to I-90 at the Old Mission S.P. If you paddle up stream, you may run into shallow waters just below the I-90 bridge. If you make it above the rapids, it’s pretty smooth sailing for a mile or more, depending on the water level.
-​if you paddle down stream, be sure to have a shuttle. Paddling up against the current can take all your energy.
+if you paddle down stream, be sure to have a shuttle. Paddling up against the current can take all your energy.
 The launch has one ramp and plenty of parking.
-​Don’t forget to visit the Old Mission while you are in the area.
+Don’t forget to visit the Old Mission while you are in the area.
 
 ## Attractions
 

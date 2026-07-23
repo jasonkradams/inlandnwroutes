@@ -1,33 +1,47 @@
 ---
 tags:
+
 - Lakes
+
 - Difficult
+
 - Day Hiking
+
 - Backpacking
+
 - Loop
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, loop
+
 - label: Distance
   icon: map-marker-distance
   value: 8 miles RT
+
 - label: Elevation Gain
   icon: elevation-rise
   value: 2200 verts
+
 - label: Difficulty
   icon: speedometer
   value: Difficult
+
 - label: Maps
   icon: map
   value: Kootenai N.F,, Treasure Mt. Topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 48°20’55" N 115°43’39" W. Libby Ranger District 406.293.7773
+
 - label: Lincoln County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.293.4112
 notes:
+
 - Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 
@@ -38,7 +52,7 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​Trail #140 skirts the South Fork Parmenter Creek past the CMW border, and becomes trail #317, then walks below Parmenter Mountain to the SE.
+Trail #140 skirts the South Fork Parmenter Creek past the CMW border, and becomes trail #317, then walks below Parmenter Mountain to the SE.
 
 This trail continues up to Trail #360 next to Sugarloaf Mountain, mostly in the forest.
 
@@ -60,7 +74,7 @@ Ross Creek Cedars, Cedar Lakes, Dome Mountain, Kootenai Falls, the Proposed Scot
 
 ## R & p
 
-Henry’s in Libby, Pizza Hut, Rosaeurs, Clark Fork Pantry & Squeeze Inn n Clark Fork. Eicharts, Mr Sub, Burger Express,  & Jalapeños in Sandpoint
+Henry’s in Libby, Pizza Hut, Rosaeurs, Clark Fork Pantry & Squeeze Inn n Clark Fork. Eicharts, Mr Sub, Burger Express,  & Jalapeños in Sandpoint
 
 ## Photo gallery
 

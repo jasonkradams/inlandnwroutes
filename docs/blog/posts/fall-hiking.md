@@ -1,15 +1,20 @@
 ---
 title: "Blog #38: Keep warm while hiking in the fall"
+
 date: 2023-10-18
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Trail Safety & Gear
 ---
 
-
 As summer is in our rear view mirror, fall is all around us.
+
 And so are the cool temps, and most sunny days.
 
 <!-- more -->
@@ -19,7 +24,7 @@ When we want to hike, we must plan our outing with care, to make sure we carry t
 Clothing.
 
 What we wear in the fall is very important.
-The most valuable advice I can give you, is do not wear ANY  COTTON CLOTHING, PERIOD.
+The most valuable advice I can give you, is do not wear ANY  COTTON CLOTHING, PERIOD.
 
 When cotton gets wet from the environment, rain or snow, or from the dew off the brush, and sweat, our body core temperatures can drop to dangerous levels.
 If this happens to you, you must have the correct clothing for the circumstances.
@@ -89,4 +94,4 @@ Always error on the side of safety and caution.
 
 InlandNWRoutes.com
 
-Chic Burge        David Crafton
+Chic Burge        David Crafton

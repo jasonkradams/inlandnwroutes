@@ -1,36 +1,52 @@
 ---
 tags:
+
 - Lakes
+
 - Easy to Slightly Moderate
+
 - Day Hiking
+
 - Backpacking
+
 - Mt Biking
+
 - Wondering
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, mt biking, wondering
+
 - label: Distance
   icon: map-marker-distance
   value: 4.5 miles RT to Ancient Lake. 6 miles RT to Dusty Lake
+
 - label: Elevation
   icon: terrain
   value: 280’ to Ancient lake. 350’ to Dusty Lake
+
 - label: Acres
   icon: vector-square
   value: '54'
+
 - label: Difficulty
   icon: speedometer
   value: Easy to slightly moderate
+
 - label: Maps
   icon: map
   value: W.D.OF F. & W., Columbia Wildlife Area. Babcock Bench
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°01’38" n 119°59’52" w
+
 - label: Managing Agency
   icon: domain
   value: W.D.F.& W. & Columbia Basin Wildlife Area. 509.765.6641
+
 - label: Grant County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 509.754.2011
@@ -49,7 +65,7 @@ The second trail in, and more used, is the main trail to Ancient Lakes. Once at 
 
 You may feel like you are in an old western movie scene.
 
-​The trick to hiking in the Scabs, is to observe your surroundings and note all high landmarks and other prominent features . You can use these landmarks to navigate off trail routes.
+The trick to hiking in the Scabs, is to observe your surroundings and note all high landmarks and other prominent features . You can use these landmarks to navigate off trail routes.
 
 ## Option #1
 
@@ -68,16 +84,16 @@ west off SR 281 onto White Trail Road and continue 3 miles. Turn left (south) at
 ## Hazards
 
 Rattlesnakes. They won’t strike unless provoked, so be aware.
-​ See our RESOURCES...WILDLIFE or TRAIL ETIQUETTE & SKILLS FOR INO ON SNAKES
+ See our RESOURCES...WILDLIFE or TRAIL ETIQUETTE & SKILLS FOR INO ON SNAKES
 This area is dry and dusty, and has loose rock on some of the ascents.
 
-​ a word of caution while hiking in the scabs
-​Because the terrain you will be in while hiking, you must be aware of your surroundings.
+ a word of caution while hiking in the scabs
+Because the terrain you will be in while hiking, you must be aware of your surroundings.
 Note all high points and landmarks. Even those off in a distance.
 They can be use to gain perspective of your current location, as apposed to your entry route.
 Always make sure Each hiker is carrying a map of the area.
 And do not allow any hiker in your group to wonder off.
-Your group Must STAY TOGETHER. ​There are safety shin guards you can buy to protect from snakes.
+Your group Must STAY TOGETHER. There are safety shin guards you can buy to protect from snakes.
 Use your cell phone to take pictures of the terrain. Later if you are misplaced, you can refer to the image to gain perspective.
 
 ## Cool things close by
@@ -87,7 +103,6 @@ Ancient & Dusty Lakes, Columbia Basin Wildlife Area, the mighty Columbia River, 
 ## R & p
 
 NA
-​
 
 ---
 

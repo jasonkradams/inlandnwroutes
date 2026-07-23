@@ -1,34 +1,50 @@
 ---
 tags:
+
 - Lakes
+
 - Easy
+
 - Day Hiking
+
 - Paddling
+
 - Mt Biking
+
 - Fishing
+
 - Equestrian
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, paddling, mt biking, fishing, equestrian
+
 - label: Distance
   icon: map-marker-distance
   value: 6.5 miles with variations
+
 - label: Elevation
   icon: terrain
   value: Minimal
+
 - label: Difficulty
   icon: speedometer
   value: easy
+
 - label: Maps
   icon: map
   value: BLM maps, FishTrap topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°21’64" n 117°49’84" w
+
 - label: Managing Agency
   icon: domain
   value: blm. 509.536.1200
+
 - label: Spokane County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 509.477.2240
@@ -39,7 +55,7 @@ stats:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​As with many drives west of Spokane, the terrain looks dry and desolate. But with a little exploring, you find great opportunities for hiking and other activities. The Fishtrap Lake area consists of 9,000 acres to explore.
+As with many drives west of Spokane, the terrain looks dry and desolate. But with a little exploring, you find great opportunities for hiking and other activities. The Fishtrap Lake area consists of 9,000 acres to explore.
 As you get closer to the lake, well maintained trailheads and trails appear. Fishtrap Lake sit about 30 or 40 feet below the lay of the land. On the north end of the lakes is the Fishtrap Lake Resort and a public boat launch.
 In 2016 thru 2018, the Spokane Mountaineers and the Washington Trails Association, have built new trails and redone sections to enhance visitors experiences. On the west side of the lake, the trail runs from Farmers Landing in the south to beyond the north shore line, and the Fishtrap Lake Resort. Stop by a kiosk for a brochure with current trail routes.
 

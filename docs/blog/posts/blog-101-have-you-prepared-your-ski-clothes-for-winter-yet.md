@@ -1,15 +1,20 @@
 ---
 title: "Blog # 101: Have you prepared your ski clothes for winter, yet?"
+
 date: 2025-12-18
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Trail Safety & Gear
 ---
 
-
 Because the weather is not favorable right now, it’s time to treat your gear for the snowy wet conditions.
+
 I have use the method below for many decades and it works.
 
 <!-- more -->
@@ -17,7 +22,7 @@ I have use the method below for many decades and it works.
 First, log onto Gearaid.com, and order their REVIVEX DURABLE WATER REPELLENT.
 Buy their three pack, because you will eventually have to treat your hiking gear after Winter. And shipping will be less.
 
-Second, buy Arm & Hammer powder laundry soap.
+Second, buy Arm & Hammer powder laundry soap.
 
 Third, wash your jackets, bibs, or ski pants using the above product, only.
 (NOTE…do not use conventional laundry soap. They have too many chemicals that could be harmful to your ski cloths, water repellency)
@@ -48,6 +53,6 @@ Solve your potential discomfort, by following the above method.
 
 David and I would like to thank you for reading and using our local website.
 
-Chic         David
+Chic         David
 
-​InlandNWRoutes.com
+InlandNWRoutes.com

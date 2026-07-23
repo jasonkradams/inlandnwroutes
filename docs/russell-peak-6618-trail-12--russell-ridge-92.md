@@ -1,38 +1,53 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Difficult
+
 - Hiking
+
 - Backpacking
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Hiking & backpacking
+
 - label: Distance
   icon: map-marker-distance
   value: '2.6 miles to Russell Peak, 2.8 miles to the junction with trail 92, trail
     #92 is less then 5 miles long.'
+
 - label: Elevation
   icon: terrain
   value: 1666' gain to Peak. Peak to end of trail 92 533' loss
+
 - label: Difficulty
   icon: speedometer
   value: Difficult
+
 - label: Maps
   icon: map
   value: pyramid Peak & Farnham Peak
+
 - label: GPS
   icon: crosshairs-gps
   value: 'Trail #12 N48° 49’ 13.8" W116° 32’ 40" & N48° 47’ 47.0" W116° 31’ 32.6",
     Trail #92 N48° 48’ 34.4" w116° 32’ 27"'
+
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561
+
 - label: Bonners Ferry County Sheriff
   icon: shield-account
   value: 911 or 208.267.3151
 notes:
+
 - Idaho panhandle national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -58,7 +73,7 @@ Pyramid Pass, Peak & Lakes, Long Mountain Lake, Fisher Peak, Long Canyon, Parker
 
 ## R & p
 
-Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
+Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
 ## Photo gallery
 

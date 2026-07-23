@@ -1,16 +1,20 @@
 ---
 title: "Blog #94: Closures due to fire, timber sales and more"
+
 date: 2025-07-24
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 
-
 Every year we are plagued with some sort of closures.
- 2025 is no exception.
+ 2025 is no exception.
 
 <!-- more -->
 
@@ -37,11 +41,11 @@ PLEASE click on ALERTS for each hike, or contact the RANGER DISTRICT listed abov
 
 For BLM LANDS, click on this url....<https://www.blm.gov/info/notices>
 
-​Centuries ago, Benjamin Franklin said this….
+Centuries ago, Benjamin Franklin said this….
 "if you fail to plan, you are planning to fail."
 
 Thank You all for reading and using our local website.
 
-Chic         David
+Chic         David
 
 InlandMWRoutes.com

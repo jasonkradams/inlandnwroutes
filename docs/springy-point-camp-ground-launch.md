@@ -1,19 +1,26 @@
 ---
 tags:
+
 - Paddling & Rivers
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
+
 - label: Elevation
   icon: terrain
   value: 2066’
+
 - label: Length and Acreage
   icon: vector-square
   value: varies
+
 - label: Maps
   icon: map
   value: IPNF, Sandpoint Topo
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°14’13" n. 116°35’12" w
@@ -24,7 +31,6 @@ stats:
 ## Description
 
 The Springy Point Camp Grounds have all the amenities a good camp ground should have, including a good swimming area, restrooms and many camp sites
-​
 
 ## Attractions
 
@@ -51,4 +57,4 @@ Burger a Express, Mr Sub, Eichardt’s, and Jalapeños.
 
 ## Photo gallery
 
-## No images. to contribute, contact chic ​
+## No images. to contribute, contact chic

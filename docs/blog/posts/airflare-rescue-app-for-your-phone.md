@@ -1,28 +1,32 @@
 ---
 title: "Blog #9: Airflare rescue app for your phone"
+
 date: 2023-05-26
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
-
 
 ![Picture](../../assets/images/5262023558p.png)
 
 <!-- more -->
 
 Airflare.
-​
-The AirFlare app is an inexpensive app that allow yourself to be found if lost or merely misplaced.
-Because it is an app for your phone, there's no weight to carry.
-It has the ability to show rescue personnel where you are in case of an emergency.
-if you are a skier, it can locate you even if you are buried in snow. It can look thru forests to locate a lost hiker, and so much more.
-It can use as little as one cell tower to send a text, and has the capability to find and communicate with a lost hiking partner within less than half a mile from you.
+
+The AirFlare app is an inexpensive app that allow yourself to be found if lost or merely misplaced.
+Because it is an app for your phone, there's no weight to carry.
+It has the ability to show rescue personnel where you are in case of an emergency.
+if you are a skier, it can locate you even if you are buried in snow. It can look thru forests to locate a lost hiker, and so much more.
+It can use as little as one cell tower to send a text, and has the capability to find and communicate with a lost hiking partner within less than half a mile from you.
 
 Log onto
-[<https://airflare.com](https://airflare.com>/)   To learn more.
+[<https://airflare.com](https://airflare.com>/)   To learn more.
 This website offers all of us peace of mind and an avenue for us to initiate our oun rescue, and more.
 For a mere $4.99 PER YEAR, after a free trail, you can turn your cellphone into a rescue devise and a way to communicate with others you are hiking with.
 This system uses technologies that allow you to text rescuers with as little as one cell tower, or in some cases satellite connections.

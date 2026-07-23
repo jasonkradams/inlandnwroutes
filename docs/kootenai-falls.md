@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Waterfalls
+
 stats:
+
 - label: Waterfall
   icon: waterfall
   value: Kootenai Falls
+
 - label: Drop
   icon: arrow-collapse-down
   value: Several
+
 - label: Waterfall Type
   icon: waterfall
   value: several
+
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: .5 miles
+
 - label: Maps
   icon: map
   value: Kootenai National Forest, Cabinet Ranger District 406.827.3533,
+
 - label: GPS
   icon: crosshairs-gps
   value: 48°45’53" n 115°76’?38" w
@@ -34,7 +42,7 @@ Going right will take you to the bulk of the falls, while going left will take y
 
 All waterfalls are a hazard, due to their slippery nature. always be extra careful near any waterfall.
 
-Going right.  
+Going right.
 The falls come into view after about 5 minutes. from the "Y".
 There are great Block type drops that are very wide, as well as bowls that the river drops into. You will also notice several islands all along the river course. Hike east, up stream for many more views of this mighty river.
 If you are a photo enthusiast, be sure to take your tripod, polarizing filter, and cable release.
@@ -49,7 +57,7 @@ Stromatolites date back to 3.5 billion years. But these samples are not that old
 Stomatolite mean "layer rock".
 
 Not too long ago, the swinging bridge was replaced, with a new modern one. Take a walk over to the other side.
-​There are additional views of the Kootenai River, and even a trail along its north shore. But be aware, the drop offs are dangerous.
+There are additional views of the Kootenai River, and even a trail along its north shore. But be aware, the drop offs are dangerous.
 When you head back to your car, stop by the concession stand for an ice cream or other treats.
 
 The kootenai river is huge and very dangerous if you get too close to the edge. please keep your children safe.
@@ -61,8 +69,8 @@ From Hwy 95 north of Bonners Ferry, turn right (E) onto Hwy 2.. You will drive t
 At about 4.4 miles from Hwy 56, the falls parking is on the left (N) side of the highway.
 Please, use extra care as you cross over the on coming lane of traffic.
 
-From  Clark Fork
-Head east on Hwy 200 to the left (N) turn onto Hwy 56. 
+From  Clark Fork
+Head east on Hwy 200 to the left (N) turn onto Hwy 56.
 Hwy 56 is by far the most beautiful drive in the area. On your right (E) is the Cabinet Mountain Wilderness, while on your left (W) is the Proposed Scotchman Peaks Wilderness. Do this drive slow, and look around as you head north.
 After a little over 35 miles, you will come the junction with Hwy 2. (Restrooms)
 Turn right (E) onto Hwy 2 to the parking area for Kootenai Falls.
@@ -72,8 +80,8 @@ Please, use extra care as you cross over the on coming lane of traffic
 
 ## Cool things close by
 
-The Cabinet Mountain Wilderness, with trails to Cedar Lakes. 
-The Proposed Scotchman Peaks Wilderness with trails to Pillick Ridge, Scotchmans Peak, Ross Creek Cedars, and  L.& U. Spar Lakes
+The Cabinet Mountain Wilderness, with trails to Cedar Lakes.
+The Proposed Scotchman Peaks Wilderness with trails to Pillick Ridge, Scotchmans Peak, Ross Creek Cedars, and  L.& U. Spar Lakes
 
 ## Hazards
 

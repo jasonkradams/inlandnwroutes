@@ -1,38 +1,55 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Difficult
+
 - Day Hiking
+
 - Backpacking
+
 - Mt. Biking
+
 - Equestrian
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, mt. biking, and equestrian.
+
 - label: Distance
   icon: map-marker-distance
   value: '10.6 miles RT. About a 14 mile loop with Trail #257'
+
 - label: Elevation
   icon: terrain
   value: 2112’
+
 - label: Difficulty
   icon: speedometer
   value: difficult
+
 - label: Maps
   icon: map
   value: IPNF, CDA River Ranger District, Mount CDA Topo
+
 - label: GPS
   icon: crosshairs-gps
   value: Beauty Bay CG. 47°36’27" N 116°40’ 08" W.
+
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
+
 - label: Kootenai County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.446.1300
 notes:
+
 - Idaho panhandle national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -43,9 +60,9 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​The trailhead for Trail # 79, starts at a parking area at the Beauty Creek Campground. Hike due south across Beauty Creek and up the trail. After 15 switchbacks, you will come to a road that you turn right onto to the Mount CDA viewpoint and campgrounds
+The trailhead for Trail # 79, starts at a parking area at the Beauty Creek Campground. Hike due south across Beauty Creek and up the trail. After 15 switchbacks, you will come to a road that you turn right onto to the Mount CDA viewpoint and campgrounds
 
-Some of the switchbacks are very technical for hikers, and scary for mt. bikers, so be careful.
+Some of the switchbacks are very technical for hikers, and scary for mt. bikers, so be careful.
 
 ## Option #1
 

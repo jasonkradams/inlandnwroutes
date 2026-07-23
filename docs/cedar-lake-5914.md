@@ -1,55 +1,74 @@
 ---
 tags:
+
 - Lakes
+
 - Difficult
+
 - Hiking
+
 - Backpacking
+
 - Fishing
+
 - Camping
+
 - Swimming
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Hiking, backpacking, fishing, camping and swimming
+
 - label: Distance
   icon: map-marker-distance
   value: 12 miles RT
+
 - label: Elevation Gain
   icon: elevation-rise
   value: 3108’ to upper lake
+
 - label: Acres
   icon: vector-square
   value: (lower) 65…..(upper) 19.4
+
 - label: Difficulty
   icon: speedometer
   value: Difficult
+
 - label: Maps
   icon: map
   value: Kootenai National Forest, Scenery Mt., Treasure Mountain
+
 - label: GPS
   icon: crosshairs-gps
   value: Upper 48°22’25"N 115°44’58"W. Lower 48°22’45"N 115°44’27"W
+
 - label: Ranger District
   icon: pine-tree
   value: Libby R.D. 406.293.7773
+
 - label: Lincoln County Sheriff
   icon: shield-account
   value: 911 or 406.293.4112
 notes:
+
 - Kootenai national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 
 # Cedar Lake 5914
 
-*​lower 5520’ & upper cedar 5888’ lakes & dome mountain 7552’*
+*lower 5520’ & upper cedar 5888’ lakes & dome mountain 7552’*
 
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​The Cedar Lakes trail starts from the north end of the wilderness off Highway 2, just west of Libby. Most of the trail skirts Cedar Creek to the lower lake. When the creek is close, wonder over and look at the creek bed. In places the bed rock is jet black with bright red rock inlay. Many small cascades offer great photo ops. The lower lake (5520') is smaller than the upper lake 5888'), but offers just as many spectacular views.
+The Cedar Lakes trail starts from the north end of the wilderness off Highway 2, just west of Libby. Most of the trail skirts Cedar Creek to the lower lake. When the creek is close, wonder over and look at the creek bed. In places the bed rock is jet black with bright red rock inlay. Many small cascades offer great photo ops. The lower lake (5520') is smaller than the upper lake 5888'), but offers just as many spectacular views.
 The upper lake is about 400' above, and is flanked by the enormous Dome Mountain 7552'.
-This mountain's  face rivals Leigh Lake's Snowshoe face in size and immensity.
+This mountain's  face rivals Leigh Lake's Snowshoe face in size and immensity.
 
 ## Option #1
 
@@ -71,8 +90,8 @@ From Libby, head west on Highway 2 for about 3 miles and turn left (south) up Ro
 ## Hazards
 
 The trail is steep with 3108 feet of gain. There was a fire in the area, so shade is a premium along this trail.
-​Because the area is so scenic, start early to enjoy all there is to see.
-​There are huckleberries for miles up the trail all the way to the camp. I found the first bear while brushing my teeth and headed to bed. The second one was in the hucks next to the trail on the way back out.
+Because the area is so scenic, start early to enjoy all there is to see.
+There are huckleberries for miles up the trail all the way to the camp. I found the first bear while brushing my teeth and headed to bed. The second one was in the hucks next to the trail on the way back out.
 You really should consider gaining the ridge above the lake but be extremely careful crossing the manway. If you slip or trip and fall, it would be game over.
 
 ## Cool things close by
@@ -81,8 +100,8 @@ Kootenai River & Falls, Ross Creek Cedars, Dome & Sugarloaf loop backpack, and L
 
 ## R & p
 
-Kaiju Bar & Grill.   Henry’s in Libby near Roseaurs, Clark Fork Pantry & Squeeze In in Clark Fork. Eicharts, Mr Sub & Jalapeños in Sandpoint
-​In Libby, try the Shed south of town on Hwy 2
+Kaiju Bar & Grill.   Henry’s in Libby near Roseaurs, Clark Fork Pantry & Squeeze In in Clark Fork. Eicharts, Mr Sub & Jalapeños in Sandpoint
+In Libby, try the Shed south of town on Hwy 2
 
 *Picture (Image missing)*
 
@@ -102,7 +121,7 @@ Kaiju Bar & Grill.   Henry’s in Libby near Roseaurs, Clark Fork Pantry & Sque
 
 ---
 
-![Picture](assets/images/p28.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p28_orig.jpeg" }
+![Picture](assets/images/p28.jpg)"
 
 ## Named the manway because a boy could not walk across it
 

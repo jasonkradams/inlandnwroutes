@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Paddling & Rivers
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: longest straight line paddle is about 6 miles
+
 - label: Elevation
   icon: terrain
   value: 2239’
+
 - label: Length and Acreage
   icon: vector-square
   value: About 6 miles & 3800 acres.
+
 - label: Maps
   icon: map
   value: Hayden Lake & Athol topos
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°45’14" n 116°45’17" w
+
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300
@@ -33,9 +41,8 @@ Explore the shore line to the SW of the launch into Honeysuckle Bay, then out in
 
 Hayden Lake is uncrowded during the week, so plan ahead.
 There are several large bays to explore to the east of the launch, including Mokins Bay.
-​Along the north shore line, about 1.7 miles from Honeysuckle is a development with a man made waterfall that is nice to see and hear while you paddle.
+Along the north shore line, about 1.7 miles from Honeysuckle is a development with a man made waterfall that is nice to see and hear while you paddle.
 There is a long bay heading north that has another launch. Sportsman Park is small, but usually less crowded.
-​
 
 ## Directions
 

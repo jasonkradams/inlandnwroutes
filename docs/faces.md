@@ -3,6 +3,7 @@
 ---
 
 > [!TIP]
+
 > **Interactive Photo Gallery**: Click on any photo to open the high-resolution lightbox modal. These natural formations take a bit of imagination to spot the faces!
 
 ---
@@ -14,6 +15,7 @@
     <img src="assets/images/12272021748p.jpg" alt="A Mother Holding Her Baby - Stevens Peak" />
   </a>
   <div class="photo-card-caption">A Mother Holding Her Baby - Stevens Peak</div>
+
 </div>
 
 <div class="photo-card">
@@ -70,6 +72,7 @@
     <img src="assets/images/12272021812p-copy.jpg" alt="Bigfoot - Glidden Lakes" />
   </a>
   <div class="photo-card-caption">Bigfoot - Glidden Lakes</div>
+
 </div>
 
 <div class="photo-card">
@@ -84,6 +87,7 @@
     <img src="assets/images/2021116-51-jpeg-1.jpg" alt="Energizer Bunny - Palouse Falls" />
   </a>
   <div class="photo-card-caption">Energizer Bunny - Palouse Falls</div>
+
 </div>
 
 <div class="photo-card">
@@ -98,6 +102,7 @@
     <img src="assets/images/12272021936p.jpg" alt="A Face by David - Cedar Lake" />
   </a>
   <div class="photo-card-caption">A Face by David - Cedar Lake</div>
+
 </div>
 
 </div>

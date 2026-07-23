@@ -1,39 +1,55 @@
 ---
 tags:
+
 - Lakes
+
 - Easy to Moderate
+
 - Hiking
+
 - Backpacking
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Hiking and Backpacking
+
 - label: Distance
   icon: map-marker-distance
   value: Trout 7 miles RT, Big Fisher 12 miles RT
+
 - label: Elevation
   icon: terrain
   value: 2343' gain 1032' loss
+
 - label: Acres
   icon: vector-square
   value: '6.1'
+
 - label: Difficulty
   icon: speedometer
   value: Easy to Moderate
+
 - label: Maps
   icon: map
   value: IPNF - Kaniksu N.F., USGS - Pyramid Peak, ID
+
 - label: GPS
   icon: crosshairs-gps
   value: 48° 48’ 19.7"n 116° 35’ 57.7"w
+
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561
+
 - label: Boundary County Sheriff
   icon: shield-account
   value: 911 or 208.267.3151
 notes:
+
 - Idaho panhandle national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -75,7 +91,7 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
 ## Photo gallery
 
-![Picture](assets/images/p722.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p722_orig.png" }
+![Picture](assets/images/p722.png)"
 
 ## Along the rocky trail to trout lake
 
@@ -89,7 +105,7 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
 *Picture (Image missing)*
 
-## Trout lake & peak from the south east.  image by chris herath
+## Trout lake & peak from the south east.  image by chris herath
 
 ![Picture](assets/images/p724.png)
 
@@ -115,7 +131,7 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
 ![Picture](assets/images/p727.png)
 
-Taking a nap, after lunch in the sun above big fisher lake. ​this was the only dry spot to take a nap
+Taking a nap, after lunch in the sun above big fisher lake. this was the only dry spot to take a nap
 
 ---
 
@@ -123,4 +139,4 @@ Taking a nap, after lunch in the sun above big fisher lake. ​this was the only
 
 ## Big fisher lake, with the selkirk’s highest point 7709’ above
 
-Today we hiked a spectacular trail to Trout Lake. It wasn't nessecarily  steep or long. But it was especially beautiful. Along the trail were large granite boulders, ancient stands of trees, and fall colors. As we approached Trout Lake, the boulders became the size of mansions. The trail descends steeply and winds around boulders, until the lake below, comes into view. As we walked to the lake , we climbed onto a large, nearly flat boulder for a platform for photography. Three quarters of the lake was frozen over,  while the remainder was mirror smooth. High behind the lake, Peak 7500' stands proud. With many cliffs making up the face , and an occasional  patch of sub-alpine fir, this peak is majestic. The trail continues on past the lake, and slowly climbs  a remarkable ridge to a saddle above Big Fisher Lake. Just before the saddle we encounter 6 inches of snow. We continue on to Peak 7484' for views and a place to enjoy our lunch. North of the summit and about 20 vertical feet below, I found the only non snowy spot.  After a few pictures, we settle down to ham and cream cheese sandwiches.  It wasn't long before we all found our spot for a nap. I don't know how long we slept, but the warm sun and still air acted like a sleep aid. When I woke, I set my camera on my tripod, used the 10 second delay, and laid  down in my spot for the image. Soon it was time to head down.  Before we left Peak 7484'  I shot a long distant photo of Fisher Peak in the Canadian Rockies west of Cranbrook, and the many peaks of the American Selkirks all around us. This 11 mile round trip hike soon became my favorite trail. On the way out we had views of the Seven Sisters in line, with Chimney Rock off to the west.                                  ​            chic  10.18.11
+Today we hiked a spectacular trail to Trout Lake. It wasn't nessecarily  steep or long. But it was especially beautiful. Along the trail were large granite boulders, ancient stands of trees, and fall colors. As we approached Trout Lake, the boulders became the size of mansions. The trail descends steeply and winds around boulders, until the lake below, comes into view. As we walked to the lake , we climbed onto a large, nearly flat boulder for a platform for photography. Three quarters of the lake was frozen over,  while the remainder was mirror smooth. High behind the lake, Peak 7500' stands proud. With many cliffs making up the face , and an occasional  patch of sub-alpine fir, this peak is majestic. The trail continues on past the lake, and slowly climbs  a remarkable ridge to a saddle above Big Fisher Lake. Just before the saddle we encounter 6 inches of snow. We continue on to Peak 7484' for views and a place to enjoy our lunch. North of the summit and about 20 vertical feet below, I found the only non snowy spot.  After a few pictures, we settle down to ham and cream cheese sandwiches.  It wasn't long before we all found our spot for a nap. I don't know how long we slept, but the warm sun and still air acted like a sleep aid. When I woke, I set my camera on my tripod, used the 10 second delay, and laid  down in my spot for the image. Soon it was time to head down.  Before we left Peak 7484'  I shot a long distant photo of Fisher Peak in the Canadian Rockies west of Cranbrook, and the many peaks of the American Selkirks all around us. This 11 mile round trip hike soon became my favorite trail. On the way out we had views of the Seven Sisters in line, with Chimney Rock off to the west.                                              chic  10.18.11

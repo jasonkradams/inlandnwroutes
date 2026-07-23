@@ -1,19 +1,26 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
+
 - label: Elevation
   icon: terrain
   value: 2067’
+
 - label: Length and Acreage
   icon: vector-square
   value: varies
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°12’36" n 116°15’18" w
+
 - label: Bonner County Sheriff
   icon: shield-account
   value: 208.263.8417
@@ -24,7 +31,7 @@ stats:
 ## Description
 
 After putting in at the landing, you can choose your route and destination.
-​On your right as you paddle out of the slough, is the David Thomson Wildlife Preserve. On the south end of this peninsula is a pictograph you can view from your boat.
+On your right as you paddle out of the slough, is the David Thomson Wildlife Preserve. On the south end of this peninsula is a pictograph you can view from your boat.
 Due south just over 3 miles is the Johnson Creek Recreation Area.
 
 ## Attractions

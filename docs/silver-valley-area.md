@@ -2,10 +2,10 @@
 
 ## Silver valley history
 
-Shoshone Shoshone County was formed under the Territory of Washington on January 9, 1861. Washington Territory legislators established the county in anticipation of the gold rush that occurred after the discovery of gold at Pierce in October, 1860. Their location of the northern boundary at a line drawn due east from the mouth of the Clearwater River, unknowingly placed the emerging mining settlement at Pierce outside of the county's boundaries while residents of the new Mormon settlement at Franklin were unknowingly within the established boundaries. Regardless of the geographic reality, the county seat was at Pierce. Growth at Pierce was so rapid that Shoshone County boasted the largest vote of any county within Washington Territory at the territorial election of July 8, 1861. In less than a year, Shoshone County contained additional settlements at Lewiston, Elk City, Newsome, and Florence. On December 20, 1861, Nez Perce and Idaho counties were created from most of the original territory of Shoshone County. On the following day, Shoshone's boundaries were shifted northward, containing most of present-day Clearwater County and a portion of present-day Shoshone County.​
+Shoshone Shoshone County was formed under the Territory of Washington on January 9, 1861. Washington Territory legislators established the county in anticipation of the gold rush that occurred after the discovery of gold at Pierce in October, 1860. Their location of the northern boundary at a line drawn due east from the mouth of the Clearwater River, unknowingly placed the emerging mining settlement at Pierce outside of the county's boundaries while residents of the new Mormon settlement at Franklin were unknowingly within the established boundaries. Regardless of the geographic reality, the county seat was at Pierce. Growth at Pierce was so rapid that Shoshone County boasted the largest vote of any county within Washington Territory at the territorial election of July 8, 1861. In less than a year, Shoshone County contained additional settlements at Lewiston, Elk City, Newsome, and Florence. On December 20, 1861, Nez Perce and Idaho counties were created from most of the original territory of Shoshone County. On the following day, Shoshone's boundaries were shifted northward, containing most of present-day Clearwater County and a portion of present-day Shoshone County.
 
 This new boundary alignment left the existing settlement at Pierce and the new settlement of Orofino as the county's only settlements. The county's population dwindled as prospectors abandoned Pierce for gold prospects at Elk City and Florence. Idaho Territory was created in 1863 and the first census of the territory in that year enumerated only 574 residents in Shoshone County. The county boundaries were expanded to include the Silver Valley by the legislative assembly of Idaho Territory when it officially created Shoshone County on February 4, 1864. The expanded territory contained no population at the second census of Idaho Territory in 1864. All of the county's 276 residents were located at Pierce and Orofino.
-​
+
 Until 1904, Shoshone County included present-day Clearwater county to the south. That portion was annexed by Nez Perce County for several years and then was established as a new county in 1911. When the Silver Valley population rose dramatically in the 1880s, the seat was moved to Murray in 1884 (and to Wallace in 1898) to better serve the majority of the county's population. The southern area's population increased with homesteading in the Weippe area in the late 1890s. The vast distance and time required for travel to Wallace from the Clearwater area prompted the southern portion to move to Nez Perce County.
 
 Hard rock miners in Shoshone County protested wage cuts with a strike in 1892. After several lost their lives in a shooting war provoked by discovery of a company spy, the U.S. army forced an end to the strike. Hostilities erupted once again in 1899 when, in response to the company firing seventeen men for joining the union the miners dynamited the Bunker Hill and Sullivan mill.
@@ -49,8 +49,6 @@ The Shoshone Recreation Inc., a subsidiary of the Bunker Hill Co., purchased Jac
 
 Prior to closing the ski area, Bunker Hill Limited approached the city of Kellogg to determine if they had any interest in operating the ski area. In 1984, the city entered into a lease arrangement with the mining company giving the city the right to operate the ski area in exchange for the payment of all property taxes levied against the ski area land and improvements. An adult lift ticket increased from $12 to $14 dollars for the first time since the resort opened.
 
-​
-
 ---
 
 ## Silver Mountain Resort
@@ -73,7 +71,7 @@ Significant cost overruns during the construction phase of the project led to an
 
 In the early 2000’s the Morning Star Lodge and Gondola Village complex began to take shape, followed in 2008 by the addition of Silver Rapids, Idaho’s Largest Indoor Waterpark, and the surface lift and winter tubing park on top of the mountain. Business was booming, and the expansion was moving fast. The first nine holes of Galena Ridge golf course were opened in 2010. As a result of a challenging financial climate, the ski in ski out village and massive ski area expansion was put on permanent hold. Silver Mountain was officially listed for sale, but continued operating and moving forward as Jeld-wen looked for a buyer.
 
-​Check out the videos of the Galena Ridge Golf Course. <https://www.silvermt.com/village/golf/course-details>
+Check out the videos of the Galena Ridge Golf Course. <https://www.silvermt.com/village/golf/course-details>
 
 Following the financial crisis, Silver Mountain continued operating year-round. Small improvements continued to be made, and things started to pick back up. Moving forward, summer became an increasingly important part of Silver’s business. In 2013 Silver Mountain relaunched their mountain bike program and officially opened Silver Mountain Bike Park. Building on the remains of the previous bike trail network, Silver began rapidly expanding their trail system, and revamping their mountain biking experience completely. Over the next four seasons Silver Mountain was rated #1 in the Northwest three times, and became a host to many of the region’s premier mountain bike events. From 2013 to 2016 Silver Mountain added new winter and summer events, cut new ski runs, added an additional terrain park, and experienced a surge of popularity. With the incredible range of activities offered, Silver was rediscovered as a year-round destination, and became a popular destination for corporate groups and meetings.
 
@@ -90,8 +88,6 @@ Since 2016 Silver Mountain, has reopened the Jackass Snack Shack, added Mo’s F
 On top of Kellogg Peak, is a replica of the fire tower that used to be there in the old days
 
 *(Image missing)*
-
-​
 
 ---
 

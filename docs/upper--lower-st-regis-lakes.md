@@ -1,41 +1,59 @@
 ---
 tags:
+
 - Lakes
+
 - Easy
+
 - Day Hiking
+
 - Backpacking
+
 - Fishing
+
 - Backcountry. Skiing
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, fishing, Backcountry. Skiing.
+
 - label: Distance
   icon: map-marker-distance
   value: 6 miles RT
+
 - label: Elevation
   icon: terrain
   value: gains 1090 verts
+
 - label: Acres
   icon: vector-square
   value: '8.62'
+
 - label: Difficulty
   icon: speedometer
   value: easy
+
 - label: Maps
   icon: map
   value: I.P.N.F., LOLO N.F., Lookout Pass topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°42’65" n -115°75’10" w
+
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
+
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
 notes:
+
 - Idaho panhandle national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -44,7 +62,7 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​St.Regis Lakes are located in Montana SW of the Lookout Pass Ski Area. The trail starts at the old railroad's hairpin turn up the south side of the ski resort. If you don’t have a high clearance vehicle or 4 wheel drive, park near the south chairlift base. Walk the road west for about a mile to the official trailhead. Take Trail #267 south west up thru a canyon crossing the river three times before heading up to the lakes. At the second river/creek crossing, the trail continues for a short distance, then bear right (west). At the trails third crossing of the river, the trail cuts up hill for about 400' to the lakes basin. The first lake you come to is actually the Upper St. Regis Lakes at 5990' while the second lake is the lower lake at 5559'. There are several campsite around the lake. Follow the trail thru the woods to the west, and  you will find the lower lake. To the west is the very scenic ridge between St. Regis Lakes and U & L Stevens Lakes, and also is the  Idaho Montana boarder, State Line Ridge.
+St.Regis Lakes are located in Montana SW of the Lookout Pass Ski Area. The trail starts at the old railroad's hairpin turn up the south side of the ski resort. If you don’t have a high clearance vehicle or 4 wheel drive, park near the south chairlift base. Walk the road west for about a mile to the official trailhead. Take Trail #267 south west up thru a canyon crossing the river three times before heading up to the lakes. At the second river/creek crossing, the trail continues for a short distance, then bear right (west). At the trails third crossing of the river, the trail cuts up hill for about 400' to the lakes basin. The first lake you come to is actually the Upper St. Regis Lakes at 5990' while the second lake is the lower lake at 5559'. There are several campsite around the lake. Follow the trail thru the woods to the west, and  you will find the lower lake. To the west is the very scenic ridge between St. Regis Lakes and U & L Stevens Lakes, and also is the  Idaho Montana boarder, State Line Ridge.
 
 ## Option #1
 
@@ -106,7 +124,7 @@ Radio Brewing in Kellogg, Pizza Factory and Muchacho’s Tacos in Wallace
 
 ![Picture](assets/images/2021115353879-jpeg-1.jpg)
 
-## On the ridge overlooking stevens lake and peak ​st. regis lakes are left center
+## On the ridge overlooking stevens lake and peak st. regis lakes are left center
 
 ![Picture](assets/images/11062021348p.jpg)
 

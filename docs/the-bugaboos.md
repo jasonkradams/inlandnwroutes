@@ -1,26 +1,37 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 - Day Hiking
+
 - Backpacking
+
 - Hut Stays
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, hut stays, world class rock climbing.
+
 - label: Distance
   icon: map-marker-distance
   value: About 10.5 miles RT to Cobalt Lake. Conrad Kain Hut about 6.2 miles RT, but
     it takes most of a day, and is very scenic.
+
 - label: Elevation Gain
   icon: elevation-rise
   value: Cobalt Lake, 2297’. Conrad Kain Hut, 2640’
+
 - label: Difficulty
   icon: speedometer
   value: Moderately Difficult and complicated to the hut
+
 - label: Maps
   icon: map
   value: Howser Creek. 82K/10 topo
+
 - label: GPS
   icon: crosshairs-gps
   value: Conrad Kain Hut 50°44’15" N 116°45’458" W
@@ -39,7 +50,7 @@ Strong reliable footwear is essential.
 After a short distance, you will become enamored with this trail. As stated above this trail has some exposure. You will edge along the side of a cliff, protected by chains to use as hand holds. At one point the trail comes to a very sturdy metal ladder drilled into the cliff face. The ladder is so stout, you could put a hiker on each rung, and it would not distort.
 Further up this trail the views become spectacular. Each creek crossing has some sort of a bridge to make crossings safer.
 Once you get up towards the hut, you will wonder thru beautiful meadows, filled with small streams and an abundance of wildflowers.
-​Just below the hut, you get your first view of the hut, which sets on the edge of a cliff. Up behind the hut is the Snowpatch Spire.
+Just below the hut, you get your first view of the hut, which sets on the edge of a cliff. Up behind the hut is the Snowpatch Spire.
 
 ## Option #1
 
@@ -57,7 +68,7 @@ Another hike you should do while at the Bugs, is the Cobalt Lake Hike.
 The trial to Cobalt Lake starts across the road from the Canadian Mountain Holiday’s Lodge.
 The trail will enter an Alpine Larch forest that holds many switchbacks, until it wonders thru an open high meadows. After many more switchbacks, the Bugaboo Spires come into view. You are now on the Cobalt Ridge, about 2 miles from the lake.
 We stopped here for lunch with a view. The next day we were hiking into the Conrad Kain Hut, and one of our hiking partners was pregnant.
-​Even if you only go to the Cobalt Ridge for the views, the hike is well worth the effort.
+Even if you only go to the Cobalt Ridge for the views, the hike is well worth the effort.
 
 ## Directions
 
@@ -67,7 +78,7 @@ Drive about almost 2 miles to a right hairpin turn, where you turn onto Bugaboo 
 ## Hazards
 
 THE ROAD TO THE BUGS PARKING AREA IS THE CRUZ OF THIS OUTING. PLEASE USE CAUTION. High clearance vehicles are recommended.
-​drive slow and carefully.
+drive slow and carefully.
 Be aware that this short 3.5 mile trail is steep, rugged and incredible beautiful. Please pay close attention when you are hiking this trail.
 
 ## Cool things close by

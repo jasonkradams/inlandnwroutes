@@ -1,33 +1,45 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 stats:
+
 - label: Acres
   icon: vector-square
   value: '3850'
+
 - label: Summit Elevation
   icon: terrain
   value: 6807'
+
 - label: Base Elevation
   icon: terrain
   value: 3887'
+
 - label: Verts
   icon: arrow-expand-vertical
   value: 2920'
+
 - label: Runs
   icon: ski
   value: '119'
+
 - label: Lifts
   icon: gondola
   value: '8'
+
 - label: Distance from Spokane
   icon: map-marker-distance
   value: 124 miles
+
 - label: Amenities
   icon: star-outline
   value: xc, ns, cat s,
 notes:
+
 - Redresort.com
+
 - 800.663.0105
 ---
 
@@ -40,9 +52,10 @@ notes:
 ## Description
 
 Red mountain is actually one of four peaks. of which red mt is the smallest.
-​red mt is located just 2.5 miles from rossland, b.c.
+red mt is located just 2.5 miles from rossland, b.c.
 
-The Red Mountain Ski Area is one of the oldest ski operations in North America. The mountains now included in the resort have been skied since the late 1890s. In 1947, the volunteer Red Mountain Ski Club was formed by the amalgamation of two local ski clubs. Its members built the Red Mountain Lodge (originally the Black Bear Compressor Building, moved and refitted) and the Red Chair Lift - the first chairlift in Western Canada. The ski hill was operated by a non-profit society for 40 years and is now one of the region’s most recognized recreational resource. Red Mountain itself is Rossland’s most significant landmark; its historic significance being the primary site of the gold mining that developed the City of Rossland. 
+The Red Mountain Ski Area is one of the oldest ski operations in North America. The mountains now included in the resort have been skied since the late 1890s. In 1947, the volunteer Red Mountain Ski Club was formed by the amalgamation of two local ski clubs. Its members built the Red Mountain Lodge (originally the Black Bear Compressor Building, moved and refitted) and the Red Chair Lift - the first chairlift in Western Canada. The ski hill was operated by a non-profit society for 40 years and is now one of the region’s most recognized recreational resource. Red Mountain itself is Rossland’s most significant landmark; its historic significance being the primary site of the gold mining that developed the City of Rossland.
+
 Red Mountain Ski Area is known worldwide, and has successfully hosted regional, national, and international races. It is very attractive to visitors in the winter and is a recreational anchor to much of the seasonal and permanent residency in Rossland.
 
 ---
@@ -56,6 +69,7 @@ Click for Current NOAA Weather Conditions
 ---
 
 The Red Mountain Ski Area is located in the Rossland range in southeastern BC. It encompasses 1700 hectares of land in the northwestern portion of the City of Rossland and is anchored by Red Mountain, Granite Mountain, Grey Mountain and the Red Mountain
+
 lodge. The entrance to the Red Mountain Ski Area is off Highway 3B approximately three kilometers from Rossland’s historic downtown.
 Heritage Value:
 The Red Mountain Ski Area has played a major role in Rossland’s identify for over 75

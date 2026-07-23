@@ -1,15 +1,20 @@
 ---
 title: "Blog #54: Blisters"
+
 date: 2024-04-17
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 
-
 Have any of you hiked into a lake or peak, only to feel your heels on fire?
+
 There is a 100% treatment for blisters and related pain.
 And it’s not Mole Skins. However, I carry them for padding.
 You may have to order SPENCO 2nd Skin Burn Pads, online, but I can guarantee you, you will walk away without any pain from that mountain top, or Lake.
@@ -28,8 +33,8 @@ I had to use dental floss to close a friends puncture wound, about 200verts from
 If you don’t learn anything from these BLOGS, learn that if you are prepared to succeed, your chances are much higher.
 When you arrive at the trailhead, ask your fellow hikers to let everyone know when hot spots or full blown blisters are bothering them. Explain that the sooner a person gets treated, the less pain they will have to endure.
 Thank You for being our readers.
-​
-Chic             David
+
+Chic             David
 
 <!-- more -->
 

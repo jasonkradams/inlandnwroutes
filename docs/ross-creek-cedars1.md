@@ -1,29 +1,41 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 - Scenic Nature Hike
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Scenic Nature Hike
+
 - label: Elevation
   icon: terrain
   value: Minimal
+
 - label: Difficulty
   icon: speedometer
   value: easy & Wheel chair accessible
+
 - label: Maps
   icon: map
   value: Kootenai N.F., Sawtooth Mountain topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 48°12’30" n 115°54’53" w
+
 - label: Ranger District
   icon: pine-tree
   value: Three River R.D. 406.295.4693
 notes:
+
 - DISTANCE 1 mile loop +
+
 - 'LINCOLN COUNTY, MT SHERIFF: 911 or 406.293.4112'
+
 - Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 
@@ -34,11 +46,11 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​For the most part, this trail is level as it winds thru a large stand of Western Red Cedars.
+For the most part, this trail is level as it winds thru a large stand of Western Red Cedars.
 Some of the trees in this preserve are 5 to 8 feet in diameter and exist in all ages of life.
 The 1 mile loop trail takes you close and in some instances thru some of the trees.
 Across from the restrooms are picnic tables, and the creek here has hundreds of cairns built on the stream bed.
-​do not miss this walk.
+do not miss this walk.
 
 ## Option #1
 
@@ -83,7 +95,7 @@ This braided log was a beautiful part of the cedars, but someone cut it out a fe
 
 *Picture (Image missing)*
 
-## My friend erwin by a big western red cedar. ​erwin is almost as old as this cedar
+## My friend erwin by a big western red cedar. erwin is almost as old as this cedar
 
 *Picture (Image missing)*
 

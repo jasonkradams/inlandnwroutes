@@ -1,37 +1,53 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 - Moderate
+
 - Day Hiking
+
 - Backpacking
+
 - Equestrian
+
 - Mt Biking
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, equestrian, and mt biking
+
 - label: Distance
   icon: map-marker-distance
   value: 5.5 miles RT
+
 - label: Elevation
   icon: terrain
   value: 1100’
+
 - label: Difficulty
   icon: speedometer
   value: moderate
+
 - label: Maps
   icon: map
   value: IPNF, Lane Topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°35’06" n 116°38’05" w
+
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
+
 - label: Kootenai County Sheriff
   icon: shield-account
   value: CALL 911 FIRST 0r 208.446.1300
 notes:
+
 - Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 

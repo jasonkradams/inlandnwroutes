@@ -1,29 +1,37 @@
 ---
 tags:
+
 - Winter & Skiing
+
 stats:
+
 - label: Phone
   icon: phone
   value: 250.498.4086
+
 - label: Acres
   icon: vector-square
   value: 360+240 glades
+
 - label: Summit Elevation
   icon: terrain
   value: 6995'
+
 - label: Base Elevation
   icon: terrain
   value: 5665'
+
 - label: Verts
   icon: arrow-expand-vertical
   value: 1300'
 notes:
+
 - Baldyresort.com
 ---
 
 # Mount Baldy Ski Resort
 
-*Mount baldy ski resort    oliver, b.c., canada*
+*Mount baldy ski resort    oliver, b.c., canada*
 
 ## of named runs: 36
 
@@ -51,7 +59,7 @@ Following this, the last four miles of the access road was constructed, the lodg
 Baldy Mountain Resort opened for the 1968-69 season, with the McKinney T-bar and beginners rope tow operating. There were snowcat rides to the top on Sunday afternoons – $1.00 per ride.
 
 In the early days, grooming was done by soft-packing with a culvert towed by a Nodwell snowcat. Once when the snowcat broke down, all the local kids were recruited to ski pack one run.
-In the mid-eighties, the original owners were aging, and some prospective purchasers failed to complete.  After a missed season with an unsuccessful deal before the courts, Borderline Ski Club then leased the operation from the original owners. The club ran a bare-bones operation with new skiers unloading at Tower 3 on the Baldy lift. The McKinney Tee re-opened after the club had been operating for a few years.
+In the mid-eighties, the original owners were aging, and some prospective purchasers failed to complete.  After a missed season with an unsuccessful deal before the courts, Borderline Ski Club then leased the operation from the original owners. The club ran a bare-bones operation with new skiers unloading at Tower 3 on the Baldy lift. The McKinney Tee re-opened after the club had been operating for a few years.
 
 The recent purchase of Baldy Mountain Resort by an investment group in 2016, whose plan is to revitalize the resort with fiscal stability and long-term planning is just what the mountain needed.
 

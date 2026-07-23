@@ -1,32 +1,46 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Strenuous
+
 - Hiking
+
 - Backpacking
+
 - Equestrian
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Hiking, Backpacking and Equestrian
+
 - label: Distance
   icon: map-marker-distance
   value: 14.2 Miles RT
+
 - label: Elevation
   icon: terrain
   value: 3723' gain
+
 - label: Difficulty
   icon: speedometer
   value: Strenuous
+
 - label: Maps
   icon: map
   value: IPNF - Kaniksu N.F., USGS - Metaline Falls, and Pass Creek
+
 - label: GPS
   icon: crosshairs-gps
   value: 48° 48’ 00.5" w117° 13’ 49.4"
+
 - label: Ranger District
   icon: pine-tree
   value: Newport-Sullivan Ranger District 509.
+
 - label: Pend Orielle County Sheriff
   icon: shield-account
   value: 911 or 509.447.3151

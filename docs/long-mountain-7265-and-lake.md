@@ -1,40 +1,57 @@
 ---
 tags:
+
 - Lakes
+
 - Moderately Easy
+
 - Hike
+
 - Backpack
+
 - Mountain Bike
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Hike, backpack and Mountain Bike
+
 - label: Distance
   icon: map-marker-distance
   value: About 8 miles RT. (Pyramid Pass 2.7 miles and 1300 vents
+
 - label: Elevation Gain
   icon: elevation-rise
   value: About 340' loss and 375' gain
+
 - label: Acres
   icon: vector-square
   value: '2.6'
+
 - label: Difficulty
   icon: speedometer
   value: Moderately easy
+
 - label: Maps
   icon: map
   value: IPNF-Kaniksu N. F., USGS Pyramid Peak
+
 - label: GPS
   icon: crosshairs-gps
   value: 48° 48’ 15.6"n 116° 36’ 02.0"w
+
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561
+
 - label: Boundary County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.267.3151
 notes:
+
 - Idaho panhandle national forest/alerts
+
 - '[https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)'
 ---
 
@@ -45,9 +62,9 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​From the Pyramid Lakes trailhead, hike Trail #13 SW for 1/2 a mile to the junction with Traill #43 (Pyramid Lake Trail). Bear right at the sign and trail register, still on Trail #13 to Pyramid Pass.
+From the Pyramid Lakes trailhead, hike Trail #13 SW for 1/2 a mile to the junction with Traill #43 (Pyramid Lake Trail). Bear right at the sign and trail register, still on Trail #13 to Pyramid Pass.
 
-After a snack at the pass, drop down Trail #7 to a junction with the Long Mt. Lake. Turn right onto Trail #221 and climb the 540 feet to a saddle above Long Mt. Lake. Its about 1/2 a mile and 235' loss to the lake. There are campsites at the lake for lunch, or you can climb a short distance to the north ridge above the lake for lunch with a view. Instead of returning on the trail in, continue up the ridge you had lunch on to the top of Long Mountain 7265'. At the summit you can walk the ridge line SE back to Trail  #221, and out.
+After a snack at the pass, drop down Trail #7 to a junction with the Long Mt. Lake. Turn right onto Trail #221 and climb the 540 feet to a saddle above Long Mt. Lake. Its about 1/2 a mile and 235' loss to the lake. There are campsites at the lake for lunch, or you can climb a short distance to the north ridge above the lake for lunch with a view. Instead of returning on the trail in, continue up the ridge you had lunch on to the top of Long Mountain 7265'. At the summit you can walk the ridge line SE back to Trail  #221, and out.
 
 This lake is secluded and with the white granite rocks surrounded by the fall colors, its amazing.
 
@@ -71,7 +88,7 @@ Pyramid Pass & Lakes, Parker Peak, Long Canyon, Trout Lake, the Kootenai Nationa
 
 ## R & p
 
-Jalapeños, Eichardt's, Burger Express, Mr. Sub,  Sandpoint
+Jalapeños, Eichardt's, Burger Express, Mr. Sub,  Sandpoint
 
 ![Picture](assets/images/6132025414p.jpg)
 
@@ -99,7 +116,7 @@ Jalapeños, Eichardt's, Burger Express, Mr. Sub,  Sandpoint
 
 ![Picture](assets/images/286daa74-fbf7-4adc-bb49-faa3dc79a2c8.jpg)
 
-Ridge line leading up to long mountain, from long mountain lake After the lake, you can walk this ridge up to long mountain summit ​and the trail down
+Ridge line leading up to long mountain, from long mountain lake After the lake, you can walk this ridge up to long mountain summit and the trail down
 
 ---
 
@@ -119,4 +136,4 @@ Ridge line leading up to long mountain, from long mountain lake After the lake, 
 
 ## A beautiful trail makes any hike special
 
-## We should treat our environment, as if  our lives depend on it.   chic    2012
+## We should treat our environment, as if  our lives depend on it.   chic    2012

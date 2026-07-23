@@ -7,25 +7,25 @@ Poems... we encourage you to send us your writing on human powered sports. pleas
 Poems
 
 Out on the trail
-    as miles go by.
+    as miles go by.
 The hills and valleys
-    touch the azure sky. 
+    touch the azure sky.
 The creeks run cold and clear
-    all thru the year.
+    all thru the year.
 Beautiful lakes dot the terrain
-    and are fed by an occasional rain.
+    and are fed by an occasional rain.
 Above the sparking lakes
-    on magnificent ridge lines.
+    on magnificent ridge lines.
 Is where we can be found
-    looking for a place to dine.
+    looking for a place to dine.
 
-chic     11.25.11
+chic     11.25.11
 
 The plural of mouse is mice,
 so the plural of spouse should be spice,
 and that’s all I’m discussing about this.
 
-​@wordesse
+@wordesse
 
 There's something special
 about a day as clear as a whistle.
@@ -42,11 +42,9 @@ I hope my knees can still bend.
 But none the less
 there will be another day or else.
 
-chic       2.5.2017
+chic       2.5.2017
 
-​
-
-​Silver Mountain
+Silver Mountain
 
 Riding the Gondola gives us rise.
 And opens up our eyes.
@@ -115,7 +113,7 @@ as we plan our next trip to Silver Mountain.
 
 (Secret Trees and Marsha's Edge, are our designation for unnamed runs we like to do.)
 
-chic      1.26.2017
+chic      1.26.2017
 
 A day of skiing at Silver,
 is like skiing in Heaven.
@@ -150,4 +148,4 @@ sooth those sore muscles before you retire to your Village condo.
 So load up that old Saddleback car of yours, and set your T2d2
 navigation system east to Silver Mountain.
 
-chic      1.26.2017
+chic      1.26.2017

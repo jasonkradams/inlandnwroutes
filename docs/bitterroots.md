@@ -27,7 +27,8 @@ Contact
 Hamilton, MT 59840
 [Forest Service Website
 
-​](http://www.fs.usda.gov/bitterroot/)Bitterroot National Forest Half of the Bitterroot National Forest in southwest Montana and Idaho is dedicated to the largest expanse of continuous wilderness in the lower 48 states -- the Selway Bitterroot, Frank Church River of No Return, and the Anaconda Pintler.
+](http://www.fs.usda.gov/bitterroot/)Bitterroot National Forest Half of the Bitterroot National Forest in southwest Montana and Idaho is dedicated to the largest expanse of continuous wilderness in the lower 48 states -- the Selway Bitterroot, Frank Church River of No Return, and the Anaconda Pintler.
+
 Much of the Bitterroot's beauty can be attributed to the heavily glaciated, rugged peaks of the Bitterroot Range. Drainages carved by glaciers form steep canyons that open into the valley floor. The abundance of natural resources offers a wide range of opportunities for recreation, grazing, wildlife, fisheries, timber, and minerals. Come enjoy the magnificent mountains, the serenity of wilderness, the miracle of spring flowers, majestic big game, and the sounds of birds here in our land of multiple uses.
 Get outdoors!
 Elevation ranges from 3,200 feet at the north end of the Bitterroot Valley to [Trapper Peak](http://www.idahosummits.com/trapper/trapper.htm) at 10,157 feet in the mountains on the south. In the Idaho portion of the Forest, elevations drop to about 2,600 feet along the [Selway River](http://www.nationalgeographic.com/selway/) and 2,200 feet on the[Salmon River.](http://www.nps.gov/rivers/wsr-salmon-main.html)

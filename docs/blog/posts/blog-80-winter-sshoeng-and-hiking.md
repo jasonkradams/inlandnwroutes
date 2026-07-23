@@ -1,18 +1,23 @@
 ---
 title: "Blog #80: Winter sshoeng and hiking"
+
 date: 2025-01-02
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Trail Safety & Gear
 ---
 
-
 Winter hiking
+
 Hi readers,
 As Winters snow pile up, we all must practice good skills in the mountains.
-SSHOENG.    (Snowshoeing)
+SSHOENG.    (Snowshoeing)
 Most sshoe hikes are in terrain that snow slides rarely occur.
 But some trails lead to areas that caution should be used.
 Sshoeing requires balance and fast reaction times when out of balance.
@@ -48,7 +53,7 @@ As Winter’s snow accumulate, getting to the official trailhead, may not happen
 So plan for your walk to include the winter trailheads to official trailhead, distances.
 A wise person knows when to turn around
 Do not let others TELL you what you should do, in the mountains.
-Each of us, when we venture into the mountains, Are 100% responsible for our selves.
+Each of us, when we venture into the mountains, Are 100% responsible for our selves.
 If you feel uncomfortable in a situation, TELL THEM.
 It better to be embarrassed, than to be rescued, or worse.
 
@@ -72,6 +77,6 @@ Thank you
 
 And everyone, have a safe and fun New Year.
 
-Chic                    David
+Chic                    David
 
 InlandNWRoutes.com

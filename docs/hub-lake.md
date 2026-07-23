@@ -1,35 +1,50 @@
 ---
 tags:
+
 - Lakes
+
 - Moderate
+
 - Day Hiking
+
 - Backpacking
+
 - Mt Biking
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, Mt biking
+
 - label: Distance
   icon: map-marker-distance
   value: About 6.6 miles RT and about 7.8 if you go to Hazel Lake also.
+
 - label: Elevation
   icon: terrain
   value: 1920’
+
 - label: Acres
   icon: vector-square
   value: hub 5.6…..hazel 7.6…..square 12.4
+
 - label: Difficulty
   icon: speedometer
   value: Moderate
+
 - label: Maps
   icon: map
   value: IPNR, Lolo N.F., DeBorgia topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°16’20" n 115°22’28" w
+
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
+
 - label: Mineral County Sheriff
   icon: shield-account
   value: 911 or 406.822.3555
@@ -41,9 +56,9 @@ stats:
 
 ## Description
 
-Trail #262 starts on Road 889 and wondered up thru an old growth cedar forest for a little lees then a mile. Along the trail, you will hear 60' Dipper Falls below the trail on Ward Creek. When the flow is low, the falls take on the look of its name sake. Each column splashes off water to the next column, hence looking like a mass of ladles. See our WATERFALL section.
+Trail #262 starts on Road 889 and wondered up thru an old growth cedar forest for a little lees then a mile. Along the trail, you will hear 60' Dipper Falls below the trail on Ward Creek. When the flow is low, the falls take on the look of its name sake. Each column splashes off water to the next column, hence looking like a mass of ladles. See our WATERFALL section.
 
-​Trail# 280 climbs for the last mile to Hub Lake. There is a good place to rest and have lunch at the west end (upper)of the lake. However, if you go in the Fall, the sun goes behind the mountains, and shades the NW shore.
+Trail# 280 climbs for the last mile to Hub Lake. There is a good place to rest and have lunch at the west end (upper)of the lake. However, if you go in the Fall, the sun goes behind the mountains, and shades the NW shore.
 
 After lunch there is an old mine shaft (blocked) that you can go into for about 20 feet. If it’s a hot day, the shaft offers a cool place to chillout.
 Along the trail to the mine is the trail to the saddle between Ward and Eagle Peaks.
@@ -117,7 +132,7 @@ This image was taken on 10.7.2025. as you can see, the flow is low, But still sp
 
 *Picture (Image missing)*
 
-We walked up the trail towards the old mine, And this image shows the debris field below eagle peak ​image by chris herath
+We walked up the trail towards the old mine, And this image shows the debris field below eagle peak image by chris herath
 
 ![Picture](assets/images/1082025817p.jpg)
 
@@ -125,4 +140,4 @@ We walked up the trail towards the old mine, And this image shows the debris fie
 
 ![Picture](assets/images/1082025820p.jpg)
 
-On the way down, the western red cedars are a delight. This is the largest, hence oldest cedar along the trail. This cedar was over 6' wide. ​image by chris herath
+On the way down, the western red cedars are a delight. This is the largest, hence oldest cedar along the trail. This cedar was over 6' wide. image by chris herath

@@ -1,38 +1,55 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 - Moderate
+
 - Day Hiking
+
 - Backpacking
+
 - Fishing
+
 - Scrambling
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, fishing, scrambling
+
 - label: Distance
   icon: map-marker-distance
   value: 8.5 miles RT
+
 - label: Elevation Gain
   icon: elevation-rise
   value: 2950’
+
 - label: Difficulty
   icon: speedometer
   value: Moderate
+
 - label: Maps
   icon: map
   value: Lolo N. F., Plains-Thompson Falls
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°68’72" n 115°29’07" w
+
 - label: Plains/thompson Falls Ranger District
   icon: pine-tree
   value: 406.826.3821
+
 - label: Sanders County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.827.3584
 notes:
+
 - Lolo national forest/alerts
+
 - https[://www.fs.usda.gov/alerts/lolo/alerts-notices](https://www.fs.usda.gov/alerts/lolo/alerts-notices)
 ---
 
@@ -43,7 +60,7 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​Trail #459 starts the hike where it switchbacks gradually up hill before starting a gradual decent. A few switchbacks take you down to the lakes and to Trail #450. Continue on 450 past Cabin Lake on your way to Porcupine Lake. The hike passes an unnamed lake on your left and Grass Lake above the trail. In a short distance you will come to Sqaylth-Kwum Pass (was Squaw Pass) below the Cube Iron Mountain. Take the side trail to the right (west) up to the summit of Cube Iron Mountain. On top you can see the American Selkirks to the west, and the Cabinet Mountain Wilderness to the east.
+Trail #459 starts the hike where it switchbacks gradually up hill before starting a gradual decent. A few switchbacks take you down to the lakes and to Trail #450. Continue on 450 past Cabin Lake on your way to Porcupine Lake. The hike passes an unnamed lake on your left and Grass Lake above the trail. In a short distance you will come to Sqaylth-Kwum Pass (was Squaw Pass) below the Cube Iron Mountain. Take the side trail to the right (west) up to the summit of Cube Iron Mountain. On top you can see the American Selkirks to the west, and the Cabinet Mountain Wilderness to the east.
 
 After descending back to Sqaylth-Kumn Pass, continue east on Trail # 460 along Four Lakes Creek to the trailhead.
 

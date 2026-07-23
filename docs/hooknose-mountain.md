@@ -1,32 +1,46 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Moderately Difficult from Abercrombie
+
 - Day Hiking
+
 - Backpacking
+
 - Equestrian
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, and equestrian.
+
 - label: Elevation
   icon: terrain
   value: 2000'
+
 - label: Distance
   icon: map-marker-distance
   value: 8.4 miles RT from Abercrombie.
+
 - label: Difficulty
   icon: speedometer
   value: moderately difficult from Abercrombie
+
 - label: Maps
   icon: map
   value: Colville N.F., Abercrombie Topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 48°56’36"n 117°25’49" w
+
 - label: Managing Agency
   icon: domain
   value: Three Rivers R.D. 509.738.6111
+
 - label: Pend Orielle County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 509.447.3151
@@ -49,21 +63,21 @@ From Flume Creek F. R. #350, hike ENE on Trail #502 for about 5 miles to Abercro
 
 From abercrombie to hooknose
 Altho there is only 98 verts between Abercrombie and Hooknose summits, the ridge between them is a 1.5 miles ridge walk. It’s a pretty straight forward hike. As all ridge hikes, the views are worth the effort.
-​There is another trail to
+There is another trail to
 
 ## Directions
 
 From deep lake
 From Deep Lake drive north on F.R. 9445 to F.R. #7078, the Silver Creek Road for about 2 miles, ant turn left (North) staying on 7078 that deteriorates to a rougher road for 4.5 miles to F.R. #300. Turn right (East) and drive 3.3 miles to the trailhead. The last section of this road is rough.
 
-​from metaline
+from metaline
 In Metaline, turn left (NW) onto Hwy 31/F.R. #2975 the Boundary Dam road. At 3.6 miles turn west (NW) onto F.R. #350, and continue 7.5 miles on a rough Forest Service Road to a small trailhead parking area on your right. High clearance vehicles are recommended.
 
 ## Cool things close by
 
 Boundary Dam, Pewee Falls, Crawford State Park/Gardner Caves, Sweatwater Falls, Pend Orielle River, Sullivan Lake, and Deep Lake.
 
-## *​*Hazards
+## **Hazards
 
 A rough trail leaving Abercrombie, and a ridge hike
 

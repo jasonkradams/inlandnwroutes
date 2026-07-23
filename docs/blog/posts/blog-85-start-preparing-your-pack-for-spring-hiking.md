@@ -1,15 +1,20 @@
 ---
 title: "Blog #85: Start preparing your pack for spring hiking"
+
 date: 2025-03-08
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 
-
 Hi Readers,
+
 As Winter begins to fade, Spring hiking is about to bloom.
 Below are some ideas for us all to consider this year.
 Because the USFS is being gutted, we as users have to step up.
@@ -20,11 +25,11 @@ After all, it is the very best playground we have.
 <!-- more -->
 
 Things to pack and do this year
-​
+
 A) Plastic Grocery Bags
 In 2024 as I hiked into lakes to have dinner with a view, I came across three smoldering campfires.
 It was scary, but when I realized these campfires were from the weekend, and I was there on Wednesday night, I’m so happy to have stumbled on them.
-In a sandwich size ziplock fold up a dozen grocery bags. Fold them to fit in a ziplock, then weight them to flatten and release air.
+In a sandwich size ziplock fold up a dozen grocery bags. Fold them to fit in a ziplock, then weight them to flatten and release air.
 Each bag weights about 6 grams, and can save a forest.
 
 B) But there’s more.
@@ -104,11 +109,11 @@ Gather all the things you normally take in your pack, and clean them. Then rebui
 Add the grocery bags, and be prepared for a great Spring.
 
 April and early May are great hiking months. And you may not need snowshoes. Traction devises are wise.
-Check out this spectacular Sshoe/hike.    <https://www.inlandnwroutes.com/state-line-ridge-trail.html>
+Check out this spectacular Sshoe/hike.    <https://www.inlandnwroutes.com/state-line-ridge-trail.html>
 
 Be safe and play often.
 And Thank You for using and reading our website.
 
-Chic       David
+Chic       David
 
 InlandNWRoutes.com

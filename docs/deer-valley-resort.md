@@ -1,26 +1,35 @@
 ---
 tags:
+
 - Winter & Skiing
+
 stats:
+
 - label: Phone
   icon: phone
   value: 800.908.5000
+
 - label: Acres
   icon: vector-square
   value: '2026'
+
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 300"
+
 - label: Summit Elevation
   icon: terrain
   value: 9570'
+
 - label: Base Elevation
   icon: terrain
   value: 6570'
+
 - label: Verts
   icon: arrow-expand-vertical
   value: 3000'
 notes:
+
 - Deervalley.com
 ---
 
@@ -51,7 +60,5 @@ Since Deer Valley’s inception in 1981, we have been committed to excellence in
 Deer Valley offers myriad summer activities including lift-served mountain biking and hiking, scenic chairlift rides, and Summer Adventure Camp for children. Over the course of the summer, the Snow Park Outdoor Amphitheater features three concert series including the Utah Symphony’s Deer Valley Music Festival, the Deer Valley Concert Series and Mountain Town Music's free community concerts.
 
 In 2002, Deer Valley hosted the freestyle mogul and aerial and alpine slalom events for Salt Lake City’s Olympic Winter Games. The 2020-2021 season marked 23 years that Deer Valley Resort has played host to elite, international athletic competitions including 19 FIS World Cup and three FIS Freestyle World Championship events. Continued excellence through hosting major events and a commitment to exceeding guests’ expectations will forever by the hallmark of Deer Valley’s legacy.
-
-​
 
 ## To contribute images, contact chic via this website

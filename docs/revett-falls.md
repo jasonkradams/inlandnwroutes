@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Waterfalls
+
 stats:
+
 - label: Waterfall
   icon: waterfall
   value: revett falls
+
 - label: Drop
   icon: arrow-collapse-down
   value: 20'
+
 - label: Waterfall Type
   icon: waterfall
   value: Tiered
+
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: .8 miles
+
 - label: Maps
   icon: map
   value: I.P.N.F., Burke & Thompson Pass topos
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°56’09" N 115°??75’?10" W. Wallace Ranger District 208.752.1221
@@ -39,13 +47,13 @@ If you visit the falls in late March or early April, there is actually 4 waterfa
 
 ## Directions
 
-Drive I-90 east to the Kingston exit # 43, and turn left (north) over the freeway and up FR #9, also known as the Coeur d'Alene River Road. Drive north for about 21 miles and bear right (east) at Pritchard, continue for about 16 miles to Thompson Pass at the Idaho Montana boarder. Off to the right at the summit of the road, you will see a parking area. The trailhead is up a short road near the south corner of the parking area.
+Drive I-90 east to the Kingston exit # 43, and turn left (north) over the freeway and up FR #9, also known as the Coeur d'Alene River Road. Drive north for about 21 miles and bear right (east) at Pritchard, continue for about 16 miles to Thompson Pass at the Idaho Montana boarder. Off to the right at the summit of the road, you will see a parking area. The trailhead is up a short road near the south corner of the parking area.
 
 ---
 
 ## Cool things close by
 
-Settler's Grove of  ancient Cedars, historic Murray, L. & U. Blossom Lakes, Pear Lake, the CDA River, and Cube Iron Mountain.
+Settler's Grove of  ancient Cedars, historic Murray, L. & U. Blossom Lakes, Pear Lake, the CDA River, and Cube Iron Mountain.
 
 ## Hazards
 

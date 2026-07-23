@@ -1,39 +1,55 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Moderate Hike, Difficult Ascent.
+
 - Hiking
+
 - Scrambling
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Hiking & scrambling
+
 - label: Distance
   icon: map-marker-distance
   value: About 6 Miles RT. (P. Pass 2.7 & 1300')
+
 - label: Elevation Gain
   icon: elevation-rise
   value: 2005' gain. 643’ from Pass to Summit.
+
 - label: Acres
   icon: vector-square
   value: '6.5'
+
 - label: Difficulty
   icon: speedometer
   value: Moderate hike, Difficult ascent.
+
 - label: Maps
   icon: map
   value: IPNF-Kaniksu N. F., USG-Pyramid Peak
+
 - label: GPS
   icon: crosshairs-gps
   value: 48° 48’ 19.7"n 116° 35’ 57.7"w
+
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561
+
 - label: Boundary County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.267.3151
 notes:
+
 - Idaho panhandle national forest/alerts
+
 - '[https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)'
 ---
 
@@ -42,13 +58,13 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​Pyramid Peak towered over Pyramid Pass, Long Canyon, and Pyramid Lake.
+Pyramid Peak towered over Pyramid Pass, Long Canyon, and Pyramid Lake.
 From a distance it look like it's namesake, a steep sided pyramid.
 Once at Pyramid Pass, turn left (south) and look for a primitive trail leading to the lower flanks of the peak. Immediately the route (no trail), climbs steeply for about .3 of a mile.
 You have to pick your way up the steep terrain over and around boulders, often times scrambling. But when you see the summit just above you, and summit it, you will be amazed and astonished that you made it, and of the incredible views.
 From the summit, the views all around are spectacular, especially looking down Long Canyon. Nowhere else do you get such a great view of the canyon.
 And thats not all, the 360° views so worth the scramble.
-​please read "hazards"below
+please read "hazards"below
 
 ## Option #1
 
@@ -74,7 +90,7 @@ From the Kootenai National Wildlife Refuge, head north on the West Side Road for
 
 This hike is not forthe inexperienced.
 
-​Because about half of the route is off trail, you must take extra care on this entire route.
+Because about half of the route is off trail, you must take extra care on this entire route.
 Be sure to carry your 13 essentials, a water filter, and dress for all weather conditions.
 And please take my word, you need to wear long legged pants, to descend thru the thick brush.
 
@@ -84,7 +100,7 @@ Long Canyon, Long Mountain Lake & Peak, Russell Mt & Ridge, and Trout Lake & Big
 
 ## R & p
 
-Jalapeños, Burger Express,  Eichardt's, and Mr. Sub in Sandpoint
+Jalapeños, Burger Express,  Eichardt's, and Mr. Sub in Sandpoint
 
 ![Picture](assets/images/4132025357p.png)
 
@@ -124,7 +140,7 @@ Jalapeños, Burger Express,  Eichardt's, and Mr. Sub in Sandpoint
 
 *Picture (Image missing)*
 
-## The lion head group above long canyon ​image by colin xu
+## The lion head group above long canyon image by colin xu
 
 ![Picture](assets/images/10112024648p.jpg)
 
@@ -133,7 +149,7 @@ Pyramid lake
 ![Picture](assets/images/10112024700p.jpg)
 
 Rock hopping from the peak to the lake
-​
+
 Is half the fun
 
-There is a high, a high that comes from being in the mountains. If you have never been there, you are missing out. Go to the mountains. ​Experience Nature’s high. ​ ​chic    8.12.2014
+There is a high, a high that comes from being in the mountains. If you have never been there, you are missing out. Go to the mountains. Experience Nature’s high.  chic    8.12.2014

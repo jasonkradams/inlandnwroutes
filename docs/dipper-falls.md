@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Waterfalls
+
 stats:
+
 - label: Waterfall
   icon: waterfall
   value: Dipper Falls & an unnamed falls next to Hub Lake
+
 - label: Drop
   icon: arrow-collapse-down
   value: 60'
+
 - label: Waterfall Type
   icon: waterfall
   value: Tiered
+
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: 1.4 miles from trailhead
+
 - label: Maps
   icon: map
   value: Lolo N.F., DeBorgia topo
+
 - label: GPS
   icon: crosshairs-gps
   value: ??°??’??" n ???°??’??" w unknown
@@ -28,7 +36,7 @@ stats:
 
 Trail #262 starts on Road 889 and wondered up thru an old growth cedar forest for a little over a mile to the junction with Hazel Lake. Just before the junction look for 60' Dipper Falls below the trail on Ward Creek.
 
-When the creek flow is low, the falls look like hundreds of Ladles (Dippers), one on top of another. Others times it roars down the ravine in a nice displaying trail side sound.
+When the creek flow is low, the falls look like hundreds of Ladles (Dippers), one on top of another. Others times it roars down the ravine in a nice displaying trail side sound.
 
 ---
 
@@ -56,4 +64,4 @@ Pizza Factory, 1313 Club and Muchacho’s Tacos in Wallace
 
 ## Photo gallery
 
-## Mages coming soon, to contribute, contact chic via this website ​
+## Mages coming soon, to contribute, contact chic via this website

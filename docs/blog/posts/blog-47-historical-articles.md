@@ -1,15 +1,20 @@
 ---
 title: "Blog #47: Historical articles"
+
 date: 2024-02-24
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 
+history on inlandnwroutes.com
 
-​history on inlandnwroutes.com
 As David and I were building and writing our website, I came across historical articles about the various areas and recreation locations.
 I have those histories in one of two places for you to familiarize yourself with the area you are recreating in.
 
@@ -34,6 +39,5 @@ I am working on an article that should be posted by May, that will tell you the 
 I am also, going to make a note on the individual write ups that will alert readers that a history is available.
 Thank You all for reading our website.
 
-Chic         David
+Chic         David
 InlandNWRoutes.com
-​

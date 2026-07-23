@@ -22,22 +22,25 @@ All photography on this site are COPYRIGHTED cannot be used for any purpose with
 ---
 
 ***Regional information***
+
 If you click on CABINET MOUNTAIN WILDERNESS, AMERICAN SELKIRKS, etc., there is geology and/or geography information so you will know the lay of the land you are about to explore.
 
 If you have more info we can include, please feel free to contact Chic, under CONTACT.
-​
+
 I will ask for documentation on all submittals, before inclusion.
 
 ---
 
 ***Options***
+
 Options are usually off trail, and take you far beyond the hike as written. These options should be done only by those very competent in off trail exploring. They also tend to be much more difficult and scenic then the original write up.
 
 DO NOT attempt unless you are accompanied by an off trail enthusiast.
 
 ***Elevation gain or loss***
 ***These numbers are also estimates. No two GPS readings are the same from different units on the same trip.
-Hence, I use Goggle Earth for all but below numbers. It’s universal, and everyone can access it.
+
+Hence, I use Goggle Earth for all but below numbers. It’s universal, and everyone can access it.
 However, all distances and elevation gain or loss are strictly from the u.s.f.s. official data.***
 
 An elevation gain of under 1000’ is usually considered easy.
@@ -79,17 +82,18 @@ Know how to operate your purifier thoroughly before going out to play.
 
 ***Cool things close by***
 This section is designed to show you places near by, if you can’t get to the trailhead of your chosen outing. Road work, rough roads, closures, fires, etc., all can keep you from your destination. The options are similar to what you had planned.
-​Always have a Forest Map to show you the directions to alternative hikes.
+
+Always have a Forest Map to show you the directions to alternative hikes.
 A GPS is a very useful tool, but NOTHING matches a Forest Map, a Topographical map and a compass.
 
 It is always wise to call the associated Ranger District ahead of your outing to be sure it’s a go. I will list all National Forest Ranger Districts, BLM, etc., under Managing Agencies, in the Resource drop brown menu.
 
 ***Hazards***
-I have listed any hazards along the way, but there may be more. It is your responsibility to know before you go, and adapt to your circumstances.
+I have listed any hazards along the way, but there may be more. It is your responsibility to know before you go, and adapt to your circumstances.
 
 Now it is your responsibility to work thru them without hurting yourself or allowing others to get hurt.
 
-If at any time you feel uncomfortable, stop. tell the others. make a plan. if you go the distance, it will be much harder to get you out. 
+If at any time you feel uncomfortable, stop. tell the others. make a plan. if you go the distance, it will be much harder to get you out.
 
 R & p or restaurants and pubs.
 Some of these hikes are difficult, and tax your nutritional needs.

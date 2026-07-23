@@ -1,15 +1,19 @@
 ---
 title: "Blog #78: What do you do in the winter to stay fit"
+
 date: 2024-11-28
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Winter Sports
 ---
 
-
-​Staying fit durng snow season
+Staying fit durng snow season
 
 <!-- more -->
 
@@ -17,7 +21,7 @@ The hardest time of the year for me, is late Autumn.
 The weather is usually bad, the day light shortens, the temps get cold, but I find places to go to and hike no matter what.
 The issue is, I don’t get to go high in the mountains, on long ridge line walks.
 
-What I’ve found thru life, is if I  fill the shoulder months with as much outdoor activities as possible, my outlook on life gets better.
+What I’ve found thru life, is if I  fill the shoulder months with as much outdoor activities as possible, my outlook on life gets better.
 
 Science says, that as little as 120 minutes a week, spent in Nature, can do wonders for our well being, stress levels, blood pressure, peace of mind, and more.
 
@@ -45,10 +49,10 @@ Dig around a bit on the county parks website above to see the many trails in and
 <https://dishmanhills.org/Maps>
 The Dishman Hills is located south of Sprague Street, and west of South Dishman Mica Road.
 With over 3,200 acres to explore, these trails are well worth the effort to enjoy them.
-The above url will show you maps of the many trails at Dishman Hills.  Get out and enjoy this local treasure.
+The above url will show you maps of the many trails at Dishman Hills.  Get out and enjoy this local treasure.
 
 [<https://www.inlandnwroutes.com>
-​](https://www.inlandnwroutes.com/)
+](https://www.inlandnwroutes.com/)
 For those of you who want warmer areas to hike in, check out our section on the Washington Scablands.
 Log on and go to…..
 Activity……..hike…….washington…..washington scablands.
@@ -89,11 +93,11 @@ This envelope will allow you to communicate with me directly.)
 
 Thank You for reading and using our website.
 
-Chic            David
+Chic            David
 
 InlandNWRoutes.com
 
-## **​**
+## ****
 
 [sober living san luis obispo](https://maps.app.goo.gl/QCbYGZptHT4eqCEC7)
 

@@ -1,34 +1,49 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 - Easy to Moderate
+
 - Day Hiking
+
 - Climbing
+
 - Photography
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, climbing, and photography
+
 - label: Distance
   icon: map-marker-distance
   value: varies
+
 - label: Elevation
   icon: terrain
   value: varies depending on where you start
+
 - label: Difficulty
   icon: speedometer
   value: easy to moderate
+
 - label: Maps
   icon: map
   value: IPNF, Post Falls Park & Recreation Map, Post Falls Topo
+
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000. Post Falls Parks. 208.773.3511
+
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 911 or 208.446.1300
 notes:
+
 - Spokane Street Bridge 47°42’08" N 116°57’15" W
+
 - West Riverview Drive. 47°41’45" N 116°58’23" W
 ---
 
@@ -39,8 +54,9 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.The Q’emiln Park is noted for its outstanding climbing. There are several trails thru the climbing rocks, that eventually leads you to the new Community Forest 500+ acres. At one point, the trail follows the Spokane River just after the Post Falls Dam. It’s quit spectacular to see the river rage down thru a narrow gorge. This river side route leads you out onto the area west of the Avista Generating Station and on to the Community Forest. You can stay along the river for about 2.5 miles to the west end of the park.
+
 From the south parking lot on W. Riverview Drive, the trail drops down a bit to where it splits and does a loop, back up to the W. Riverview lot.
-​Your best bet is to stop by the Post Falls City Fall on Spokane Street to pick up a map. Or [<https://www.postfallsidaho.org/departments/parks-recreation/parks/community-forest>](https://www.postfallsidaho.org/departments/parks-recreation/parks/community-forest/)
+Your best bet is to stop by the Post Falls City Fall on Spokane Street to pick up a map. Or [<https://www.postfallsidaho.org/departments/parks-recreation/parks/community-forest>](https://www.postfallsidaho.org/departments/parks-recreation/parks/community-forest/)
 
 ## Directions
 
@@ -127,7 +143,7 @@ Click for Current NOAA Weather Conditions
 
 ## A new foot bridge to the spokane river
 
-## The next three images are of the south channel of the spokane river ​the sounds are deafening
+## The next three images are of the south channel of the spokane river the sounds are deafening
 
 ![Picture](assets/images/2021116-39-jpeg-1.jpg)
 
@@ -137,7 +153,7 @@ Click for Current NOAA Weather Conditions
 
 *Picture (Image missing)*
 
-## Spokane river’s south channel avista’s power plant, ​with intermittent over flow waterfall
+## Spokane river’s south channel avista’s power plant, with intermittent over flow waterfall
 
 ---
 

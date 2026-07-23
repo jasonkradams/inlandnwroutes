@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Paddling & Rivers
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
+
 - label: Elevation
   icon: terrain
   value: 2067’
+
 - label: Length and Acreage
   icon: vector-square
   value: varies
+
 - label: Maps
   icon: map
   value: Farrugut State Park, I.P.N.F., Bayview & Lakeview topos
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°57’54" n 116°32’44"
+
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300
@@ -27,7 +35,7 @@ stats:
 ## Description
 
 The Farragut State Park launch puts you out on the main body of the lake instantly. There are two lanes to the launch and ample parking above the launch, restrooms, and beaches on both sides of the launch for swimming.
-​Because it’s a state park, there is a small fee to enter and use all the parks facilities. Including a swimming area, trails for hiking & Mt. Biking, and camping.
+Because it’s a state park, there is a small fee to enter and use all the parks facilities. Including a swimming area, trails for hiking & Mt. Biking, and camping.
 
 ## Attractions
 

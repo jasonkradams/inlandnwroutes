@@ -8,7 +8,7 @@ trailforks widget start[Saltese Uplands Loop to Summit Loop](https://www.trailfo
 
 trailforks widget end
 
-The Saltese Highlands conservation area is a great place to ride in the spring and fall because it faces west into the sun so it is too hot to ride out there in the middle of summer. This route takes you to the summit on the less steep leg and then descent the steeper one. This is not a real long bike ride so more than one lap may be called for.
+The Saltese Highlands conservation area is a great place to ride in the spring and fall because it faces west into the sun so it is too hot to ride out there in the middle of summer. This route takes you to the summit on the less steep leg and then descent the steeper one. This is not a real long bike ride so more than one lap may be called for.
 
 ## Photo gallery
 

@@ -1,15 +1,20 @@
 ---
 title: "Blog #83: A way to soothe your soul"
+
 date: 2025-01-31
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Winter Sports
 ---
 
-
 If you are suffering from "The Winter Blues", there is relief.
+
 First, log onto our website, and go to MORE in the drop brown menu.
 Then choose WRITINGS.
 In these sections are a lot of inspirational thots on a variety of subjects.
@@ -38,7 +43,7 @@ A high that comes
 from being in the mountains.
 If you'd never been there,
 you are missing out.
-​Go to the mountains.
+Go to the mountains.
 Experience Nature’s high.
 
 chic. 8.12.2014
@@ -48,10 +53,10 @@ Summer
 and Fall,
 as nice as they are,
 are simply fillers
-between ski seasons.
+between ski seasons.
 
-chic     2011
+chic     2011
 
-Chic        David
+Chic        David
 
 InlandNWRoutes.com

@@ -5,6 +5,7 @@
 ---
 
 Ingredients:
+
 3 large Yukon Gold potatoes
 4-5 strips of bacon
 4 ribs of celery with leaves
@@ -20,7 +21,7 @@ In a large pot, cook the bacon until crisp. remove from pot and drain bacon fat.
 Then add celery, onion, carrots, and garlic to the drippings and saute until the onion is transparent, or about 8-10 minutes.
 Add chopped potatoes and stir.
 
-Add 2.5 quarts of water 
+Add 2.5 quarts of water
 1 T Clam base
 2 bay leaves
 2 T of high quality Italian Herb Blend

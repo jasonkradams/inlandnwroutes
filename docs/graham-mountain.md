@@ -1,37 +1,53 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Moderately Difficult
+
 - Day Hike
+
 - Backpacking
+
 - Snowshoeing
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hike, backpacking, snowshoeing
+
 - label: Distance
   icon: map-marker-distance
   value: 11 miles RT
+
 - label: Elevation
   icon: terrain
   value: 3445 verts
+
 - label: Difficulty
   icon: speedometer
   value: Moderately Difficult
+
 - label: Maps
   icon: map
   value: IPNF, Kellogg topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°36’11" n. 116°08’07" w
+
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
+
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911FIRST or 208.556.1114
 notes:
+
 - Idaho panhandle national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -42,7 +58,7 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​This trail starts out on the CDA River Road and heads south for 6.5 miles. It skirts Coal Creek and passes by several old mines on its way thru old growth cedars. This trail seems relentless as it climbs the same slant to the top, without switchbacks. At about 5.5 miles the trail junctions with Trail # 18. Turn right (SW) for about a mile to the summit.
+This trail starts out on the CDA River Road and heads south for 6.5 miles. It skirts Coal Creek and passes by several old mines on its way thru old growth cedars. This trail seems relentless as it climbs the same slant to the top, without switchbacks. At about 5.5 miles the trail junctions with Trail # 18. Turn right (SW) for about a mile to the summit.
 
 ## Directions
 

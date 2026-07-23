@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Lakes
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: 7 mile loop
+
 - label: Elevation
   icon: terrain
   value: 2133’
+
 - label: Length and Acreage
   icon: vector-square
   value: 2 miles long & 423 acres
+
 - label: Maps
   icon: map
   value: IPNF, Fernan topo
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°40’13" n 116°44’52" w
+
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300
@@ -29,7 +37,7 @@ stats:
 THERE IS A CAUTION AGAINST GETTING WET AT FERNAN ON JULY 22nd. Algae plums can make you or your pet sick.
 The best time to paddle FERNAN is after the ice thaws, and as the temps get colder.
 The south (right) side has no houses, but is privately owned. I’ve seen Eagles, Osprey, beavers, and Great Blue Herons. At one time, just as you head East, there are three dead trees about 100’ off the water. They are dead because of the dozens and dozens of heron, roosting in the trees years ago.
-​Further east along the shore line are 5 bays to explore or get out of the sun. After the second bay, watch for a variety of wildlife all away to the east launch.
+Further east along the shore line are 5 bays to explore or get out of the sun. After the second bay, watch for a variety of wildlife all away to the east launch.
 From the west launch, paddle along the north (left) shore past several waterfront houses. Soon the houses end, and the E. Fernan Road continues to the East Fernan Lake Launch. Stay for shore as you paddle the north shore. There usually are dozens of fishermen & women.
 When you get to the east end, you will be in water lilies.
 

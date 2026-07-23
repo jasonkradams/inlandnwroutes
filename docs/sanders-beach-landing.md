@@ -1,16 +1,22 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
+
 - label: Elevation
   icon: terrain
   value: 2128’
+
 - label: Length and Acreage
   icon: vector-square
   value: varies
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: west 47°39’58" n 116°46’10" w. east 47°39’57" n 116°45’53" w
@@ -20,7 +26,7 @@ stats:
 
 ## Description
 
-Sanders Beach is a private beach with two public access points at 11th  Street and 15th Street. If the west put in is crowded, drive a few blocks east to the 15th Street access.
+Sanders Beach is a private beach with two public access points at 11th  Street and 15th Street. If the west put in is crowded, drive a few blocks east to the 15th Street access.
 From Sanders Beach, you can paddle east towards the CDA Resort's floating green and on east end of the north shore.
 Or you can paddle west along Tubbs Hill and around to the south shore and CDA.
 

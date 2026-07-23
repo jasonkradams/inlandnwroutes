@@ -1,15 +1,19 @@
 ---
 title: "Blog # 79: How to gather weather data for a day of hiking, skiing, etc."
+
 date: 2024-12-07
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Winter Sports
 ---
 
-
-​As Spring is about to turn into Winter, there are ways to see how the conditions are at your favorite ski resort or backcountry areas.
+As Spring is about to turn into Winter, there are ways to see how the conditions are at your favorite ski resort or backcountry areas.
 
 <!-- more -->
 
@@ -44,7 +48,7 @@ Be Weatherwise.
 
 "Turn off the news,
 go outside,
-​breathe,
+breathe,
 you were never meant
 to carry the burden
 of the entire world."
@@ -60,6 +64,6 @@ Remember, the more you know, the safer and funnier your day will be.
 
 Thank You all for reading and using our website.
 
-Chic         David
+Chic         David
 
 InlandNWRoutes.com

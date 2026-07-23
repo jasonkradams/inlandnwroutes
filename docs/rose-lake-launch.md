@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Lakes
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: 2.6 mile loop
+
 - label: Elevation
   icon: terrain
   value: 2134’
+
 - label: Length and Acreage
   icon: vector-square
   value: 1 mile & 370 acres
+
 - label: Maps
   icon: map
   value: Kingston Topo
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°33’17" n 116°27’34" w
+
 - label: Shoshone County Sheriff
   icon: shield-account
   value: 208.556.1114

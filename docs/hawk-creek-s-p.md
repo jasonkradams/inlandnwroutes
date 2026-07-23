@@ -1,34 +1,49 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 - Day Hiking
+
 - Backpacking
+
 - Camping
+
 - Paddling
+
 - Photography
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, camping, paddling, and photography
+
 - label: Distance
   icon: map-marker-distance
   value: 3.6 miles with many variations
+
 - label: Elevation
   icon: terrain
   value: 300 + verts
+
 - label: Difficulty
   icon: speedometer
   value: mostly easy with some moderate routes
+
 - label: Maps
   icon: map
   value: Lake Roosevelt National Recreation Area
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°81’09" n 118°31’04" w
+
 - label: Managing Agency
   icon: domain
   value: w.s.p& r 509.754.7800
 notes:
+
 - 'LINCOLN COUNTY, Wash. SHERIFF: CALL 911 FIRST or 509.725.3501'
 ---
 
@@ -39,7 +54,7 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​As you enter the area, the campsite sits below the road in. A short distance up stream is beautiful Hawk Creek Falls, dropping about 40' in a chasm beneath the road.
+As you enter the area, the campsite sits below the road in. A short distance up stream is beautiful Hawk Creek Falls, dropping about 40' in a chasm beneath the road.
 From the parking area, the trail heads west along the north side Hawk Bay. There are several beaches  to swim at. Further away from the parking area, the trail eventually reaches the Columbia River.
 As you see Moonshine Canyon Bay across Hawk Bay, you will have to climb up and over the hills to get to a spot with unobstructed views of the Columbia River.
 Paddling this bay, and out into the Columbia River offers great views and a nice paddling experience.
@@ -85,7 +100,7 @@ Lenny’s in Cheney
 
 ![Picture](assets/images/p69.png)
 
-## The park’s campsites and boat launch. hawk falls👆 ​
+## The park’s campsites and boat launch. hawk falls👆
 
 ![Picture](assets/images/p70.png)
 

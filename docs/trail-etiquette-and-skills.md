@@ -155,6 +155,7 @@ exploring the outdoors, whether visiting Canada for the first time or venturing 
 longtime resident. *(Published November 2020.)*
 
 **Bear safety basics.** It's totally normal to be frightened at the prospect of encountering a bear,
+
 especially if you're new to Canada or outdoor activities — the author grew up somewhere the most
 dangerous creature was a rarely seen snake, and it took a long time to get over late-night tent
 paranoia, where every rustle sounds like a bear. Now, having become fascinated by bears and hoping to
@@ -165,12 +166,17 @@ you from exploring the outdoors, and the best way to reduce the fear is to learn
 **Knowledge is power.** Facts worth knowing:
 
 - Bears prefer to avoid people.
+
 - Humans are not on the menu — bears are actually mostly vegetarian.
+
 - The vast majority of bear encounters are a positive experience.
+
 - There are ways to proactively avoid encountering a bear.
+
 - When used properly, bear spray is extremely effective.
 
 **Identifying bears.** Black bears are the most commonly seen bear in Canada, living in every province
+
 and territory. Grizzly bears (brown bears) are found in northwestern Canada, mostly in the coastal and
 mountain regions of British Columbia, Alberta, and the Yukon. The Kermode, or "spirit," bear is a
 famous subspecies of black bear with white fur, living around the northern and central coast of
@@ -179,6 +185,7 @@ Canada's northern ice-covered regions. This guide concentrates on black and griz
 most commonly encountered.
 
 **How to tell black and grizzly bears apart.** Black and grizzly bears differ in diet, habitat,
+
 physical features, and — most important for safety — behavior and defensive technique, but telling
 them apart isn't always easy. Size isn't reliable: an adult grizzly averages heavier than an adult
 black bear, but an adult black bear can look larger than an adolescent grizzly (under 5 years old).
@@ -189,6 +196,7 @@ dark brown/black.
   climb a tree to escape a threat; natural response to threats is to retreat; flatter, fairly straight
   face profile with prominent ears; no shoulder hump; shorter, dark-colored claws; front toes form an
   arc.
+
 - *Grizzly bears:* prefer open habitat such as meadows, alpine forest, coast; less adapted for
   climbing (but will); more likely to defend themselves; dish-shaped snout and face profile, rounded
   ears; shoulder hump; longer, lighter-colored claws; front toes in a straighter line.
@@ -199,40 +207,59 @@ carrion; coastal bears feast on salmon in autumn, and grizzlies are more likely 
 quiz testing you on the visual differences.
 
 **How to avoid a negative bear encounter.** The best way to stay safe is to proactively avoid negative
+
 encounters:
 
 - Research your destination first — find out about local wildlife, restrictions, and recommended
   precautions.
+
 - Read and follow all trailhead signage; respect trail closures and wildlife warnings.
+
 - Make noise in the backcountry (more below).
+
 - Remain alert at all times; watch for fresh bear signs like tracks, diggings, and scat.
+
 - Stay on the trail and travel in daylight — bears are most active at dawn and dusk.
+
 - Avoid animal carcasses; wildlife, bears included, are attracted to dead animals.
+
 - Keep pets on a leash — dogs can provoke defensive behavior in bears.
+
 - Pack out everything you bring, including garbage and "biodegradable" items like apple cores and
   banana peels.
+
 - Travel in a group — the larger the group, the fewer recorded attacks.
+
 - Store food safely when camping; bears are curious and will inspect odors to see if they're edible.
+
 - Learn about bear behavior — being able to [interpret their
   postures](http://www.bearsmart.com/about-bears/behaviour/) and vocalizations helps a lot.
+
 - Know how to respond during an encounter or attack.
+
 - Carry bear spray.
 
 **Making noise on the trail.** Just as you may not want to meet a bear on a trail, bears don't
+
 particularly want to encounter humans either — they have good hearing and are thought to associate
 voices with humans, so if they hear you, they'll usually avoid you.
 
 - The easiest way to alert a potential bear of your presence is to call, sing, clap, or talk loudly.
+
 - Talking or singing loudly may feel a little silly at first, but it's a tried-and-tested method for
   avoiding bear encounters.
+
 - Increase the volume when it may be harder to hear — on windy days or near streams and dense
   vegetation.
+
 - Be especially vocal in areas with low visibility; don't surprise a bear coming around a blind
   corner.
+
 - It's a myth that [bears see poorly](http://www.bearsmart.com/about-bears/dispelling-myths/) — they
   don't.
 
 **Bear spray** is an aerosol deterrent made with chili pepper oil, designed to be deployed at close
+
 range (under 10 m) toward the face of an aggressive or charging bear. It swells the bear's eyes, nose
 and lungs, restricting breathing and sight, and in most cases the bear will retreat, letting the user
 leave safely. It's a "last resort" tool, used only when other methods have failed. When deploying it,
@@ -246,34 +273,40 @@ it](https://www.pc.gc.ca/en/pn-np/mtn/ours-bears/securite-safety/gaz-spray) so y
 if needed.
 
 **What to do if you see a bear.** In the event you see one: stop; stay calm; have your bear spray
+
 ready (safety off); if in a group, stay together. Never: run; drop your bag; scream; make sudden
 movements; turn your back on the bear; block its escape route. Bears are stronger and faster than you,
 see well (especially at night), and have hearing twice as good as ours — but they generally do not
 want to attack you.
 
 **If the bear is in the distance:** do not approach — give it plenty of space. If it's moving, wait at
+
 a safe distance; if you can, make a wide detour around it. Move slowly away without getting its
 attention, and be prepared to turn around and go back the way you came if necessary.
 
 **If the bear is close:** if it was surprised, or has cubs or food, it's likely to react defensively —
+
 it may appear stressed or agitated (swatting the ground, blowing, snorting); a defensive reaction is
 most common. A non-defensive bear could be curious, looking for human food, testing dominance, or in
 very rare cases predatory — its attention will be clearly directed at you, head and ears up. Standing
 on its hind legs is a sign of curiosity, not aggression — it's using its senses to identify you.
 
 **How to respond to a defensive bear:** remain still and calm; talk in a soothing voice; start backing
+
 away; avoid eye contact. If it approaches, stand your ground and prepare to use bear spray. If it
 makes contact, drop to the ground and play dead, covering your neck and the back of your head with
 your hands. Most defensive attacks last two minutes or less — remain still afterward and wait for the
 bear to leave. If the attack doesn't stop, fight back.
 
 **How to respond to a non-defensive bear:** remain calm; talk in a firm voice; move out of the bear's
+
 way. If it follows, stand your ground and switch to aggressive behavior — look it in the eyes, shout,
 stamp your feet, make yourself look bigger, hit it with whatever you have, take a step toward it. If
 it still approaches, use bear spray and fight back, concentrating your attack on its face (nose and
 eyes specifically).
 
 **How to camp safely.** Anything with an odor can attract wildlife — avoid inviting a bear or other
+
 animal to your campsite.
 
 - *Frontcountry camping* (accessible by vehicle, usually with allocated sites, water, outhouses or
@@ -286,6 +319,7 @@ animal to your campsite.
   attract coyotes and wolves as well as bears, and their food should be stored securely too. Keep your
   campsite clean: wash dishes soon after eating, wipe up spills, pick up food scraps, and dispose of
   garbage in the provided bins.
+
 - *Backcountry camping* (situated in wilderness, accessed only by foot, bike, horse, boat, or plane,
   with limited facilities): research the area first for restrictions or recommendations, and whether
   food storage is provided. If you're not at an established backcountry site, pick your tent spot
@@ -297,6 +331,7 @@ animal to your campsite.
   a campfire — the smell lingers and attracts bears. Keep your sleeping bag, tent, and sleeping clothes
   away from the food preparation area; clothes with spilled food on them should be stored with other
   smelly items.
+
 - *Storing food in the backcountry:* when not in use, food, toiletries, cooking equipment and garbage
   should be stored securely away from your tent. Some established sites have a food cache (a metal
   bear-proof container) or bear pole system. If none is provided or usable, be prepared to [make a
@@ -306,18 +341,26 @@ animal to your campsite.
   plastic container with a bear-resistant lid).
 
 **Safe roadside bear viewing.** The most common way to see a bear in Canada is from your vehicle — always
+
 exciting, but potentially hazardous for both you and the bear.
 
 - Consider not stopping at all — undisturbed bears forage more successfully, building up needed fat
   reserves.
+
 - Driving by slowly (when safe) is the next best way to minimize your impact.
+
 - If you decide to stop, pull off the road safely without blocking other traffic.
+
 - Stay a respectful distance away and make sure the bear has an escape route.
+
 - Do not leave your vehicle.
+
 - Remain aware of other vehicles — move on if the situation becomes crowded.
+
 - Keep your observation time short.
 
 **Bear safety essentials.** Bear spray, unsurprisingly, is an absolute given — some hikers carry one
+
 canister each as a backup. Store it somewhere with convenient access, such as a hip holster on a belt.
 Outdoor gear stores reliably carry it; when purchased in Canada, you'll need to sign a waiver assuming
 all risk when using it. The propellant loses potency over time — new bear spray typically expires
@@ -327,6 +370,7 @@ another option some hikers bring: it delivers a shockingly loud sound that would
 bear, and could also be used to signal distress if needed.
 
 **Bear encounters: my experience.** A common question is "how many bears do you see?" — the honest
+
 answer is not many, and that's fine; bears are beautiful, extraordinary creatures, and it's incredible
 to see one from an appropriate distance. Hiking around 500–700 km a year in Western Canada, the author
 saw only one bear on a trail — just the back end of a black bear running away, on the Della Falls
@@ -353,6 +397,7 @@ walk over a ridge, or into a creek bed with water flowing, yell loud. Don't be s
 trying to communicate with someone 100 feet away over creek noise. Make loud noises all day long.
 
 **Make a noise instrument out of wood.** From your 14 Essentials, take out a knife. Find a branch you
+
 can use as a hammer to split the blade through wood lengthwise — it should be about 12–15 inches long,
 2 inches wide, ¼ inch thick. Carve one end into a point. Drill a hole in the other end, lace it with
 an 8-foot cord, and tie the ends. Turn the wood blade to twist the cord until it starts to
@@ -397,18 +442,24 @@ achiness, vomiting, swelling at the bite site or lymph nodes, weakness or paraly
 confusion, or palpitations.
 
 **Tick prevention starts with covering up.** Ticks tend to latch on in grassy areas above the cuff of
+
 your pant leg and move upward, looking for dark places to burrow.
 
 - Wear pants and long sleeves — no shorts. Convertible pants with a flap over the zippered legs are an
   excellent tick trap and a good choice.
+
 - Tuck your shirt into your pants, and your pants into your socks.
+
 - Wear light colors so you can spot ticks more easily as they climb.
+
 - Wear a cap with a flap behind the neck, if you have one.
+
 - DEET works great for mosquitoes but not so well for ticks; permethrin is a better choice — some
   clothing brands use permethrin-infused fabric, or you can buy a spray (these are pesticides, so
   consider thoughtfully how and whether you want to use them).
 
 **During and after your hike.** Sticking to an established trail is good prevention (ticks like
+
 shaded, grassy areas) but not foolproof — one more good reason to keep tick-magnet dogs on leash. Do
 regular tick checks throughout the day; brush ticks off or crush them with a fingernail, without
 worrying that they'll burrow in immediately, since they tend to cruise around for a while first. After
@@ -420,6 +471,7 @@ or flushed (note they can survive a wash-and-rinse cycle). Give your backpack a 
 leave it outside rather than bringing it in.
 
 **Tick first aid: five steps to remove a tick.** If a tick has burrowed in, don't panic — while it's
+
 possible it carries Lyme disease or Rocky Mountain spotted fever, the Pacific Northwest is a "low
 risk" area for Lyme disease and spotted fever is extremely rare. Still, get the tick out completely as
 soon as possible:
@@ -439,6 +491,7 @@ one-pager covering most of this. If you hike with a dog in tick country, talk to
 preventative medications and make tick checks a regular part of your routine.
 
 **Tick facts.** For more, see [identify.us.com's tick
+
 images](https://identify.us.com/idmybug/ticks/tick-images/index.html).
 
 ![Picture](assets/images/12272021724p.png)
@@ -475,12 +528,14 @@ landed on my rear from that stick.
 
 This idea first surfaced in 1976, but didn't become one of the USFS idioms until 1986. An adage arose
 after it was first used: *"If you can carry it in full, you can carry it out empty."* Another
+
 suggestion in this idea is to clean up after yourself, and others. And please, please remember: tin
 cans, aluminum foil, plastic and glass do not burn — carry them out when you leave.
 
 ### Pack It In, Pack It Out
 
 Please remember: *"If you can carry it in full, you can carry it out empty."* If you leave trash or
+
 food containers in the mountains, especially around camp, someone else will have to carry them out
 for you. Please be considerate of others' desire to recreate in a clean environment.
 
@@ -546,6 +601,7 @@ Feeding wildlife may disrupt their normal foraging habits and digestion.
 
 A few rules to follow in nature: first, and foremost, do not relieve yourself within 200 feet of *any*
 trail, campsite, or water source. Second, bury your waste at least 6 inches (some sources say 8
+
 inches) underground, and cover it with a rock if one's available. Third, in some areas — like national
 parks — you may be required by law to carry your waste out in blue bags. If there are large rocks
 nearby, cover your hole with dirt after filling it in.
@@ -563,7 +619,9 @@ it will aid others, and make you feel like you contributed. If you feel the need
 these organizations need your assistance:
 
 - [spokanemountaineers.org](http://spokanemountaineers.org/)
+
 - [wta.org](http://wta.org/)
+
 - [Idaho Trails Association](http://idahotrailsassociation.org/)
 
 I know all these organizations are making our hiking experience more enjoyable — join them, and feel

@@ -1,38 +1,55 @@
 ---
 tags:
+
 - Lakes
+
 - Easy
+
 - Day Hiking
+
 - Backpacking
+
 - Scrambling
+
 - Scenery
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, scrambling & Scenery
+
 - label: Distance
   icon: map-marker-distance
   value: 5 mile RT
+
 - label: Elevation Gain
   icon: elevation-rise
   value: 1523’
+
 - label: Difficulty
   icon: speedometer
   value: easy
+
 - label: Maps
   icon: map
   value: IPNF, Kootenai National Forest, Caribou Creek
+
 - label: GPS
   icon: crosshairs-gps
   value: 48°47’17"n 116° 47’ 41"w
+
 - label: Ranger District
   icon: pine-tree
   value: Idaho Dept. of Lands, Priest River. 208.448.2302
+
 - label: Boundary County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.267.3151
 notes:
+
 - Idaho panhandle national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -43,13 +60,13 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​Lookout Mountain stands tall on the west side of the Selkirk Range, above Upper Priest Lake. One cool thing about this hike, is how easy it is.
+Lookout Mountain stands tall on the west side of the Selkirk Range, above Upper Priest Lake. One cool thing about this hike, is how easy it is.
 From the trailhead, hike Trail #36 for about a mile to Lookout Lake. After enjoying the lake, continue on Trail #36, and watch for a "trail," Trail #37 off to the left (East) that leads you to the summit and it’s two lookout towers. Wonder the summit plateau, and enjoy the magnificent views.
 
 Please do not disturb the fire lookout person, unless they invite you up.
 The old lookout has been restored, but survived a fire in 2001.
-The old lookout cabin was built in 1909, and restoration ​started in 1983.
-​In 1909 the mountain was called Lookout Point.
+The old lookout cabin was built in 1909, and restoration started in 1983.
+In 1909 the mountain was called Lookout Point.
 The first lookout tower was built in 1929, by the Idaho Dept. of Lands.
 The current, and in use tower was built in 1977.
 Follow the same route back down.
@@ -61,7 +78,7 @@ After enjoying the lake, walk Trail #36 a very short distance
 and look for the rocky ridge coming down from the lookout towers.
 It’s the cliff edge that you see from the lake. This route is
 not on any map, but offers the best views and rock scrambling
-​to the summit.
+to the summit.
 Very scenic ascent.
 Always stay more than 10 feet from the edge.
 
@@ -76,7 +93,7 @@ By walking back up the ridge line,you get the best views of the peak with its tw
 ## Directions
 
 You might consider getting a current map from the Idaho Dept. of Lands in Priest River.
-From Priest River, drive 22 miles north on Hwy 57, and turn right on Dickensheet Road towards Coolin. 
+From Priest River, drive 22 miles north on Hwy 57, and turn right on Dickensheet Road towards Coolin.
 At the Lion Head CG, continue on East Shore Road for 4.5 miles, or .5 miles past Milepost 23.
 Turn right onto S.F.R.#44.
 
@@ -109,7 +126,7 @@ Burger Express in Priest River.
 
 <!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](assets/images/p253.png) --> -->
 
-## Lookout lake,  mountain & towers
+## Lookout lake,  mountain & towers
 
 ---
 
@@ -147,4 +164,4 @@ Burger Express in Priest River.
 
 ## Lower priest lake from summit
 
-To wander….. is to set your mind free. To be free….. ​ all that follows  is wondering.           chic    2012
+To wander….. is to set your mind free. To be free…..  all that follows  is wondering.           chic    2012

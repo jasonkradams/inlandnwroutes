@@ -1,23 +1,31 @@
 ---
 tags:
+
 - Lakes
+
 stats:
+
 - label: Waterfall
   icon: waterfall
   value: Leigh Lake, Cabinet Mountain Wilderness, Montana
+
 - label: Drop
   icon: arrow-collapse-down
   value: So many of all types
+
 - label: Waterfall Type
   icon: hiking
   value: Every kind except Plunge Pool
+
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: 1.52 miles and gains 1104 verts
+
 - label: Maps
   icon: map
   value: Kootenai National Forest, Libby Ranger District, 406.293.7773, Snowshoe Peak
     topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 48°13’27" n 115°??39’?39" w
@@ -25,7 +33,7 @@ stats:
 
 # Leigh Lake Falls Upper
 
-*Leigh lake falls upper​    the ultimate waterfall hike/paddle*
+*Leigh lake falls upper    the ultimate waterfall hike/paddle*
 
 ## Description
 
@@ -34,11 +42,11 @@ In the last 6 years, there has been two avalanches of rock from up very high. Th
 As you leave the trailhead, please fill out the trail registration info. These cards show the USFS, the use of the trails, and eventually are used to fund projects on the trails. They can also be used in case of an over due hikers and climbers.
 At about .3 miles, notice a K.N.F., C.M.W. boundary sign above you in a tree.
 For the first .75 miles, the trail is in the woods and climbs semi steeply until it breaks out along side Leigh Creek.
-From here the views become exceptional, and the hiking is easier. The middle section of the trail is on boulders that do not necessarily need to be scrambled. 
+From here the views become exceptional, and the hiking is easier. The middle section of the trail is on boulders that do not necessarily need to be scrambled.
 There are a few switchbacks before you reach Leigh Creek Falls. See next waterfall subcategory.
 During the rebuild of the trail, the USFS has opened the trail to the old and original campsite. I have not been there since the rebuild, but will include the changes on this site after I visit the lake.
 Leigh Creek Falls is an excellent place to shed the pack, splash real cold water on your face and enjoy the most beautiful waterfall in the C.M.W.
-From Leigh Creek Falls, the trail climbs very steeply for less than  200 verts. Even tho the trail is steep, its easily doable. I've seen 6 year old girls in flip-flops do this section without difficulty.
+From Leigh Creek Falls, the trail climbs very steeply for less than  200 verts. Even tho the trail is steep, its easily doable. I've seen 6 year old girls in flip-flops do this section without difficulty.
 Once above this section, you will have incredible views and sounds of Leigh Creek Falls, below the trail. The walk to the lake climbs a little, before it drops to the lake. In the spring, Glacier Lilies cover the area the trail wonders thru.
 As you near the lake, the outlet creek is filled with weathered logs that have fallen down from up high.
 A Little further, and you come to the rocks at the NE end of the lake.
@@ -47,9 +55,8 @@ The USFS and the Libby Ranger District requires no camping on this side of the l
 
 ## Option #1
 
-From the first contact of the lake by the rocks, follow a user created trail on your right (N) side. 
+From the first contact of the lake by the rocks, follow a user created trail on your right (N) side.
 In a litle over .2 miles, is a rocky beach to visit. In the early spring, there's a creek coming down from Bockman Peak that creates a snow cave to explore. Keep in mind, i'ts cold and wet inside.
-​
 
 ## Option #2
 
@@ -67,13 +74,12 @@ From Libby, drive south on Highway 2 towards Glacier National Park for about 8 m
 ## Cool things close by
 
 Snowshoe Peak 8738', A Peak, Granite Lake, L.& U. Geiger Lakes with Lost Buck Pass & the Cabinet Divide Trail with views of Wanless Lake.
-​The Proposed Scotchman Peaks Wilderness, the Bull River and Lake, and the Clark Fork River.
+The Proposed Scotchman Peaks Wilderness, the Bull River and Lake, and the Clark Fork River.
 
 ## Hazards
 
 All waterfalls are a hazard, due to their slippery nature. always be extra careful near any waterfall.
-​Please keep a close eye on your children when climbing the vertical section above the Leigh Creek Falls.
-​
+Please keep a close eye on your children when climbing the vertical section above the Leigh Creek Falls.
 
 ## R & p
 
@@ -109,11 +115,11 @@ Click for Current NOAA Weather Conditions
 
 ![Picture](assets/images/11132021628.jpg)
 
-## A snow terminus, towers above paddlers. ​the center ridge line above is over 1500'
+## A snow terminus, towers above paddlers. the center ridge line above is over 1500'
 
 *Picture (Image missing)*
 
-Icebergs float on leigh lake. ​all the vertical groves in the background, have cascades in early spring
+Icebergs float on leigh lake. all the vertical groves in the background, have cascades in early spring
 
 *Picture (Image missing)*
 
@@ -125,15 +131,15 @@ Icebergs float on leigh lake. ​all the vertical groves in the background, have
 
 *Picture (Image missing)*
 
-## Snow levels are about 30+ feet pre year. ​jane poses for an image before the terminus
+## Snow levels are about 30+ feet pre year. jane poses for an image before the terminus
 
 ![Picture](assets/images/11132021652.jpg)
 
-They say, the majority of a berg is below the berg ​this berg's lower section shows 60' below the surface
+They say, the majority of a berg is below the berg this berg's lower section shows 60' below the surface
 
 *Picture (Image missing)*
 
-## Each snow terminus or snow field up high ​produces gigantic amounts of snow Photo by deb pierce
+## Each snow terminus or snow field up high produces gigantic amounts of snow Photo by deb pierce
 
 ![Picture](assets/images/11132021654.jpg)
 
@@ -141,4 +147,4 @@ They say, the majority of a berg is below the berg ​this berg's lower section 
 
 *Picture (Image missing)*
 
-​in the dead of winter, snow accumulates to a depth of well over 30' This snow fuels the waterfalls all around the lake, ​ up high and on trail #132
+in the dead of winter, snow accumulates to a depth of well over 30' This snow fuels the waterfalls all around the lake,  up high and on trail #132

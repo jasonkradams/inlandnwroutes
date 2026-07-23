@@ -1,43 +1,62 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 - Moderate
+
 - Hiking
+
 - Backpacking
+
 - Fishing
+
 - Scenery
+
 - Photography
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Hiking, backpacking, fishing, scenery, and photography.
+
 - label: Distance
   icon: map-marker-distance
   value: To Lower Lake 4 miles RT, Upper Lake 6 miles RT, L.B.P. & Cabinet Divide
     Trail 8+RT miles.
+
 - label: Elevation Gain
   icon: elevation-rise
   value: Lower Lake 1000 verts, Upper Lake 1600 verts
+
 - label: Acres
   icon: vector-square
   value: lower 34.4…..upper 12.5
+
 - label: Difficulty
   icon: speedometer
   value: Moderate
+
 - label: Maps
   icon: map
   value: Kaniksu N.F., Goat Peak Topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 48°00’58" n 115°32’08" w
+
 - label: Ranger District
   icon: pine-tree
   value: Libby R.D. 406.293.7773
+
 - label: Lincoln County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.293.4112
 notes:
+
 - Kootenai national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 
@@ -50,7 +69,7 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​Trail #656 wonders thru a young forest for 2 miles to the lower lake. An unnamed peak fills the entire backdrop of the lake, and is stunning. After spending some time here, skirt the north end of the lake and hike a mile to the upper lake.
+Trail #656 wonders thru a young forest for 2 miles to the lower lake. An unnamed peak fills the entire backdrop of the lake, and is stunning. After spending some time here, skirt the north end of the lake and hike a mile to the upper lake.
 
 To the north there is a trail up a cool scree slope to Lost Buck Pass and the Cabinet Divide Trail # 360. Walk south for about .2 of a mile and you can find a place to eat lunch and take in the views of Wanless Lake out to the west, with Engle Peak above. The Cabinet Divide Trail runs 6 miles to the wilderness boundary, and another 8 miles past. Spend some time up high and take in the incredible views.
 
@@ -79,14 +98,14 @@ There are few if any hazards, but be aware of Wood Ticks in the tall grasses aro
 
 ## R & p
 
-Kaiju Bar & Grill in Libby.   Henry’s & Pizza Hut, in Libby, Clark Fork Pantry, Eicharts, Mr Sub & Jalapeños in Sandpoint
-​The Shed south of Libby a few miles is on Hwy 2
+Kaiju Bar & Grill in Libby.   Henry’s & Pizza Hut, in Libby, Clark Fork Pantry, Eicharts, Mr Sub & Jalapeños in Sandpoint
+The Shed south of Libby a few miles is on Hwy 2
 
 *Picture (Image missing)*
 
 ## Photo gallery
 
-![Picture](assets/images/20200909055734.jpg){: data-src="assets/images/20200909055734.jpg" }
+![Picture](assets/images/20200909055734.jpg)"
 
 ## Trail #656 to lower geiger lake
 

@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Lakes
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: 8.5 mile loop
+
 - label: Elevation
   icon: terrain
   value: 2385’
+
 - label: Length and Acreage
   icon: vector-square
   value: 2.6 miles long and 1100 acres
+
 - label: Maps
   icon: map
   value: Stevens County, Deer Lake topo
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°03’20" n 117038’17" w
+
 - label: Stevens County Sheriff
   icon: shield-account
   value: 509.684.5296
@@ -27,7 +35,7 @@ stats:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​Loon Lake is a heavily populated lake in Stevens County, next to the town of Loon Lake. Hence power boat traffic is also heavy.
+Loon Lake is a heavily populated lake in Stevens County, next to the town of Loon Lake. Hence power boat traffic is also heavy.
 
 ## Attractions
 

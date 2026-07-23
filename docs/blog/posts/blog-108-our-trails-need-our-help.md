@@ -1,15 +1,20 @@
 ---
 title: "Blog #108: Our trails need our help"
+
 date: 2026-05-24
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 
+By now most of us has been on a mountain trail.
 
-​By now most of us has been on a mountain trail.
 What we are finding is a huge number of downed trees on almost every trail.
 
 <!-- more -->
@@ -23,7 +28,7 @@ Usually when I go up with The Spokane Mountaineers, we rarely find downed trees.
 
 Three weeks ago, I hiked into Lower Stevens Lake to assess the amount of downed trees and any trail work that will be needed.
 I counted 63 trees of all sizes down across the trail.
- And until you get near the headwall, near the old miners camp the downed trees are 3 and 4 trees deep along about 200’ of the trail.
+ And until you get near the headwall, near the old miners camp the downed trees are 3 and 4 trees deep along about 200’ of the trail.
 
 This is the same as I’m hearing from all over the I.P.N.F.
 
@@ -64,4 +69,4 @@ Our trails are our avenues to enjoy Nature, see the incredible sights, and to cl
 Thank You for being our readers.
 Our goal is to show the beauty of our area how you can be part of it.
 
-Chic        David
+Chic        David

@@ -1,37 +1,54 @@
 ---
 tags:
+
 - Lakes
+
 - Easy
+
 - Camping
+
 - Day Hiking
+
 - Equestrian
+
 - Golf
+
 - Mt Biking
+
 - Paddling
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Camping, day hiking, equestrian, golf, mt biking, paddling, fishing, and
     relaxation.
+
 - label: Distance
   icon: map-marker-distance
   value: varies depending on your route.
+
 - label: Elevation
   icon: terrain
   value: varies depending on where you go. Except for hiking the rim, elevation change
     is minimal
+
 - label: Difficulty
   icon: speedometer
   value: easy
+
 - label: Maps
   icon: map
   value: Sun Lakes-Dry Falls State Park brochure and website
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°35’21" n 119°23’ 28" w
+
 - label: Managing Agency
   icon: domain
   value: w.s.p. & r. 509.632.5583
+
 - label: Grant County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 509.754.2011
@@ -50,7 +67,9 @@ However, having said that, Dry Falls is so spectacular, it may over shadow the r
 Many times, 12,000 years ago and back, Glacier Lake Missoula formed behind ice dams crossing the valley at Clark Fork, Idaho.
 When the dams bursts, the equivalent of Lakes Erie and Superior, raced down thru Sandpoint, CDA, Spokane, and beyond to the Columbia River and the Pacific Ocean.
 Imagine a wall of water 1,000+ feet tall and moving at 65 miles per hour, thru what is now known as the Washington’s Channeled Scablands.
+
 You can hike down to, or paddle to what was at one time the largest waterfall on earth. Some 400+ foot cliffs, and about 3.5 miles wide.
+
 Be sure to plan some time to visit the Visitors Center, perched on the west rim.
 Within the park are 8 lakes to explore. Some you do not want to get wet in.
 

@@ -1,37 +1,53 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 - Easy
+
 - Day Hike
+
 - Backpack
+
 - Fire Lookout Rental
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hike, backpack, fire lookout rental
+
 - label: Distance
   icon: map-marker-distance
   value: 1.3 miles one way from gate. Check to see if you can get a key for the gate.
+
 - label: Elevation
   icon: terrain
   value: 500 verts from gate to lookout
+
 - label: Difficulty
   icon: speedometer
   value: Easy
+
 - label: Maps
   icon: map
   value: IPNF, Pond Peak topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°47’52" n 116°00’21" w
+
 - label: Ranger District
   icon: pine-tree
   value: CDA River vR.D. 208.769.3000
+
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
 notes:
+
 - Idaho panhandle national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -42,7 +58,7 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​The Little Guard Lookout Tower is a rental well worth the dollars to stay there. The USFS asks that you park your car at the gate, but may allow you access to take gear up.
+The Little Guard Lookout Tower is a rental well worth the dollars to stay there. The USFS asks that you park your car at the gate, but may allow you access to take gear up.
 The actual lookout is built on concrete blocks about 10 feet off the ground.
 The views of the Cabinet Mountain Wilderness is incredible, and is only 22 miles NE.
 
@@ -64,7 +80,7 @@ Shadow Falls, Fern Falls, Continental Falls, the CDA River North N.R.T., Spion K
 
 ## R & p
 
-Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ & Saloon, Wallace Brewing Co.,  Muchachos Tacos in Wallace. Radio Brewing in Kellogg. The Snake Pit, north of Kingston. The Moon Time & The Mexican Food Factory in CDA
+Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ & Saloon, Wallace Brewing Co.,  Muchachos Tacos in Wallace. Radio Brewing in Kellogg. The Snake Pit, north of Kingston. The Moon Time & The Mexican Food Factory in CDA
 
 ## Photo gallery
 

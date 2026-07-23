@@ -1,16 +1,21 @@
 ---
 title: "Blog #106: What a rescue looks like and what you need to know."
+
 date: 2026-05-05
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Trail Safety & Gear
 ---
 
-
 Hi Readers,
-​A few years ago, a rescue of a friend was necessary.
+
+A few years ago, a rescue of a friend was necessary.
 We were within 5 miles of Mullan, Idaho, and fortunately had cell coverage.
 I called the Shoshone County Sheriff’s office, and set into motion a rescue.
 Although the injury wasn’t life threatening, there is no way the victim could walk out on their own.
@@ -95,6 +100,6 @@ But our responsibility is to provide our readers with accurate and useful inform
 
 Thank You for reading our free, local website,
 
-Chic          David
+Chic          David
 
 InlandNWRoutes.com

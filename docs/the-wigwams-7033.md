@@ -1,38 +1,54 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 - Hike
+
 - Scrambling
+
 - Backpack
+
 - Climb
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Hike, scrambling, backpack, and climb.
+
 - label: Distance
   icon: map-marker-distance
   value: 4 miles RT + 2 miles to the high ridge with views of the Two Mouth Lakes
     area.
+
 - label: Elevation Gain
   icon: elevation-rise
   value: 950' gain +
+
 - label: Difficulty
   icon: speedometer
   value: The trail to the Wigs is easy, but beyond is difficult +
+
 - label: Maps
   icon: map
   value: IPNF, Kaniksu N.F., The Wigwams
+
 - label: GPS
   icon: crosshairs-gps
   value: 48°42’49" n -116°44’49" w
+
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561
+
 - label: Boundary County Sheriff
   icon: shield-account
   value: 911 or 208.267.3151
 notes:
+
 - Idaho panhandle national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -64,7 +80,7 @@ Priest Lake, Hunt Creek Falls, Lion Head Campground, Lions Creek Slides, Kent La
 ## Hazards
 
 My opinion:
-​Because the Idaho Dept. of Lands don't want us on "their" land, they sabotage the roads so only large 4 wheel drive trucks with high clearance can access the trailheads in the area.
+Because the Idaho Dept. of Lands don't want us on "their" land, they sabotage the roads so only large 4 wheel drive trucks with high clearance can access the trailheads in the area.
 Extremely rough roads with car swallowing Kelly Humps.
 
 ## R & p
@@ -99,7 +115,7 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint. Burger Express i
 
 ![Picture](assets/images/2021511816.jpg)
 
-## A gourmet lunch in the wigs.   ​image by chris herath
+## A gourmet lunch in the wigs.   image by chris herath
 
 *Picture (Image missing)*
 
@@ -113,4 +129,4 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint. Burger Express i
 
 ## The trail to the s.w. wigwam
 
-One of the joys of wandering  along the high ridges, is the ancient twisted snags. Some look like chandeliers, while others look like they were frozen                                                 as they meander thru time.                                                                   chic.  9.14.11
+One of the joys of wandering  along the high ridges, is the ancient twisted snags. Some look like chandeliers, while others look like they were frozen                                                 as they meander thru time.                                                                   chic.  9.14.11

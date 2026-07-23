@@ -1,15 +1,20 @@
 ---
 title: "Blog #55: Plan ahead"
+
 date: 2024-04-26
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 
-
 plan ahead
+
 As you are planning your outing, I strongly suggest calling the Ranger District of the area you want to recreate in, to learn of any last minute "ALERTS".
 On all of our hike’s write ups, we have listed the managing agencies phone numbers, in the hike data section.
 The reason I suggest this, is because a few years ago, we drove for 2.4 hours, only to find that a bridge 200 feet from the cut off road, was being replaced.
@@ -25,7 +30,7 @@ As long as we are in the planning stage, under the below url, you will find 4 we
 <https://inciweb.nwcg.gov/>
 To learn about weather in all its wonders, check out this url.
 <https://www.inlandnwroutes.com/weather-thunderstorms-and-lightning.html>
-Chic              David
-InlandNWRoutes.com​
+Chic              David
+InlandNWRoutes.com
 
 <!-- more -->

@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Paddling & Rivers
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
+
 - label: Elevation
   icon: terrain
   value: 1991’
+
 - label: Length and Acreage
   icon: vector-square
   value: varies
+
 - label: Maps
   icon: map
   value: IPNF, Sandpoint Topo
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°51’09" n 117°23’09" w
+
 - label: Boundary County Sheriff
   icon: shield-account
   value: 208.267.3151
@@ -38,7 +46,7 @@ Great paddling up stream. Peaceful flat water paddling.
 ## Directions
 
 On the way to Boundary Dam, on Hwy 31, turn right at in Metaline, onto N. Main Ave. At the second left, turn into the launch site and
-​park.
+park.
 
 ## Cool things close by
 

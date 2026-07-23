@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Waterfalls
+
 stats:
+
 - label: Waterfall
   icon: waterfall
   value: Hawk Creek Falls State Park
+
 - label: Drop
   icon: arrow-collapse-down
   value: About 40 feet
+
 - label: Waterfall Type
   icon: waterfall
   value: chute
+
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: 300 feet
+
 - label: Maps
   icon: map
   value: Washington State Parks
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°81'09' n 118°31'04"w
@@ -31,12 +39,12 @@ stats:
 Hawk Creek Falls State Park is located along the south shores of the Columbia River north of Creston, Washington, on Miles Creston Rd N.
 Turn left (west) into the State Park. Discover Pass is required, or you can buy a day pass at the parking areas.
 The falls are located SE of the Campgrounds, while the trailhead to walk out to the Columbia River is west of the campgrounds.
-​After visiting the falls, hike the shore line west out to the Columbia River
+After visiting the falls, hike the shore line west out to the Columbia River
 
 ## Option #1
 
 Add option as you enter the area, the campsite sits below the road in. A short distance up stream is beautiful Hawk Creek Falls, dropping about 40' in a chasm beneath the road.
-From the parking area, the trail heads west along the north side Hawk Bay. There are several beaches to swim at. Further away from the parking area, the trail eventually reaches the Columbia River. 
+From the parking area, the trail heads west along the north side Hawk Bay. There are several beaches to swim at. Further away from the parking area, the trail eventually reaches the Columbia River.
 As you see Moonshine Canyon Bay across Hawk Bay, you will have to climb up and over the hills to get to a spot with unobstructed views of the Columbia River
 Paddling this bay, and out into the Columbia River offers great views and a nice paddling experience.
 Back on land, out near the river is a ridge line coming down from above. On a step above the bay, there is a small sand dune to explore. It's also a great place for lunch.

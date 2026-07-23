@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Lakes
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: 6.7 miles
+
 - label: Elevation
   icon: terrain
   value: 2177’
+
 - label: Length and Acreage
   icon: vector-square
   value: 2.73miles. 244 acres
+
 - label: Maps
   icon: map
   value: Amber Lake Topo
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°20’32" n 117°38’17" w
+
 - label: Spokane County Sheriff
   icon: shield-account
   value: 509.447.2240
@@ -27,7 +35,7 @@ stats:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​Badger Lake is an "S" shaped lake, 2.7 miles long with a small island to the NE.
+Badger Lake is an "S" shaped lake, 2.7 miles long with a small island to the NE.
 
 ## Attractions
 

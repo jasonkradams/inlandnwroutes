@@ -1,13 +1,17 @@
 ---
 title: "Blog # 49: Spring wildflowers"
+
 date: 2024-03-06
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Winter Sports
 ---
-
 
 ## praire stars
 
@@ -59,8 +63,7 @@ It would be wise to call the area you wish to visit, to see when prime wildflowe
 You can find the managing agencies phone numbers in each hikes write up.
 
 Enjoy the Spring by taking a walk, and seeing for yourself.
-​
 
-Chic          David
+Chic          David
 
 InlandNWRoutes.com

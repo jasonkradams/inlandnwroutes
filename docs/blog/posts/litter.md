@@ -1,31 +1,36 @@
 ---
 title: "Blog #39: Litter"
+
 date: 2023-10-25
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 
+Aluminum cans.                     80-200 years
 
-Aluminum cans.                     80-200 years
-Glass bottles.                          1 million years
-Plastic bags.                             500-1000 years
-Paper.                                           2-5 months
-Orange/banana peels.       6 months
-Tin cans.                                     50-200 years
-Styrofoam.                                50 years
-Wet wipes.                               100 years
-Nylon fabric.                           30-40 years
-Synthetic fabrics.                 100 years +
-Feminine products.             250+ years
+Glass bottles.                          1 million years
+Plastic bags.                             500-1000 years
+Paper.                                           2-5 months
+Orange/banana peels.       6 months
+Tin cans.                                     50-200 years
+Styrofoam.                                50 years
+Wet wipes.                               100 years
+Nylon fabric.                           30-40 years
+Synthetic fabrics.                 100 years +
+Feminine products.             250+ years
 
-Chewing gum.                       50-1000 years
-Diapers.                                    500 years
-​Mono filament fish line.   600 years
-6 pack plastic.                        450 years
-Cotton t—shirt.                    6 months
+Chewing gum.                       50-1000 years
+Diapers.                                    500 years
+Mono filament fish line.   600 years
+6 pack plastic.                        450 years
+Cotton t—shirt.                    6 months
 
 <!-- more -->
 
@@ -59,4 +64,4 @@ make every day an earth day.
 
 InlandNWRoutes.com
 
-Chic Burge               David Crafton
+Chic Burge               David Crafton

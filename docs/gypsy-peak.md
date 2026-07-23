@@ -1,32 +1,46 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Moderately Difficult
+
 - Day Hiking
+
 - Backpacking
+
 - Equestrian
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, and equestrian
+
 - label: Distance
   icon: map-marker-distance
   value: 6.5 miles RT
+
 - label: Elevation
   icon: terrain
   value: 1750’
+
 - label: Difficulty
   icon: speedometer
   value: moderately difficult
+
 - label: Maps
   icon: map
   value: Colville N. F., Salmo-Priest Wilderness, Gypsy Peak Topo
+
 - label: GPS
   icon: crosshairs-gps
   value: Trailhead 48°55’ 04" N 117°08’ 37" W
+
 - label: Managing Agency
   icon: domain
   value: Sullivan Lake R.D. 509.446.7500
+
 - label: Pend Orielle County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 509.447.3151
@@ -34,7 +48,7 @@ stats:
 
 # Gypsy Peak
 
-*Gypsy peak trail #435 ​salmo-priest wilderness*
+*Gypsy peak trail #435 salmo-priest wilderness*
 
 ## Description
 

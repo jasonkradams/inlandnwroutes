@@ -1,25 +1,29 @@
 ---
 title: "Blog #59: The colors of auroras explained"
+
 date: 2024-05-12
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 
-
 Since we are experiencing some great northern light, i thot id show our readers where the colors originate from and more.
-​enjoy
+
+enjoy
 
 Ps....In the mid 80's, I was the President of the Spokane Astronomical Society, as well as the guest speaker for our grade schools convocations and in the field Star Parties.
 
 Pss....once, back in 2001, I was rowing Swiftcurrent Lake, and camping along its shorelines.
-​As I paddled I noticed a lot of large critters making noise all along the shoreline.
-​I decided not to sleep on a beach that night, so I set up my cot in the rowboat, and crashed.
-​The critter noise got real loud, so I thru back my boom tarp (think sailboat), and to my amazement, the entire sky from horizon to horizon, was fire engine red.
+As I paddled I noticed a lot of large critters making noise all along the shoreline.
+I decided not to sleep on a beach that night, so I set up my cot in the rowboat, and crashed.
+The critter noise got real loud, so I thru back my boom tarp (think sailboat), and to my amazement, the entire sky from horizon to horizon, was fire engine red.
 Now I'm not saying a strip or two. I mean the whole sky was bright red. Because there was a breeze, none of my images turned out. Drats!
-​
 
 **What are the northern lights?**The northern lights, commonly referred to as the aurora borealis, are the result of interactions between the sun and earth's outer atmosphere. they are one of the most spectacular light shows to watch as vivid colors glow in the sky. in the southern hemisphere, it is called the aurora australis.**What causes the auroras?**
 

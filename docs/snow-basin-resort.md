@@ -1,32 +1,41 @@
 ---
 tags:
+
 - Winter & Skiing
+
 stats:
+
 - label: Phone
   icon: phone
   value: 888.437.5488
+
 - label: Acres
   icon: vector-square
   value: '3000'
+
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: '300'
+
 - label: Summit Elevation
   icon: terrain
   value: 9350'
+
 - label: Base Elevation
   icon: terrain
   value: 6450'
+
 - label: Verts
   icon: arrow-expand-vertical
   value: 2900'
 notes:
+
 - Snowbasinresort.com
 ---
 
 # Snow Basin Resort
 
-*Snow basin resort    huntsville, ut*
+*Snow basin resort    huntsville, ut*
 
 ## of named runs: 104
 
@@ -61,6 +70,6 @@ Recreation skiing grew rapidly after WWII thanks in large part to the energy and
 In 1995, Salt Lake City was awarded the 2002 Olympic Winter Games and Snowbasin was chosen as the venue for the men’s and women’s downhill, super G and combined races.
 The United States Congress passed the Snowbasin Land Exchange Act in 1996 as part of the Omnibus Lands Bill. In addition to mandating the exchange of National Forest System lands to Snowbasin, the Act identified a set of projects that were deemed necessary for the resort to host the Olympic competitions. On May 23, 2000, the land exchange was completed, transferring 1,377 acres of National Forest System lands at the base of the resort to Snowbasin and 11,757 acres of private land in northern Utah to the Wasatch-Cache National Forest. Approximately 60 percent of Snowbasin Resort remains on the National Forest. During Olympic venue construction, Snowbasin and the Forest Service considered the environment their first priority, protecting soil, water quality, wetlands, wildlife and aesthetic values. This was accomplished by avoiding sensitive areas whenever possible, insulating them from construction impacts when it was not and restoring the original functions and qualities where impacts to the land and water could not be avoided.
 2004 — Summer Operations BeginOn June 25, 2004 Snowbasin Resort took one more step toward the goal to become a four-season resort when it opened for its inaugural Summer Season. The success of the season was immediately evident. The Blues, Brews & BBQ Free Summer Concert Series has become a Sunday afternoon must for many locals.
-Looking to the FutureAs the area continues in its tradition as a gathering place for all people, Snowbasin Resort and the Forest Service will continue to move forward, ensuring that this area remains a place of beauty, healthy natural resources, and recreation for people of all ages for many years to come. Snowbasin Resort will be enjoying our 80th anniversary season this year.
+Looking to the FutureAs the area continues in its tradition as a gathering place for all people, Snowbasin Resort and the Forest Service will continue to move forward, ensuring that this area remains a place of beauty, healthy natural resources, and recreation for people of all ages for many years to come. Snowbasin Resort will be enjoying our 80th anniversary season this year.
 
 ## To contribute images, contact chic via this website

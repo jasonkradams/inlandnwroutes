@@ -16,9 +16,9 @@ Staff will use the 2016 Prioritized Acquisition List (and subsequent amendments 
 ## Links to Route Descriptions
 
 Liberty Lake Cedars
-McLellan 
-Iller Creek  (DHC)
-James T. Slavin 
+McLellan
+Iller Creek  (DHC)
+James T. Slavin
 Edberg & Bass
 Powell
 Feryn Ranch I
@@ -26,7 +26,7 @@ Haynes Estate
 Feryn II
 McKenzie
 Feryn III
-Antoine Peak I 3375’ 
+Antoine Peak I 3375’
 Holmberg
 Antoine Peak II
 Hauser (Swank)
@@ -35,7 +35,7 @@ Rock Creek Iller
 Saltiest Uplands
 Stone Estate (DHC)
 McCollom (DHC)
-Mica Peak 
+Mica Peak
 Johnson Property, Antoine East Parking
 Mica Peak (Sheard Property)
 Trautman

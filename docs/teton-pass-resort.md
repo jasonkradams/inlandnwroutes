@@ -1,32 +1,42 @@
 ---
 tags:
+
 - Winter & Skiing
+
 stats:
+
 - label: Phone
   icon: phone
   value: 406.466.2209
+
 - label: Acres
   icon: vector-square
   value: '400'
+
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 300"
+
 - label: Summit Elevation
   icon: terrain
   value: 7200'
+
 - label: Base Elevation
   icon: terrain
   value: 6200'
+
 - label: Verts
   icon: arrow-expand-vertical
   value: 1000 + 1300' above
+
 notes:
+
 - Skitetonmt.com
 ---
 
 # Teton Pass Resort
 
-*Teton pass resort    choteau, mt*
+*Teton pass resort    choteau, mt*
 
 ## of named runs: 26
 

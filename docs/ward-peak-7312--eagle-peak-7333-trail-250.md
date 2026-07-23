@@ -1,39 +1,56 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Moderately Easy
+
 - Day Hiking
+
 - Backpacking
+
 - Scrambling
+
 - Photography
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, scrambling and photography
+
 - label: Distance
   icon: map-marker-distance
   value: 5 miles RT
+
 - label: Elevation
   icon: terrain
   value: 912’ gain to Ward Peak, with 812’ loss to the saddle, 833’ gain to Eagle
     Peak from saddle
+
 - label: Difficulty
   icon: speedometer
   value: moderately easy
+
 - label: Maps
   icon: map
   value: IPNF, Lolo N.F., Haugen, Mt.- I’d
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°28’27" n 115°38’ 38" w
+
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
+
 - label: Mineral County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.822.3555
 notes:
+
 - Lolo national forest/alerts
+
 - https[://www.fs.usda.gov/alerts/lolo/alerts-notices](https://www.fs.usda.gov/alerts/lolo/alerts-notices)
 ---
 
@@ -102,7 +119,7 @@ None on Ward or Eagle Peaks. A lot on OPTION #4
 
 ## R & p
 
-Muchacho’s Tacos, Pizza Factory, 1313 Club,  in Wallace, and Radio Brewing in Kellogg
+Muchacho’s Tacos, Pizza Factory, 1313 Club,  in Wallace, and Radio Brewing in Kellogg
 
 ## Photo gallery
 
@@ -196,4 +213,4 @@ Muchacho’s Tacos, Pizza Factory, 1313 Club,  in Wallace, and Radio Brewing in
 
 ## Chris on the more gentle route out from unnamed double lake
 
-As we stood on a ridge above the lakes, it's hard not to notice the astounding beauty of it's cirque. On one side is a ragged unthinkable ridge with many cliffs. Just below these cliffs is an area on a steep slope exploding in fall colors.  It's the intensity of these colors that draws your eye. The bench we are shooting from had both wild flowers and fall colors. Next to us is a glacier polished rock slab that drops several thousand feet. The opposite side of the cirque is a descending ridge that runs out in a mile. From our high place, the double lake sparkles like a gem.  Dividing the lakes is a band of debris that snakes from one side to the other. One hot summer day that I was at the lake, I thot I'd dive in to cool off. After stripping down I stepped out onto a ledge just below the surface. To my amazement, that ledge was so far down, I never did stand on it. The clarity of the water was deceiving.   From the lake the cirque stands high and imposing.  Way back in the center of the cirque is a huge snowfield left over from last winter or maybe the winter before. Another cool feature of these lakes, is a difficulty to reach. I have never been unhappy with a trip Ward and Eagle Peaks.                                                                              chic. 10.4.11
+As we stood on a ridge above the lakes, it's hard not to notice the astounding beauty of it's cirque. On one side is a ragged unthinkable ridge with many cliffs. Just below these cliffs is an area on a steep slope exploding in fall colors.  It's the intensity of these colors that draws your eye. The bench we are shooting from had both wild flowers and fall colors. Next to us is a glacier polished rock slab that drops several thousand feet. The opposite side of the cirque is a descending ridge that runs out in a mile. From our high place, the double lake sparkles like a gem.  Dividing the lakes is a band of debris that snakes from one side to the other. One hot summer day that I was at the lake, I thot I'd dive in to cool off. After stripping down I stepped out onto a ledge just below the surface. To my amazement, that ledge was so far down, I never did stand on it. The clarity of the water was deceiving.   From the lake the cirque stands high and imposing.  Way back in the center of the cirque is a huge snowfield left over from last winter or maybe the winter before. Another cool feature of these lakes, is a difficulty to reach. I have never been unhappy with a trip Ward and Eagle Peaks.                                                                              chic. 10.4.11

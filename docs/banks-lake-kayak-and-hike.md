@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Lakes
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
+
 - label: Elevation
   icon: terrain
   value: 1571’
+
 - label: Length and Acreage
   icon: vector-square
   value: 26.7 miles long & 26,890 acres
+
 - label: Maps
   icon: map
   value: Steamboat Rock SW
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°52’2" n 119°05’ 54" w
+
 - label: Brant County Sheriff
   icon: shield-account
   value: 509.754.2011
@@ -59,7 +67,7 @@ Hike Northrop Canyon
 
 Grand Coulee Dam and the laser light show. Just north of Steamboat Rock, are nice vertical walls to climb right out of your boat among the many small islands.
 Grand Coulee Dam, Sun Lakes S.P., Dry Falls, Steamboat Rock, Summer Falls, Northrup Canyon.
-​Great rock climbing at Northrup Canyon and Highway Rock with 70 routes on its 300 foot tall prominence.
+Great rock climbing at Northrup Canyon and Highway Rock with 70 routes on its 300 foot tall prominence.
 
 ## Hazards
 

@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Paddling & Rivers
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: 5.3 mile loop
+
 - label: Elevation
   icon: terrain
   value: 2212’
+
 - label: Length and Acreage
   icon: vector-square
   value: 2.3 miles long & 803.7 acres
+
 - label: Maps
   icon: map
   value: Cocolalla & Sage Topos
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°08’18" n 116°36’1" w
+
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300
@@ -28,7 +36,7 @@ stats:
 
 The launch is located on the north end of the lake, just off of Hwy 95.
 If you paddle to the right, there is less highway noise, but the west shore has lots of houses.
-​If you paddle to the left, you will have more highway noise, but no houses r people. And maybe a place to swim.
+If you paddle to the left, you will have more highway noise, but no houses r people. And maybe a place to swim.
 
 ## Attractions
 

@@ -1,34 +1,48 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 - Easy
+
 - Hiking
+
 - Birding
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Hiking, Birding
+
 - label: Distance
   icon: map-marker-distance
   value: 3 miles
+
 - label: Elevation
   icon: terrain
   value: 200' gain and loss
+
 - label: Difficulty
   icon: speedometer
   value: Easy
+
 - label: Maps
   icon: map
   value: USGS Soda Lake and O'Sullivan Dam
+
 - label: GPS
   icon: crosshairs-gps
   value: 46° 53’ 56.2"n 119° 15’ 57.4"w
+
 - label: Managing Agency
   icon: domain
   value: U.S. Fish & Wildlife Service [509.546.8300](tel:509.546.8300)
+
 - label: Grant County Sheriff
   icon: shield-account
   value: '[509.754.2011](tel:509.754.2011)'
+
 - label: Adams County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or [508.659.1122](tel:508.659.1122)
@@ -41,9 +55,9 @@ stats:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​**Facts**
+**Facts**
 
-* ​75,000 individual waterfowl roost and loaf here
+* 75,000 individual waterfowl roost and loaf here
 
 * 50,000 square miles of Washington, Oregon and Idaho are covered in basalt
 
@@ -69,9 +83,7 @@ We have added the areas sheriff’s emergency phone numbers for each trip write 
 
 * Marsh Unit #1 and Corfu Road fields are closed February 1 to April 30
 
-* The Mesa  west of Marsh Unit #2 is open year round and is adjacent to Washington Department of Fish and Wildlife areas that appear to be open to the public use
-
- ​
+* The Mesa  west of Marsh Unit #2 is open year round and is adjacent to Washington Department of Fish and Wildlife areas that appear to be open to the public use
 
 ### Birding
 
@@ -117,7 +129,7 @@ Take I-90 to exit 182, turn left onto Rd O NE, turn right onto Rd 2 SE, turn lef
 
 ## Cool things close by
 
-Othello hosts a three day  Sandhill Crane Festival. Info is available here: [www.othellosandhillcranefestival.org](https://www.othellosandhillcranefestival.org). Othello Mesas and Dry Creek Trail, Hanford Reach, Potholes Reservoir S.P.
+Othello hosts a three day  Sandhill Crane Festival. Info is available here: [www.othellosandhillcranefestival.org](https://www.othellosandhillcranefestival.org). Othello Mesas and Dry Creek Trail, Hanford Reach, Potholes Reservoir S.P.
 
 ## Hazards
 
@@ -185,4 +197,4 @@ If you like Mexican food Chuy’s Mi Carniceria will have just about anything yo
 
 ![Picture](assets/images/img-4621.jpg)
 
-They are a noisy bunch resting on the water. ​they really make a racket when they take off flying
+They are a noisy bunch resting on the water. they really make a racket when they take off flying

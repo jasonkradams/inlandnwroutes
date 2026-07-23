@@ -1,36 +1,53 @@
 ---
 tags:
+
 - Lakes
+
 - Easy
+
 - Day Hike
+
 - Backpacking
+
 - Backcountry Skiing
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hike, backpacking, backcountry skiing
+
 - label: Distance
   icon: map-marker-distance
   value: Upper 3.2 miles RT. Lower lake you drive to.
+
 - label: Elevation
   icon: terrain
   value: minimal
+
 - label: Difficulty
   icon: speedometer
   value: Easy
+
 - label: Maps
   icon: map
   value: IPNF, Lolo N.F., Cooper Gulch topo
+
 - label: GPS
   icon: crosshairs-gps
   value: Lower Lake. 47°31’05" N 115°43’45" W
+
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. CALL 911 FIRST or 208.769.3000
 notes:
+
 - acres (lower) 14.2 (upper) 18
+
 - Upper Lake. 47°31’08" N 115°43’05" W
+
 - Idaho panhandle national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -51,7 +68,7 @@ But if you turn right at Trail #133 starts to drop, there is a primitive trail t
 
 You can go into the Lower Lake, and start the climb to the Upper Lake, until you get to the trails summit. From here if you turn right, up hill, you can access the peak above and between the lakes. The views here are worth the effort. From the top, you can head east down the ridge to the south of Upper Glidden Lake. The trail is of good quality, and in 1.2 miles you will be at the Upper Glidden Lake. There is very little elevation gain or loss.
 To the north is the creek out of Upper Glidden Lake.
-​If you go down the east side of the creek, you will end up at Idaho Montana boarder.
+If you go down the east side of the creek, you will end up at Idaho Montana boarder.
 If you walk out the west side of the creek, it will take you back to Lower Glidden Lake.
 
 ## Option #2
@@ -71,7 +88,7 @@ At the Idaho/Montana boarder just east of the upper lake trailhead, drive into M
 Drive I-90 to Wallace, Idaho, and drive thru town to the east I-90 off ramp. Before turning onto the freeway, drive north up Burke Canyon for about 12.5 miles. At the Idaho Montana boarder, Glidden Pass, the Upper Glidden Lakes trailhead is on the right (south) .1 miles up under the power lines.
 To get to the Lower Glidden Lake trailhead, veer right about 11 miles from Wallace onto FR #615.
 
-Look for a red arrow painted at the intersection.  (To get to the upper lake, do not turn right at the arrow.)
+Look for a red arrow painted at the intersection.  (To get to the upper lake, do not turn right at the arrow.)
 After crossing two creeks the trailhead is above the second creek.
 
 ## Hazards
@@ -92,7 +109,7 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 ![Picture](assets/images/p24.png)
 
-## Upper glidden lake in spring. That’s stevens peak off in the distance. ​taken from glidden pass
+## Upper glidden lake in spring. That’s stevens peak off in the distance. taken from glidden pass
 
 ---
 
@@ -112,7 +129,7 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 *Picture (Image missing)*
 
-## Stevens peak & the lone lake drainage ​from the ridge line above glidden lakes
+## Stevens peak & the lone lake drainage from the ridge line above glidden lakes
 
 ![Picture](assets/images/p25.png)
 

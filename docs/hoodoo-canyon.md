@@ -1,44 +1,59 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 - Easy
+
 - Day Hiking
+
 - Camping
+
 - Fishing
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, camping, and fishing
+
 - label: Distance
   icon: map-marker-distance
   value: 6.2 miles RT
+
 - label: Elevation
   icon: terrain
   value: South trailhead to Emerald Lake is 244 verts down. NW trailhead to Emerald
     Lake is 744 verts up.
+
 - label: Difficulty
   icon: speedometer
   value: easy
+
 - label: Maps
   icon: map
   value: Colville National Forest Map, , and Kettle Falls topos, Bangs Mt., and Boyds
     Mt Topos
+
 - label: GPS
   icon: crosshairs-gps
   value: South trailhead. 48°37’33" N 118°15’26" W
+
 - label: Managing Agency
   icon: domain
   value: Three Rivers R.D. 509.738.6111
+
 - label: Ferry County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 509.775.3132
 notes:
+
 - NW trailhead. 48°39’46" N 118°16’ 50 W
 ---
 
 # Hoodoo Canyon
 
-*Hoodoo canyon​ & emerald lake trail #17*
+*Hoodoo canyon & emerald lake trail #17*
 
 ## Description
 
@@ -50,7 +65,7 @@ Altho the lake isn’t deep, it’s beautiful in it’s setting in Hoodoo Canyon
 
 SOUTH Trailhead at F.R. #070
 
-The south trail has been repaired. 
+The south trail has been repaired.
 From the Trout Lake Campground, hike the south section of Trail #17, NW around the right (east) side of Trout Lake for about a mile to Emerald Lake.
 
 ## Directions
@@ -65,7 +80,7 @@ From Kettle Falls, drive west over the Columbia River, and turn left (SW) onto H
 
 Columbia River National Recreation Area & the Franklin Roosevelt Lake.
 Sherman Creek Wildlife Recreation Area, Sherman Peak, Republic, Colville, and the Colville Indian Reservation.
-​Crystal Falls, Douglas Falls, and the Salmo-Priest Wilderness.
+Crystal Falls, Douglas Falls, and the Salmo-Priest Wilderness.
 
 ## Hazards
 

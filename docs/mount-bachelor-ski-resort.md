@@ -1,32 +1,41 @@
 ---
 tags:
+
 - Winter & Skiing
+
 stats:
+
 - label: Phone
   icon: phone
   value: 541.382.1709
+
 - label: Acres
   icon: vector-square
   value: '4300'
+
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 462"
+
 - label: Summit Elevation
   icon: terrain
   value: 9065'
+
 - label: Base Elevation
   icon: terrain
   value: 5700'
+
 - label: Verts
   icon: arrow-expand-vertical
   value: 3365'
 notes:
+
 - Mtbachelor.com
 ---
 
 # Mount Bachelor Ski Resort
 
-*Mount bachelor ski resort    bend, or*
+*Mount bachelor ski resort    bend, or*
 
 ## of named runs: 121
 
@@ -50,6 +59,7 @@ Other amenities: ???
 ---
 
 Winter 1958-59
+
 Bachelor Butte ski area opens Oct. 18 with one 3,900 foot pomalift, two rope tows and a 30 x 50-foot day lodge, named Egan Lodge after Forest Service supervisor, James Egan. The opening is marked with an official ceremony on Dec. 19. The first season nets a total of 29,000 skier visits and is open 86 days. Heavy snow blocked the use of the slopes on 5 days. Daily tickets are $3, individual season passes are $50 and family season passes are $85. Cliff Blann serves as manager of Bachelor Butte.
 
 1962
@@ -91,5 +101,5 @@ Cloudchaser Lift line is completed and opens to the public, offering 6.2 miles o
 2018
 Mt. Bachelor celebrates its 60th anniversary.
 
-​2020
+2020
 Mt. Bachelor opens the ZipTour zip line, a unique mountain experience that was a decade-long collaborative project between Mt. Bachelor and the USFS. This dual-line, three-stage tour launches from an elevation of 7,800 feet above the tree line at the top of Pine Marten lift and drops nearly 1,400 vertical feet along the volcano’s slopes to make it the Northwest’s steepest, fastest, and highest-elevation zip adventure.

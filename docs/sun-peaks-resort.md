@@ -1,26 +1,35 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 stats:
+
 - label: Phone
   icon: phone
   value: 250.578.5474
+
 - label: Acres
   icon: vector-square
   value: '4270'
+
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 236'
+
 - label: Summit Elevation
   icon: terrain
   value: 7060'
+
 - label: Base Elevation
   icon: terrain
   value: 4116'
+
 - label: Verts
   icon: arrow-expand-vertical
   value: 2894'
 notes:
+
 - Sunpeaksresort.com
 ---
 
@@ -43,7 +52,8 @@ Miles from spokane: 364 miles
 ---
 
 Sun peaks resort historyA chronological outline of all major events that have occurred at Sun Peaks Resort dating back to the resort’s first year of winter operations under the name Tod Mountain.
-Bring home a more detailed account with our limited edition coffee table book, *Sun Peaks Resort: An Evolution of Dreams*, by Kathleen Scherf, available for purchase in-resort at John Tod Trading Company and Sun Peaks Sports.
+
+Bring home a more detailed account with our limited edition coffee table book, *Sun Peaks Resort: An Evolution of Dreams*, by Kathleen Scherf, available for purchase in-resort at John Tod Trading Company and Sun Peaks Sports.
 
 1961
 
@@ -77,7 +87,7 @@ Bring home a more detailed account with our limited edition coffee table book, 
 
 * Construction began for a 49 lot subdivision across from the Burfield Lodge.
 
-1989 
+1989
 
 * The top station of the Crystal Chair was badly damaged by a mechanical fire.
 
@@ -223,7 +233,7 @@ Bring home a more detailed account with our limited edition coffee table book, 
 
 * Sun Peaks Resort awarded the Silver Eagle Award for Water Conservation from SKI Magazine.
 
-* Sun Peaks Resort LLP’s Environmental management system is fully certified to ISO 14001:2015 (Certificate # 2015), becoming the first resort in North America to do this.
+* Sun Peaks Resort LLP’s Environmental management system is fully certified to ISO 14001:2015 (Certificate # 2015), becoming the first resort in North America to do this.
 
 2005
 
@@ -241,7 +251,7 @@ Bring home a more detailed account with our limited edition coffee table book, 
 
 2006
 
-* Sun Peaks Resort LLP's Environmental management system is re-certified to ISO 14001:2015 (Certificate # 0113313).
+* Sun Peaks Resort LLP's Environmental management system is re-certified to ISO 14001:2015 (Certificate # 0113313).
 
 * The Umbrella Café at Mt. Morrisey opens.
 
@@ -263,7 +273,7 @@ Bring home a more detailed account with our limited edition coffee table book, 
 
 * WestJet begins service to Kamloops and Sun Peaks Resort year round from Calgary, Alberta, beginning December 15, 2008.
 
-* Olympian and Sun Peaks Resort's Director of Skiing Nancy Greene appointed to the Canadian Senate by Canadian Prime Minister Stephen Harper.
+* Olympian and Sun Peaks Resort's Director of Skiing Nancy Greene appointed to the Canadian Senate by Canadian Prime Minister Stephen Harper.
 
 * Sun Peaks Resort named one of the top 10 resorts in North America by Condé Nast Traveler Reader's Poll.
 
@@ -347,7 +357,7 @@ Bring home a more detailed account with our limited edition coffee table book, 
 
 * Sun Peaks Resort awarded the Silver Eagle Award for Water Conservation from SKI Magazine.
 
-* Sun Peaks Resort LLP’s Environmental management system is fully certified to ISO 14001:2015 (Certificate # 2015), becoming the first resort in North America to do this.
+* Sun Peaks Resort LLP’s Environmental management system is fully certified to ISO 14001:2015 (Certificate # 2015), becoming the first resort in North America to do this.
 
 2005
 
@@ -365,7 +375,7 @@ Bring home a more detailed account with our limited edition coffee table book, 
 
 2006
 
-* Sun Peaks Resort LLP's Environmental management system is re-certified to ISO 14001:2015 (Certificate # 0113313).
+* Sun Peaks Resort LLP's Environmental management system is re-certified to ISO 14001:2015 (Certificate # 0113313).
 
 * The Umbrella Café at Mt. Morrisey opens.
 
@@ -387,7 +397,7 @@ Bring home a more detailed account with our limited edition coffee table book, 
 
 * WestJet begins service to Kamloops and Sun Peaks Resort year round from Calgary, Alberta, beginning December 15, 2008.
 
-* Olympian and Sun Peaks Resort's Director of Skiing Nancy Greene appointed to the Canadian Senate by Canadian Prime Minister Stephen Harper.
+* Olympian and Sun Peaks Resort's Director of Skiing Nancy Greene appointed to the Canadian Senate by Canadian Prime Minister Stephen Harper.
 
 * Sun Peaks Resort named one of the top 10 resorts in North America by Condé Nast Traveler Reader's Poll.
 
@@ -531,7 +541,7 @@ Bring home a more detailed account with our limited edition coffee table book, 
 
 * The Sundance chairlift capacity is increased by 30% with additional carriers.
 
-* New property development announced, Echo Landing and Peaks West.
+* New property development announced, Echo Landing and Peaks West.
 
 * A record number of winter skier visits is achieved.
 

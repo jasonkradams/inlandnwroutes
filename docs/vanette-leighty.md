@@ -4,7 +4,7 @@
 
 ## Vanette leighty
 
-I met vanette in the spokane mountaineers a few years ago, and have been very impressed with her abilities in the mountains ​and with her photography. ​enjoy
+I met vanette in the spokane mountaineers a few years ago, and have been very impressed with her abilities in the mountains and with her photography. enjoy
 
 *Picture (Image missing)*
 

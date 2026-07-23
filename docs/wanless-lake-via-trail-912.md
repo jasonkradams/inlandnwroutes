@@ -1,39 +1,55 @@
 ---
 tags:
+
 - Lakes
+
 - Strenuous
+
 - Fast Day Hiking
+
 - Backpacking
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Fast day hiking, backpacking
+
 - label: Distance
   icon: map-marker-distance
   value: 26 miles RT
+
 - label: Elevation
   icon: terrain
   value: 2500’
+
 - label: Acres
   icon: vector-square
   value: '111.5'
+
 - label: Difficulty
   icon: speedometer
   value: Strenuous
+
 - label: Maps
   icon: map
   value: Kootenai N.F., Noxon Rapids, Howard Lake, Goat Peak
+
 - label: GPS
   icon: crosshairs-gps
   value: Swamp Creek Trailhead. 47°55’02" N 115°37’00" W
+
 - label: Ranger District
   icon: pine-tree
   value: Cabinet Ranger District 406.827.3533
+
 - label: Lincoln County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.293.4112
 notes:
+
 - Kootenai national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 
@@ -45,13 +61,13 @@ notes:
 
 Swamp creek trail #912
 
-​I haven’t hiked Trail #912, but can offer some incite.
+I haven’t hiked Trail #912, but can offer some incite.
 
 Gleaned from the USFS WEBPAGE
-​
+
 The Cabinet Mountain Wilderness follows Swamp Creek drainage to Lost Buck Pass and Trail #912A ends at Buck Lake. From Lost Buck Pass, Lake Creek Trail #656 drops to Upper & Lower Geiger Lakes, and South Divide Trail #360A flows a major ridge line out to the southern boundary of the C.M.W. Buck Lake Trail #912A ends at Buck Lake where there are a couple of diverse campsites and the lake contains small cutthroat trout.
 
-​Swamp Creek Trail #912: 12.13 miles one way Buck lake Trail #912A: .38 miles one way
+Swamp Creek Trail #912: 12.13 miles one way Buck lake Trail #912A: .38 miles one way
 
 Beginning: 2686’ Ending: 4389’ at Buck Lake. 5907’ at Lost Buck Pass Net gain: 1703’ to Buck Lake. 3221’ to Lost Buck Pass.
 More difficult

@@ -1,37 +1,53 @@
 ---
 tags:
+
 - Lakes
+
 - Strenous
+
 - Day Hiking
+
 - Backpacking
+
 - Scrambling
+
 - Climbing
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, scrambling & climbing
+
 - label: Distance
   icon: map-marker-distance
   value: 11.4 miles RT
+
 - label: Elevation Gain
   icon: elevation-rise
   value: 2982’ verts
+
 - label: Difficulty
   icon: speedometer
   value: Strenous
+
 - label: Maps
   icon: map
   value: Kootenai N.F., Ibex Peak & Snowshoe Peaktopo
+
 - label: GPS
   icon: crosshairs-gps
   value: 48°12’02" n 115°44’29" w
+
 - label: Libby Ranger District
   icon: pine-tree
   value: 406.293.7333
+
 - label: Lincoln County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.293.4112
 notes:
+
 - Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 
@@ -42,7 +58,7 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​Before I describe the hike to Little Ibex Lake, let me tell you about the whereabouts of the Trailhead. A bunch of years ago, the Middle Fork of the Bull River washed out Forest Road #2272 (FR #2272) that originally led to Little Ibex Lake’s parking area. Now, the trailhead is the same as Trail #980. Look for an unmarked trail about 30’ from the bridge, opposite from the parking area. This trailhead is about 3 miles from Hwy 56, and just past the bridge over the Middle Fork Bull River, Where there is a small parking area for about 4-5 cars.
+Before I describe the hike to Little Ibex Lake, let me tell you about the whereabouts of the Trailhead. A bunch of years ago, the Middle Fork of the Bull River washed out Forest Road #2272 (FR #2272) that originally led to Little Ibex Lake’s parking area. Now, the trailhead is the same as Trail #980. Look for an unmarked trail about 30’ from the bridge, opposite from the parking area. This trailhead is about 3 miles from Hwy 56, and just past the bridge over the Middle Fork Bull River, Where there is a small parking area for about 4-5 cars.
 
 This hike starts out heading up Trail #972 that eventually leads to Snowshoe Lake. In a short distance, Trail #978 turns right and starts it’s relentless climb along side of Middle Fork Bull River. Look for a brown trail stake with hard to read numbers. At about 4 miles, look for a cairn and Trail #978 that drops down steeply to the Middle Fork Bull River.
 
@@ -67,7 +83,7 @@ On Hwy 56, look for milepost 16. Turn right (east) up the South Fork Bull River 
 
 This hike is a true backcountry adventure, please use caution on all aspects of this hike, especially up Trail #980 to the lake.
 
-​Trail #980 has what felt like hundreds of downfall to climb over. And it’s steep.
+Trail #980 has what felt like hundreds of downfall to climb over. And it’s steep.
 
 ## Cool things close by
 
@@ -75,7 +91,7 @@ A Peak, Snowshoe Peak, Vimy Ridge, Bull River, Snowshoe Lake, Ibex Peak , Ross C
 
 ## R & p
 
-Henry’s, Pizza Hut, The Shed, and Rosaeurs in Libby, Clark Fork Pantry & Squeeze Inn in Clark Fork. Eicharts, Mr Sub, Burger Express,  & Jalapeños in Sandpoint
+Henry’s, Pizza Hut, The Shed, and Rosaeurs in Libby, Clark Fork Pantry & Squeeze Inn in Clark Fork. Eicharts, Mr Sub, Burger Express,  & Jalapeños in Sandpoint
 
 ![Picture](assets/images/6182025126p.jpg)
 
@@ -93,13 +109,13 @@ Because there isn’t a marked trail from 978 to l. ibex l., i roughly marked th
 
 *Picture (Image missing)*
 
-At about 4 miles in, you will come to this trail junction. ​turn right, down hill to the middle fork bull river
+At about 4 miles in, you will come to this trail junction. turn right, down hill to the middle fork bull river
 
 ---
 
 ![Picture](assets/images/p150.png)
 
-As you come to the middle fork bull river, look for surveyor tape across the river, showing your way up to little ibex lake. along the way. ​this tree caught our interest
+As you come to the middle fork bull river, look for surveyor tape across the river, showing your way up to little ibex lake. along the way. this tree caught our interest
 
 ---
 
@@ -141,7 +157,7 @@ When i first saw this rock structure, i had imagined it being a camouflage fortr
 
 *Picture (Image missing)*
 
-## This is ibex peak from a peak, c.m.w. ​image by chris h
+## This is ibex peak from a peak, c.m.w. image by chris h
 
 The answer to the questions above is... A mini chimney rock and mount roothaan, with its se ridge
 

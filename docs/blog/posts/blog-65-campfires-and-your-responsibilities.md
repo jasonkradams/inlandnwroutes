@@ -1,15 +1,20 @@
 ---
 title: "Blog #65: Campfires and your responsibilities"
+
 date: 2024-06-29
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 
-
 campfires, and your responsibilities
+
 There’s nothing like enjoying a campfire while camping out at your favorite lake.
 
 <!-- more -->
@@ -43,13 +48,13 @@ So my advice to every hiker, paddler, backpacker, climber, camper, or Rv’er, i
 They are light and can save entire forests from burning.
 The Stevens Peak and Lakes area are some of the best hiking, camping and scrambling areas around Spokane.
 This area last burned in 1923.
-​
+
 It is filled with such beauty, it would be a shame to see it charred and wasted.
 While this BLOG is still on your mind, fold up 5 or 6 grocery bags, and put them in a ziplock for whatever use they are needed for.
 You too can be a hero. All you have to do is plan ahead.
 
 Thank you all for reading and using InlandNWRoutes.com,
 
-Chic              David
+Chic              David
 
 InlandNWRoutes.com

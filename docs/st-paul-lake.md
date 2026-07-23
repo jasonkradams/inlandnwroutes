@@ -1,41 +1,59 @@
 ---
 tags:
+
 - Lakes
+
 - Moderate +
+
 - Day Hiking
+
 - Backpacking
+
 - Fishing
+
 - Photography
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, fishing, and photography
+
 - label: Distance
   icon: map-marker-distance
   value: 7.8 miles RT
+
 - label: Elevation Gain
   icon: elevation-rise
   value: 1720v
+
 - label: Acres
   icon: vector-square
   value: '14.8'
+
 - label: Difficulty
   icon: speedometer
   value: Moderate +
+
 - label: Maps
   icon: map
   value: Kootenai N.F., Cabinet Ranger District C.M.W. , Elephant Peak. 406.827.3533
+
 - label: GPS
   icon: crosshairs-gps
   value: 48°05’24" w 115°39’32" n
+
 - label: Ranger District
   icon: pine-tree
   value: 'Cabinet Ranger District: 406.827.3533'
+
 - label: Sanders County Sheriff
   icon: shield-account
   value: 911 or 406.827.3584
 notes:
+
 - Kootenai national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 
@@ -74,7 +92,7 @@ Historical Bull River Ranger Station, St. Paul Peak, Libby Lakes, Rock Lake & Pe
 
 ## R & p
 
-Kaiju Bar & Grill in Libby.     Henry’s & Pizza Hut, TheShed, and Roasters in Libby, Clark Fork Pantry, Eicharts, Mr Sub, Burger Express & Jalapeños in Sandpoint
+Kaiju Bar & Grill in Libby.     Henry’s & Pizza Hut, TheShed, and Roasters in Libby, Clark Fork Pantry, Eicharts, Mr Sub, Burger Express & Jalapeños in Sandpoint
 
 ## Photo gallery
 
@@ -82,7 +100,7 @@ Kaiju Bar & Grill in Libby.     Henry’s & Pizza Hut, TheShed, and Roasters�
 
 ![Picture](assets/images/6132025510p.jpg)
 
-![Picture](assets/images/p272.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p272_orig.png" }
+![Picture](assets/images/p272.png)"
 
 ## Trail #646 to st. paul lake
 
@@ -96,13 +114,13 @@ Kaiju Bar & Grill in Libby.     Henry’s & Pizza Hut, TheShed, and Roasters�
 
 ![Picture](assets/images/p274.png)
 
-## St. paul lake with st. paul peak 7714’ towering above ​i told them fishing for flies is futal
+## St. paul lake with st. paul peak 7714’ towering above i told them fishing for flies is futal
 
 ---
 
 ![Picture](assets/images/11062021123p.jpg)
 
-## St.paul lake from st.paul peak. (pictured) above
+## St.paul lake from st.paul peak. (pictured) above
 
 ![Picture](assets/images/p275.png)
 

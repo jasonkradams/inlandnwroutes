@@ -1,23 +1,31 @@
 ---
 tags:
+
 - Waterfalls
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: 17.5 miles
+
 - label: River Elevation
   icon: terrain
   value: 1990’
+
 - label: Length and Acreage
   icon: vector-square
   value: na
+
 - label: Maps
   icon: map
   value: BLM maps & brochures, Colville National Forest, Metaline Falls & Boundary
     Dam topos.
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°58’58"n 117°21’02" w
+
 - label: Pend Oreille County Sheriff
   icon: shield-account
   value: 509.447.3151
@@ -48,6 +56,7 @@ So, from the camp site, head north, down stream, back the way you came.
 Along the paddle back to Boundary Dam, notice the unusual rock formations all the way back to the launch.
 
 Ratt Island, 200’ tall Pewee Falls, two caves, 300’+ walls, and the most beautiful paddle in our region. During the summer months, Gardner Caves in The Crawford State Park, are not to be missed. Below is an image f a Christmas tree cave feature in the cave.
+
 Also, if the dam folks are doing tours of the dam, don’t miss it. Across the dam from the launch site is the Boundary Dam Vista House. You may be able to walk across the dam and up to the Vista House. Don’t miss this view. It looks back at the spillway across the river. There is a road to it, but you can’t drive across the bridge. You have to drive down to Sullivan Lake to reach it.
 While camping in the area, watch for auroras from about 10pm on. They may appear to the north over the massive power lines.
 
@@ -58,7 +67,7 @@ From Spokane, take U.S. Highway 2 north. Just past the Pend Oreille County line 
 ## Cool things close by
 
 Crawford Caves, Gardner State Park, Sullivan Lake, Priest Lakes, and the American Selkirks.
-​Also, the drive from Metaline to Boundary Dam is an exceptional fall color drive.
+Also, the drive from Metaline to Boundary Dam is an exceptional fall color drive.
 
 ## R & p
 
@@ -141,7 +150,6 @@ Just north of Metaline Falls, Washington, a powerful dam stands on the Pend Orei
 While most City Light customers will never visit Boundary Dam, they all benefit from this keystone piece of City Light infrastructure. Dedicated in 1967, Boundary Dam celebrated its 50th anniversary in 2017. The dam has had a significant impact on the region and will continue to provide electricity for City Light customers into the future.
 This exhibit explores the herculean undertaking of building the dam, the impact of the dam over the years and facts on the dam's power and size.
 
-​
 Boundary Dam at night, November 1967
 Item 189915, Record Series 1204-01
 
@@ -198,11 +206,12 @@ Item 189689, Record Series 1204-05
 The first bucket of concrete was
 poured on November 12, 1965
 Item 183446, Record Series 1204-01
-Over a million cubic yards of rock excavation was required to create the forebay from which Pend Oreille River water is admitted to plant turbines through the intake tunnels and penstocks. Another half-million cubic yards was excavated to create the machine hall. A cavern 477 feet long, 76 feet wide and 170 feet deep would contain six large turbine-generators; only four units were installed initially. [Silent film](https://video.seattle.gov/podcasts/CityArchive/Boundary/BoundaryDam_ConstructionVehicles_BlastingandConcrete_1967_NEW.mp4) shot between about 1965 and 1967 shows excavation and construction of the Boundary Project (Item 32, Record Series 1204-04, SMA).
+Over a million cubic yards of rock excavation was required to create the forebay from which Pend Oreille River water is admitted to plant turbines through the intake tunnels and penstocks. Another half-million cubic yards was excavated to create the machine hall. A cavern 477 feet long, 76 feet wide and 170 feet deep would contain six large turbine-generators; only four units were installed initially. [Silent film](https://video.seattle.gov/podcasts/CityArchive/Boundary/BoundaryDam_ConstructionVehicles_BlastingandConcrete_1967_NEW.mp4) shot between about 1965 and 1967 shows excavation and construction of the Boundary Project (Item 32, Record Series 1204-04, SMA).
 The dam itself was built to an astounding 340 feet tall. The eggshell-like double curve of the dam's thin arch achieves great strength with exceptionally low mass. The concrete ranges from 32 feet thick at the base to only 8 feet thick at the crest. The dam has two large spillgates at the top on either side and seven sluice gates are located 200 feet below the crest of the dam. The gates enable the reservoir to be lowered, if necessary, and have the ability to drain the lake within 24 hours. The reservoir that retains the water from the Pend Oreille River is 1,794 acres and 17.5 miles long.
 
 Thin arch observed through access-
 gallery portal, September 22, 1967
+
 Item 183457, Record Series 1201-04
 
 Plan of Boundary Dam
@@ -235,7 +244,7 @@ Record Series 1201-11
 City Light billboard at
 4th and Spokane, 1968
 Item 78730, Series 1204-01
-In 1986, Boundary's power output grew with the addition of two new turbine generators to the machine hall. Transformer bays, water passages and machine-hall space were provided when the dam was built so that two additional turbine-generator units could be installed in the plant without further blasting of the rock. The machine hall was designed with exposed natural rock in its walls. Along with other improvements throughout the years, the electrical capability has increased to 1,117.4 megawatts. In a [short production](https://video.seattle.gov/podcasts/CityArchive/Boundary/How_Boundary_Dam_Works_NEW.mp4) about the Boundary Hydroelectric Project created by SCL in 2006, animation (courtesy Alweis Film "Last Place Settled") shows how the dam works and footage of the turbines (Item 5336, Record Series 1204-04, SMA). Currently, Boundary Dam generates up to 35 percent of Seattle’s energy needs.
+In 1986, Boundary's power output grew with the addition of two new turbine generators to the machine hall. Transformer bays, water passages and machine-hall space were provided when the dam was built so that two additional turbine-generator units could be installed in the plant without further blasting of the rock. The machine hall was designed with exposed natural rock in its walls. Along with other improvements throughout the years, the electrical capability has increased to 1,117.4 megawatts. In a [short production](https://video.seattle.gov/podcasts/CityArchive/Boundary/How_Boundary_Dam_Works_NEW.mp4) about the Boundary Hydroelectric Project created by SCL in 2006, animation (courtesy Alweis Film "Last Place Settled") shows how the dam works and footage of the turbines (Item 5336, Record Series 1204-04, SMA). Currently, Boundary Dam generates up to 35 percent of Seattle’s energy needs.
 Spillways cut into the rock are oriented in such a way that full-capacity discharges from both will meet in mid-air to dissipate the falling-water energy that might otherwise erode canyon walls. The spillways have a combined capacity of 108,000 cubic feet per second.
 
 Generating turbine, Boundary Dam, May 20, 1999
@@ -259,7 +268,7 @@ Metaline Falls, WA
 Filming of The Postman, 1997
 Courtesy The Cutter Theatre,
 Metaline Falls, WA
-In 2013, City Light was issued a new license to operate Boundary through 2055. The new license includes a suite of measures that mitigate for the impacts of Boundary's operations on the surrounding environment. These measures address recreation, fish and aquatic, terrestrial, cultural, and wildlife resources, and benefit the environment and the communities in and around Boundary.  As part of the recreation measures, a completely renovated Forebay Recreation Area, including a campground and boat launch, will reopen in 2018. Improvements to the boat launch at Metaline Waterfront Park will take place in 2019. New canyon viewpoints, a portage trail, and a hiking trail will follow in 2020.
+In 2013, City Light was issued a new license to operate Boundary through 2055. The new license includes a suite of measures that mitigate for the impacts of Boundary's operations on the surrounding environment. These measures address recreation, fish and aquatic, terrestrial, cultural, and wildlife resources, and benefit the environment and the communities in and around Boundary.  As part of the recreation measures, a completely renovated Forebay Recreation Area, including a campground and boat launch, will reopen in 2018. Improvements to the boat launch at Metaline Waterfront Park will take place in 2019. New canyon viewpoints, a portage trail, and a hiking trail will follow in 2020.
 The Boundary Hydroelectric Project was formally listed on the National Register of Historic Places on May 1, 2018. The nomination cited the dam's importance in the power generation response to the increased growth of the region in the post-World War II era as well as its lasting impact on the history and development of Pend Oreille County and the communities of Metaline and Metaline Falls. The nomination also cited the dam's distinctive characteristics of its type and period of construction. Boundary is the second tallest arch dam in Washington and its underground powerhouse is one of the largest examples in the United States.
 
 Night scene of Boundary Dam spilling, December 8, 1998
@@ -267,12 +276,12 @@ Item 126710, Record Series 0207-01
 
 Boundary Dam, August 30, 2017
 Courtesy Nathan MacDonald, Seattle City Light
-To see footage of Boundary Dam construction and more, see [SMA’s YouTube channelexternal link](https://www.youtube.com/results?search_query=1204-05+boundary).
+To see footage of Boundary Dam construction and more, see [SMA’s YouTube channelexternal link](https://www.youtube.com/results?search_query=1204-05+boundary).
 This exhibit was created with support and expertise from Seattle City Light and assistance from David Ross, San Jose State University intern.
 
 ![Picture](assets/images/20126101044-copy.jpg)
 
-One night i came back from canada and stayed the night at boundary dam.  As i was having dinner, i noticed the aurora borealis was building. I went around to each campsite and told the campers of the auroras. Not one person got up to see them.their loss. Can you find the big dipper in this image?
+One night i came back from canada and stayed the night at boundary dam.  As i was having dinner, i noticed the aurora borealis was building. I went around to each campsite and told the campers of the auroras. Not one person got up to see them.their loss. Can you find the big dipper in this image?
 
 *Picture (Image missing)*
 

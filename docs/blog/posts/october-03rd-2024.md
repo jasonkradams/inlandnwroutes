@@ -1,16 +1,21 @@
 ---
 title: "Blog #74: Our earth's water"
+
 date: 2024-10-03
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Winter Sports
 ---
 
-
 Hi Readers,
-​I came across this Bureau of Reclamation on our world's water supply, and decided to sharer it with our readers.
+
+I came across this Bureau of Reclamation on our world's water supply, and decided to sharer it with our readers.
 
 In the world's future, fresh water will be more valuable than gold.
 
@@ -22,8 +27,6 @@ I know its hard to carry out your toilet paper waste, but removing it is best fo
 Most of our fresh water flows down hill. We all live down hill from our forest. Hence, it could affect our lives.
 
 Please protect our Earth's precious environments.
-
-​
 
 Water Facts - Worldwide Water Supply
 
@@ -49,15 +52,15 @@ Water Facts - Worldwide Water Supply
 
 * This supply is continually collected, purified, and distributed in the natural hydrologic (water) cycle.
 
-Where Water is Found and the PercentageOceans 97.2%
-Ice Caps/Glaciers 2.0%
-Groundwater\* 0.62%
+Where Water is Found and the PercentageOceans 97.2%
+Ice Caps/Glaciers 2.0%
+Groundwater\* 0.62%
 
-Freshwater Lakes 0.009%
-Inland seas/salt lakes 0.008%
-Atmosphere 0.001%
-Rivers 0.0001%
-TOTAL 99.8381% If the Earth Were a Globe 28 Inches in Diameter:
+Freshwater Lakes 0.009%
+Inland seas/salt lakes 0.008%
+Atmosphere 0.001%
+Rivers 0.0001%
+TOTAL 99.8381% If the Earth Were a Globe 28 Inches in Diameter:
 
 * All of the water on the planet would fill less than one cup.
 
@@ -65,14 +68,14 @@ TOTAL 99.8381% If the Earth Were a Globe 28 Inches in Diameter:
 
 * Slightly more than one drop of water would fill all the rivers and lakes.
 
-If 5 Gallons Represents all the Water on Earth (in tablespoons):Oceans 1244.16
-Ice Caps/Glaciers 5.60
-Groundwater\* 7.93
+If 5 Gallons Represents all the Water on Earth (in tablespoons):Oceans 1244.16
+Ice Caps/Glaciers 5.60
+Groundwater\* 7.93
 
-Freshwater Lakes 0.11
-Inland seas/salt lakes 0.10
-Atmosphere 0.0128
-Rivers 0.0012
+Freshwater Lakes 0.11
+Inland seas/salt lakes 0.10
+Atmosphere 0.0128
+Rivers 0.0012
 **Total****1277.9130**\*Some of this lies too far under the earth's surface to be extracted at an affordable cost
 Sources of Fresh Water
 
@@ -105,18 +108,18 @@ Measures of Water Use
 * 80% of water withdrawn in the U.S. is used for cooling electric power plants and for irrigation.
 
 Home Water Use (Approximate)GallonsActivity
-3 Shaving and allowing the water faucet to run
-1.6-5 Flushing a toilet
-5 Brushing your teeth and allowing the water faucet to run
-8 Cooking 3 meals
-8 Cleaning house
-10 Washing dishes for 3 meals
-20-30 Washing clothes
-30 Washing dishes and allowing the water faucet to r
-30-40 Watering lawn
-30-40 Washing a car
-30-40 Taking a bath
-40 8 minute shower (5 gallons/minute
+3 Shaving and allowing the water faucet to run
+1.6-5 Flushing a toilet
+5 Brushing your teeth and allowing the water faucet to run
+8 Cooking 3 meals
+8 Cleaning house
+10 Washing dishes for 3 meals
+20-30 Washing clothes
+30 Washing dishes and allowing the water faucet to r
+30-40 Watering lawn
+30-40 Washing a car
+30-40 Taking a bath
+40 8 minute shower (5 gallons/minute
 
 * A leak that fills up a coffee cup in 10 minutes will waste over 3,000 gallons of water in a year. That's 65 glasses of water every day for a year.
 
@@ -136,7 +139,7 @@ Water in the Body
 
 * Total body weight - 75% water
 
-How Much Water Does it Take to Produce Your Food? FoodPortionGallons of Water
+How Much Water Does it Take to Produce Your Food? FoodPortionGallons of Water
 Orange Juice1 cup49
 Orange1 medium14
 Cantaloupe1 melon160
@@ -147,7 +150,7 @@ Lettuce1 cup3
 Tomato1 small8
 Tomato Sauce4 ounces13
 Butter1 pat46
-Cheese 1 ounce56
+Cheese 1 ounce56
 Milk1 cup48
 Yogurt1 cup88
 Beef Steak8 ounces1,232

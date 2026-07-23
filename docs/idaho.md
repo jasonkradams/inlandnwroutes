@@ -2,14 +2,14 @@
 
 ## Links to Route Descriptions
 
-​**Moyie Falls**
-Take US Highway 2, exiting just west of the Moyie River Bridge at Moyie Springs; proceed for 0.5 mile until turning left on a residential road flanking a lumberyard; continue on this street for 0.5 mile where you will find numerous parking pullouts providing picture-perfect views of the falls.With awe-inspiring scenery and easy vehicle accessibility, Moyie Falls is undoubtedly one of Idaho’s great natural attractions. Crashing through a rocky canyon, the Moyie River descends in tiered form. While the upper portion plummets 60 to 100 feet under an obsolete bridge connecting the gorge, the lower portion tumbles 20 to 40 feet. 
+**Moyie Falls**
+Take US Highway 2, exiting just west of the Moyie River Bridge at Moyie Springs; proceed for 0.5 mile until turning left on a residential road flanking a lumberyard; continue on this street for 0.5 mile where you will find numerous parking pullouts providing picture-perfect views of the falls.With awe-inspiring scenery and easy vehicle accessibility, Moyie Falls is undoubtedly one of Idaho’s great natural attractions. Crashing through a rocky canyon, the Moyie River descends in tiered form. While the upper portion plummets 60 to 100 feet under an obsolete bridge connecting the gorge, the lower portion tumbles 20 to 40 feet.
 
 ### Smith Falls
 
 For easy access, take US Highway 95 north of Bonners Ferry for 15 miles; next, turn north onto Scenic Road 1 and proceed 1 mile before turning west (left) onto an unmarked, paved road; continue for 5 miles, crossing the Kootenai River during your drive; at West Side Road #417, bear north (right) to locate a marked viewing area of the falls in approximately 8 miles
 
-Plunging 60 feet along Smith Creek, Smith Falls offers visitors of all ages vehicle accessible views. Sightseers, however, are advised to follow all posted regulations as the falls and viewing area are located on private property. 
+Plunging 60 feet along Smith Creek, Smith Falls offers visitors of all ages vehicle accessible views. Sightseers, however, are advised to follow all posted regulations as the falls and viewing area are located on private property.
 
 ### Falls Creek Falls
 
@@ -60,7 +60,7 @@ Cascading 15 to 20 feet over bedrock in a series of steps, Grouse Creek Falls is
 
 To reach the falls, turn east off U.S 2/95 onto Scenic Route 200 and drive 12.2 miles to Trestle Creek Road #275 where you will turn east (left) and continue for 13 miles to Lightning Creek Road #419; turn south (right) and proceed along Lightning Creek Road past Char Falls for 4.2 miles until you arrive at Augor Road #489; bearing west (right), go across Lightning Creek to a bumpy road on your left; further vehicle access does require 4-wheel drive, but visitors can choose to hike the road
 
-Wellington Creek Falls promises visitors a sight worth seeing as these falls tumble 50 to 75 feet amidst abundant foliage. Located in the Sandpoint Ranger District of the Idaho Panhandle’s National Forest, the falls require a moderate hike as well as caution when nearing the fall’s unfenced ledge. After parking your vehicle, walk 0.4 mile and turn right at the fork. Proceed along the road’s last 0.4 mile. Listening for the falls, hike upstream toward Wellington Creek where overviews of the falls can be found. 
+Wellington Creek Falls promises visitors a sight worth seeing as these falls tumble 50 to 75 feet amidst abundant foliage. Located in the Sandpoint Ranger District of the Idaho Panhandle’s National Forest, the falls require a moderate hike as well as caution when nearing the fall’s unfenced ledge. After parking your vehicle, walk 0.4 mile and turn right at the fork. Proceed along the road’s last 0.4 mile. Listening for the falls, hike upstream toward Wellington Creek where overviews of the falls can be found.
 
 ### Copper Falls
 
@@ -70,14 +70,14 @@ At an elevation of 3,400 feet in the Idaho Panhandle National Forest’s Bonners
 
 ### Willow Creek Falls
 
-To locate, take Exit 68 off Interstate 90 at Mullan and proceed east through town; this route heads right and becomes Willow Creek Road in 1.5 miles; drive 1.5 miles more until the road ends at an unused set of railroad tracks near Willow Creek Trail #8008 following this trail, hike 2 miles to the falls’ viewing area. 
+To locate, take Exit 68 off Interstate 90 at Mullan and proceed east through town; this route heads right and becomes Willow Creek Road in 1.5 miles; drive 1.5 miles more until the road ends at an unused set of railroad tracks near Willow Creek Trail #8008 following this trail, hike 2 miles to the falls’ viewing area.
 
 Accessible from late summer to early autumn, Willow Creek Falls are located near the Bitterroot Divide separating Idaho and Montana. Parking at the road’s end, visitors should take Trail #8088 and make a modest, 2-mile hike to reach the East Fork Willow Creek’s 10 to 20 foot cascade.
 
 ### Stevens Lake Falls
 
 Taking Exit 68 off Interstate 90, drive through Mullan and proceed east; in 1.5 miles, this street turns right and converts into Willow Creek Road; passing under I-90, follow this road to its end at a set of old railroad tracks (approximately another 1.5 miles)
-Stevens Lake Falls are situated near the Bitterroot Divide in the Wallace Ranger District of St. Joe National Forest. Accessible late summer until early fall, this tiered waterfall requires visitors to engage in a fairly difficult day hike. For those enjoying a challenge, close-up views of the falls’ 30 to 50 foot descents in both upper and lower tiers awaits. After parking at the road’s end, hike 2 miles on Willow Creek Trail #8008 past Willow Creek Falls. The trail becomes much steeper, but continue 0.2 mile to reach the lower tier or 0.4 mile for a view of the upper falls. 
+Stevens Lake Falls are situated near the Bitterroot Divide in the Wallace Ranger District of St. Joe National Forest. Accessible late summer until early fall, this tiered waterfall requires visitors to engage in a fairly difficult day hike. For those enjoying a challenge, close-up views of the falls’ 30 to 50 foot descents in both upper and lower tiers awaits. After parking at the road’s end, hike 2 miles on Willow Creek Trail #8008 past Willow Creek Falls. The trail becomes much steeper, but continue 0.2 mile to reach the lower tier or 0.4 mile for a view of the upper falls.
 
 ### Myrtle Creek Falls
 
@@ -110,7 +110,7 @@ All three of these relatively unknown waterfalls lie within Idaho’s Shoshone C
 
 ### Cooper Gulch Falls
 
-While Cooper Gulch Falls is actually situated within Montana, northeastern Idaho provides easiest admittance to the falls. It appears that crossing Thompson Pass on the Bitterroot Divide east of Murray and Prichard, ID may provide visitors with some access. 
+While Cooper Gulch Falls is actually situated within Montana, northeastern Idaho provides easiest admittance to the falls. It appears that crossing Thompson Pass on the Bitterroot Divide east of Murray and Prichard, ID may provide visitors with some access.
 
 ### McAbee Falls
 

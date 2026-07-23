@@ -1,37 +1,52 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Moderately Easy
+
 - Day Hiking
+
 - Backpacking
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking,
+
 - label: Distance
   icon: map-marker-distance
   value: N. Route 3.2 miles RT to N. Chilco. And 9.6 miles to S. Chilco.
+
 - label: Elevation Gain
   icon: elevation-rise
   value: 1455’ to N Chilco. Then drops about 865’ to the saddle. Then rises 901’ to
     S. Chilco
+
 - label: Difficulty
   icon: speedometer
   value: moderately easy
+
 - label: Maps
   icon: map
   value: IPNF, Bayview, Spades Mountain topos
+
 - label: GPS
   icon: crosshairs-gps
   value: South Chilco 47°51'59" N 116°33'15" W.
+
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D 208.769.3000
+
 - label: Kootenai County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.446.1300
 notes:
+
 - North Chilco 47°53'30" N 116°31;47" W
+
 - Idaho panhandle national forest/alerts [https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)
 ---
 
@@ -39,9 +54,9 @@ notes:
 
 !!! warning "Before you go"
 
-    Fyi.....the bunco road to north chilco is closed to all visitors until roctober 9, 2025. a logging operation is scheduled, but can be rescinded early. Check out the usfs alerts below for additional info. ​this closure does not affect south chilco via forest road #406
+    Fyi.....the bunco road to north chilco is closed to all visitors until roctober 9, 2025. a logging operation is scheduled, but can be rescinded early. Check out the usfs alerts below for additional info. this closure does not affect south chilco via forest road #406
 
-*​north and south chilco peak ​national recreation trail #14*
+*north and south chilco peak national recreation trail #14*
 
 ## Description
 
@@ -75,7 +90,7 @@ From I-90 drive north on 95 for 10 miles to Ohio Match Road. Turn right (east) a
 
 ## Cool things close by
 
-Farragut State Park, Pend Orville Lake, Packsaddle Mountain, Hayden Lake, and Canfield Butte
+Farragut State Park, Pend Orville Lake, Packsaddle Mountain, Hayden Lake, and Canfield Butte
 
 ## Hazards
 
@@ -135,7 +150,7 @@ The south chilco lookout was built in 1915 and abandoned in 1935, when the north
 
 *Picture (Image missing)*
 
-The summit cabin fire lookout that was on north chilco. ​it was built in 1938, and was destroyed in 1959 This image is from the spokane mountaineers archive
+The summit cabin fire lookout that was on north chilco. it was built in 1938, and was destroyed in 1959 This image is from the spokane mountaineers archive
 
 *Picture (Image missing)*
 
@@ -153,6 +168,6 @@ Consider walking the ridge north of n. chilco. its trail skirts the west side of
 
 ![Picture](assets/images/1202022308p.jpg)
 
-From chair 5 at silver mt., ​the chilco's are directly above the lift tower on the horizon. I never realized that south chilco was so massive
+From chair 5 at silver mt., the chilco's are directly above the lift tower on the horizon. I never realized that south chilco was so massive
 
-Wondering the mountains takes us on a path thru our soul. While a path thru our soul takes us to new heights. ​                                   New heights expand our love of wandering.                                                                ​chic.  7.29.11
+Wondering the mountains takes us on a path thru our soul. While a path thru our soul takes us to new heights.                                    New heights expand our love of wandering.                                                                chic.  7.29.11

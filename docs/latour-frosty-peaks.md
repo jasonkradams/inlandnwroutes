@@ -1,39 +1,57 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Moderately Easy
+
 - Day Hike
+
 - Backpacking
+
 - Astronomy
+
 - Backcountry Skiing
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day Hike, backpacking, astronomy and backcountry skiing
+
 - label: Distance
   icon: map-marker-distance
   value: 1.6 miles, to 10 miles RT.
+
 - label: Elevation
   icon: terrain
   value: from Frosty you drop 105 verts, then gain 528 verts to Latour Baldy
+
 - label: Difficulty
   icon: speedometer
   value: Moderately Easy
+
 - label: Maps
   icon: map
   value: IPNF, Latour Baldy topo
+
 - label: GPS
   icon: crosshairs-gps
   value: Frosty Peak 47°28’48" N 116°20’36" W
+
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
+
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
 notes:
+
 - Latour Baldy 47°28’12" N 116°20’49" W
+
 - Idaho panhandle national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -44,7 +62,7 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​Frost Peak used to be an old fire lookout on it’s north rim. From the concrete platform, hike due south towards Latour Baldy.
+Frost Peak used to be an old fire lookout on it’s north rim. From the concrete platform, hike due south towards Latour Baldy.
 There is an ORV Trail on the right side as you leave Frosty, but it soon ends and turns into a poor trail.
 On the left side, heading south, look for a trail up thru the woods and rocks.
 The trail drops slightly (105’) before starting the ascent to Latour Baldy in 528’.
@@ -54,7 +72,7 @@ The trail drops slightly (105’) before starting the ascent to Latour Baldy in 
 From Latour Baldy, hike the obvious ridge line south towards Latour Peak, Twin Crags, and Mirror Lake. The ridge undulates a few times, so aim for Latour Peak.
 As you walk any ridge line, stay on top of the ridge where possible. Don’t allow yourself to drop off either side.
 In 3.7 miles the walk is along a glacial cirque above Twin Crags and Mirror Lake.
-This route out to Latour Peak is 10 miles RT, and  undulates over three lesser peak along the way.
+This route out to Latour Peak is 10 miles RT, and  undulates over three lesser peak along the way.
 Because there are only game trails on the ridge, expect lots of downfall, and plan on 8+ hours to do this route.
 
 ## Option #2
@@ -131,6 +149,6 @@ Radio Brewing in Kellogg. The Snake Pit north of Kingston
 
 ![Picture](assets/images/p39.png)
 
-## latour baldy👆       frost peak 👆  latour peak👆from rose lake
+## latour baldy👆       frost peak 👆  latour peak👆from rose lake
 
 ## Latour peak time-lapse looking south

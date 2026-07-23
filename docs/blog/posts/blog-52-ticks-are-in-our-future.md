@@ -1,13 +1,17 @@
 ---
 title: "Blog #52: Ticks are in our future"
+
 date: 2024-03-27
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Winter Sports
 ---
-
 
 As Spring grows warm around our region, TICKS come out to play.
 
@@ -15,7 +19,7 @@ As Spring grows warm around our region, TICKS come out to play.
 
 Tuesday, March 26th I did a training hike just north of Kellogg.
 Up near the top I stopped for a bite to eat. And there it was.
-​Heading up my pant leg was, 2024’s first tick.
+Heading up my pant leg was, 2024’s first tick.
 I watched it until it got to my knee, then flicked it off.
 
 THIS IS AN UPDATE….since 4.2.24 (today is the 6th)I have picked off four ticks and extracted one from my chest.
@@ -70,7 +74,7 @@ Do not throw them away!
 Once you get the tick out of your skin, examine it carefully.
 If the tick is missing any of its 8 legs, or mouth parts, YOU NEEED TO DEAL WITH IT IMMEDIATELY.
 Use alcohol wipes to sterilize the area.
-Then examine the wound for ANY, usually dark spots under your skin or in your wound.  If you see a dark spot, use a
+Then examine the wound for ANY, usually dark spots under your skin or in your wound.  If you see a dark spot, use a
 fingernail to dig in the wound to get it cleaned out.
 If a tick part is left in your skin, it could infect the area, and cause greater issues.
 After all that, clean the area affected with alcohol wipes, and place a band aid over the wound.
@@ -80,7 +84,7 @@ Do not discard the imbedded tick
 If by chance the affected area turns red, or proceeds to red target shaped circles, see your doctor IMMEDIATELY.
 
 The reason we want you to keep the extracted tick is simple.
-It may take days for your blood test to confirm a specific illness.
+It may take days for your blood test to confirm a specific illness.
 But it may only take hours for medical personnel to confirm that the tick was infected.
 
 After extraction, I put them in a small jar and keep them in the freezer until I’m cleared of any infection.
@@ -96,7 +100,7 @@ That is, until it’s engorged with blood.
 They are so well adapted to what they do, they are ballistic until engorged.
 
 If you find one on your clothes, put it on a finger and examine it as it walks around.
-​ it will not bite you. ticks do not bite.
+ it will not bite you. ticks do not bite.
 
 PLEASE log onto the url above to read our thorough article on ticks and exactly how to safely extract them.
 There are illustrations on how to properly extract a tick.
@@ -110,6 +114,6 @@ We are committed to keeping you up to date on all aspects of our website’s inf
 Thank You for using our website.
 If you have specific questions, please email me at……info@inlandnwroutes.com
 
-Chic           David
+Chic           David
 
 InlandNWRoutes.com

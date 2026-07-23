@@ -1,39 +1,55 @@
 ---
 tags:
+
 - Lakes
+
 - Day Hike
+
 - Equestrian
+
 - Fishing
+
 - Camping
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hike, equestrian, fishing, camping
+
 - label: Distance
   icon: map-marker-distance
   value: 3 miles RT or 4 miles RT
+
 - label: Elevation
   icon: terrain
   value: Gain minimal and 816' loss
+
 - label: Acres
   icon: vector-square
   value: '45'
+
 - label: Difficulty
   icon: speedometer
   value: Easy main trail...moderate upper route
+
 - label: Maps
   icon: map
   value: IPNF, Rochat Peak and BLM
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°22'40" N -116°22'55" W
+
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
+
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
 notes:
+
 - Idaho panhandle national forest/alerts <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -67,7 +83,7 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 ## Photo gallery
 
-![Picture](assets/images/p125.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p125_orig.png" }
+![Picture](assets/images/p125.png)"
 
 ## The old bridge on the main trail
 

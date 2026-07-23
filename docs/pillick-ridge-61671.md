@@ -1,47 +1,62 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Strenuous
+
 - Day Hiking
+
 - Backpacking
+
 - Equestrian
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, equestrian
+
 - label: Distance
   icon: map-marker-distance
   value: up to 22 miles RT
+
 - label: Elevation
   icon: terrain
   value: 3400 verts
+
 - label: Difficulty
   icon: speedometer
   value: Strenuous
+
 - label: Maps
   icon: map
   value: Kootenai N.F., Sawtooth & Smeads Bench topos
+
 - label: GPS
   icon: crosshairs-gps
   value: Trailhead 48°06’18" N 115°47’26" W
+
 - label: Ranger District
   icon: pine-tree
   value: Cabinet R.D. 406.827.3533
 notes:
+
 - 'SANDERS COUNTY SHERIFF, MT: CALL 911 FIRST or 406.827.3584'
+
 - Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 
 # Pillick Ridge 61671
 
-*Pillick ridge 6167'*
+*Pillick ridge 6167'*
 
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​From the trailhead, hike south, then west on Trail #1036 up a magnificent ridge with lots of switchbacks and gobs of wildflowers. At the switchbacks, when they break out of the woods, look to the north and east to the Cabinet Mountain Wilderness. There is a spur Trail #1035 that takes you to and down Napoleon Gulch.
+From the trailhead, hike south, then west on Trail #1036 up a magnificent ridge with lots of switchbacks and gobs of wildflowers. At the switchbacks, when they break out of the woods, look to the north and east to the Cabinet Mountain Wilderness. There is a spur Trail #1035 that takes you to and down Napoleon Gulch.
 
-​Continue on 1036 to the second 1035 and beyond.
+Continue on 1036 to the second 1035 and beyond.
 Star Peak is about 2.25 miles past the second Trail #1035.
 
 Although this trail is long, it offers great views and solitude.
@@ -67,7 +82,7 @@ From Clark Fork, head east on Highway 200 to Highway 56 and turn left (north) on
 ## Hazards
 
 The biggest hazard at the beginning is the sun on the south face.
-​The trail is great to the high trail junctions.
+The trail is great to the high trail junctions.
 
 ## Cool things close by
 
@@ -75,7 +90,7 @@ Scotchmans Peak, Cabinet Mountain Wilderness, Highway 56, Kootenai Falls, Ross C
 
 ## R & p
 
-Clark Fork Pantry, Clark Fork Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
+Clark Fork Pantry, Clark Fork Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
 *Picture (Image missing)*
 

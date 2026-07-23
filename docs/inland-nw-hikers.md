@@ -9,6 +9,5 @@ Our goal is to foster an atmosphere where people have an opportunity to enjoy ge
 Inland NW Hikers regularly visits nearby areas such as Mt. Spokane, Riverside State Park, Antoine Peak, Beacon Hill, Dishman Hills, South Hill Bluffs, Glenrose, Rocks of Sharon, the Little Spokane, Mica Peak, as well as Liberty Lake County Regional Park to name just a few! We also regularly hike to Central Washington, Northern Washington, Idaho, and Montana. In the past nine years, Inland NW Hikers has lead over 1,000 hikes to these and other places and is committed to continuing to share the beauty of the Inland Northwest with like-minded folks.
 
 We welcome hikers of all ages and abilities (but you must be 18 to join). Dogs are welcome on most hikes, but this is at each Organizers discretion.
-​
 
 [Learn More](https://www.meetup.com/Inland-Northwest-Hikers/)

@@ -1,15 +1,20 @@
 ---
 title: "Blog #18: Using your phone to navigate a hike"
+
 date: 2023-07-21
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Trail Safety & Gear
 ---
 
-
 First let me state…if you go into Nature with only a phone, you are in danger.
+
 Be absolutely sure you carry a power stick.
 If you find yourself lost, only turn your phone on for 10 minutes on the hour. Or you can put your phone on "low power mode."
 This way you can be assured you will have a battery when you need it.
@@ -37,10 +42,10 @@ AirFlare can operate on as little as one bar on your reception scale.
 But that isn’t the best part.
 It only costs $4.99 a year.
 Look into it. It could save you someday.
-But please remember, it takes a lot of time for the Sheriff to put together a rescue crew and get to you.
+But please remember, it takes a lot of time for the Sheriff to put together a rescue crew and get to you.
 By this I mean…if you are in a remote area, it may take them 3 to 6 hours, or more just to reach you.
-Check out the 13 ESSENTIALS drop down  menu for info every hiker must have with them.
+Check out the 13 ESSENTIALS drop down  menu for info every hiker must have with them.
 
 InlandNWRoutes.com
-​
-Chic Burge.          David Crafton
+
+Chic Burge.          David Crafton

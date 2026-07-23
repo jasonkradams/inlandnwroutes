@@ -1,40 +1,58 @@
 ---
 tags:
+
 - Lakes
+
 - Day Hiking
+
 - Backpacking
+
 - Scrambling
+
 - Camping
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, scrambling, camping
+
 - label: Distance
   icon: map-marker-distance
   value: 2.4 miles RT to Cliff Lake
+
 - label: Elevation Gain
   icon: elevation-rise
   value: From McDonald Lake ( TH) to Cliff Lake is 533 verts. Cliff Lake to Eagle
     Cliff Peak 1629 verts
+
 - label: Difficulty
   icon: speedometer
   value: Easy to Cliff Lake Strenuous to Eagle Cliff Peak
+
 - label: Maps
   icon: map
   value: Lolo N.F., Torino Peak topo
+
 - label: GPS
   icon: crosshairs-gps
   value: Trailhead...47°08’53" N 115°10’24" W
+
 - label: Superior Ranger District
   icon: pine-tree
   value: 406.822.4233
+
 - label: Mineral County Sheriff
   icon: shield-account
   value: CALL911 FIRST or 406.822.3555
 notes:
+
 - Cliff Lake..47°08’28" N 115°01’12" W
+
 - Eagle Cliff Peak...47°06’46" N 115°11’09" W
+
 - Lolo national forest/alerts
+
 - https[://www.fs.usda.gov/alerts/lolo/alerts-notices](https://www.fs.usda.gov/alerts/lolo/alerts-notices)
 ---
 
@@ -45,7 +63,7 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​Whether before or after the hike, be sure to check out the falls below the parking area.
+Whether before or after the hike, be sure to check out the falls below the parking area.
 Trail #100 follows along side Diamond Lake for one mile to Cliff Lake.
 
 About half way up is a foot bridge and a nice cascade to photograph.
@@ -71,13 +89,13 @@ Heart Lake, Little Joe Slide, Ward & Eagle Peaks.
 ## R & p
 
 Pizza Factory, 1313 Club and Muchaho’s Tacos in Wallacem
-​Radio Brewing in Kellogg
+Radio Brewing in Kellogg
 
 ## Photo gallery
 
 ![Picture](assets/images/p367.png)
 
-## Mcdonald lake from near cliff lake ​the trailhead is the far end of the lake in this image
+## Mcdonald lake from near cliff lake the trailhead is the far end of the lake in this image
 
 ![Picture](assets/images/p376.png)
 

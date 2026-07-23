@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Paddling & Rivers
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
+
 - label: Elevation
   icon: terrain
   value: 2128’
+
 - label: Length and Acreage
   icon: vector-square
   value: varies
+
 - label: Maps
   icon: map
   value: IPNF, Mica Bay topo
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°37’58" n 116°48’22" w
+
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300
@@ -27,7 +35,7 @@ stats:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​The Kidd Island Bay Launch is at the base of Kidd Island Bay. As you leave the launch, paddle north up the bay to the moan body of Lake CDA.
+The Kidd Island Bay Launch is at the base of Kidd Island Bay. As you leave the launch, paddle north up the bay to the moan body of Lake CDA.
 As you get near the main body, look for Kidd Island. But beware, the island is private property.
 
 ## Attractions

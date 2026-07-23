@@ -10,7 +10,7 @@ Winter hiking around spokane Click on hike.....washington....spokane county park
 
 If you are planning to launch at the clark fork delta or near it, please call 208.769.1414 before you drive up there. they are doing restoration work. and some areas are closed. only johnson creek launch is open
 
-## For a great read, ​go to "writings" Then to "essay" And read the first entry
+## For a great read, go to "writings" Then to "essay" And read the first entry
 
 ---
 
@@ -18,6 +18,6 @@ If you are planning to launch at the clark fork delta or near it, please call 20
 
 Please, if you get anything from this website,
 Call the appropriate ranger district
-​before you go, for road and fire closures.
+before you go, for road and fire closures.
 
 ---

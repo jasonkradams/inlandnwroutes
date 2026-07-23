@@ -4,11 +4,12 @@
 
 ---
 
-Since I was young I’ve hiked and explored areas around where ever I lived. 
+Since I was young I’ve hiked and explored areas around where ever I lived.
+
 In 1979, I joined the Spokane Astronomical Society, and led most the Star Parties for schools and parks.
 In 1984, I joined the Spokane Mountaineers, and led all kinds of trips, like hiking, biking, paddling, climbing, backcountry skiing to include avalanche awareness, and more.
 In 1990, I went to work at the Camera Corral, and led 21 years of Photo Fun Days, three times a year, for our customers.
-About this same time, I organized a public program with the NIC OUTDOOR PURSUITS called BACKCOUNTRY SAFETY, that lasted for 12 years, and taught thousands the basics and advanced backcountry travel.
+About this same time, I organized a public program with the NIC OUTDOOR PURSUITS called BACKCOUNTRY SAFETY, that lasted for 12 years, and taught thousands the basics and advanced backcountry travel.
 All this time, I always wanted to write a coffee table picture book. But after sending some transparency to my publisher, I found out the first of three batches would cost over 36,000$.
 
 Then one day, after a trail maintenance outing at Lone Lake near Stevens Peak, I met David Crafton.
@@ -36,18 +37,18 @@ We have a CONTACT FORM that anyone can use to communicate with us.
 I encourage you to contact us about any subject on our website.
 
 I would be remiss if I didn’t tell you, we have made a few errors in setting this website up.
-But the cool thing about our website, over a guidebook, is that we can edit any incorrect, or newly changed circumstances as soon as we research their authenticity.
+But the cool thing about our website, over a guidebook, is that we can edit any incorrect, or newly changed circumstances as soon as we research their authenticity.
 
 Our HOME PAGE was getting too cluttered, so I cleaned it up.
-​Then I looked into doing a BLOG.
+Then I looked into doing a BLOG.
 David set it up and we both started contributing.
-​As the seasons change, we will write about the next seasons issues and suggest ideas to make them more enjoyable.
-​
+As the seasons change, we will write about the next seasons issues and suggest ideas to make them more enjoyable.
+
 Under RESOURCES, you can find all kinds of information on what you need to know, before you venture out into Nature.
 
 David and I would like to thank you very much for being our readers, and hope your journeys into Nature are pleasant, and fulfilling.
 
-​d. & c.
+d. & c.
 
 ---
 

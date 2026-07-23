@@ -1,19 +1,26 @@
 ---
 tags:
+
 - Paddling & Rivers
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
+
 - label: Elevation
   icon: terrain
   value: 2128’
+
 - label: Length and Acreage
   icon: vector-square
   value: varies
+
 - label: Maps
   icon: map
   value: IPNF, Worley topo
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°29’13" n 116°54’52" w
@@ -23,7 +30,7 @@ stats:
 
 ## Description
 
-This launch is out of the way and away from the Rockford Bay crowds. 
+This launch is out of the way and away from the Rockford Bay crowds.
 You can paddle north up the west side of CDA to Rockford Bay and beyond.
 Or you can turn right down CDA to the large Windy Bay.
 
@@ -41,7 +48,7 @@ Rockford Bay, Windy Bay, and Rockford Point
 
 ## R & p
 
-Trails End Brewery, Franklins, Mexican Food Factory, and  Moon Time
+Trails End Brewery, Franklins, Mexican Food Factory, and  Moon Time
 
 ---
 

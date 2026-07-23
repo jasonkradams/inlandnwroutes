@@ -1,26 +1,35 @@
 ---
 tags:
+
 - Winter & Skiing
+
 stats:
+
 - label: Phone
   icon: phone
   value: 801.933.2222
+
 - label: Acres
   icon: vector-square
   value: '2500'
+
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 500"
+
 - label: Summit Elevation
   icon: terrain
   value: 11000'
+
 - label: Base Elevation
   icon: terrain
   value: 7760'
+
 - label: Verts
   icon: arrow-expand-vertical
   value: 2900'
 notes:
+
 - Snowbird.com
 ---
 
@@ -37,8 +46,8 @@ Other amenities: ???
 
 ## Description
 
-Snowbird TodayThe last few years at Snowbird have been some of the most transformative since the resort opened in 1971. Beginning with the construction of The Summit in December of 2015, an expansion of the Creekside Day Lodge, renovations to The Cliff Lodge and expanded snowmaking, Snowbird's commitment to improving the resort has continued. Recently completed projects include the renovation to the Snowbird Center by adding guest space and restrooms in 2018 and a new network of bridges to allow for easier access to The Cliff Lodge, Snowbird Center and Lower Village in 2019.  Our newest dining establishment SeventyOne, located in The Cliff Lodge and completed in 2019, brings to the table a throwback to our early roots and a sophisticated, '70s twist on comfort food and contemporary American fare.
-Snowbird improvements continue to shape a more sustainable future in the ski industry with upgrades to its existing cogeneration plant. The new [Snowbird Power Systems](https://www.snowbird.com/snowbird-power-systems/) facility completed and powered back on in 2021 will cover nearly all of the energy needs of the entire resort. The facility will reduce Snowbird's dependency on the traditional grid, meaning that Snowbird will be almost entirely energy independent and more efficient. Snowbird's investment in the future of the resort continues with the forthcoming launch of our newest summer activity installation, the [ZipWhipper](https://www.snowbird.com/summer-activities/zip-whipper/). This feature combines the fun of a rock climbing wall with the thrill of a breathtaking free fall. Expected completion summer of 2022.
+Snowbird TodayThe last few years at Snowbird have been some of the most transformative since the resort opened in 1971. Beginning with the construction of The Summit in December of 2015, an expansion of the Creekside Day Lodge, renovations to The Cliff Lodge and expanded snowmaking, Snowbird's commitment to improving the resort has continued. Recently completed projects include the renovation to the Snowbird Center by adding guest space and restrooms in 2018 and a new network of bridges to allow for easier access to The Cliff Lodge, Snowbird Center and Lower Village in 2019.  Our newest dining establishment SeventyOne, located in The Cliff Lodge and completed in 2019, brings to the table a throwback to our early roots and a sophisticated, '70s twist on comfort food and contemporary American fare.
+Snowbird improvements continue to shape a more sustainable future in the ski industry with upgrades to its existing cogeneration plant. The new [Snowbird Power Systems](https://www.snowbird.com/snowbird-power-systems/) facility completed and powered back on in 2021 will cover nearly all of the energy needs of the entire resort. The facility will reduce Snowbird's dependency on the traditional grid, meaning that Snowbird will be almost entirely energy independent and more efficient. Snowbird's investment in the future of the resort continues with the forthcoming launch of our newest summer activity installation, the [ZipWhipper](https://www.snowbird.com/summer-activities/zip-whipper/). This feature combines the fun of a rock climbing wall with the thrill of a breathtaking free fall. Expected completion summer of 2022.
 
 ---
 
@@ -65,7 +74,7 @@ Since there was no crane available to unload parts, the crew played a game of in
 
 In early June the top terminal pieces were delivered to Snowbird and then positioned in a staging area outside the Tram Club. In mid-June the task of hauling parts to Hidden Peak began. Garaventa/CTEC engineers designed a special lifting frame and system to utilize the Aerial Tramway as a giant moving crane. Each morning, crews loaded up to 16,000 pounds of lift parts and other construction materials under the red Tram car and slowly hauled the load to Hidden Peak. In early July, concrete was taken up the mountain by truck and lift tower installation began.
 In the summer of 2001, just months before Utah would play host the 2002 Olympic Winter Games, Mineral Basin received its second high-speed chairlift with the installation of Baldy Express. Not only did this expand the skiable terrain in Mineral Basin but it provided a connection with Alta and allowed the two resorts to offer one lift ticket to ski a whopping 4,700 acres of powder-filled terrain. SKIING Magazine has ranked Alta and Snowbird the No. 1 resort in the United States multiple times since the two joined at Sugarloaf Pass, and Outside Magazine named Alta and Snowbird the No. 1 ski resort in North America in 2008.
-The Peruvian Express Chairlift and Tunnel opened in 2006, allowing easier access to Mineral Basin through a 600-foot, one-of-a-kind original (the only ski tunnel in North America).  In the summer of 2012 Snowbird replaced the Little Cloud two-seater with a high-speed detachable quad chairlift and plans to replace the Gad 2 chairlift in the summer of 2013 with another Doppelmayr high-speed quad. Other additions to Snowbird’s offerings have included the Creekside Day Lodge, nine summer activities including the Alpine Slide, Ropes Course, Mountain Flyer, Bungee Trampoline, Climbing Wall, Kids Inflatables, Air Jumper and summertime rides on the Peruvian Express chairlift.
+The Peruvian Express Chairlift and Tunnel opened in 2006, allowing easier access to Mineral Basin through a 600-foot, one-of-a-kind original (the only ski tunnel in North America).  In the summer of 2012 Snowbird replaced the Little Cloud two-seater with a high-speed detachable quad chairlift and plans to replace the Gad 2 chairlift in the summer of 2013 with another Doppelmayr high-speed quad. Other additions to Snowbird’s offerings have included the Creekside Day Lodge, nine summer activities including the Alpine Slide, Ropes Course, Mountain Flyer, Bungee Trampoline, Climbing Wall, Kids Inflatables, Air Jumper and summertime rides on the Peruvian Express chairlift.
 
 Off-mountain improvements at Snowbird have included a full renovation of The Cliff Lodge including the hotel rooms, The Cliff Spa, award-winning Aerie Restaurant and meeting space.
 On the mountain, Snowbird has installed snowmaking systems in Gad Valley, Peruvian Gulch and Mineral Basin allowing the resort to provide exceptional skiing and snowboarding in the early season.

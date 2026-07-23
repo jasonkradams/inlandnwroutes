@@ -1,34 +1,47 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Roped Snow
+
 - Ice Travel Training
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Roped snow and ice travel training
+
 - label: Distance
   icon: map-marker-distance
   value: 2.5 miles round trip to base camp
+
 - label: Elevation
   icon: terrain
   value: 1900' gain to base camp, 1500' gain from camp to summit
+
 - label: Difficulty
   icon: speedometer
   value: Difficult - This is a short but high intensity output activity
+
 - label: Maps
   icon: map
   value: '**IPNF, Stevens Lakes topo**'
+
 - label: GPS
   icon: crosshairs-gps
   value: '**Lower 47°43’36" N -115°75’96" W'
+
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
+
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114**Idaho panhandle national forest/alerts
 notes:
+
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -39,23 +52,23 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​The Spokane Mountaineers have been training on Stevens Peak for decades. They put on a three month intensive Mountain School that teaches you the basics of Mountaineering including clothing and equipment, packing and snow camping, group dynamics, snow skills, self arrest, glacier travel, crevasse rescue, knots, conditioning, nutrition, teamed rope travel, team arrest, mountain weather and avalanche awareness.
+The Spokane Mountaineers have been training on Stevens Peak for decades. They put on a three month intensive Mountain School that teaches you the basics of Mountaineering including clothing and equipment, packing and snow camping, group dynamics, snow skills, self arrest, glacier travel, crevasse rescue, knots, conditioning, nutrition, teamed rope travel, team arrest, mountain weather and avalanche awareness.
 
 The Stevens Peak weekend teaches you climbing conditions assessment, overnighting with an alpine start and rope-team summit climbing.
 
-The next month will focus on rock climbing skills, map and compass navigation, route finding, mountain rescue and mountaineering medicine.
+The next month will focus on rock climbing skills, map and compass navigation, route finding, mountain rescue and mountaineering medicine.
 
-To graduate you have to complete the graduation climb which has been Mount Athabasca in the Columbia Icefields in the Canadian Rockies in the past but due to the pandemic and the closed border we will be climbing one of the Cascade volcanoes this year. In addition to the grad climb you have to organize and complete a 2nd glacier climb by October 15th, pass a written and practical test, demonstrate your basic climbing skills during the outdoor sessions, earn or show a current First Aid certification and participate in a day of conservation activity such as trail work, crag clean up, etc.
+To graduate you have to complete the graduation climb which has been Mount Athabasca in the Columbia Icefields in the Canadian Rockies in the past but due to the pandemic and the closed border we will be climbing one of the Cascade volcanoes this year. In addition to the grad climb you have to organize and complete a 2nd glacier climb by October 15th, pass a written and practical test, demonstrate your basic climbing skills during the outdoor sessions, earn or show a current First Aid certification and participate in a day of conservation activity such as trail work, crag clean up, etc.
 
-If you find yourself in the mountains in conditions that you wish you had more skill and experience in, I recommend taking the  Spokane Mountaineers Mountain School. You will learn new skills, meet new people and have an opportunity to practice.
+If you find yourself in the mountains in conditions that you wish you had more skill and experience in, I recommend taking the  Spokane Mountaineers Mountain School. You will learn new skills, meet new people and have an opportunity to practice.
 
-After learning these basic skills the Mountaineer's offer clinics that will teach you traditional lead climbing, high angle rescue, ice climbing and alpine climbing.
+After learning these basic skills the Mountaineer's offer clinics that will teach you traditional lead climbing, high angle rescue, ice climbing and alpine climbing.
 
 ## Option #1
 
 From the lower lake outlet climb west up the ridge which separates Stevens from Lone Lakes. Follow the ridge to the summit and back.
 
-![Picture](assets/images/img-0805-1.png){: data-src="https://www.spokanemountaineers.org/" }
+![Picture](assets/images/img-0805-1.png)"
 
 ## [Spokane mountaineers](https://www.spokanemountaineers.org)
 

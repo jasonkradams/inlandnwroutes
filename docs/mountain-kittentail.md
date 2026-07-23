@@ -1,17 +1,23 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 stats:
+
 - label: Genesis Name
   icon: book-open-variant
   value: Synthyris missurica
+
 - label: Distribution
   icon: earth
   value: Small areas in Washington, Oregon, California, and Idaho
+
 - label: Season
   icon: calendar
   value: Blooms May thru July, and is sometimes in the first few flowers to bloom
     in the spring
+
 - label: Features
   icon: information-outline
   value: Clump of nearly round basal leaves, erect flower stem. Leaves shiny, hairless,
@@ -35,8 +41,7 @@ It turned out to be a Mountain Kittentail.
 Although they aren't rare, In have not been able to fill in all the blanks above.
 The leaf on its right is from this plant.
 
-​I willful in the blanks as I find them.
-​
+I willful in the blanks as I find them.
 
 ---
 

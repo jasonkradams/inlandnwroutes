@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Lakes
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
+
 - label: Elevation
   icon: terrain
   value: 2067’
+
 - label: Length and Acreage
   icon: vector-square
   value: varies
+
 - label: Maps
   icon: map
   value: Lakeview Topo
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°58’23" n 116°27’11" w
+
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300
@@ -34,7 +42,7 @@ If you visit Lakeview, take the time to walk around town and enjoy this out of t
 ## Attractions
 
 Eclectic says it all. Remote boat access, with many boat camp beaches all around bit. Packsaddle stands tall above the east shore line at 6405’.
-​North of Lakeview is Cedar Creek, Whiskey Rock, Granite, Idaho, Granite Point, Kilroy Bay and Windy Point.
+North of Lakeview is Cedar Creek, Whiskey Rock, Granite, Idaho, Granite Point, Kilroy Bay and Windy Point.
 
 ## Directions
 

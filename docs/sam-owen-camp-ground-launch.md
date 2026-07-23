@@ -1,19 +1,26 @@
 ---
 tags:
+
 - Paddling & Rivers
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
+
 - label: Elevation
   icon: terrain
   value: 2067’
+
 - label: Length and Acreage
   icon: vector-square
   value: 65 miles and 148 square miles.
+
 - label: Maps
   icon: map
   value: IPNF, Packsaddle Mountain topo
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°13’03" n 116°17’19" w

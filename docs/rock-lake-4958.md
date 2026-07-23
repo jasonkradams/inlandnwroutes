@@ -1,38 +1,55 @@
 ---
 tags:
+
 - Lakes
+
 - Moderate
+
 - Paddling
+
 - Backpacking
+
 - Climbing
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: 'EVENT TYPE: Day hiking, paddling, backpacking and climbing'
+
 - label: Distance
   icon: map-marker-distance
   value: 8.2 miles RT
+
 - label: Elevation Gain
   icon: elevation-rise
   value: 1708’ gain
+
 - label: Acres
   icon: vector-square
   value: '47.1'
+
 - label: Difficulty
   icon: speedometer
   value: Moderate
+
 - label: Maps
   icon: map
   value: Kootenai N.F., Cabinet Mountain Wilderness, Elephant Peak topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 48°04’00"n 115°68’00"w
+
 - label: Sanders County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.827.3584
 notes:
+
 - Cabinet Ranger District. 406.827.3533
+
 - Kootenai national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 
@@ -43,8 +60,8 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​The Rock Lake Trail has several stream crossings to navigate near the beginning.
-​Spring runoff can be tricky. About a mile in, the road passes near an old mining claim, and heads N.E. past several old mine buildings and Rock Creek Meadows for 2.5 miles to the eastern wall. For about 2 miles the old mining road gains about 593’. In about a mile past the meadows as the trail climbs, is the old Heidelberg mining operation. Its boiler and gravity pump equipment, as well as Rock Creek Falls, are a good place to spend a moment looking over the old equipment. The trail to the lake is about 40’ back down the trail off to the left (E) . After 7 switchbacks, the trail walks out next to the outlet creek to the main body of the lake.
+The Rock Lake Trail has several stream crossings to navigate near the beginning.
+Spring runoff can be tricky. About a mile in, the road passes near an old mining claim, and heads N.E. past several old mine buildings and Rock Creek Meadows for 2.5 miles to the eastern wall. For about 2 miles the old mining road gains about 593’. In about a mile past the meadows as the trail climbs, is the old Heidelberg mining operation. Its boiler and gravity pump equipment, as well as Rock Creek Falls, are a good place to spend a moment looking over the old equipment. The trail to the lake is about 40’ back down the trail off to the left (E) . After 7 switchbacks, the trail walks out next to the outlet creek to the main body of the lake.
 There are some campsites on the right (east) side on a small peninsula, and near the NW end of the lake on the left side (W).
 The lake has two small island on the near east side, and a larger peninsula on the N.W. end.
 Rock Peak 7583’ towers to the west, St. Paul Peak 7714’ is to the N.W., while Ojibway Peak 7303’ is to the east.
@@ -59,7 +76,7 @@ The scramble of Rock Peak, is best from Cliff Lake.
 ## Option #2
 
 If you are a hardy hiker, Ojibway Peak towers high above to the east. Ojibway Peak’s S.W. Face is a destination for climbing.
-​It is a steep scramble for any but the best climbers/scramblers.
+It is a steep scramble for any but the best climbers/scramblers.
 
 ## Directions
 
@@ -78,7 +95,7 @@ Rock Peak, Ojibway Peak, St. Paul Pass, and Libby Lakes.
 
 ## R & p
 
-Henry’s & Pizza Hut, The Shed in Libby. Clark Fork Pantry & Squeeze Inn in Clark Fork. Eicharts, Mr Sub, Burger Express,  & Jalapeños in Sandpoint
+Henry’s & Pizza Hut, The Shed in Libby. Clark Fork Pantry & Squeeze Inn in Clark Fork. Eicharts, Mr Sub, Burger Express,  & Jalapeños in Sandpoint
 
 ---
 
@@ -122,7 +139,7 @@ Henry’s & Pizza Hut, The Shed in Libby. Clark Fork Pantry & Squeeze Inn in Cla
 
 ![Picture](assets/images/p203.png)
 
-## Some unusual trees near the campsite ​please do not harm them
+## Some unusual trees near the campsite please do not harm them
 
 ---
 
@@ -180,7 +197,7 @@ Henry’s & Pizza Hut, The Shed in Libby. Clark Fork Pantry & Squeeze Inn in Cla
 
 ![Picture](assets/images/p219.png)
 
-## Amy rafting rock lake  i'm looking south towards engle peak
+## Amy rafting rock lake  i'm looking south towards engle peak
 
 ---
 
@@ -230,4 +247,4 @@ Henry’s & Pizza Hut, The Shed in Libby. Clark Fork Pantry & Squeeze Inn in Cla
 
 ## Last view of ojibway peak from the trail out
 
-What do you call a place so beautiful, so pristine, that you are in awe the whole time you visit it? What do you call a place without  houses, roads, people and traffic? I call it, a wilderness.            ​                6.16.2916
+What do you call a place so beautiful, so pristine, that you are in awe the whole time you visit it? What do you call a place without  houses, roads, people and traffic? I call it, a wilderness.                            6.16.2916

@@ -6,7 +6,7 @@
 
 Backcountry ski friends is about ski touring, splitboarding, & general uphill shredding.
 
-​all backcountry ski types are welcome and i hope you bring your bc ski friends, be they…
+all backcountry ski types are welcome and i hope you bring your bc ski friends, be they…
 
 * the newby trying to learn the ropes and break into bc skiing
 

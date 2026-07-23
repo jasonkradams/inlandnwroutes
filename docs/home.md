@@ -1,7 +1,9 @@
 # Home
 
 - [Hike](hike.md) — Info from day hikes to multi-week adventures
+
 - [Ski](ski/index.md) — Hiking to the office
+
 - [Paddle](paddle/index.md) — Lakes, rivers and the Puget Sound
 
 ## Join in on the Fun and Give Back

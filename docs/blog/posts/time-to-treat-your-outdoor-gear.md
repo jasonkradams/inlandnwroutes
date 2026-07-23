@@ -1,28 +1,33 @@
 ---
 title: "Blog #40: Time to treat your outdoor gear & spokane county conservation futures properties"
+
 date: 2023-11-04
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Trail Safety & Gear
 ---
 
-
 time to treat your winter outer layers..dwr.
+
 We buy outer gear to keep ourselves warm and dry.
 With skiing, sshoeing, alpine climbing, or just winter hiking into a high country lake coming soon, it’s time to wash and treat our gear.
 This method is for technical gear only.
 DO NOT TREAT wool, fleece, down, or some synthetics with this method.
-              items needed
+              items needed
 Arm & Hammer powder detergent
-Durable Water Repellent  Revivex Gearaid.com
+Durable Water Repellent  Revivex Gearaid.com
 Before washing, secure all zippers, snaps, Velcro fasteners.
 Use one of the the A&H scoopfuls to wash in.
 After that cycle is done, re-wash with water only.
 DWR
 This product applies differently than aerosols sprays.
-Hang the garment on a hanger outside, and apply an even coating of the DWR spray.  Re-apply another light coat on shoulders, top of arms, chest, thighs, seat, all high activity areas.
+Hang the garment on a hanger outside, and apply an even coating of the DWR spray.  Re-apply another light coat on shoulders, top of arms, chest, thighs, seat, all high activity areas.
 Then you can either…….
 Toss it in your dryer on medium heat, for 30+ minutes.
 
@@ -58,11 +63,11 @@ It’s a program that The Spokane Mountaineers, we’re heavily involved in, to 
 Now there are 17 properties to visit, with more being developed.
 Enjoy!
 
-​Chic Burge             David Crafton
+Chic Burge             David Crafton
 
 InlandNWRoutes.com
 
-The State Line Trail                                                                                                                                     Stevens Peak 👇 area
+The State Line Trail                                                                                                                                     Stevens Peak 👇 area
 
 <!-- more -->
 

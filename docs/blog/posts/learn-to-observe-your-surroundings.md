@@ -1,15 +1,20 @@
 ---
 title: "Blog b#35. learn to observe your surroundings"
+
 date: 2023-09-21
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Trail Safety & Gear
 ---
 
-
 As you walk into an area, lake or onto a ridge top, notice the terrain you are waking in, along the way. As well as mid and far off terrain features., like mountains, mesas, power lines, etc.
+
 These observations can help you if you get misplaced.
 And if you get to a summit, you can ask your hiking partners if they see any features they pointed out on the hike in.
 
@@ -45,21 +50,20 @@ How do I stop bleeding?
 How do I treat a sprained ankle?
 How do I use a compass and a map?
 
-How fast is the wind blowing? And from what direction is it coming from.  (All weather reports only show from which directions the winds blows from. That because we know where it came from, but we can not be sure of which direction the wind will blow.)
+How fast is the wind blowing? And from what direction is it coming from.  (All weather reports only show from which directions the winds blows from. That because we know where it came from, but we can not be sure of which direction the wind will blow.)
 
 If you know your hiking partner is weak in an area, create a way to teach them what they need to know. It’s not hard, and can save a life.
 
 In mountaineering, we are taught from the first day….YOU are responsible for YOURSELF.
 Of course, you should always look out for your partners, because stuff happens in the mountains.
 
-The more you know,  the safer you will be.
+The more you know,  the safer you will be.
 
 Ps…..I’ve hiked and skied with a friend for well over 40 years.
 We are constantly asking each other off the wall questions.
 One is to see if the other is coherent.
-And the other is to sharpen both our skills.  c.
+And the other is to sharpen both our skills.  c.
 
 InlandNWRoutes.com
-​
-​
-Chic Burge      David Crafton
+
+Chic Burge      David Crafton

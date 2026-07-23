@@ -1,37 +1,53 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Difficult
+
 - Hiking
+
 - Backcountry Skiing
+
 - Snowshoeing
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Hiking, Backcountry Skiing, Snowshoeing
+
 - label: Distance
   icon: map-marker-distance
   value: 9.3 Miles RT
+
 - label: Elevation
   icon: terrain
   value: 2878 verts gain
+
 - label: Difficulty
   icon: speedometer
   value: Difficult
+
 - label: Maps
   icon: map
   value: USGS - IPNF, St. Joe N.F., & Mullan, Idaho topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°25'34.5"n 115°46'20.6"w
+
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
+
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
 notes:
+
 - Idaho panhandle national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -40,22 +56,22 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​Stevens Peak is surrounded by several remarkable alpine glacier carved cirques, lake and aerates. There are several ridges leading up to the summit which makes for many different options for ascents, descents, loops and through hikes. One route follows the West Willow Ridge, which is also the Idaho Centennial Trail which comes from the south east along the Idaho/Montana border up and over Stevens Peak and continues on north into the Coeur d'Alene N.F. and ultimately into the Selkirks.
+Stevens Peak is surrounded by several remarkable alpine glacier carved cirques, lake and aerates. There are several ridges leading up to the summit which makes for many different options for ascents, descents, loops and through hikes. One route follows the West Willow Ridge, which is also the Idaho Centennial Trail which comes from the south east along the Idaho/Montana border up and over Stevens Peak and continues on north into the Coeur d'Alene N.F. and ultimately into the Selkirks.
 
-West Willow Ridge offers a hard,  but safest routes up to the summit, in the winter and summer. In the winter and spring, by staying up on the ridge you can avoid most of the avalanche danger while skiing or snowshoeing in. This route is also less steep than climbing the headwalls from Lone Lake, but it is sustained until you are above Lone Lake.
+West Willow Ridge offers a hard,  but safest routes up to the summit, in the winter and summer. In the winter and spring, by staying up on the ridge you can avoid most of the avalanche danger while skiing or snowshoeing in. This route is also less steep than climbing the headwalls from Lone Lake, but it is sustained until you are above Lone Lake.
 
 ## Option #1
 
 Trail #16 route from moon pass:
 
-​Park at Moon Pass and take Trail #16 N.R.T. past Gold Hill on to Stevens Peak. Trail #16’s route starts as an old road, above the Moon Pass Road,  that soon becomes a nice trail up over a gentle ridge, to an ORV road. Continue NE on a gentle trail Into the Roughin Creek drainage. The trail switchbacks several time as it summits the east/west ridge. Gold Hill sits along this ridge. From where the trail summits the ridge to Gold Hill, is about .5 miles going cross country. If you stay on Trail#16, there is an ORV Trail on the east side that leads up Gold Hill, in about .75 miles. From here, head east towards Stevens Peak.
+Park at Moon Pass and take Trail #16 N.R.T. past Gold Hill on to Stevens Peak. Trail #16’s route starts as an old road, above the Moon Pass Road,  that soon becomes a nice trail up over a gentle ridge, to an ORV road. Continue NE on a gentle trail Into the Roughin Creek drainage. The trail switchbacks several time as it summits the east/west ridge. Gold Hill sits along this ridge. From where the trail summits the ridge to Gold Hill, is about .5 miles going cross country. If you stay on Trail#16, there is an ORV Trail on the east side that leads up Gold Hill, in about .75 miles. From here, head east towards Stevens Peak.
 
 From Gold Hill to West Willow Ridge road it’s about 2.8 miles, and a total of 3.3 miles to Stevens Peak.
 
 ## Option #2
 
 Boulder creek route:
-​Park at a small parking area above the top road to the Cemetery south of Mullan and follow Boulder Creek about 2 miles to a "basin". ( Meaning no longer on the road up.)
+Park at a small parking area above the top road to the Cemetery south of Mullan and follow Boulder Creek about 2 miles to a "basin". ( Meaning no longer on the road up.)
 Then work your way left (SE) before heading straight up hill to West Willow Ridge at about 2.6 miles. Turn right and walk about 1.6 miles to Stevens Peak.
 This route is best in the winter for hiking/snowshoeing and backcountry skiing. In the non snow season, it’s a difficult route to find up thru the woods.
 
@@ -79,31 +95,31 @@ Stevens Lake, Lone Lake, Shefoot Mountain Trails, Trail #16, Big Dick Point Trai
 ## Hazards
 
 The terrain is steep and sustained for several miles.
-​Exercise caution around the cornices. They can and do break off.
+Exercise caution around the cornices. They can and do break off.
 
 ## R & p
 
-[North Idaho Mountain Brew](https://northidahomountainbrew.com), [1313 Club](https://www.1313club.com), [Pizza Factory](https://wallace.pizzafactory.com) in Wallace, [Radio Brewing Company](http://www.radiobrewingcompany.com) in Kellogg, the [Snake Pit](https://snakepitidaho.com) north of Kingston and [Trails End Brewery](https://www.trailsendbrewery.com) in Cd'A.
+[North Idaho Mountain Brew](https://northidahomountainbrew.com), [1313 Club](https://www.1313club.com), [Pizza Factory](https://wallace.pizzafactory.com) in Wallace, [Radio Brewing Company](http://www.radiobrewingcompany.com) in Kellogg, the [Snake Pit](https://snakepitidaho.com) north of Kingston and [Trails End Brewery](https://www.trailsendbrewery.com) in Cd'A.
 
 ## Photo gallery
 
 ---
 
-![Picture](assets/images/2021115353880-jpeg-1.jpg){: data-src="assets/images/2021115353880-jpeg-1.jpg" }
+![Picture](assets/images/2021115353880-jpeg-1.jpg)"
 
-## An old abandon boom truck just before the summit ridge, ​on the idaho centennial trail
+## An old abandon boom truck just before the summit ridge, on the idaho centennial trail
 
 ---
 
 *Picture (Image missing)*
 
-## The lone lake face of stevens peak. check out those cornices. ​image by amy voeller
+## The lone lake face of stevens peak. check out those cornices. image by amy voeller
 
 ---
 
 ![Picture](assets/images/20200529095059.jpg)
 
-## An old geeeezer chuggin’ along west willow ridge. ​image by amy v
+## An old geeeezer chuggin’ along west willow ridge. image by amy v
 
 ---
 
@@ -125,7 +141,7 @@ Mountain blue birds. there are small flocks of them on most of the peaks around 
 
 ![Picture](assets/images/20200530094803.jpg)
 
-From the summit of stevens peak, is this view of upper & lower stevens lakes on the right, with lone lake on the left side of the divide. ​
+From the summit of stevens peak, is this view of upper & lower stevens lakes on the right, with lone lake on the left side of the divide.
 
 ---
 
@@ -141,7 +157,7 @@ From the summit of stevens peak, is this view of upper & lower stevens lakes on 
 
 ## Co-author david crafton, and hiking partner amy v. descending stevens peak’s west willow ridge
 
-## The below images were sent to me by fellow spokane mountaineer, ​vanette leighty, thank you
+## The below images were sent to me by fellow spokane mountaineer, vanette leighty, thank you
 
 *Picture (Image missing)*
 
@@ -149,10 +165,10 @@ From the summit of stevens peak, is this view of upper & lower stevens lakes on 
 
 *Picture (Image missing)*
 
-Up high on the idaho centennial trail ​above the upper sanctuary, lone lake ​image by vanette leighty
+Up high on the idaho centennial trail above the upper sanctuary, lone lake image by vanette leighty
 
 ![Picture](assets/images/3302023709p.jpg)
 
-## The south wall of the upper sanctuary at lone lake, stevens peak area ​image by vanette leighty
+## The south wall of the upper sanctuary at lone lake, stevens peak area image by vanette leighty
 
-Fall colors are the colors of life near its end. So brilliant they are,  they inspire writers,  painters,          photographers,  and wanders alike.             chic. 10.4.11
+Fall colors are the colors of life near its end. So brilliant they are,  they inspire writers,  painters,          photographers,  and wanders alike.             chic. 10.4.11

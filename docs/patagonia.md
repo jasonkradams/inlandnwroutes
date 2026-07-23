@@ -1,26 +1,40 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 - Easy to Difficult
+
 - Backpacking
+
 - Dinning
+
 - Hiking
+
 - Photography
+
 - Rafting
+
 - So Much More
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Backpacking, dinning, hiking, photography, rafting, and so much more.
+
 - label: Distance
   icon: map-marker-distance
   value: 6,851 miles as the crow flies
+
 - label: Elevation
   icon: terrain
   value: Sea level to 6,000'
+
 - label: Difficulty
   icon: speedometer
   value: easy to difficult
+
 - label: Maps
   icon: map
   value: Patagonia
@@ -39,7 +53,6 @@ My long time friend, Chris Herath had visited this area a few years before our t
 Other members were Shea Herath, and Marsha Jones.
 I can't say enough about the small towns, their hostels, and the restaurants. Not only was the service and accommodations excellent, they make their own real good ice cream. At one dinner, the waitress made me her favorite ice cream dish. It was vanilla ice cream with Teacher"s Scotch poured over it. I stumbled all the way back to the hostel.
 Another real cool feature to El Chalten, was all the trail to the towers are right out your hostels door. There was no need to travel to trailheads.
-​
 
 ---
 
@@ -61,7 +74,7 @@ While you are in Calafate, Argentina, be sure to have a quality dinner at The Lo
 
 ![Picture](assets/images/11142022853p.jpg)
 
-At the request of marsha, our first trip was to the straight of megellin to see the penguins. ​they were birthing or raising their young, so all tourist traffic was strickly restricted
+At the request of marsha, our first trip was to the straight of megellin to see the penguins. they were birthing or raising their young, so all tourist traffic was strickly restricted
 
 ![Picture](assets/images/111420221000p.jpg)
 
@@ -117,7 +130,7 @@ When i talk about patagonia, i must tell you about the always present winds. The
 
 ![Picture](assets/images/111420221031p.jpg)
 
-Shea on the trail heading to camp pehoe.  This image only shows two rutted trails. in some areas, The rutted trails was 6 lanes wide, and two feet deep
+Shea on the trail heading to camp pehoe.  This image only shows two rutted trails. in some areas, The rutted trails was 6 lanes wide, and two feet deep
 
 ![Picture](assets/images/111420221014p.jpg)
 
@@ -133,7 +146,7 @@ One of the coolest things about hiking in torres del paine park, was whenever a 
 
 ![Picture](assets/images/111420221037p.jpg)
 
-When we did the auto tour, the guide told us, very seriously, that if it snowed while we were up high, we should exit the high country immediately. We woke up to about 5" of fresh snow on the first morning. Chris and i went to all camp sites and advised the campers to head down. One british hiker was there with all new equipment, including a stove, boots, and canned food. He didn't have a can opener, so he was in a bad way. i went back to my pack and dug out a spare p-38 can opener, to give him. I insisted that he, as well as all campers leave before us, so i could tell the rangers, no one was left up high. One german couple spent hours, maybe days, leaning against a down tree smoking cigarette after cigarettes. The pile on the ground was easily 50 to 75 butts deep. As i told them they had to head down in front of us, i insisted that they pick up every cigarette butt. fortunately, they complied
+When we did the auto tour, the guide told us, very seriously, that if it snowed while we were up high, we should exit the high country immediately. We woke up to about 5" of fresh snow on the first morning. Chris and i went to all camp sites and advised the campers to head down. One british hiker was there with all new equipment, including a stove, boots, and canned food. He didn't have a can opener, so he was in a bad way. i went back to my pack and dug out a spare p-38 can opener, to give him. I insisted that he, as well as all campers leave before us, so i could tell the rangers, no one was left up high. One german couple spent hours, maybe days, leaning against a down tree smoking cigarette after cigarettes. The pile on the ground was easily 50 to 75 butts deep. As i told them they had to head down in front of us, i insisted that they pick up every cigarette butt. fortunately, they complied
 
 ![Picture](assets/images/111420221040p.jpg)
 
@@ -161,7 +174,7 @@ As we were rafting to the ships, i glanced back and saw this view. I turned arou
 
 ![Picture](assets/images/111420221049p.jpg)
 
-After hiking out of the camp pehoe, we rafted to a waterfall, hiked down around a waterfall, rafted some more, until we came to these ships. Also here was a place to eat lunch. they brought us trays of bbq meats, salads and drinks, before we boarded the ships for a cruise back to ​punta arenas
+After hiking out of the camp pehoe, we rafted to a waterfall, hiked down around a waterfall, rafted some more, until we came to these ships. Also here was a place to eat lunch. they brought us trays of bbq meats, salads and drinks, before we boarded the ships for a cruise back to punta arenas
 
 ![Picture](assets/images/111420221051p.jpg)
 
@@ -181,15 +194,15 @@ I couldn't resist walking over to this old horse for a few images. I was drawn t
 
 ![Picture](assets/images/111420221058p.jpg)
 
-In calafate, we stayed in this hostel. ​the service and quality of all but one hostel was exceptional
+In calafate, we stayed in this hostel. the service and quality of all but one hostel was exceptional
 
 ![Picture](assets/images/111420221100p.jpg)
 
-From calafate, we took a bus out to glacier morreno. They were paving the road to the glacier with a ​one yard hand cement mixer. ​the road was about 30 miles long
+From calafate, we took a bus out to glacier morreno. They were paving the road to the glacier with a one yard hand cement mixer. the road was about 30 miles long
 
 ![Picture](assets/images/111420221101p.jpg)
 
-We were in calafate in late november, which is their spring, so we asked the hostel owner where the very best restaurant was. ​ she directed us to the los alamos resort. ​here we celebrated thanksgiving
+We were in calafate in late november, which is their spring, so we asked the hostel owner where the very best restaurant was.  she directed us to the los alamos resort. here we celebrated thanksgiving
 
 ![Picture](assets/images/111420221105p.jpg)
 
@@ -201,11 +214,11 @@ From left to right...chic, shea, chris, and marsha. The food was beyond belief. 
 
 ![Picture](assets/images/111420221111p.jpg)
 
-As we were being seated, i told the person, that this was a special day in the u.s....thanksgiving.  she asked me how we celebrated thanksgiving, so i explained we stuff our selves with turkey and all the trimmings, and lay on the floor and moan and groan while watching football. ​  she said they don't serve turkey, and we can't lay on the floor, ​but she would let the cooks know. As an appetizer, they brought us a plate of turkey Cooked several different ways  After lots and lots of wine, they brought out a 13" cheese cake for us to enjoy
+As we were being seated, i told the person, that this was a special day in the u.s....thanksgiving.  she asked me how we celebrated thanksgiving, so i explained we stuff our selves with turkey and all the trimmings, and lay on the floor and moan and groan while watching football.   she said they don't serve turkey, and we can't lay on the floor, but she would let the cooks know. As an appetizer, they brought us a plate of turkey Cooked several different ways  After lots and lots of wine, they brought out a 13" cheese cake for us to enjoy
 
 ![Picture](assets/images/202211170447.jpg)
 
-## The entrance to fitzroy glacier national park, ​with mount fitzroy 11,073'
+## The entrance to fitzroy glacier national park, with mount fitzroy 11,073'
 
 ![Picture](assets/images/dscn0905-2.jpg)
 
@@ -213,8 +226,8 @@ As we were being seated, i told the person, that this was a special day in the u
 
 ![Picture](assets/images/111420221114p.jpg)
 
-Chris, being an architect, and i, were amazed at the houses in calafate. Keep in mind, the winds blow here at high speeds, all the time.  All the houses are made of rock, concrete, brick, or stucco. The reason is, wood houses don't last very long in the winds
+Chris, being an architect, and i, were amazed at the houses in calafate. Keep in mind, the winds blow here at high speeds, all the time.  All the houses are made of rock, concrete, brick, or stucco. The reason is, wood houses don't last very long in the winds
 
 ![Picture](assets/images/111420221116p.jpg)
 
-We got out of the bus we were on, from  glacier morreno ​ to walk back to the hostel, so we could enjoy the architecture
+We got out of the bus we were on, from  glacier morreno  to walk back to the hostel, so we could enjoy the architecture

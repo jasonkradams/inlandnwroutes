@@ -1,13 +1,17 @@
 ---
 title: "Blog #11: Call the ranger district before you go"
+
 date: 2023-07-06
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
-
 
 Please call the ranger district office, as you plan your trip.
 
@@ -27,5 +31,5 @@ And please evaluate your emergency before calling 911.
 Only call if the emergency response is absolutely needed.
 
 InlandNWRoutes.com
-​
-Chic Burge     David Crafton
+
+Chic Burge     David Crafton

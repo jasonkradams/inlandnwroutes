@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Paddling & Rivers
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: 4.5 miles
+
 - label: Elevation
   icon: terrain
   value: 2320’
+
 - label: Length and Acreage
   icon: vector-square
   value: 4.5 miles & 1202 acres
+
 - label: Maps
   icon: map
   value: Kootenai N. F., Bull Lake Topo
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°13’11" n 115°51’22" w
+
 - label: Lincoln County Sheriff
   icon: shield-account
   value: 406.293.4112
@@ -28,7 +36,6 @@ stats:
 
 The Bad Medicine C. G. And launch are located on the SW end of the lake. The launch is located south of the camp grounds near the south end of the lake. There is plenty of parking, but the turn around to launch is kind of tight, so if your boat is large, you might want to use the Dorr Skeel C.G. launch on the north end of the lake.
 The main body is a little over 2 miles long where the lake narrows before passing by Angel Island. Past the island, the lake continues for about 2 miles
-​
 
 ## Attractions
 

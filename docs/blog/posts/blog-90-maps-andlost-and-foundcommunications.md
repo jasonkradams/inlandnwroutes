@@ -1,13 +1,17 @@
 ---
 title: "Blog #90: Maps and…lost and found…communications"
+
 date: 2025-06-20
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
-
 
 Maps
 
@@ -40,6 +44,6 @@ But we are human and mistakes happen.
 Please feel free to contact Chic directly by using the envelope at the bottom of each page of our website.
 Thank You All, for reading and using InlandNWRoutes.com
 
-Chic                 David
-​
+Chic                 David
+
 InlandNWRoutes.com

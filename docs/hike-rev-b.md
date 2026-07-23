@@ -1,7 +1,10 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: GPS
   icon: crosshairs-gps
   value: n??° ?’ ?.??" w???° ?’ ??.??"

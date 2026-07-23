@@ -1,13 +1,17 @@
 ---
 title: "Blog #33: Do not wear cotton in the mountains"
+
 date: 2023-09-11
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Trail Safety & Gear
 ---
-
 
 From the title of this BLOG, you may assume that cotton clothing is a hazard in the mountains.
 
@@ -37,7 +41,7 @@ I used hand gestures to let her know what we needed to do, fast.
 The Japanese girl was also getting cold, so I put one on each side and grabbed their arms over my shoulder.
 It took hours to get them down to the car.
 Because of the effort the Japanese girl exerted, she warmed up enough to help get the other girl safely to the car.
-But she was not out of the woods yet, I put them in the back seat under a blanket to transfer body heat. I also  placed our water bottles up by the defrosters to warm them.
+But she was not out of the woods yet, I put them in the back seat under a blanket to transfer body heat. I also  placed our water bottles up by the defrosters to warm them.
 If the girl that owned the car found out the speeds I was driving down the Pack River Road, to get her to the hospital, I’d be in big trouble.
 By the time we got to the hospital, the staff assured me she was out of danger.
 Later I found out her polypro was in the laundry bin waiting to be washed. She had on a long sleeve cotton t-shirt.
@@ -77,4 +81,4 @@ Chic at info@inlandnwroutes.com.
 
 InlandNWRoutes.com
 
-Chic Burge       Davis Crafton
+Chic Burge       Davis Crafton

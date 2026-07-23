@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Waterfall
   icon: waterfall
   value: west willow creek falls
+
 - label: Drop
   icon: arrow-collapse-down
   value: several falls, and 500’ steep cascades
+
 - label: Waterfall Type
   icon: hiking
   value: nearly every type
+
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: headwall falls .9 miles. many more above & below
+
 - label: Maps
   icon: map
   value: ipnf, mullan topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°26’17" n 115°46’26" w
@@ -71,7 +79,7 @@ Any time you go waterfalling, you are putting yourself in danger. do not take do
 Please always err on the side of caution. no waterfall, or image is worth your life.
 In developed areas, mind the rules, or pay the price.
 
-​All waterfalls are a hazard, due to their slippery nature. always be extra careful near any waterfall
+All waterfalls are a hazard, due to their slippery nature. always be extra careful near any waterfall
 
 ## R & p
 
@@ -95,7 +103,7 @@ Click for Current NOAA Weather Conditions
 
 ![Picture](assets/images/dscn0041.jpg)
 
-## This is the 500' cascading waterfall below lone lake. ​
+## This is the 500' cascading waterfall below lone lake.
 
 ![Picture](assets/images/6172022849p.jpg)
 
@@ -123,7 +131,7 @@ The next three images are from the 500' cascading waterfall. The original trail 
 
 ![Picture](assets/images/11102021754.jpg)
 
-Lone lake from near the lakes waterfall, looking north. ​the split in the trees is the trail down
+Lone lake from near the lakes waterfall, looking north. the split in the trees is the trail down
 
 ---
 

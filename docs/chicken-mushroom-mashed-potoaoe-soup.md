@@ -7,11 +7,11 @@
 This is a quick and easy dish to make.
 
 Ingredients:
-Organic potatoes 
+Organic potatoes
 2 sprigs of salad onions, chopped
 4 Regular button mushrooms, sliced.
 Onions optional
-Baked chicken thighs and breasts  and cook your own, or buy chicken from a deli
+Baked chicken thighs and breasts  and cook your own, or buy chicken from a deli
 
 Debone the chicken, and boil the bones.
 
@@ -37,12 +37,12 @@ And, do not over boil the potatoes to mush. If they get too mushy, they aren’t
 To serve, divide up the mashed potatoes into medium size glass bowls.
 Then add the gravy mix over the potatoes.
 
-Hence Chicken, Mushroom, Mashed Potatoes,  Soup.
+Hence Chicken, Mushroom, Mashed Potatoes,  Soup.
 
 Enjoy.
 If you don’t take anything else out of this recipe, ALWAYS follow the gravy instructions to the T.
-The recipe is under RECIPE....EASY QUALITY GRAVY.....
+The recipe is under RECIPE....EASY QUALITY GRAVY.....
 Only add other ingredients after the gravy has thickened.
-It will never fail you.   c.
+It will never fail you.   c.
 
 Click to set custom HTML<https://www.inlandnwroutes.com/world-class-gravy.html>

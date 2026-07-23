@@ -28,40 +28,40 @@ As time goes on, we will include the following activities:
 * Eventually, I would like to add Climbing in our region.
 
 Since we have started our website, we have added the following topics:
-        Wildflowers
-       Waterfalls
-       A link to Hot Springs around the world. Why reinvent the wheel.
-       And a "GALLERY" to showcase our images that aren't in each write up, or topic.
+        Wildflowers
+       Waterfalls
+       A link to Hot Springs around the world. Why reinvent the wheel.
+       And a "GALLERY" to showcase our images that aren't in each write up, or topic.
 
 And thru conservation discussion, show how we, the users, can protect and keep our region clean and enjoyable for all.
 
 So, I would like to ask you to help. I haven’t been everywhere, and done everything. If you go on any of the above activities, I would like to ask you to contribute to this website by writing and photographing about your outing in the template we are using.
-​
+
 Your contribution will be noted in its page on the website.
 
 ### A friend in the Spokane Mountaineers sent me this after a Two Mouth Lakes to The Wigwams key exchange backpack in the American Selkirks
 
-​"Thanks, that is exactly what I was looking for. My thigh muscles (especially on the left) were quite sore but nothing that I won’t recover from easily. It’s a good kind of sore, not an injury.
- 
+"Thanks, that is exactly what I was looking for. My thigh muscles (especially on the left) were quite sore but nothing that I won’t recover from easily. It’s a good kind of sore, not an injury.
+
 When we sign up for an outing you are leading, we always expect several things:
 
 1. It will be an adventure.
 
 1. There will be a big payoff in scenery.
 
-1. It will require some effort and probably some bushwhacking (Dave call's it chicwackin’.)
+1. It will require some effort and probably some bushwhacking (Dave call's it chicwackin’.)
 
 1. It will be fun!
 
 This trip had all of that and more. Yes, it was difficult with Terrie, but she really came through on day 2. We took few breaks, kept up a steady pace, and each time we thought we were near the exit (but were not), she just bucked up and kept on going. Her post on Facebook showed all smiles and it was a glowing report. I think she was very proud of herself but also aware that this was much tougher than she had anticipated. She just needs more experience and to do easier hikes, so she can pare down her pack and see what others are doing to lighten the load.
- 
+
 I will share a few of our better pictures with the group, and you can use any of them you like.
- 
+
 Thanks for all the immense effort you put into preparing and managing this trip. It was a logistical puzzle for sure, but teamwork made it all go as smoothly as possible. And yes, thank goodness we had no injuries!
- 
+
 Carol & Chuck"
 
-​Chic Burge
+Chic Burge
 
 ---
 

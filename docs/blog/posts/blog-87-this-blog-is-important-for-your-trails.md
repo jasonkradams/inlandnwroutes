@@ -1,13 +1,17 @@
 ---
 title: "Blog #87: This blog is important for your trails"
+
 date: 2025-04-17
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
-
 
 Hi Readers,
 
@@ -21,7 +25,7 @@ The spokane mountaineers, inc.
 Your best bet to is to Google spokanemountaineers.
 We have been building, maintaining, trails all around us, for over 100 years.
 I’d would bet that local trails around Spokane, have had our work parties doing our thing maybe many times.
-Currently, we are building a new connection trail at Dishman Hills Conservancy.
+Currently, we are building a new connection trail at Dishman Hills Conservancy.
 
 We are the major trails group that maintain The Lower & Upper Stevens Lakes and Lone Lake next door, by Mullan, Idaho.
 In 1991, I personally adopted The Stevens Lakes, and Lone Lake trails.
@@ -33,7 +37,7 @@ Log on and see the Spokane Mountaineers at work.
 
 Washington trail association
 
-WTA is the premier trail builder and maintenance club in Washington.
+WTA is the premier trail builder and maintenance club in Washington.
 They are so cool, they have worked on many trails along the Washington/Idaho boarder, in Idaho.
 [<https://www.wta.org](https://www.wta.org>/)
 
@@ -58,7 +62,7 @@ TNC has save areas like Cougar Bay along 95 south of CDA.
 They are an international organization working to save our water, oceans, and land.
 With their clout and human resources they are very talented in conserving many of our special areas.
 
-​And do not forget Mount Spokane State Park and Riverside State Park.
+And do not forget Mount Spokane State Park and Riverside State Park.
 
 I have found in my life, that volunteering is way better than going to therapy. And way less expensive.
 And you get to play in the dirt on purpose, for fun.
@@ -74,7 +78,7 @@ But there’s even a more important reason to carry a dozen grocery bags.
 Three time, three different lakes in 2024, had campfires burning on a Wednesday left shouldering from the weekend.
 
 These bags only weight 6 grams. But those 6 grams could save an entire forests.
-Think of that.  WOW!
+Think of that.  WOW!
 
 Get out as soon as possible, and enjoy our trails before it gets too hot.
 The Washington Scab Lands are warm enough to hike in shorts and tee shirts.
@@ -87,6 +91,6 @@ I was ecstatic early on, when we had 100 hit in a week.
 
 Thank You,
 
-Chic           David
+Chic           David
 
 Inland NW Routes.com

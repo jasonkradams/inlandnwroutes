@@ -1,37 +1,53 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Moderate
+
 - Day Hiking
+
 - Backpacking
+
 - Equestrian
+
 - Mt Biking
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: day hiking, backpacking, equestrian, and mt biking
+
 - label: Distance
   icon: map-marker-distance
   value: about 2 miles
+
 - label: Elevation
   icon: terrain
   value: 1838’
+
 - label: Difficulty
   icon: speedometer
   value: moderate
+
 - label: Maps
   icon: map
   value: IPNF, CDA River Ranger District, Packsaddle Mt. Topo
+
 - label: GPS
   icon: crosshairs-gps
   value: trailhead. 48°00’58" N 116°20’ 43" W Summit 48°05’ 51" N 116°21’ 22" W
+
 - label: Ranger District
   icon: pine-tree
   value: Sandpoint R.D. 208.263.5111
+
 - label: Bonner County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.263.8417
 notes:
+
 - Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -74,7 +90,7 @@ Click for Current NOAA Weather Conditions
 
 ##
 
-![Picture](assets/images/1202022827p.jpg){: data-src="assets/images/1202022827p.jpg" }
+![Picture](assets/images/1202022827p.jpg)"
 
 ## The summit of packsaddle peeks out above the hike in
 

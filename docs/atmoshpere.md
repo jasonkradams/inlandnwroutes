@@ -3,6 +3,7 @@
 ---
 
 > [!TIP]
+
 > **Interactive Photo Gallery**: Click on any photo to open the high-resolution lightbox modal with slide controls, captions, and full-screen view.
 
 ---
@@ -14,6 +15,7 @@
     <img src="assets/images/dsc0595.jpg" alt="Aurora's Spokane River - Harbor Island" />
   </a>
   <div class="photo-card-caption">Aurora's Spokane River - Harbor Island</div>
+
 </div>
 
 <div class="photo-card">
@@ -35,6 +37,7 @@
     <img src="assets/images/12192021643p.jpg" alt="Smoke on the Water - Lower Priest Lake" />
   </a>
   <div class="photo-card-caption">Smoke on the Water - Lower Priest Lake</div>
+
 </div>
 
 <div class="photo-card">
@@ -70,6 +73,7 @@
     <img src="assets/images/12192021646p.jpg" alt="5AM Sunrise Over C.M.W. from Ross Creek Cedars Road" />
   </a>
   <div class="photo-card-caption">5AM Sunrise Over C.M.W. - Ross Creek</div>
+
 </div>
 
 <div class="photo-card">
@@ -98,6 +102,7 @@
     <img src="assets/images/12192021704p.jpg" alt="Approaching Storm - Stevens Peak" />
   </a>
   <div class="photo-card-caption">Approaching Storm - Stevens Peak</div>
+
 </div>
 
 <div class="photo-card">

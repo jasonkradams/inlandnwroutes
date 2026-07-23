@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Lakes
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: about 3.8 miles shore line paddle
+
 - label: Elevation
   icon: terrain
   value: 2186’
+
 - label: Length and Acreage
   icon: vector-square
   value: 1.2 miles and 539 acres
+
 - label: Maps
   icon: map
   value: Newman Lake & Mount Spokane topos
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°46’13" n. 117°01’04" w
+
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300
@@ -36,7 +44,7 @@ Easy access from Hwy 53, several places t get out and swim
 ## Directions
 
 From Spokane, drive East on Trent to the Washington Idaho State lines where Hwy 290 becomes Hwy 53 to Rathdrum.
-​From the state line, drive 1.9 miles to the Hauser Lake Road. Turn left (north) for 1.3 miles to the launch site on your right.
+From the state line, drive 1.9 miles to the Hauser Lake Road. Turn left (north) for 1.3 miles to the launch site on your right.
 
 ## Cool things close by
 

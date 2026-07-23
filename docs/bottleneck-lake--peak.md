@@ -1,38 +1,53 @@
 ---
 tags:
+
 - Lakes
+
 - Moderate
+
 - Day Hiking
+
 - Backpacking
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking
+
 - label: Distance
   icon: map-marker-distance
   value: 7 miles RT to the peak
+
 - label: Elevation Gain
   icon: elevation-rise
   value: 2543’
+
 - label: Acres
   icon: vector-square
   value: '10.6'
+
 - label: Difficulty
   icon: speedometer
   value: Moderate
+
 - label: Maps
   icon: map
   value: IPNF, KANIKSU N. F., Roman Nose topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 48°39’35" n 116°36’05" w
+
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561
+
 - label: Boundary County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.263.8417
 notes:
+
 - Idaho panhandle national forest/alerts <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -43,7 +58,7 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​The trailhead is shared by Bottleneck and Snow Lakes. About 1.8 miles up Trail #185, you will come to a junction with Trail 185 that leads you to Snow Lakes. At this junction the trail switchbacks twice before heading up to Bottleneck Lake for about 1.5 miles from the second switchback.
+The trailhead is shared by Bottleneck and Snow Lakes. About 1.8 miles up Trail #185, you will come to a junction with Trail 185 that leads you to Snow Lakes. At this junction the trail switchbacks twice before heading up to Bottleneck Lake for about 1.5 miles from the second switchback.
 
 There are two campsites at the base of the lake.
 
@@ -53,13 +68,12 @@ While at the lake, check out a route to the ridge line that Bottleneck Peak sits
 
 ## Option #2
 
-To get to the upper lake, skirt around the lower lake to the left onto a small scree slope, heading SW. Its a short distance to the upper lake.
-​
+To get to the upper lake, skirt around the lower lake to the left onto a small scree slope, heading SW. Its a short distance to the upper lake.
 
 ## Option #3
 
 For incredible views of the American Selkirks, scramble up toward the peak, where ever you feel comfortable.
-The views of the American Selkirks is  spectacular to say the least.
+The views of the American Selkirks is  spectacular to say the least.
 Bottleneck Peak sits at 6923', and should not be missed.
 From this ridge is a spectacular view of the Beehive Dome across the Pack River.
 
@@ -138,4 +152,4 @@ Eichardt’s, Mr Sub, Burger Express, Jalapeños in Sandpoint.
 
 ## Beehive dome from bottleneck peak
 
-Whether you go into Nature for serenity or peace a walk amongst Nature will show you more than you can imagine. It is a fact that a walk in Nature soothes our souls, allows us to become centered. And as we returns to life, we are changed.     chic    7.27.2924
+Whether you go into Nature for serenity or peace a walk amongst Nature will show you more than you can imagine. It is a fact that a walk in Nature soothes our souls, allows us to become centered. And as we returns to life, we are changed.     chic    7.27.2924

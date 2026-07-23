@@ -5,12 +5,13 @@
 ---
 
 Type:
+
 Website:
 Phone:
 Pools:
 Hours:
 Amenities:
-​miles from spokane:
+miles from spokane:
 
 ---
 

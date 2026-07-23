@@ -1,32 +1,41 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 stats:
+
 - label: Phone
   icon: phone
   value: 509.663.
+
 - label: Acres
   icon: vector-square
   value: '2000'
+
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 200"
+
 - label: Summit Elevation
   icon: terrain
   value: 6820'
+
 - label: Base Elevation
   icon: terrain
   value: 4570'
+
 - label: Verts
   icon: arrow-expand-vertical
   value: 2250'
 notes:
+
 - Missionridge.com
 ---
 
 # Mission Ridge Ski  Board Resort
 
-*Mission ridge ski & board resort    wenatchee, wa*
+*Mission ridge ski & board resort    wenatchee, wa*
 
 ## of named runs: 36
 
@@ -61,7 +70,7 @@ Other amenities: ???
 
 ![Picture](assets/images/12042021845p.jpg)
 
-## The bomber cliffs ​some of the chutes are great skiing
+## The bomber cliffs some of the chutes are great skiing
 
 ![Picture](assets/images/12042021847p.jpg)
 

@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Paddling & Rivers
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
+
 - label: Elevation
   icon: terrain
   value: 1915'
+
 - label: Length and Acreage
   icon: vector-square
   value: varies
+
 - label: Maps
   icon: map
   value: Spokane, Spokane County
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°41'40" n 117°18'29" w
+
 - label: Spokane County Sheriff
   icon: shield-account
   value: 509.477.2240
@@ -27,7 +35,7 @@ stats:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​Boulder Beach is a landing, not a launch. hence you can't unload power boats or jet skis.
+Boulder Beach is a landing, not a launch. hence you can't unload power boats or jet skis.
 The beach is also along the Centennial Trail west of the Camp Sekani Biking Trails.
 There is a short path to carry your boats down to the water.
 

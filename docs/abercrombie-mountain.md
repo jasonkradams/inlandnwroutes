@@ -1,34 +1,55 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Day Hiking
+
 - Backpacking
+
 - Equestrian
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: day hiking, backpacking, and equestrian
+
 - label: Maps
   icon: map
   value: Colville N. F., Abercrombie Topo
+
 - label: Managing Agency
   icon: domain
   value: Three Rivers R.D. 509.738.6111
+
 - label: Stevens County Sheriff
   icon: shield-account
   value: 509.684.5296
 notes:
+
 - 'Trail #117...6.4 miles RT'
+
 - 'Trail #119...11.8 miles RT'
+
 - 'Trail #502...8 miles RT'
+
 - 'Trail #117... about 2310’'
+
 - 'Trail #119...about 3135’'
+
 - 'Trail #502...about 2247’'
+
 - 'Trail #117...moderate'
+
 - 'Trail #119...difficult'
+
 - 'Trail #502...moderate'
+
 - 'F.R. #300, Trail #117°48°55’48" N 117°29’04" W'
+
 - 'F.R. #070, Trail #119°48°54’20" N 117°31’ 05" W'
+
 - 'F.R. #350, Trail #502 48°55’23" N 117°25’ 03" W'
 ---
 
@@ -42,7 +63,7 @@ Trail #117 follows an old logging road to a junction with trail 119 at 1.4 miles
 
 Trail #119 follow the N. Fork Silver Creek NE up thru 20 switchbacks to where it passes Trail 117. In about a mile, climb the steep trail to the summit.
 
-​Trail #502 climbs NNW then W to the summit after 4 switchbacks. And as above, the summit climb is steep.
+Trail #502 climbs NNW then W to the summit after 4 switchbacks. And as above, the summit climb is steep.
 
 ## Option #1
 
@@ -57,7 +78,7 @@ From Colville drive east on 3rd Avenue on SH 20 to near Ione. By the airport tur
 The road becomes Northport Road 9435, and at the next "Y" stay right towards Deep Lake.
 Drive 7.3 miles passing Deep Lake and turn right (east) at Leadpoint onto Silver Creek Road 4720. Drive 1/2 mile and bear left at another "Y" and continue on CR 4720 for about a mile onto national forest land. Drive less than 1/2 a mile and turn left onto Road 7078 and take Road 300 to the trailhead.
 
-​Abercrombie via Flume Creek Trail #502
+Abercrombie via Flume Creek Trail #502
 
 From Metaline Falls, on W.Hwy #31 turn left onto Boundary Road.
 

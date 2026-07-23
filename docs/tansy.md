@@ -1,30 +1,39 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Genesis Name
   icon: book-open-variant
   value: Tanacetum vulgare
+
 - label: Distribution
   icon: earth
   value: Wa, Id, Mt, Or, Co, Cal, and around the Great Lakes
+
 - label: Season
   icon: calendar
   value: April thru Roctober
+
 - label: Medical Use
   icon: medical-bag
   value: Tansy is also used to **treat roundworm and threadworm infections** in children.
     Other uses include treatment of epileptic seizures, colds, fever, hysteria, gout,
     kidney problems, and tuberculosis. It is also used to kill lice and bacteria;
     promote sweating; calm the nerves; and act as an antioxidant, tonic, and stimulant.
+
 - label: Edibility
   icon: food-apple
   value: I wouldn't recommend eating this flower
+
 - label: Features
   icon: information-outline
   value: Tansy is also a staunch garden protector. There are impressive claims that
     it repels all kinds of pests such as **ants, flies, fleas, moths, mosquitoes,
     ticks, and even mice**.
+
 - label: Leaves
   icon: leaf
   value: The basal rosette leaves are dark green with purplish stems and are ruffled
@@ -36,15 +45,18 @@ stats:
     long. Flowering stems grow 8 to 36 inches tall. Leaves are alternate and are deeply
     divided into irregular segments. Yellow flowerheads are daisy-like and occur in
     clusters of 20 to 60.
+
 - label: Fruits
   icon: fruit-cherries
   value: Yes, but they are not edible. Fruit is an achene that is shaped like an cylinder.
 notes:
+
 - The yellow flowerheads are daisy-like with light brown centers. Each flowerhead
   has many disc florets, which make up the center, and 13 ray florets, which make
   up the yellow petals along the outside. Under each flowerhead are 13 black-tipped
   bracts. 20 to 60 flowerheads occur into dense, flat-topped clusters at the ends
   of the branches. Tansy ragwort flowers July through September.
+
 - The fruit is an achene (a dry fruit with a single seed and thin walls that does
   not open at maturity; for example, a sunflower "seed"). The achenes, which have
   shallow ribs, are shaped like cylinders. Both the disc florets and the ray florets

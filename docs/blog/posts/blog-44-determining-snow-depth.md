@@ -1,13 +1,17 @@
 ---
 title: "Blog #44: Determining snow depth"
+
 date: 2023-12-20
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Winter Sports
 ---
-
 
 While doing some research for this website, I stumbled upon the NOAA OPERATIONAL HYDROLOGIC REMOTE SENSING CENTER.
 
@@ -24,7 +28,7 @@ I can be reached directly at info@inlandnwroutes.com
 
 Thank You for reading our local website on places all over our region to play in Nature.
 
-Chic Burge          David Crafton
+Chic Burge          David Crafton
 
 InlandNWRoutes.com
 

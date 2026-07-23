@@ -1,28 +1,39 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Extremely Strenuous
+
 - Scrambling
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Scrambling
+
 - label: Distance
   icon: map-marker-distance
   value: 11.1 miles RT
+
 - label: Elevation Gain
   icon: elevation-rise
   value: 5208’
+
 - label: Difficulty
   icon: speedometer
   value: Extremely strenuous
+
 - label: Maps
   icon: map
   value: Cranbrook. 82 G/NE-NW
+
 - label: GPS
   icon: crosshairs-gps
   value: Trailhead. 49°38’01"N 115°30’42"W
 notes:
+
 - Summit. 49°38’47"N 115°29’04"W
 ---
 
@@ -46,7 +57,7 @@ On the summit is a red summit registration box. I told them I knew cameras, and 
 In all of these 2000’ sections, rock fall is a serious concern. Be aware. And yell ROCKS loud.
 
 About 3/4 the way down, they over took me on the descent. Two of them were as slow as I was, so we hiked and chatted about what a beautiful climb it is.
-​
+
 When the three of us reached the cars, the folks had their cars point in the direction of the trailhead. What was really nice, was that they had a large cooler of Canadian beer on ice. We sat on fenders and drank beer until I needed a rest.
 After I drove back to Cranbrook, I couldn’t take my eyes off Fisher Peak.
 
@@ -117,7 +128,7 @@ Click for Current NOAA Weather Conditions
 
 ![Picture](assets/images/p350.png)
 
-The summit pyramid stands 1300 verts above the rest of the local peaks. ​on the summit was a wedding party from a few days before
+The summit pyramid stands 1300 verts above the rest of the local peaks. on the summit was a wedding party from a few days before
 
 ![Picture](assets/images/p424.png)
 

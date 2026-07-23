@@ -1,37 +1,53 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 - Moderate to the Mollies
+
 - Day Hiking
+
 - Backpacking
+
 - Scrambling
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, scrambling
+
 - label: Distance
   icon: map-marker-distance
   value: 3 miles RT to The Mollies Lake. 5 miles RT to The Mollies summit
+
 - label: Elevation Gain
   icon: elevation-rise
   value: 1651 verts to The Mollies. To Pheobe’s Tip is NA
+
 - label: Difficulty
   icon: speedometer
   value: moderate to The Mollies
+
 - label: Maps
   icon: map
   value: Kaniksu N.F., Caribou Creek & Grass Mountain topos
+
 - label: GPS
   icon: crosshairs-gps
   value: 48°50’43" n 116°50’19" w
+
 - label: Ranger District
   icon: pine-tree
   value: Priest River R.D. 208.443.2512
+
 - label: Boundary County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.267.3151
 notes:
+
 - Idaho panhandle national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -42,7 +58,7 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​This hike is due north of Priest Lake and offers great views of Priest Lake, the American Selkirks, Washington, and Canada.
+This hike is due north of Priest Lake and offers great views of Priest Lake, the American Selkirks, Washington, and Canada.
 The trail heads up thru a forested area that doesn't offer many views, until you break out into open areas next to the lake and above to the summit. Once on top the views are to die for. From the high peaks above Hughes Meadows to the west, to the American Selkirks to the east, and the peaks of Canada to the north, this summit shows the grandeur of North Idaho. Be aware that the trail is sketchy as you approach the lake.
 The summit block sits on a 1500' wall on the east. The meadows below the wall looks like its from a fairytale.
 Off to the NW, Pheobe's Tip stands out along the skyline. Its about 1.2 miles from the Mollies summit and offers a great extended hike to an even taller peak.
@@ -50,7 +66,7 @@ Off to the NW, Pheobe's Tip stands out along the skyline. Its about 1.2 miles fr
 ## Option #1
 
 Pheobe’s Tip is located NW of The Mollies at about 1.2 mile. It’s along a nice ridge, so views are great.
-​It’s a bit arduous, but the rewards are worth the effort.
+It’s a bit arduous, but the rewards are worth the effort.
 
 ## Directions
 
@@ -98,7 +114,7 @@ Below the summit of the mollies, is the mollies lake. Off in the distance is the
 
 *Picture (Image missing)*
 
-In this turn of the century image, this was the camp, ​for fire lookout people. ​image by ernest grambo
+In this turn of the century image, this was the camp, for fire lookout people. image by ernest grambo
 
 ---
 
@@ -106,7 +122,7 @@ In this turn of the century image, this was the camp, ​for fire lookout people
 
 *Picture (Image missing)*
 
-## Early fire lookout camps were very primitive. ​image by ernest grambo
+## Early fire lookout camps were very primitive. image by ernest grambo
 
 ---
 
@@ -114,10 +130,10 @@ In this turn of the century image, this was the camp, ​for fire lookout people
 
 ![Picture](assets/images/2021115339-jpeg-1.jpg)
 
-## The mollies lookout cabin near the turn of the century. ​PHOTO BY THEON McMAHON
+## The mollies lookout cabin near the turn of the century. PHOTO BY THEON McMAHON
 
 *Picture (Image missing)*
 
 ## The old lookout tower
 
-## When you have a choice of paths… always choose the fun one. ​chic    2012
+## When you have a choice of paths… always choose the fun one. chic    2012

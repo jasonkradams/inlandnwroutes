@@ -1,37 +1,52 @@
 ---
 tags:
+
 - Lakes
+
 - Difficult
+
 - Day Hiking
+
 - Backpacking
+
 - Equestrian
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, and equestrian
+
 - label: Distance
   icon: map-marker-distance
   value: varies, but 25 miles RT
+
 - label: Elevation Gain
   icon: elevation-rise
   value: 3400 verts
+
 - label: Difficulty
   icon: speedometer
   value: Difficult
+
 - label: Maps
   icon: map
   value: LOLO National Forest, Ninemile District, Bruin Hill, S. Patrick Peak, Schleswig
     Mountain topos
+
 - label: GPS
   icon: crosshairs-gps
   value: 46°54’29" n 114°48’12" w
+
 - label: Nine Mile Ranger District
   icon: pine-tree
   value: 406.626.5201
+
 - label: Mineral County Sheriff
   icon: shield-account
   value: 406.822.3555Lolo national forest/alerts
 notes:
+
 - https[://www.fs.usda.gov/alerts/lolo/alerts-notices](https://www.fs.usda.gov/alerts/lolo/alerts-notices)
 ---
 
@@ -42,8 +57,8 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​Hiking clockwise
-​This backpack starts by crossing a swinging bridge across Fish Creek, on Trail #101. In about 3 miles, pass over the Cedar Log Creek bridge.
+Hiking clockwise
+This backpack starts by crossing a swinging bridge across Fish Creek, on Trail #101. In about 3 miles, pass over the Cedar Log Creek bridge.
 
 There is a campsite just past the creek on the right. Staying on Trail #101, for about 2 miles, you will pass by Indian Creek, while walking next to the West Fork Fish Creek. In a little less then 2 miles, there is a campsite on your right. A short distance later you will enter an Ancient Cedar Grove.
 

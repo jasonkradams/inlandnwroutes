@@ -1,39 +1,55 @@
 ---
 tags:
+
 - Lakes
+
 - Hiking
+
 - Backpacking
+
 - Scrambling
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Hiking, backpacking, and scrambling
+
 - label: Distance
   icon: map-marker-distance
   value: Beehive Lake 7.2 miles RT, Loop about 11 miles
+
 - label: Elevation Gain
   icon: elevation-rise
   value: 2040’
+
 - label: Acres
   icon: vector-square
   value: '12'
+
 - label: Difficulty
   icon: speedometer
   value: Moderately difficult to Beehive Lake
+
 - label: Maps
   icon: map
   value: IPNF - Kaniksu N.F., USGS - The Wigwams, ID
+
 - label: GPS
   icon: crosshairs-gps
   value: Beehive Lake 48° 38’ 59.3"N 116° 37’ 25.0"W
+
 - label: Ranger District
   icon: pine-tree
   value: Sandpoint R.D. 208.263.5111
+
 - label: Boundary County Sheriff
   icon: shield-account
   value: CALL 911 FIRST, or 208.267.3151
 notes:
+
 - Idaho panhandle national forest/alert
+
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -44,8 +60,8 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​From the trailhead, head east across a bridge over the Pack River. The trail is wide and a nice hike with a few switchbacks to the lake. The trail wonders up between two east/ west ridges and over the Beehive Creek, as it passes two of Beehives lower lakes ( not worth the effort). About a half a mile from the lake, the trail goes onto the famous Selkirk Granite. Soon the granite leads you to the NE end of the lake. Up to the left (south) is an area to camp and have great views of the lake and the Selkirk Crest high above.
-​
+From the trailhead, head east across a bridge over the Pack River. The trail is wide and a nice hike with a few switchbacks to the lake. The trail wonders up between two east/ west ridges and over the Beehive Creek, as it passes two of Beehives lower lakes ( not worth the effort). About a half a mile from the lake, the trail goes onto the famous Selkirk Granite. Soon the granite leads you to the NE end of the lake. Up to the left (south) is an area to camp and have great views of the lake and the Selkirk Crest high above.
+
 PLEASE BE AWARE…This trail’s conditions have decayed substantially since my last visit a year ago. PLEASE allot more up hill hiking time. Down hill walking was slightly more difficult.
 
 ## Option 1
@@ -64,9 +80,9 @@ After boulder hopping around the lake. we headed up to the second lowest notch i
 Just above ridge to the left (S). is a great place to rest and grab snacks and images.
 As we were eating, we noticed a cool high meadows to the NW of the lake, and below us to the SE.
 We dropped off the crest, and headed SSW to the far ridge line east of Peak 7171'.
-Once on this ridge, head east high above the lake. 
+Once on this ridge, head east high above the lake.
 While walking this ridge, always stay centered on the ridge. Do not allow your path to drop off either side of the ridge.
-As you get closer to the campsite area at Harrison Lake, work your way carefully to the  north down a steep but safe patch of greenery to the Upper Pack River. 
+As you get closer to the campsite area at Harrison Lake, work your way carefully to the  north down a steep but safe patch of greenery to the Upper Pack River.
 Walk back out to the lake, to marvel at the cool route you just did, and have a snack before heading to the trailhead.
 None of this OPTION is on any kind of trail, so yahoo a lot, along the way.
 
@@ -78,13 +94,13 @@ From Sandpoint drive north on 95 to Samuel. Turn left (west) on to the Pack Rive
 
 ## Cool things close by
 
-Little Harrison Lake, Harrison Lake, Harrison Peak, Fault Lake, the Kootenai National Wildlife Refuge, the Purcell Trench, Sandpoint, and Lake Pend Orielle
+Little Harrison Lake, Harrison Lake, Harrison Peak, Fault Lake, the Kootenai National Wildlife Refuge, the Purcell Trench, Sandpoint, and Lake Pend Orielle
 
 ## Hazards
 
 The trail is easy, just longish.
 Whenever you are on granite, be careful to not fall, and watch for rocks that move when you walk on them.
-​I always yell ROCK N ROLL, to let hikers behind me know.
+I always yell ROCK N ROLL, to let hikers behind me know.
 
 ## R & p
 
@@ -100,7 +116,7 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 ![Picture](assets/images/9a8b85ce-5229-4247-9d51-015a3210f6a8-1.jpg)
 
-## Walking on selkirk granite is a delight ​photo by jennifer stone
+## Walking on selkirk granite is a delight photo by jennifer stone
 
 ---
 
@@ -110,7 +126,7 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 ---
 
-![Picture](assets/images/06a97812-cbb4-4a6b-91dc-fee0b53b4799-1.jpg){: data-src="assets/images/06a97812-cbb4-4a6b-91dc-fee0b53b4799-1.jpg" }
+![Picture](assets/images/06a97812-cbb4-4a6b-91dc-fee0b53b4799-1.jpg)"
 
 ## High above little harrison lake on the ascent
 
@@ -172,7 +188,7 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 ![Picture](assets/images/ee21271c-8e64-4dd8-9685-c0120acce1a5-1.jpg)
 
-## Hiker heading down to little harrison lake. ​photo by jeniffer stone
+## Hiker heading down to little harrison lake. photo by jeniffer stone
 
 ---
 
@@ -184,7 +200,7 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 ![Picture](assets/images/296289b9-0a5f-43cc-9ada-385e4e8102c5-1.jpg)
 
-## Scramblers heading to little harrison lake, ​photo by jennifer stone
+## Scramblers heading to little harrison lake, photo by jennifer stone
 
 ---
 
@@ -216,4 +232,4 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 ## Jennifer stone sittin’ on a stone
 
-## When you have a choice of paths… always choose the fun one.           chic    2012
+## When you have a choice of paths… always choose the fun one.           chic    2012

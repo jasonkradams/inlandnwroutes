@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Paddling & Rivers
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
+
 - label: Elevation
   icon: terrain
   value: 2067’
+
 - label: Length and Acreage
   icon: vector-square
   value: 65 miles long, & 148 square miles and 1150’ deep.
+
 - label: Maps
   icon: map
   value: Bayview Topo
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°58’50" n 116°33’30" w
+
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300
@@ -27,12 +35,12 @@ stats:
 ## Description
 
 The Bayview Launch is located downtown across from the Bayview Mercantile, and next to the Boileau’s Buttonhook Inn.
-​From the launch, the main body of the lake is about 2 miles due east. Along the south shore line as the bay meets the lake is Blackwell Point.
+From the launch, the main body of the lake is about 2 miles due east. Along the south shore line as the bay meets the lake is Blackwell Point.
 From Blackwell Point, paddle SSE across Idlewilde Bay to Steamboat Rock.
 A word of precaution about paddling lake pend orielle. if the winds are up, do not go far from the shore. if you get caught in the winds, go to the nearest shore line without bucking the winds.
 Steamboat Rock is just less then a mile across. As you approach Steamboat Rock, watch the hill side for Mountain Goats. Mountain Goats usually done climb around the cliffs above the lake in the heat of the day. So look for any very bright white specks on the cliffs.
 As you skirt Steamboat Rock, massive cliffs dominate the shore line all the way to Echo Bay and beyond.
-​At 1.5 miles from Steamboat Rock, is Echo Bay. Echo Bay has the first "beaches" along the shore. I put beach in parentheses because the beaches are made up of polished flat rocks. Because of Echo Bay’s orientation, it doesn’t get full sun until late afternoon. Find a spot in the sun and have lunch and swim.
+At 1.5 miles from Steamboat Rock, is Echo Bay. Echo Bay has the first "beaches" along the shore. I put beach in parentheses because the beaches are made up of polished flat rocks. Because of Echo Bay’s orientation, it doesn’t get full sun until late afternoon. Find a spot in the sun and have lunch and swim.
 A word on sanitation....you can’t get 200’ from the water to do your business. so, take a pee bottle, and blue bags for each persons and your poop. please do not pee in the lake.
 There is something special you will find at Echo Bay. As stated above, the rocks are flat and polished. They are excellent rocks for skipping.
 But beware, I’ve skipped so many rocks, my shoulders hurt to much to paddle.
@@ -92,4 +100,4 @@ Trails End Brewery, Mexican Food Factory, Franklins Hoagies, and the Moon Time.
 
 ![Picture](assets/images/110920211006p.jpg)
 
-## This image shows the north shore of bayview ​the mountain above is cape horn
+## This image shows the north shore of bayview the mountain above is cape horn

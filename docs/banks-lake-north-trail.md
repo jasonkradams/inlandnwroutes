@@ -1,30 +1,42 @@
 ---
 tags:
+
 - Lakes
+
 - Moderate
+
 - Day Hiking
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking
+
 - label: Distance
   icon: map-marker-distance
   value: 12 mile loop
+
 - label: Elevation
   icon: terrain
   value: Less then 500 verts
+
 - label: Difficulty
   icon: speedometer
   value: Moderate
+
 - label: Maps
   icon: map
   value: Monument Hills, Ephrata SW
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°35’21" n 119°09’ 54" w
+
 - label: Managing Agency
   icon: domain
   value: 509.754.0214
+
 - label: Grant County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 509.754.2011
@@ -34,7 +46,7 @@ stats:
 
 ## Description
 
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed. ​Description coming soon
+We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed. Description coming soon
 
 ## Directions
 

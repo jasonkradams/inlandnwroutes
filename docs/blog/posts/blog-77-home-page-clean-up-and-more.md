@@ -1,13 +1,17 @@
 ---
 title: "Blog #77: Home page clean up and more"
+
 date: 2024-10-28
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
-
 
 I visited David last week to discuss some ideas we both had for our website.
 
@@ -57,11 +61,11 @@ Please prepare for all unforeseen incidents.
 David and my goal is to provide you with the best knowledge we can.
 By doing this, you can plan your trip, or know what’s available to you, before you even put on your boots.
 
-Please check out our RESOURCES, HINTS and MEDICAL INFO  sections for more important information, that everyone NEEDS TO KNOW.
+Please check out our RESOURCES, HINTS and MEDICAL INFO  sections for more important information, that everyone NEEDS TO KNOW.
 
 Thank You for reading and using our local website.
 Please be safe and learn what we all need to know to have "too much fun in the mountains".
 
-Chic       David
+Chic       David
 
 InlandNWRoutes.com

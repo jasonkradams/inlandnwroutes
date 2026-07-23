@@ -9,6 +9,7 @@ Site index and navigation.
 **Kokanee Glacier Provincial Park**
 
 1. Joker Lakes and Falls
+
 2. Slocan Chief Interpretive Area
 
 ### Washington
@@ -16,6 +17,7 @@ Site index and navigation.
 **Eastern Washington**
 
 1. [Abercrombie Mountain](abercrombie-mountain.md)
+
 2. Gypsy Peak
 3. Hooknose Mountain
 4. Juniper Dunes Wilderness
@@ -28,6 +30,7 @@ Site index and navigation.
 **North Idaho**
 
 1. American Falls Trail #308
+
 2. Bernard Peak Overlook
 3. Blacktail Mountain (two different areas)
 4. Blacktail Mountain Overlook

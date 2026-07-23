@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Lakes
+
 stats:
+
 - label: Waterfall
   icon: waterfall
   value: 'Leigh Creek Falls Trail #132'
+
 - label: Drop
   icon: arrow-collapse-down
   value: about 100'
+
 - label: Waterfall Type
   icon: hiking
   value: plunge, cascades, fans, blocks, horsetails, tiers, chutes and slides
+
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: 1.2 miles
+
 - label: Maps
   icon: map
   value: Kootenai National Forest, Cabinet Mountain Wilderness, Snowshoe Peak topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 48°13’32" n 115°39’?17" w
@@ -41,7 +49,7 @@ The sounds and views along this section of the trail is well worth the effort to
 ## Option #2
 
 In about .1 of a mile, Leigh Lake stretches out before you.
-​This would be a great spot to have lunch, take a nap and enjoy the spectacular scenery
+This would be a great spot to have lunch, take a nap and enjoy the spectacular scenery
 
 ## Option #3
 
@@ -58,13 +66,12 @@ From Libby, drive south on Highway 2 towards Glacier National Park for about 8 m
 ## Cool things close by
 
 Snowshoe Peak 8738', A Peak, Granite Lake, L.& U. Geiger Lakes with Lost Buck Pass & the Cabinet Divide Trail with views of Wanless Lake.
-​The Proposed Scotchman Peaks Wilderness, the Bull River and Lake, and the Clark Fork River.
+The Proposed Scotchman Peaks Wilderness, the Bull River and Lake, and the Clark Fork River.
 
 ## Hazards
 
 All waterfalls are a hazard, due to their slippery nature. always be extra careful near any waterfall.
-​Please keep a close eye on your children when climbing the vertical section above the Leigh Creek Falls.
-​​
+Please keep a close eye on your children when climbing the vertical section above the Leigh Creek Falls.
 
 ## R & p
 
@@ -84,9 +91,9 @@ Click for Current NOAA Weather Conditions
 
 ![Picture](assets/images/11132021821.jpg)
 
-## Leigh creek falls and your first break
+## Leigh creek falls and your first break
 
-## When you first see leigh creek falls, you wonder how far up it goes
+## When you first see leigh creek falls, you wonder how far up it goes
 
 ![Picture](assets/images/11132021822.jpg)
 
@@ -98,11 +105,11 @@ Click for Current NOAA Weather Conditions
 
 ![Picture](assets/images/11132021827.jpg)
 
-Above the vertical section of the trail is this view below the trail ​the sights and sounds are well worth the effort
+Above the vertical section of the trail is this view below the trail the sights and sounds are well worth the effort
 
 *Picture (Image missing)*
 
-## Leigh creek falls with the west wall above the lake
+## Leigh creek falls with the west wall above the lake
 
 ![Picture](assets/images/11132021830.jpg)
 

@@ -1,39 +1,57 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 - Moderate
+
 - Day Hike
+
 - Backpacking
+
 - Equestrian
+
 - Fishing
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hike, backpacking, equestrian, fishing
+
 - label: Distance
   icon: map-marker-distance
   value: 38 miles RT
+
 - label: Elevation
   icon: terrain
   value: 1700 verts
+
 - label: Difficulty
   icon: speedometer
   value: Moderate
+
 - label: Maps
   icon: map
   value: IPNF, Lakeview, Faset Peak, Cathederal Rocks topos
+
 - label: GPS
   icon: crosshairs-gps
   value: West Trailhead 47°53’50" N 116°25’14"N 116°25’14" W
+
 - label: CdA River Ranger District
   icon: pine-tree
   value: 208.752.1221
+
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
 notes:
+
 - East Trailhead. 47°52’58" N 116°12’48" W
+
 - Idaho panhandle national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -42,7 +60,7 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​Trail #22 follows Independence Creek for much of its' length. There are 14 stream crossings. It provides access to Trails 56 (Devil Peak), 413 (Ermine Ridge), 416 (East Declaration), and 3 (Upper Independence).
+Trail #22 follows Independence Creek for much of its' length. There are 14 stream crossings. It provides access to Trails 56 (Devil Peak), 413 (Ermine Ridge), 416 (East Declaration), and 3 (Upper Independence).
 
 Altho I’ve never hiked the whole trail, I have been told by an avid backpacker that it is one of the best in the west.
 If you have hiked the entire trail, please contact Chic.

@@ -1,13 +1,17 @@
 ---
 title: "Blog #57: The best of the best"
+
 date: 2024-04-30
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Winter Sports
 ---
-
 
 the cabinet mountain wilderness
 
@@ -16,12 +20,12 @@ the cabinet mountain wilderness
 Below are in my opinion, the best of the best hikes shown on our website.
 One of my criteria is hiking in places where there aren’t many, if any other people. To achieve this, we provide OPTIONS.
 OPTIONS are hikes that take skills and off trail navigation.
-They should only be done by knowledgeable and capable  enthusiasts.
+They should only be done by knowledgeable and capable  enthusiasts.
 Click on the associated url’s to see my write ups on each hike.
 If you have specific questions about an area here or on our website, please feel free to contact me. At the bottom of every page is my email envelope. But do remember, I am often out doing research or enjoying these wonderful places. Contact me 2-3 days ahead of your hike, or call the Ranger district 3 days before every hike for more info.
 The Cabinet Mountain Wilderness is so cool, it was one of the areas designated as Wilderness in The 1964 Wilderness Act.
 Think of it as a mini Glacier National Park, but without the hoarders of people.
-The drive up Hwy 56, between  the CMW and the PSPW, os me of my favorite drives.
+The drive up Hwy 56, between  the CMW and the PSPW, os me of my favorite drives.
 Rock Lake
 <https://www.inlandnwroutes.com/rock-lake-4958.html>
 
@@ -29,7 +33,7 @@ This easy to access lake offers views different from a lot of places in the CMW.
 Rock Lake sits at the base of two very steep mountain.
 The famed Ojibway Peak towers to the NE of Rock Lake camp site
 
-Leigh Lake.  Don’t miss this hike, but take it serious.
+Leigh Lake.  Don’t miss this hike, but take it serious.
 <https://www.inlandnwroutes.com/leigh-lake.html>
 There are a couple of lakes as nice as Leigh Lake in the Wilderness, but access is more difficult.
 Leigh Lake is 1.52 miles, but gains over 1100verts
@@ -55,5 +59,5 @@ If you are a remote waterfall "FREAK", this hike is for you.
 The Forest you ascend thru is worth the effort. Watch for gnomes.
 The lake is small, but is dwarfed by St. Paul Peak to the SSW.
 South of the lake are at least a dozen waterfalls scattered over a large area. Don’t forget you tripod. And be very careful walking around the shoreline.
-​An interesting fact of this lake, is that it has no outlet creek.
+An interesting fact of this lake, is that it has no outlet creek.
 Eventually, the creek surfaces and becomes the East Fork Bull River

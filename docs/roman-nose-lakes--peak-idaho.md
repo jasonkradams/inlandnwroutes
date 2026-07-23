@@ -1,42 +1,63 @@
 ---
 tags:
+
 - Lakes
+
 - Easy to Both Lakes.
+
 - Hiking
+
 - Backpacking
+
 - Camping
+
 - Fishing
+
 - Scrambling
+
 - Ada Capable
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Hiking, Backpacking, camping, fishing, scrambling, ADA capable.
+
 - label: Distance
   icon: map-marker-distance
   value: 3rd lake is 4 miles RT
+
 - label: Elevation Gain
   icon: elevation-rise
   value: 'Lake # 3 to the high point 6410’, is 535'' gain, and drops 215'' to Lower
+
     Lake'
+
 - label: Difficulty
   icon: speedometer
   value: Easy to both lakes.
+
 - label: Maps
   icon: map
   value: IPNF, Kaniksu N.F., Roman Nose topo
+
 - label: GPS
   icon: crosshairs-gps
   value: Roman Nose Lake 48°38’07" N -116 35’ 14" W
+
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 911 or 208.267.5561
+
 - label: Boundary County Sheriff
   icon: shield-account
   value: call 911 first or 208.267.3151
 notes:
+
 - Roman Nose Peak. 48°37’39"N 116°35’37"W
+
 - Daho panhandle national forest/alerts
+
 - '[https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)'
 ---
 
@@ -50,8 +71,8 @@ The views from the summit are some of the best in the american selkirks
 One of the cool things about Roman Nose Lakes is the trailhead is next to Lake #1, and there is an ADA wheelchair accessible boardwalks around part of the lake, as you drove in, there is a campground to the left.
 
 Along the trail to the upper lakes is an Interpretive Loop Trail just before the highpoint that is spectacular in every season, especially Spring & Fall.
-This Nature Trail is a 1 mile loop. If up hillwalking  is an issue with you, walk the main trail to near the regular trails summit, and hike down the trail to the trailhead. It's much easier that way.
-The trail up to the upper two lakes, starts at the lower lake. Because of the 1967 Sundance Fire that burned most of the area, the canopy is low and the views are high. The lower lake sits in a half bowl with tall walls on the south and west. As you approach the west wall, the trail skirts around it and drops down to the upper two lakes. At this high point on the trail, look for the waterfall dropping off the NE end of Lake #2 in the spring. A short distance below the high point, the main trial heads NW to Lake #3. If you continue on the main trail SW, it will take you to Lake #2. 
+This Nature Trail is a 1 mile loop. If up hillwalking  is an issue with you, walk the main trail to near the regular trails summit, and hike down the trail to the trailhead. It's much easier that way.
+The trail up to the upper two lakes, starts at the lower lake. Because of the 1967 Sundance Fire that burned most of the area, the canopy is low and the views are high. The lower lake sits in a half bowl with tall walls on the south and west. As you approach the west wall, the trail skirts around it and drops down to the upper two lakes. At this high point on the trail, look for the waterfall dropping off the NE end of Lake #2 in the spring. A short distance below the high point, the main trial heads NW to Lake #3. If you continue on the main trail SW, it will take you to Lake #2.
 
 Lake #3 is mostly encased in granite and has a good spot to swim and sunbath on the SW end. Because the lakes are so close together, spend some time at each lake enjoying this spectacular area.
 
@@ -59,7 +80,7 @@ Lake #3 is mostly encased in granite and has a good spot to swim and sunbath on 
 
 ## Option #1
 
-Roman Nose Peak.        
+Roman Nose Peak.
 The scramble to Roman Nose Peak, via Whisker Ridge is about 4.3 miles and gains 1588verts.
 In 1978, I hiked to the peak along the south side of Lake #3 for the first time. It is accessed by going cross country up to the ridge above the lake and the campgrounds. . There is no real trail to the ridge, but it's easy to ascend. Once on the ridge, that I named Whisker Ridge, turn right (WSW) and hike the high meadows to the peak. Along the way, there are hearty small plants that light up the landscape. Large granite boulders dot the ridge and afford tremendous photo ops. Most of the ridge is covered with sparsely spaced white snags (hence Whisker Ridge). Higher up the trail before the final long ascent to the summit, there is some minor scrambling above the dip, or you can walk an old trail for the Fire Lookout, off to the south, way up high. Scrambling is way more fun and you can walk right on the edge of the cliff for optimum views.
 
@@ -74,19 +95,20 @@ This loop is one of our regions great scrambles.
 
 Roman Nose Lake #2
 
-As you hike over the trails summit, you will notice a directional disk that points the direction to Lake #2. As you walk along this trail, step off the trail onto granite slabs that allows for views of Lake's exit stream. 
+As you hike over the trails summit, you will notice a directional disk that points the direction to Lake #2. As you walk along this trail, step off the trail onto granite slabs that allows for views of Lake's exit stream.
 
-In the spring, it becomes a beautiful raging waterfall.
+In the spring, it becomes a beautiful raging waterfall.
 The trail to Lake #2 descends almost 300verts down to the lake, but is an easy hike, with a surprise waterfall.
 
 Once at the lake, hike the left (S) shore line back to a 50+ foot waterfall tucked back in the trees. The grasses around the west end are photo ops just waiting to be captured.
+
 There are several dispersed campsites along this primitive path.
 
 ## Option #3
 
 After visiting Lake #2, continue west on the main trail.
 
-Here you will come to the Nature Trail marked as LOOP off to your left.   
+Here you will come to the Nature Trail marked as LOOP off to your left.
 Pass by it for now, and hike west to Lake #3. It's a short walk to the NE end of the upper lake.
 
 Walk the left SE shore back to the far end of the lake.
@@ -97,7 +119,8 @@ Lake #3 is encased in a glacial cirque, with steep walls on three sides.
 ### **Option #4**
 
 As you leave the upper lake to head down, be sure to notice the metal plates that points you to the Nature Trail.
-This loop trail climbs a bit before the first lake (Lake #3) comes into view. The entire area you will walk down thru is also encased in a glacial cirque. 
+
+This loop trail climbs a bit before the first lake (Lake #3) comes into view. The entire area you will walk down thru is also encased in a glacial cirque.
 
 There are many options to find a seat with a view, and have a snack.
 The trail continues downhill via switchbacks, thru a cool Sub-Alpine Fir forest.
@@ -105,7 +128,7 @@ It meets up with the original trail.
 
 Directions:
 
-Drive thru Bonners Ferry and turn left onto Riverside Street just before the Kootenai River bridge. Head west for about 5 miles to the frontage road 417 (aka F.R. 18). As it veers to the right, turn left (south) for 2.5 miles, and turn sharply to the right onto FR # 402 just before the Lion's Club Picnic Area. Drive 1.1 miles to a sign for the Upper & Lower Snow Creek Falls. After the falls continue up 402 for 16.8 miles and turn right (SW) onto FR # 2667. In .5 miles bear right to the trailhead. 
+Drive thru Bonners Ferry and turn left onto Riverside Street just before the Kootenai River bridge. Head west for about 5 miles to the frontage road 417 (aka F.R. 18). As it veers to the right, turn left (south) for 2.5 miles, and turn sharply to the right onto FR # 402 just before the Lion's Club Picnic Area. Drive 1.1 miles to a sign for the Upper & Lower Snow Creek Falls. After the falls continue up 402 for 16.8 miles and turn right (SW) onto FR # 2667. In .5 miles bear right to the trailhead.
 
 If you have a high clearance truck, you can drive down the famous Ruby a Ridge to Moravia.
 
@@ -128,7 +151,7 @@ Jalapeños, Eichard’s, Burger Express, Mr. Sub, Sandpoint
 
 ![Picture](assets/images/10142023229p.jpg)
 
-## The start of the trail to the upper lakes. ​that brown smudge is a hummingbird
+## The start of the trail to the upper lakes. that brown smudge is a hummingbird
 
 ---
 
@@ -170,7 +193,7 @@ Jalapeños, Eichard’s, Burger Express, Mr. Sub, Sandpoint
 
 ![Picture](assets/images/11182021804p.jpg)
 
-## Above the scramble, is a scenic route ​ towards the summit of roman nose
+## Above the scramble, is a scenic route  towards the summit of roman nose
 
 ## From here down shows the upper whisker ridge route, option #1
 
@@ -182,7 +205,7 @@ Jalapeños, Eichard’s, Burger Express, Mr. Sub, Sandpoint
 
 ![Picture](assets/images/edc3162b-39c2-4970-80ee-004e89f880e1.jpg)
 
-## Whisker ridge.    this ridge was named by chic to designate the route
+## Whisker ridge.    this ridge was named by chic to designate the route
 
 ---
 
@@ -270,7 +293,7 @@ Jalapeños, Eichard’s, Burger Express, Mr. Sub, Sandpoint
 
 Roman nose peak & fire lookout tower. three months after climbing the right ridge, and having lunch in the tower, it blew down in 2007
 
-## The walk thru a foggy forest, allows us to see forever.    chic     2012
+## The walk thru a foggy forest, allows us to see forever.    chic     2012
 
 The following newspaper article is from a 1981 accident Can you imagine what was going thru this snowmobiler's head as he flew 650 feet
 
@@ -283,6 +306,7 @@ The following newspaper article is from a 1981 accident Can you imagine what was
 ## The history of the sundance fire 9.23.1967
 
 History - The Sundance Fire in the Selkirk Mountains
+
 by Bob Gunter
 The Selkirk Mountains still show scars from the devastating effects of the Sundance fire. The fire started on August 23, 1967 with a lightning strike on Sundance Mountain near the Sundance lookout tower in Bonner County.
 The mountain is 6,298' high and is located four miles east north east of Coolin on Priest Lake. The initial blaze was contained after burning 35 acres but it was not completely extinguished. One week after the initial blaze the winds increased and fanned the smoldering flames into action. The fire jumped the lines and burned two thousand acres by August 30.
