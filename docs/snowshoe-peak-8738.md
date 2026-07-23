@@ -110,33 +110,33 @@ Jalapeños in Sandpoint
 
 ## Spokane mountaineers, snowshoe peak climb from east face of a peak, 50’s
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 Aaron herath, chris's son purifying water at leigh lake. the scrambling route is above. image by chris
 
 herath
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## The route to snowshoe peak. image by chris herath
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## A mountain goat comes over to check out the two climbers. image by chris h
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## The high route to the ridge below snowshoe peak. image by chris herath
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## Aaron examining the route above.   image by chris herath
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ## Leigh lake below part of the route to snowshoe peak. image by chris herath
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (6)
 
 From the route to snowshoe peak, with a peak top right, and blackwell glacier, center left. Image by chris
 h.
@@ -145,11 +145,11 @@ The
 
 blackwell glacier is the closest glacier to spokane
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (7)
 
 Aaron enjoying the view from the snowshoe ridge. Bockman peak 8174' in background image by chris herath
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (8)
 
 ## Aaron standing on the summit of snowshoe peak. image by chris herath
 

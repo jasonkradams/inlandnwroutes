@@ -36,7 +36,7 @@ notes:
 
 # Scotchmans Peak
 
-*Scotchmans peak 7009’*
+## Scotchmans peak 7009’
 
 ## Description
 
@@ -103,7 +103,7 @@ store sells bulk food, great sandwiches, and to die for Peanut Butter Cookies.
 
 ## Ms scotchman image by a. buddington
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ---
 

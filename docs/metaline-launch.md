@@ -24,7 +24,7 @@ stats:
 
 # Metaline Launch
 
-*Metaline riverfront park launch*
+## Metaline riverfront park launch
 
 ## Description
 

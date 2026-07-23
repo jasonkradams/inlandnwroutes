@@ -36,7 +36,7 @@ notes:
 
 # Parmenter Lake
 
-*Parmenter lake. trails 140 & 360*
+## Parmenter lake. trails 140 & 360
 
 ## Description
 

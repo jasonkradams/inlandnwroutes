@@ -28,7 +28,7 @@ stats:
 
 # Mount Spokane Snowshoenordic Skibc Ski
 
-*MOUNT SPOKANE 5,883’ Trail 130*
+## MOUNT SPOKANE 5,883’ Trail 130
 
 ## Description
 
@@ -75,7 +75,7 @@ easy to difficult so you can choose to take the hard way from point A to B or th
 
 ![Picture](assets/images/11272021806p.jpg)
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ---
 
@@ -113,7 +113,7 @@ Foggy Bottom Lounge, Big Barn Brewery
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## David chuggin' along on mount spokane
 

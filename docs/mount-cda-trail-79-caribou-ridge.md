@@ -38,7 +38,7 @@ notes:
 
 # Mount Cda Trail 79 Caribou Ridge
 
-*Mount cda trail n.r.t.#79 caribou ridge*
+## Mount cda trail n.r.t.#79 caribou ridge
 
 ## Description
 
@@ -93,11 +93,11 @@ Franklins Hoagies, Mexican Food Factory, Moontime, and the Trails End Brewery.
 
 ## ONE SIDED MITRE WORT FOUND ALONG trail #79 IN MAY
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Trail #79 from beauty bay to mount cda
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Jeffery shooting stars along trail #79
 

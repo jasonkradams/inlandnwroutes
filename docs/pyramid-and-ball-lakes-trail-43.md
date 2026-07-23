@@ -40,7 +40,7 @@ notes:
 
 # Pyramid And Ball Lakes Trail 43
 
-*Pyramid lake 6100' and ball lakes 6610' trials #13 & 43*
+## Pyramid lake 6100' and ball lakes 6610' trials #13 & 43
 
 ## Description
 

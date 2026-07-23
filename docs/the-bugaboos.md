@@ -28,7 +28,7 @@ stats:
 
 # The Bugaboos
 
-*The bugaboo*
+## The bugaboo
 
 ## Description
 
@@ -125,7 +125,7 @@ Click for Current NOAA Weather Conditions
 
 ## From here on is the hike to the conrad kain hut
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 The bugs from the septet campground. be sure to place the provided wire mesh around your car, so the rodents
 

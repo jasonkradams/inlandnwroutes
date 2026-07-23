@@ -74,7 +74,7 @@ notes:
 
 # Thimbelberry
 
-*Thimbleberry*
+## Thimbleberry
 
 ## Description
 

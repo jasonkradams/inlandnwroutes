@@ -26,7 +26,7 @@ notes:
 
 # Sun Peaks Resort
 
-*Sun peaks ski area*
+## Sun peaks ski area
 
 ## of named runs: 138
 

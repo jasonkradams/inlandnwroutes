@@ -66,7 +66,7 @@ NA
 
 ## Plan your trip
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Photo gallery
 

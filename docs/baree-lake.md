@@ -39,7 +39,7 @@ notes:
 
 # Baree Lake
 
-*Baree peak 6442’ & lake trail #489*
+## Baree peak 6442’ & lake trail #489
 
 ## Description
 
@@ -58,10 +58,12 @@ ledges SE to the summit. This route offers some great scrambling.
 
 For a nice loop hike, try the below hike. Trail #489 continues past the lake to the Cabinet Divide Trail
 
-#360. Once on 360, turn NNE to Trail #63, and turn SSE to a faint Trail out to Bear Lake. Then hike back to
+## 360. Once on 360, turn NNE to Trail #63, and turn SSE to a faint Trail out to Bear Lake. Then hike back to
+
 Trail #63 and turn left (East) past Trail #360 to Trail
 
-#531, to its
+## 531, to its
+
 trailhead. Once on F.R #148, turn right SE for a short distance to the Baree Lake trailhead.
 
 ## Directions
@@ -71,7 +73,7 @@ on Silver Butte-Fisher River Road #148, then drive about 10 miles to the trailhe
 
 West trailhead From the Vermillion River Road#154, look for milepost 7, and turn left up Silver Butte Road
 
-#148, for about 8 miles to the trailhead.
+## 148, for about 8 miles to the trailhead
 
 ## Hazards
 

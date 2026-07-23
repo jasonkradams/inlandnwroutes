@@ -36,7 +36,7 @@ stats:
 
 # Columbia National Wildlife Refuge
 
-*Columbia national wildlife refuge 1,000’*
+## Columbia national wildlife refuge 1,000’
 
 ## Description
 
@@ -149,7 +149,7 @@ fresh fruits and hot food to go.
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Tundra swans
 
@@ -179,7 +179,7 @@ fresh fruits and hot food to go.
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## 48 sandhill cranes flying north over hutchinson lake
 
@@ -187,7 +187,7 @@ fresh fruits and hot food to go.
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## I count about a thousand snow geese in this one photo
 

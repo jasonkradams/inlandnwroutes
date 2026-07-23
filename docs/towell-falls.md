@@ -24,7 +24,7 @@ stats:
 
 # Towell Falls
 
-*Towell falls at escure ranch*
+## Towell falls at escure ranch
 
 ## Description
 
@@ -143,7 +143,7 @@ Rock creek. Notice the mesa in the background. This is a terrain feature like ot
 
 ## Towell falls from it's small island
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Lower towell falls in the spring
 

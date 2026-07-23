@@ -26,7 +26,7 @@ notes:
 
 # Blacktail Mountain Ski Area
 
-*Blacktail mountain ski area elmo. mt*
+## Blacktail mountain ski area elmo. mt
 
 ## of named runs: 17
 

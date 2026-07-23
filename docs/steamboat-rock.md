@@ -31,7 +31,7 @@ stats:
 
 # Steamboat Rock
 
-*Steamboat rock state park*
+## Steamboat rock state park
 
 ## Description
 
@@ -95,7 +95,7 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Upper banks lake with the steamboat campground
 
@@ -107,11 +107,11 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Lunch on the rock
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Jeniffer walking along the west shore cliffs
 

@@ -34,7 +34,7 @@ stats:
 
 # Mertens Coralroot
 
-*Marten's coralroot aka pacific coralroot*
+## Marten's coralroot aka pacific coralroot
 
 ## Description
 

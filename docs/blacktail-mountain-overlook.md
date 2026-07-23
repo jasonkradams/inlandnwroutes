@@ -39,7 +39,7 @@ notes:
 
     Blacktail mountain overlook
 
-    *Pend orielle lake trail # 117*
+## Pend orielle lake trail # 117
 
 ## Description
 
@@ -97,11 +97,11 @@ Maiden Rock trail is a steep climb up from Pend Orielle Lake. Poison Ivy by the 
 
 Trails End Brewery, Moon Time, Franklins Hoagies, and the Mexican Food Factory.
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Poison ivy       do not touch     if you do, do not touch yourself anywhere
 
@@ -117,7 +117,7 @@ Trails End Brewery, Moon Time, Franklins Hoagies, and the Mexican Food Factory.
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Scotchman’s peak, the proposed scotchman peaks wilderness, and snowshoe peak, c.m.w. beyond
 
@@ -131,7 +131,7 @@ Trails End Brewery, Moon Time, Franklins Hoagies, and the Mexican Food Factory.
 
 ## Maiden rock beach
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## Looking ne to the p.s.p.w. and the c.m.w
 

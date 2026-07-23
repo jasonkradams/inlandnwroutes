@@ -721,7 +721,7 @@ tramway was often caked in rim ice. In 1948 the Spokane Mountaineers began const
 on their 40 acres on Mt. Spokane. By 1950 the new chalet was completed, and in 1962 the Ryker Rope Tow was
 lengthened to 1100'. It wasn't until 1955 that lodge #1 and chair #1 were constructed, and 1961 when lodge
 
-#2 and chair #2 was constructed
+## 2 and chair #2 was constructed
 
 For more information on Mt. Spokane's history, pick up a copy of The Friends of Mt. Spokane's, "Mt. Spokane
 State Park: A Users Guide" compiled and written by Cris Currie.

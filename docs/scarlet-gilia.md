@@ -92,6 +92,6 @@ new shoots and branches.
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 Image by james colquhoun

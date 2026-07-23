@@ -67,13 +67,13 @@ Click for Current NOAA Weather Conditions
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Trail head parking lot
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## The start of the raised gravel trail looking south
 
@@ -91,13 +91,13 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Looking from the south end of the trial north to the trail head
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## The end of the trial looking south
 
@@ -105,13 +105,13 @@ Click for Current NOAA Weather Conditions
 
 ## Birding - uplands and wetland on 16-april-2022
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## Overlooking the flat land from the uplands
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ## Northern shoveler and ring-necked ducks
 
@@ -123,7 +123,7 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (6)
 
 ## Bald eagles (1st and 3rd year)
 
@@ -141,7 +141,7 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (7)
 
 ## Black-necked stilt
 
@@ -153,7 +153,7 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (8)
 
 ## Savannah sparrow
 
@@ -165,18 +165,18 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (9)
 
 ## Say's phoebe
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (10)
 
 ## Mountain blue bird
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (11)
 
 ## Western meadowlark

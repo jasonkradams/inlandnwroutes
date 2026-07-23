@@ -35,7 +35,7 @@ notes:
 
 # Bernard Peak Overlook
 
-*Bernard peak overlook & trail #37*
+## Bernard peak overlook & trail #37
 
 ## Description
 

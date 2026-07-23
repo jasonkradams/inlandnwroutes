@@ -115,12 +115,12 @@ notably.
 
 ##
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ##
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 Image by james colquhoun

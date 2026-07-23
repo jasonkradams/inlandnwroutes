@@ -24,7 +24,7 @@ stats:
 
 # Powder Mountain Resort
 
-*Powder mountain ski resort*
+## Powder mountain ski resort
 
 ## of named runs: 154
 

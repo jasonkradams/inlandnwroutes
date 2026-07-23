@@ -26,7 +26,7 @@ notes:
 
 # Teton Pass Resort
 
-*Teton pass resort choteau, mt*
+## Teton pass resort choteau, mt
 
 ## of named runs: 26
 

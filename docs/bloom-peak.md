@@ -39,7 +39,7 @@ notes:
 
 # Bloom Peak
 
-*Bloom peak and ridge 5863’*
+## Bloom peak and ridge 5863’
 
 ## Description
 

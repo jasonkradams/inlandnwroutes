@@ -98,7 +98,7 @@ notices.
 - Riverside State Park — 509.456.5064,
   [parks.state.wa.us/573/riverside](https://parks.state.wa.us/573/riverside)
 
-**Idaho Department of Lands**
+### Idaho Department of Lands
 
 - St Maries — 208.245.8100
 
@@ -126,7 +126,7 @@ notices.
 
 ### Sheriff Offices (911 for emergencies)
 
-**Idaho**
+### Idaho
 
 - Benewah County Sheriff — 208.245.2555
 
@@ -146,7 +146,7 @@ notices.
 
 - Idaho State Police — 208.209.8730
 
-**Washington**
+### Washington
 
 - Spokane County Sheriff — 509.477.2240
 
@@ -178,7 +178,7 @@ notices.
 
 - Pend Orielle County Sheriff — 509.447.1901
 
-**Montana**
+### Montana
 
 - Flathead County Sheriff — 406.758.5610
 

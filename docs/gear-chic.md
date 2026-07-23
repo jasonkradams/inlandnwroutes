@@ -17,11 +17,11 @@ waterproof
 
 ![Picture](assets/images/1206202392p.jpg)
 
-*Picture (Image missing)*
+## Picture (Image missing)
 
 ![Picture](assets/images/12062023923.jpg)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 indera 2 layer thermo polypro & moreno wool I discovered the indera 2 layer thermos almost 25 years ago.
 Since
@@ -33,14 +33,14 @@ very warm, but lack style i highly recommend them
 
 ![Picture](assets/images/12062023933p.jpg)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ![Picture](assets/images/12062023934p.jpg)
 
 Jet fuel by test pilot I bought this product at lookout sports in kellogg. it is very good in most all
 conditions including wet snow
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 Skiboards need wax like cars need oil. Most base damage is due to abrasion, exposure and age. Waxing
 regularly

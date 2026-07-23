@@ -47,7 +47,7 @@ notes:
 
     Good news, f.r. #231 is open to the harrison lake trailhead as of 3.12.26
 
-    *HARRISON LAKE & PEAK 7292' Trial # 217 & 6*
+## HARRISON LAKE & PEAK 7292' Trial # 217 & 6
 
 ## Description
 
@@ -96,7 +96,8 @@ After spending some time on the summit, walk north on the summit ridge, stopping
 massive Harrison Peak overhang. To descend, you can follow your route up, and go down, or you can head due
 east down thru the woods to Trail
 
-#6, that
+## 6, that
+
 skirts the entire east and south east side of the peak. At Trail #6, turn right (SW) to the Harrison Lake
 Trail #217
 
@@ -167,7 +168,7 @@ Jalapeños, Eichardt's, Burger Express, Mr, Sub in Sandpoint
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Photo gallery
 
@@ -187,11 +188,11 @@ missing)*](assets/images/497729d9-36d7-4c81-a741-3da2fe291b24.jpg) --> -->
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## A high garden above harrison lake & below peak 7171'
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Harrison peak from near harrison lake
 
@@ -199,7 +200,7 @@ missing)*](assets/images/497729d9-36d7-4c81-a741-3da2fe291b24.jpg) --> -->
 
 ## The south twin and other selkirk crest peaks, taken from near peak 7171'
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## Harrison lake from harrison peak 7292' & peak 7171'above Opposite direction from the image below
 
@@ -209,7 +210,7 @@ missing)*](assets/images/497729d9-36d7-4c81-a741-3da2fe291b24.jpg) --> -->
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## From above little harrison lake, harrison peak is top center. photo by jeniffer stone
 
@@ -221,7 +222,7 @@ missing)*](assets/images/497729d9-36d7-4c81-a741-3da2fe291b24.jpg) --> -->
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ## From harrison peak’s summit, harrison lake and the selkirk crest
 
@@ -233,7 +234,7 @@ missing)*](assets/images/497729d9-36d7-4c81-a741-3da2fe291b24.jpg) --> -->
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (6)
 
 ## Little harrison lake bottom left, with harrison peak on sky line
 
@@ -245,7 +246,7 @@ missing)*](assets/images/497729d9-36d7-4c81-a741-3da2fe291b24.jpg) --> -->
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (7)
 
 ## The selkirks seven sisters with harrison peak above the old hiker
 

@@ -26,7 +26,7 @@ notes:
 
 # Black Lake Launch
 
-*Black lake & rainy hill launch*
+## Black lake & rainy hill launch
 
 ## Description
 

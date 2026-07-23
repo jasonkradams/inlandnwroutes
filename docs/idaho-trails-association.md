@@ -1,6 +1,6 @@
 # Idaho Trails Association
 
-## Idaho trails association
+## Idaho trails association (2)
 
 As the voice for Idaho’s hikers, Idaho Trails Association promotes the conservation and enjoyment of Idaho’s
 backcountry on foot. ITA is a nonprofit that works with volunteers, organizations, and government partners

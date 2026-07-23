@@ -24,7 +24,7 @@ stats:
 
 # Banks Lake Kayak And Hike
 
-*Banks lake 1,571’*
+## Banks lake 1,571’
 
 ## Description
 

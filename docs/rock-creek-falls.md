@@ -77,11 +77,11 @@ Click for Current NOAA Weather Conditions
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## The rock creek falls and the heidelberg mine
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Some of the mining equipement
 

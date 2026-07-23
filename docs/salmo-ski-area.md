@@ -26,7 +26,7 @@ notes:
 
 # Salmo Ski Area
 
-*Salmo ski hill salmo, b.c*
+## Salmo ski hill salmo, b.c
 
 ## of named runs: 5
 

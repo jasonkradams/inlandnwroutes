@@ -26,7 +26,7 @@ notes:
 
 # Big Sky Resort
 
-*Big sky resort big sky, mt*
+## Big sky resort big sky, mt
 
 ## of named runs: 300
 

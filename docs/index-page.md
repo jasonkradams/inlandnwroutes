@@ -6,7 +6,7 @@ Site index and navigation.
 
 ### Canada
 
-**Kokanee Glacier Provincial Park**
+### Kokanee Glacier Provincial Park
 
 1. Joker Lakes and Falls
 
@@ -14,7 +14,7 @@ Site index and navigation.
 
 ### Washington
 
-**Eastern Washington**
+### Eastern Washington
 
 1. [Abercrombie Mountain](abercrombie-mountain.md)
 
@@ -32,7 +32,7 @@ Site index and navigation.
 
 ### Idaho
 
-**North Idaho**
+### North Idaho
 
 1. American Falls Trail #308
 

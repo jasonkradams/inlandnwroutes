@@ -38,7 +38,7 @@ notes:
 
 # Cutoff Peak 6844 And Smith Peaks North Ridge
 
-*Cutoff peak 6844' and smith peak's 7653’ north ridge*
+## Cutoff peak 6844' and smith peak's 7653’ north ridge
 
 ## Description
 

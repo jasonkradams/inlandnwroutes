@@ -25,7 +25,7 @@ stats:
 
 # Elk Creek Falls Recreation Area
 
-*Elk creek falls national recreation area trail #740, 745, 742, & 740a*
+## Elk creek falls national recreation area trail #740, 745, 742, & 740a
 
 ## Description
 

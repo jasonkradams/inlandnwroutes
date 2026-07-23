@@ -65,9 +65,9 @@ NA
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ![Picture](assets/images/110920211146p.jpg)
 

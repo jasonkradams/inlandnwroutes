@@ -1,6 +1,6 @@
 # Spokane Canoe And Kayak Club
 
-## Spokane canoe and kayak club
+## Spokane canoe and kayak club (2)
 
 Rushing whitewater, quiet mountain lakes, meandering rivers - the Inland Northwest has them all, and the
 

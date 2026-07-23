@@ -20,7 +20,7 @@ notes:
 
 # Red Lodge
 
-*Red lodge mountain*
+## Red lodge mountain
 
 ## of named runs: ???
 

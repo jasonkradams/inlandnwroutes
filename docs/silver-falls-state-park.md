@@ -37,13 +37,13 @@ Your browser does not support viewing this document. Click [here]( to download t
 
 ![Picture](assets/images/11222021929p.png)
 
-## Photo gallery
+## Photo gallery (2)
 
 ![Picture](assets/images/3222026635p.jpg)
 
 ## The trail in is about as good as it gets
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## The lushness of this area is worth the walk
 
@@ -51,15 +51,15 @@ Your browser does not support viewing this document. Click [here]( to download t
 
 ## North falls 136'
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
-## North falls 136'
+## North falls 136' (2)
 
 ![Picture](assets/images/3222026654p.jpg)
 
 ## North trail from the trail in the above image
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Most all the trail is outstanding
 

@@ -26,7 +26,7 @@ notes:
 
 # Loup Loup Ski Bowl
 
-*Loup loup ski bowl okanogan, wa*
+## Loup loup ski bowl okanogan, wa
 
 ## of named runs: 10
 

@@ -41,7 +41,7 @@ notes:
 
 # St Paul Lake
 
-*St. paul lake & waterfalls*
+## St. paul lake & waterfalls
 
 ## Description
 
@@ -128,7 +128,7 @@ Eicharts, Mr Sub, Burger Express & Jalapeños in Sandpoint
 
 ## The bottom section of a 50 foot waterfall
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Waterfall from the north shore Elephant peak on left..st. paul peak on right
 

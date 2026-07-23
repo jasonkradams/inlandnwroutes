@@ -24,7 +24,7 @@ stats:
 
 # East Riverview Landinglaunch
 
-*West riverview launch*
+## West riverview launch
 
 ## Description
 

@@ -34,7 +34,7 @@ notes:
 
 # Giant Cedar Grove Trail
 
-*Giant cedar grove trail #748*
+## Giant cedar grove trail #748
 
 ## Description
 
@@ -74,7 +74,7 @@ NA
 
 ## Two hikers walking into the giants
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Giant red cedar along to trail to the giant
 
@@ -82,7 +82,7 @@ NA
 
 ## First site of the giant
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Tyler & shuwen arm measuring the giant
 
@@ -104,6 +104,6 @@ NA
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Looking up the giant

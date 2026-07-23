@@ -36,7 +36,7 @@ notes:
 
 # Dome Mountain
 
-*Dome mountain 7560’ trail #360*
+## Dome mountain 7560’ trail #360
 
 ## Description
 
@@ -57,7 +57,7 @@ Sugarloaf Mountain, Weir Peak, and Parmenter Mountain
 
 From Libby, head west on Highway 2 for about 3 miles and turn left (south) up Road # 402. Look for milepost
 
-# 27.7.
+## 27.7
 
 ## Hazards
 

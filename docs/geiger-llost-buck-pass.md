@@ -43,7 +43,7 @@ notes:
 
 # Geiger Llost Buck Pass
 
-*Lower 4749’ & upper 5333’ geiger lakes*
+## Lower 4749’ & upper 5333’ geiger lakes
 
 ![Picture](assets/images/61420251141a.jpg)
 
@@ -96,7 +96,7 @@ There are few if any hazards, but be aware of Wood Ticks in the tall grasses aro
 Kaiju Bar & Grill in Libby. Henry’s & Pizza Hut, in Libby, Clark Fork Pantry, Eicharts, Mr Sub & Jalapeños
 in Sandpoint The Shed south of Libby a few miles is on Hwy 2
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Photo gallery
 
@@ -110,11 +110,11 @@ in Sandpoint The Shed south of Libby a few miles is on Hwy 2
 
 ## Lower geiger lake
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## The waterfall between lower & upper geiger lakes
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Upper geiger lake with lost buck pass
 
@@ -124,7 +124,7 @@ in Sandpoint The Shed south of Libby a few miles is on Hwy 2
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## Trail #360 to lost buck pass
 
@@ -142,7 +142,7 @@ in Sandpoint The Shed south of Libby a few miles is on Hwy 2
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## Wanless lake and engle peak
 

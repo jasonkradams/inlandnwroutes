@@ -28,7 +28,7 @@ stats:
 
     Mount spokane ski & snowboard park Mountspokane.com
 
-    *Spokane, wa*
+## Spokane, wa
 
 ## of named runs: 52
 
@@ -56,7 +56,7 @@ To contribute images, contact chic via this website
 
 ## The chairlift was an ore hauler in a mine in wallace
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## The author skiing in 1956
 
@@ -68,11 +68,11 @@ To contribute images, contact chic via this website
 
 ## The vista house in deep snow
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Mount spokane from the selkirk lodge
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## A temperature inversion near the selkirk lodge
 
@@ -134,7 +134,7 @@ form when seasonal cycles of freezing and thawing break larger boulders into sma
 cycles were most numerous during the last ice age, prying apart the broad granite fields seen on Mount
 Spokane today.
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## Felsenmeer on the summit of mount spokane photo by dan coe, wgs/dnr
 

@@ -75,10 +75,10 @@ _A possible xenolith along the trail—dark rock contrasting sharply with surrou
 !!! note "Origin of Intrusions & Inclusions"
 
     - **Xenoliths:** Foreign rock fragments that fell from the wall or ceiling of a magma chamber and were
-      trapped without fully melting before the magma solidified.
+    trapped without fully melting before the magma solidified.
 
     - **Mineral Veins:** Fractures (often created by fault movement) that filled with later-stage magma or
-      silica-rich fluids, cooling into distinct quartz veins.
+    silica-rich fluids, cooling into distinct quartz veins.
 
     Finding various granite types, granodiorite, quartz veins, and xenoliths makes exploring the Selkirks
     feel like a geological scavenger hunt without a map.
@@ -134,7 +134,8 @@ _Looking east across the Purcell Trench toward the Purcell Mountains._
 ### Regional Tectonic & Glacial History
 
 !!! quote "Geology of North Idaho & Western Montana"
-    _Adapted from historical geological analyses by Charles Mortensen._
+
+### Adapted from historical geological analyses by Charles Mortensen
 
 #### Prehistoric Timeline & Terrane Accretion
 
@@ -294,10 +295,10 @@ left them without formal legislative protection.
     down to a giant hanging valley in the Purcell Trench near the Canadian border.
 
     - **Old-Growth Canopy:** Features a spectacular 10-mile continuous corridor of ancient Western Red
-      Cedar, Western Hemlock, and Western White Pine.
+    Cedar, Western Hemlock, and Western White Pine.
 
     - **Wilderness Status:** Despite being North Idaho's premier remote sanctuary, formal wilderness
-      proposals have failed due to timber resource values and prohibitive road-building costs.
+    proposals have failed due to timber resource values and prohibitive road-building costs.
 
 #### Priest Lake & Upper Priest Lake
 
@@ -437,18 +438,17 @@ contiguous Pacific Northwest that retains its full historical complement of nati
 !!! important "Threatened & Sensitive Species"
 
     - **Woodland Caribou:** Historically roaming south to the Snake River Plain, the endangered Selkirk herd
-      represents the last woodland caribou in the lower 48 states. They rely heavily on arboreal
-      lichens in old-growth forests for winter survival.
+    represents the last woodland caribou in the lower 48 states. They rely heavily on arboreal lichens in
+    old-growth forests for winter survival.
 
     - **Grizzly Bears:** A small native population of 35 to 40 grizzly bears inhabits the US Selkirks.
-      Management policies restrict motorized road access in timber units to prevent human-bear
-      conflict.
+    Management policies restrict motorized road access in timber units to prevent human-bear conflict.
 
     - **Grey Wolves & Lynx:** A naturally formed, self-established wolf pack returned to the Selkirks
-in 2005. Canada lynx, wolverine, and pine marten also inhabit the high backcountry.
+    in 2005. Canada lynx, wolverine, and pine marten also inhabit the high backcountry.
 
     - **Native Fish:** Native **Bull Trout** (federally Threatened) and **Westslope Cutthroat Trout**
-      inhabit pristine mountain streams and lakes.
+    inhabit pristine mountain streams and lakes.
 
 ---
 
@@ -478,10 +478,10 @@ require backcountry hiking to reach and offer excellent trout fishing (stocked a
 !!! caution "Red Tape & Trailhead Parking"
 
     - **Permits & Fees:** No general access fees or wilderness permits are required to enter the Selkirks at
-      this time.
+    this time.
 
     - **Parking Enforcement:** Popular trailheads (such as **Pyramid Lake**) have strictly limited parking
-      spaces. Parking outside designated areas is prohibited and subject to citation.
+    spaces. Parking outside designated areas is prohibited and subject to citation.
 
 ---
 

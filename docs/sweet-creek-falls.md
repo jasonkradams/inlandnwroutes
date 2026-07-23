@@ -24,7 +24,7 @@ stats:
 
 # Sweet Creek Falls
 
-*Sweet creek falls, ione, washington*
+## Sweet creek falls, ione, washington
 
 ## Description
 

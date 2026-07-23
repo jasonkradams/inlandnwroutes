@@ -26,7 +26,7 @@ stats:
 
 # Finch Arboretum
 
-*John a. finch arboretum*
+## John a. finch arboretum
 
 ## Description
 
@@ -83,21 +83,21 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Spring at the finch arboretum is well worth the visit
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## As the colors start to change, the trees turn vibrant
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Garden spring creek cascades often
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## Soon all this grass will be covered in yellow leaves
 
@@ -111,7 +111,7 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## There are several places to sit and watch the day go by
 
@@ -121,13 +121,13 @@ Click for Current NOAA Weather Conditions
 
 ## This is a one of a kind image. the tree fell a few years ago
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ## The next three images show the carpet of yellow along garden spring creek
 
 ![Picture](assets/images/11052021551p.jpg)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (6)
 
 ![Picture](assets/images/11052021553p.jpg)
 

@@ -36,7 +36,7 @@ notes:
 
 # Sawtooth Mountain
 
-*Sawtooth mountain 6758’*
+## Sawtooth mountain 6758’
 
 ## Description
 
@@ -77,7 +77,7 @@ Click for Current NOAA Weather Conditions
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## This is the view that said to me, "come climb me", from heron, mt
 
@@ -89,7 +89,7 @@ Click for Current NOAA Weather Conditions
 
 ## The group after climbing a killer scree slope, on way to sawtooth
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Sawtooth mountain from the high ridge 600 verts
 
@@ -97,7 +97,7 @@ Click for Current NOAA Weather Conditions
 
 ## A spectacular view that few have ever seen, from sawtooth mountain
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## On the way to the top of sawtooth peak, sandy pointed out scotchman peak
 
@@ -113,11 +113,11 @@ Click for Current NOAA Weather Conditions
 
 ## Star peak from the side of sawtooth mountain
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## From the summit of sawtooth, spar peak stands to the north
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## Chris descending, with sawtooth mountain in back
 

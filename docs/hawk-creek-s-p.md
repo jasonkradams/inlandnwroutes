@@ -34,7 +34,7 @@ notes:
 
 # Hawk Creek S P
 
-*Hawk creek falls state park*
+## Hawk creek falls state park
 
 ## Description
 
@@ -88,7 +88,7 @@ Lenny’s in Cheney
 
 ![Picture](assets/images/2021116-22-jpeg-1-1.jpg)
 
-## Hawk creek falls state park
+## Hawk creek falls state park (2)
 
 ![Picture](assets/images/p69.png)
 
@@ -112,13 +112,13 @@ Lenny’s in Cheney
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## The outer reach of hawk creek bay
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Below the highest rock point is a small sand dunes, go there
 

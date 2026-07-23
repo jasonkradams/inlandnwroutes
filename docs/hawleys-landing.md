@@ -24,7 +24,7 @@ stats:
 
 # Hawleys Landing
 
-*Hawley's landing in heyburn s.p*
+## Hawley's landing in heyburn s.p
 
 ## Description
 

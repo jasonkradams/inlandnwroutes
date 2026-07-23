@@ -160,11 +160,11 @@ colors up
 
 ## Thomas condon paleontology & vistor center
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## The clarno unit
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## These columns are solid fossils
 
@@ -172,7 +172,7 @@ colors up
 
 ## Fossil columns
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## The painted hills unit
 
@@ -182,15 +182,15 @@ colors up
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
-## Painted hills unit
+## Painted hills unit (2)
 
 ---
 
 ![Picture](assets/images/2021116-20-jpeg-1.jpg)
 
-## Painted hills unit
+## Painted hills unit (2) (2)
 
 ---
 
@@ -198,7 +198,7 @@ colors up
 
 ## The leaf hill trail & painted cove trail map
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## Painted cove from the above trail
 

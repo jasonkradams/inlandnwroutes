@@ -37,7 +37,7 @@ notes:
 
 # Mollies  Phoebes Tip
 
-*The mollies 6512’ and phoebes tip 6658’*
+## The mollies 6512’ and phoebes tip 6658’
 
 ## Description
 
@@ -88,7 +88,7 @@ Burger Express
 Phoebes tip is on the left, while the mollies is next to phoebes tip, First to the right. west fork mt is
 right of center
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 Below the summit of the mollies, is the mollies lake. Off in the distance is the american selkirks. Lion
 head
@@ -99,7 +99,7 @@ of center on the horizon
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Steep cliffs above bugle creek
 
@@ -113,7 +113,7 @@ of center on the horizon
 
 ## Priest lake from the summit of the mollies in clearing fog
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 In this turn of the century image, this was the camp, for fire lookout people. image by ernest grambo
 
@@ -121,7 +121,7 @@ In this turn of the century image, this was the camp, for fire lookout people. i
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## Early fire lookout camps were very primitive. image by ernest grambo
 
@@ -133,7 +133,7 @@ In this turn of the century image, this was the camp, for fire lookout people. i
 
 ## The mollies lookout cabin near the turn of the century. PHOTO BY THEON McMAHON
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## The old lookout tower
 

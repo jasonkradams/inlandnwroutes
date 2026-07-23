@@ -62,6 +62,6 @@ Eloika Lake, and Loon Lake.
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Dark sky and shooting star

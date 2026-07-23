@@ -47,7 +47,7 @@ stats:
 
 # Meadowsweet
 
-*Meadowsweet aka white meadowsweet*
+## Meadowsweet aka white meadowsweet
 
 ## Description
 

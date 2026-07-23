@@ -53,6 +53,8 @@ Butter and Herbs Italian in Pinehurst. Pizza Factory, 1313 Club, Brooks Hotel & 
 ## Photo gallery
 ---
 
+# Independence Creek
+
 ## No images. if you would like to contribute, please contact chic
 
 ---

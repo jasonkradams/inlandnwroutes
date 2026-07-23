@@ -35,7 +35,7 @@ notes:
 
 # Terrace Lake
 
-*Terrace lake Stoney lake fishtrap lake & campground*
+## Terrace lake Stoney lake fishtrap lake & campground
 
 ## Description
 
@@ -60,7 +60,8 @@ Fishtrap lake & campground As you drive up to Terrace or Stoney Lakes, you turn 
 
 At this junction, DO NOT TURN LEFT, BUT CONTINUE up past the West Fork Fishtrap Creek Campground to FR
 
-#7593-2. Turn
+## 7593-2. Turn
+
 left for a short distance to Fishtrap Lake and Campground.
 
 There is a spectacular campground on the south end of the lake. Fishtrap Lake offers a 3.5 mile hiking trail
@@ -106,7 +107,7 @@ NA
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Chris on the terrace lake trail, near the lake
 
@@ -116,7 +117,7 @@ NA
 
 ## Lunch spot on terrace lake
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## The cliffs across terrace lake from the lunch spot
 
@@ -128,11 +129,11 @@ NA
 
 ## A pano of stony lake
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## First view of stony lake
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## A spectacular lake, and no one around
 

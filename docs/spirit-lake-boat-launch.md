@@ -9,7 +9,7 @@ stats:
 
 # Spirit Lake Boat Launch
 
-*St. joe and st. maries rivers*
+## St. joe and st. maries rivers
 
 ## Description
 

@@ -33,7 +33,7 @@ notes:
 
 # Navigation Trail 291
 
-*Navigation trail #291 to upper priest lake*
+## Navigation trail #291 to upper priest lake
 
 ## Description
 
@@ -51,7 +51,7 @@ displayed. See photos below. Part of the trail is close to the shore line for vi
 Navigation CG., the views explode all around you. The picnic table at Navigation CG was damaged, so take
 along sit pads. The remainder of the trail north is thru a thick forest, with two creeks to cross. Trail
 
-#291 terminates at F.R. 1013, about 3.5 miles NW of Upper Priest Lake
+## 291 terminates at F.R. 1013, about 3.5 miles NW of Upper Priest Lake
 
 .
 
@@ -62,7 +62,8 @@ At Nordman turn east onto Reeder Bay Road. Stay on the main road approx. 14 mile
 toward the campground then left uphill to the trailhead. Pull-through park available for trailers. North on
 Hwy 57, Hwy 57 turns into graveled Forest Service Rd #302 approx. 4 miles past Nordman. Travel north on Rd.
 
-#302 approx. 14 miles until it turns into Rd. #1013 at the Granite Pass junction. The road to the trailhead is on the
+## 302 approx. 14 miles until it turns into Rd. #1013 at the Granite Pass junction. The road to the trailhead is on the
+
 right side, located 5.5 miles up Rd. #1013. (1 mile past the Hughes Meadows turnoff.) Stock trailer parking
 available.
 
@@ -95,7 +96,7 @@ Burger Express in Priest River, Ardy's Cafe,
 
 ![Picture](assets/images/6182025226p.jpg)
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ![Picture](assets/images/6172022104p.jpg)
 
@@ -113,11 +114,11 @@ Burger Express in Priest River, Ardy's Cafe,
 
 ## Looking east from the navigation campground
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Upper priest lake with little snowy top & snowy top
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Along the trail, there were many fungi. This is a false morel. it is poisonous
 

@@ -40,7 +40,7 @@ notes:
 
 # Cliff Lake  Eagle Cliff Peak
 
-*Mcdonald lake, cliff lake, eagle cliff peak 7543*
+## Mcdonald lake, cliff lake, eagle cliff peak 7543
 
 ## Description
 

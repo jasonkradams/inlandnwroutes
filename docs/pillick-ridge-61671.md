@@ -34,7 +34,7 @@ notes:
 
 # Pillick Ridge 61671
 
-*Pillick ridge 6167'*
+## Pillick ridge 6167'
 
 ## Description
 
@@ -83,7 +83,7 @@ Proposed Scotchman Peaks Wildreness.
 
 Clark Fork Pantry, Clark Fork Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Photo gallery
 
@@ -93,7 +93,7 @@ Clark Fork Pantry, Clark Fork Jalapeños, Mr. Sub, Burger Express, Eichardt’s 
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 The cabinet mountain wilderness from the pillick trail. The point left of center is ibex peak 7676'
 

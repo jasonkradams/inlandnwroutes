@@ -26,7 +26,7 @@ notes:
 
 # Mount Bachelor Ski Resort
 
-*Mount bachelor ski resort bend, or*
+## Mount bachelor ski resort bend, or
 
 ## of named runs: 121
 

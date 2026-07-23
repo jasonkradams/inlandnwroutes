@@ -36,7 +36,7 @@ notes:
 
 # Lakeview Ranch
 
-*Odessa lake, lakeview, pacific lake recreation area*
+## Odessa lake, lakeview, pacific lake recreation area
 
 ## Description
 

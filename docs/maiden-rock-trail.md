@@ -37,7 +37,7 @@ notes:
 
 # Maiden Rock Trail
 
-*Maiden rock trail #321*
+## Maiden rock trail #321
 
 ## Description
 
@@ -89,11 +89,11 @@ Moon Time, Franklins Hoagies, the Mexican Food Factory, and the Trails End Brewe
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Maiden rock beach & point
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Swimming at maiden rock
 

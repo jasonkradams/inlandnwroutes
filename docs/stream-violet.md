@@ -48,6 +48,6 @@ The seeds of this plant are very fecund and one can end up with many plants in a
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 Image by james colquhoun

@@ -37,7 +37,7 @@ notes:
 
 # Graham Mountain
 
-*Graham mountain 5727’*
+## Graham mountain 5727’
 
 ## Description
 

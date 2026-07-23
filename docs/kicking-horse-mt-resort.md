@@ -26,7 +26,7 @@ notes:
 
 # Kicking Horse Mt Resort
 
-*Kicking horse mountain resort. golden, b.c*
+## Kicking horse mountain resort. golden, b.c
 
 ## of named runs: 120+
 

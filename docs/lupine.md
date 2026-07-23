@@ -100,25 +100,25 @@ and escaped cultivation.
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Close up of lupine and their leaves. The leaves collect water from rain, snow, and dew
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Aging lupine
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Fields of lupine blanket some areas
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
-## Aging lupine
+## Aging lupine (2)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## On the trail to lunch peak & mount pend orielle The lead in image is also from lunch peak
 

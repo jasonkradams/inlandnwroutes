@@ -33,7 +33,7 @@ notes:
 
 # Morris Creek Old Growth Cedar Grove
 
-*Morris creek old growth cedar grove trail 749*
+## Morris creek old growth cedar grove trail 749
 
 ## Description
 

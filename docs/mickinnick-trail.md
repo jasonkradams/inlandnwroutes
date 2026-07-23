@@ -34,7 +34,7 @@ notes:
 
 # Mickinnick Trail
 
-*Mickinnick trail #13*
+## Mickinnick trail #13
 
 ## Description
 
@@ -70,7 +70,7 @@ Jalapeños, Burger Express, Eichardt’s, Mr. Sub
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ![Picture](assets/images/4132025422p.jpg)
 
@@ -80,7 +80,7 @@ Jalapeños, Burger Express, Eichardt’s, Mr. Sub
 
 ## The trailhead to the mickinnick trail image by rick nolting
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## The mickinnik hike from gold hill Image by rick nolting
 
@@ -88,9 +88,9 @@ Jalapeños, Burger Express, Eichardt’s, Mr. Sub
 
 ## The mickinnick hike from gold hill Image by rick nolting
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
-## The mickinnick hike from gold hill Image by rick nolting
+## The mickinnick hike from gold hill Image by rick nolting (2)
 
 ![Picture](assets/images/103120231041p.jpg)
 

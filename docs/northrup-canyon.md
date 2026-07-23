@@ -37,7 +37,7 @@ stats:
 
 # Northrup Canyon
 
-*Northrup canyon & lake*
+## Northrup canyon & lake
 
 ## Description
 
@@ -121,7 +121,7 @@ Click for Current NOAA Weather Conditions
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ![Picture](assets/images/p93.png)
 
@@ -129,7 +129,7 @@ FROM 1933 to 1941, THE WORKERS BUILDING THE GRAND COULEE DAM, WERE HOUSED IN CAN
 THEIR MESS HALL CREATED THE HUGE COLLECTION OF EMPTY TIN CANS. THE PILE IS ABOUT 100x200 FEET, AND ABOUT 5
 FEET DEEP
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## A trail of gold, up into northrup canyon
 
@@ -137,7 +137,7 @@ FEET DEEP
 
 ## The newer of the houses with the very old behind
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Some of the out buildings of the old homestead
 

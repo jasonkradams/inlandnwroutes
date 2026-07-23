@@ -36,7 +36,7 @@ stats:
 
 # Nuttalls Larkspur
 
-*Nuttall's larkspur*
+## Nuttall's larkspur
 
 ## Description
 
@@ -59,6 +59,6 @@ soils, in moist but not wet sites. Soils can vary from acid to neutral or basic.
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details

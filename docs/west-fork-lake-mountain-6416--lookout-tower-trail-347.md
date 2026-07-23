@@ -46,7 +46,7 @@ notes:
 The hardest part of this nice hike is the drive from Rathdrum. it is a 2.5 hour drive. Begin this hike on
 Trail #21 for about a mile on an easy grade, and across 4 boardwalks to the junction with Trail
 
-#347.
+## 347
 
 At the junction, turn left for 3 miles to West Fork Lake. Trail #347 has one bridge just after the junction.
 Along Trail #347 you will cross 15 boardwalks that protect the moist environments. There are many
@@ -104,11 +104,11 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## chris shooting a small cascade near the junctions of trails 21 & 347
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 Not too far up from the trail junction, The walk is thru 4' to 8' diameter giant western red cedars image by
 
@@ -124,7 +124,7 @@ herath
 
 ## Boardwalks protect wet areas
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## West fork lake
 
@@ -136,49 +136,49 @@ herath
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## West fork mountain lookout tower
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## West fork lookout tower
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ## Lion head and surrounding peak from inside the tower
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (6)
 
 ## A view of the ridge nnw of the tower. do not miss this walk Image by chris herath
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (7)
 
 ## Descending the tower
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (8)
 
 ## Chris pausing on the west fork ridge looking north
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (9)
 
 ## The famous american selkirks granite
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (10)
 
 ## Middle caribou lake from west fork's nne ridge image by chris herath
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (11)
 
 ## When hiking tuff routes, always have well prepared lunches
 
@@ -186,7 +186,7 @@ herath
 
 ## The ridge that the tower is on, is a very beautiful. do not miss it image by chris herath
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (12)
 
 ## Middle caribou lake with the nne ridge above
 

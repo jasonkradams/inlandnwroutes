@@ -58,14 +58,14 @@ _Hunt Lake 5,813' | Peak 6,976' | Gunsight Peak 7,352' | Trail #1_
     established a distinct trail alongside the boulders:
 
     - **Ascent Strategy:** Stay along the tundra on the right side until reaching a path across the scree
-      field on the first shelf.
+    field on the first shelf.
 
     - **Boulder Crossing:** The path crosses the scree field here and ascends along the left side of the old
-      trail toward the lake. This newer trail offers a faster and less arduous ascent.
+    trail toward the lake. This newer trail offers a faster and less arduous ascent.
 
     - **Trail Markers:** Follow pale green and orange surveyor ribbon along the left side of the giant scree
-      slopes. In places where the trail weaves through the forest away from the scree, you will
-      occasionally scramble back out onto the rocks.
+    slopes. In places where the trail weaves through the forest away from the scree, you will occasionally
+    scramble back out onto the rocks.
 
     When reaching the first bench on the ascent, turn around to note where the trail exits the scree slopes
     to the left back toward the trailhead.
@@ -111,7 +111,8 @@ From Hunt Lake, scramble to the ridge above as described in Option 1.
 - **Descent to Fault Lake:** Locate a notch along the ridge to descend to **Fault Lake**, then follow
   **Trail
 
-  #59** down
+## 59** down
+
 to the Fault Lake trailhead.
 
 ### Option 3: Extension to Hunt Peak
@@ -138,15 +139,12 @@ From Peak 6,514' (reached in Option 2), continue south along the ridge for appro
 
 ### Post-Hike Food & Drinks
 
-Refuel in nearby **Sandpoint, ID**:
+Refuel in nearby Sandpoint, ID:
 
-- **Jalapeños** (Mexican Cuisine)
-
-- **Eichardt's Pub & Grill**
-
-- **Mr. Sub**
-
-- **Burger Express**
+- Jalapeños (Mexican Cuisine)
+- Eichardt's Pub & Grill
+- Mr. Sub
+- Burger Express
 
 ### Weather & Planning
 

@@ -32,7 +32,7 @@ stats:
 
 # Deer Creek Nordic Sno Park
 
-*Deer creek nordic sno-park 4,600'*
+## Deer creek nordic sno-park 4,600'
 
 ## Description
 
@@ -65,7 +65,8 @@ This 3.1 mile route (on forest road 455 for 1.5 miles), leaves from the
 [Deer Creek Summit South Trailhead / Sno-Park](https://www.fs.usda.gov/recarea/colville/recreation/recarea/?recid=67862),
 and connects with [Kettle Crest (North) National Recreation Trail
 
-#13](https://www.fs.usda.gov/recarea/colville/recreation/recarea/?recid=67870). These
+## 13](https://www.fs.usda.gov/recarea/colville/recreation/recarea/?recid=67870). These
+
 two trails can be combined for a 6.5 mile loop back to the trailhead. This route can also be connected with
 the [Long Alec Trail #43.1](https://www.fs.usda.gov/recarea/colville/recreation/recarea/?recid=70761). There
 are nice views of the Kettle River Valley along this trail. This trail parallels the

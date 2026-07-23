@@ -130,7 +130,8 @@ feet to run over the ice. And they take poles as supports and push themselves ra
 Luther, British Ski Year Book, 1952)*
 
 **629** — The Thieh-lo tribe brought tribute, "riding on pieces of wood [to] hunt deer over the ice."
-*(Described by Dr. Joseph Needham)*
+
+### (Described by Dr. Joseph Needham)
 
 **780–799** — Paulus Warnefrid of Longobardia describes the Finns as skiing (Skritofinns), as does
 
@@ -540,7 +541,7 @@ pioneers began to explore the mountains, among them Arthur Ullrichs. *(The FIS s
 
 ## Local & Regional Ski History
 
-*Compiled by Morten Lund and Seth Masia.*
+### Compiled by Morten Lund and Seth Masia
 
 About 10,000 years ago: with the retreat of glaciers after the last Ice Age, elk and reindeer begin
 
@@ -1030,41 +1031,41 @@ of Mt. Spokane](http://mountspokane.org/).
     couldn't be resolved from the material available — noted inline below.
 
     - **19th century** — Long before Mt. Spokane State Park became a haven for winter and summer recreation,
-      Native Americans considered the summit of Mt. Spokane an ideal site for spiritual pilgrimages.
+    Native Americans considered the summit of Mt. Spokane an ideal site for spiritual pilgrimages.
 
     - **1909–1912** — Frances Cook, owner of the summit, builds a toll road to within 3 miles (4.8 km) of
-      the summit *(one source variant says the road came within ¾ mile)*, along with a cabin.
+    the summit *(one source variant says the road came within ¾ mile)*, along with a cabin.
 
     - **1927** — Mt. Spokane State Park is officially dedicated at 1,500 acres (6.1 km²).
 
     - **1929** — H. Cowles, Jr. donates 640 acres (2.6 km²) of land to the park.
 
     - **1930s** — The Spokane Ski Club, the Selkirk Ski Club, and the Spokane Mountaineers purchase over 500
-      acres (2 km²) on the mountain for lodges, rope-tows, and ski-jump hills. The road is completed
-      to the summit.
+    acres (2 km²) on the mountain for lodges, rope-tows, and ski-jump hills. The road is completed to the
+    summit.
 
     - **1932** — A large Sun Globe is erected at the top of the mountain on June 26 by the Spokane
-      Federation of Women's Organizations, intended to reflect the sun's rays for miles as a tribute
-      to fatherhood and a memorial to the people of Spokane. Mrs. J.B. Dodd, originator of Father's
-      Day, unveils the globe at a dedication ceremony. As of 2011 the globe and its base were gone,
-      and it isn't known how long it stood.
+    Federation of Women's Organizations, intended to reflect the sun's rays for miles as a tribute to
+    fatherhood and a memorial to the people of Spokane. Mrs. J.B. Dodd, originator of Father's Day,
+    unveils the globe at a dedication ceremony. As of 2011 the globe and its base were gone, and it
+    isn't known how long it stood.
 
     - **1933–1934** — Vista House is built near the summit *(credited in one source to contractor E.O.
-      Fieldstad, and in another to a Civilian Conservation Corps crew from Riverside State Park)*;
-      Cook's Cabin, the caretaker's cabin, is also built. The CCC sets up a camp for 200 unemployed
-      young men on Beauty Mountain to improve the roads and construct other facilities.
+    Fieldstad, and in another to a Civilian Conservation Corps crew from Riverside State Park)*; Cook's
+    Cabin, the caretaker's cabin, is also built. The CCC sets up a camp for 200 unemployed young men on
+    Beauty Mountain to improve the roads and construct other facilities.
 
     - **1939** — The Spokane Chapter of the Conservation League buys 320 acres (1.3 km²) for the park for
-      $1,500 (the south half of Section 21) to save virgin timber from logging and fire.
+    $1,500 (the south half of Section 21) to save virgin timber from logging and fire.
 
     - **1940** — The Grand Lodge is completed near Cook's Cabin, but burns to the ground just before an
-      addition is finished in 1952.
+    addition is finished in 1952.
 
     - **1946** — The first double chairlift in the world goes into operation on the south face of the
-      summit, for three seasons.
+    summit, for three seasons.
 
     - **1952** — A master plan proposing over 24,000 acres and designating all of Mt. Spokane for downhill
-      ski purposes is proposed but not implemented.
+    ski purposes is proposed but not implemented.
 
     - **1953** — KXLY-TV becomes operational from the summit.
 
@@ -1073,39 +1074,38 @@ of Mt. Spokane](http://mountspokane.org/).
     - **1961** — Concessionaire A.E. Mettler constructs Lodge #2 and Lift #2.
 
     - **1965** — Another master plan, covering 11,592 acres (46.9 km²) — 958 acres (3.9 km²) for general
-      outdoor recreation, the rest as a "natural environment area" — is developed but not adopted by
-      the Parks Commission.
+    outdoor recreation, the rest as a "natural environment area" — is developed but not adopted by the Parks
+    Commission.
 
     - **1974** — The park's official classification changes from recreation area to state park, under a new
-      philosophy: state parks are to service the public's spiritual, mental and leisure needs through
-      a full range of non-urban outdoor educational and recreational services.
+    philosophy: state parks are to service the public's spiritual, mental and leisure needs through a full
+    range of non-urban outdoor educational and recreational services.
 
     - **1978** — A Coordinated Trail System plan is developed to reduce conflicting recreational uses
-      through allocation of park lands to user groups; it becomes outdated and is never fully
-      implemented.
+    through allocation of park lands to user groups; it becomes outdated and is never fully implemented.
 
     - **1985** — The Parks Commission formally designates the Ragged Ridge Natural Area within the park.
 
     - **1993** — The park contains about 13,643 acres (55.2 km²) of land, not including Quartz Mountain,
-      most of it donated or obtained during the Great Depression through property forfeitures. The Mt.
-      Spokane State Park Alpine Ski Area Working Group Interface Subcommittee issues a report
-      recommending a comprehensive planning process.
+    most of it donated or obtained during the Great Depression through property forfeitures. The Mt. Spokane
+    State Park Alpine Ski Area Working Group Interface Subcommittee issues a report recommending a
+    comprehensive planning process.
 
     - **1994** — State Parks proposes classifying areas of the park as Natural Forest Areas. The Mt. Spokane
-      Planning Task Force Steering Committee forms and recommends a comprehensive planning process
-      plus a permanent local park advisory committee.
+    Planning Task Force Steering Committee forms and recommends a comprehensive planning process plus a
+    permanent local park advisory committee.
 
     - **1995** — The Mt. Spokane State Park Advisory Committee, appointed by the Parks Commission, begins
-      monthly meetings in Spokane; Friends of Mt. Spokane State Park is also formed.
+    monthly meetings in Spokane; Friends of Mt. Spokane State Park is also formed.
 
     - **1997** — Mt. Spokane 2000, a non-profit group of local businesses and civic leaders, is approved as
-      the new concessionaire for the alpine ski area, replacing the Mt. Spokane Ski Corporation, which
-      had operated the area for 20 years.
+    the new concessionaire for the alpine ski area, replacing the Mt. Spokane Ski Corporation, which had
+    operated the area for 20 years.
 
     - **1999** — A Classification and Management Plan (CAMP) process is completed for the park, approving
-      new land classifications: about 10% Recreation Area, 58% Resource Recreation Area, under 1%
-      Heritage Area, 22% Natural Forest Area, 4% Natural Area Preserve, and about 5% left unclassified
-      pending an alpine ski area expansion plan.
+    new land classifications: about 10% Recreation Area, 58% Resource Recreation Area, under 1% Heritage
+    Area, 22% Natural Forest Area, 4% Natural Area Preserve, and about 5% left unclassified pending an
+    alpine ski area expansion plan.
 
     - **2010** — Master Facilities Plan completed.
 
@@ -1205,7 +1205,7 @@ today, another possible indication of the mountain's long use by Indigenous peop
     - Significant warming or rapidly increasing temperatures.
 
     - You see surface patterns made by strong wind — snow may have been transported and deposited in
-      dangerous drifts that could release.
+    dangerous drifts that could release.
 
     [Get training.](http://www.avalanche.org/education.php)
 

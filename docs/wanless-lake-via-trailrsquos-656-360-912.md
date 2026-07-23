@@ -39,7 +39,7 @@ notes:
 
 # Wanless Lake Via Trailrsquos 656 360 912
 
-*Wanless lake via trail’s #656, #360, #912*
+## Wanless lake via trail’s #656, #360, #912
 
 ## Description
 
@@ -58,7 +58,7 @@ District 406.827.3533 LINCOLN COUNTY SHERIFF: 911 or 406.293.4112
 
 ---
 
-## Description
+## Description (2)
 
 The 13 mile trail takes more then 6 hours to complete. From the trailhead, drop down to beneath the power
 lines to pick up the long trail to Wanless Lake. At about 12 miles you will come to Buck Lake. Wanless Lake

@@ -26,7 +26,7 @@ notes:
 
 # Timberline Lodge Ski Area
 
-*Timberline lodge ski area government camp, or*
+## Timberline lodge ski area government camp, or
 
 ## of named runs: 36
 
@@ -71,7 +71,7 @@ Conservation Corps (CCC). These programs provided relief through public employme
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 recreation planning on mt. hood
 
@@ -83,7 +83,7 @@ administrator and obtained funding from the WPA for $246,893 (approximately $4.3
 standards) with additional funding from the Mt. Hood Development Association and road improvement and
 building from the U.S. Forest Service.
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 creating a lodge design
 
@@ -123,7 +123,7 @@ Summit Meadows. The camp included numerous eight-man canvas tents, a mess hall, 
 often sent their savings to struggling unemployed family members. A caravan of trucks would take the workers
 to the construction site every morning.
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 the shining
 

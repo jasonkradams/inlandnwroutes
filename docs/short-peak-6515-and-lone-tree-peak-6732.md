@@ -37,7 +37,7 @@ notes:
 
 # Short Peak 6515 And Lone Tree Peak 6732
 
-*Short peak 6515' and lone tree peak 6732' #95*
+## Short peak 6515' and lone tree peak 6732' #95
 
 ## Description
 
@@ -97,19 +97,19 @@ Click for Current NOAA Weather Conditions
 
 ## This lookout is a usfs rental
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Inside the fire lookout
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Chris heating up my homemade chicken & rice soup
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## What a lunch spot
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## The outhouse is down hill to the south
 
@@ -141,7 +141,7 @@ Click for Current NOAA Weather Conditions
 
 ## The mollies 👇🏻                                       phoebe tip 👇🏻
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## Looking sw towards upper priest lake
 
@@ -151,12 +151,12 @@ Click for Current NOAA Weather Conditions
 
 ## The american selkirk's "seven sisters"
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ## Shorty peak lookout as the sun sets
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (6)
 
 ## There's nothing like a sunset in the mountains
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (7)

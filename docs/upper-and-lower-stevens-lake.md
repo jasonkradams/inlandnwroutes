@@ -36,7 +36,7 @@ notes:
 
 # Upper And Lower Stevens Lake
 
-*Lower & upper stevens lakes, alpine lakes region, idaho*
+## Lower & upper stevens lakes, alpine lakes region, idaho
 
 ## Description
 
@@ -141,7 +141,7 @@ followed thru with its possible wilderness designation
 
 <!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](assets/images/p41.png) --> -->
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## This route is less steep and safer in non snow conditions
 
@@ -171,7 +171,7 @@ winter, and broke it’s core. The circling cedar has died from it’s injuries.
 
 ## Lower stevens lake in early spring
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Skiing to stevens peak in 1984
 
@@ -192,15 +192,15 @@ the braided trail up on the hill side. In 2024 an avalanche brought down dozens 
 
 ## Aerial view of upper & lower stevens lakes, 300verts difference
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Upper stevens lake fall colors
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## Nancy doing yoga at lower stevens lake
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## Upper stevens lake below stevens peak in mid summer
 
@@ -212,7 +212,7 @@ the braided trail up on the hill side. In 2024 an avalanche brought down dozens 
 
 ## Backcountry skier curt almli on way to steven’s summit,  from west willow ridge. 1983
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ## Snow ghosts along west willow ridge to stevens peak
 
@@ -220,7 +220,7 @@ the braided trail up on the hill side. In 2024 an avalanche brought down dozens 
 
 ## Upper stevens lake from state line ridge 1984
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (6)
 
 Does anyone see the image of a lady leaning back against the peak, holding a baby? or is it just me?
 
@@ -243,31 +243,29 @@ all images below are from the "barnard-stockbridge photography collection" And a
 of idaho digital archives. I would like to thank the Northern pacific railroad depot museum For turning me
 on to the below history
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (7)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (8)
 
 ![Picture](assets/images/8420231025a.jpg)
 
 this is an image of the old train reverse "s" shaped bridge That used to be in the area of the trailhead for
 stevens lakes. the current trailhead is marked with a red dot
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (9)
 
 In this hand colored photo, notice the mine dump near center It is where the gigantic log is above the upper
 
 parking
 
-area. Also, notice the two mine buildings below the current trailhead the trestles burned in 1910 and were
-replaced with earthen bridges
+### The 1910 Train & Avalanche Disaster
 
-### The engines were pushing a caboos and a rotary plow, but as it rounded the "s" shaped bridge, it broke down, stranding some cars on the bridge
+The engines were pushing a caboose and rotary plow when they broke down on the S-shaped bridge. Before
+sunrise, a massive avalanche slid off the mountain wall and destroyed a section of the bridge. are by nellie
+stockbridge, of the barnard-stockbridge collection. u of i digital archives. they were shot on 8x10 glass
+negatives. *Picture (Image missing)*
 
-Then before sunrise, the mountain’s snow above, slid and took out a section of the bridge. The images below
-are by nellie stockbridge, of the barnard-stockbridge collection. u of i digital archives. they were shot on
-8x10 glass negatives. *Picture (Image missing)*
-
-*Picture (Image missing)*
+### Picture (Image missing) Details (10)
 
 ![Picture](assets/images/9420231044a.jpg)
 
@@ -276,21 +274,21 @@ are by nellie stockbridge, of the barnard-stockbridge collection. u of i digital
 In these images, notice the lack of trees. in 1892-3 a huge fire denuded the entire area. the avalanche came
 right down the slope above the trailhead
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (11)
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (12)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (13)
 
 ![Picture](assets/images/8420231052a.jpg)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (14)
 
 This image of the rotary snow blower, is to illustrate the type of equipment used to clear the line
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (15)
 
 This image is from 1890 and illustrates the extent of the avalanches debris that occurred many times along
 the
@@ -305,7 +303,7 @@ to get to lone lake
 The forest around the "s" bridge, was burned in 1893-4, And the "s" shaped bridge completely burned in the
 great fire of 1910
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (16)
 
 ## The engine is pictured below the timbers, with the caboose is up hill from it
 
@@ -317,11 +315,11 @@ great fire of 1910
 
 ## This image is the last passenger train to use this route
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (17)
 
 I included these images to show you the then and now difference in the area of the stevens lakes trailhead
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (18)
 
 This image is of upper stevens lake in 1920 notice the lack of trees Image by nellie stockbridge
 
@@ -330,7 +328,7 @@ This image is of upper stevens lake in 1920 notice the lack of trees Image by ne
 An image of lower stevens lake and peak from 1893 the fires of 1893-4, 1910 & 1923 destroyed all the trees
 image by nellie stockbridge
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (19)
 
 ## I took this image on 6.15.2022
 
@@ -340,7 +338,7 @@ Story #1
 
 ## Have you ever wondered about the pipe along the stevens lakes trail?
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (20)
 
 I first hiked into the Stevens Lakes area, back in the mid 60’s.
 
@@ -372,7 +370,7 @@ The Reindeer Queen Mine was the prominent mining operation in the Stevens Lakes 
 
 The miners of the reindeer queen mine
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (21)
 
 Because they constructed a trench to hold the pipe, I believe they used horses to transport the pipe to the
 
@@ -429,7 +427,7 @@ way up to Lower Stevens Lake. The pipe in this image is vastly different than th
 story. It is a 10" diameter pipe that weighs a lot less, making it easier to place the pipe all the way up
 East Willow Creek, to Lower Stevens Lake.
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (22)
 
 Because Trail #165 is so rough, steep, and twisted, they couldn’t have brought these pipe sections up the
 
@@ -443,11 +441,11 @@ Dorsey trestle , that was considered easier. But I haven’t found it yet. This 
 Silver Crest Group Mine, and heads north. I believe the miners transported the 10" pipe sections to the
 Silver Crest Mine on this gentle trail.
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (23)
 
 Out past the Carney Mines this trail vanishes into thick brush.
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (24)
 
 From the Silver Crest Mine you can see the miners standing near the white pipe.
 
@@ -464,7 +462,7 @@ headwall waterfall.
 
 ## The same building as above, different view
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (25)
 
 (Authors note… in the late 80’s, I took part in a clean up of 6-4x8 plywood shacks and all their
 miscellaneous
@@ -479,7 +477,7 @@ four large boulders. I believe they constructed their 8’ tall log dam, using t
 in place. The north east boulder has moved out of place, and is behind the tree. The tipping of that rock,
 caused the East Fork Willow Creek flood. The white pipe was placed in the lake, to act like a siphon.
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (26)
 
 Around 1916-7 the dam at Lower Stevens Lake, failed.
 
@@ -521,21 +519,17 @@ You can learn more about Nellie, and view her work at the below url.
 
 ## Mullan fish & game club and their cabin at lower stevens lake
 
-As I was doing research for the above two stories, I came across old newspaper articles about the Mullan
-Fish & Game Club. (Association) In those articles I discovered that the club had started a program to stock
-the local lakes of the Silver Valley, in
-
-1912. The club ordered as many as 200,000 fish fry, to be planted in the fall, to many lakes and streams in
-      the Silver Valley. For "Twin Lakes" (Stevens Lakes), they had to haul the fish fry in, in
-      containers on their backs. About the same time, the club proposed building a log bungalow at
-      Lower Stevens Lake. About the same time the United States Forestry Service (old name), proposed
-      building a cabin between the two lakes, often referred to as Twin Lakes. In that proposal, the
-      USFS suggested that they could make the Upper East Fork Willow Creek between the lakes, more
-      inhabitable for fish to spawn. As the club’s cabin turned out to be popular, they proposed a
-      second cabin at Lower Stevens Lake, for their ladies. However, I found no evidence that the
-      second cabin was ever built. In 1928 most of the Stevens Peak area burned, and the cabin(s?)
-      became history. The only images I have found of the cabin, does not give me a clue to where on
-      the shore line, the cabin existed.
+In those articles, I discovered that the club started a program to stock the local lakes of the Silver
+Valley in 1912. The club ordered as many as 200,000 fish fry to be planted in the fall across many lakes and
+streams. the Silver Valley. For "Twin Lakes" (Stevens Lakes), they had to haul the fish fry in, in
+containers on their backs. About the same time, the club proposed building a log bungalow at Lower Stevens
+Lake. About the same time the United States Forestry Service (old name), proposed building a cabin between
+the two lakes, often referred to as Twin Lakes. In that proposal, the USFS suggested that they could make
+the Upper East Fork Willow Creek between the lakes, more inhabitable for fish to spawn. As the club’s cabin
+turned out to be popular, they proposed a second cabin at Lower Stevens Lake, for their ladies. However, I
+found no evidence that the second cabin was ever built. In 1928 most of the Stevens Peak area burned, and
+the cabin(s?) became history. The only images I have found of the cabin, does not give me a clue to where on
+the shore line, the cabin existed.
 
 But having hiked all around the lake many times, it had to be on the very first flat spot as Trail #165
 arrives to the lower lake. the fire pit is just below old cabin site.
@@ -548,7 +542,7 @@ the Mullan Fish & Game Club, via a telephone line.
 The only evidence I have found is really weak, but knowing the summit as well as I do, I can see in the
 below image a rectangular structure on the summit.
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (27)
 
 If you tap on the image, save it so you can expand your screen to see what little evidence I’ve come across
 so

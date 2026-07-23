@@ -44,7 +44,7 @@ stats:
 
 # Mountain Spiraea
 
-*Mountain spiraea. (in the fall)*
+## Mountain spiraea. (in the fall)
 
 ## Description
 

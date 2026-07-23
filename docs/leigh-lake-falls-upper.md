@@ -25,7 +25,7 @@ stats:
 
 # Leigh Lake Falls Upper
 
-*Leigh lake falls upper the ultimate waterfall hike/paddle*
+## Leigh lake falls upper the ultimate waterfall hike/paddle
 
 ## Description
 
@@ -69,7 +69,8 @@ certainly can carry it out empty.
 
 From Libby, drive south on Highway 2 towards Glacier National Park for about 8 miles to the Bear Creek Road
 
-#278. Turn
+## 278. Turn
+
 right (west) for three miles to FR#867. Turn right (west) for about 5 miles to FR #4786. Drive up 4786 for
 about 2 miles to the trailhead. Notice along this last stretch of road, that there is pull off to the left
 to a very primitive campsite. If it’s occupied, you can camp at the parking area.
@@ -99,11 +100,11 @@ Click for Current NOAA Weather Conditions
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## After climbing the steep section, mountain goats come out to greet you
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## As you walk out to the in the early spring, glacier lilies are all around
 
@@ -111,11 +112,11 @@ Click for Current NOAA Weather Conditions
 
 ## This is the first big falls along the north shoreline
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## The paddling crew poses below a snow terminus with a 1,000' cascade
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## Although this cascade is only 600' tall, it is spectacular to paddle by
 
@@ -123,19 +124,19 @@ Click for Current NOAA Weather Conditions
 
 ## A snow terminus, towers above paddlers. the center ridge line above is over 1500'
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 Icebergs float on leigh lake. all the vertical groves in the background, have cascades in early spring
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ## A single cascade above the snow terminus is left in mid summer
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (6)
 
 ## Along the west wall, is a 600' cascade folding many waterfalls
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (7)
 
 ## Snow levels are about 30+ feet pre year. jane poses for an image before the terminus
 
@@ -143,7 +144,7 @@ Icebergs float on leigh lake. all the vertical groves in the background, have ca
 
 They say, the majority of a berg is below the berg this berg's lower section shows 60' below the surface
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (8)
 
 ## Each snow terminus or snow field up high produces gigantic amounts of snow Photo by deb pierce
 
@@ -151,7 +152,7 @@ They say, the majority of a berg is below the berg this berg's lower section sho
 
 ## Along the west wall dozens of falls drop to the lake
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (9)
 
 in the dead of winter, snow accumulates to a depth of well over 30' This snow fuels the waterfalls all
 around

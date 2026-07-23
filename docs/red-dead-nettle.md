@@ -79,12 +79,12 @@ stats:
 
 ![Picture](assets/images/111020231043p.jpg)
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ![Picture](assets/images/11020231047p.jpg)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)

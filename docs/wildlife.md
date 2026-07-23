@@ -2,7 +2,7 @@
 
 ---
 
-## Wildlife
+## Wildlife (2)
 
 ## Click on image to enlarge
 
@@ -10,7 +10,7 @@
 
 ![A MOOSE IN A BOG NEAR MURRY, IDAHO](assets/images/12222021722p.jpg)
 
-_A MOOSE IN A BOG NEAR MURRY, IDAHO_
+### A MOOSE IN A BOG NEAR MURRY, IDAHO
 
 ![Image](assets/images/12222021723p.jpg)
 

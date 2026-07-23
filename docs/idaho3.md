@@ -121,7 +121,7 @@ and traffic that usually go with other resort locations. Upper Priest Lake is ha
 even in the best summer days, and it is not developed at all except for a couple campgrounds. Wonderful
 isn't it!** *(Image missing)**(Image missing)*
 
-### General Stats for Priest Lake
+## General Stats for Priest Lake
 
 ### Pool Elevation: 2438 feet above sea level
 

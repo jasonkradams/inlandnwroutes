@@ -33,7 +33,7 @@ stats:
 
 # Hog Canyon  Falls
 
-*Hog canyon & waterfalls*
+## Hog canyon & waterfalls
 
 ## Description
 

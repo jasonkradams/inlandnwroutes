@@ -24,7 +24,7 @@ stats:
 
 # Higgins Point Launc
 
-*Higgins point launch*
+## Higgins point launch
 
 ## Description
 

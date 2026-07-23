@@ -21,7 +21,7 @@ stats:
 
 # Clear Lake
 
-*Clear lake, detroit n.f*
+## Clear lake, detroit n.f
 
 ## Description
 

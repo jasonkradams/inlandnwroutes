@@ -79,11 +79,11 @@ Click for Current NOAA Weather Conditions
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Myrtle creek falls at the kootenai national wildlife reguge
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Lower section of myrtle falls
 
@@ -99,8 +99,8 @@ Click for Current NOAA Weather Conditions
 
 ## Myrtle creek
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ![Picture](assets/images/28140007.jpg)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)

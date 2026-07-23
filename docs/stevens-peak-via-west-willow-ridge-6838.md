@@ -132,7 +132,7 @@ break off.
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## The lone lake face of stevens peak. check out those cornices. image by amy voeller
 
@@ -182,11 +182,11 @@ the left side of the divide.
 
 ## The below images were sent to me by fellow spokane mountaineer, vanette leighty, thank you
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## The group sshoeing up the idaho centennial trail, stevens peak area Image by vanette leighty
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 Up high on the idaho centennial trail above the upper sanctuary, lone lake image by vanette leighty
 

@@ -24,7 +24,7 @@ stats:
 
 # St Paul Lake Falls
 
-*St. paul lake waterfalls*
+## St. paul lake waterfalls
 
 ## Description
 
@@ -90,11 +90,11 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## You can't see this falls until you round a corner, and there they are
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Above the lake are these two twins
 
@@ -106,13 +106,13 @@ Click for Current NOAA Weather Conditions
 
 ## Tucked back in the rocks is this 60' waterfalls. the next images are of it in sections
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ![Picture](assets/images/110420211139a.jpg)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ![Picture](assets/images/110420211152a.jpg)
 

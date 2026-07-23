@@ -69,7 +69,7 @@ notes:
 
 # Sitka Valerian
 
-*Sitka valeriaan*
+## Sitka valeriaan
 
 ## Description
 

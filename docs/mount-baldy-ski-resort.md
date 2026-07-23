@@ -23,7 +23,7 @@ notes:
 
 # Mount Baldy Ski Resort
 
-*Mount baldy ski resort oliver, b.c., canada*
+## Mount baldy ski resort oliver, b.c., canada
 
 ## of named runs: 36
 

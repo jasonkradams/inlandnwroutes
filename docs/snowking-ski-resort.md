@@ -26,7 +26,7 @@ notes:
 
 # Snowking Ski Resort
 
-*Snowking ski resort jackson hole, wy*
+## Snowking ski resort jackson hole, wy
 
 ## of named runs: 35
 

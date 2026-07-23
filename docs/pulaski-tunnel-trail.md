@@ -86,7 +86,7 @@ of Kingston. And the Moon Time in CDA
 For more detailed info, on the great fire of 1910, click the url below
 <https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5343877.pdf>
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ![Picture](assets/images/4132025452p.jpg)
 
@@ -100,7 +100,7 @@ For more detailed info, on the great fire of 1910, click the url below
 
 ## The beginning of the pulaski tunnel trail
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## All along this wonderful trail are these informative signs
 
@@ -108,13 +108,13 @@ For more detailed info, on the great fire of 1910, click the url below
 
 ## A scenic creek crossing
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## West fork placer creek and trail
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## The pulaski tool is used world wide, and by our trail crews in smi & wta
 

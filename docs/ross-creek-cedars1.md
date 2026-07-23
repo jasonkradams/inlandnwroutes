@@ -62,15 +62,17 @@ This braided log was a beautiful part of the cedars, but someone cut it out a fe
 ## Along the trail in the cedars
 ---
 
-*Picture (Image missing)*
+# Ross Creek Cedars1
+
+## Picture (Image missing)
 
 ## The main trail thru the scenic area
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ![Picture](assets/images/11072021310p-1.jpg)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Hiking partners david and erwin, standing by a big one
 
@@ -80,13 +82,13 @@ This braided log was a beautiful part of the cedars, but someone cut it out a fe
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## Building these cairns is an art, no matter how old you are
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## The ross creek cairns
 

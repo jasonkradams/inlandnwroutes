@@ -42,7 +42,7 @@ notes:
 
 # Cedar Lake 5914
 
-*lower 5520’ & upper cedar 5888’ lakes & dome mountain 7552’*
+## lower 5520’ & upper cedar 5888’ lakes & dome mountain 7552’
 
 ## Description
 
@@ -74,7 +74,7 @@ the Cedar Lakes trailhead.
 
 From Libby, head west on Highway 2 for about 3 miles and turn left (south) up Road # 402. Look for milepost
 
-# 27.7.
+## 27.7
 
 ---
 
@@ -96,13 +96,13 @@ Kootenai River & Falls, Ross Creek Cedars, Dome & Sugarloaf loop backpack, and L
 Kaiju Bar & Grill. Henry’s in Libby near Roseaurs, Clark Fork Pantry & Squeeze In in Clark Fork. Eicharts,
 Mr Sub & Jalapeños in Sandpoint In Libby, try the Shed south of town on Hwy 2
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Photo gallery
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Upper cedar lake
 
@@ -120,7 +120,7 @@ Mr Sub & Jalapeños in Sandpoint In Libby, try the Shed south of town on Hwy 2
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## It is close to a thousand feet down with no guard rail
 
@@ -132,6 +132,6 @@ Mr Sub & Jalapeños in Sandpoint In Libby, try the Shed south of town on Hwy 2
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## From the top looking down the valley to the upper and lower lakes

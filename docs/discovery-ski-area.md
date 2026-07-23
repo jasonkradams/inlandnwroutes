@@ -26,7 +26,7 @@ notes:
 
 # Discovery Ski Area
 
-*Discovery ski area philipsburg, mt*
+## Discovery ski area philipsburg, mt
 
 ## of named runs: 67
 

@@ -114,7 +114,7 @@ Click for Current NOAA Weather Conditions
 
 ## The energizer bunny
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Palouse falls from north trail
 
@@ -142,6 +142,6 @@ Click for Current NOAA Weather Conditions
 
 ## Middle palouse falls
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## The palouse river canyon down stream from the falls

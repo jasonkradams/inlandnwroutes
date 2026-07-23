@@ -100,7 +100,7 @@ Pizza Factory, 1313 Club and Muchacho’s Tacos in Wallace
 
 ## Gallery
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## The hub lake trail near the start
 
@@ -109,7 +109,7 @@ Pizza Factory, 1313 Club and Muchacho’s Tacos in Wallace
 Dipper falls along the trail to hub lake. in late summer and fall, the falls cascade off of each other.
 hence there are dozens of ladles, or dippers
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 This image was taken on 10.7.2025. as you can see, the flow is low, But still spectacular to see. Image by
 
@@ -119,23 +119,23 @@ chris herath
 
 ## Hub lake from eagle peak
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Hub lake from the saddle between ward & eagle peaks
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## A seasonal waterfall below mary lake, next to hub lake
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## This was our view for lunch, looking ne
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ## From the same spot above, turn around to see eagle peak
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (6)
 
 We walked up the trail towards the old mine, And this image shows the debris field below eagle peak image by
 
@@ -143,11 +143,11 @@ chris
 
 herath
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (7)
 
 ## On the way down from hub lake, we did the short walk down to hazel lake
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (8)
 
 On the way down, the western red cedars are a delight. This is the largest, hence oldest cedar along the
 

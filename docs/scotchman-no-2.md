@@ -25,7 +25,7 @@ stats:
 
 # Scotchman No 2
 
-*Scotchman no. 2 research natural area 6,989’*
+## Scotchman no. 2 research natural area 6,989’
 
 ## Description
 

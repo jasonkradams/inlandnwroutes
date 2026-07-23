@@ -68,7 +68,7 @@ Good Grief Tavern, Jalapenos and Eicharts in Sandpoint
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## An old image of copper falls on a sunny day in the winter
 

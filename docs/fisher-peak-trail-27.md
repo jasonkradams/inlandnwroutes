@@ -37,7 +37,7 @@ notes:
 
 # Fisher Peak Trail 27
 
-*Fisher peak 7580’ trail #27*
+## Fisher peak 7580’ trail #27
 
 ## Description
 
@@ -94,17 +94,17 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Trout creek cascades Image by chris h
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Fisher peak 7580' image by chris herath
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## The spokane mountaineers enjoying the views from fisher peak image by chris herath
 
@@ -125,7 +125,7 @@ fisher peak image by chris herath
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## The purcell trench from fisher peak
 

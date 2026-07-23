@@ -91,7 +91,7 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint. Burger Express i
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Photo gallery
 
@@ -103,7 +103,7 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint. Burger Express i
 
 ## An ancient hiker admiring the view of the selkirk crest
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Lookout mountain in the distance
 
@@ -119,7 +119,7 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint. Burger Express i
 
 ## A gourmet lunch in the wigs.   image by chris herath
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## A hole in the wall with the wigs
 

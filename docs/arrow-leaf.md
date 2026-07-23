@@ -1,6 +1,6 @@
 # Arrow Leaf
 
-## Arrow leaf
+## Arrow leaf (2)
 
 trailforks widget start[ArrowLeaf](https://www.trailforks.com/trails/arrowleaf-245711/) on
 [Trailforks.com](https://www.trailforks.com/)
@@ -11,7 +11,7 @@ This is a new trail on the south side of Antione Peak from the new Trentwood tra
 
 ## Photo gallary
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ![Picture](assets/images/202204170144.jpg)
 
@@ -19,4 +19,4 @@ This is a new trail on the south side of Antione Peak from the new Trentwood tra
 
 ![Picture](assets/images/202204170142.jpg)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details

@@ -16,7 +16,7 @@ Distribution: Season: Medical use: Poisonous: Edibility: Features: Leaves: Fruit
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ##
 

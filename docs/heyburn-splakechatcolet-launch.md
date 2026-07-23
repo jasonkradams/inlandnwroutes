@@ -24,7 +24,7 @@ stats:
 
 # Heyburn Splakechatcolet Launch
 
-*Heyburn s.p./lake chatcolet launch*
+## Heyburn s.p./lake chatcolet launch
 
 ## Description
 

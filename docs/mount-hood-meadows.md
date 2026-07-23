@@ -26,7 +26,7 @@ notes:
 
 # Mount Hood Meadows
 
-*Mountn hood meadows mount hood, or*
+## Mountn hood meadows mount hood, or
 
 ## of named runs: 85
 

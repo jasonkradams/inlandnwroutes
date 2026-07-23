@@ -40,7 +40,7 @@ notes:
 
 # Granite Lake 4629
 
-*Granite lake, c.m.w. 4629’*
+## Granite lake, c.m.w. 4629’
 
 ## Description
 
@@ -82,11 +82,11 @@ Kaiju Bar & Grill in Libby. For a 1950’s dining experience, stop by Henry’s.
 Roseaurs, Pizza Hut, in Libby, Clark Fork Pantry & Squeeze In in Clark Fork. , Eicharts, Mr Sub & Jalapeños
 in Sandpoint. In Libby, try The Shed
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 To get to granite creek below the falls, we had to work our way thru the flooded forest in early june
 
@@ -126,7 +126,7 @@ To get to granite creek below the falls, we had to work our way thru the flooded
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## A peak 8634’
 
@@ -138,17 +138,17 @@ To get to granite creek below the falls, we had to work our way thru the flooded
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## Vimy ridge and corner of a peak
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## This is a gnarly west face of a peak
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ## A king bolete along the trail IDENTIFIED BY SEEK, iNATURALIST
 

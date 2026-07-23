@@ -37,7 +37,7 @@ notes:
 
 # Skyhanging Valley
 
-*Sky lakes 6230’ & hanging valley upper lake 5966’*
+## Sky lakes 6230’ & hanging valley upper lake 5966’
 
 ## Description
 
@@ -55,7 +55,7 @@ cross into the
 wilderness. In about .3 of a mile Trail #137 continues to the right. In 3 miles you will come to the
 junction with Trail
 
-#360. Bear left (south) for about a mile, You are at the Lower Sky Lake.
+## 360. Bear left (south) for about a mile, You are at the Lower Sky Lake
 
 ---
 
@@ -86,7 +86,7 @@ Granite Lake, and Leigh Lake.
 Henry’s, Pizza Hut, The Shed, Rosaeurs in Libby. Clark Fork Pantry & Squeeze Inn in Clark Fork. Eicharts, Mr
 Sub, Burger Express, Jalapeños in Sandpoint
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Photo gallery
 

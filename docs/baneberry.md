@@ -50,7 +50,7 @@ stats:
 
 # Baneberry
 
-*Baneberry. aka red baneberry*
+## Baneberry. aka red baneberry
 
 ## Description
 

@@ -24,7 +24,7 @@ stats:
 
 # U  L Snow Creek Falls
 
-*L. & u. snow creek falls trail #189*
+## L. & u. snow creek falls trail #189
 
 ## Description
 
@@ -89,11 +89,11 @@ Click for Current NOAA Weather Conditions
 
 ## Lower snow creek falls in spring
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Upper snow creek falls
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## The face of upper snow creek falls in the fall
 
@@ -105,6 +105,6 @@ Click for Current NOAA Weather Conditions
 
 ## What a beautiful winter sight
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Lower snow creek falls

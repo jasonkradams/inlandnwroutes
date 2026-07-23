@@ -36,7 +36,7 @@ notes:
 
 # Moran Basin
 
-*Moran basin trail #993*
+## Moran basin trail #993
 
 ## Description
 

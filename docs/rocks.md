@@ -2,7 +2,7 @@
 
 ---
 
-## Rocks
+## Rocks (2)
 
 ## Click on image to enlarge
 
@@ -10,7 +10,7 @@
 
 ![ROCK FACE OF NORTH TWIN, A.S. IMAGE BY CHRIS H.](assets/images/122220211159a.jpg)
 
-_ROCK FACE OF NORTH TWIN, A.S. IMAGE BY CHRIS H._
+### ROCK FACE OF NORTH TWIN, A.S. IMAGE BY CHRIS H
 
 ![Image](assets/images/122220211217p.jpg "\"LUNAR LANDSCAPE\" ON TOP OF MYRTLE'S TURTLE WHICH IS EAST OF UPPER TWO MOUTH LAKE IMAGE BY CHRIS H.")
 

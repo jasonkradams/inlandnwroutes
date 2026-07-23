@@ -36,7 +36,7 @@ stats:
 
 # Frenchmans Coulee
 
-*Frenchman coulee, washington scablands*
+## Frenchman coulee, washington scablands
 
 ## Description
 
@@ -95,11 +95,11 @@ Lenny’s In Cheney.
 
 ## As you enter the frenchman coulee, this waterfall drops from above
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## A lone rock stands near the entrance to frenchman's coulee
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## A waterfall off the coulee rim falls about half way into the canyon
 
@@ -107,7 +107,7 @@ Lenny’s In Cheney.
 
 ## Near the back of the coulee a waterfall drops a tier then again to the small pond
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Walk around the lake for a place to have lunch and enjoy the sounds and sights
 

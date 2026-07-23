@@ -125,7 +125,7 @@ Jalapeños, Mr, Sub, Eichardt’s in Sandpoint
 
 ## Amy taking an image of little harrison lake
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## The s.e. shore of little harrison lake
 
@@ -137,7 +137,7 @@ Jalapeños, Mr, Sub, Eichardt’s in Sandpoint
 
 ## The hiking crew, taking a break at l.h.l
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## The hiking crew adjusting gear on the ascent up from l.h.l
 

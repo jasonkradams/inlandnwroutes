@@ -33,7 +33,7 @@ notes:
 
 # William Grambauer
 
-*William grambauer mt. 6793’ trail #319*
+## William grambauer mt. 6793’ trail #319
 
 ## Description
 

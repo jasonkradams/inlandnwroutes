@@ -38,7 +38,7 @@ notes:
 
 # Hoodoo Canyon
 
-*Hoodoo canyon & emerald lake trail #17*
+## Hoodoo canyon & emerald lake trail #17
 
 ## Description
 

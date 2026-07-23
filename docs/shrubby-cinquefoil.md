@@ -49,7 +49,7 @@ stats:
 
 # Shrubby Cinquefoil
 
-*Shrubby cinquefoil aka potentilla*
+## Shrubby cinquefoil aka potentilla
 
 ## Description
 

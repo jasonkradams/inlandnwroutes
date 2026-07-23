@@ -35,7 +35,7 @@ stats:
 
 # 13 Mile Canyon Trail 23
 
-*Thirteenmile canyon trail #23*
+## Thirteenmile canyon trail #23
 
 ## Description
 
@@ -79,11 +79,11 @@ NA
 
 ## Its alway fun to ride the keller ferry
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## About 50 miles north of wilbur, is the keller ferry across the columbia river
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Wendy & ken pausing along trail #13's cliffs near the sanpoil river
 
@@ -91,13 +91,13 @@ NA
 
 ## The cliffs along trail #13
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## The hiking crew having lunch in the tall grass
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## Wendy & ken heading back to the cars
 

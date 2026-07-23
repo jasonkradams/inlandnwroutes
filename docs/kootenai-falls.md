@@ -92,7 +92,7 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Kootenai falls. the bowl on the right is very photogenic
 
@@ -104,19 +104,19 @@ Click for Current NOAA Weather Conditions
 
 ## The river rounds one island then another as it winds down its course
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## The mighty kootenai river
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## The river as it winds its way down stream
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## In the very late fall, the river gives up its secret places
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## Opd posing for me as he moves into place for these unusual images
 

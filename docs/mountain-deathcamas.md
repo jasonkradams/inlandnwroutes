@@ -139,6 +139,6 @@ do know of something that we eat that has "death" in it, leave a comment!
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 Image by james colquhoun

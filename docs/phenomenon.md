@@ -2,7 +2,7 @@
 
 ---
 
-## Phenomenon
+## Phenomenon (2)
 
 ## Click on image to enlarge
 
@@ -12,7 +12,7 @@
 
 ## A brocken spectre image by chris herath
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 **Glory** A glory is an optical effect that casts a rainbow halo around the head of an observer’s shadow.
 The

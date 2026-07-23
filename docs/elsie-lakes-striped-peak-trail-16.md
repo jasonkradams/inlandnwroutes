@@ -42,7 +42,7 @@ notes:
 
 # Elsie Lakes Striped Peak Trail 16
 
-*Lower & upper elsie lakes & striped peak 6313’*
+## Lower & upper elsie lakes & striped peak 6313’
 
 ## Description
 
@@ -65,7 +65,8 @@ Walk about .4 miles to the next right turn and head down to Elsie Lake.
 After summiting Striped Peak and hiking SW on Trail #16, do not turn down Trail #106. Instead, continue on
 N.R. Trail
 
-#16 for about two miles to an intersection with 4 roads up on a barren knoll. Take the ORV trail NW that skirts Elsie
+## 16 for about two miles to an intersection with 4 roads up on a barren knoll. Take the ORV trail NW that skirts Elsie
+
 Lakes on their west side. This road is about 1 mile down to the Big Creek Road. Turn right and walk .5 of a
 mile back to Elsie Lake.
 
@@ -101,19 +102,19 @@ north of Kingston. And the Moon Time in CDA
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Moose, lower elsie lake
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Upper elsie lake with trail #16 along the ridge above
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## West end of national recreation trail #16, above lower elsie lake
 
@@ -121,7 +122,7 @@ north of Kingston. And the Moon Time in CDA
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## From west end n.r. trail #16, striped peak back left
 
@@ -131,13 +132,13 @@ north of Kingston. And the Moon Time in CDA
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## On way to striped peak along ridge above trail #16
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ## National recreation trail #16 skirts the south side of striped peak
 

@@ -26,7 +26,7 @@ stats:
 
 # Scenic Lodge Rathdrum Mountain
 
-*Scenic lodge rathdrum mountian 3,658’*
+## Scenic lodge rathdrum mountian 3,658’
 
 ## Description
 

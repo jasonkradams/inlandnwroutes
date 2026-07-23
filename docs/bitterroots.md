@@ -56,11 +56,10 @@ watersheds.
 
 Contact
 
-[(406) 363-7100](tel:(406)%20363-7100) 1801 North First Street Hamilton, MT 59840 [Forest Service Website
-
-](http://www.fs.usda.gov/bitterroot/)Bitterroot National Forest Half of the Bitterroot National Forest in
-southwest Montana and Idaho is dedicated to the largest expanse of continuous wilderness in the lower 48
-states -- the
+[(406) 363-7100](tel:(406)%20363-7100) 1801 North First Street Hamilton, MT 59840
+[Forest Service Website](http://www.fs.usda.gov/bitterroot/)Bitterroot National Forest Half of the
+Bitterroot National Forest in southwest Montana and Idaho is dedicated to the largest expanse of continuous
+wilderness in the lower 48 states -- the
 
 Selway
 

@@ -26,7 +26,7 @@ notes:
 
 # Lake Louise Ski Resort
 
-*Lake louise ski resort lake louise, alberta*
+## Lake louise ski resort lake louise, alberta
 
 ## of named runs: 164
 

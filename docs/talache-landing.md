@@ -73,10 +73,10 @@ In Sandpoint is Mr. Sub, Eichardt’s, Jalapeños, and Burger Express in Dover.
 
 ## Maiden rock stands out next to the beach Its over 800' deep 50' off the point
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 Kayaking isn't the only way to get here You can hike dwon from the blacktail trailhead, but its steep
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Looking s.e. from maiden rock

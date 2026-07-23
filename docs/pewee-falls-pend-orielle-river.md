@@ -25,7 +25,7 @@ stats:
 
 # Pewee Falls Pend Orielle River
 
-*Pewee falls, pend oreille river*
+## Pewee falls, pend oreille river
 
 ## Description
 
@@ -102,7 +102,7 @@ NA
 
 ## The old homestead at the camp grounds and launch
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Ratt island, pend oreille river during low "tide"
 
@@ -118,7 +118,7 @@ NA
 
 ## 200 foot pewee falls
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Pewee falls
 
@@ -131,7 +131,7 @@ NA
 At one time, there used to be a natural arch to paddle under. but the county commissioners thot it would be
 okay to allow jet boat tours. hence the arch is no longer standing
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## One of two caves to paddle into
 
@@ -148,11 +148,11 @@ okay to allow jet boat tours. hence the arch is no longer standing
 On the opposite side of the river is this waterfalls. if you set your paddle down and close your eyes, the
 sounds of the twin falls on each side of the river, produce a stereophonic effect that you can meditate to
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## Boundary dam’s electrical powerlines
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## Boundary dam from the vista house across the river
 
@@ -160,7 +160,7 @@ sounds of the twin falls on each side of the river, produce a stereophonic effec
 
 ## Five turbines making power for seattle
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ## Powerline exit portal
 
@@ -321,9 +321,9 @@ One night i came back from canada and stayed the night at boundary dam. As i was
 the aurora borealis was building. I went around to each campsite and told the campers of the auroras. Not
 one person got up to see them.their loss. Can you find the big dipper in this image?
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (6)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (7)
 
 ## Gardner caves, crawford state park
 

@@ -43,7 +43,8 @@ We have added the areas sheriff’s emergency phone numbers for each trip write 
 info. if an emergency ocurrs, evaluate your circumstances and call only if needed. Altho this trail seems
 long, it is a beautiful trail to hike on the hottest day of the year. Most of Trail
 
-#308 is
+## 308 is
+
 surrounded by large Hemlocks and Cedars.
 
 For the most part, this trail skirts the Upper Priest River. Along your hike or mt. bike, there are numerous
@@ -95,7 +96,7 @@ Burger Express in Priest River.
 
 ## A section of the american falls trail #308
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## American falls, aka, upper priest river falls
 

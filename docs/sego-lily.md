@@ -50,7 +50,7 @@ notes:
 
 # Sego Lily
 
-*Sego lily. aka mariposa lily*
+## Sego lily. aka mariposa lily
 
 ## Description
 

@@ -62,11 +62,11 @@ Trails End Brewery, Moon Time, Franklins, and Mexican Food Factory
 
 ![Picture](assets/images/5132025306p-2.jpg)
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## A residence north of popcorn island
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## A novel way to keep the island clean
 
@@ -74,7 +74,7 @@ Trails End Brewery, Moon Time, Franklins, and Mexican Food Factory
 
 ## Be aware
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## The view from atop popcorn island, looking se
 
@@ -82,10 +82,10 @@ Trails End Brewery, Moon Time, Franklins, and Mexican Food Factory
 
 ## It really works
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## Picnic table on the top
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## Popcorn island from the se

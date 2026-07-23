@@ -39,7 +39,7 @@ notes:
 
 # Crystal Lake
 
-*Crystal lake, rochat divide, idaho*
+## Crystal lake, rochat divide, idaho
 
 ## Description
 
@@ -88,19 +88,19 @@ of Kingston, and Moon Time n CDA
 
 ## The old bridge on the main trail
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Fishing is great at crystal lake
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Beautiful fall colors, with lone sub-alpine fir
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## The shore line, fall colors are spectacular
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## The trail over the rochat divide is up hill
 
@@ -130,7 +130,7 @@ of Kingston, and Moon Time n CDA
 
 ## The 2015 clean up crew on the rochat ridge
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## One of the crew walking out the main trail to crystal lake
 

@@ -92,7 +92,7 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 The cabinet mountain wilderness from the pillick trail. The point left of center is ibex peak 7676'
 

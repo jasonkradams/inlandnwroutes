@@ -34,7 +34,7 @@ stats:
 
 # Silver Falls Sp
 
-*Silver falls state park, oregon*
+## Silver falls state park, oregon
 
 ## Description
 
@@ -83,7 +83,7 @@ South Falls Lodge
 
 ## The lushness of this area alone is worth the walk
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## North falls 136'
 
@@ -93,13 +93,13 @@ South Falls Lodge
 
 ![Picture](assets/images/11302022848p.jpg)
 
-## North falls 136'
+## North falls 136' (2)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## North falls from the trail in the above image
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Most all the trail are outstanding
 
@@ -111,11 +111,11 @@ South Falls Lodge
 
 ## Close up of upper north falls
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
-## North falls 136'
+## North falls 136' (2) (2)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## Close up of the bottom of north falls
 
@@ -127,7 +127,7 @@ South Falls Lodge
 
 ## Did i mention lushness, this trail is exceptional
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ## Silver creek
 

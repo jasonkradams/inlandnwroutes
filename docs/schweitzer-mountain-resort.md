@@ -26,7 +26,7 @@ notes:
 
 # Schweitzer Mountain Resort
 
-*Schweitzer mountain resort sandpoint, id*
+## Schweitzer mountain resort sandpoint, id
 
 ## of named runs: 92
 

@@ -1,6 +1,6 @@
 # Hiking From Here
 
-# [Hiking from here](https://www.hikingfromhere.com/index.html)
+## [Hiking from here](https://www.hikingfromhere.com/index.html)
 
 Welcome to my website dedicated to hiking for those who live in or near Lewiston and Moscow in Idaho, or
 Clarkston and Pullman in Washington – 100 miles near, as the crow flies, most of the time.

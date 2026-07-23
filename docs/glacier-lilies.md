@@ -59,7 +59,7 @@ notes:
 
 # Glacier Lilies
 
-*Glacier lilies. aka fawn lilies, dogtooth violet*
+## Glacier lilies. aka fawn lilies, dogtooth violet
 
 ## Description
 
@@ -88,7 +88,7 @@ slope of the Sierra Nevada in central California.
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Glacier lilies as the are about to open up
 
@@ -103,6 +103,6 @@ on your hike, Be sure to check out below the snow
 
 ## On the upper trail to leigh lake
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## When glacier lilies are abundant, they are beautiful & edible

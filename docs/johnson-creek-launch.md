@@ -24,7 +24,7 @@ stats:
 
 # Johnson Creek Launch
 
-*Johnson creek recreation area launch*
+## Johnson creek recreation area launch
 
 ## Description
 

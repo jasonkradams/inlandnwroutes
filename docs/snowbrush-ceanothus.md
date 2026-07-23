@@ -46,7 +46,7 @@ notes:
 
 # Snowbrush Ceanothus
 
-*Snowbrush ceanothus. aka wild lilac*
+## Snowbrush ceanothus. aka wild lilac
 
 ## Description
 
@@ -89,6 +89,6 @@ actinomycetes on its roots.
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ##

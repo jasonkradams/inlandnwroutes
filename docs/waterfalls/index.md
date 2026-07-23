@@ -128,7 +128,7 @@ face it drops off of.
 
 Hawk creek falls s.p., washington
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## FAN
 
@@ -137,7 +137,7 @@ spread the falls to many times it’s original width.
 
 Lower snow creek falls, american selkirks, idaho
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ---
 
@@ -184,7 +184,7 @@ Tiered waterfalls tend to fall in a line and each tier can be of varying heights
 
 Hog canyon falls, washington
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Segmented
 
@@ -217,7 +217,7 @@ Chutes resemble rapids in their descent.
 
 Lower lone lake falls, stevens peak, idaho
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## Slide
 

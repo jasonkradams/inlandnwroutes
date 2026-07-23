@@ -37,7 +37,7 @@ notes:
 
 # Lunch Peak  Mount Pend Orielle
 
-*Lunch peak 6412’ & Mount pend oreille 6755’ trail #67*
+## Lunch peak 6412’ & Mount pend oreille 6755’ trail #67
 
 ## Description
 
@@ -76,7 +76,7 @@ The only hazard on this hike, is wandering off the trail as you gawk at the inte
 
 Mr. Sub, Eichardt’s, Jalapeños and the Burger Express.
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Photo gallery
 
@@ -92,7 +92,7 @@ Mr. Sub, Eichardt’s, Jalapeños and the Burger Express.
 
 ## Along trail #67 there are three scree slopes to cross
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## The view from along trail #67. in the distance is the american selkirks image by chris herath
 
@@ -113,7 +113,7 @@ chris herath
 
 ## As the trail breaks out of the woods The trail comes up towards mount pend oreille
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Trail #67 as it starts its climb toward mount pend oreille image by chris herath
 
@@ -133,7 +133,7 @@ chris herath
 
 ## After lunch, a nap is always a great idea
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## To the east are the spectacular views of the cabinet mountain wilderness image by chris herath
 
@@ -142,7 +142,7 @@ chris herath
 looking east are the two highest peaks in the cabinet mountain wilderness THE PEAKS ARE A PEAK 8634v AND
 SNOWSHOE PEAK 8738v image by chris herath
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## To the west is the american selkirks
 
@@ -150,17 +150,17 @@ SNOWSHOE PEAK 8738v image by chris herath
 
 As we left the summit, the views of pend oreille lake and wildflowers were everywhere image by chris herath
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ## This image is from 1995. lupine lined the trail on this day
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (6)
 
 ## Lupine, beargrass and other wildflowers line the south facing trail
 
 On our way down from the trailhead, this view required us to photograph it image by chris herath
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (7)
 
 ## This image is the same area, of the july 2023, lightening creek fire
 

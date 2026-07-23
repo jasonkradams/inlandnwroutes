@@ -100,27 +100,27 @@ grass, and turkeybeard.
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 The great bear grass blooms on mount spokane june, 2016 this bloom created millions of bear grass flowers
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Along the trail to cliff lake in the c.m.w
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Along the cliff lake trail in the c.m.w
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## Old bear grass along the state line trail The lake behind is upper st.regis lake
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## The great bloom on mount spokane
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 While on a scramble of pyramid peak in the american selkirks, i had the team pose among the bear grass
 pyramid

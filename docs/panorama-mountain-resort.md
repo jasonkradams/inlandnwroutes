@@ -26,7 +26,7 @@ notes:
 
 # Panorama Mountain Resort
 
-*Panorama mountain resort panorama, b.c*
+## Panorama mountain resort panorama, b.c
 
 ## of named runs: 135
 

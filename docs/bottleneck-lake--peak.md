@@ -38,7 +38,7 @@ notes:
 
 # Bottleneck Lake  Peak
 
-*Bottleneck lake & peak 6923’ trails #185-187*
+## Bottleneck lake & peak 6923’ trails #185-187
 
 ## Description
 
@@ -93,7 +93,7 @@ Lakes & Peak.
 
 Eichardt’s, Mr Sub, Burger Express, Jalapeños in Sandpoint.
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Photo gallery
 
@@ -101,7 +101,7 @@ Eichardt’s, Mr Sub, Burger Express, Jalapeños in Sandpoint.
 
 ## On the trail to bottleneck
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## First site of lower bottleneck lake
 
@@ -127,7 +127,7 @@ Eichardt’s, Mr Sub, Burger Express, Jalapeños in Sandpoint.
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Upper bottleneck lake & peak
 

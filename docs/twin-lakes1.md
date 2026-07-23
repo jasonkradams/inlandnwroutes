@@ -35,7 +35,7 @@ stats:
 
 # Twin Lakes1
 
-*Twin lakes, washington*
+## Twin lakes, washington
 
 ## Description
 

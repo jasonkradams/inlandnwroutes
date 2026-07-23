@@ -55,7 +55,7 @@ notes:
 
 # Camas
 
-*Small camas*
+## Small camas
 
 ## Description
 

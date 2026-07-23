@@ -36,7 +36,7 @@ notes:
 
 # Revett Lake
 
-*Revett lake, id-mt boarder trail #9*
+## Revett lake, id-mt boarder trail #9
 
 ## Description
 
@@ -119,7 +119,7 @@ Saloon, Muchacho’s Tacos, Wallace Brewing Co., Radio Brewing, the Snake Pit, a
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ![Picture](assets/images/p327.png)
 

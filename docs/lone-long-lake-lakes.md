@@ -100,7 +100,7 @@ You can park at the area parking lot, or drive the road by the large boulder up 
 where, by an opening, the road takes a sharp right turn. Park here. DO NOT DRIVE OR WALK UP THE DOMINANT
 ROAD. You will see a trail sign in a tree due south. Not up the sharp turn.
 
-## Hazards
+## Hazards (2)
 
 The trail below the headwall is very rocky and slick when wet. From the lake to the Upper Sanctuary, the
 trail is faint, rugged and braided.
@@ -116,34 +116,34 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 Saloon,Wallace Brewing Co., and Muchacho’s Tacos in Wallace. Radio Brewing in Kellogg, the Snake Pit north
 of Kingston, and Moon Time in CDA.
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## The lone lake drainage from the glidden lakes ridge
 
 I tried a new technic and below are the results. by doing this, i can take time to examine the lay of the
 land in more detail
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ![Picture](assets/images/5192026416p.jpg)
 
 ![Picture](assets/images/5192026417p.jpg)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ## The nw face of stevens peak above lone lake
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (6)
 
 ## West fork willow creek waterfalls
 
@@ -151,7 +151,7 @@ land in more detail
 
 ## These three cascades are from the 500+’ west fork willow creek cascading waterfall
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (7)
 
 ![Picture](assets/images/p115.png)
 
@@ -177,15 +177,15 @@ land in more detail
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (8)
 
 ## Fall colors on the trail to lone lake are some of the best
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (9)
 
 ## An intermittent waterfall on the trail above the middle valley
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (10)
 
 ## The smi 2019 trail crew with lone lake & stevens peak in background
 
@@ -197,7 +197,7 @@ land in more detail
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (11)
 
 ## Super trail hero/boss lynn smith after a successful clean up
 
@@ -215,7 +215,7 @@ land in more detail
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (12)
 
 ## Late fall freeze below the waterfalls
 
@@ -247,7 +247,7 @@ land in more detail
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (13)
 
 ## High winds above the east wall ( willow ridge),of the upper sanctuary
 
@@ -259,11 +259,11 @@ land in more detail
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (14)
 
 ## Unusual folded rocks east of "long lake"
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (15)
 
 ## Newly weds at lone lake on 11.1.2020
 

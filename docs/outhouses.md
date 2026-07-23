@@ -2,7 +2,7 @@
 
 ---
 
-## Outhouses
+## Outhouses (2)
 
 ## Click on image to enlarge
 
@@ -10,7 +10,7 @@
 
 ![THE OUTHOUSE AT SHORTY PEAK A.S.](assets/images/12212021813p.jpg)
 
-_THE OUTHOUSE AT SHORTY PEAK A.S._
+### THE OUTHOUSE AT SHORTY PEAK A.S
 
 ![Image](assets/images/12212021814p.jpg)
 

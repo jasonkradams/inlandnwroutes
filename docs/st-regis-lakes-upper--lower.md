@@ -107,7 +107,7 @@ stevens lakes
 
 ![Picture](assets/images/p303.png)
 
-## The state line ridge from above st. regis lake. see below.
+## The state line ridge from above st. regis lake. see below
 
 ![Picture](assets/images/p304.png)
 

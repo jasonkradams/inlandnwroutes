@@ -59,19 +59,19 @@ Trails End Brewery, Mexican Food Factory, Franklins Hoagies, and Moon Time
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## The mica bay campground
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Mica bay campground
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Looking out from the base of mica bay
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## The shore line in fall colors
 
@@ -79,6 +79,6 @@ Trails End Brewery, Mexican Food Factory, Franklins Hoagies, and Moon Time
 
 ## Looking north from the main body of the lake. Canfield butte is off in the distance center
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## A lucky day of smooth paddling

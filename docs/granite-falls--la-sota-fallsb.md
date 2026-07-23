@@ -24,7 +24,7 @@ stats:
 
 # Granite Falls  La Sota Fallsb
 
-*Granite falls & la sota falls aka upper granite falls*
+## Granite falls & la sota falls aka upper granite falls
 
 ## Description
 

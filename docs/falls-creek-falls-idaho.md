@@ -24,7 +24,7 @@ stats:
 
 # Falls Creek Falls Idaho
 
-*Falls creek falls, st. joe river road, idaho*
+## Falls creek falls, st. joe river road, idaho
 
 ## Description
 
@@ -70,6 +70,6 @@ JoJos, Beer & Wine
 
 ![Picture](assets/images/11052021818p.gif)
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ##

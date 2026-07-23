@@ -24,7 +24,7 @@ stats:
 
 # Medical Lake Launch
 
-*Medical lake & west medical lake launch*
+## Medical lake & west medical lake launch
 
 ## Description
 

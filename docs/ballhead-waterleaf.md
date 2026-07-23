@@ -111,6 +111,6 @@ mountains.
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ---

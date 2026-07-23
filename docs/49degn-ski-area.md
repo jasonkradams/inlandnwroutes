@@ -26,7 +26,7 @@ notes:
 
 # 49Degn Ski Area
 
-*49°n ski area chewelah, wa*
+## 49°n ski area chewelah, wa
 
 ## of named runs: 86
 

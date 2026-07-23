@@ -27,7 +27,7 @@ stats:
 
 # Crystal Falls
 
-*Crystal falls, washington*
+## Crystal falls, washington
 
 ## Description
 

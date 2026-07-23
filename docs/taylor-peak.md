@@ -33,7 +33,7 @@ notes:
 
 # Taylor Peak
 
-*Taylor peak 6307’ trial #320*
+## Taylor peak 6307’ trial #320
 
 ## Description
 

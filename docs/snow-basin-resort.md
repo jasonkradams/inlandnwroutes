@@ -26,7 +26,7 @@ notes:
 
 # Snow Basin Resort
 
-*Snow basin resort huntsville, ut*
+## Snow basin resort huntsville, ut
 
 ## of named runs: 104
 

@@ -1,6 +1,6 @@
 # Washington Trails Association
 
-## Washington trails association
+## Washington trails association (2)
 
 *Washington Trails Association mobilizes hikers and everyone who loves the outdoors to explore, steward and
 champion trails and public lands. WTA protects trails through lobbying and grassroots advocacy on issues

@@ -50,7 +50,7 @@ notes:
 
 # Elephants Head
 
-*Elephant's head*
+## Elephant's head
 
 ## Description
 

@@ -16,7 +16,7 @@ Subscribe to Newsletter
 
 ## 24-november-2020 newsletter issue #1
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 Nature Enthusiasts,
 
@@ -178,7 +178,7 @@ Lake. Selkirks Selkirk Crest High Traverse. Selkirks Mount Roothaan & Chimney Ro
 Lakes. Selkirks Harrison Lake. Selkirks Leigh Lake, CMW Roman Nose Lakes & Peak. Selkirks Cabinet Divide
 Trail
 
-#360. CMW
+## 360. CMW
 
 Cliff Lake, Chicago Peak, St. Paul Peak
 

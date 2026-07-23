@@ -85,11 +85,9 @@ Ice Hockey Match between Canada and the USA
 
 Canada - Forest as far as the eye can see
 
-Did you know that Canada is taking part in NASA's Lunar Gateway project? [Read more about Canada's role in
-the Moon exploration here.
-
-](https://www.asc-csa.gc.ca/eng/astronomy/moon-exploration/canada-role.asp)Weird, Fun and Interesting Facts
-About Canada
+Did you know that Canada is taking part in NASA's Lunar Gateway project?
+[Read more about Canada's role in the Moon exploration here.](https://www.asc-csa.gc.ca/eng/astronomy/moon-exploration/canada-role.asp)Weird,
+Fun and Interesting Facts About Canada
 
 - [Canada](https://hikebiketravel.com/category/canada/)
 

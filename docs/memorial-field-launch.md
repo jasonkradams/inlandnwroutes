@@ -24,7 +24,7 @@ stats:
 
 # Memorial Field Launch
 
-*War memorial field launch, sandpoint*
+## War memorial field launch, sandpoint
 
 ## Description
 

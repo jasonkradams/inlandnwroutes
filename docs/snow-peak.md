@@ -36,7 +36,7 @@ notes:
 
 # Snow Peak
 
-*Snow peak 6760’wildlife management area trail # 55*
+## Snow peak 6760’wildlife management area trail # 55
 
 ## Description
 
@@ -49,7 +49,8 @@ mile, bears right at the "Y". Most of the beginning of the trail is in a dense f
 clearing offers the first view of Snow Peak’s granite prominence off in the distance. At about 3.6 miles the
 trail breaks out of the woods on a saddle. At the saddle, Spotted Louis Trail
 
-#104
+## 104
+
 bears right. Stay left on Trail #55 for about .8 of a mile to Snow Peak. As you get close to the peak, you
 will notice the fire lookout tower about 1240 feet atop Snow Peak. The faces of Snow Peak are home to
 Mountain Goats. PLEASE be aware of their presents, and do not disturb them, or let them get near you or your
@@ -100,7 +101,8 @@ about 25 miles to the Idaho Montana boarder.
 At the border, the road becomes F.R. #50. At about 5 miles, turn right onto F.R.#339. Stay on 339 until you
 come to F.R.
 
-#50 again. Turn left and drive about 2.5 miles. Turn right onto F.R. #509, and turn left onto F.R. #1258 towards the
+## 50 again. Turn left and drive about 2.5 miles. Turn right onto F.R. #509, and turn left onto F.R. #1258 towards the
+
 Mammoth Springs Campground. At Mammoth Springs, turn left onto F.R. #201 towards Pineapple Saddle for
 about 3.5 miles to the Snow Peak Trailhead.
 
@@ -108,7 +110,8 @@ Wallace, avery, st joe river route In Wallace, head towards the Pulaski Tunnel T
 Continue on the Moon Pass Road #456 to the junction with F.R. #50 just east of Avery. Turn left on #50, also
 known as the St. Joe River Road. Continue on
 
-#50 past
+## 50 past
+
 the Nugget Creek Campground. In about 5.5 miles turn right onto F.R. #509. Stay on #509 to the junction with
 F.R. #1258. You will pass the Mammoth Springs Campgrounds, and turn onto F.R. #201 for about 3.5 miles to
 the Snow Peak Trailhead.

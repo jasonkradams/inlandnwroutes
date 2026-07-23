@@ -50,7 +50,7 @@ notes:
     Is extremely rough' and cars wont make it to the trailhead. The walk up the road to the trailhead Is
     about 2.4 miles. and will save your vehicles from damage. Please use caution
 
-    *cliff lake, chicago peak 7018’, st. paul peak 7714’*
+## cliff lake, chicago peak 7018’, st. paul peak 7714’
 
 ## Description
 
@@ -145,7 +145,7 @@ tall pnt trees)
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ![Picture](assets/images/p452.png)
 
@@ -159,7 +159,7 @@ tall pnt trees)
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 St.paul peak on far left, with elephant peak in the distance. rock peak on far right after the first snow
 
@@ -167,7 +167,7 @@ St.paul peak on far left, with elephant peak in the distance. rock peak on far r
 
 ## Scrambling st. paul peak with rock peak left hiker
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## The view looking north. dead center is snowshoe and a peaks
 
@@ -181,7 +181,7 @@ Chicago peak from st paul peak Top left along chicago peak's ridge is the trailh
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## Cliff lake, below st. paul peak, chicago peak in back
 
@@ -211,7 +211,7 @@ Chicago peak from st paul peak Top left along chicago peak's ridge is the trailh
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## Elephant peak 7938’ from the summit of rock peak image by chris h. 8.3.2022
 
@@ -221,8 +221,8 @@ Chicago peak from st paul peak Top left along chicago peak's ridge is the trailh
 
 ## St. paul lake from st. paul peak
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ## The spokane mountaineers heading to the trailhead, with chicago peak 7018'
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (6)

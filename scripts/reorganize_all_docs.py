@@ -88,6 +88,8 @@ def process_body_lines(lines, max_len=108):
     curr_block = []
     curr_type = None  # 'para', 'list'
     curr_indent = ''
+    seen_headings = {}
+    last_h_level = 0
 
     def flush_block():
         nonlocal curr_block, curr_type, curr_indent
@@ -123,7 +125,7 @@ def process_body_lines(lines, max_len=108):
         curr_type = None
         curr_indent = ''
 
-    for line in lines:
+    for idx, line in enumerate(lines):
         if line.strip().startswith('```'):
             flush_block()
             in_code = not in_code
@@ -135,6 +137,56 @@ def process_body_lines(lines, max_len=108):
             continue
 
         stripped = line.strip()
+
+        # Escape starting numbers (e.g. 1912.) to avoid MD029 ordered list mismatch
+        if re.match(r'^\d+\.\s+', stripped):
+            m_num = re.match(r'^(\d+)\.', stripped)
+            if m_num and int(m_num.group(1)) > 50:
+                stripped = re.sub(r'^(\d+)\.', r'\1\\.', stripped)
+
+        # Handle heading space formatting (MD018), multiple H1s (MD025), trailing punct (MD026), and duplicates (MD024)
+        if stripped.startswith('#'):
+            flush_block()
+            in_admonition = False
+            heading_line = re.sub(r'^(#+)([^#\s])', r'\1 \2', stripped)
+            
+            # Convert secondary # into ## (MD025)
+            if heading_line.startswith('# '):
+                if last_h_level > 0:
+                    heading_line = '#' + heading_line
+                else:
+                    last_h_level = 1
+                    
+            # Remove trailing punctuation (MD026)
+            heading_line = re.sub(r'^(#+\s+.*?)[.:;!]+\s*$', r'\1', heading_line)
+            
+            h_match = re.match(r'^(#+)\s+(.*)$', heading_line)
+            if h_match:
+                hashes = h_match.group(1)
+                h_text = h_match.group(2).strip()
+                h_level_num = len(hashes)
+                
+                # Check for MD001 (heading level increment skipping)
+                if last_h_level > 0 and h_level_num > last_h_level + 1:
+                    h_level_num = last_h_level + 1
+                    hashes = '#' * h_level_num
+                
+                last_h_level = h_level_num
+                
+                base_h = h_text.lower()
+                if base_h in seen_headings:
+                    seen_headings[base_h] += 1
+                    count = seen_headings[base_h]
+                    heading_line = f"{hashes} {h_text} ({count})"
+                else:
+                    seen_headings[base_h] = 1
+                    heading_line = f"{hashes} {h_text}"
+
+            if blocks and blocks[-1] != '':
+                blocks.append('')
+            blocks.append(heading_line)
+            blocks.append('')  # Ensure blank line below heading (MD022)
+            continue
 
         # Handle admonition blocks (!!! info "Title")
         if line.startswith('!!!'):
@@ -152,6 +204,10 @@ def process_body_lines(lines, max_len=108):
                 flush_block()
                 in_admonition = False
                 indent = ''
+            elif stripped.startswith('—') or stripped.startswith('- ') or stripped.startswith('>') or stripped.startswith('* '):
+                flush_block()
+                blocks.append('    ' + stripped)
+                continue
             else:
                 indent = '    '
         else:
@@ -161,6 +217,34 @@ def process_body_lines(lines, max_len=108):
             flush_block()
             blocks.append('')
             continue
+
+        # Check if line is an italic caption directly under an image tag
+        prev_line_is_img = False
+        if idx > 0:
+            prev_stripped = lines[idx - 1].strip()
+            if re.search(r'^\s*!\[.*\]\(.*\)\s*$', prev_stripped):
+                prev_line_is_img = True
+
+        # Convert standalone emphasis lines into proper headings (MD036) unless it's a caption under an image
+        if not prev_line_is_img and re.match(r'^\s*[\*_]{1,2}[^*_]+[\*_]{1,2}\.?\s*$', stripped):
+            if not stripped.startswith('**Elevation') and not stripped.startswith('**Distance'):
+                flush_block()
+                text = stripped.strip('*_').rstrip('.')
+                h_level_num = 2 if last_h_level == 1 else max(2, min(4, last_h_level + 1))
+                hashes = '#' * h_level_num
+                heading_line = f"{hashes} {text}"
+                h_lower = text.lower()
+                if h_lower in seen_headings:
+                    seen_headings[h_lower] += 1
+                    heading_line = f"{hashes} {text} ({seen_headings[h_lower]})"
+                else:
+                    seen_headings[h_lower] = 1
+                if blocks and blocks[-1] != '':
+                    blocks.append('')
+                blocks.append(heading_line)
+                blocks.append('')  # Ensure blank line below heading (MD022)
+                last_h_level = h_level_num
+                continue
 
         is_special = (stripped.startswith('#') or stripped.startswith('|') or 
                       stripped.startswith('---') or stripped.startswith('!!!') or
@@ -212,6 +296,22 @@ def process_file(filepath):
             fm_lines = ['---'] + clean_fm + ['---']
             body_lines = lines[end_fm + 1:]
 
+    # Convert Setext headings (Line\n--- or Line\n===) to ATX headings (## Line)
+    cleaned_body = []
+    i = 0
+    while i < len(body_lines):
+        line = body_lines[i]
+        nxt = body_lines[i+1] if i + 1 < len(body_lines) else ''
+        if line.strip() and not line.strip().startswith('#') and not line.strip().startswith('|') and not line.strip().startswith('!!!'):
+            if nxt.strip() == '---' or nxt.strip() == '===':
+                cleaned_body.append(f"## {line.strip()}")
+                i += 2
+                continue
+        cleaned_body.append(line)
+        i += 1
+        
+    body_lines = cleaned_body
+
     # Clean body content
     body_str = '\n'.join(body_lines)
     
@@ -219,6 +319,10 @@ def process_file(filepath):
     body_str = body_str.replace('\u200b', '').replace('\xa0', ' ')
     body_str = re.sub(r'(\w)…(\w)', r'\1… \2', body_str)
     body_str = re.sub(r'(\w)\.\.\.(\w)', r'\1... \2', body_str)
+
+    # Clean link spaces (MD039)
+    body_str = re.sub(r'\[\s+([^\]]+?)\s*\]\(', r'[\1](', body_str)
+    body_str = re.sub(r'\[\s*([^\]]+?)\s+\]\(', r'[\1](', body_str)
     
     # 2. Normalize image paths relative to filepath
     rel_dir = os.path.relpath(os.path.dirname(filepath), DOCS_DIR)
@@ -261,6 +365,14 @@ def process_file(filepath):
     
     # 4. Process body lines with block joining & smart wrapping
     raw_body = [l.rstrip() for l in body_str.splitlines()]
+    
+    # Ensure H1 top-level heading exists (MD041), except for blog posts
+    is_blog_post = filepath.replace('\\', '/').startswith('docs/blog/posts/')
+    has_h1 = any(l.strip().startswith('# ') for l in raw_body)
+    if not has_h1 and not is_blog_post:
+        base_title = os.path.splitext(os.path.basename(filepath))[0].replace('-', ' ').title()
+        raw_body = [f"# {base_title}", ""] + raw_body
+        
     new_body = process_body_lines(raw_body, max_len=108)
             
     # Combine frontmatter and body

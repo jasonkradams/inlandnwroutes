@@ -29,7 +29,7 @@ stats:
 
 # Hike Rev D
 
-*St joe lake 6472’ illinois peak 7690’*
+## St joe lake 6472’ illinois peak 7690’
 
 ## Description
 

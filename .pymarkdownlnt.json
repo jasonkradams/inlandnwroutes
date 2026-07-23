@@ -10,10 +10,6 @@
       "line_length": 120,
       "heading_line_length": 120,
       "code_block_line_length": 120
-    },
-    "MD033": {
-      "enabled": true,
-      "allowed_elements": "div, span, iframe, p, br, a, img, table, tr, td, th, thead, tbody, !--"
     }
   }
 }

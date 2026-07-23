@@ -39,7 +39,7 @@ notes:
 
 # Moose Mountain Loop Hike
 
-*Moose mountain 6543' loop hike*
+## Moose mountain 6543' loop hike
 
 ## Description
 
@@ -49,7 +49,7 @@ the trailhead. At the trailhead is a map showing the areas attractions and route
 don’t make much sense, so take an image of the map to refer to on your walk. For the first .5 mile the trail
 climbs gently to the first junction. Turn left and in a short distance is a turn off to Lake Estelle Trail
 
-#36. See OPTION #1 below for info on this spur trail.
+## 36. See OPTION #1 below for info on this spur trail
 
 In 1.5 miles is Moose Lake. I guarantee you, there will always be a place to pitch a tent. And your tent
 will be on soft grasses. Moose Lake sits in a cirque with magnificent views of its rocky terrain. To the SW
@@ -114,7 +114,7 @@ the top.
 Lake Estelle, Gem Lake, Pend Orielle Lake, Lunch Peak Fire Lookout & Mount Pend Orielle Peak, Char Falls,
 and Scotchman’s Peak.
 
-## Hazards
+## Hazards (2)
 
 The trail to Moose Lake is easy, but refer to your trail map picture of the route if needed. The walk up to
 Moose Mountain isn moderate on a nice trail. After spending some time on top looking at the the magnificent
@@ -126,7 +126,7 @@ Trail #213 and turn right (NNW) on Trail #24, to the main junction and left tom 
 Squeeze Inn and the Clark Fork Pantry on Clark Fork. Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in
 Sandpoint.
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Photo gallery
 
@@ -170,7 +170,7 @@ wilderness (middle range), and the cabinet mountain wilderness in the back groun
 
 ## Trail #213 as it heads down to the cars
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 Way off to the west is the american selkirks. can you spot chimney rock? this ridge line is your descent
 route

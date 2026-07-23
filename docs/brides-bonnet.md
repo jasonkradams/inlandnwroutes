@@ -47,7 +47,7 @@ notes:
 
 # Brides Bonnet
 
-*Bride's bonnet. aka queen's cup*
+## Bride's bonnet. aka queen's cup
 
 ## Description
 

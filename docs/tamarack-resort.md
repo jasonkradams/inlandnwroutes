@@ -26,7 +26,7 @@ notes:
 
 # Tamarack Resort
 
-*Tamarack resort tamarack, id*
+## Tamarack resort tamarack, id
 
 ## of named runs: 50
 

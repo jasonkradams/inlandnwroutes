@@ -70,7 +70,7 @@ notes:
 
 # Birdsfoot Trefoil
 
-*Bird'sfoot trefoil*
+## Bird'sfoot trefoil
 
 ## Description
 
@@ -80,6 +80,6 @@ notes:
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ![Picture](assets/images/772022737p.jpg)

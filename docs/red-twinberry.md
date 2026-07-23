@@ -57,7 +57,7 @@ notes:
 
 # Red Twinberry
 
-*Red Twinberry, AKA Utah Honeysuckle*
+## Red Twinberry, AKA Utah Honeysuckle
 
 ## Description
 

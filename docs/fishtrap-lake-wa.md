@@ -81,11 +81,11 @@ Fishtrap Lake Resort, Lenny’s in Cheney
 
 ## Turtles
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ---
 

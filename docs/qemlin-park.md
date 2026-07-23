@@ -34,7 +34,7 @@ notes:
 
 # Qemlin Park
 
-*Q'emiln park*
+## Q'emiln park
 
 ## Description
 
@@ -93,13 +93,13 @@ Click for Current NOAA Weather Conditions
 
 ## Trailhead kiosk. notice the pronunciation of the park on the bottom
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## This trail sign explains the trails at the "y"
 
 ## The next three images are the trail. to the climbing area
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Going left is to the climbing area. going right is to the spokane river
 
@@ -107,13 +107,13 @@ Click for Current NOAA Weather Conditions
 
 ![Picture](assets/images/2021116-28-jpeg-1.jpg)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ![Picture](assets/images/2021116-31-jpeg-1.jpg)
 
 ## A climbers trail to the cliffs
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## One of many quality climbing walls
 
@@ -121,11 +121,11 @@ Click for Current NOAA Weather Conditions
 
 ## A route to above the cliffs where the protection is done
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## Some hard routes
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ## Two climbers. one is belaying the climber on the wall
 
@@ -133,13 +133,13 @@ Click for Current NOAA Weather Conditions
 
 ## Some of the climbers trails are great walks. but watch out for poison ivy
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (6)
 
 ## A trail away from the climbing area to the spokane river
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (7)
 
 ## A new foot bridge to the spokane river
 
@@ -151,7 +151,7 @@ Click for Current NOAA Weather Conditions
 
 ![Picture](assets/images/2021116-41-jpeg-1.jpg)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (8)
 
 ## Spokane river’s south channel avista’s power plant, with intermittent over flow waterfall
 

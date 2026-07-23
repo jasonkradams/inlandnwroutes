@@ -69,7 +69,7 @@ Take I-90 east of CDA to Exit 22, and head towards Harrison, Idaho. Just past th
 area, turn east (left) up the Beauty Bay Road and campground for about 3 miles to the small trailhead. Look
 for a sign Trial
 
-#257.
+## 257
 
 ## Cool things close by
 

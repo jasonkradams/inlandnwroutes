@@ -71,9 +71,9 @@ You may find many downed trees along this trail, so be careful.
 
 Eichart's,, Burger Express, Mr Sub, and Jalapeños ion Sandpoint
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Photo gallery
 

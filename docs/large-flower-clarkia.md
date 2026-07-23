@@ -33,7 +33,7 @@ stats:
 
 # Large Flower Clarkia
 
-*Large-flower clarkia. aka pinkfairies*
+## Large-flower clarkia. aka pinkfairies
 
 ## Description
 

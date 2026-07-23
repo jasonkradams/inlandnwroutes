@@ -38,7 +38,7 @@ notes:
 
 # Shoshone Medical Center Wellness Trail
 
-*Shoshone medical center’s wellness trail*
+## Shoshone medical center’s wellness trail
 
 ## Description
 
@@ -97,7 +97,7 @@ of Kingston, and Moon Time in CDA
 
 ## Spring on this trail is spectacular
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## A section of the trail above the picnic table    6.30.2022
 

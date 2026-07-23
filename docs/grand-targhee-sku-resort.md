@@ -26,7 +26,7 @@ notes:
 
 # Grand Targhee Sku Resort
 
-*Grand targhee ski resort alta, wyoming*
+## Grand targhee ski resort alta, wyoming
 
 ## of named runs: 95
 

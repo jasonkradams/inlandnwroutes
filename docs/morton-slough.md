@@ -24,7 +24,7 @@ stats:
 
 # Morton Slough
 
-*Morton slough boat launch*
+## Morton slough boat launch
 
 ## Description
 

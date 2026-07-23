@@ -26,7 +26,7 @@ notes:
 
 # Mount Hood Ski Bowl
 
-*Mount hood ski bowl government camp, or*
+## Mount hood ski bowl government camp, or
 
 ## of named runs: 69/36
 

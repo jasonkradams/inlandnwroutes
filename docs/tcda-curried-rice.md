@@ -1,6 +1,6 @@
 # Tcda Curried Rice
 
-## Tcda curried rice
+## Tcda curried rice (2)
 
 ---
 

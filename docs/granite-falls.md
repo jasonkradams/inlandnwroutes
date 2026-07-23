@@ -25,7 +25,7 @@ stats:
 
 # Granite Falls
 
-*Granite creek falls*
+## Granite creek falls
 
 ## Description
 

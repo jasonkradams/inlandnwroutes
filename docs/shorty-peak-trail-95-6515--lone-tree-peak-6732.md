@@ -84,7 +84,7 @@ Mr, Sub, Eichardt’s , & Jalapeños, Burger Express in Sandpoint
 
 ## All the images are from the chris herath images
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 The view of the american selkirks from the shorty peak lookout. notice the outhouse. ya gotta plan ahead at
 
@@ -94,7 +94,7 @@ this lookout
 
 ## Shorty peak lookout from the trail
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Shorty peak fire lookout rental
 
@@ -106,11 +106,11 @@ this lookout
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## The three tallest peak are in the lion head group
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## Chris heating up my homemade chicken & rice soup i made
 
@@ -118,7 +118,7 @@ this lookout
 
 The short hike to lone tree peak 6732'. Shorty peak 6515', the purcell trench, and cascade ridge
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## Shorty peak and lookout from lone tree peak 6732'
 
@@ -130,7 +130,7 @@ The short hike to lone tree peak 6732'. Shorty peak 6515', the purcell trench, a
 
 ## Chic taking in the view of the american selkirks
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ## Chic sitting on the deck admiring the view
 

@@ -25,7 +25,7 @@ stats:
 
 # Dry Falls Sun Lakes Sp
 
-*Dry Falls at Sun Lakes State Park*
+## Dry Falls at Sun Lakes State Park
 
 ## Description
 
@@ -106,23 +106,23 @@ the dry
 
 falls area
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Some of the cleaning crew enjoying the views near the gazebo
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## As the crowd gathered to watch us, many people pitched in
 
 ## The next two images were of the crews cleaning the valley floor below the visitors center
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## We had ropes from above so the cleaners could slid the garbage bags down to the valley floor
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## The plunge pool below dry falls rim at twilight
 

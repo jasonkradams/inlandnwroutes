@@ -39,7 +39,7 @@ stats:
 
 # Escure Ranch
 
-*Escure ranch & towell falls*
+## Escure ranch & towell falls
 
 ## Description
 
@@ -125,16 +125,16 @@ Harvest Resturant in Spangle. Lenny’s in Cheney
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Towell falls in november
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Upper towell falls
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Summer time in the scabs can be hot

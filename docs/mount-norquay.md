@@ -26,7 +26,7 @@ notes:
 
 # Mount Norquay
 
-*Mount norquay ski area*
+## Mount norquay ski area
 
 ## of named runs: 60
 

@@ -28,7 +28,7 @@ notes:
 
 # Fisher Peak
 
-*Fisher peak 9336’, b.c., canada*
+## Fisher peak 9336’, b.c., canada
 
 ## Description
 
@@ -107,7 +107,7 @@ Click for Current NOAA Weather Conditions
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Fisher peak in winter. east of cranbrook, b.c., from fisher peak, idaho
 
@@ -131,7 +131,7 @@ Click for Current NOAA Weather Conditions
 
 ## The long steep scree slope just before the summit pitch
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Chic taking a break before the summit. see below
 

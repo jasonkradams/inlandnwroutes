@@ -100,7 +100,7 @@ Burger Express, Stagger Inn
 
 ![Picture](assets/images/3192022443p.jpg)
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 Roosevelt grove of ancient cedars scenic area
 

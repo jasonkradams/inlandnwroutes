@@ -35,7 +35,7 @@ notes:
 
 # Marie Creek
 
-*Marie creek trail #241*
+## Marie creek trail #241
 
 ## Description
 
@@ -94,15 +94,15 @@ Moon Time, Franklins Hoagies, the Mexican Food Factory, and the Trails End Brewe
 
 ## Part of the marie creek trail that the spokane mountaineers rebuilt
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## A bridge over marie creek
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Not only is trail work fun, its a lot of work
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## A section of the trail we worked on a years ago this section is just before the meadows
 
@@ -121,7 +121,7 @@ are places to camp
 
 ## Trail #241 nearing the skitwich creek
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## High winds above marie creek
 

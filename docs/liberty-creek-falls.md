@@ -102,11 +102,11 @@ Click for Current NOAA Weather Conditions
 
 ## The bidge across liberty creek in the cedar forest
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Liberty creek from the split creek trail
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## One of the foot bridges along the main trail loop
 
@@ -114,7 +114,7 @@ Click for Current NOAA Weather Conditions
 
 ## The cedar grove conservation area
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## The bridge at the cedar grove
 
@@ -122,8 +122,8 @@ Click for Current NOAA Weather Conditions
 
 ## The libert lake regional park waterfalls
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## Walking out at twilight. the main road on the left is sprague ave

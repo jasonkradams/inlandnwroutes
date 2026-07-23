@@ -46,7 +46,7 @@ stats:
 
 # Service Berry Saskatoon
 
-*Saskatoon. aka asakatoon serviceberry, western serviceberry, juneberry*
+## Saskatoon. aka asakatoon serviceberry, western serviceberry, juneberry
 
 ## Description
 
@@ -63,10 +63,10 @@ Fall color is orange to red and takes place for long periods.
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Saskatoon aka serviceberry grows all over our region
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ![Picture](assets/images/11252021119.jpg)

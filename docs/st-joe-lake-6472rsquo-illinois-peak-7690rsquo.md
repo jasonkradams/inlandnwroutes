@@ -34,7 +34,7 @@ notes:
 
 # St Joe Lake 6472Rsquo Illinois Peak 7690Rsquo
 
-*St joe lake 6472’ illinois peak 7690’*
+## St joe lake 6472’ illinois peak 7690’
 
 ## Description
 

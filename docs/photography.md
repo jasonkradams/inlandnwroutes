@@ -200,7 +200,7 @@ to do with the quality of your images.
 As in all digital cameras, you must reset your specialized setting back to neutral before shooting under
 different lighting.
 
-### Some more of my 84+ essentials
+## Some more of my 84+ essentials
 
 ***Tripod*** A Tripod is without a doubt the most valuable of all of your photographic accessory.
 

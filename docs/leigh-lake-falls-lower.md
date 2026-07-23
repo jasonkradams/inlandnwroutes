@@ -55,7 +55,8 @@ shore to a rock beach.
 
 From Libby, drive south on Highway 2 towards Glacier National Park for about 8 miles to the Bear Creek Road
 
-#278. Turn
+## 278. Turn
+
 right (west) for three miles to FR#867. Turn right (west) for about 5 miles to FR #4786. Drive up 4786 for
 about 2 miles to the trailhead. Notice along this last stretch of road, that there is pull off to the left
 to a very primitive campsite. If it’s occupied, you can camp at the parking area.
@@ -87,7 +88,7 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ![Picture](assets/images/11132021821.jpg)
 
@@ -108,7 +109,7 @@ Click for Current NOAA Weather Conditions
 Above the vertical section of the trail is this view below the trail the sights and sounds are well worth
 the effort
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Leigh creek falls with the west wall above the lake
 
@@ -120,7 +121,7 @@ the effort
 
 ## All too soon the view of the falls fades, and then you are at the lake
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 You may wonder where all this water comes from All the benches above the lake hold some degree of snow year
 

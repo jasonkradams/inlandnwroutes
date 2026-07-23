@@ -33,7 +33,7 @@ stats:
 
 # Lions Ferry To Palouse Falls
 
-*Lyons ferry s.p. to palouse falls s.p*
+## Lyons ferry s.p. to palouse falls s.p
 
 ## Description
 

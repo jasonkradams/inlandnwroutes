@@ -78,4 +78,4 @@ special events, have opportunities for ski lessons, and more!
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)

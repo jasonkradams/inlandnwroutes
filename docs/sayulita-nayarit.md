@@ -69,19 +69,19 @@ the jungle to San Poncho, take the bus north to Chacala
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Make shift bridge into town. this is where the horsemen are
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## The locals love to play baseball
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## And after the game they do a little betting on the cock fights
 
@@ -117,13 +117,13 @@ the jungle to San Poncho, take the bus north to Chacala
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## The other side of town
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## Hand mixed concrete building one cinder block at a time
 
@@ -135,7 +135,7 @@ the jungle to San Poncho, take the bus north to Chacala
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ## Jelapa
 
@@ -147,23 +147,23 @@ the jungle to San Poncho, take the bus north to Chacala
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (6)
 
 San pancho is nicer than sayulita in some ways. plaza del sol was built as a vision that never came to
 reality
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (7)
 
 ## Village of chacala on hour or two north of sayulita has a nice beach
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (8)
 
 ## Standing in the same spot as the photo above the village of chacala is not as nice
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (9)
 
 ## Odette's "chiles" & margaritas

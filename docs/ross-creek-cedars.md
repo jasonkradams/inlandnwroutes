@@ -31,7 +31,7 @@ notes:
 
 # Ross Creek Cedars
 
-*Ross creek cedars scenic area. trail #405*
+## Ross creek cedars scenic area. trail #405
 
 ## Description
 
@@ -87,11 +87,11 @@ Click for Current NOAA Weather Conditions
 
 ![Picture](assets/images/2020971222-copy.jpg)
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 This braided log was a beautiful part of the cedar, but someone cut it out a few years ago. what a bummer
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## My friend erwin by a big cedar. erwin is almost as old as this cedar
 
@@ -101,11 +101,11 @@ This braided log was a beautiful part of the cedar, but someone cut it out a few
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## The main trail thru the scenic area
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ![Picture](assets/images/11072021310p.jpg)
 
@@ -125,7 +125,7 @@ This braided log was a beautiful part of the cedar, but someone cut it out a few
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## The ross creek cairns
 

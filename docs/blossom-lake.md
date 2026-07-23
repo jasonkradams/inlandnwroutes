@@ -44,7 +44,7 @@ notes:
 
 # Blossom Lake
 
-*Lower & upper blossom lakes, id-mt boarder This page was rewritten and published on 8.2.2024*
+## Lower & upper blossom lakes, id-mt boarder This page was rewritten and published on 8.2.2024
 
 ## Description
 
@@ -104,7 +104,7 @@ Revett Lake, the Coeur d"Alene River Trail #20, Granite Peak, and The Idaho Cent
 
 The Snake Pit, the Sprag Pole Bar & Museum.
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Photo gallery
 

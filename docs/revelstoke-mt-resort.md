@@ -26,7 +26,7 @@ notes:
 
 # Revelstoke Mt Resort
 
-*Revelstoke mountain resort revelstoke, b.c*
+## Revelstoke mountain resort revelstoke, b.c
 
 ## of named runs: 75
 

@@ -65,7 +65,7 @@ are shades of light purple to bright pink.
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Cliff penstemon on shasta butte
 

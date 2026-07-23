@@ -61,7 +61,8 @@ above the lake, a fault is obvious, and it's where Fault Lake gets its name.
 From Sandpoint, drive north on 95 10.5 miles to Samuel. There is a gas mart just after the signs to the Pack
 River Road
 
-#231. Drive 12 miles to a junction with FR #293, and bear left (west). At a switchback take a secondary road straight
+## 231. Drive 12 miles to a junction with FR #293, and bear left (west). At a switchback take a secondary road straight
+
 ahead to the trailhead.
 
 ## Option #1
@@ -89,11 +90,11 @@ Jalapeños, Mr. Sub, Burger Express, in Sandpoint
 
 [Click for Current NOAA Weather Conditions](http://www.nws.noaa.gov/wtf/udaf/area/?site=otx)
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## The huckleberries were great along trail #59 below the lake
 
@@ -111,7 +112,7 @@ Jalapeños, Mr. Sub, Burger Express, in Sandpoint
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Even a trickle of falling water , makes a hike more enjoyable
 
@@ -129,7 +130,7 @@ Jalapeños, Mr. Sub, Burger Express, in Sandpoint
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## The fall colors around fault lake
 

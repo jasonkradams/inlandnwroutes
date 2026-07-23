@@ -42,7 +42,7 @@ stats:
 
 # Large Flowered Triteleia
 
-*Large-floered triteleia. aka wild hyacinth*
+## Large-floered triteleia. aka wild hyacinth
 
 ## Description
 

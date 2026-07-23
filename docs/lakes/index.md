@@ -11,11 +11,11 @@ tags:
 !!! info "Quick Facts: Lakes & Waterways"
 
     - **Major Ranges:** Selkirk Crest, Cabinet Mountains Wilderness, Bitterroot Range, Coeur d'Alene
-      Mountains
+    Mountains
     - **Lake Types:** High-alpine glacial tarns, alpine cirque basins, lowland lakes, river reservoirs
     - **Activities:** Day hiking, alpine scrambling, backcountry camping, fishing, kayaking & paddling
     - **Featured Guides:** Beehive Lake, Harrison Lake, Fault Lake, Wanless Lake, Upper & Lower Stevens
-      Lakes
+    Lakes
 
 ## Description
 

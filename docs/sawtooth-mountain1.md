@@ -34,7 +34,7 @@ stats:
 
 # Sawtooth Mountain1
 
-*Sawtooth mountain 6758’*
+## Sawtooth mountain 6758’
 
 ## Description
 
@@ -72,7 +72,7 @@ Scotchman Peaks Wilderness, Highway 56, and the Cabinet Mountain Wilderness
 
 Clark Fork Pantry& Squeeze In, in Clark Fork. Jalapeños, Mr. Sub, Burger Express, & Eichardt’s in Sandpoint
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Photo gallery
 
@@ -88,19 +88,19 @@ Clark Fork Pantry& Squeeze In, in Clark Fork. Jalapeños, Mr. Sub, Burger Expres
 
 ## The group after climbing a great scree slope, on way to sawtooth
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Sawtooth mountain from the high ridge, 600verts
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## A spectacular view that few have ever seen, from sawtooth mountain
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## Nw of sawtooth mountain has a spectacular view of a glacial cirque
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## On the way to the top of sawtooth peak, sandy pointed out scotchman peak
 
@@ -108,7 +108,7 @@ Clark Fork Pantry& Squeeze In, in Clark Fork. Jalapeños, Mr. Sub, Burger Expres
 
 ## The descent route from sawtooth mountain. billiard table mt. top center
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ## Billiard table mountain 6622" on the left with star peak 6167' lookout on the right
 
@@ -116,7 +116,7 @@ Clark Fork Pantry& Squeeze In, in Clark Fork. Jalapeños, Mr. Sub, Burger Expres
 
 ## Star peak from the side of sawtooth mountain
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (6)
 
 ## From the summit of sawtooth, spar peak stands to the north
 

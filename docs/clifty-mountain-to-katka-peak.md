@@ -35,7 +35,7 @@ notes:
 
 # Clifty Mountain To Katka Peak
 
-*Clifty mountain 6705’ to katka peak 6208’*
+## Clifty mountain 6705’ to katka peak 6208’
 
 ## Description
 
@@ -58,7 +58,8 @@ Libby, and the Kootenai River that will catch your eye. Below you on the summit,
 From Naples, drive 1.2 miles to the Twentymile Creek road. Turn right (East) for about 10 miles to a
 junction with F.R.
 
-#274, which climbs to the Black Mountain Lookout. At about 4 miles, the trailhead is located on a tight left turn a
+## 274, which climbs to the Black Mountain Lookout. At about 4 miles, the trailhead is located on a tight left turn a
+
 ridge top switchback.
 
 ## Cool things close by

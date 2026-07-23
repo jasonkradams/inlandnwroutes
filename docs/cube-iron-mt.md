@@ -38,7 +38,7 @@ notes:
 
 # Cube Iron Mt
 
-*Cube iron mountain 7110’. trail #459 & 450*
+## Cube iron mountain 7110’. trail #459 & 450
 
 ## Description
 
@@ -95,7 +95,7 @@ NA
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Trail #459 towards cube iron mountain
 
@@ -103,7 +103,7 @@ NA
 
 ## Cube iron mountain 7110' from above the lakes
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## The lakes basin below cube iron mountain
 

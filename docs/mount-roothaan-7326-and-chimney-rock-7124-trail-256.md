@@ -37,7 +37,7 @@ notes:
 
 # Mount Roothaan 7326 And Chimney Rock 7124 Trail 256
 
-*Mt. roothaan 7326' and chimney rock 7124' trail #256*
+## Mt. roothaan 7326' and chimney rock 7124' trail #256
 
 ## Description
 
@@ -160,7 +160,7 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
 ## Pack river from the trailhead bridge
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Along the west trail to mount roothaan
 
@@ -168,7 +168,7 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
 ## Chimney rock from the eastern pack river trail
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Fall colors below the rock, are spectacular
 
@@ -176,13 +176,13 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
 ## An aerial view of mount roothaan & chimney rock Flown by pilot galen
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Gunsight peak, mt.roothaan, chimney rock & Silver dollar peak from roman nose peak
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## The american selkirks with mt roothan and chimney rock Image is from the wigs trail
 
@@ -190,7 +190,7 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
 ## A 1957 summit of chimney rock by spokane mountaineers
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## The east face of chimney rock, after the huge rock slab fell
 
@@ -206,7 +206,7 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
 ## Chimney rock from mount roothaan
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ## A spokane mountaineers climbing party heading to the summit
 

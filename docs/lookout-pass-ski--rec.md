@@ -26,7 +26,7 @@ notes:
 
 # Lookout Pass Ski  Rec
 
-*Lookout pass ski & recreation area*
+## Lookout pass ski & recreation area
 
 ## of named runs: 52
 
@@ -66,7 +66,7 @@ continuously operating ski lodge in Idaho, will continue to offer full services.
 
 ### Phase I Expansion: HAS BEEN APPROVED BY THE USFS (May 19, 2017) and the first trail was cut in Oct. 2017.  More development on the 1st Phase is now ongoing
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ### Phase I of the expansion plan has undergone the process required by the National Environmental Protection Act and the U.S. Forest Service has approved Phase One through a Record of Decision signed by IPNF Forest Supervisor Mary Farnsworth and Lolo NF Supervisor Tim Garcia, during the week of May 15th
 
@@ -74,9 +74,9 @@ continuously operating ski lodge in Idaho, will continue to offer full services.
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ### Conceptual Phase II
 
@@ -94,11 +94,11 @@ projects timeline, as soon as possible.**
 
 ## The history of lookout pass ski area
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## Info sign telling of lookout's history
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## The original lodge at lookout pass skin area
 
@@ -114,11 +114,11 @@ projects timeline, as soon as possible.**
 
 ## Early skiing at lookout. that's a ropetow
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ## Parking next to hwy 10 (now i-90) in the 40's
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (6)
 
 ## Lookouts lodge in the 40's
 

@@ -26,7 +26,7 @@ notes:
 
 # Apex Mountain Resort
 
-*Apex mountain resort, pentictin, b.c., canada*
+## Apex mountain resort, pentictin, b.c., canada
 
 ## of named runs: 69/36 night skiing
 

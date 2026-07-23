@@ -40,7 +40,7 @@ notes:
 
 # Two Mouth Lakes To The Wigwams High Traverse
 
-*Two mouth lakes to the wigwams high traverse trails 286*
+## Two mouth lakes to the wigwams high traverse trails 286
 
 ## Description
 
@@ -102,7 +102,7 @@ Ridge, The Wigwams, and the Two Mouth Lakes Basin.
 
 Jalapeños, Mr. Sub, Burger ExpressEichardt’s in Sandpoint
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Photo gallery
 
@@ -112,13 +112,13 @@ Because of logging, the actual trail starts up this logging road. the granite do
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Harrison peak from along the trail to two mouth lakes area
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## A high prominence above kent lake that you get to scramble
 
@@ -134,29 +134,29 @@ Because of logging, the actual trail starts up this logging road. the granite do
 
 ## Harrison peak and other peaks including the twins of the seven sisters
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## The approach to near the camp site
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## A side ridge along the east to west ridge
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 The previous image ridge on the left In the center is the first lunar landscape on top of myrtles turtle
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (6)
 
 ## Near the camp site with harrison peak & some of the seven sisters
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (7)
 
 ## Chris coming up the last section to the camp site
 
@@ -164,9 +164,9 @@ The previous image ridge on the left In the center is the first lunar landscape 
 
 ## Our dinner site with a sunset, above kent lake 7.23-24.2022 Image by vanette leighty
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (8)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (9)
 
 ## The wigwams at sunset from the camp site
 
@@ -178,7 +178,7 @@ The previous image ridge on the left In the center is the first lunar landscape 
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (10)
 
 ## A south to north ridge along the east to north route
 
@@ -208,13 +208,13 @@ The previous image ridge on the left In the center is the first lunar landscape 
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (11)
 
 ## The route is along the rock face on left in the grass
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (12)
 
 ## A hole in the summit block
 
@@ -230,7 +230,7 @@ The previous image ridge on the left In the center is the first lunar landscape 
 
 ## Lion head and its nearby peaks, looking nne
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (13)
 
 ## Along the wigs route, with the wall back left
 
@@ -240,13 +240,13 @@ The previous image ridge on the left In the center is the first lunar landscape 
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (14)
 
 ## The wigs are at the end of this ridge line
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (15)
 
 ## Chris walking up to the wigwams
 

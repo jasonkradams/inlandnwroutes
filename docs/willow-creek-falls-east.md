@@ -25,7 +25,7 @@ stats:
 
 # Willow Creek Falls East
 
-*Willow creek fall East*
+## Willow creek fall East
 
 ## Description
 
@@ -80,7 +80,7 @@ Click for Current NOAA Weather Conditions
 
 ![Picture](assets/images/11102021309.jpg)
 
-## 1st WATERFALL
+## 1st WATERFALL (2)
 
 ![Picture](assets/images/61420221137a.jpg)
 

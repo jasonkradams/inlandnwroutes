@@ -1,6 +1,6 @@
 # Instant Birthday Cake
 
-## Instant birthday cake
+## Instant birthday cake (2)
 
 ---
 

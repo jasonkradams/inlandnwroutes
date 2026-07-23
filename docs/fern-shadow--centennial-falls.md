@@ -25,7 +25,7 @@ stats:
 
 # Fern Shadow  Centennial Falls
 
-*Fern & Shadow falls trail #513*
+## Fern & Shadow falls trail #513
 
 ## Description
 
@@ -73,6 +73,6 @@ Click for Current NOAA Weather Conditions
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Fern falls

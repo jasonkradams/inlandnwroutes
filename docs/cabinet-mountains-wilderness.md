@@ -225,7 +225,7 @@ future generations of tomorrow. Have a safe and memorable visit!
 
 ![Picture](assets/images/2152022818p.jpg)
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ![Picture](assets/images/2152022814p.jpg)
 

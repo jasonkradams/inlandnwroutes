@@ -33,7 +33,7 @@ If you bring a boat you must have it inspected for invasive species at Apgar pri
 The boat inspection opens at 7:00 AM and is located across the street from the boat ramp.
 
 Information specific to Kintla CG. can be found here:
-[<https://www.nps.gov/applications/glac/cgstatus/camping>\_detail.cfm?cg=Kintla%20Lake ](https://www.nps.gov/applications/glac/cgstatus/camping_detail.cfm?cg=Kintla%20Lake)
+[<https://www.nps.gov/applications/glac/cgstatus/camping>\_detail.cfm?cg=Kintla%20Lake](https://www.nps.gov/applications/glac/cgstatus/camping_detail.cfm?cg=Kintla%20Lake)
 The [Park CG. status](https://www.nps.gov/applications/glac/cgstatus/cgstatus.cfm) website page tells you by
 day and hour when the CG. filled up in the past. The Ranger station at the North entrance was able to
 confirm how many available spots there were at Kintla before we headed up the road.
@@ -104,10 +104,10 @@ option too.
 
 ## A group of spokane mountaineers paddling the south shore
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Ya just can't beat a day like this
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## At the back of the lake is a small camp site and the trail to upper kintla lake

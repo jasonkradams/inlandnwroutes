@@ -37,7 +37,7 @@ headwall cascades/falls across the valley to the SE.
 When you get to the headwall falls, above is the 500 ‘ of cascades. Be aware: any of the falls below the
 lake are very dangerous to access. use a long telephoto and tripod to capture them. About .5 miles up Trail
 
-#138 is a lot of waterfall noise, but few phot opts, due to brush.
+## 138 is a lot of waterfall noise, but few phot opts, due to brush
 
 See stevens lakes for east willow creek, and willow creek from the junction to mullan.
 
@@ -105,7 +105,7 @@ Click for Current NOAA Weather Conditions
 
 ![Picture](assets/images/dscn0041.jpg)
 
-## This is the 500' cascading waterfall below lone lake.
+## This is the 500' cascading waterfall below lone lake
 
 ![Picture](assets/images/6172022849p.jpg)
 

@@ -26,7 +26,7 @@ notes:
 
 # Jackson Hole Ski Resort
 
-*Jackson hole mountain resort teton village, wy*
+## Jackson hole mountain resort teton village, wy
 
 ## of named runs: 130
 

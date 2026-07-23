@@ -26,7 +26,7 @@ notes:
 
 # Bridger Bowl
 
-*Bridger bowl. bozeman, mt*
+## Bridger bowl. bozeman, mt
 
 ## of named runs: 75
 

@@ -42,7 +42,7 @@ notes:
 
 # Gentian
 
-*Gentian. aka. closed bottle gentian*
+## Gentian. aka. closed bottle gentian
 
 ## Description
 
@@ -69,7 +69,8 @@ gentian](https://www.britannica.com/plant/great-yellow-gentian), is found in Eur
 the source of a flavouring in liqueurs.
 
 Other species, such as the fringed gentians, formerly included in *Gentiana,* are now referred to as
-*Gentianella*
+
+### Gentianella
 
 (about 125 species) and *Gentianopsis* (about 15 species). The gentian family, Gentianaceae, includes 87
 

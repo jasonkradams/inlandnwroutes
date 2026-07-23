@@ -2,7 +2,7 @@
 
 ---
 
-## Streams to rivers
+## Streams to rivers (2)
 
 ## Click on image to enlarge
 
@@ -10,7 +10,7 @@
 
 ![SPOKANE RIVER CATALDO](assets/images/12192021557p_orig.jpeg)
 
-_SPOKANE RIVER CATALDO_
+### SPOKANE RIVER CATALDO
 
 ![Image](assets/images/12192021558p.jpg)
 

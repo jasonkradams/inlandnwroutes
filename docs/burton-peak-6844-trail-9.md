@@ -61,7 +61,8 @@ From the Kootenai National Wildlife Refuge, drive 1.3 miles to the Myrtle Creek 
 (west) for 2 miles to the junction with FR #2411. Turn right for 6.3 miles to another junction . Turn left
 (SW) onto FR
 
-#2692 for 1.5
+## 2692 for 1.5
+
 miles to the trailhead.
 
 Along the roads up, pull over to each sharp switchback for incredible views of the Purcell Trench, the
@@ -82,7 +83,7 @@ Jalapeños, Eichardts, Burger Express, Mr. Sub! All in Sandpoint
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Photo gallery
 
@@ -90,7 +91,7 @@ Jalapeños, Eichardts, Burger Express, Mr. Sub! All in Sandpoint
 
 ## The "auto tour road" next the the channel, from the road to burton peak
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## The kootenai national wildlife refuge from the myrtle peak road
 

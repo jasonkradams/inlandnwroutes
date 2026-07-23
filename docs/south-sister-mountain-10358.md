@@ -38,7 +38,7 @@ stats:
 
 # South Sister Mountain 10358
 
-*South sister mountain 10,358'*
+## South sister mountain 10,358'
 
 ## Description
 
@@ -101,17 +101,17 @@ NA
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Teena climbing on south sister
 
 ## Walking the caldera's rim, south sister
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Walking the caldera's rim with mount bachelor in the distance
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Images coming.   to contribute, contact chic
 

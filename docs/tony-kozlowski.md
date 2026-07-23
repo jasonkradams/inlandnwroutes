@@ -2,14 +2,14 @@
 
 ---
 
-## Tony kozlowski
+## Tony kozlowski (2)
 
 Tony & melody kozlowski live in mccall, and travels the american south west in search of images to add to
 his collection. They are avid mt. biker, hiker and skier.
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ##
 
@@ -17,7 +17,7 @@ his collection. They are avid mt. biker, hiker and skier.
 
 ##
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ##
 
@@ -33,8 +33,8 @@ his collection. They are avid mt. biker, hiker and skier.
 
 ##
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ##
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)

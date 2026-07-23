@@ -27,6 +27,8 @@ We have added the areas sheriff’s emergency phone numbers for each trip write 
 ## Option #3
 ---
 
+# Shefoot Mountain
+
 ## Directions
 
 This 4.8 mile single track secondary trail follows a steep ridge from the Moon Pass Road 456 to Ward Creek

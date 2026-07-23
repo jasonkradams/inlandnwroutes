@@ -77,7 +77,7 @@ Moon Time, The Mexican Food Factory, Franklins Hoagies, and the Trails End Brewe
 
 ## Mineral ridge trail between caribou cabin and silver tip view point
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Silver tip viewpoint
 
@@ -93,7 +93,7 @@ Moon Time, The Mexican Food Factory, Franklins Hoagies, and the Trails End Brewe
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## The wind storm from 1.2021, there were 91 trees down across the trail
 

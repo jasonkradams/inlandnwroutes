@@ -48,7 +48,7 @@ goes onto the famous Selkirk Granite. Soon the granite leads you to the NE end o
 
 !!! warning "Trail Condition Notice"
     - This trail's conditions have decayed substantially in recent seasons. Please allot more uphill hiking
-      time.
+    time.
     - Downhill walking is slightly more difficult.
 
 ## Route Options & Scrambles
@@ -84,7 +84,7 @@ to the campsite area at Harrison Lake, work your way carefully to the north down
 greenery to the Upper Pack River. Walk back out to the lake to marvel at the route you just completed before
 heading to the trailhead.
 
-*Note: None of Option 3 is on any established trail, so yell "yahoo!" along the way.*
+### Note: None of Option 3 is on any established trail, so yell "yahoo!" along the way
 
 ## Directions
 

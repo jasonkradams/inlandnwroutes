@@ -26,7 +26,7 @@ notes:
 
 # Brundage Mountain Resort
 
-*Brundage mountain resort mccall, id*
+## Brundage mountain resort mccall, id
 
 ## of named runs: 68
 
@@ -52,7 +52,7 @@ Trips on 18,000 acres of backcountry terrain, guided snowmobile tours, snowmobil
 
 ## Light up the night on new years Image by mel & tony kozlowski
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 The top of blue bird express with the seven devils in the distance image by mel & tony kozlowski
 
@@ -62,11 +62,11 @@ The top of blue bird express with the seven devils in the distance image by mel 
 
 This image is of the lower section of run... temptation IMAGE BY MEL & TONY KOZLOWSKI, McCALL, IDAHO
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Powder on lower temptation Image by mel & tony kozlowski
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## The top of brundage mountain ski resort image by mel & tony kozlowski
 
@@ -78,11 +78,11 @@ This image is of the lower section of run... temptation IMAGE BY MEL & TONY KOZL
 
 ## The ski patrols hut on top of brundage image by mel & tony kozlowski
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## The top of brundage near the top of centennial chair Image by mel & tony kozlowski
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## The pond skim at the end of the season image by mel & tony kozlowski
 

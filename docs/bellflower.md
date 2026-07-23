@@ -38,7 +38,7 @@ stats:
 
 # Bellflower
 
-*Idaho bellflower*
+## Idaho bellflower
 
 ## Description
 
@@ -54,6 +54,6 @@ distinguish between closely related species.
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ![Picture](assets/images/772022825p.jpg)

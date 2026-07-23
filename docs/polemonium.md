@@ -44,7 +44,7 @@ notes:
 
 # Polemonium
 
-*Jacob's ladder. aka. polemonium*
+## Jacob's ladder. aka. polemonium
 
 ## Description
 
@@ -67,6 +67,6 @@ Height: to 15 inches.
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details

@@ -39,7 +39,7 @@ notes:
 
 # Cda River Tr 20
 
-*COEUR d’ALENE RIVER TRAIL #20*
+## COEUR d’ALENE RIVER TRAIL #20
 
 ## Description
 
@@ -78,7 +78,7 @@ Saloon, Wallace Brewing Co., Radio Brewing, the Snake Pit, and Moon Time.
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ![Picture](assets/images/212022356p.jpg)
 
@@ -86,7 +86,7 @@ Saloon, Wallace Brewing Co., Radio Brewing, the Snake Pit, and Moon Time.
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Up steam from the west trailhead
 

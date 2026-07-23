@@ -21,7 +21,7 @@ stats:
 
 # Rieley Creek Launch
 
-*Riley creek recreation area*
+## Riley creek recreation area
 
 ## Description
 

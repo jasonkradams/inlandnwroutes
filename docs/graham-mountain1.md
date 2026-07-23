@@ -34,7 +34,7 @@ stats:
 
 # Graham Mountain1
 
-*Graham mountain 5727’ trail #41*
+## Graham mountain 5727’ trail #41
 
 ## Description
 

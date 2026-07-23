@@ -24,7 +24,7 @@ stats:
 
 # American Falls
 
-*Ameri. aka u. priest river falls trail #308*
+## Ameri. aka u. priest river falls trail #308
 
 ## Description
 

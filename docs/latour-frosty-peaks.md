@@ -39,7 +39,7 @@ notes:
 
 # Latour Frosty Peaks
 
-*Latour baldy 6232’ & frosty peak*
+## Latour baldy 6232’ & frosty peak
 
 ## Description
 
@@ -96,13 +96,13 @@ Radio Brewing in Kellogg. The Snake Pit north of Kingston
 
 ## Latour baldy 6232’
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## The descent south of latour baldy, with latour peak left center in clouds
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Mountain kittentale. a rare wildflower find
 

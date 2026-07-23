@@ -37,7 +37,7 @@ notes:
 
 # Little Ibex Lake
 
-*Little ibex lake, trails # 978 & 980*
+## Little ibex lake, trails # 978 & 980
 
 ## Description
 
@@ -52,7 +52,8 @@ bridge over the Middle Fork Bull River, Where there is a small parking area for 
 This hike starts out heading up Trail #972 that eventually leads to Snowshoe Lake. In a short distance,
 Trail
 
-#978 turns
+## 978 turns
+
 right and starts it’s relentless climb along side of Middle Fork Bull River. Look for a brown trail stake
 with hard to read numbers. At about 4 miles, look for a cairn and Trail #978 that drops down steeply to the
 Middle Fork Bull River.
@@ -91,7 +92,8 @@ bridge
 This hike is a true backcountry adventure, please use caution on all aspects of this hike, especially up
 Trail
 
-#980 to
+## 980 to
+
 the lake.
 
 Trail #980 has what felt like hundreds of downfall to climb over. And it’s steep.
@@ -121,7 +123,7 @@ map only
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 At about 4 miles in, you will come to this trail junction. turn right, down hill to the middle fork bull
 river
@@ -152,11 +154,11 @@ little ibex lake. along the way. this tree caught our interest
 As we walked out to the lake thru the meadows, i noticed something familiar about the rocks. can you spot a
 rock formation similar to one in the american selkirks? see answer at the end of this write up
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## One of the views from our lunch spot
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## As we ate lunch, i noticed the two different types of rock that makes up this mountain
 
@@ -173,7 +175,7 @@ this image
 
 When i first saw this rock structure, i had imagined it being a camouflage fortress in a james bond movie
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## This is ibex peak from a peak, c.m.w. image by chris h
 

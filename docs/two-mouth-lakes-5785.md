@@ -41,7 +41,7 @@ notes:
 
     A friend told me that this hike has a new trailhead, .25 miles beyond the old trailhead
 
-    *Two mouth lakes 5785'. trail #268*
+## Two mouth lakes 5785'. trail #268
 
 ## Description
 
@@ -105,11 +105,11 @@ Jalapeños, Eichardt's, Burger Express, Mr. Sub in Sandpoint
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## The peak above kent lake from lower teo mouth lake. image by chris herath
 
@@ -120,11 +120,11 @@ Jalapeños, Eichardt's, Burger Express, Mr. Sub in Sandpoint
 The unnamed peak to the ne of first two mouth lake The ascent of this face is left of center of the image
 Image by chris herath
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Myrtle's turtle from the trailhead
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## Above the unnamed peak on the way to the wigwams image by chris herath
 
@@ -134,7 +134,7 @@ Two mouth lakes basin with myrtle’s turtle in background On top of myrtles tur
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## 0ne of three lunar landscape. it sits atop myrtle's turtle
 
@@ -142,7 +142,7 @@ Two mouth lakes basin with myrtle’s turtle in background On top of myrtles tur
 
 ## The lunar landscape atop myrtle's turtle image by chris herath
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ## Another image of the lunar landscape above myrtle's turtle. image by chris herath
 
@@ -152,7 +152,7 @@ Two mouth lakes basin with myrtle’s turtle in background On top of myrtles tur
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (6)
 
 ## One of the deep bays west of the main body of the lake
 

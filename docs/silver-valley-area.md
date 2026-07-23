@@ -183,7 +183,7 @@ commemorating the original Jackass Resort and offering $12 lift tickets.
 
 On top of Kellogg Peak, is a replica of the fire tower that used to be there in the old days
 
-*(Image missing)*
+### (Image missing)
 
 ---
 

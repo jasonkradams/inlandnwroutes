@@ -26,7 +26,7 @@ notes:
 
 # Solitude Mountain
 
-*Solitude ski resort solitude, ut*
+## Solitude ski resort solitude, ut
 
 ## of named runs: 82
 
@@ -56,7 +56,7 @@ Ikon Pass holders.
 
 ## All info courtesy of solitude mountain. with thanks to s. huey
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 About solitude Solitude Mountain Resort is pure, authentic, and untarnished Utah territory. Serene or
 extreme,

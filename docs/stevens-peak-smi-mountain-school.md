@@ -34,7 +34,7 @@ notes:
 
 # Stevens Peak Smi Mountain School
 
-*Stevens peak smi mountain school 6838’*
+## Stevens peak smi mountain school 6838’
 
 ## Description
 
@@ -120,7 +120,7 @@ beer. Muchachos Tacos and Pizza Factory in Wallace.
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Roller balls from the day before. i have seen them trigger avalanches
 
@@ -132,7 +132,7 @@ beer. Muchachos Tacos and Pizza Factory in Wallace.
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 Avalanche and snow condition assessment: we found nine inches of fresh soft snow on top of a thin ice crust
 
@@ -149,19 +149,19 @@ on the top layer
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Heading up the ridge on the west from the tents at the lower lake
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## Gaining the ridge and heading to the summit
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## It was a bit windy on top
 

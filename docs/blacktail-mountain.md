@@ -36,7 +36,7 @@ notes:
 
 # Blacktail Mountain
 
-*Blacktail mountain 5495' trail #292*
+## Blacktail mountain 5495' trail #292
 
 ## Description
 
@@ -97,30 +97,30 @@ trailforks widget end
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## As the trail breaks out of the forest, priest lake lies below you
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## The southern  end of lower priest lake
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Cairns about half way up the scree slope
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## Baritoo and fourmile islands in the late morning sun. Image by chris herath
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## An image of the lookout from the old days
 
 Built in 1932, this gabled-roofed L-4 cab atop a 10' tower was abruptly destroyed in 1941. There was also a
 patrol point 1/2 mile northwest.
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ## A horse pack team delivering supplies to the lookout
 
@@ -128,7 +128,7 @@ patrol point 1/2 mile northwest.
 
 ## A telephoto shoot of mount roothaan & chimney rock image by chris herath
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (6)
 
 ## A telephoto shoot of harrison peak to the north image by chris herath
 
@@ -136,13 +136,13 @@ patrol point 1/2 mile northwest.
 
 When you drop your pack and turn east, the view is outstanding. the entire american selkirks is before you
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (7)
 
 ## Chris taking a nap next to the alidade (map stand) on the summit
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (8)
 
 ## If only this outhouse could talk
 
@@ -150,7 +150,7 @@ When you drop your pack and turn east, the view is outstanding. the entire ameri
 
 ## An outhouse with a view
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (9)
 
 ## The last view before you descend thru the forest
 

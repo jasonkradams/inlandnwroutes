@@ -43,7 +43,7 @@ notes:
     operation is scheduled, but can be rescinded early. Check out the usfs alerts below for additional
     info. this closure does not affect south chilco via forest road #406
 
-    *north and south chilco peak national recreation trail #14*
+## north and south chilco peak national recreation trail #14
 
 ## Description
 
@@ -99,7 +99,7 @@ Non of note
 
 Franklin’s Hoagies, Moontime, and Mexican Food Factory.
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Photo gallery
 
@@ -127,13 +127,13 @@ Franklin’s Hoagies, Moontime, and Mexican Food Factory.
 
 ## Pend oreille lake from n. chilco with lookout debris
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 The south chilco lookout was built in 1915 and abandoned in 1935, when the north chilco mountain lookout was
 
 built
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## A spokane mountaineers hike on the summit of south chilco
 
@@ -145,11 +145,11 @@ built
 
 ## Spokane mountaineers at lunch on top of s. chilco
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## Hikers heading back to the trailhead, n. chilco peak
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 The summit cabin fire lookout that was on north chilco. it was built in 1938, and was destroyed in 1959 This
 
@@ -157,7 +157,7 @@ image is
 
 from the spokane mountaineers archive
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 Consider walking the ridge north of n. chilco. its trail skirts the west side of the ridge for about .5
 miles.
@@ -168,7 +168,7 @@ silverwood sit near the water tower left of center
 
 ## The trail north of n. chilco
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (6)
 
 ## The trail diminishes as you head further north from n. chilco
 

@@ -12,7 +12,7 @@ stats:
 
 # Silvertip Landing
 
-*Silver tip landing*
+## Silver tip landing
 
 ## Description
 

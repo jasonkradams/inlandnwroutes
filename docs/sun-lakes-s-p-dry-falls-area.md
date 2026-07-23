@@ -39,7 +39,7 @@ stats:
 
 # Sun Lakes S P Dry Falls Area
 
-*Sun lakes-dry falls state park*
+## Sun lakes-dry falls state park
 
 ## Description
 

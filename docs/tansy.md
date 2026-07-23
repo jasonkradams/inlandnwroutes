@@ -70,4 +70,4 @@ disperse via wind, water, machinery, animals, shoes, and clothing.
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing)

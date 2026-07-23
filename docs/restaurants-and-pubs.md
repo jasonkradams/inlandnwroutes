@@ -1,13 +1,13 @@
 # Restaurants And Pubs
 
-## Restaurants and pubs
+## Restaurants and pubs (2)
 
 ### As we wander in the mountains, the end of the day, may require food and drink
 
 Below are restaurants and pubs to consider. If you come upon a great restaurant, please use the envelope at
 the bottom of each page to contact me, directly.
 
-*Washington*
+### Washington
 
 Harvest Restaurant & Lounge
 

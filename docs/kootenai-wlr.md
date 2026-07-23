@@ -38,7 +38,7 @@ notes:
 
 # Kootenai Wlr
 
-*Kootenai national wildlife refuge*
+## Kootenai national wildlife refuge
 
 ## Description
 
@@ -109,15 +109,15 @@ click on the regions name in the drop down menu
 
 ## Two photog friends trying to get a good image next to the meeting room barn
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## This is an image looking east into the purcell trench
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Aspens near the "auto tour route"
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## The kootenai national wildlife refuge from road #18, south side
 
@@ -125,7 +125,7 @@ click on the regions name in the drop down menu
 
 ## The kootenai national wildlife refuge from the myrtle lake road
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## The kootenai national wildlife refuge from the burton peak road
 
@@ -133,11 +133,11 @@ click on the regions name in the drop down menu
 
 ## This image shows the "auto tour road" on the outside of channel
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## Early morning fog on the purcell trench
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ## The kootenai national wildlife refuge in the summer
 
@@ -147,7 +147,7 @@ click on the regions name in the drop down menu
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (6)
 
 ## A northern section of the kootenai national wildlife refuge
 
@@ -157,6 +157,6 @@ click on the regions name in the drop down menu
 
 ## Myrtlre falls
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (7)
 
 ## Burton peak & old lookout cabin from the k.n.w.r. auto tour route

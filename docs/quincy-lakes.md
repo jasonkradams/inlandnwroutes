@@ -38,7 +38,7 @@ stats:
 
 # Quincy Lakes
 
-*Quincy lakes, ancient lake & dusty lake*
+## Quincy lakes, ancient lake & dusty lake
 
 ## Description
 

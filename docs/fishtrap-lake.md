@@ -81,7 +81,7 @@ Lenny’s in Cheney.
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## A secluded cove just south of mid lake
 
@@ -91,7 +91,7 @@ Lenny’s in Cheney.
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Fishtrap lake area
 

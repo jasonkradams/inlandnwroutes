@@ -88,7 +88,7 @@ Radio Brewing in Kellogg, Pizza Factory and Muchacho’s Tacos in Wallace
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Photo gallery
 
@@ -111,7 +111,7 @@ Radio Brewing in Kellogg, Pizza Factory and Muchacho’s Tacos in Wallace
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Chic scrambling up to the id. mt. state lines
 

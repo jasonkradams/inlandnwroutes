@@ -92,11 +92,11 @@ lots of pollinators.
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Fireweed grows throughout our region. it's growth starts from an area that has recently burned
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## This image was taken above the settler's grove of ancient cedars
 

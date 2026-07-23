@@ -25,7 +25,7 @@ stats:
 
 # Lake Ohara
 
-*Lake o'hara 6,939'*
+## Lake o'hara 6,939'
 
 ## Description
 
@@ -135,13 +135,13 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Tent pad
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Lake o’hara
 
@@ -153,7 +153,7 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Standing on all souls' prospect looking across at wiwaxy gap
 
@@ -177,19 +177,19 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## From yukness ledges over looking lake o'hara
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## The wiwaxy gap alpine route
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ## Narrow ledge along wiwaxy gap route
 

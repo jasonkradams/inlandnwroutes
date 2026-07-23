@@ -26,7 +26,7 @@ notes:
 
 # Bogus Basin Ski Resort
 
-*Bogus basin ski resort boise, id*
+## Bogus basin ski resort boise, id
 
 ## of named runs: 82
 

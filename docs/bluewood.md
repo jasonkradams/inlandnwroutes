@@ -26,7 +26,7 @@ notes:
 
 # Bluewood
 
-*Bluewood dayton, wa*
+## Bluewood dayton, wa
 
 ## of named runs 24
 

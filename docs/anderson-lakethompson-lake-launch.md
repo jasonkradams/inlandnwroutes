@@ -21,7 +21,7 @@ stats:
 
 # Anderson Lakethompson Lake Launch
 
-*Anderson lake/thompson lake launch*
+## Anderson lake/thompson lake launch
 
 ## Description
 

@@ -33,7 +33,7 @@ notes:
 
 # Minor Lake
 
-*Minor lake trail #140 & 317*
+## Minor lake trail #140 & 317
 
 ## Description
 

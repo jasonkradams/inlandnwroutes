@@ -35,7 +35,7 @@ notes:
 
 # Shefoot Mountain1
 
-*Shefoot mountain 6349’*
+## Shefoot mountain 6349’
 
 ## Description
 

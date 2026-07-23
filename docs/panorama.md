@@ -2,7 +2,7 @@
 
 ---
 
-## Panorama
+## Panorama (2)
 
 ---
 
@@ -37,6 +37,6 @@ _WILLOW PEAK 6324_
 
 ![Image](assets/images/img-7947.jpg)
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 Leigh lake. the amphitheater, snowshoe peak 8638’

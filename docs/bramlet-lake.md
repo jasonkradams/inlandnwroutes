@@ -39,7 +39,7 @@ notes:
 
 # Bramlet Lake
 
-*Lower & upper bramlet lake l.5597’ w 6019’*
+## Lower & upper bramlet lake l.5597’ w 6019’
 
 ## Description
 

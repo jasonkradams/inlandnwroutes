@@ -34,7 +34,7 @@ stats:
 
 # Hooknose Mountain
 
-*Hooknose mountain 7210’*
+## Hooknose mountain 7210’
 
 ## Description
 

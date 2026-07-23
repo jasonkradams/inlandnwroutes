@@ -37,7 +37,7 @@ stats:
 
 # Hub Lake
 
-*Hub lake & dipper falls*
+## Hub lake & dipper falls
 
 ## Description
 
@@ -95,7 +95,7 @@ Pizza Factory, 1313 Club, and Muchacho’s Tacos in Wallace, and the Radio Brewi
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## The hub lake trail near the start
 
@@ -109,7 +109,7 @@ hence there are dozens of ladles, or dippers
 This image was taken on 10.7.2025. as you can see, the flow is low, But still spectacular to see. Image by
 chris herath
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Hub lake from eagle peak
 
@@ -117,11 +117,11 @@ chris herath
 
 ## Intermittent falls below mary lake and above hub lake
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## From above hub lake looking north up towards eagle peak
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## An intermittent waterfall from mary lake above
 
@@ -129,11 +129,11 @@ chris herath
 
 ## This was our view for luncg, looking ne
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## From the same spot above, turn around to see eagle peak
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 We walked up the trail towards the old mine, And this image shows the debris field below eagle peak image by
 

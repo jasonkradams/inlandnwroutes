@@ -1,7 +1,7 @@
 # Silverlight
 
-## Silverlight
+## Silverlight (2)
 
-*Add text here*
+### Add text here
 
 [Learn More](https://silverlight.store/posts/)

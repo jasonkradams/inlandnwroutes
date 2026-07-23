@@ -64,7 +64,8 @@ Back at the main trail, hike Trail # 740A back to Trail #740 back to the parking
 
 From spokane From Spokane, drive east on I-90 over the 4th of July Pass to the Rose Lake exit, and State Hwy
 
-#3. Head south down Hwy 3 to St. Maries. Continue on Hwy 3 to to Bovill at about 44 miles. Turn left onto
+## 3. Head south down Hwy 3 to St. Maries. Continue on Hwy 3 to to Bovill at about 44 miles. Turn left onto
+
 State Hwy #8 for about 10 miles, keeping an eye out for the Elk Creek Falls Road 1452 turn off. Turn right
 for about 2 miles to the parking area.
 
@@ -93,17 +94,17 @@ NA
 
 ## Lower elk creek falls, 50'
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Spokane mountaineers outing, posing in front of the lower falls
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Middle elk creek falls 70'
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## Upper elk creek falls 20' a good place to swim, wear shoes
 

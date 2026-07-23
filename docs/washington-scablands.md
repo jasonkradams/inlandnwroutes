@@ -69,7 +69,7 @@ Glacier Lake Missoula formed several time over thousands of years, but it was pe
 caused the most catastrophic event. Glacier Lake Missoula was in volume the same size as Lakes Erie and
 Ontario combined.
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 At the Town of Clark Fork, Idaho, the ice dam stretched across the valley. Water built up to a point of
 
@@ -118,7 +118,7 @@ There are safety shin guards you can buy to protect from snake bites.
 
 ## The below graph shows the depth of g.l.m. at clark fork, idaho
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Featured Routes
 

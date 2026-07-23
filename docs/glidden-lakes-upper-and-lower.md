@@ -36,7 +36,7 @@ notes:
 
 # Glidden Lakes Upper And Lower
 
-*Lower 5616’ & upper 5935’ glidden lakes*
+## Lower 5616’ & upper 5935’ glidden lakes
 
 ## Description
 
@@ -128,7 +128,7 @@ Kingston. Moon Time & The Mexican Food Factory in CDA.
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Stevens peak & the lone lake drainage from the ridge line above glidden lakes
 

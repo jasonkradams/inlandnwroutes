@@ -71,7 +71,7 @@ Time, and the Mexican Food Factory
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Trail # 9 before you enter the forest
 

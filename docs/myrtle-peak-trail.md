@@ -36,7 +36,7 @@ notes:
 
 # Myrtle Peak Trail
 
-*Myrtle peak 7122’ trail #286*
+## Myrtle peak 7122’ trail #286
 
 ## Description
 

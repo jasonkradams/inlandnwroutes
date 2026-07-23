@@ -21,7 +21,7 @@ stats:
 
 # Booth Park Launch
 
-*Boothn park launch*
+## Boothn park launch
 
 ## Description
 
@@ -60,6 +60,6 @@ Moon Time, Mexican Food Factory, Franklins Hoagies, and Trails End Brewery
 
 ![Picture](assets/images/5132025306p-2.jpg)
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Boat ramp and parking area. image by david c

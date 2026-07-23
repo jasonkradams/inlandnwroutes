@@ -54,6 +54,8 @@ Crystal Lake, Graham Mountain, Silver Mountain Resort, Chain Lakes, Stevens Peak
 Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ & Saloon, Wallace Brewing Co., Muchacho’s Tacos in Wallace. Radio Brewing in Kellogg. The Snake Pit north of Kingston. And Moon Time in CDA.
 ---
 
+# Settlers Grove Of Ancient Cedars
+
 ## Images from along the trail
 
 ## Photo gallery
@@ -76,7 +78,7 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 ## Foot bridge over eagle creek
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## The benches are well placed for a rest or lunch
 
@@ -102,7 +104,7 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 ## Mountain globemallow
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## A remnant of the great 1910 fire
 

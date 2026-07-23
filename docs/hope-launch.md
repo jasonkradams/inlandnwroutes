@@ -21,7 +21,7 @@ stats:
 
 # Hope Launch
 
-*Hope boat launch*
+## Hope boat launch
 
 ## Description
 

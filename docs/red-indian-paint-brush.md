@@ -45,7 +45,7 @@ notes:
 
 # Red Indian Paint Brush
 
-*RED Indian paintbrush*
+## RED Indian paintbrush
 
 ## Description
 
@@ -59,6 +59,6 @@ flower per stem. In different climates they can range in colors
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ![Picture](assets/images/11152021329.jpg)

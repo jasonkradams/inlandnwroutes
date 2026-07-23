@@ -36,7 +36,7 @@ notes:
 
 # Scenery Mountain
 
-*Scenery mountain 6875’ trail #649*
+## Scenery mountain 6875’ trail #649
 
 ## Description
 

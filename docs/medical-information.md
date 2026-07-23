@@ -24,13 +24,13 @@ _Download file: medical_emergency_card.pdf_
 
 ---
 
-## Medical Information
+## Medical Information (3)
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Don’t ever let your biggest harm, be yourself.     chic     2012
 
-*FREE, KINDA, CPR and FIRST AID*
+### FREE, KINDA, CPR and FIRST AID
 
 We all should know CPR and First Aid knowledge.
 
@@ -323,7 +323,7 @@ to your entire body. Most people apply less than half of that amount, translatin
 With reapplication, a family of four should use one four-ounce bottle of sunscreen per person during a long
 day outdoors.
 
-### Who should use sunscreen?
+### Who should use sunscreen? (2)
 
 Everyone
 

@@ -84,6 +84,6 @@ turning a brilliant yellow.
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ##

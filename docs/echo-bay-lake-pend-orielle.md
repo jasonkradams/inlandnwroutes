@@ -32,7 +32,7 @@ stats:
 
 # Echo Bay Lake Pend Orielle
 
-*Echo Bay, Lake Pend Orielle, Idaho. 2055’*
+## Echo Bay, Lake Pend Orielle, Idaho. 2055’
 
 ## Paddling instructions
 
@@ -81,7 +81,7 @@ Rustler’s Roost in Hayden on 95. In CDA, Mexican Food Factory, Franklin’s Ho
 
 ## Cape horn on the north side of bayview
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 Just past steamboat rock are the cliffs above echo bay As soon as you get to steamboat rock, look for
 mountain
@@ -90,7 +90,7 @@ goats up
 
 high
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Looking north from echo bay, with lakeview
 
@@ -98,11 +98,11 @@ high
 
 ## Looking north with cape horn on left
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Cliffs in the  lakeview area
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ![Picture](assets/images/202163808.jpg)
 

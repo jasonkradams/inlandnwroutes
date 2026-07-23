@@ -1,6 +1,6 @@
 # Saltese Highlands Summit Loop
 
-## Saltese highlands summit loop
+## Saltese highlands summit loop (2)
 
 ---
 
@@ -20,7 +20,7 @@ than one lap may be called for.
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Overlooking the saltese weland area
 
@@ -32,7 +32,7 @@ than one lap may be called for.
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Mountain blue bird
 

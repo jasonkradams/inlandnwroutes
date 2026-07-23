@@ -91,23 +91,23 @@ Jalapeños, Burger Express, Eichardt's, and Mr. Sub in Sandpoint
 
 ![Picture](assets/images/4132025357p.png)
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ##
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## A glimps of pyramid peak from the trail to pyramid pass
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## Pyramid pass The route up pyramid peak is to the left from my pack
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## A scrambler near the top of pyramid's summit
 
@@ -115,17 +115,17 @@ Jalapeños, Burger Express, Eichardt's, and Mr. Sub in Sandpoint
 
 ## Scramblers nearing the summit of pyramid peak
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ## Tyler and shuwen celebrating on the summit of pyramid peak
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (6)
 
 ## Pyramid peak from the parker peak hike, near long mountain lake
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (7)
 
 ## The lion head group above long canyon image by colin xu
 

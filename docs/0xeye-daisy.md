@@ -48,7 +48,7 @@ notes:
 
 # 0Xeye Daisy
 
-*Oxeye daisy. aka field daisy*
+## Oxeye daisy. aka field daisy
 
 ## Description
 

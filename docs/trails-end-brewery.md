@@ -1,6 +1,6 @@
 # Trails End Brewery
 
-## Trails end brewery
+## Trails end brewery (2)
 
 **TRAILS END is a feeling:****** It’s that simultaneous feeling of exhaustion and exhilaration at the end of
 the trail you just hiked, climbed,

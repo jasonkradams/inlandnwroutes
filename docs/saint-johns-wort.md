@@ -48,7 +48,7 @@ stats:
 
 # Saint Johns Wort
 
-*Common st. johnswort*
+## Common st. johnswort
 
 ## Description
 

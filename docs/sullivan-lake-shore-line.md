@@ -65,11 +65,11 @@ The east shore water line on Sullivan Lake drops off sharply.
 
 NA
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## The east shoreline of sullivan lake
 

@@ -49,7 +49,7 @@ notes:
 
 # Devils Club
 
-*Devil's club. aka devil's walking stick*
+## Devil's club. aka devil's walking stick
 
 ## Description
 

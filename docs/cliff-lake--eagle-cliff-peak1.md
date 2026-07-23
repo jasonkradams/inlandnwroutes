@@ -38,7 +38,7 @@ notes:
 
 # Cliff Lake  Eagle Cliff Peak1
 
-*Diamond lake, cliff lake, & eagle cliff peak 7543'*
+## Diamond lake, cliff lake, & eagle cliff peak 7543'
 
 ## Description
 

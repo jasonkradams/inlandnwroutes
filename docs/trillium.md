@@ -46,7 +46,7 @@ stats:
 
 # Trillium
 
-*Western trillium. aka waking robin*
+## Western trillium. aka waking robin
 
 ## Description
 
@@ -208,10 +208,10 @@ past it's pollination stage. Found in the i.p.n.f
 
 ![Picture](assets/images/11232021628.jpg)
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)

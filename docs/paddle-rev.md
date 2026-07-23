@@ -23,7 +23,7 @@ stats:
 
 # Paddle Rev
 
-*Echo Bay, Lake Pend Orielle, Idaho*
+## Echo Bay, Lake Pend Orielle, Idaho
 
 ## Paddling instructions
 

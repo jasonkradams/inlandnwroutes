@@ -39,7 +39,7 @@ notes:
 
 # Ward Peak 7312  Eagle Peak 7333 Trail 250
 
-*Ward & eagle peaks, trail #250*
+## Ward & eagle peaks, trail #250
 
 ## Description
 
@@ -116,12 +116,13 @@ left
 (east) onto 218 and drive past the Nugget Creek Campground and about 5 miles turn left on FR 339. Look for
 FR
 
-#50 and
+## 50 and
+
 drive to the Idaho Montana boarder, and turn left onto F.R.#391. If you get to the border, a flat spot with
 a large kiosk sign is off to your left. You have gone too far. Turn back onto the road you came up on, and
 turn right up F.R.
 
-#391.
+## 391
 
 While on road 391, you can see Ward Peak towering to the north.
 
@@ -167,13 +168,13 @@ Muchacho’s Tacos, Pizza Factory, 1313 Club, in Wallace, and Radio Brewing in K
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Looking down to mary lake from near the summit of ward peak. Eagle peak is left of center
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Eagle & ward peaks from kellogg peak, silver mt
 
@@ -195,11 +196,11 @@ Muchacho’s Tacos, Pizza Factory, 1313 Club, in Wallace, and Radio Brewing in K
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## The sw shore of unnamed double lake
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## The unnamed double lake has a spectacular shore line
 

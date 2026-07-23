@@ -34,7 +34,7 @@ stats:
 
 # Gypsy Peak
 
-*Gypsy peak trail #435 salmo-priest wilderness*
+## Gypsy peak trail #435 salmo-priest wilderness
 
 ## Description
 
@@ -85,15 +85,15 @@ way, with some prominences to skirt, it’s a straight forward hike.
 
 NA
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Hikers on connective trail #515, nearing the crowell ridge trail #515
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## On crowell ridge walking towards gypsy peak
 

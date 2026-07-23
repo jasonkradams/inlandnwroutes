@@ -11,7 +11,7 @@ l.
 
 j 14 **Essentials**
 
-### This section is extremely important...... if you don’t get anything out of this site. heed this section
+## This section is extremely important...... if you don’t get anything out of this site. heed this section
 
 ****THE 14 essentials have a drop down menu page. PLEASE, make up a complete essentials pouch for every
 person in your family, and make sure each companion has them, and knows how to use them. Earlier in the
@@ -820,7 +820,7 @@ Each morning I do extensive stretching and yoga so I can get thru the day. On sp
 abbreviated set with leg and arm stretches as I set out on the trail. Stop when necessary to re-stretch ham
 strings or other sore spots.
 
-**Yellow mustard packs**.
+### Yellow mustard packs**
 
 Stop by a fast food place and snag a half a dozen mustard packs. Put the in your essentials pack. When you
 or a hiking partner get leg or other cramps, drink down a packet. Within a few minutes they will go away. I
@@ -965,7 +965,7 @@ fresh cloths are a blessing. Spare hiking clothes may fill a gap for stupid fell
 hike, question your hiking partners to be sure they all have what they need to be safe, warm and dry. Each
 hiker should have spare socks, hats and gloves. Wool is much better than synthetics when wet.
 
-### Base layers
+### Base layers (2)
 
 Base layer long johns are a must even in warm weather. They wick moisture away from the core and keep you
 dry. Go online and buy a brand called "Indera". The ones you want are grey and white, only. The outer layer
@@ -1180,7 +1180,7 @@ Below are manufacturer of freeze dried hiking meals. heather’s choice.com
 [gourmetkickz.com](https://gourmetkickz.com/) [heatherschoice.com](https://www.heatherschoice.com/)
 [nomadnutrition.co](https://www.nomadnutrition.co/) [outdoorherbivore.com](https://outdoorherbivore.com/)
 [packitgourmet.com](https://www.packitgourmet.com/) [trailtopia.com](https://trailtopia.com/)
-[mountainhouse.com ](https://mountainhouse.com/)maryjanesfarms
+[mountainhouse.com](https://mountainhouse.com/)maryjanesfarms
 [backpackerspantry.com](https://backpackerspantry.com/) patagoniaprovisions.com
 [rightontrek.com/meals/store](https://rightontrek.com/meals/store)
 

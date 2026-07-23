@@ -39,7 +39,7 @@ notes:
     This hike is for the most Seasoned of scramblers If you haven't hiked this kind of terrain for decades.
     do not attempt
 
-    *A peak 8,634'*
+## A peak 8,634'
 
 ## Description
 
@@ -47,7 +47,7 @@ We have added the areas sheriff’s emergency phone numbers for each trip write 
 info. if an emergency ocurrs, evaluate your circumstances and call only if needed. The trail to A Peak is in
 part the Snowshoe Lake Trail #972, on the North Fork of the Bull River. When you get to Trail
 
-#972, Verdun Creek, do not go left, but rather stay on a little used unmarked trail to Snowshoe Lake.
+## 972, Verdun Creek, do not go left, but rather stay on a little used unmarked trail to Snowshoe Lake
 
 At about 3 miles, you will come to a small waterfall on your right. Continue for about 1.5 miles to a
 horseshoe bend in the trail among trees with little or no undergrowth. At this bend, you will start climbing
@@ -113,7 +113,7 @@ A peak, the point in the shade on left. Snowshoe peak is in the sun at mid top r
 
 ## A peak top left of center & snowshoe peak from schweitzer mountain resort image by chris herath
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Ibex peak from a peak image by chris herath
 
@@ -122,7 +122,7 @@ A peak, the point in the shade on left. Snowshoe peak is in the sun at mid top r
 Along the snow lake trail, This corner is where you ascend to the a peak ridge, and a place to camp with
 water near by. image by chris herath
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 The upper camp is by the far end of the snow patches The ridge to the left off the snow patches is the
 ascent
@@ -131,7 +131,7 @@ route
 
 image by chris herath
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## The upper camp area image by chris herath
 
@@ -139,7 +139,7 @@ image by chris herath
 
 ## The lower section of the  route Image by chris herath
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## Nearing the summit of a peak 8634' image by chris herath
 
@@ -147,11 +147,11 @@ image by chris herath
 
 ## First peek of granite lake from the summit image by chris herath
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## Granite lake from the summit image by chris herath
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ## From the summit of a peak looking at snowshoe peak Image by chris herath
 

@@ -36,7 +36,7 @@ stats:
 
 # Lake Lenore Caves  Mesa
 
-*Lake lenore caves and mesa*
+## Lake lenore caves and mesa
 
 ## Description
 

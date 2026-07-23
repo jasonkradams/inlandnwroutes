@@ -32,7 +32,7 @@ stats:
 
 # Crawford Sp Gardner Cave
 
-*Crawford s.p., gardner cave*
+## Crawford s.p., gardner cave
 
 ## Description
 
@@ -82,21 +82,21 @@ NA
 
 ## Gardner cave, crawford state park
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## The entery stairs
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Christmas tree
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Unusual cave fearture
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## Gardner cave feature
 

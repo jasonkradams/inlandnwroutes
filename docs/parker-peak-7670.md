@@ -36,7 +36,7 @@ notes:
 
 # Parker Peak 7670
 
-*Parker peak 7670' trail #’s 16, 7 & 221*
+## Parker peak 7670' trail #’s 16, 7 & 221
 
 ## Description
 
@@ -84,7 +84,7 @@ Jalapeños, Mr. Sub, Burger Express, Eicharts in Sandpoint
 
 ## Pyramid pass
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## A bumblebee stuck on an aster at pyramid pass, due to cold temps
 
@@ -102,7 +102,7 @@ Jalapeños, Mr. Sub, Burger Express, Eicharts in Sandpoint
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Three women, two dogs from ohio,  hiking the long canyon/parker peak loop
 
@@ -118,7 +118,7 @@ Jalapeños, Mr. Sub, Burger Express, Eicharts in Sandpoint
 
 ## The final ascent along parker ridge, to parker peak
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## A 300° pano from the summit of parker peak
 

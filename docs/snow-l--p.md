@@ -40,7 +40,7 @@ notes:
 
 # Snow L  P
 
-*Snow lake 5914’ & peak 6917’*
+## Snow lake 5914’ & peak 6917’
 
 ## Description
 

@@ -24,7 +24,7 @@ stats:
 
 # Mineral Ridge Launch
 
-*Mineral ridge blm launch*
+## Mineral ridge blm launch
 
 ## Description
 

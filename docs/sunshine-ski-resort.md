@@ -26,7 +26,7 @@ notes:
 
 # Sunshine Ski Resort
 
-*Sunshine ski area*
+## Sunshine ski area
 
 ## of named runs: 120
 

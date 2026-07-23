@@ -62,7 +62,9 @@ The Snake Pit, and the Radio Brewery in Kellogg. The Moon Time in CDA.
 ## The view of the cabinet mountain wilderness to the ne
 ---
 
-*Picture (Image missing)*
+# Little Guard Peak  Lookout
+
+## Picture (Image missing)
 
 One of the cool things about this rental lookout, Is it has a full kitchen on the bottom level of the cinder
 
@@ -70,7 +72,7 @@ block
 
 foundation
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ![Picture](assets/images/682022106p.jpg)
 

@@ -26,7 +26,7 @@ notes:
 
 # Mission Ridge Ski  Board Resort
 
-*Mission ridge ski & board resort wenatchee, wa*
+## Mission ridge ski & board resort wenatchee, wa
 
 ## of named runs: 36
 

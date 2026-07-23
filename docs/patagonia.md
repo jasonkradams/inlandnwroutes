@@ -28,7 +28,7 @@ stats:
 
 # Patagonia
 
-*Patagonia, south america*
+## Patagonia, south america
 
 ## Description
 

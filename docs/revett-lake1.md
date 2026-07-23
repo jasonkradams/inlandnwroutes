@@ -40,7 +40,7 @@ notes:
 
 # Revett Lake1
 
-*Revett lake, id-mt boarder*
+## Revett lake, id-mt boarder
 
 ## Description
 
@@ -96,9 +96,9 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 Saloon, Wallace Brewing Co., Muchacho’s Tacos in Wallace. Radio Brewing in Kellogg. , the Snake Pit, Moon
 Time, and the Mexican Food Factory
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Photo gallery
 
@@ -122,19 +122,19 @@ Time, and the Mexican Food Factory
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Some spokane mountaineers enjoy the views at revett lake
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## The view from the sw end of revett, looking ne to the trails end
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## The north shore of revett lake The image below is of granite peak, far left
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ## Chris napping on granite peak
 
@@ -146,7 +146,7 @@ Time, and the Mexican Food Factory
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (6)
 
 ## The high trail #7 towards burke canyon
 

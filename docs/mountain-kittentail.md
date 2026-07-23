@@ -25,7 +25,7 @@ stats:
 
 # Mountain Kittentail
 
-*Common name*
+## Common name
 
 ## Description
 

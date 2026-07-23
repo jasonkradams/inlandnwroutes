@@ -24,7 +24,7 @@ stats:
 
 # Hawk Creek Falls Sp
 
-*Hawk creek falls state park*
+## Hawk creek falls state park
 
 ## Description
 
@@ -92,8 +92,8 @@ Click for Current NOAA Weather Conditions
 
 ![Picture](assets/images/927208.jpg)
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## A view of the bay that hawk creek falls sits in

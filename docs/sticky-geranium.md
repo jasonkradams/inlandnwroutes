@@ -45,7 +45,7 @@ stats:
 
 # Sticky Geranium
 
-*Sticky geranium. aka, sticky purple geranium, sticky wild geranium*
+## Sticky geranium. aka, sticky purple geranium, sticky wild geranium
 
 ## Description
 

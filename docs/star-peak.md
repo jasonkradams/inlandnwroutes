@@ -36,7 +36,7 @@ notes:
 
 # Star Peak
 
-*Star peak 6167’. trail #998*
+## Star peak 6167’. trail #998
 
 ## Description
 
@@ -107,7 +107,7 @@ The stone house below the lookout tower. This house uses zero mortor in its cons
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## The ridge between star peak and billiard table mountain image by chris h
 
@@ -115,11 +115,11 @@ The stone house below the lookout tower. This house uses zero mortor in its cons
 
 ## Along the route to billiard table mountain image by chris h
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## The main attraction at star peak. this outhouse has an incredible view. A real poop with a view
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## This image was shot by amy v. on the descent of star peak on 11.24.23
 
@@ -185,7 +185,8 @@ use as the
 observation post.
 
 **July 12, 1912:**"Sam Shafer has accepted a position as lookout on Squaw peak for the forest service."
-**(The Sanders County Ledger)**
+
+### (The Sanders County Ledger)
 
 **September 24, 1915:** "Mr. Hudson a student at Missoula who has been lookout man on Squaw peak, left here
 
@@ -273,7 +274,8 @@ Bulletin)** **April 30, 1967:** "Miss Harker, who spent three months on Squaw Pe
 all
 
 summer. She had n o electricity and used a wood stove for heat but she says she is ready for another year."
-**(The Independent Record)**
+
+### (The Independent Record)
 
 **October 12, 1967:** "Due to the rains last weekend, Laura Harker came down from Squaw Peak on Monday when
 

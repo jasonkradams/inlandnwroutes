@@ -77,7 +77,7 @@ NA
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ---
 
@@ -85,7 +85,7 @@ NA
 
 ## Snoopy hangs out in one of the areas of smith rocks
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## The north end of smith rocks
 
@@ -98,7 +98,7 @@ the world's best rock climbers
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Snoopy resting after a hard climb
 

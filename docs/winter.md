@@ -2,7 +2,7 @@
 
 ---
 
-## Winter
+## Winter (2)
 
 ## Click on the image to enlarge
 
@@ -10,7 +10,7 @@
 
 ![HIKING THE TRAIL TO GOLD HILL VIA MOON PASS](assets/images/12262021759p.jpg)
 
-_HIKING THE TRAIL TO GOLD HILL VIA MOON PASS_
+### HIKING THE TRAIL TO GOLD HILL VIA MOON PASS
 
 ![Image](assets/images/12262021801p.jpg)
 

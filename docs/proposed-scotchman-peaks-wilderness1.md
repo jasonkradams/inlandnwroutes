@@ -24,7 +24,7 @@ area.
 
 ### Scotchman Peaks
 
-*The Landscape*
+### The Landscape
 
 A little-known chunk of wild country occupies a place in the Cabinet Mountains where the Idaho-Montana state
 
@@ -63,7 +63,7 @@ into the Scotchmans. The most heavily used trails go to Little Spar Lake, Scotch
 where an active forest fire lookout tower is manned during the summer months. Approximately 50 to 60 miles
 of foot trails probe the backcountry of the Scotchman Peaks.
 
-*Geology, Ice and Water*
+### Geology, Ice and Water
 
 The Scotchman Peaks are an historic mountain range. David Thompson saw them much as they are today when he
 

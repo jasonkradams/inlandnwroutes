@@ -26,7 +26,7 @@ notes:
 
 # Anthony Lakes Mt Resort
 
-*Anthony lakes mountain resort n. powder, or*
+## Anthony lakes mountain resort n. powder, or
 
 ## of named runs: 21
 

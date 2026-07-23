@@ -52,7 +52,7 @@ notes:
 
 # Spar Peak Little Spar Lake  Horseshoe Pond
 
-*spar peak #324, Little spar lake #143 & horseshoe pond (chicwackin')*
+## spar peak #324, Little spar lake #143 & horseshoe pond (chicwackin')
 
 ## Description
 
@@ -149,7 +149,7 @@ Kaiju Sushi Bar on 9th Street.
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Photo gallery
 
@@ -157,11 +157,11 @@ Kaiju Sushi Bar on 9th Street.
 
 ## Spar peak 6585' and unnamed tower along the trail in image by chris h
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## The unnamed spire along the lengthy wall above spar creek image by chris h
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## The south wall above spar creek stretches over a mile image by chris h
 
@@ -190,11 +190,11 @@ tower next to spar peak. Little spar lake
 
 ## Mountaineer darcy on top of spar peak
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## Horseshoe pond with savage mountain 6906' image by chris h
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## The peninsula at horseshoe pond image by chris h
 
@@ -202,7 +202,7 @@ tower next to spar peak. Little spar lake
 
 ## Horseshoe pond pano
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ## The view west from horseshoe pond Scotchman peak #2 on left image by chris h
 
@@ -210,10 +210,10 @@ tower next to spar peak. Little spar lake
 
 ## On the return hike, views of little spar lake are incredible
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (6)
 
 ## The last view of little spar lake before heading down image by chris h
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (7)
 
 ## The tower, as the setting sun bathes it in warm light image by chris h

@@ -40,7 +40,7 @@ notes:
 
 # Bakers Mariposa Lily
 
-*Baker's mariposa lily*
+## Baker's mariposa lily
 
 ## Description
 
@@ -52,9 +52,9 @@ small, dark circular gland near the base; anthers lanceolate, apiculate. Capsule
 
 ## Photo gallery
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
-## Baker's mariposa lily
+## Baker's mariposa lily (2)
 
 ---
 

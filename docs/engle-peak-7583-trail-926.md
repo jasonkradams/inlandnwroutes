@@ -35,7 +35,7 @@ notes:
 
 # Engle Peak 7583 Trail 926
 
-*Engle peak 7583’ trail #926 to 932 & 932a*
+## Engle peak 7583’ trail #926 to 932 & 932a
 
 ## Description
 
@@ -60,7 +60,7 @@ continue
 
 on Trail #932 A to the summit.
 
-## Option #1
+## Option #1 (2)
 
 Follow the Engle Peak Trail #926 for about 3 miles to a junction with Trail #932. Turn left on 932 where the
 trail drops down to the seven lakes in about 400 vert.
@@ -82,7 +82,7 @@ And if you like sushi, try the Kaiju Bar & Grill. They also make incredible burg
 The Shed in Libby. Clark Fork Pantry & Squeeze Inn in Clark Fork, Eicharts, Mr Sub, Burger Express, and
 Jalapeños in Sandpoint.
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Photo gallery
 

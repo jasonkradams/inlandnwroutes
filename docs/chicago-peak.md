@@ -46,7 +46,7 @@ notes:
     Is extremely rough' and cars wont make it to the trailhead. The walk up the road to the trailhead Is
     about 2.4 miles. and will save your vehicles from damage. Please use caution
 
-    *Chicago peak 7018'*
+## Chicago peak 7018'
 
 ## Description
 
@@ -128,13 +128,13 @@ in Sandpoint
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Photo gallery
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 One of the joys of visiting the cliff lake area, Is the views from along forest road #2741 To the west is
 the
@@ -157,7 +157,7 @@ krummholz are well over 6' tall and can are ancient. refer to <https://www.trees
 
 ## As you walk out over the bench, walk to your right for exceptional views
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## This image shows the bench that chicago peak sits on. cliff lake is below
 
@@ -165,7 +165,7 @@ krummholz are well over 6' tall and can are ancient. refer to <https://www.trees
 
 ## Our ascent route is directly above me  image by chris
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## This image shows the steepness of the ascent. st. paul peak is on the right
 
@@ -177,7 +177,7 @@ The rock above left is the high point of chicago peak Rock peak is off in the di
 
 ## Chic on the summit of chicago peak image by chris
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## Copper lake sits below chicago peak image by chris
 
@@ -189,7 +189,7 @@ The rock above left is the high point of chicago peak Rock peak is off in the di
 
 ## The clark fork river from the summit of chicago peak image by chris
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 From the summit of chicago peak, look north to see the high point of the cabinet mountain wilderness From
 left
@@ -198,19 +198,19 @@ is ibex
 
 peak, on the right snowshoe peak (tallest) and a peak to its left image by chris
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (6)
 
 From the summit of these peaks, the proposed scotchman peaks wilderness stretches out to the west
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (7)
 
 ## This is the ascent route to st. paul peak
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (8)
 
 ## This is the view of the snowshoe area to the north, is from the summit of st. paul peak
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (9)
 
 Chris captured this image of rock lake from the north summit of rock peak Rock lake is in the genter of this
 

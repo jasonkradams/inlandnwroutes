@@ -65,7 +65,7 @@ Michael's Market & Bistro in Moses Lake
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Rock wren
 
@@ -77,13 +77,13 @@ Michael's Market & Bistro in Moses Lake
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ##
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Coyote skeleton?
 
@@ -113,7 +113,7 @@ Michael's Market & Bistro in Moses Lake
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## Overlooking i-90 where it crosses the columbia river at vantage
 
@@ -125,19 +125,19 @@ Michael's Market & Bistro in Moses Lake
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
-## bighorn sheep
+## bighorn sheep (2)
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ##
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (6)
 
 ## American kestrel
 
@@ -155,19 +155,19 @@ Michael's Market & Bistro in Moses Lake
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (7)
 
-## petrified wood
+## petrified wood (2)
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (8)
 
 ## Death camas
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (9)
 
 ##
 
@@ -183,27 +183,27 @@ Michael's Market & Bistro in Moses Lake
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (10)
 
 ##
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (11)
 
 ## Simpson hedgehog cactus
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (12)
 
 ##
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (13)
 
-## simpson hedgehog cactus
+## simpson hedgehog cactus (2)
 
 ---
 
@@ -213,7 +213,7 @@ Michael's Market & Bistro in Moses Lake
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (14)
 
 ##
 
@@ -225,6 +225,6 @@ Michael's Market & Bistro in Moses Lake
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (15)
 
 ## Taking the double track back to the trail head

@@ -37,7 +37,7 @@ notes:
 
 # Little Guard Lookout
 
-*Little guard lookout rental 6031’*
+## Little guard lookout rental 6031’
 
 ## Description
 

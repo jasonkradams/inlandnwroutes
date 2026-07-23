@@ -24,7 +24,7 @@ stats:
 
 # Long Lake Launch1
 
-*Long lake launch*
+## Long lake launch
 
 ## Description
 

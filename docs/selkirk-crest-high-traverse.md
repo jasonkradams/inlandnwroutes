@@ -35,7 +35,7 @@ notes:
 
 # Selkirk Crest High Traverse
 
-*Selkirk crest high traverse. trails # 217 & 279*
+## Selkirk crest high traverse. trails # 217 & 279
 
 ## Description
 
@@ -98,7 +98,7 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing)
 
 ## Two scramblers atop peak 7171’ with harrison lake below
 
@@ -110,7 +110,7 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details
 
 ## Harrison peak (left) peak 7171’ in distance & crest above harrison lake
 
@@ -144,7 +144,7 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (2)
 
 ## Chris admiring the meadows between harrison & little harrison lakes
 
@@ -156,13 +156,13 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (3)
 
 ## The crew posing below the selkirk crest, in the meadows
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (4)
 
 ## The selkirk crest with peak 7171’ on right
 
@@ -174,7 +174,7 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (5)
 
 ## The final drop down to little harrison lake
 
@@ -186,13 +186,13 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (6)
 
 ## Taking a break before the scramble up top right
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (7)
 
 ## Little harrison lake photo by jennifer stone
 
@@ -204,7 +204,7 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (8)
 
 ## The crew making gear changes on the ascent above little harrison lake
 
@@ -216,7 +216,7 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 ---
 
-*Picture (Image missing)*
+### Picture (Image missing) Details (9)
 
 ## The selkirk crest from the ridge to beehive lake
 

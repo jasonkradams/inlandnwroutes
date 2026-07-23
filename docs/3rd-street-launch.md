@@ -21,7 +21,7 @@ stats:
 
 # 3Rd Street Launch
 
-*LIBERTY LAKE 3rd STREET LAUNCH*
+## LIBERTY LAKE 3rd STREET LAUNCH
 
 ## Description
 
