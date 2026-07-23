@@ -10,33 +10,6 @@
       "line_length": 120,
       "heading_line_length": 120,
       "code_block_line_length": 120
-    },
-    "MD033": {
-      "enabled": false
-    },
-    "MD007": {
-      "enabled": false
-    },
-    "MD011": {
-      "enabled": false
-    },
-    "MD024": {
-      "enabled": false
-    },
-    "MD012": {
-      "enabled": false
-    },
-    "MD036": {
-      "enabled": false
-    },
-    "MD025": {
-      "enabled": false
-    },
-    "MD041": {
-      "enabled": false
-    },
-    "MD032": {
-      "enabled": false
     }
   }
 }

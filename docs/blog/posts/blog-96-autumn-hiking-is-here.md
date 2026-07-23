@@ -72,7 +72,7 @@ Mount Spokane has many trails that have great fall colors. Log onto the above ur
 system. But don’t forget to hike to the summit. The Vista House and the views are exceptional. Don't miss
 the Quarts Mountain fire lookout, that has excellent views of Spokane and the valley.
 
-**Riverside state park**
+Riverside state park
 
 <https://parks.wa.gov/find-parks/state-parks/riverside-state-park>
 
@@ -84,7 +84,7 @@ Strenuous hikes
 
 The next two hikes are so incredible, you won’t want to miss either of them.
 
-**Upper & Lower Stevens Lakes, Idaho**
+Upper & Lower Stevens Lakes, Idaho
 
 <https://www.inlandnwroutes.com/upper-and-lower-stevens-lake.html>
 
@@ -95,7 +95,7 @@ the next 30 days, providing it doesn’t snow or have a freeze event.
 
 At the bottom of the of this write up are three historical articles, worth reading.
 
-**Lone Lake & the Upper Sanctuary**
+Lone Lake & the Upper Sanctuary
 
 <https://www.inlandnwroutes.com/lone-long-lake-lakes.html>
 

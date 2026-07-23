@@ -96,4 +96,4 @@ While you are in any of our Resource sections, please read and understand everyt
 
 Be safe and enjoy your outings in Nature. Thank you all for reading and using our free, local website.
 
-**Chic & David**
+Chic & David
