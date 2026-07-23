@@ -5,18 +5,18 @@
 ---
 
 !!! danger "Red Alert: Forest & Trail Closures"
-**Hawk Creek Falls S.P.** is closed from 4/16 to 10/6 due to park improvements (includes water access).
+    **Hawk Creek Falls S.P.** is closed from 4/16 to 10/6 due to park improvements (includes water access).
 
-**Forest Roads & Trail Closures**:
+    **Forest Roads & Trail Closures**:
 
-- Forest road #239 at Jeru Creek is closed.
+    - Forest road #239 at Jeru Creek is closed.
 
-- Lightning Creek road #419 and Trestle Creek road #275 (including Beetop Mt.) are closed until 12/11/2026
-  or longer.
+    - Lightning Creek road #419 and Trestle Creek road #275 (including Beetop Mt.) are closed until
+      12/11/2026 or longer.
 
-- Forest road #805 to Settlers Grove of Ancient Cedars is washed out and closed.
+    - Forest road #805 to Settlers Grove of Ancient Cedars is washed out and closed.
 
-*Access Note*: Harrison Lake & Peak can be accessed via Trail #6 from Myrtle Creek drainage forest road
+    *Access Note*: Harrison Lake & Peak can be accessed via Trail #6 from Myrtle Creek drainage forest road
 
 #633. Please
 consult USFS links at the bottom of each route write-up before heading out. Violations carry heavy fines and
@@ -41,17 +41,17 @@ route page.</p> </div>
 </div>
 
 !!! warning "Check Conditions Before You Drive"
-Always check weather forecasts and call ranger districts listed in each route description to verify there
-are no active closures or wildfire alerts before traveling to trailheads.
+    Always check weather forecasts and call ranger districts listed in each route description to verify
+    there are no active closures or wildfire alerts before traveling to trailheads.
 
 ---
 
-> *"Wondering is wanderful."*
+    > *"Wondering is wanderful."*
 
-> — Chic
+    > — Chic
 
-> > *"If you are working on something that you really care about, you don't have to be pushed. The vision
-pulls you."* > — Steve Jobs
+    > > *"If you are working on something that you really care about, you don't have to be pushed. The
+    vision pulls you."* > — Steve Jobs
 
-*This shared passion guided Chic and David while building Inland NW Routes. Thank you for exploring with
-us!*
+    *This shared passion guided Chic and David while building Inland NW Routes. Thank you for exploring with
+    us!*

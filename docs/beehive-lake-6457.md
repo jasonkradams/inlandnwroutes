@@ -39,16 +39,15 @@ notes:
 # Beehive Lake 6457
 
 !!! info "Quick Facts: Beehive Lake & Selkirk Crest"
-
-- **Elevation:** 6,457' (Lake), Trail #279
-- **Distance:** 7.2 miles RT to Beehive Lake (Loop ~11 miles)
-- **Elevation Gain:** 2,040'
-- **Lake Size:** 12 acres
-- **Difficulty:** Moderately difficult to Beehive Lake, strenuous off-trail scrambles
-- **Maps:** IPNF - Kaniksu N.F., USGS - The Wigwams, ID
-- **GPS:** 48° 38’ 59.3"N 116° 37’ 25.0"W
-- **Ranger District:** Sandpoint R.D. (208.263.5111)
-- **County Sheriff:** Boundary County Sheriff (911 or 208.267.3151)
+    - **Elevation:** 6,457' (Lake), Trail #279
+    - **Distance:** 7.2 miles RT to Beehive Lake (Loop ~11 miles)
+    - **Elevation Gain:** 2,040'
+    - **Lake Size:** 12 acres
+    - **Difficulty:** Moderately difficult to Beehive Lake, strenuous off-trail scrambles
+    - **Maps:** IPNF - Kaniksu N.F., USGS - The Wigwams, ID
+    - **GPS:** 48° 38’ 59.3"N 116° 37’ 25.0"W
+    - **Ranger District:** Sandpoint R.D. (208.263.5111)
+    - **County Sheriff:** Boundary County Sheriff (911 or 208.267.3151)
 
 ## Description
 
@@ -59,9 +58,9 @@ goes onto the famous Selkirk Granite. Soon the granite leads you to the NE end o
 (south) is an area to camp and have great views of the lake and the Selkirk Crest high above.
 
 !!! warning "Trail Condition Notice"
-
-This trail's conditions have decayed substantially in recent seasons. Please allot more uphill hiking time.
-Downhill walking is slightly more difficult.
+    - This trail's conditions have decayed substantially in recent seasons. Please allot more uphill hiking
+      time.
+    - Downhill walking is slightly more difficult.
 
 ## Route Options & Scrambles
 
@@ -184,4 +183,4 @@ _Jennifer Stone sitting on a stone._
 
 !!! quote "Chic's Trail Advice (2012)"
 
-When you have a choice of paths... always choose the fun one. — Chic Burge
+    When you have a choice of paths... always choose the fun one. — Chic Burge

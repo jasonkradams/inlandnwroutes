@@ -45,9 +45,9 @@ notes:
 
 !!! warning "Before you go"
 
-Good news, f.r. #231 is open to the harrison lake trailhead as of 3.12.26
+    Good news, f.r. #231 is open to the harrison lake trailhead as of 3.12.26
 
-*HARRISON LAKE & PEAK 7292' Trial # 217 & 6*
+    *HARRISON LAKE & PEAK 7292' Trial # 217 & 6*
 
 ## Description
 

@@ -33,9 +33,9 @@ I carry a pad of paper and a pen in my 13 Essentials just for this reason and fo
 - **Control Bleeding:** If your victim is bleeding, do what it takes to stop the bleeding.
 
 !!! warning "Tourniquet Precautions"
-A tourniquet is a great tool, but it **MUST BE ADMINISTERED CORRECTLY**. Get instructions from a licensed
-professional. An improperly applied tourniquet can cause more harm than help and is rarely used in emergency
-care. What you want to do is restrict blood flow — not cut it off completely.
+    A tourniquet is a great tool, but it **MUST BE ADMINISTERED CORRECTLY**. Get instructions from a
+    licensed professional. An improperly applied tourniquet can cause more harm than help and is rarely
+    used in emergency care. What you want to do is restrict blood flow — not cut it off completely.
 
 ## CPR, First Aid & Shock Treatment
 
@@ -43,8 +43,8 @@ It would be a very good idea to take a **CPR & FIRST AID CLASS**. This way, you 
 victim, hopefully without doing any more harm.
 
 !!! info "Treating for Shock (Mayo Clinic)"
-Lay the person down and elevate the legs and feet slightly, unless you think this may cause pain or further
-injury. Keep the person still and don't move the person unless necessary.
+    Lay the person down and elevate the legs and feet slightly, unless you think this may cause pain or
+    further injury. Keep the person still and don't move the person unless necessary.
 
 ## What Constitutes a Real Emergency?
 
@@ -81,6 +81,6 @@ As a member of the Spokane Mountaineers, I know they offer Wilderness First Aid 
 the more likely you can help others — and maybe even yourself.
 
 !!! quote "Benjamin Franklin"
-"If you fail to plan… you are planning to fail."
+    "If you fail to plan… you are planning to fail."
 
-Chic Burge & David Crafton
+    Chic Burge & David Crafton

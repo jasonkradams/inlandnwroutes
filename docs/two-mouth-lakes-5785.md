@@ -39,9 +39,9 @@ notes:
 
 !!! warning "Before you go"
 
-A friend told me that this hike has a new trailhead, .25 miles beyond the old trailhead
+    A friend told me that this hike has a new trailhead, .25 miles beyond the old trailhead
 
-*Two mouth lakes 5785'. trail #268*
+    *Two mouth lakes 5785'. trail #268*
 
 ## Description
 

@@ -41,12 +41,12 @@ notes:
 
 !!! warning "Before you go"
 
-A warning about the road to the cliff lake, St paul peak and rock peak road. After visiting the area
-wednesday 8.4.22, I want to tell you about the road. From f.r. 150, f.r. 2741 up to the trailhead, Is
-extremely rough' and cars wont make it to the trailhead. The walk up the road to the trailhead Is about 2.4
-miles. and will save your vehicles from damage. Please use caution
+    A warning about the road to the cliff lake, St paul peak and rock peak road. After visiting the area
+    wednesday 8.4.22, I want to tell you about the road. From f.r. 150, f.r. 2741 up to the trailhead,
+    Is extremely rough' and cars wont make it to the trailhead. The walk up the road to the trailhead Is
+    about 2.4 miles. and will save your vehicles from damage. Please use caution
 
-*Chicago peak 7018'*
+    *Chicago peak 7018'*
 
 ## Description
 

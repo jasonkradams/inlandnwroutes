@@ -39,11 +39,11 @@ notes:
 
 !!! warning "Before you go"
 
-Fyi.....the bunco road to north chilco is closed to all visitors until roctober 9, 2025. a logging operation
-is scheduled, but can be rescinded early. Check out the usfs alerts below for additional info. this closure
-does not affect south chilco via forest road #406
+    Fyi.....the bunco road to north chilco is closed to all visitors until roctober 9, 2025. a logging
+    operation is scheduled, but can be rescinded early. Check out the usfs alerts below for additional
+    info. this closure does not affect south chilco via forest road #406
 
-*north and south chilco peak national recreation trail #14*
+    *north and south chilco peak national recreation trail #14*
 
 ## Description
 

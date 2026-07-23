@@ -36,10 +36,10 @@ notes:
 
 !!! warning "Before you go"
 
-This hike is for the most Seasoned of scramblers If you haven't hiked this kind of terrain for decades. do
-not attempt
+    This hike is for the most Seasoned of scramblers If you haven't hiked this kind of terrain for decades.
+    do not attempt
 
-*A peak 8,634'*
+    *A peak 8,634'*
 
 ## Description
 

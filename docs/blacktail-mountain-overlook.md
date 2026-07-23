@@ -37,9 +37,9 @@ notes:
 
 !!! warning "Before you go"
 
-Blacktail mountain overlook
+    Blacktail mountain overlook
 
-*Pend orielle lake trail # 117*
+    *Pend orielle lake trail # 117*
 
 ## Description
 

@@ -20,8 +20,8 @@ fine joints and fractures, which mechanical weathering subsequently loosened int
 _Myrtle’s Turtle: A massive dome of exposed granitic rock in the Selkirks._
 
 !!! info "Further Geologic Reading"
-For additional background on local geology, visit
-[Mountains moved to form the Purcell Trench](https://www.naturallynorthidaho.com/2012/12/mountains-moved-to-form-purcell-trench.htm){:target="_blank"}.
+    For additional background on local geology, visit
+    [Mountains moved to form the Purcell Trench](https://www.naturallynorthidaho.com/2012/12/mountains-moved-to-form-purcell-trench.htm){:target="_blank"}.
 
 ---
 
@@ -74,14 +74,14 @@ _A possible xenolith along the trail—dark rock contrasting sharply with surrou
 
 !!! note "Origin of Intrusions & Inclusions"
 
-- **Xenoliths:** Foreign rock fragments that fell from the wall or ceiling of a magma chamber and were
-  trapped without fully melting before the magma solidified.
+    - **Xenoliths:** Foreign rock fragments that fell from the wall or ceiling of a magma chamber and were
+      trapped without fully melting before the magma solidified.
 
-- **Mineral Veins:** Fractures (often created by fault movement) that filled with later-stage magma or
-  silica-rich fluids, cooling into distinct quartz veins.
+    - **Mineral Veins:** Fractures (often created by fault movement) that filled with later-stage magma or
+      silica-rich fluids, cooling into distinct quartz veins.
 
-Finding various granite types, granodiorite, quartz veins, and xenoliths makes exploring the Selkirks feel
-like a geological scavenger hunt without a map.
+    Finding various granite types, granodiorite, quartz veins, and xenoliths makes exploring the Selkirks
+    feel like a geological scavenger hunt without a map.
 
 ---
 
@@ -134,7 +134,7 @@ _Looking east across the Purcell Trench toward the Purcell Mountains._
 ### Regional Tectonic & Glacial History
 
 !!! quote "Geology of North Idaho & Western Montana"
-_Adapted from historical geological analyses by Charles Mortensen._
+    _Adapted from historical geological analyses by Charles Mortensen._
 
 #### Prehistoric Timeline & Terrane Accretion
 
@@ -209,15 +209,15 @@ managed to maintain primitive wilderness values.
 
 !!! info "Quick Facts: American Selkirks"
 
-- **Total Area:** ~2,500 square miles (~2/3 in Idaho, 1/3 in Washington)
+    - **Total Area:** ~2,500 square miles (~2/3 in Idaho, 1/3 in Washington)
 
-- **High Point:** UN 7,709 (*7,709 ft*)
+    - **High Point:** UN 7,709 (*7,709 ft*)
 
-- **Designated Wilderness:** Salmo-Priest Wilderness (*39,937 acres*)
+    - **Designated Wilderness:** Salmo-Priest Wilderness (*39,937 acres*)
 
-- **Primary Land Manager:** Idaho Panhandle National Forest
+    - **Primary Land Manager:** Idaho Panhandle National Forest
 
-- **Base Elevations:** 2,400 ft (Priest Lake / West) | 1,700 ft (Purcell Trench / East)
+    - **Base Elevations:** 2,400 ft (Priest Lake / West) | 1,700 ft (Purcell Trench / East)
 
 ### Regional Geography & Topography
 
@@ -251,9 +251,9 @@ lobes that advanced southward from Canada during the last ice age. Smaller mount
 west between Priest Lake and the Pend Oreille River in Washington State.
 
 !!! note "Peak Listing Criteria"
-Mountain listings for this area primarily highlight peaks above 7,000 feet in elevation that are either
-named or possess at least 300 feet of topographic prominence. Numerous worthwhile peaks exist between 6,000
-and 7,000 feet; consult individual mountain pages in the sidebar for details.
+    Mountain listings for this area primarily highlight peaks above 7,000 feet in elevation that are either
+    named or possess at least 300 feet of topographic prominence. Numerous worthwhile peaks exist
+    between 6,000 and 7,000 feet; consult individual mountain pages in the sidebar for details.
 
 ---
 
@@ -286,18 +286,18 @@ left them without formal legislative protection.
 #### Long Canyon Basin
 
 !!! tip "Long Canyon's Unique Character"
-**Long Canyon** is the largest unroaded and unmanaged valley in North Idaho, stretching roughly 18 miles
-from
+    **Long Canyon** is the largest unroaded and unmanaged valley in North Idaho, stretching roughly 18 miles
+    from
 
-the crest
+    the crest
 
-down to a giant hanging valley in the Purcell Trench near the Canadian border.
+    down to a giant hanging valley in the Purcell Trench near the Canadian border.
 
-- **Old-Growth Canopy:** Features a spectacular 10-mile continuous corridor of ancient Western Red Cedar,
-  Western Hemlock, and Western White Pine.
+    - **Old-Growth Canopy:** Features a spectacular 10-mile continuous corridor of ancient Western Red
+      Cedar, Western Hemlock, and Western White Pine.
 
-- **Wilderness Status:** Despite being North Idaho's premier remote sanctuary, formal wilderness proposals
-  have failed due to timber resource values and prohibitive road-building costs.
+    - **Wilderness Status:** Despite being North Idaho's premier remote sanctuary, formal wilderness
+      proposals have failed due to timber resource values and prohibitive road-building costs.
 
 #### Priest Lake & Upper Priest Lake
 
@@ -349,10 +349,10 @@ They lived a semi-nomadic lifestyle focused on hunting, fishing, and gathering, 
 neighboring Flathead, Kalispel, and Pend Oreille tribes.
 
 !!! quote "The 1975 Declaration of War"
-The Kootenai Tribe was omitted from the 1855 Hellgate Treaty and left without recognized reservation lands.
-On **September 20, 1975**, the Kootenai Tribe of Idaho gained international attention when it formally
-declared war on the United States. The nonviolent protest successfully pressured the federal government to
-grant the tribe official reservation land in North Idaho.
+    The Kootenai Tribe was omitted from the 1855 Hellgate Treaty and left without recognized reservation
+    lands. On **September 20, 1975**, the Kootenai Tribe of Idaho gained international attention when it
+    formally declared war on the United States. The nonviolent protest successfully pressured the
+    federal government to grant the tribe official reservation land in North Idaho.
 
 #### Early Explorers, Missionaries & Place Names
 
@@ -417,14 +417,15 @@ and dry (<1 inch rain per month), punctuated by afternoon convectional thunderst
   plant species at the extreme southern limit of their North American range.
 
 !!! warning "Wildfire History: The 1967 Sundance Fire"
-In 1967, the famous **Sundance Fire** ignited east of Priest Lake. Fueled by extreme winds, it executed a
+    In 1967, the famous **Sundance Fire** ignited east of Priest Lake. Fueled by extreme winds, it executed
+    a
 
-terrifying
+    terrifying
 
-16-mile run toward Bonners Ferry in under 8 hours—burning at an incredible rate of **100 acres per minute**
-and charring
+    16-mile run toward Bonners Ferry in under 8 hours—burning at an incredible rate of **100 acres per
+    minute** and charring
 
-57,000 acres across Sundance Mountain, Pack River Canyon, and Roman Nose.
+    57,000 acres across Sundance Mountain, Pack River Canyon, and Roman Nose.
 
 ---
 
@@ -435,18 +436,19 @@ contiguous Pacific Northwest that retains its full historical complement of nati
 
 !!! important "Threatened & Sensitive Species"
 
-- **Woodland Caribou:** Historically roaming south to the Snake River Plain, the endangered Selkirk herd
-  represents the last woodland caribou in the lower 48 states. They rely heavily on arboreal lichens in
-  old-growth forests for winter survival.
+    - **Woodland Caribou:** Historically roaming south to the Snake River Plain, the endangered Selkirk herd
+      represents the last woodland caribou in the lower 48 states. They rely heavily on arboreal
+      lichens in old-growth forests for winter survival.
 
-- **Grizzly Bears:** A small native population of 35 to 40 grizzly bears inhabits the US Selkirks.
-  Management policies restrict motorized road access in timber units to prevent human-bear conflict.
+    - **Grizzly Bears:** A small native population of 35 to 40 grizzly bears inhabits the US Selkirks.
+      Management policies restrict motorized road access in timber units to prevent human-bear
+      conflict.
 
-- **Grey Wolves & Lynx:** A naturally formed, self-established wolf pack returned to the Selkirks in 2005.
-  Canada lynx, wolverine, and pine marten also inhabit the high backcountry.
+    - **Grey Wolves & Lynx:** A naturally formed, self-established wolf pack returned to the Selkirks
+in 2005. Canada lynx, wolverine, and pine marten also inhabit the high backcountry.
 
-- **Native Fish:** Native **Bull Trout** (federally Threatened) and **Westslope Cutthroat Trout** inhabit
-  pristine mountain streams and lakes.
+    - **Native Fish:** Native **Bull Trout** (federally Threatened) and **Westslope Cutthroat Trout**
+      inhabit pristine mountain streams and lakes.
 
 ---
 
@@ -475,11 +477,11 @@ require backcountry hiking to reach and offer excellent trout fishing (stocked a
 
 !!! caution "Red Tape & Trailhead Parking"
 
-- **Permits & Fees:** No general access fees or wilderness permits are required to enter the Selkirks at
-  this time.
+    - **Permits & Fees:** No general access fees or wilderness permits are required to enter the Selkirks at
+      this time.
 
-- **Parking Enforcement:** Popular trailheads (such as **Pyramid Lake**) have strictly limited parking
-  spaces. Parking outside designated areas is prohibited and subject to citation.
+    - **Parking Enforcement:** Popular trailheads (such as **Pyramid Lake**) have strictly limited parking
+      spaces. Parking outside designated areas is prohibited and subject to citation.
 
 ---
 

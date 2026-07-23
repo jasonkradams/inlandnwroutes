@@ -29,13 +29,14 @@ It was on that trip that I decided to emphasize two rules on our website:
 
 !!! warning "Essential Pre-Hike Safety Rules"
 
-1. **Check Forest Closures:** Always call the Forest Service or check online to verify if your route or
-   trailhead is affected by closures, bridge work, or fire restrictions.
-2. **File a Trip Itinerary:** Tell a responsible person your exact route, destination, and expected return
-   time, plus when to notify the local sheriff if you are overdue. If you change your destination, notify
-   your contact immediately so search and rescue teams search the correct location.
+    1. **Check Forest Closures:** Always call the Forest Service or check online to verify if your route or
+       trailhead is affected by closures, bridge work, or fire restrictions.
+    2. **File a Trip Itinerary:** Tell a responsible person your exact route, destination, and expected
+       return time, plus when to notify the local sheriff if you are overdue. If you change your
+       destination, notify your contact immediately so search and rescue teams search the correct
+       location.
 
-Both rules are critical in case of an unforeseen emergency.
+    Both rules are critical in case of an unforeseen emergency.
 
 ## Two Bear Air Rescue Service
 
@@ -54,10 +55,10 @@ friend would be evacuated safely without a complicated ground carryout.
 
 !!! info "Two Bear Air Rescue Facts"
 
-- **Base:** Kalispell, Montana (serving the Inland Northwest).
-- **Cost to Patient:** 100% Free search and rescue support ($0 cost to the patient).
-- **Evacuation:** The hiker was airlifted directly to Lookout Pass Ski Area parking lot, where an ambulance
-  was waiting.
+    - **Base:** Kalispell, Montana (serving the Inland Northwest).
+    - **Cost to Patient:** 100% Free search and rescue support ($0 cost to the patient).
+    - **Evacuation:** The hiker was airlifted directly to Lookout Pass Ski Area parking lot, where an
+      ambulance was waiting.
 
 ## Preparation & Resources
 

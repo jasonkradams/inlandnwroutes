@@ -52,11 +52,11 @@ notes:
 
 !!! warning "Before you go"
 
-i have revised this section.
+    i have revised this section.
 
-It was brought to my attention that part of this plants description was incorrect. FIREWEED is toxic to some
-stock and animals. It is not toxic to humans. id like to thank ben clark for bringing this to my attention.
-chic
+    It was brought to my attention that part of this plants description was incorrect. FIREWEED is toxic to
+    some stock and animals. It is not toxic to humans. id like to thank ben clark for bringing this to
+    my attention. chic
 
 ## Description
 

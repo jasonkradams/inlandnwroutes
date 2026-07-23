@@ -16,8 +16,13 @@ def smart_wrap_paragraph(line, max_len=108):
     if re.search(r'^\s*!\[.*\]\(.*\)\s*$', line):
         return [line]
     
+    # Detect leading indent (e.g. 4 spaces for admonitions)
+    indent_match = re.match(r'^(\s*)', line)
+    base_indent = indent_match.group(1) if indent_match else ''
+    line_unindented = line[len(base_indent):]
+
     # Detect list prefix (bullet or number)
-    match = re.match(r'^(\s*[\*\-\+]\s+|\s*\d+\.\s+)?(.*)$', line)
+    match = re.match(r'^(\s*[\*\-\+]\s+|\s*\d+\.\s+)?(.*)$', line_unindented)
     if not match:
         return [line]
     
@@ -27,8 +32,8 @@ def smart_wrap_paragraph(line, max_len=108):
     if not text.strip():
         return [line]
         
-    sub_indent = ' ' * len(prefix) if prefix else ''
-    available_width = max(30, max_len - len(prefix))
+    sub_indent = base_indent + (' ' * len(prefix) if prefix else '')
+    available_width = max(30, max_len - len(base_indent) - len(prefix))
     
     # Protect Markdown links [anchor](url) with exact-length dummy tokens so textwrap calculates length accurately
     links = []
@@ -60,7 +65,7 @@ def smart_wrap_paragraph(line, max_len=108):
             w = w.replace(token, l_str)
         restored_wrapped.append(w)
 
-    restored_wrapped[0] = prefix + restored_wrapped[0]
+    restored_wrapped[0] = base_indent + prefix + restored_wrapped[0]
     
     # Prevent wrapped lines from starting with numbers like '1903.' to avoid MD029 false positives
     cleaned_wrapped = []
@@ -78,18 +83,20 @@ def smart_wrap_paragraph(line, max_len=108):
 
 def process_body_lines(lines, max_len=108):
     in_code = False
+    in_admonition = False
     blocks = []
     curr_block = []
     curr_type = None  # 'para', 'list'
+    curr_indent = ''
 
     def flush_block():
-        nonlocal curr_block, curr_type
+        nonlocal curr_block, curr_type, curr_indent
         if not curr_block:
             return
         if curr_type == 'para':
             joined = ' '.join(l.strip() for l in curr_block if l.strip())
             joined = re.sub(r'\s+', ' ', joined)
-            wrapped = smart_wrap_paragraph(joined, max_len=max_len)
+            wrapped = smart_wrap_paragraph(curr_indent + joined, max_len=max_len)
             blocks.extend(wrapped)
         elif curr_type == 'list':
             list_items = []
@@ -108,12 +115,13 @@ def process_body_lines(lines, max_len=108):
             for item in list_items:
                 item = re.sub(r'^\*\s+', r'- ', item)
                 item = re.sub(r'\s+', ' ', item)
-                wrapped = smart_wrap_paragraph(item, max_len=max_len)
+                wrapped = smart_wrap_paragraph(curr_indent + item, max_len=max_len)
                 blocks.extend(wrapped)
         else:
             blocks.extend(curr_block)
         curr_block = []
         curr_type = None
+        curr_indent = ''
 
     for line in lines:
         if line.strip().startswith('```'):
@@ -127,6 +135,28 @@ def process_body_lines(lines, max_len=108):
             continue
 
         stripped = line.strip()
+
+        # Handle admonition blocks (!!! info "Title")
+        if line.startswith('!!!'):
+            flush_block()
+            in_admonition = True
+            blocks.append(line.rstrip())
+            continue
+
+        if in_admonition:
+            if not stripped:
+                flush_block()
+                blocks.append('')
+                continue
+            elif stripped.startswith('#') or stripped.startswith('!!!'):
+                flush_block()
+                in_admonition = False
+                indent = ''
+            else:
+                indent = '    '
+        else:
+            indent = ''
+
         if not stripped:
             flush_block()
             blocks.append('')
@@ -150,11 +180,13 @@ def process_body_lines(lines, max_len=108):
             if is_list and curr_type != 'list':
                 flush_block()
                 curr_type = 'list'
+                curr_indent = indent
             curr_block.append(line.rstrip())
         else:
             if curr_type != 'para':
                 flush_block()
                 curr_type = 'para'
+                curr_indent = indent
             curr_block.append(line.rstrip())
 
     flush_block()

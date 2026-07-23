@@ -70,10 +70,10 @@ The next two hikes are so incredible you won’t want to miss either of them:
 
 !!! warning "Autumn Hiking Safety Checklist"
 
-- **Clothing:** Dress in warm, synthetic or wool layers; avoid cotton. Bring waterproof rain/snow gear.
-- **Footwear & Traction:** Wear waterproof boots and carry traction devices (microspikes).
-- **Essentials:** Bring a thermos of hot cocoa, extra food, water, headlamp, and navigation tools.
+    - **Clothing:** Dress in warm, synthetic or wool layers; avoid cotton. Bring waterproof rain/snow gear.
+    - **Footwear & Traction:** Wear waterproof boots and carry traction devices (microspikes).
+    - **Essentials:** Bring a thermos of hot cocoa, extra food, water, headlamp, and navigation tools.
 
-David and I would like to thank you for reading and using our local website.
+    David and I would like to thank you for reading and using our local website.
 
-Chic Burge & David Crafton
+    Chic Burge & David Crafton

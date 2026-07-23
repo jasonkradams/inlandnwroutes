@@ -69,6 +69,8 @@ wilderness reports from around the Inland Northwest.
   [Blog #86: How to waterproof your tec...](posts/blog-86-how-to-waterproof-your-technical-gear.md)
 - **2025-01-14**: [Blog #81: An article on gps units](posts/blog-81-an-article-on-gps-units.md)
 - **2025-01-02**: [Blog #80: Winter sshoeng and hiking](posts/blog-80-winter-sshoeng-and-hiking.md)
+- **2024-10-28**:
+  [Blog #77: Home Page Clean Up & Safety Rules](posts/blog-77-home-page-clean-up-and-more.md)
 - **2024-10-16**: [Blog #75: Technical clothing & waterproofing](posts/october-16th-2024.md)
 - **2024-06-07**: [Blog #63: Early season hiking](posts/early-season-hiking.md)
 - **2024-03-15**:
@@ -126,7 +128,6 @@ wilderness reports from around the Inland Northwest.
   [Blog # 84: Our trails and forests are ...](posts/blog-84-our-trails-and-forests-are-in-peril.md)
 - **2025-01-31**:
   [Blog #82: Freezing temperature...](posts/blog-82-freezing-temperature-while-hiking-or-skiing.md)
-- **2024-10-28**: [Blog #77: Home page clean up and more](posts/blog-77-home-page-clean-up-and-more.md)
 - **2024-10-21**:
   [Blog #76: Toilet paper and slobs i...](posts/blog-76-toilet-paper-and-slobs-in-the-mountains.md)
 - **2024-09-07**: [Blog #73: Camp fire etiquette](posts/blog-73-camp-fire-etiquette.md)

@@ -17,13 +17,13 @@ Montana, Idaho, and beyond to assist in search and rescue missions at no cost to
 <!-- more -->
 
 !!! info "Two Bear Air Video Feature"
-Be sure to watch this video detailing Two Bear Air's capabilities and operations:
-<https://vimeo.com/921329656>
+    Be sure to watch this video detailing Two Bear Air's capabilities and operations:
+    <https://vimeo.com/921329656>
 
-Hi InlandNWRoutes Readers,
+    Hi InlandNWRoutes Readers,
 
-Today I would like to tell you about a group of people from Montana that has rescued one of our own, at no
-cost.
+    Today I would like to tell you about a group of people from Montana that has rescued one of our own, at
+    no cost.
 
 ## Two Bear Air Rescue Service
 
@@ -58,10 +58,10 @@ If the victim is or goes unconscious, you need to know exactly what to do. First
 You and the others on the trip may need to administer CPR.
 
 !!! tip "Emergency Advice from Chic & David"
-David and I strongly encourage all of you to take a certified CPR and First Aid course. All hikers should
-know what to do in an emergency.
+    David and I strongly encourage all of you to take a certified CPR and First Aid course. All hikers
+    should know what to do in an emergency.
 
-This scenario, although serious, was not life-threatening, and the victim is already back hiking.
+    This scenario, although serious, was not life-threatening, and the victim is already back hiking.
 
 ## Related Safety Blogs & Resources
 

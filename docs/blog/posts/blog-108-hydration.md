@@ -33,17 +33,17 @@ different things.
 ## Warnings: Energy Drinks & Thirst Signals
 
 !!! warning "Avoid Popular Energy Drinks"
-I KNOW THIS WILL BE HARD TO HEAR, BUT PLEASE HEED MY WARNING! **DO NOT DRINK THE POPULAR ENERGY DRINKS.**
-They are
+    I KNOW THIS WILL BE HARD TO HEAR, BUT PLEASE HEED MY WARNING! **DO NOT DRINK THE POPULAR ENERGY
+    DRINKS.** They are
 
-loaded with caffeine and can cause heart issues in even the fittest of us.
+    loaded with caffeine and can cause heart issues in even the fittest of us.
 
-For proper hydration, do not allow yourself to feel thirsty. If your mouth dries up or you sweat too much,
-you could be in danger:
+    For proper hydration, do not allow yourself to feel thirsty. If your mouth dries up or you sweat too
+    much, you could be in danger:
 
-1. At the first hint of a dry mouth, start drinking enough water to quench your thirst.
+    1. At the first hint of a dry mouth, start drinking enough water to quench your thirst.
 
-2. Keep drinking water continuously so as not to feel any degree of thirst.
+    2. Keep drinking water continuously so as not to feel any degree of thirst.
 
 ## Carrying & Filtering Water
 
@@ -67,13 +67,13 @@ color of your urine.
 
 !!! tip "Urine Color Hydration Check"
 
-- **Clear:** Properly hydrated.
+    - **Clear:** Properly hydrated.
 
-- **Slightly Yellow:** Okay at that moment, but monitor closely as it may change for the worse within 30
-  minutes.
+    - **Slightly Yellow:** Okay at that moment, but monitor closely as it may change for the worse within 30
+      minutes.
 
-- **Neon Yellow:** **YOU ARE IN TROUBLE. STOP AND HYDRATE THOROUGHLY IMMEDIATELY!** Our urine should look
-  clear. If it is not, start drinking or filtering water as soon as possible.
+    - **Neon Yellow:** **YOU ARE IN TROUBLE. STOP AND HYDRATE THOROUGHLY IMMEDIATELY!** Our urine should
+      look clear. If it is not, start drinking or filtering water as soon as possible.
 
 ## Resources & Knowledge
 

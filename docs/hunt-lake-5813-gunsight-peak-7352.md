@@ -45,30 +45,30 @@ _Hunt Lake 5,813' | Peak 6,976' | Gunsight Peak 7,352' | Trail #1_
 ## Overview & Trail Description
 
 !!! info "Emergency Contact Information"
-In case of emergency, evaluate your circumstances and contact local authorities if needed:
+    In case of emergency, evaluate your circumstances and contact local authorities if needed:
 
-- **Bonner County Sheriff:** Call **911** first, or `208-263-8417`.
+    - **Bonner County Sheriff:** Call **911** first, or `208-263-8417`.
 
-- **Sandpoint Ranger District:** `208-263-5111`.
+    - **Sandpoint Ranger District:** `208-263-5111`.
 
-Look for a wooden sign post marking the trailhead starting point. The trail quickly drops about 20 vertical
-feet before ascending into the boulder field that characterizes the main climb.
+    Look for a wooden sign post marking the trailhead starting point. The trail quickly drops about 20
+    vertical feet before ascending into the boulder field that characterizes the main climb.
 
-Historically, route-finding relied on following painted dots on the rocks. Today, heavy foot traffic has
-established a distinct trail alongside the boulders:
+    Historically, route-finding relied on following painted dots on the rocks. Today, heavy foot traffic has
+    established a distinct trail alongside the boulders:
 
-- **Ascent Strategy:** Stay along the tundra on the right side until reaching a path across the scree field
-  on the first shelf.
+    - **Ascent Strategy:** Stay along the tundra on the right side until reaching a path across the scree
+      field on the first shelf.
 
-- **Boulder Crossing:** The path crosses the scree field here and ascends along the left side of the old
-  trail toward the lake. This newer trail offers a faster and less arduous ascent.
+    - **Boulder Crossing:** The path crosses the scree field here and ascends along the left side of the old
+      trail toward the lake. This newer trail offers a faster and less arduous ascent.
 
-- **Trail Markers:** Follow pale green and orange surveyor ribbon along the left side of the giant scree
-  slopes. In places where the trail weaves through the forest away from the scree, you will occasionally
-  scramble back out onto the rocks.
+    - **Trail Markers:** Follow pale green and orange surveyor ribbon along the left side of the giant scree
+      slopes. In places where the trail weaves through the forest away from the scree, you will
+      occasionally scramble back out onto the rocks.
 
-When reaching the first bench on the ascent, turn around to note where the trail exits the scree slopes to
-the left back toward the trailhead.
+    When reaching the first bench on the ascent, turn around to note where the trail exits the scree slopes
+    to the left back toward the trailhead.
 
 ---
 
@@ -82,11 +82,11 @@ the left back toward the trailhead.
    been bolted over the 241 marker, and a wooden board labeled **HUNT LAKE** leans against the #24 post.
 
 !!! warning "High Clearance Vehicle Required"
-High-clearance trucks or SUVs are **strictly required** for the final 2 miles of the access road due to
+    High-clearance trucks or SUVs are **strictly required** for the final 2 miles of the access road due to
 
-severe
+    severe
 
-rutting and rocky terrain. Low-clearance passenger cars should not attempt this section.
+    rutting and rocky terrain. Low-clearance passenger cars should not attempt this section.
 
 ---
 
@@ -124,8 +124,9 @@ From Peak 6,514' (reached in Option 2), continue south along the ridge for appro
 ## Safety & Local Information
 
 !!! caution "Hazards & Safety Precautions"
-Off-trail scrambling across high-alpine boulder fields, scree slopes, and sharp granite ridges presents
-numerous hazards. Exercise extreme caution, monitor changing weather, and bring proper navigation tools.
+    Off-trail scrambling across high-alpine boulder fields, scree slopes, and sharp granite ridges presents
+    numerous hazards. Exercise extreme caution, monitor changing weather, and bring proper navigation
+    tools.
 
 ### Nearby Attractions
 
@@ -180,5 +181,5 @@ _Nearing the 6,740' saddle on the ridge below Gunsight Peak._
 _Looking down at Hunt Lake from the high summits near Mt. Roothaan and Chimney Rock._
 
 !!! quote "Backcountry Reflection"
-> *"Wandering is a state of mind, while bushwhackin' is a state of pleasure."* > — **Chic** (August 29,
-2012)
+    > *"Wandering is a state of mind, while bushwhackin' is a state of pleasure."* > — **Chic** (August 29,
+    2012)

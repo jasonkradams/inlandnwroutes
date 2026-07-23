@@ -60,11 +60,11 @@ The 13 Essentials can save your life. But if you ever find yourself without any 
 out into the mountains again without them.
 
 !!! tip "Restocking Your First Aid Kit"
-My 13 Essentials fit into an old zippered bank deposit bag. Carrying these is very important, but there is
-something even more critical: **If you use any of its contents, when you get home you MUST replace the used
-items.** Restocking
+    My 13 Essentials fit into an old zippered bank deposit bag. Carrying these is very important, but there
+    is something even more critical: **If you use any of its contents, when you get home you MUST
+    replace the used items.** Restocking
 
-your first aid kit immediately is critical.
+    your first aid kit immediately is critical.
 
 ## Blister Treatment: Spenco 2nd Skin Burn Dressing
 
@@ -78,21 +78,21 @@ the blister, but eliminates the pain entirely.
 
 !!! info "How to Apply Spenco 2nd Skin"
 
-1. **Clean:** Clean around the blister using alcohol cleaning pads and paper towels.
+    1. **Clean:** Clean around the blister using alcohol cleaning pads and paper towels.
 
-2. **Cut & Peel:** Cut the 2nd Skin pad to size (larger than the blister). Peel one side's protective layer
-   off and apply directly over the blister. **Do not touch the clean dressing.**
+    2. **Cut & Peel:** Cut the 2nd Skin pad to size (larger than the blister). Peel one side's protective
+       layer off and apply directly over the blister. **Do not touch the clean dressing.**
 
-3. **Remove Layer:** Peel the second protective layer off.
+    3. **Remove Layer:** Peel the second protective layer off.
 
-4. **Secure:** Apply athletic tape over the 2nd Skin to hold it securely in place.
+    4. **Secure:** Apply athletic tape over the 2nd Skin to hold it securely in place.
 
-**Required Tools:** Athletic tape, scissors, alcohol cleaning pads, paper towels.
+    **Required Tools:** Athletic tape, scissors, alcohol cleaning pads, paper towels.
 
 !!! warning "Keep Dressing Pack Sealed Airtight"
-There is a catch to using the Burn Dressings: if you only use half a pad, put the remainder back into its
-protective packaging and tape it shut **airtight**. If you don't, it will dry out and ruin the remaining
-pad.
+    There is a catch to using the Burn Dressings: if you only use half a pad, put the remainder back into
+    its protective packaging and tape it shut **airtight**. If you don't, it will dry out and ruin the
+    remaining pad.
 
 ### A Real-Life Example
 

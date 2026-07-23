@@ -26,9 +26,9 @@ stats:
 
 !!! warning "Before you go"
 
-Mount spokane ski & snowboard park Mountspokane.com
+    Mount spokane ski & snowboard park Mountspokane.com
 
-*Spokane, wa*
+    *Spokane, wa*
 
 ## of named runs: 52
 
