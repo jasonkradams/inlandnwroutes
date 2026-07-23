@@ -55,7 +55,7 @@ Take the water taxi from PV to Jelapa for a short hike to a  water fall with a 
 
 ## Photo gallery
 
-![Picture](/assets/images/img-0056.jpg)
+![Picture](assets/images/img-0056.jpg)
 
 ## The view from gringo hill
 
@@ -79,31 +79,31 @@ Take the water taxi from PV to Jelapa for a short hike to a  water fall with a 
 
 ---
 
-![Picture](/assets/images/img-0132.jpg)
+![Picture](assets/images/img-0132.jpg)
 
 ## Beer truck delivering up to gringo hill
 
 ---
 
-![Picture](/assets/images/img-0149.jpg)
+![Picture](assets/images/img-0149.jpg)
 
 ## Magnificient frigatebird
 
 ---
 
-![Picture](/assets/images/img-0645.jpg)
+![Picture](assets/images/img-0645.jpg)
 
 ## Amateur surfer
 
 ---
 
-![Picture](/assets/images/img-0187.jpg)
+![Picture](assets/images/img-0187.jpg)
 
 ## Erik's sea turtle sanctuary
 
 ---
 
-![Picture](/assets/images/img-0218.jpg)
+![Picture](assets/images/img-0218.jpg)
 
 ## The crowded beach
 
@@ -121,7 +121,7 @@ Take the water taxi from PV to Jelapa for a short hike to a  water fall with a 
 
 ---
 
-![Picture](/assets/images/img-0439.jpg)
+![Picture](assets/images/img-0439.jpg)
 
 ## From the north end of the beach looking south
 
@@ -133,7 +133,7 @@ Take the water taxi from PV to Jelapa for a short hike to a  water fall with a 
 
 ---
 
-![Picture](/assets/images/img-0332.jpg)
+![Picture](assets/images/img-0332.jpg)
 
 ## Jelapa falls with a full bar
 

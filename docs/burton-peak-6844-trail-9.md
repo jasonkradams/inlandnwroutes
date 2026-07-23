@@ -71,7 +71,7 @@ Jalapeños, Eichardts, Burger Express, Mr. Sub! All in Sandpoint
 
 ## Photo gallery
 
-![Picture](/assets/images/11162021843.jpg)
+![Picture](assets/images/11162021843.jpg)
 
 ## The "auto tour road" next the the channel, from the road to burton peak
 
@@ -79,27 +79,27 @@ Jalapeños, Eichardts, Burger Express, Mr. Sub! All in Sandpoint
 
 ## The kootenai national wildlife refuge from the myrtle peak road
 
-![Picture](/assets/images/p56.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p56_orig.png" }
+![Picture](assets/images/p56.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p56_orig.png" }
 
 ## The old lookout cabin on burton peak
 
 ---
 
-![Picture](/assets/images/p166.png)
+![Picture](assets/images/p166.png)
 
 ## Weathered logs of the burton peak fire lookout cabin
 
-![Picture](/assets/images/p167.png)
+![Picture](assets/images/p167.png)
 
 ## Burton peak from further up the cascade ridge ​a good spot to eat lunch
 
 ---
 
-![Picture](/assets/images/p55.png)
+![Picture](assets/images/p55.png)
 
 ## Burton peak from the kootenai national wildlife refuge auto route
 
-![Picture](/assets/images/p57.png)
+![Picture](assets/images/p57.png)
 
 ## Cascade ridge from pyramid peak trail
 

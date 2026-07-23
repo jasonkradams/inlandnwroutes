@@ -82,33 +82,33 @@ Jalapeños, Mr, Sub, Eichardt’s in Sandpoint
 
 ---
 
-![Picture](/assets/images/6132025445p.jpg)
+![Picture](assets/images/6132025445p.jpg)
 
-![Picture](/assets/images/p653.png)
+![Picture](assets/images/p653.png)
 
 ## An island of green amongst the grey of selkirk granite ​photo by jennifer stone
 
-![Picture](/assets/images/p133.png)
+![Picture](assets/images/p133.png)
 
 ## Super trail hero rich landers posing above little harrison lake
 
-![Picture](/assets/images/p651.png)
+![Picture](assets/images/p651.png)
 
 ## The descent route, top right to bottom middle
 
-![Picture](/assets/images/p652.png)
+![Picture](assets/images/p652.png)
 
 ## The west, or back shore line of little harrison lake
 
-![Picture](/assets/images/p654.png)
+![Picture](assets/images/p654.png)
 
 ## The north twin and l.h.l. north shore line
 
-![Picture](/assets/images/p122.png)
+![Picture](assets/images/p122.png)
 
 ## A spring waterfall above the little harrison lake
 
-![Picture](/assets/images/p655.png)
+![Picture](assets/images/p655.png)
 
 ## Amy taking an image of little harrison lake
 
@@ -116,11 +116,11 @@ Jalapeños, Mr, Sub, Eichardt’s in Sandpoint
 
 ## The s.e. shore of little harrison lake
 
-![Picture](/assets/images/p232.png)
+![Picture](assets/images/p232.png)
 
 ## The north east shore line of little harrison lake
 
-![Picture](/assets/images/202095157.jpg)
+![Picture](assets/images/202095157.jpg)
 
 ## The hiking crew, taking a break at l.h.l
 

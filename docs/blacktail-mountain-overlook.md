@@ -94,13 +94,13 @@ Trails End Brewery, Moon Time, Franklins Hoagies, and the Mexican Food Factory.
 
 ## Poison ivy       do not touch     if you do, do not touch yourself anywhere
 
-![Picture](/assets/images/p448.png)
+![Picture](assets/images/p448.png)
 
 ## The west shore line of pend orielle lake looking south
 
 ---
 
-![Picture](/assets/images/p449.png)
+![Picture](assets/images/p449.png)
 
 ## Granite rock, pend orielle lake
 
@@ -112,11 +112,11 @@ Trails End Brewery, Moon Time, Franklins Hoagies, and the Mexican Food Factory.
 
 ---
 
-![Picture](/assets/images/202159200.jpg)
+![Picture](assets/images/202159200.jpg)
 
 ## Trail #321 down to maiden rock boat camp thru a cedar forest
 
-![Picture](/assets/images/202159206.jpg)
+![Picture](assets/images/202159206.jpg)
 
 ## Maiden rock beach
 

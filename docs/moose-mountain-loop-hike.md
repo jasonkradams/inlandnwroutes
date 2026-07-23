@@ -110,39 +110,39 @@ Express, and Eichardt’s in Sandpoint.
 
 ---
 
-![Picture](/assets/images/2021115312-jpeg-1.jpg){: data-src="/assets/images/2021115312-jpeg-1.jpg" }
+![Picture](assets/images/2021115312-jpeg-1.jpg){: data-src="assets/images/2021115312-jpeg-1.jpg" }
 
 At the parking area is this sign showing the many options. be sure to snap an image of this sign for reference further along the trails
 
-![Picture](/assets/images/p40.png)
+![Picture](assets/images/p40.png)
 
 ## Trail directions at the first junction
 
 ---
 
-![Picture](/assets/images/2021115313-jpeg-1.jpg)
+![Picture](assets/images/2021115313-jpeg-1.jpg)
 
 ## The beginning of the moose mountain loop hike
 
 ---
 
-![Picture](/assets/images/2021115316-jpeg-1.jpg)
+![Picture](assets/images/2021115316-jpeg-1.jpg)
 
 ## Moose lake
 
-![Picture](/assets/images/2021115317-jpeg-1.jpg)
+![Picture](assets/images/2021115317-jpeg-1.jpg)
 
 Trail #213 near moose mountain summit. the peaks top center, is where lake estelle sits, on the other side
 
-![Picture](/assets/images/9302024614p.jpg)
+![Picture](assets/images/9302024614p.jpg)
 
 As you reach the summit of moose mountain, you get the first glimpse of the proposed scotchman peaks wilderness (middle range), and the cabinet mountain wilderness in the back ground
 
-![Picture](/assets/images/10112024710p.jpg)
+![Picture](assets/images/10112024710p.jpg)
 
 ## A telephoto image of A peak & snowshoe peak from moose mountain
 
-![Picture](/assets/images/9302024610p.jpg)
+![Picture](assets/images/9302024610p.jpg)
 
 ## Trail #213 as it heads down to the cars
 
@@ -152,7 +152,7 @@ Way off to the west is the american selkirks. can you spot chimney rock? ​this
 
 ---
 
-![Picture](/assets/images/10112024715p.jpg)
+![Picture](assets/images/10112024715p.jpg)
 
 ## A shingled hedgehog along the trail to moose mountain ​aka hawks wing mushroom
 

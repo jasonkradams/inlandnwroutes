@@ -72,7 +72,7 @@ Rustler’s Roost in Hayden on 95. In CDA, Mexican Food Factory, Franklin’s Ho
 
 ## Photo gallery
 
-![Picture](/assets/images/202163748.jpg)
+![Picture](assets/images/202163748.jpg)
 
 ## Cape horn on the north side of bayview
 
@@ -84,7 +84,7 @@ Just past steamboat rock are the cliffs above echo bay As soon as you get to ste
 
 ## Looking north from echo bay, with lakeview
 
-![Picture](/assets/images/202163759.jpg)
+![Picture](assets/images/202163759.jpg)
 
 ## Looking north with cape horn on left
 
@@ -94,6 +94,6 @@ Just past steamboat rock are the cliffs above echo bay As soon as you get to ste
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/202163808.jpg)
+![Picture](assets/images/202163808.jpg)
 
 ## The view from echo bay

@@ -82,42 +82,42 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-![Picture](/assets/images/929412.jpg)
+![Picture](assets/images/929412.jpg)
 
 ## Palouse falls from the fryxell trail
 
-![Picture](/assets/images/929416.jpg)
+![Picture](assets/images/929416.jpg)
 
 ## The palouse river canyon from along the fryxell trail
 
-![Picture](/assets/images/929417.jpg)
+![Picture](assets/images/929417.jpg)
 
 ## The palouse canyon view point towards the fryxell overlook
 
-![Picture](/assets/images/929423.jpg)
+![Picture](assets/images/929423.jpg)
 
 ## On the coldest day of winter, the falls take on a new look
 
-![Picture](/assets/images/dsc-0388.jpg)
+![Picture](assets/images/dsc-0388.jpg)
 
 ## The falls from the fenced area
 
-![Picture](/assets/images/929425.jpg)
+![Picture](assets/images/929425.jpg)
 
 ## Photography in the winter can be very productive
 
-![Picture](/assets/images/929428.jpg)
+![Picture](assets/images/929428.jpg)
 
 ## On one of my "photo fun day trips" ​ i spotted the energizer bunny visiting the falls
 
-![Picture](/assets/images/929429.jpg)
+![Picture](assets/images/929429.jpg)
 
 ## The "castles" fr0m near the viewing area
 
-![Picture](/assets/images/img-2545.jpg)
+![Picture](assets/images/img-2545.jpg)
 
 The "castles" above the falls. Years ago, someone graffitied the "castles". ​the spokane mountaineers came out with a portable sand blaster  To clean the graffiti off
 
-![Picture](/assets/images/929431.jpg)
+![Picture](assets/images/929431.jpg)
 
 The upper falls from above.  While the lower falls look the same year round, ​the upper falls changes due to river flow

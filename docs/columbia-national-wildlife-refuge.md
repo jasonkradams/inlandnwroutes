@@ -135,7 +135,7 @@ If you like Mexican food Chuy’s Mi Carniceria will have just about anything yo
 
 ---
 
-<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](/assets/images/img-4567.jpg) --> -->
+<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](assets/images/img-4567.jpg) --> -->
 
 ## Marsh unit #1 with loafing sandhill cranes 03-april-21
 
@@ -147,25 +147,25 @@ If you like Mexican food Chuy’s Mi Carniceria will have just about anything yo
 
 ---
 
-![Picture](/assets/images/img-4582.jpg)
+![Picture](assets/images/img-4582.jpg)
 
 ## Water fall near the crab creek trail head
 
 ---
 
-![Picture](/assets/images/img-4584.jpg)
+![Picture](assets/images/img-4584.jpg)
 
 ## From the top of the mesa west of marsh unit #2
 
 ---
 
-![Picture](/assets/images/img-4583.jpg)
+![Picture](assets/images/img-4583.jpg)
 
 ## Looking west from the mesa into wdfw lands
 
 ---
 
-![Picture](/assets/images/img-4590.jpg)
+![Picture](assets/images/img-4590.jpg)
 
 ## A rock wren singing on the mesa
 
@@ -183,6 +183,6 @@ If you like Mexican food Chuy’s Mi Carniceria will have just about anything yo
 
 ## I count about a thousand snow geese in this one photo
 
-![Picture](/assets/images/img-4621.jpg)
+![Picture](assets/images/img-4621.jpg)
 
 They are a noisy bunch resting on the water. ​they really make a racket when they take off flying

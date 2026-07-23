@@ -102,7 +102,7 @@ Click for Current NOAA Weather Conditions
 
 ## Photo gallery
 
-![Picture](/assets/images/2021116-51-jpeg-1-1.jpg)
+![Picture](assets/images/2021116-51-jpeg-1-1.jpg)
 
 ## The energizer bunny
 
@@ -112,25 +112,25 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-![Picture](/assets/images/2021116-53-jpeg-1.jpg)
+![Picture](assets/images/2021116-53-jpeg-1.jpg)
 
 ## The palouse river between upper and lower palouse falls
 
 ---
 
-![Picture](/assets/images/2021116-54-jpeg-1.jpg)
+![Picture](assets/images/2021116-54-jpeg-1.jpg)
 
 ## Palouse falls and the castles from the lower trail
 
 ---
 
-![Picture](/assets/images/2021116-55-jpeg-1.jpg)
+![Picture](assets/images/2021116-55-jpeg-1.jpg)
 
 ## The castles near the main falls
 
 ---
 
-![Picture](/assets/images/2021116-56-jpeg-1.jpg)
+![Picture](assets/images/2021116-56-jpeg-1.jpg)
 
 ## Middle palouse falls
 

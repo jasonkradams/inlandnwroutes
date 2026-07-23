@@ -60,20 +60,20 @@ None of note, but watch the trail junctions.
 
 Oriental Gardens, Burger Express
 
-![Picture](/assets/images/6182024156p.jpg)
+![Picture](assets/images/6182024156p.jpg)
 
 ## Photo gallery
 
 ---
 
-![Picture](/assets/images/11302022449p.jpg)
+![Picture](assets/images/11302022449p.jpg)
 
 ## Clifty peak on the way to katka peak
 
-![Picture](/assets/images/11302022352p.jpg)
+![Picture](assets/images/11302022352p.jpg)
 
 Bonners ferry from trail #182
 
-![Picture](/assets/images/11302022355p.jpg)
+![Picture](assets/images/11302022355p.jpg)
 
 ## Snowshoe peak 8738' from katka peak

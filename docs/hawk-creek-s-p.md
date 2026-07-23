@@ -79,27 +79,27 @@ Lenny’s in Cheney
 
 ---
 
-![Picture](/assets/images/2021116-22-jpeg-1-1.jpg)
+![Picture](assets/images/2021116-22-jpeg-1-1.jpg)
 
 ## Hawk creek falls state park
 
-![Picture](/assets/images/p69.png)
+![Picture](assets/images/p69.png)
 
 ## The park’s campsites and boat launch. hawk falls👆 ​
 
-![Picture](/assets/images/p70.png)
+![Picture](assets/images/p70.png)
 
 ## The beach walk out to the columbia river
 
 ---
 
-![Picture](/assets/images/p71.png)
+![Picture](assets/images/p71.png)
 
 ## Some of the steppe above the beach trail
 
 ---
 
-![Picture](/assets/images/p72.png)
+![Picture](assets/images/p72.png)
 
 ## A pano of about 15 miles of the columbia river view
 
@@ -115,14 +115,14 @@ Lenny’s in Cheney
 
 ## Below the highest rock point is a small sand dunes, go there
 
-![Picture](/assets/images/p75.png)
+![Picture](assets/images/p75.png)
 
 ## On the hike are many caves to visit
 
-![Picture](/assets/images/p76.png)
+![Picture](assets/images/p76.png)
 
 ## Chris hiking back towards the trailhead
 
-![Picture](/assets/images/p77.png)
+![Picture](assets/images/p77.png)
 
 ## A walk along the beach back to the trailhead

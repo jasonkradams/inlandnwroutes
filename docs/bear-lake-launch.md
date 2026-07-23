@@ -48,13 +48,13 @@ Eloika Lake, and Loon Lake.
 
 ## Photo gallery
 
-![Picture](/assets/images/p242-19.png)
+![Picture](assets/images/p242-19.png)
 
 ## Merganser diving duck
 
 ---
 
-![Picture](/assets/images/p244-19.png)
+![Picture](assets/images/p244-19.png)
 
 ## Legacy aircraft meets drone
 

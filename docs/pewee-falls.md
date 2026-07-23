@@ -88,78 +88,78 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-![Picture](/assets/images/930337.jpg)
+![Picture](assets/images/930337.jpg)
 
 ## The old homestead near the boat launce
 
-![Picture](/assets/images/930338.jpg)
+![Picture](assets/images/930338.jpg)
 
 ## Ratt island from the road to boundary  dam
 
-![Picture](/assets/images/930339.jpg)
+![Picture](assets/images/930339.jpg)
 
 ## Ratt island during "high tide." notice the wildflowers are underwater
 
-![Picture](/assets/images/930349.jpg)
+![Picture](assets/images/930349.jpg)
 
 ## Pewee falls 200' drop during "high tide"
 
-![Picture](/assets/images/930634.jpg)
+![Picture](assets/images/930634.jpg)
 
 ## Our friend bart posing in front of pewee falls
 
-![Picture](/assets/images/930352.jpg)
+![Picture](assets/images/930352.jpg)
 
 ## Michelle & pewee falls. notice the massive rock pile below the falls
 
-![Picture](/assets/images/930351.jpg)
+![Picture](assets/images/930351.jpg)
 
 ## Kayaker entering a cave upstream from pewee falls
 
-![Picture](/assets/images/930354.jpg)
+![Picture](assets/images/930354.jpg)
 
 ## Michelle paddling past the natural arch that tour jetboats toppled
 
-![Picture](/assets/images/930356.jpg)
+![Picture](assets/images/930356.jpg)
 
 ## Enjoying the beautiful views heading upstream
 
-![Picture](/assets/images/930418.jpg)
+![Picture](assets/images/930418.jpg)
 
 ## The twin falls on the east side of the pend orielle river
 
-![Picture](/assets/images/930416.jpg)
+![Picture](assets/images/930416.jpg)
 
 ## Opposite the above falls on the west side of the river
 
-![Picture](/assets/images/930420.jpg)
+![Picture](assets/images/930420.jpg)
 
 ## Talk about serene. paddling back to boundary dam
 
-![Picture](/assets/images/930421.jpg)
+![Picture](assets/images/930421.jpg)
 
 ## As you round a bend, the boundary dam commands the view
 
-![Picture](/assets/images/930340.jpg)
+![Picture](assets/images/930340.jpg)
 
 ## An early image of pewee falls
 
-![Picture](/assets/images/930424.jpg)
+![Picture](assets/images/930424.jpg)
 
 ## A view of boundary dam from the vista. ​ask the dam personnel when the chutes open
 
-![Picture](/assets/images/930426.jpg)
+![Picture](assets/images/930426.jpg)
 
 ## The power portals from the vista
 
-![Picture](/assets/images/930425.jpg)
+![Picture](assets/images/930425.jpg)
 
 ## Five generators deep within the dam
 
-![Picture](/assets/images/930427.jpg)
+![Picture](assets/images/930427.jpg)
 
 ## The christmas tree in the gardner cave, crawford state park
 
-![Picture](/assets/images/20126101044.jpg)
+![Picture](assets/images/20126101044.jpg)
 
 After a kayak & hiking trip to canada, i slept at boundary dam. when i turned around after cooking dinner, the auroras were incredible Can you spot the big dipper?

@@ -67,10 +67,10 @@ Click for Current NOAA Weather Conditions
 
 ## Below are some images of sweet creek falls
 
-![Picture](/assets/images/12132022312p.jpg)
+![Picture](assets/images/12132022312p.jpg)
 
-![Picture](/assets/images/12132022314p.jpg)
+![Picture](assets/images/12132022314p.jpg)
 
-![Picture](/assets/images/12132022315p.jpg)
+![Picture](assets/images/12132022315p.jpg)
 
-![Picture](/assets/images/12132022314p.jpg)
+![Picture](assets/images/12132022314p.jpg)

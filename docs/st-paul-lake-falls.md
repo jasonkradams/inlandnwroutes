@@ -77,11 +77,11 @@ Click for Current NOAA Weather Conditions
 
 ## Photo gallery
 
-![Picture](/assets/images/110420211133a.jpg)
+![Picture](assets/images/110420211133a.jpg)
 
 ## These two image, and the lead in image ​ are from the nw corner of st. paul lake
 
-![Picture](/assets/images/110420211135a.jpg)
+![Picture](assets/images/110420211135a.jpg)
 
 ---
 
@@ -93,22 +93,22 @@ Click for Current NOAA Weather Conditions
 
 ## Above the lake are these two twins
 
-![Picture](/assets/images/110620211214p.jpg)
+![Picture](assets/images/110620211214p.jpg)
 
 ## Twin falls with elephant peak in the background
 
-![Picture](/assets/images/110420211138a.jpg)
+![Picture](assets/images/110420211138a.jpg)
 
 ## Tucked back in the rocks is this 60' waterfalls. ​the next images are of it in sections
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/110420211139a.jpg)
+![Picture](assets/images/110420211139a.jpg)
 
 *Picture (Image missing)*
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/110420211152a.jpg)
+![Picture](assets/images/110420211152a.jpg)
 
-![Picture](/assets/images/110420211159a.jpg)
+![Picture](assets/images/110420211159a.jpg)

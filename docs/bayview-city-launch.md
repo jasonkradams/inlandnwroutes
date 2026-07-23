@@ -90,6 +90,6 @@ Trails End Brewery, Mexican Food Factory, Franklins Hoagies, and the Moon Time.
 
 ## Photo gallery
 
-![Picture](/assets/images/110920211006p.jpg)
+![Picture](assets/images/110920211006p.jpg)
 
 ## This image shows the north shore of bayview ​the mountain above is cape horn

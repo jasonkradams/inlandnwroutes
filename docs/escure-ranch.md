@@ -95,15 +95,15 @@ Harvest Resturant in Spangle. Lenny’s in Cheney
 
 ## Photo gallery
 
-![Picture](/assets/images/11182021756p.jpg)
+![Picture](assets/images/11182021756p.jpg)
 
 ## Escure ranch house and out buildings
 
-![Picture](/assets/images/p49.png)
+![Picture](assets/images/p49.png)
 
 ## Rock creek from the escure ranch bridge
 
-![Picture](/assets/images/2021111317-jpeg-1-1.jpg)
+![Picture](assets/images/2021111317-jpeg-1-1.jpg)
 
 ## Rock creek on the way to towell falls
 

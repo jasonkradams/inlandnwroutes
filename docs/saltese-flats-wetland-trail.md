@@ -75,13 +75,13 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-![Picture](/assets/images/img-5763.jpg)
+![Picture](assets/images/img-5763.jpg)
 
 ## Saltese creek
 
 ---
 
-<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](/assets/images/img-5771.jpg) --> -->
+<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](assets/images/img-5771.jpg) --> -->
 
 ## Looking back toward the trail head and parking lot
 
@@ -113,7 +113,7 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-![Picture](/assets/images/202104160859-bald-eagle-juvenile-1st-year.jpg)
+![Picture](assets/images/202104160859-bald-eagle-juvenile-1st-year.jpg)
 
 ## Bald eagle juvenile (1st year)
 
@@ -125,13 +125,13 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-![Picture](/assets/images/202104160905-canvasback-and-bufflehead.jpg)
+![Picture](assets/images/202104160905-canvasback-and-bufflehead.jpg)
 
 ## Canvasback and bufflehead
 
 ---
 
-![Picture](/assets/images/202104160905-northern-shoveler.jpg)
+![Picture](assets/images/202104160905-northern-shoveler.jpg)
 
 ## Northern shoveler
 
@@ -143,7 +143,7 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-![Picture](/assets/images/202104160904-killdeer.jpg)
+![Picture](assets/images/202104160904-killdeer.jpg)
 
 ## Killdeer
 
@@ -155,7 +155,7 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-![Picture](/assets/images/202104160904-northern-shrike.jpg)
+![Picture](assets/images/202104160904-northern-shrike.jpg)
 
 ## Northern shrike
 

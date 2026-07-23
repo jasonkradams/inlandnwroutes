@@ -82,4 +82,4 @@ notes:
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/772022737p.jpg)
+![Picture](assets/images/772022737p.jpg)

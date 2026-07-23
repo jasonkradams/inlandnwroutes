@@ -59,11 +59,11 @@ Wood Fired Pizza, Broasted Chicken & JoJos, Beer & Wine ​
 
 ## Photo gallery
 
-![Picture](/assets/images/11052021814p.gif)
+![Picture](assets/images/11052021814p.gif)
 
-![Picture](/assets/images/11052021817p.jpg)
+![Picture](assets/images/11052021817p.jpg)
 
-![Picture](/assets/images/11052021818p.gif)
+![Picture](assets/images/11052021818p.gif)
 
 *Picture (Image missing)*
 

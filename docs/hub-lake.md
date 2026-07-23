@@ -83,11 +83,11 @@ Pizza Factory, 1313 Club, and Muchacho’s Tacos in Wallace, and the Radio Brewi
 
 ## The hub lake trail near the start
 
-![Picture](/assets/images/p524.png)
+![Picture](assets/images/p524.png)
 
 Dipper falls along the trail to hub lake. in late summer and fall, the falls cascade off of each other. hence there are dozens of ladles, or dippers
 
-![Picture](/assets/images/1082025752p.jpg)
+![Picture](assets/images/1082025752p.jpg)
 
 This image was taken on 10.7.2025. as you can see, the flow is low, But still spectacular to see. Image by chris herath
 
@@ -95,7 +95,7 @@ This image was taken on 10.7.2025. as you can see, the flow is low, But still sp
 
 ## Hub lake from eagle peak
 
-![Picture](/assets/images/110620211229p.jpg)
+![Picture](assets/images/110620211229p.jpg)
 
 ## Intermittent falls below mary lake and above hub lake
 
@@ -107,7 +107,7 @@ This image was taken on 10.7.2025. as you can see, the flow is low, But still sp
 
 ## An intermittent waterfall from mary lake above
 
-![Picture](/assets/images/1082025758p.jpg)
+![Picture](assets/images/1082025758p.jpg)
 
 ## This was our view for luncg, looking ne
 
@@ -119,10 +119,10 @@ This image was taken on 10.7.2025. as you can see, the flow is low, But still sp
 
 We walked up the trail towards the old mine, And this image shows the debris field below eagle peak ​image by chris herath
 
-![Picture](/assets/images/1082025817p.jpg)
+![Picture](assets/images/1082025817p.jpg)
 
 ## On the way down from hub lake, we did the short walk down to hazel lake
 
-![Picture](/assets/images/1082025820p.jpg)
+![Picture](assets/images/1082025820p.jpg)
 
 On the way down, the western red cedars are a delight. This is the largest, hence oldest cedar along the trail. This cedar was over 6' wide. ​image by chris herath

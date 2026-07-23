@@ -90,11 +90,11 @@ Hidden Lake, Red Top Mt., Shorty & Lone Tree Peak, Joe Lake, the Kootenai Nation
 
 Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
-![Picture](/assets/images/6182025220p.jpg)
+![Picture](assets/images/6182025220p.jpg)
 
 ---
 
-![Picture](/assets/images/3192022437p.jpg)
+![Picture](assets/images/3192022437p.jpg)
 
 ## Photo gallery
 
@@ -106,11 +106,11 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
 Not too far up from the trail junction, The walk is thru 4' to 8' diameter giant western red cedars ​image by chris herath
 
-![Picture](/assets/images/7302025627p.jpg)
+![Picture](assets/images/7302025627p.jpg)
 
 ## There are 14 boardwalks, like this one on trail #347
 
-![Picture](/assets/images/0a164cd5-be18-4b70-83a4-35dce8f55607.jpg){: data-src="/assets/images/0a164cd5-be18-4b70-83a4-35dce8f55607.jpg" }
+![Picture](assets/images/0a164cd5-be18-4b70-83a4-35dce8f55607.jpg){: data-src="assets/images/0a164cd5-be18-4b70-83a4-35dce8f55607.jpg" }
 
 ## Boardwalks protect wet areas
 
@@ -120,7 +120,7 @@ Not too far up from the trail junction, The walk is thru 4' to 8' diameter gian
 
 ---
 
-![Picture](/assets/images/07fcccd0-60ce-4ed6-a246-e4c719e9ac75.jpg)
+![Picture](assets/images/07fcccd0-60ce-4ed6-a246-e4c719e9ac75.jpg)
 
 ## West fork ridge looking nw
 
@@ -172,7 +172,7 @@ Not too far up from the trail junction, The walk is thru 4' to 8' diameter gian
 
 ## When hiking tuff routes, always have well prepared lunches
 
-![Picture](/assets/images/7302025647p.jpg)
+![Picture](assets/images/7302025647p.jpg)
 
 ## The ridge that the tower is on, is a very beautiful. do not miss it ​image by chris herath
 
@@ -180,19 +180,19 @@ Not too far up from the trail junction, The walk is thru 4' to 8' diameter gian
 
 ## Middle caribou lake with the nne ridge above
 
-![Picture](/assets/images/11182021427p.jpg)
+![Picture](assets/images/11182021427p.jpg)
 
 ## Upper caribou lake
 
-![Picture](/assets/images/11182021407p.jpg)
+![Picture](assets/images/11182021407p.jpg)
 
 ## The lookout tower from the south
 
-![Picture](/assets/images/7302025651p.jpg)
+![Picture](assets/images/7302025651p.jpg)
 
 ## Did i mention the giant western red cedars?
 
-![Picture](/assets/images/11182021747p.jpg)
+![Picture](assets/images/11182021747p.jpg)
 
 ## West fork cabin
 

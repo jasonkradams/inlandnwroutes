@@ -51,7 +51,7 @@ Trails End Brewery, Mexican Food Factory, Franklins Hoagies, and Moon Time
 
 ## Please everyone...heed this health alert
 
-![Picture](/assets/images/5132025306p-2.jpg)
+![Picture](assets/images/5132025306p-2.jpg)
 
 ## Photo gallery
 
@@ -71,7 +71,7 @@ Trails End Brewery, Mexican Food Factory, Franklins Hoagies, and Moon Time
 
 ## The shore line in fall colors
 
-![Picture](/assets/images/11092021937p.jpg)
+![Picture](assets/images/11092021937p.jpg)
 
 ## Looking north from the main body of the lake. Canfield butte is off in the distance center
 

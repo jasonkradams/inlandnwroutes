@@ -70,7 +70,7 @@ Click for Current NOAA Weather Conditions
 
 ## Photo gallery
 
-![Picture](/assets/images/p807.png)
+![Picture](assets/images/p807.png)
 
 ---
 

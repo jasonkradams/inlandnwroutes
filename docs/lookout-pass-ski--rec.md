@@ -85,15 +85,15 @@ The conceptual Phase II of the long-range plan includes a new lodge and parking
 
 ## The original lodge at lookout pass skin area
 
-![Picture](/assets/images/12132022253p.jpg)
+![Picture](assets/images/12132022253p.jpg)
 
 ## A postcard from before the ski area
 
-![Picture](/assets/images/12132022255p.jpg)
+![Picture](assets/images/12132022255p.jpg)
 
 ## A postcard from the 60's
 
-![Picture](/assets/images/12132022257p.jpg)
+![Picture](assets/images/12132022257p.jpg)
 
 ## Early skiing at lookout. that's a ropetow
 
@@ -105,19 +105,19 @@ The conceptual Phase II of the long-range plan includes a new lodge and parking
 
 ## Lookouts lodge in the 40's
 
-![Picture](/assets/images/3102024648p.jpg)
+![Picture](assets/images/3102024648p.jpg)
 
 ## Part of skiing is standing in lift lines
 
-![Picture](/assets/images/3102024649p.jpg)
+![Picture](assets/images/3102024649p.jpg)
 
 ## The bottom of a very long rope tow
 
-![Picture](/assets/images/3102024710p.jpg)
+![Picture](assets/images/3102024710p.jpg)
 
 ##
 
-![Picture](/assets/images/3102024731p.jpg)
+![Picture](assets/images/3102024731p.jpg)
 
 ## A skier is hauled up the slope on a rope tow ​notice the line of parked cars on hwy 10
 

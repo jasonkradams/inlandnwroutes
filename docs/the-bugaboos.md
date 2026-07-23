@@ -88,19 +88,19 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-![Picture](/assets/images/p386.png)
+![Picture](assets/images/p386.png)
 
 ## Snowpatch spire from septet campgrounds
 
-![Picture](/assets/images/p334.png)
+![Picture](assets/images/p334.png)
 
 ## Shea, tia & chris hiking towards cobalt lake
 
-![Picture](/assets/images/p330.png)
+![Picture](assets/images/p330.png)
 
 ## The trail to the view of the bugaboo
 
-![Picture](/assets/images/p317.png)
+![Picture](assets/images/p317.png)
 
 ## Cobalt lake with the bugs in the background
 
@@ -110,25 +110,25 @@ Click for Current NOAA Weather Conditions
 
 The bugs from the septet campground. be sure to place the provided wire mesh around your car, so the rodents don’t eat your wiring
 
-![Picture](/assets/images/p319.png)
+![Picture](assets/images/p319.png)
 
 ## Chris climbing the ladder where there is no other option
 
 ---
 
-![Picture](/assets/images/p320.png)
+![Picture](assets/images/p320.png)
 
 ## The conrad kain hut
 
 ---
 
-![Picture](/assets/images/p321.png)
+![Picture](assets/images/p321.png)
 
 ## Walking up to the snowpatch spire
 
 ---
 
-![Picture](/assets/images/p322.png)
+![Picture](assets/images/p322.png)
 
 Up high on the eastport spire, sits an unusual outhouse near a campsite. the blue barrels are helicoptered out in september. a poop with a view
 

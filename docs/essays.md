@@ -6,4 +6,4 @@ Essays... we encourage you to send us your writing on human powered sports. plea
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/img-8d5ad2d9b1cf-1.jpg)
+![Picture](assets/images/img-8d5ad2d9b1cf-1.jpg)

@@ -88,7 +88,7 @@ Eichardt’s, Mr Sub, Burger Express, Jalapeños in Sandpoint.
 
 ## Photo gallery
 
-![Picture](/assets/images/p158.png)
+![Picture](assets/images/p158.png)
 
 ## On the trail to bottleneck
 
@@ -98,21 +98,21 @@ Eichardt’s, Mr Sub, Burger Express, Jalapeños in Sandpoint.
 
 ---
 
-![Picture](/assets/images/202111535390-jpeg-1.jpg)
+![Picture](assets/images/202111535390-jpeg-1.jpg)
 
 ## Bottleneck peak 6928’
 
-![Picture](/assets/images/p161.png)
+![Picture](assets/images/p161.png)
 
 ## Along the trail to upper bottleneck lake
 
 ---
 
-![Picture](/assets/images/p160.png)
+![Picture](assets/images/p160.png)
 
 ## Lower bottleneck lake from trail to the upper lake
 
-![Picture](/assets/images/202111535391-jpeg-1.jpg)
+![Picture](assets/images/202111535391-jpeg-1.jpg)
 
 ## Upper bottleneck lake
 
@@ -124,17 +124,17 @@ Eichardt’s, Mr Sub, Burger Express, Jalapeños in Sandpoint.
 
 ---
 
-![Picture](/assets/images/p162.png)
+![Picture](assets/images/p162.png)
 
 ## Gigantic scree slope above upper bottleneck lake This scree is a blast to walk thru
 
-![Picture](/assets/images/p163.png)
+![Picture](assets/images/p163.png)
 
 ## View of harrison peak from the ridge
 
 ---
 
-![Picture](/assets/images/p164.png)
+![Picture](assets/images/p164.png)
 
 ## Beehive dome from bottleneck peak
 

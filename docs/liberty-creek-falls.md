@@ -74,23 +74,23 @@ Click for Current NOAA Weather Conditions
 
 ## Photo gallery
 
-![Picture](/assets/images/dsc0164.jpg)
+![Picture](assets/images/dsc0164.jpg)
 
 ## Near the hikers parking lot is this very cool rock wall
 
-![Picture](/assets/images/929511.jpg)
+![Picture](assets/images/929511.jpg)
 
 ## Along the trail near the parking area, is this walkway & viewing deck
 
-![Picture](/assets/images/dsc-0846.jpg)
+![Picture](assets/images/dsc-0846.jpg)
 
 ## On the trail to liberty falls
 
-![Picture](/assets/images/dsc0137.jpg)
+![Picture](assets/images/dsc0137.jpg)
 
 ## Liberty creek
 
-![Picture](/assets/images/dsc0560.jpg)
+![Picture](assets/images/dsc0560.jpg)
 
 ## The bidge across liberty creek in the cedar forest
 
@@ -102,7 +102,7 @@ Click for Current NOAA Weather Conditions
 
 ## One of the foot bridges along the main trail loop
 
-![Picture](/assets/images/dsc-0852.jpg)
+![Picture](assets/images/dsc-0852.jpg)
 
 ## The cedar grove conservation area
 
@@ -110,7 +110,7 @@ Click for Current NOAA Weather Conditions
 
 ## The bridge at the cedar grove
 
-![Picture](/assets/images/11072021330p.jpg)
+![Picture](assets/images/11072021330p.jpg)
 
 ## The libert lake regional park waterfalls
 

@@ -75,37 +75,37 @@ Kaiju Bar & Grill in Libby.     For a 1950’s dining experience, stop by Henr
 
 To get to granite creek below the falls, we had to work our way thru the flooded forest in early june
 
-<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](/assets/images/202178527.jpg) --> -->
+<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](assets/images/202178527.jpg) --> -->
 
 ## Granite creek cascades
 
 ---
 
-![Picture](/assets/images/p62.png)
+![Picture](assets/images/p62.png)
 
 ## Fireweed along the trail
 
 ---
 
-![Picture](/assets/images/p63.png)
+![Picture](assets/images/p63.png)
 
 ## The queen of devils club
 
 ---
 
-![Picture](/assets/images/p64.png)
+![Picture](assets/images/p64.png)
 
 ## Granite creek
 
 ---
 
-![Picture](/assets/images/202111535397-jpeg-1.jpg)
+![Picture](assets/images/202111535397-jpeg-1.jpg)
 
 ## The first glimpse of "a peak" on the trail in
 
 ---
 
-![Picture](/assets/images/202111535398-jpeg-1.jpg)
+![Picture](assets/images/202111535398-jpeg-1.jpg)
 
 ## Amy on the trail to granite lake
 
@@ -117,7 +117,7 @@ To get to granite creek below the falls, we had to work our way thru the flooded
 
 ---
 
-![Picture](/assets/images/202111535400-jpeg-1.jpg)
+![Picture](assets/images/202111535400-jpeg-1.jpg)
 
 ## Vimy ridge
 
@@ -137,6 +137,6 @@ To get to granite creek below the falls, we had to work our way thru the flooded
 
 ## A king bolete along the trail ​IDENTIFIED BY SEEK, iNATURALIST
 
-![Picture](/assets/images/2152022757p.jpg)
+![Picture](assets/images/2152022757p.jpg)
 
-![Picture](/assets/images/2152022758p.jpg)
+![Picture](assets/images/2152022758p.jpg)

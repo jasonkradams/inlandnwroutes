@@ -65,7 +65,7 @@ NA
 
 ## Photo gallery
 
-![Picture](/assets/images/11072021420p.jpg)
+![Picture](assets/images/11072021420p.jpg)
 
 ## Its alway fun to ride the keller ferry
 
@@ -77,7 +77,7 @@ NA
 
 ## Wendy & ken pausing along trail #13's cliffs near the sanpoil river
 
-![Picture](/assets/images/202159320.jpg)
+![Picture](assets/images/202159320.jpg)
 
 ## The cliffs along trail #13
 
@@ -91,7 +91,7 @@ NA
 
 ## Wendy & ken heading back to the cars
 
-![Picture](/assets/images/11072021432p.jpg)
+![Picture](assets/images/11072021432p.jpg)
 
 ## Part of the crew enjoying the ferry ride across the columbia river
 

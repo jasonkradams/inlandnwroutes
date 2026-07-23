@@ -54,6 +54,6 @@ Trails End Brewery, Franklins Hoagies, Mexican Food Factory, and Moon Time.
 
 ## Please everyone...heed this health alert
 
-![Picture](/assets/images/5132025306p-2.jpg)
+![Picture](assets/images/5132025306p-2.jpg)
 
 ## Photo gallery

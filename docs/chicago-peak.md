@@ -131,15 +131,15 @@ Kaiju Bar & Grill 419 W 9th, Henry’s & Pizza Hut, in Libby, Clark Fork Pantry
 
 One of the joys of visiting the cliff lake area, Is the views from along forest road #2741 To the west is the proposed scotchman peak wilderness
 
-![Picture](/assets/images/101620241045p.jpg)
+![Picture](assets/images/101620241045p.jpg)
 
 This is the trail to the bench that chicago peak is next to. These trees are very special. they are a form of sub-alpine firs, that are called krummholz. A krummholz knee high, can be over 100 years old. These krummholz are well over 6' tall and can are ancient. ​refer to  <https://www.treespnw.com/>
 
-![Picture](/assets/images/101620241042p.jpg)
+![Picture](assets/images/101620241042p.jpg)
 
 ## Chris posing next to the cabinet mountain wilderness boundary sign
 
-![Picture](/assets/images/101620241059p.jpg)
+![Picture](assets/images/101620241059p.jpg)
 
 ## As you walk out over the bench, walk to your right for exceptional views
 
@@ -147,7 +147,7 @@ This is the trail to the bench that chicago peak is next to. These trees are ver
 
 ## This image shows the bench that chicago peak sits on. cliff lake is below
 
-![Picture](/assets/images/101620241109p.jpg)
+![Picture](assets/images/101620241109p.jpg)
 
 ## Our ascent route is directly above me  ​image by chris
 
@@ -155,11 +155,11 @@ This is the trail to the bench that chicago peak is next to. These trees are ver
 
 ## This image shows the steepness of the ascent. ​st. paul peak is on the right
 
-![Picture](/assets/images/101620241117p.jpg)
+![Picture](assets/images/101620241117p.jpg)
 
 The rock above left is the high point of chicago peak Rock peak is off in the distance ​image by chris
 
-![Picture](/assets/images/101620241121p.jpg)
+![Picture](assets/images/101620241121p.jpg)
 
 ## Chic on the summit of chicago peak ​image by chris
 
@@ -167,11 +167,11 @@ The rock above left is the high point of chicago peak Rock peak is off in the di
 
 ## Copper lake sits below chicago peak ​image by chris
 
-![Picture](/assets/images/101620241127p.jpg)
+![Picture](assets/images/101620241127p.jpg)
 
 ## This image shows the low ridge line from st. paul lake to rock peak ​image by chris
 
-![Picture](/assets/images/10172024122p.jpg)
+![Picture](assets/images/10172024122p.jpg)
 
 ## The clark fork river from the summit of chicago peak ​image by chris
 

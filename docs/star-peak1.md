@@ -74,11 +74,11 @@ Clark Fork Pantry, Clark Fork  Jalapeños, Mr. Sub, Burger Express, and Eichard
 
 ---
 
-![Picture](/assets/images/6182025140p.jpg)
+![Picture](assets/images/6182025140p.jpg)
 
 ## Photo gallery
 
-![Picture](/assets/images/20201219141852-1.jpg)
+![Picture](assets/images/20201219141852-1.jpg)
 
 ## On the way up, looking towards clark fork
 
@@ -100,7 +100,7 @@ Clark Fork Pantry, Clark Fork  Jalapeños, Mr. Sub, Burger Express, and Eichard
 
 ---
 
-![Picture](/assets/images/2021116-66-jpeg-1-1-2.jpg)
+![Picture](assets/images/2021116-66-jpeg-1-1-2.jpg)
 
 ## The main attraction at star peak. ​this outhouse has an incredible view. A real poop with a view
 
@@ -110,15 +110,15 @@ The below images were sent to me, by a spokane mountaineers hiking friend, Vanet
 
 ## The route to the top of star peak. Image by vanette leighty
 
-![Picture](/assets/images/3302023630p.jpg)
+![Picture](assets/images/3302023630p.jpg)
 
 An image near the summit of star peak. 3.2023. ​pictured are Immanuel and annalyse sanchez Image by vanette leighty
 
-![Picture](/assets/images/3302023635p.jpg)
+![Picture](assets/images/3302023635p.jpg)
 
 A beautiful sceen ​on the way to the star peak's summit. ​look at the clouds. Image by vanette leighty
 
-![Picture](/assets/images/912023720p.jpg)
+![Picture](assets/images/912023720p.jpg)
 
 ## This was the "lookout' on squaw peak ​now star peak, p.s.p.w., montana prior to 1906
 
@@ -173,7 +173,7 @@ A beautiful sceen ​on the way to the star peak's summit. ​look at the clouds
 
 ---
 
-![Picture](/assets/images/3192022329p.jpg)
+![Picture](assets/images/3192022329p.jpg)
 
 *Picture (Image missing)*
 
@@ -181,7 +181,7 @@ A beautiful sceen ​on the way to the star peak's summit. ​look at the clouds
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/3192022338p.jpg)
+![Picture](assets/images/3192022338p.jpg)
 
 In addition eto work at Star Peak, NMLA volunteers will also be working on Meadow Peak, Mount Wam, McGuire Mountain, Big Creek Baldy, Zeigler Mountain, Mount Henry, Lost Horse, and Stahl Peak lookouts. As part of these efforts, the NMLA enjoys working closely with the four Kootenai National Forest Ranger Districts to bring life back to these iconic structures.
 The first gable roofed L4 built in the 1930s – Credit Gary Weber

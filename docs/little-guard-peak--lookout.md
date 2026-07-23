@@ -79,11 +79,11 @@ The Snake Pit, and the Radio Brewery in Kellogg. The Moon Time in CDA.
 
 ## From silver mt. kellogg peak
 
-![Picture](/assets/images/51020221231p.jpg)
+![Picture](assets/images/51020221231p.jpg)
 
 ## Little guard lookout, near left The cabinet mountain wilderness
 
-![Picture](/assets/images/51020221233pp.jpg)
+![Picture](assets/images/51020221233pp.jpg)
 
 ## The view of the cabinet mountain wilderness to the ne
 
@@ -95,11 +95,11 @@ One of the cool things about this rental lookout, Is it has a full kitchen on th
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/682022106p.jpg)
+![Picture](assets/images/682022106p.jpg)
 
 ## The kitchen is located on the ground level
 
-![Picture](/assets/images/682022107p.jpg)
+![Picture](assets/images/682022107p.jpg)
 
 ## Its always wise to know where the outhouse is
 

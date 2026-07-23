@@ -23,7 +23,7 @@ Shoshone County is commonly referred to as the Silver Valley, due to its century
 
 ## The Legend
 
-![Picture](/assets/images/20201115112233.jpg)
+![Picture](assets/images/20201115112233.jpg)
 
 In 1885, a gold prospector named Noah Kellogg borrowed a burro, named Bill, and started down the great north fork of the Coeur d’Alene River. After weeks of searching with no luck, he ended up about 1,000 yards above the present city of Wardner where he made camp one last time before heading back to Murray to report. In what turned out to be a fortunate stroke of luck, Bill broke free of his rope and wandered off in search of food.
 
@@ -33,7 +33,7 @@ When Noah caught up with the jackass the next morning, he found Bill standing on
 
 ## Founding
 
-![Picture](/assets/images/20201115112245.jpg)
+![Picture](assets/images/20201115112245.jpg)
 
 The Jackass Ski Bowl, named in honor of Bill the burro, opened on December 16, 1967 after a group of 12 sole proprietors formed the "Fabulous Valley Development Corporation," and sold shares of stock to fund the construction of their new ski area. Valley residents traded work and cash for stock. Opening day at the resort saw many recognizable names including, Rep. James McClure, Governor Don Samuelson, Sen. Len Jordan, and Idaho Department of Commerce head, Louise Shadduck.
 
@@ -43,7 +43,7 @@ The first general manager, Gosta (Jonny) Johnson was a transplant from Big Bould
 
 ## Silverhorn
 
-![Picture](/assets/images/20201115112255.jpg)
+![Picture](assets/images/20201115112255.jpg)
 
 The Shoshone Recreation Inc., a subsidiary of the Bunker Hill Co., purchased Jackass Ski Bowl at auction in 1973 for $100,100. They immediately changed the name to Silverhorn, and set out to build the old cat shop still seen from midway Chair 4 today. With the collapse of the mining economy, Bunker Hill Mine was forced to close the ski area in 1981. Fortunately, Bunker Hill Limited, formed by Jack Simplot, Duane Hagadone, Harry F. Magnason, and Jack Kendrick, bought the ski area. However, in 1983, it was once again decided that operation of the ski area would be discontinued due to rising costs.
 
@@ -55,7 +55,7 @@ Prior to closing the ski area, Bunker Hill Limited approached the city of Kellog
 
 ## Silver Mountain Resort
 
-![Picture](/assets/images/20201115112304.jpg)
+![Picture](assets/images/20201115112304.jpg)
 
 During the mid-1980s, city councilman, Wayne Ross came up with the concept of constructing a gondola from the valley floor to an expanded ski and summer resort area to stimulate a staggering economy, which was devastated by the loss of mining and logging jobs. The Gondola Board, comprised of Duane Little, Terry Douglas, Dale Lavigne, Terry Turnbow, and three representatives from Von Roll Tramways, worked tirelessly to attract funding for the gondola project. In December 1987, Congress approved a $6.4 million grant to assist in the construction of the gondola. Von Roll Tramways, a Swiss lift manufacturing company, agreed to guarantee the remaining funds needed to construct the gondola. In April 1989, ground was broken for the construction of the gondola and other resort improvements.
 
@@ -67,7 +67,7 @@ Silver Mountain Resort opened for operations on June 30, 1990, to much fanfare. 
 
 ## Eagle Crest, Inc
 
-![Picture](/assets/images/20201115112314.jpg)
+![Picture](assets/images/20201115112314.jpg)
 
 Significant cost overruns during the construction phase of the project led to an insurmountable debt load for the city. The City Council decided to search for a new owner, and in June of 1996, they agreed to sell the assets of the resort to Eagle Crest, Inc., a wholly owned subsidiary of the JELD-WEN Corporation. When Eagle Crest purchased the resort in 1996, it envisioned an exciting ski-in, ski-out resort, and set out to construct the Morning Star Lodge condominiums, Galena Ridge Golf Course, and Silver Rapids Waterpark.
 
@@ -81,7 +81,7 @@ Following the financial crisis, Silver Mountain continued operating year-round. 
 
 ## New Beginnings
 
-![Picture](/assets/images/20201115112326.jpg)
+![Picture](assets/images/20201115112326.jpg)
 
 In October of 2016 Silver Mountain was purchased by Tryg Fortun, a passionate skier and customer of Silver Mountain. Tryg decided that he wanted to use his "stoke" for Silver Mountain to help the resort reach its true potential. With a fresh leader and a new outlook on life, Silver Mountain has undertaken massive amounts of infrastructure improvements, and behind the scenes work that is setting the stage for the next chapter of improvement.
 

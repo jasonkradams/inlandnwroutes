@@ -74,31 +74,31 @@ trailforks widget end
 
 ---
 
-![Picture](/assets/images/202311180631.jpg){: data-src="/assets/images/202311180631.jpg" }
+![Picture](assets/images/202311180631.jpg){: data-src="assets/images/202311180631.jpg" }
 
 Parking pull outs at the end of hidden valley road just before the gated fire road on the right leading up to the scenic lodge
 
 ---
 
-![Picture](/assets/images/202311180648.jpg)
+![Picture](assets/images/202311180648.jpg)
 
 You must get an inland empire paper company pass to use their property. apply on line or get one at one of the local vendors in rathdrum
 
 ---
 
-![Picture](/assets/images/202311180657.jpg)
+![Picture](assets/images/202311180657.jpg)
 
 ## Hiking the road to the scenic lodge
 
 ---
 
-![Picture](/assets/images/202311180659.jpg)
+![Picture](assets/images/202311180659.jpg)
 
 ## The large cotton woods in front of the scenic lodge overlooking spokane valley
 
 ---
 
-![Picture](/assets/images/202311180703.jpg)
+![Picture](assets/images/202311180703.jpg)
 
 ## The front steps leading into the speakeasy overlooking the valley
 

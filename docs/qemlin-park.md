@@ -73,7 +73,7 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-![Picture](/assets/images/2021116-25-jpeg-1.jpg)
+![Picture](assets/images/2021116-25-jpeg-1.jpg)
 
 ## Trailhead kiosk. notice the pronunciation of the park on the bottom
 
@@ -89,11 +89,11 @@ Click for Current NOAA Weather Conditions
 
 ## The below two images are from the main trail into the park
 
-![Picture](/assets/images/2021116-28-jpeg-1.jpg)
+![Picture](assets/images/2021116-28-jpeg-1.jpg)
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/2021116-31-jpeg-1.jpg)
+![Picture](assets/images/2021116-31-jpeg-1.jpg)
 
 ## A climbers trail to the cliffs
 
@@ -101,7 +101,7 @@ Click for Current NOAA Weather Conditions
 
 ## One of many quality climbing walls
 
-![Picture](/assets/images/2021116-34-jpeg-1.jpg)
+![Picture](assets/images/2021116-34-jpeg-1.jpg)
 
 ## A route to above the cliffs where the protection is done
 
@@ -113,7 +113,7 @@ Click for Current NOAA Weather Conditions
 
 ## Two climbers. one is belaying the climber on the wall
 
-![Picture](/assets/images/2021116-36-jpeg-1.jpg)
+![Picture](assets/images/2021116-36-jpeg-1.jpg)
 
 ## Some of the climbers trails are great walks. but watch out for poison ivy
 
@@ -129,11 +129,11 @@ Click for Current NOAA Weather Conditions
 
 ## The next three images are of the south channel of the spokane river ​the sounds are deafening
 
-![Picture](/assets/images/2021116-39-jpeg-1.jpg)
+![Picture](assets/images/2021116-39-jpeg-1.jpg)
 
-![Picture](/assets/images/2021116-40-jpeg-1.jpg)
+![Picture](assets/images/2021116-40-jpeg-1.jpg)
 
-![Picture](/assets/images/2021116-41-jpeg-1.jpg)
+![Picture](assets/images/2021116-41-jpeg-1.jpg)
 
 *Picture (Image missing)*
 

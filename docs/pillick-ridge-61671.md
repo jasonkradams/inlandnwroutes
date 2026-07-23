@@ -81,7 +81,7 @@ Clark Fork Pantry, Clark Fork Jalapeños, Mr. Sub, Burger Express, Eichardt’s
 
 ## Photo gallery
 
-<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](/assets/images/p296-1.png) --> -->
+<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](assets/images/p296-1.png) --> -->
 
 ## Marsha admiring wildflower mid way along the pillick ridge trail
 

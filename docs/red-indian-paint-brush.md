@@ -62,4 +62,4 @@ In different climates they can range in colors
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/11152021329.jpg)
+![Picture](assets/images/11152021329.jpg)

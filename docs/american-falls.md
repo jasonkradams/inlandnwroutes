@@ -77,10 +77,10 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-![Picture](/assets/images/11052021718.jpg)
+![Picture](assets/images/11052021718.jpg)
 
 ## Theb trail to american falls
 
-![Picture](/assets/images/11052021719.jpg)
+![Picture](assets/images/11052021719.jpg)
 
 ## The pool below american falls

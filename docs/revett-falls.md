@@ -63,8 +63,8 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 ## Trail # 9 before you enter the forest
 
-![Picture](/assets/images/11042021823p.jpg)
+![Picture](assets/images/11042021823p.jpg)
 
-![Picture](/assets/images/11042021824p.jpg)
+![Picture](assets/images/11042021824p.jpg)
 
-![Picture](/assets/images/11042021825p.jpg)
+![Picture](assets/images/11042021825p.jpg)

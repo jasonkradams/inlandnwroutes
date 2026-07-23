@@ -90,11 +90,11 @@ Kaiju Bar & Grill in Libby. Henry's, The Shed, and a cool Rosauers in Libby
 
 ---
 
-![Picture](/assets/images/2021630239.jpg)
+![Picture](assets/images/2021630239.jpg)
 
 A peak, the point in the shade on left. Snowshoe peak is in the sun at mid top right ​image by chris herath
 
-![Picture](/assets/images/2021630305.jpg)
+![Picture](assets/images/2021630305.jpg)
 
 ## a peak & snowshoe peak from below pine ridge, c.m.w. ​image by chris herath
 
@@ -102,7 +102,7 @@ A peak, the point in the shade on left. Snowshoe peak is in the sun at mid top r
 
 ---
 
-![Picture](/assets/images/11062021112p.jpg)
+![Picture](assets/images/11062021112p.jpg)
 
 ## A peak top left of center & snowshoe peak from schweitzer mountain resort ​image by chris herath
 
@@ -110,7 +110,7 @@ A peak, the point in the shade on left. Snowshoe peak is in the sun at mid top r
 
 ## Ibex peak from a peak ​image by chris herath
 
-![Picture](/assets/images/11082021923p.jpg)
+![Picture](assets/images/11082021923p.jpg)
 
 Along the snow lake trail, This corner is where you ascend to the a peak ridge, ​and a place to camp with water near by. ​image by chris herath
 
@@ -122,7 +122,7 @@ The upper camp is by the far end of the snow patches The ridge to the left off t
 
 ## The upper camp area ​image by chris herath
 
-![Picture](/assets/images/11082021940p.jpg)
+![Picture](assets/images/11082021940p.jpg)
 
 ## The lower section of the  route Image by chris herath
 
@@ -130,7 +130,7 @@ The upper camp is by the far end of the snow patches The ridge to the left off t
 
 ## Nearing the summit of a peak 8634' ​image by chris herath
 
-![Picture](/assets/images/11082021951p.jpg)
+![Picture](assets/images/11082021951p.jpg)
 
 ## First peek of granite lake from the summit ​image by chris herath
 

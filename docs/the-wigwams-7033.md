@@ -77,11 +77,11 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint. Burger Express i
 
 ## Photo gallery
 
-![Picture](/assets/images/2021116-24-jpeg-1.jpg)
+![Picture](assets/images/2021116-24-jpeg-1.jpg)
 
 ## The wigwams (close top center), american selkirks, idaho
 
-![Picture](/assets/images/p185.png)
+![Picture](assets/images/p185.png)
 
 ## An ancient hiker admiring the view of the selkirk crest
 
@@ -89,15 +89,15 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint. Burger Express i
 
 ## Lookout mountain in the distance
 
-![Picture](/assets/images/p173.png)
+![Picture](assets/images/p173.png)
 
 ## A view of our ridge route in center
 
-![Picture](/assets/images/2021115150-jpeg-1.jpg)
+![Picture](assets/images/2021115150-jpeg-1.jpg)
 
 ## Sometimes the trees steal the picture. do you see the heart?
 
-![Picture](/assets/images/2021511816.jpg)
+![Picture](assets/images/2021511816.jpg)
 
 ## A gourmet lunch in the wigs.   ​image by chris herath
 
@@ -105,11 +105,11 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint. Burger Express i
 
 ## A hole in the wall with the wigs
 
-![Picture](/assets/images/p374.png)
+![Picture](assets/images/p374.png)
 
 ## Nearing the wigwams on the way out
 
-![Picture](/assets/images/p54.png)
+![Picture](assets/images/p54.png)
 
 ## The trail to the s.w. wigwam
 

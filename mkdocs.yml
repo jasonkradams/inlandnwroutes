@@ -57,9 +57,23 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
 
+not_in_nav: "blog/posts/*.md"
+
 plugins:
   - search
   - tags
+  - blog:
+      blog_dir: blog
+      authors: true
+      authors_file: blog/.authors.yml
+      authors_profiles: true
+      categories: true
+      archive: true
+      post_url_format: "{slug}"
+      post_date_format: MMMM d, yyyy
+      post_readtime: true
+      post_excerpt: optional
+      post_excerpt_max_authors: 2
 
 hooks:
   - hooks/stat_card.py
@@ -69,9 +83,6 @@ nav:
 - Browse by Tag: tags.md
 - Blog:
     - blog/index.md
-    - Recent Posts: blog.md
-    - Blog Archive:
-        - Newsletter And Website Updates: newsletter-and-website-updates.md
 - Flora & Wildlife:
   - Bakers Mariposa Lily: bakers-mariposa-lily.md
   - Orange Day Lily: orange-day-lily.md
@@ -660,6 +671,7 @@ nav:
   - Revelstoke Mt Resort: revelstoke-mt-resort.md
   - Salmo Ski Area: salmo-ski-area.md
   - ski/index.md
+  - Skiing Overview: ski.md
   - Snow Basin Resort: snow-basin-resort.md
   - Snow L  P: snow-l--p.md
   - Snowbird Ski Area: snowbird-ski-area.md
@@ -680,5 +692,6 @@ nav:
   - 'Biography :: Chic': biography--chic.md
   - 'Biography :: David': biography--david.md
   - About Us: about-us.md
+  - Newsletter & Website Updates: newsletter-and-website-updates.md
   - Contact: contact.md
   - Liability Release: liability-release.md

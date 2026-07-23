@@ -75,13 +75,13 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
 ## Photo gallery
 
-![Picture](/assets/images/p722.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p722_orig.png" }
+![Picture](assets/images/p722.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p722_orig.png" }
 
 ## Along the rocky trail to trout lake
 
 ---
 
-![Picture](/assets/images/p723.png)
+![Picture](assets/images/p723.png)
 
 ## Cliffs above the trail to trout lake
 
@@ -91,35 +91,35 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
 ## Trout lake & peak from the south east.  image by chris herath
 
-![Picture](/assets/images/p724.png)
+![Picture](assets/images/p724.png)
 
 ## Trout lake
 
 ---
 
-![Picture](/assets/images/p725.png)
+![Picture](assets/images/p725.png)
 
 ## Trout lake in late fall, with ice on the lake
 
 ---
 
-![Picture](/assets/images/p726.png)
+![Picture](assets/images/p726.png)
 
 ## The whale breaching the surface of trout lake
 
 ---
 
-![Picture](/assets/images/11062021924p.jpg)
+![Picture](assets/images/11062021924p.jpg)
 
 ## Trout lake from trout peak
 
-![Picture](/assets/images/p727.png)
+![Picture](assets/images/p727.png)
 
 Taking a nap, after lunch in the sun above big fisher lake. ​this was the only dry spot to take a nap
 
 ---
 
-![Picture](/assets/images/p728.png)
+![Picture](assets/images/p728.png)
 
 ## Big fisher lake, with the selkirk’s highest point 7709’ above
 

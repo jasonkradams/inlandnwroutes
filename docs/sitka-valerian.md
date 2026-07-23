@@ -82,4 +82,4 @@ Plants from a short, often branched rhizome. Stems 25–75 cm, glabrous except a
 
 ---
 
-![Picture](/assets/images/112520211248.jpg)
+![Picture](assets/images/112520211248.jpg)

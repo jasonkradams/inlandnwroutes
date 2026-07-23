@@ -121,23 +121,23 @@ Kootenai Falls, historic Libby, ​Montana, U & L Geiger Lakes, Snowshoe Peak, B
 Kaiju Bar & Grill in Libby.   Henry’s, Pizza Hut, and The Shed in Libby, Clark Fork Pantry and Squeeze Inn in Clark Fork, Eicharts, Mr Sub, Burger Express, & Jalapeños in Sandpoint.
 In Libby, try The Shed south on Hwy 2
 
-![Picture](/assets/images/6132025351p.jpg)
+![Picture](assets/images/6132025351p.jpg)
 
 ## Photo gallery
 
-![Picture](/assets/images/202111535402-jpeg-1.jpg)
+![Picture](assets/images/202111535402-jpeg-1.jpg)
 
 ## Some of my relatives coming down to say hi
 
-![Picture](/assets/images/202111535403-jpeg-1.jpg)
+![Picture](assets/images/202111535403-jpeg-1.jpg)
 
 ## Uncle bill
 
-![Picture](/assets/images/202111535404-jpeg-1.jpg)
+![Picture](assets/images/202111535404-jpeg-1.jpg)
 
 ## Leigh lake trail # 132
 
-![Picture](/assets/images/202111535405-jpeg-1.jpg)
+![Picture](assets/images/202111535405-jpeg-1.jpg)
 
 ## Shuwen & tyler stopping for a break at the base of leigh creek falls
 
@@ -145,117 +145,117 @@ In Libby, try The Shed south on Hwy 2
 
 ## The sounds of leigh creek all along trail #132, ​are worth the effort, in themselves
 
-![Picture](/assets/images/p106.png)
+![Picture](assets/images/p106.png)
 
 ## Leigh creek falls, from the trail above. The sounds are beautiful
 
-![Picture](/assets/images/2112021128.jpg)
+![Picture](assets/images/2112021128.jpg)
 
 ## A group of hikers/paddlers heading to leigh lake
 
-![Picture](/assets/images/202111535406-jpeg-1.jpg)
+![Picture](assets/images/202111535406-jpeg-1.jpg)
 
 ## Paddlers leaving leigh lake
 
-![Picture](/assets/images/11142021208.jpg)
+![Picture](assets/images/11142021208.jpg)
 
 glacier lilies (fawn lilies) blanket the trail on the approach to the lake. There was millions of glacier lilies along the trail
 
-![Picture](/assets/images/11142021201.jpg)
+![Picture](assets/images/11142021201.jpg)
 
 ## The put-in take-out rock
 
-![Picture](/assets/images/11062021412p.jpg)
+![Picture](assets/images/11062021412p.jpg)
 
 Image taken from the ice cave in spring This beach is accessible by foot from the main trail, On the north shore line
 
-![Picture](/assets/images/202111535407-jpeg-1.jpg)
+![Picture](assets/images/202111535407-jpeg-1.jpg)
 
 ## If you are lucky, you will have ice bergs to paddle around
 
-![Picture](/assets/images/112026200p.jpg)
+![Picture](assets/images/112026200p.jpg)
 
 ## Another cool iceberg to paddle by
 
-![Picture](/assets/images/p131.png)
+![Picture](assets/images/p131.png)
 
 ## The co-author, doing what he does best
 
-![Picture](/assets/images/p123.png)
+![Picture](assets/images/p123.png)
 
 ## Kathy admiring a berg just before it rolled over
 
-![Picture](/assets/images/202111535408-jpeg-1.jpg)
+![Picture](assets/images/202111535408-jpeg-1.jpg)
 
 ## Huge avalanche terminus on leigh lake
 
-![Picture](/assets/images/111220211037a.jpg)
+![Picture](assets/images/111220211037a.jpg)
 
 ## Jane enjoying being surrounded by bergs
 
-![Picture](/assets/images/12072023918p.jpg)
+![Picture](assets/images/12072023918p.jpg)
 
 ## Another year's gigantic avalanche terminus  This image is below leigh lakes 3,000' back wall
 
-![Picture](/assets/images/202111535409-jpeg-1.jpg)
+![Picture](assets/images/202111535409-jpeg-1.jpg)
 
 ## The amphitheater above the lunch spot beach. ​photo by debbie pierce
 
-![Picture](/assets/images/p66.png)
+![Picture](assets/images/p66.png)
 
 The amphitheater and our lunch spot beach Be 100% sure you tie your raft up. The walk out is brutal
 
-![Picture](/assets/images/722025325p.jpg)
+![Picture](assets/images/722025325p.jpg)
 
 ## David, my co-author, enjoying a quiet moment in the amphitheater
 
-![Picture](/assets/images/2021115354010-jpeg-1-copy.jpg)
+![Picture](assets/images/2021115354010-jpeg-1-copy.jpg)
 
 ## The amphitheater at leigh lake. The right side is the hiking route
 
-![Picture](/assets/images/2021115354011-jpeg-1.jpg)
+![Picture](assets/images/2021115354011-jpeg-1.jpg)
 
 ## This waterfall is about 1000’ above the lake. ​it evaporates before you get wet
 
-![Picture](/assets/images/2021115354012-jpeg-1.jpg)
+![Picture](assets/images/2021115354012-jpeg-1.jpg)
 
 ## West wall leigh lake waterfalls
 
-![Picture](/assets/images/2272022840p-copy.jpg)
+![Picture](assets/images/2272022840p-copy.jpg)
 
 ## An incredible view of one of the dozens of waterfalls on the west wall Photo by debbie pierce
 
-![Picture](/assets/images/202107111522.jpg)
+![Picture](assets/images/202107111522.jpg)
 
 ## Crazy david, my co-author sufin' a berg
 
-![Picture](/assets/images/202107111524.jpg)
+![Picture](assets/images/202107111524.jpg)
 
 ## The rare and elusive  iceberg seal ​image by david
 
-![Picture](/assets/images/2021115354013-jpeg-1.jpg)
+![Picture](assets/images/2021115354013-jpeg-1.jpg)
 
 Debbie taking in the sites & sounds. ​this falls, originates over 2000’ above. ​photo by debbie pierce
 
 ---
 
-![Picture](/assets/images/p485.png)
+![Picture](assets/images/p485.png)
 
 ## Two hikers/paddlers enjoying lunch in the amphitheater Photo by debbie pierce
 
 ---
 
-![Picture](/assets/images/8152022303p.jpg)
+![Picture](assets/images/8152022303p.jpg)
 
 ## Above leigh lake, in the amphitheater ​image taken 8.12.2022
 
 ---
 
-![Picture](/assets/images/112026227p.jpg)
+![Picture](assets/images/112026227p.jpg)
 
 ## There's lots of water flowing down every crack or crevasse
 
-![Picture](/assets/images/2021115354014-jpeg-1.jpg)
+![Picture](assets/images/2021115354014-jpeg-1.jpg)
 
 ## Leigh lake with snowshoe peak (mark), and a peak, to the right, ​while flying with galen
 

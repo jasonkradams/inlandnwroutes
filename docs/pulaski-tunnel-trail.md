@@ -64,15 +64,15 @@ For more detailed info, on the great fire of 1910, click the url below ​<https
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/4132025452p.jpg)
+![Picture](assets/images/4132025452p.jpg)
 
 ## Photo gallery
 
-![Picture](/assets/images/p138.png)
+![Picture](assets/images/p138.png)
 
 ## The great fire of 1910
 
-![Picture](/assets/images/p124.png)
+![Picture](assets/images/p124.png)
 
 ## The beginning of the pulaski tunnel trail
 
@@ -80,7 +80,7 @@ For more detailed info, on the great fire of 1910, click the url below ​<https
 
 ## All along this wonderful trail are these informative signs
 
-![Picture](/assets/images/2021115352-jpeg-1.jpg)
+![Picture](assets/images/2021115352-jpeg-1.jpg)
 
 ## A scenic creek crossing
 
@@ -96,10 +96,10 @@ For more detailed info, on the great fire of 1910, click the url below ​<https
 
 ---
 
-![Picture](/assets/images/p128.png)
+![Picture](assets/images/p128.png)
 
 ## The pulaski tunnel
 
-![Picture](/assets/images/20211153536-jpeg-1.jpg)
+![Picture](assets/images/20211153536-jpeg-1.jpg)
 
 ## The amphitheater near the tunnel’s viewpoint

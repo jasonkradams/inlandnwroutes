@@ -86,7 +86,7 @@ Long Canyon, Long Mountain Lake & Peak, Russell Mt & Ridge, and Trout Lake & Big
 
 Jalapeños, Burger Express,  Eichardt's, and Mr. Sub in Sandpoint
 
-![Picture](/assets/images/4132025357p.png)
+![Picture](assets/images/4132025357p.png)
 
 *Picture (Image missing)*
 
@@ -108,7 +108,7 @@ Jalapeños, Burger Express,  Eichardt's, and Mr. Sub in Sandpoint
 
 ## A scrambler near the top of pyramid's summit
 
-![Picture](/assets/images/10122024408p.jpg)
+![Picture](assets/images/10122024408p.jpg)
 
 ## Scramblers nearing the summit of pyramid peak
 
@@ -126,11 +126,11 @@ Jalapeños, Burger Express,  Eichardt's, and Mr. Sub in Sandpoint
 
 ## The lion head group above long canyon ​image by colin xu
 
-![Picture](/assets/images/10112024648p.jpg)
+![Picture](assets/images/10112024648p.jpg)
 
 Pyramid lake
 
-![Picture](/assets/images/10112024700p.jpg)
+![Picture](assets/images/10112024700p.jpg)
 
 Rock hopping from the peak to the lake
 ​

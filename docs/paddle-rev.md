@@ -49,16 +49,16 @@ stats:
 
 ## Merganser diving duck
 
-![Picture](/assets/images/p242.png)
+![Picture](assets/images/p242.png)
 
 ---
 
 ## Legacy aircraft meets drone
 
-![Picture](/assets/images/p244.png)
+![Picture](assets/images/p244.png)
 
 ---
 
 ## Dark sky and shooting star
 
-![Picture](/assets/images/p245.png)
+![Picture](assets/images/p245.png)

@@ -75,21 +75,21 @@ Moon Time, Franklins Hoagies, the Mexican Food Factory, and the Trails End Brewe
 
 ## Please everyone...heed this health alert
 
-![Picture](/assets/images/5132025306p-2.jpg)
+![Picture](assets/images/5132025306p-2.jpg)
 
 ## Photo gallery
 
 ---
 
-![Picture](/assets/images/2021116-73-jpeg-1.jpg)
+![Picture](assets/images/2021116-73-jpeg-1.jpg)
 
 ## From the start of this trail, signs will guide you and educate you
 
-![Picture](/assets/images/2021116-74-jpeg-1.jpg)
+![Picture](assets/images/2021116-74-jpeg-1.jpg)
 
 ## THE 3rd STREET ENTERANCE TO TUBBS HILL
 
-![Picture](/assets/images/2021116-71-jpeg-1.jpg)
+![Picture](assets/images/2021116-71-jpeg-1.jpg)
 
 ## Winter walks on tubbs hill can be very rewarding
 
@@ -97,25 +97,25 @@ Moon Time, Franklins Hoagies, the Mexican Food Factory, and the Trails End Brewe
 
 ---
 
-![Picture](/assets/images/2021116-72-jpeg-1.jpg)
+![Picture](assets/images/2021116-72-jpeg-1.jpg)
 
 ## Tubbs hill isn’t just for diving, hiking, swimming, and climbing
 
 ---
 
-![Picture](/assets/images/2021116-75-jpeg-1.jpg)
+![Picture](assets/images/2021116-75-jpeg-1.jpg)
 
 ## Marge & mike a. on the tubbs hill's beacon point
 
 ---
 
-![Picture](/assets/images/2021116-77-jpeg-1.jpg)
+![Picture](assets/images/2021116-77-jpeg-1.jpg)
 
 ## The east shore of the southern bay, from tubbs hill point
 
 ---
 
-![Picture](/assets/images/2021116-76-jpeg-1.jpg)
+![Picture](assets/images/2021116-76-jpeg-1.jpg)
 
 ## The bay on the south shore of tubbs hill
 

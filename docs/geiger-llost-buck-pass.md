@@ -45,7 +45,7 @@ notes:
 
 *Lower 4749’ & upper 5333’ geiger lakes*
 
-![Picture](/assets/images/61420251141a.jpg)
+![Picture](assets/images/61420251141a.jpg)
 
 ## Description
 
@@ -86,13 +86,13 @@ Kaiju Bar & Grill in Libby.   Henry’s & Pizza Hut, in Libby, Clark Fork Pantr
 
 ## Photo gallery
 
-![Picture](/assets/images/20200909055734.jpg){: data-src="/assets/images/20200909055734.jpg" }
+![Picture](assets/images/20200909055734.jpg){: data-src="assets/images/20200909055734.jpg" }
 
 ## Trail #656 to lower geiger lake
 
 ---
 
-![Picture](/assets/images/039.jpg)
+![Picture](assets/images/039.jpg)
 
 ## Lower geiger lake
 
@@ -104,7 +104,7 @@ Kaiju Bar & Grill in Libby.   Henry’s & Pizza Hut, in Libby, Clark Fork Pantr
 
 ## Upper geiger lake with lost buck pass
 
-![Picture](/assets/images/p471.png)
+![Picture](assets/images/p471.png)
 
 ## Upper geiger lake from near lost buck pass
 
@@ -116,13 +116,13 @@ Kaiju Bar & Grill in Libby.   Henry’s & Pizza Hut, in Libby, Clark Fork Pantr
 
 ---
 
-![Picture](/assets/images/p502.png)
+![Picture](assets/images/p502.png)
 
 ## Towering columns on high route to wanless lake
 
 ---
 
-![Picture](/assets/images/202111535395-jpeg-1.jpg)
+![Picture](assets/images/202111535395-jpeg-1.jpg)
 
 ## Buck lake from lost buck pass
 
@@ -134,6 +134,6 @@ Kaiju Bar & Grill in Libby.   Henry’s & Pizza Hut, in Libby, Clark Fork Pantr
 
 ---
 
-![Picture](/assets/images/p503.png)
+![Picture](assets/images/p503.png)
 
 ## Engle peak’s fluted eastern face, above wanless lake

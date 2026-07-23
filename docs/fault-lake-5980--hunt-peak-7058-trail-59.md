@@ -86,13 +86,13 @@ Jalapeños, Mr. Sub, Burger Express, in Sandpoint
 
 ---
 
-![Picture](/assets/images/202095146.jpg)
+![Picture](assets/images/202095146.jpg)
 
 ## Lower section of the selkirk crest, south of hunt peak
 
 ---
 
-![Picture](/assets/images/20200109172647.jpg)
+![Picture](assets/images/20200109172647.jpg)
 
 ## Along the trail to fault lake
 
@@ -104,13 +104,13 @@ Jalapeños, Mr. Sub, Burger Express, in Sandpoint
 
 ---
 
-![Picture](/assets/images/1d689121-08be-4025-b96a-3cb36a2bfb1e.jpg)
+![Picture](assets/images/1d689121-08be-4025-b96a-3cb36a2bfb1e.jpg)
 
 ## Does anyone see the alligator in this image?
 
 ---
 
-![Picture](/assets/images/fed4ba75-6b41-41da-a1a7-64660e37765e.jpg)
+![Picture](assets/images/fed4ba75-6b41-41da-a1a7-64660e37765e.jpg)
 
 ## Always find the best spot for lunch & a nap
 
@@ -122,13 +122,13 @@ Jalapeños, Mr. Sub, Burger Express, in Sandpoint
 
 ---
 
-![Picture](/assets/images/4d930d27-5485-464d-a617-ee63d5a0e47b.jpg)
+![Picture](assets/images/4d930d27-5485-464d-a617-ee63d5a0e47b.jpg)
 
 ## Fault lake from high in the fault
 
 ---
 
-![Picture](/assets/images/6c7611f2-e7c7-4bd6-9b16-be927c5caa6f.jpg)
+![Picture](assets/images/6c7611f2-e7c7-4bd6-9b16-be927c5caa6f.jpg)
 
 ## The fault that the lake is named for
 

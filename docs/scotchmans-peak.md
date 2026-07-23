@@ -67,27 +67,27 @@ The Clark Fork River, Johnson Creek and the Delta for paddling, Montana, Hwy 56,
 
 Jalapeños, Burger Express, in Sandpoint The Squeeze Inn & Clark Fork Fork Pantry,  in Clark Fork. This unique store sells bulk food, great sandwiches, and to die for Peanut Butter Cookies.
 
-![Picture](/assets/images/6182025144p.jpg)
+![Picture](assets/images/6182025144p.jpg)
 
-![Picture](/assets/images/41232025426p.jpg)
+![Picture](assets/images/41232025426p.jpg)
 
 ## Photo gallery
 
 ---
 
-![Picture](/assets/images/p293.png)
+![Picture](assets/images/p293.png)
 
 ## Scotchmans peak from a spokane mountaineers 1985 hike, led by chic
 
 ---
 
-![Picture](/assets/images/img-8673.jpg)
+![Picture](assets/images/img-8673.jpg)
 
 ## Mr scotchman ​image by david craftn
 
 ---
 
-![Picture](/assets/images/202503150645.jpg)
+![Picture](assets/images/202503150645.jpg)
 
 ## Ms scotchman ​image by a. buddington
 
@@ -95,7 +95,7 @@ Jalapeños, Burger Express, in Sandpoint The Squeeze Inn & Clark Fork Fork Pant
 
 ---
 
-![Picture](/assets/images/1202022645p-2.jpg)
+![Picture](assets/images/1202022645p-2.jpg)
 
 ## Center is scotchmans peak from sawtooth mountain. It really is taller then middle peak on left
 

@@ -1,0 +1,146 @@
+---
+title: "Blog #71: Fall hikes around our region"
+date: 2024-09-03
+authors:
+  - chic
+  - david
+categories:
+  - Winter Sports
+---
+
+​The Inland Pacific Northwest has many great fall hikes and fall colors.
+Below I will suggest some of the best fall color hikes with additional insights.
+
+<!-- more -->
+
+(a note….
+All of my trail distances and elevation gains, are strictly from the U.S.F.S. websites on that particular hike, unless I prefix the number with "about".  C.),
+
+Cabinet mountain wilderness
+Lower & Upper Geiger Lakes & Lost Buck Pass
+<https://www.inlandnwroutes.com/geiger-llost-buck-pass.html>
+
+Lower Geiger Lake is an easy 2 miles and 1000verts. 
+The Upper Geiger Lake is just a mile further, with 600verts.
+But don’t stop there. Above you in a notch to the south is Lost Buck Pass. Here the trail merges with the Cabinet Divide Trail #360. If you walk south on this high ridge, the views of Wanless Lake below Engle Peak, fills your view.
+
+For the very adventurous, skilled hikers, Carney Peak 7173’ towers above the skyline. Once on top, the views north are of the heart of the C.M.W.
+
+Rock Lake & The Milwaukee Pass
+<https://www.inlandnwroutes.com/rock-lake-4958.html>
+
+The unusual thing about Rock Lake, is that it sits below two peaks.
+But these two peaks are very close together. Hence a long narrow lake.
+To the north, up a long valley, sit Milwaukee Pass. Even hiking up half way, produces great views and photo ops, of Rock Lake.
+East of Rock Lake, is a peak called Ojibway. 
+What you will notice walking the west shore line, is how incredibly steep the walls are, right out of the lake.
+The hike up Trail #935 is gentle for about 3 miles, then it switchbacks gently to the lake.
+Trail #935 is 8.2 miles RT with 1708verts.
+
+American selkirks
+
+Harrison Lake
+<https://www.inlandnwroutes.com/harrison-lake--peak-7292-trial--217.html>
+
+Harrison Lake Trail # 217 is an easy 2.5 miles one way with 1435verts.
+Along the trail there are several viewpoints to stop and admire the Pack River Valley, and its surrounding peaks.
+Harrison Lake sits below the Selkirk Crest, that circles most of the lake.
+There are many options to extend your hike, listed on our website.
+
+Roman Nose Lakes
+<https://www.inlandnwroutes.com/roman-nose-lakes--peak-idaho.html>
+
+The coolest thing about the Roman Nose Lakes, is you can take almost anyone to one of them.
+The first lake has a boardwalk around the NE shore, that is wheelchair accessible. Think Grandma fishing, while you hike.
+The upper lake is 2 miles in with 535verts and some downhill.
+As you walk these trails, notice how your adventure is circled by high ridges and towering peaks.
+This is a great family hike.
+
+Silver valley
+Lone Lake & the Upper Sanctuary
+<https://www.inlandnwroutes.com/lone-long-lake-lakes.html>
+
+Lone Lake sits below the most dynamic face of Stevens Peak.
+If you are a fall color enthusiast, the Upper Sanctuary is a place for you.
+Trail #138 climbs 2 miles with 1637verts. 
+By walking around the west shore, and up over the waterfall, you will reach the Sanctuary in less than a mile and about 250verts gained.
+DO NOT MISS THIS LAKE AND ABOVE in the last week of September to the second week in Rocktober.
+
+Preist lake selkirks
+
+Blacktail Mountain
+<https://www.inlandnwroutes.com/blacktail-mountain.html>
+
+Blacktail Mountain rises above Priest Lake to the north.
+For the most part, Trail #292 climbs gently for 1.8 miles and 1295verts.
+There are two reasons that stand out to visit Blacktail.
+The first is your commanding view of Lower Priest Lake. Islands and all are your view.
+The second is the overwhelming views of well over 30 miles of the American Selkirks.
+Of course there are many other hikes to consider, but the above are sure bets.
+PLEASE plan your trip into Nature with care and thoroughness.
+Check out our RESOURCES section, for all you need to know, before you go.
+
+Enjoy,
+
+Chic            David
+
+InlandNWRoutes.com
+
+blog #70   planning your trip
+
+I’m sure at one time or another, we have all been foiled by bad weather.
+Below are some ways to predict if your outing will be successful.
+
+[<https://www.weather.gov](https://www.weather.gov>/)
+This is the site I use every time I am planning an outing. Especially the 3-4 days prior to the trip
+Once on this website, enter the place you are planning to go to, in the top left…"Local Forecast by City, State, Zip code", or destination.
+
+This will bring up a page that has the description of the upcoming week.
+These words are general descriptions of those days, but do not tell you the whole story.
+Scroll down to the green map with a darker green cursor.
+You can expand the map to see a more detailed area to get your forecast. 
+By tapping on the lake, peak, or general area, it will show you the specific forecast for that spot.
+
+Now scroll down the HOME PAGE to the HOURLY WEATHER FORECAST, graph.
+This graph shows you all the specifics for two days at a time.
+
+The first row shows you the forecast Temperature, DewPoint, and the Heat Index, or windchill factor.
+
+The second row shows Gusts and Surface winds.
+Notice next to the numbers, an arrow that points in the direction the winds may be coming from. The notches on the end of these arrows indicates the general speed the winds will be blowing. The more notches, the faster the winds.
+
+In the third row is the Relative Humidity (%).
+The next info is the Precipitation Potential (%).
+The next is the percentage of Sky Cover (%).
+
+The forth is the Rain potential. The green bars are a visual details.
+But notice the very left column.
+They are from bottom to top….SChc…meaning slight chance
+Next is Chc….meaning a chance of rain.
+Next is Lkly…meaning likely chance of rain.
+The top is Ocnl….meaning occasional chance of rain.
+
+The bottom row is for Thunder in the summer or Snow & Sleet in the winter.
+
+The bars have numbers attached which details the amount of Thunder or Snow predicted. If there are no numbers, it indicates that the potential is unknown at the time.
+
+By tapping the Forward 2 Days, at the top of the Hourly Weather Forecast, the graphs will move forward two days.
+
+It may take some time to figure out what this graph shows you.
+By moving forward or backward, you can see the trend of the forecast.
+I often screenshot these pages every day so I can determine the weather patterns leading up to my outing.
+
+Armed with this info, you can tell if your destination will be hot, rainy, cold, windy, etc., but most importantly the percentage of rain or snow predicted.
+
+The more you know in your planning stage, the more likely your outing will be successful.
+
+For further information on all things weather, check out our RESOURCE section….
+<https://www.inlandnwroutes.com/weather-thunderstorms-and-lightning.html>
+
+Our goal is to bring you, our readers, the most up to date information and knowledge available.
+
+Thank You for reading and using our local website.
+
+Chic          David
+
+InlandNWRoutes.com

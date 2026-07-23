@@ -75,22 +75,22 @@ Pizza Factory, 1313 Club and Muchaho’s Tacos in Wallacem
 
 ## Photo gallery
 
-![Picture](/assets/images/p367.png)
+![Picture](assets/images/p367.png)
 
 ## Mcdonald lake from near cliff lake ​the trailhead is the far end of the lake in this image
 
-![Picture](/assets/images/p376.png)
+![Picture](assets/images/p376.png)
 
 ## Eagle cliff peak
 
-![Picture](/assets/images/p369.png)
+![Picture](assets/images/p369.png)
 
 ## The route to eagle cliff peak is up center gully & right ridge line
 
-![Picture](/assets/images/p370.png)
+![Picture](assets/images/p370.png)
 
 ## Looking east from eagle cliff summit
 
-![Picture](/assets/images/p371.png)
+![Picture](assets/images/p371.png)
 
 ## Looking north from eagle cliff peak with cliff lake below

@@ -89,27 +89,27 @@ Franklin’s Hoagies, Moontime, and Mexican Food Factory.
 
 ## Photo gallery
 
-![Picture](/assets/images/11072021347p.jpg)
+![Picture](assets/images/11072021347p.jpg)
 
 ## Hiker heading to the north chilco summit
 
-![Picture](/assets/images/202159836.jpg)
+![Picture](assets/images/202159836.jpg)
 
 ## Once up on the ridge, the trail splits. left is n. chilco, right is s. chilco
 
-![Picture](/assets/images/201259835.jpg)
+![Picture](assets/images/201259835.jpg)
 
 ## North chilco trail
 
-![Picture](/assets/images/202159842.jpg)
+![Picture](assets/images/202159842.jpg)
 
 ## Pend oreille lake from n. chilco
 
-![Picture](/assets/images/202159844.jpg)
+![Picture](assets/images/202159844.jpg)
 
 ## Approaching the summit of n. chilco
 
-![Picture](/assets/images/202159314.jpg)
+![Picture](assets/images/202159314.jpg)
 
 ## Pend oreille lake from n. chilco with lookout debris
 
@@ -121,11 +121,11 @@ The south chilco lookout was built in 1915 and abandoned in 1935, when the north
 
 ## A spokane mountaineers hike on the summit of south chilco
 
-![Picture](/assets/images/26200036.jpg)
+![Picture](assets/images/26200036.jpg)
 
 ## From the summit of south chilco, the larch stand out bright
 
-![Picture](/assets/images/202159926.jpg)
+![Picture](assets/images/202159926.jpg)
 
 ## Spokane mountaineers at lunch on top of s. chilco
 
@@ -141,7 +141,7 @@ The summit cabin fire lookout that was on north chilco. ​it was built in 1938,
 
 Consider walking the ridge north of n. chilco. its trail skirts the west side of the ridge for about .5 miles. silverwood sit near the water tower left of center
 
-![Picture](/assets/images/202159849.jpg)
+![Picture](assets/images/202159849.jpg)
 
 ## The trail north of n. chilco
 
@@ -151,7 +151,7 @@ Consider walking the ridge north of n. chilco. its trail skirts the west side of
 
 ---
 
-![Picture](/assets/images/1202022308p.jpg)
+![Picture](assets/images/1202022308p.jpg)
 
 From chair 5 at silver mt., ​the chilco's are directly above the lift tower on the horizon. I never realized that south chilco was so massive
 

@@ -103,7 +103,7 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 ---
 
-![Picture](/assets/images/6132025355p.jpg)
+![Picture](assets/images/6132025355p.jpg)
 
 ## DISREGARD STEVENS PEAK'S ELEVATION ON THIS MAP....STEVENS PEAK IS 6838v
 
@@ -111,39 +111,39 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 ### **Hiking trail #16a, near gold hill, stevens peak in distance, a.l.r.**
 
-![Picture](/assets/images/p512.png)
+![Picture](assets/images/p512.png)
 
 In the mid to late 80’s, the usfs designated the stevens peak area, the "alpine lakes region" but never followed thru with its possible wilderness designation
 
 ## Stevens lakes from stevens peak 6838’
 
-<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](/assets/images/p41.png) --> -->
+<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](assets/images/p41.png) --> -->
 
 *Picture (Image missing)*
 
 ## This route is less steep and safer in non snow conditions
 
-![Picture](/assets/images/3312022852p-copy.jpg)
+![Picture](assets/images/3312022852p-copy.jpg)
 
 ## Lone lake on the left & u. & l. stevens lakes on right ​split by the willow ridge
 
-![Picture](/assets/images/p335.png)
+![Picture](assets/images/p335.png)
 
 ## East willow creek’s middle headwall falls
 
-![Picture](/assets/images/p42.png)
+![Picture](assets/images/p42.png)
 
 ## Willow creek waterfalls 11.9.2020
 
-![Picture](/assets/images/p43.png)
+![Picture](assets/images/p43.png)
 
 I have photographed this cedar tree (circling cedar) for over 50 years. It stands/lies about half way to the lower stevens lake. I must tell you all….some do gooder tried to put the green end On the rock for the winter, and broke it’s core. The circling cedar has died from it’s injuries. ​how sad
 
-![Picture](/assets/images/p44.png)
+![Picture](assets/images/p44.png)
 
 ## The old circlng cedar tree along trail #165. shot 11.9.2020
 
-![Picture](/assets/images/p45.png)
+![Picture](assets/images/p45.png)
 
 ## Lower stevens lake in early spring
 
@@ -151,19 +151,19 @@ I have photographed this cedar tree (circling cedar) for over 50 years. It stand
 
 ## Skiing to stevens peak in 1984
 
-![Picture](/assets/images/p338.png)
+![Picture](assets/images/p338.png)
 
 The trail to the upper lake shows on the right in summer & fall In the spring this area is too wet. ​follow the braided trail up on the hill side. In 2024 an avalanche brought down dozens of trees. ​
 
-![Picture](/assets/images/p339.png)
+![Picture](assets/images/p339.png)
 
 ## Wildflowers along the trail to the upper lake
 
-![Picture](/assets/images/p340.png)
+![Picture](assets/images/p340.png)
 
 ## Pano of upper stevens lake
 
-![Picture](/assets/images/p341.png)
+![Picture](assets/images/p341.png)
 
 ## Aerial view of upper & lower stevens lakes, 300verts difference
 
@@ -179,11 +179,11 @@ The trail to the upper lake shows on the right in summer & fall In the spring th
 
 ## Upper stevens lake below stevens peak in mid summer
 
-![Picture](/assets/images/p344.png)
+![Picture](assets/images/p344.png)
 
 ## Upper stevens lake in prime fall color
 
-![Picture](/assets/images/p36.png)
+![Picture](assets/images/p36.png)
 
 ## Backcountry skier curt almli on way to steven’s summit, ​ from west willow ridge. 1983
 
@@ -191,7 +191,7 @@ The trail to the upper lake shows on the right in summer & fall In the spring th
 
 ## Snow ghosts along west willow ridge to stevens peak
 
-![Picture](/assets/images/11062021318p.jpg)
+![Picture](assets/images/11062021318p.jpg)
 
 ## Upper stevens lake from state line ridge 1984
 
@@ -199,7 +199,7 @@ The trail to the upper lake shows on the right in summer & fall In the spring th
 
 Does anyone see the image of a lady leaning back against the peak, holding a baby?   or is it just me?
 
-![Picture](/assets/images/p358.png)
+![Picture](assets/images/p358.png)
 
 This image was taken 4.27.20 on the ridge between st. regis lakes & stevens lakes. stevens peak, top right center. 8 miles rt, 2700 verts to this point
 
@@ -219,7 +219,7 @@ But the following information is too interesting, and needs to be read by all st
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/8420231025a.jpg)
+![Picture](assets/images/8420231025a.jpg)
 
 ​this is an image of the old train reverse "s" shaped bridge That used to be in the area of the trailhead for stevens lakes. ​the current trailhead is marked with a red dot
 
@@ -236,9 +236,9 @@ The images below are by  nellie stockbridge, of the barnard-stockbridge collect
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/9420231044a.jpg)
+![Picture](assets/images/9420231044a.jpg)
 
-![Picture](/assets/images/8420231046a.jpg)
+![Picture](assets/images/8420231046a.jpg)
 
 In these images, notice the lack of trees. in 1892-3 a huge fire denuded the entire area. the avalanche came right down the slope above the trailhead
 
@@ -250,7 +250,7 @@ In these images, notice the lack of trees. in 1892-3 a huge fire denuded the ent
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/8420231052a.jpg)
+![Picture](assets/images/8420231052a.jpg)
 
 *Picture (Image missing)*
 
@@ -260,7 +260,7 @@ This image of the rotary snow blower, is to illustrate  the type of equipment u
 
 This image is from 1890 and illustrates the extent of the avalanches debris that occurred many times along the northern pacific rail line. The bridge on the left is over willow creek. ​it is now an earthen bridge that you cross to get to lone lake
 
-![Picture](/assets/images/8420231056a.jpg)
+![Picture](assets/images/8420231056a.jpg)
 
 The forest around the "s" bridge, was burned in 1893-4,  And the "s" shaped bridge completely burned in the great fire of 1910
 
@@ -268,11 +268,11 @@ The forest around the "s" bridge, was burned in 1893-4,  And the "s" shaped bri
 
 ## The engine is pictured below the timbers, with the caboose is up hill from it
 
-![Picture](/assets/images/262024724p.jpg)
+![Picture](assets/images/262024724p.jpg)
 
 ## A close up of the type rotary snow blower used to clear the tracks
 
-![Picture](/assets/images/8420231102a.jpg)
+![Picture](assets/images/8420231102a.jpg)
 
 ## This image is the last passenger train to use this route
 
@@ -284,7 +284,7 @@ I included these images to show you the then and now difference in the area of t
 
 This image is of upper stevens lake in 1920 ​notice the lack of trees Image by ​nellie stockbridge
 
-![Picture](/assets/images/8420231126a.jpg)
+![Picture](assets/images/8420231126a.jpg)
 
 An image of lower stevens lake and peak from 1893 ​the fires of 1893-4, 1910 & 1923 destroyed all the trees ​image by nellie stockbridge
 
@@ -313,7 +313,7 @@ The pipe sits in a trench deep enough that if an avalanche occurred, the pipe co
 Over a hundred years of sediment, pine neddles, leaves and other forest debris have fallen to nearly covered the pipe in its trench.
 This image is after the first scree slope, above where the road becomes the trail.
 
-![Picture](/assets/images/7312024141p.jpg)
+![Picture](assets/images/7312024141p.jpg)
 
 Reindeer Queen Mine built a 5 foot tall log dam stretching across the exit creek below the headwall.
 This image show a small portion of the headwall reservoir, yellow arrow.
@@ -321,11 +321,11 @@ Red line is the mine at the current switchback.
 The image below is not the Reindeer Queen mine.
 This image is to show you the reservoir for the Reindeer Queen Mine, and the old mine at the corner of the scree switchback.
 
-![Picture](/assets/images/img-27e53a7f2bc4-1.jpg)
+![Picture](assets/images/img-27e53a7f2bc4-1.jpg)
 
 The Reindeer Queen Mine was the prominent mining operation in the Stevens Lakes drainage.
 
-![Picture](/assets/images/7312024148p.jpg)
+![Picture](assets/images/7312024148p.jpg)
 
 The miners of the reindeer queen mine
 
@@ -402,11 +402,11 @@ The red line is the mine at the new switchback on Trail #165.
 
 ​The yellow arrow shows the Reindeer Queen Mines headwall reservoir.
 
-![Picture](/assets/images/img-9909f64b5b29-1.jpg)
+![Picture](assets/images/img-9909f64b5b29-1.jpg)
 
 The camp for the miners, skirts the current Trail #165 just before you pop out of the forest near the headwall waterfall.
 
-![Picture](/assets/images/7312024233p.jpg)
+![Picture](assets/images/7312024233p.jpg)
 
 ## The same building as above, different view
 
@@ -482,7 +482,7 @@ The only images I have found of the cabin, does not give me a clue to where on t
 ​
 But having hiked all around the lake many times, it had to be on the very first flat spot as Trail #165 arrives to the lower lake. the fire pit is just below old cabin site.
 
-![Picture](/assets/images/img-b3ad615d9e04-1.jpg)
+![Picture](assets/images/img-b3ad615d9e04-1.jpg)
 
 The United State Forestry Service eventually built a cabin/lookout on Stevens summit, and connected them to the Mullan Fish & Game Club, via a telephone line.
 

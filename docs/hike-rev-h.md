@@ -41,7 +41,7 @@ Click for Current NOAA Weather Conditions
 
 ##
 
-![Picture](/assets/images/img-1826-66.jpg){: data-src="/assets/images/img-1826-66.jpg" }
+![Picture](assets/images/img-1826-66.jpg){: data-src="assets/images/img-1826-66.jpg" }
 
 ---
 

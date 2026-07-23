@@ -82,23 +82,23 @@ Burger Express in Priest River, Ardy's Cafe,
 
 ---
 
-![Picture](/assets/images/6182025226p.jpg)
+![Picture](assets/images/6182025226p.jpg)
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/6172022104p.jpg)
+![Picture](assets/images/6172022104p.jpg)
 
 ## Gerald linquist, trail boss
 
-![Picture](/assets/images/6172022105p.jpg)
+![Picture](assets/images/6172022105p.jpg)
 
 ## The state of the navigation trail #291
 
-![Picture](/assets/images/6172022108p.jpg)
+![Picture](assets/images/6172022108p.jpg)
 
 ## The navigation trail #291
 
-![Picture](/assets/images/img-2727.jpg)
+![Picture](assets/images/img-2727.jpg)
 
 ## Looking east from the navigation campground
 
@@ -110,6 +110,6 @@ Burger Express in Priest River, Ardy's Cafe,
 
 ## Along the trail, there were many fungi. This is a false morel. it is poisonous
 
-![Picture](/assets/images/6172022122p.jpg)
+![Picture](assets/images/6172022122p.jpg)
 
 ## Spring orange peel fungi

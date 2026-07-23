@@ -91,23 +91,23 @@ Click for Current NOAA Weather Conditions
 
 ## Fisher peak in winter. east of cranbrook, b.c., from fisher peak, idaho
 
-![Picture](/assets/images/p422.png)
+![Picture](assets/images/p422.png)
 
 ## Fisher peak from near cranbrook, b.c., canada
 
-![Picture](/assets/images/p432.png)
+![Picture](assets/images/p432.png)
 
 ## An aerial image of the route to fisher peak
 
-![Picture](/assets/images/p416.png)
+![Picture](assets/images/p416.png)
 
 ## A creek along the lower section of fisher peak trail
 
-![Picture](/assets/images/p433.png)
+![Picture](assets/images/p433.png)
 
 ## A waterfall along the trail
 
-![Picture](/assets/images/p417.png)
+![Picture](assets/images/p417.png)
 
 ## The long steep scree slope just before the summit pitch
 
@@ -115,16 +115,16 @@ Click for Current NOAA Weather Conditions
 
 ## Chic taking a break before the summit. see below
 
-![Picture](/assets/images/p350.png)
+![Picture](assets/images/p350.png)
 
 The summit pyramid stands 1300 verts above the rest of the local peaks. ​on the summit was a wedding party from a few days before
 
-![Picture](/assets/images/p424.png)
+![Picture](assets/images/p424.png)
 
 ## Climber’s registration box on the summit
 
 ---
 
-![Picture](/assets/images/p425.png)
+![Picture](assets/images/p425.png)
 
 ## Nicol lake and the canadian rocky mountains, from the summit

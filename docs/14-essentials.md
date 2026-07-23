@@ -195,7 +195,7 @@ You may have other items you feel are necessary. But be aware of the additional 
 
 ## [Spokane mountaineers](https://www.spokanemountaineers.org)
 
-![Picture](/assets/images/img-0805.png)
+![Picture](assets/images/img-0805.png)
 
 The Spokane Mountaineers is an organization devoted to the conservation and enjoyment of the out-of-doors. By joining the Spokane Mountaineers, you have chosen to adopt these principles for your own and become a participant in some of the most exciting and enjoyable activities available in the Pacific Northwest. Founded in 1915 by a group of librarians who loved to hike, the club has grown to incorporate an amazing range of activities for members of all ages (15 and up) and abilities. Backpacking, day hiking, bicycling, skiing of all varieties - the Spokane Mountaineers have it! The annual schools and clinics are a wonderful testimony to the enthusiasm our club has for teaching others and to their firm belief that, although the dangers of mountaineering and the out-of-doors can never be ignored, good instruction can help minimize those dangers.
 

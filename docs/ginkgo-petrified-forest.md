@@ -65,7 +65,7 @@ Michael's Market & Bistro in Moses Lake
 
 ---
 
-![Picture](/assets/images/20220424095201.jpg)
+![Picture](assets/images/20220424095201.jpg)
 
 ##
 
@@ -83,25 +83,25 @@ Michael's Market & Bistro in Moses Lake
 
 ---
 
-![Picture](/assets/images/20220424095301.jpg)
+![Picture](assets/images/20220424095301.jpg)
 
 ## Spokane mountaineers day hike led by tyler nyman
 
 ---
 
-![Picture](/assets/images/20220425123101.jpg)
+![Picture](assets/images/20220425123101.jpg)
 
 ##
 
 ---
 
-![Picture](/assets/images/20220425123201.jpg)
+![Picture](assets/images/20220425123201.jpg)
 
 ##
 
 ---
 
-![Picture](/assets/images/20220424095302.jpg)
+![Picture](assets/images/20220424095302.jpg)
 
 ## Larkspur
 
@@ -113,7 +113,7 @@ Michael's Market & Bistro in Moses Lake
 
 ---
 
-![Picture](/assets/images/20220424095601.jpg)
+![Picture](assets/images/20220424095601.jpg)
 
 ## Bighorn sheep
 
@@ -137,13 +137,13 @@ Michael's Market & Bistro in Moses Lake
 
 ---
 
-![Picture](/assets/images/20220424095502.jpg)
+![Picture](assets/images/20220424095502.jpg)
 
 ## Petrified log
 
 ---
 
-![Picture](/assets/images/20220425122601.jpg)
+![Picture](assets/images/20220425122601.jpg)
 
 ## Petrified wood
 
@@ -165,13 +165,13 @@ Michael's Market & Bistro in Moses Lake
 
 ##
 
-![Picture](/assets/images/20220424095701.jpg)
+![Picture](assets/images/20220424095701.jpg)
 
 ##
 
 ---
 
-![Picture](/assets/images/20220424095702.jpg)
+![Picture](assets/images/20220424095702.jpg)
 
 ##
 
@@ -201,7 +201,7 @@ Michael's Market & Bistro in Moses Lake
 
 ---
 
-![Picture](/assets/images/202204241000.jpg)
+![Picture](assets/images/202204241000.jpg)
 
 ##
 
@@ -213,7 +213,7 @@ Michael's Market & Bistro in Moses Lake
 
 ---
 
-![Picture](/assets/images/20220424100002.jpg)
+![Picture](assets/images/20220424100002.jpg)
 
 ##
 

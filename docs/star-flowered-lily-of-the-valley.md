@@ -60,4 +60,4 @@ notes:
 
 ---
 
-![Picture](/assets/images/11262021746p.jpg)
+![Picture](assets/images/11262021746p.jpg)

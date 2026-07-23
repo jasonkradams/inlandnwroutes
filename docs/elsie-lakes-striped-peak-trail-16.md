@@ -78,7 +78,7 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 ## Photo gallery
 
-![Picture](/assets/images/p61.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p61_orig.png" }
+![Picture](assets/images/p61.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p61_orig.png" }
 
 ## Big creek campsites
 
@@ -108,7 +108,7 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 ## From west end n.r. trail #16, striped peak back left
 
-![Picture](/assets/images/p65.png)
+![Picture](assets/images/p65.png)
 
 ## Upper elsie lake with striped peak in back right
 
@@ -124,18 +124,18 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 ## National recreation trail #16 skirts the south side of striped peak
 
-![Picture](/assets/images/p97.png)
+![Picture](assets/images/p97.png)
 
 ## Nearing striped peak’s summit ridge
 
 ---
 
-![Picture](/assets/images/p105.png)
+![Picture](assets/images/p105.png)
 
 ## On striped peaks south ridge
 
 ---
 
-![Picture](/assets/images/p99.png)
+![Picture](assets/images/p99.png)
 
 ## Stone hut on striped peak’s summit

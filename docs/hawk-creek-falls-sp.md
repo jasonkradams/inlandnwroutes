@@ -80,9 +80,9 @@ Click for Current NOAA Weather Conditions
 
 ## Hawk creek falls
 
-![Picture](/assets/images/dsc-0355.jpg)
+![Picture](assets/images/dsc-0355.jpg)
 
-![Picture](/assets/images/927208.jpg)
+![Picture](assets/images/927208.jpg)
 
 *Picture (Image missing)*
 

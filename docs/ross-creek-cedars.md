@@ -73,7 +73,7 @@ Click for Current NOAA Weather Conditions
 
 ## Photo gallery
 
-![Picture](/assets/images/2020971222-copy.jpg)
+![Picture](assets/images/2020971222-copy.jpg)
 
 *Picture (Image missing)*
 
@@ -83,7 +83,7 @@ This braided log was a beautiful part of the cedar, but someone cut it out a few
 
 ## My friend erwin by a big cedar. erwin is almost as old as this cedar
 
-![Picture](/assets/images/2021115233-jpeg-1.jpg)
+![Picture](assets/images/2021115233-jpeg-1.jpg)
 
 ## Along the trail in the cedars
 
@@ -95,19 +95,19 @@ This braided log was a beautiful part of the cedar, but someone cut it out a few
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/11072021310p.jpg)
+![Picture](assets/images/11072021310p.jpg)
 
-![Picture](/assets/images/2021115234-jpeg-1.jpg)
+![Picture](assets/images/2021115234-jpeg-1.jpg)
 
 ## Hiking partners david and erwin, standing by a big one
 
-![Picture](/assets/images/p101.png)
+![Picture](assets/images/p101.png)
 
 ## People build these cool rock cairns, but nature washes them away every spring runoff
 
 ---
 
-![Picture](/assets/images/p102.png)
+![Picture](assets/images/p102.png)
 
 ## Building these cairns is an art, no matter how old you are
 
@@ -119,7 +119,7 @@ This braided log was a beautiful part of the cedar, but someone cut it out a few
 
 ---
 
-![Picture](/assets/images/11062021150p.jpg)
+![Picture](assets/images/11062021150p.jpg)
 
 ## The cabinet mountain wilderness from near the ross creek cedars
 

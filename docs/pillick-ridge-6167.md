@@ -79,7 +79,7 @@ Click for Current NOAA Weather Conditions
 
 ## Photo gallery
 
-![Picture](/assets/images/p296.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p296_orig.png" }
+![Picture](assets/images/p296.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p296_orig.png" }
 
 ## Marsha admiring wildflower mid way along the pillick ridge trail
 

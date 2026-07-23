@@ -71,27 +71,27 @@ Click for Current NOAA Weather Conditions
 
 ## Photo gallery
 
-![Picture](/assets/images/20201219141852.jpg)
+![Picture](assets/images/20201219141852.jpg)
 
 ## On the way up looking west towards Clark Fork ​image by david crafton
 
-![Picture](/assets/images/20201219141904.jpg)
+![Picture](assets/images/20201219141904.jpg)
 
 ## Trail junction with big eddy trail ​image by david crafton
 
 ---
 
-![Picture](/assets/images/20201219141914.jpg)
+![Picture](assets/images/20201219141914.jpg)
 
 ## Looking north from the summit ​​image by david crafton
 
 ---
 
-![Picture](/assets/images/11282022743p.jpg)
+![Picture](assets/images/11282022743p.jpg)
 
 The stone house below the lookout tower. This house uses zero mortor in its construction. Image by chris h
 
-![Picture](/assets/images/p307.png)
+![Picture](assets/images/p307.png)
 
 ## Billiard table peak 6622' looking north from star peak 6167' ​​image by david crafton
 
@@ -101,7 +101,7 @@ The stone house below the lookout tower. This house uses zero mortor in its cons
 
 ## The ridge between star peak and billiard table mountain ​image by chris h
 
-![Picture](/assets/images/11282022751p.jpg)
+![Picture](assets/images/11282022751p.jpg)
 
 ## Along the route to billiard table mountain ​image by chris h
 

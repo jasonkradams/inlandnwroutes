@@ -65,4 +65,4 @@ This is typically an erect shrub, 3-18 ft. tall. In rich soils, a single trunk 
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/11252021119.jpg)
+![Picture](assets/images/11252021119.jpg)

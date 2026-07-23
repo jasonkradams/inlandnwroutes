@@ -57,10 +57,10 @@ Other species, such as the fringed gentians, formerly included in *Gentiana,* 
 
 ---
 
-![Picture](/assets/images/11092021244p.jpg)
+![Picture](assets/images/11092021244p.jpg)
 
-![Picture](/assets/images/11092021245p.jpg)
+![Picture](assets/images/11092021245p.jpg)
 
-![Picture](/assets/images/11092021247p.jpg)
+![Picture](assets/images/11092021247p.jpg)
 
-![Picture](/assets/images/11092021248p.jpg)
+![Picture](assets/images/11092021248p.jpg)

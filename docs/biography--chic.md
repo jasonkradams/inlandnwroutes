@@ -4,7 +4,7 @@
 
 ---
 
-![Picture](/assets/images/124371024-3497102010375806-1168553335872609808-o.jpg)
+![Picture](assets/images/124371024-3497102010375806-1168553335872609808-o.jpg)
 
 I was born and raised in the Spokane Coeur d’Alene area, and started hiking at a young age. Working in retail camera sales for 50 years. At one time I was in the Spokane Astronomical Society in the early 80’s.
 

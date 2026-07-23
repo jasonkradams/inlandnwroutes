@@ -61,6 +61,6 @@ Clintonia uniflora is a species of flowering plant in the lily family known by 
 
 ---
 
-![Picture](/assets/images/11282021739p.jpg)
+![Picture](assets/images/11282021739p.jpg)
 
-![Picture](/assets/images/11282021740p.jpg)
+![Picture](assets/images/11282021740p.jpg)

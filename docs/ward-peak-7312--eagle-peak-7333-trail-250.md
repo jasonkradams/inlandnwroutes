@@ -108,25 +108,25 @@ Muchacho’s Tacos, Pizza Factory, 1313 Club,  in Wallace, and Radio Brewing in
 
 ---
 
-![Picture](/assets/images/p598.png)
+![Picture](assets/images/p598.png)
 
 ## Fall colors at ward & eagle peaks are some of the best
 
 ---
 
-![Picture](/assets/images/2021115353884-jpeg-1.jpg)
+![Picture](assets/images/2021115353884-jpeg-1.jpg)
 
 ## The south face of eagle peak above hub lake
 
 ---
 
-![Picture](/assets/images/2021115353885-jpeg-1.jpg)
+![Picture](assets/images/2021115353885-jpeg-1.jpg)
 
 ## Ward peak from eagle peak after the first snow fall
 
 ---
 
-![Picture](/assets/images/p640.png)
+![Picture](assets/images/p640.png)
 
 ## The south face of eagle peak from the trail near the saddle, Down to hub lake
 
@@ -142,19 +142,19 @@ Muchacho’s Tacos, Pizza Factory, 1313 Club,  in Wallace, and Radio Brewing in
 
 ## Eagle & ward peaks from kellogg peak, silver mt
 
-![Picture](/assets/images/p660.png)
+![Picture](assets/images/p660.png)
 
 ## Unnamed double lake
 
 ---
 
-![Picture](/assets/images/p647.png)
+![Picture](assets/images/p647.png)
 
 ## Fall colors above the unnamed double lake
 
 ---
 
-![Picture](/assets/images/p668.png)
+![Picture](assets/images/p668.png)
 
 ## Unnamed double lake above square lake To hike option #4, you must have route finding skills
 
@@ -168,11 +168,11 @@ Muchacho’s Tacos, Pizza Factory, 1313 Club,  in Wallace, and Radio Brewing in
 
 ## The unnamed double lake has a spectacular shore line
 
-![Picture](/assets/images/11072021616p.jpg)
+![Picture](assets/images/11072021616p.jpg)
 
 ## Opposite the image above facing ne
 
-![Picture](/assets/images/p649.png)
+![Picture](assets/images/p649.png)
 
 ## The land bridge between the unnamed double lakes
 
@@ -180,19 +180,19 @@ Muchacho’s Tacos, Pizza Factory, 1313 Club,  in Wallace, and Radio Brewing in
 
 ---
 
-![Picture](/assets/images/p515.png)
+![Picture](assets/images/p515.png)
 
 ## Hub lake below mary & unnamed double lakes
 
 ---
 
-![Picture](/assets/images/p600.png)
+![Picture](assets/images/p600.png)
 
 ## Along the route out, in option #4
 
 ---
 
-![Picture](/assets/images/p601.png)
+![Picture](assets/images/p601.png)
 
 ## Chris on the more gentle route out from unnamed double lake
 

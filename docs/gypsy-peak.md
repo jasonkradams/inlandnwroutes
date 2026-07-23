@@ -83,14 +83,14 @@ NA
 
 ## On crowell ridge walking towards gypsy peak
 
-![Picture](/assets/images/2021511512.jpg)
+![Picture](assets/images/2021511512.jpg)
 
 Watch lake peeks out below the ridge line to gypsy peak Gypsy peak is out to the back right of this unnamed mountain
 
-![Picture](/assets/images/2021511515.jpg)
+![Picture](assets/images/2021511515.jpg)
 
 ## Watch lake below crowell ridge, taken from same as above location
 
-![Picture](/assets/images/2021511517.jpg)
+![Picture](assets/images/2021511517.jpg)
 
 ## Gypsy peak 7309'

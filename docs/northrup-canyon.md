@@ -110,7 +110,7 @@ Click for Current NOAA Weather Conditions
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/p93.png)
+![Picture](assets/images/p93.png)
 
 FROM 1933 to 1941, THE WORKERS BUILDING THE GRAND COULEE DAM, WERE HOUSED IN CANYONS ALL AROUND THE AREA. THEIR MESS HALL CREATED THE HUGE COLLECTION OF EMPTY TIN CANS. THE PILE IS ABOUT 100x200 FEET, AND ABOUT 5 FEET DEEP
 
@@ -118,7 +118,7 @@ FROM 1933 to 1941, THE WORKERS BUILDING THE GRAND COULEE DAM, WERE HOUSED IN CAN
 
 ## A trail of gold, up into northrup canyon
 
-![Picture](/assets/images/p94.png)
+![Picture](assets/images/p94.png)
 
 ## The newer of the houses with the very old behind
 
@@ -126,10 +126,10 @@ FROM 1933 to 1941, THE WORKERS BUILDING THE GRAND COULEE DAM, WERE HOUSED IN CAN
 
 ## Some of the out buildings of the old homestead
 
-![Picture](/assets/images/11112021447p.jpg)
+![Picture](assets/images/11112021447p.jpg)
 
 ## The old homestead from trail above
 
-![Picture](/assets/images/2021116-48-jpeg-1.jpg)
+![Picture](assets/images/2021116-48-jpeg-1.jpg)
 
 ## Northrup lake from above in the fall

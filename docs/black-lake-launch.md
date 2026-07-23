@@ -63,4 +63,4 @@ Trails End Brewery, Moon Time, Franklins, Mexican Food Factory
 
 ## Photo gallery
 
-![Picture](/assets/images/5132025306p-2.jpg)
+![Picture](assets/images/5132025306p-2.jpg)

@@ -74,7 +74,7 @@ Click for Current NOAA Weather Conditions
 
 ##
 
-![Picture](/assets/images/1202022827p.jpg){: data-src="/assets/images/1202022827p.jpg" }
+![Picture](assets/images/1202022827p.jpg){: data-src="assets/images/1202022827p.jpg" }
 
 ## The summit of packsaddle peeks out above the hike in
 

@@ -86,17 +86,17 @@ Beautiful Burke Canyon, scenic and very photogenic (look for the cool rock walls
 
 Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ & Saloon, Muchacho’s Tacos, and the Wallace Brewing Co. Radio Brewing in Kellogg. The Snake Pit north of Kingston. Moon Time & The Mexican Food Factory in CDA.
 
-![Picture](/assets/images/6132025359p.jpg)
+![Picture](assets/images/6132025359p.jpg)
 
 ## Photo gallery
 
-![Picture](/assets/images/p24.png)
+![Picture](assets/images/p24.png)
 
 ## Upper glidden lake in spring. That’s stevens peak off in the distance. ​taken from glidden pass
 
 ---
 
-![Picture](/assets/images/p68.png)
+![Picture](assets/images/p68.png)
 
 ## Bear grass along the road to the upper lake
 
@@ -104,7 +104,7 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 ---
 
-![Picture](/assets/images/p421.png)
+![Picture](assets/images/p421.png)
 
 ## Upper glidden lake with snowstorm peak 6328’
 
@@ -114,14 +114,14 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 ## Stevens peak & the lone lake drainage ​from the ridge line above glidden lakes
 
-![Picture](/assets/images/p25.png)
+![Picture](assets/images/p25.png)
 
 ## Remnants of an old forest in upper glidden lake
 
-![Picture](/assets/images/2021111317-jpeg-1.jpg)
+![Picture](assets/images/2021111317-jpeg-1.jpg)
 
 ## It was a great walk out to u. glidden lake. on the way out i spotted bigfoot
 
-![Picture](/assets/images/11072021603p.jpg)
+![Picture](assets/images/11072021603p.jpg)
 
 ## Upper glidden lake campsite

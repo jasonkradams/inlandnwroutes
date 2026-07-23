@@ -96,13 +96,13 @@ Kaiju Bar & Grill.   Henry’s in Libby near Roseaurs, Clark Fork Pantry & Sque
 
 ---
 
-![Picture](/assets/images/img-0042.jpg)
+![Picture](assets/images/img-0042.jpg)
 
 ## Bear grass above the lakes
 
 ---
 
-![Picture](/assets/images/p28.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p28_orig.jpeg" }
+![Picture](assets/images/p28.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p28_orig.jpeg" }
 
 ## Named the manway because a boy could not walk across it
 
@@ -114,7 +114,7 @@ Kaiju Bar & Grill.   Henry’s in Libby near Roseaurs, Clark Fork Pantry & Sque
 
 ---
 
-![Picture](/assets/images/img-0057.jpg)
+![Picture](assets/images/img-0057.jpg)
 
 ## If i hold really still you cannot see me
 

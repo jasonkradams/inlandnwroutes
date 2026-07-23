@@ -79,7 +79,7 @@ Burger Express, Stagger Inn
 
 ## Photo gallery
 
-![Picture](/assets/images/3192022443p.jpg)
+![Picture](assets/images/3192022443p.jpg)
 
 *Picture (Image missing)*
 
@@ -99,6 +99,6 @@ Four picnic sites, parking, and toilet facilities are available at the trailhead
 Fourteen miles north of Nordman, Idaho, there's a unique area of old-growth cedar named for President Theodore Roosevelt. Since the early 1900s, this area was noted for its beauty. On April 15, 1943, the grove was officially designated as a Scenic Area.
 Two trails are maintained from the trailhead area.
 
-![Picture](/assets/images/222022735p.jpg)
+![Picture](assets/images/222022735p.jpg)
 
 ## No images yet. to contribute, contact chic

@@ -54,40 +54,40 @@ Because of copyright issues, I would suggest you search the internet and use the
 
 ## Click on image to enlarge
 
-![Image](/assets/images/11242022341p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022341p_orig.jpg" data-title="CDA 4TH OF JULY" }
+![Image](assets/images/11242022341p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022341p_orig.jpg" data-title="CDA 4TH OF JULY" }
 
-![Image](/assets/images/11242022343p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022343p_orig.jpg" data-title="CDA 4TH OF JULY" }
+![Image](assets/images/11242022343p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022343p_orig.jpg" data-title="CDA 4TH OF JULY" }
 
-![Image](/assets/images/11242022345p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022345p_orig.jpg" data-title="CDA 4TH OF JULY" }
+![Image](assets/images/11242022345p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022345p_orig.jpg" data-title="CDA 4TH OF JULY" }
 
-![Image](/assets/images/11242022352p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022352p_orig.jpg" data-title="CDA RESORT FIREWORKS" }
+![Image](assets/images/11242022352p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022352p_orig.jpg" data-title="CDA RESORT FIREWORKS" }
 
-![Image](/assets/images/11242022353p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022353p_orig.jpg" data-title="CDA RESORT FIREWORKS" }
+![Image](assets/images/11242022353p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022353p_orig.jpg" data-title="CDA RESORT FIREWORKS" }
 
-![Image](/assets/images/11242022355p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022355p_orig.jpg" data-title="CDA RESORT FIREWORKS" }
+![Image](assets/images/11242022355p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022355p_orig.jpg" data-title="CDA RESORT FIREWORKS" }
 
-![Image](/assets/images/11242022356p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022356p_orig.jpg" data-title="CDA RESORT FIREWORKS" }
+![Image](assets/images/11242022356p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022356p_orig.jpg" data-title="CDA RESORT FIREWORKS" }
 
-![Image](/assets/images/11242022357p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022357p_orig.jpg" data-title="CDA RESORT FIREWORKS" }
+![Image](assets/images/11242022357p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022357p_orig.jpg" data-title="CDA RESORT FIREWORKS" }
 
-![Image](/assets/images/11242022359p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022359p_orig.jpg" data-title="CDA RESORT FIREWORKS" }
+![Image](assets/images/11242022359p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022359p_orig.jpg" data-title="CDA RESORT FIREWORKS" }
 
-![Image](/assets/images/11242022400p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022400p_orig.jpg" data-title="CDA RESORT FIREWORKS" }
+![Image](assets/images/11242022400p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022400p_orig.jpg" data-title="CDA RESORT FIREWORKS" }
 
-![Image](/assets/images/11242022404p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022404p_orig.jpg" data-title="CDA RESORT FIREWORKS" }
+![Image](assets/images/11242022404p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022404p_orig.jpg" data-title="CDA RESORT FIREWORKS" }
 
-![Image](/assets/images/11242022405p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022405p_orig.jpg" data-title="CDA RESORT FIREWORKS" }
+![Image](assets/images/11242022405p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022405p_orig.jpg" data-title="CDA RESORT FIREWORKS" }
 
-![Image](/assets/images/11242022406p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022406p_orig.jpg" data-title="CDA RESORT FIREWORKS" }
+![Image](assets/images/11242022406p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022406p_orig.jpg" data-title="CDA RESORT FIREWORKS" }
 
-![Image](/assets/images/11242022408p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022408p_orig.jpg" data-title="CDA RESORT FIREWORKS" }
+![Image](assets/images/11242022408p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022408p_orig.jpg" data-title="CDA RESORT FIREWORKS" }
 
-![Image](/assets/images/11242022409p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022409p_orig.jpg" data-title="CDA RESORT FIREWORKS" }
+![Image](assets/images/11242022409p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022409p_orig.jpg" data-title="CDA RESORT FIREWORKS" }
 
-![Image](/assets/images/11242022410p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022410p_orig.jpg" data-title="CFDA RESORT FIREWORKS" }
+![Image](assets/images/11242022410p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022410p_orig.jpg" data-title="CFDA RESORT FIREWORKS" }
 
-![Image](/assets/images/11242022412p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022412p_orig.jpg" data-title="CDA RESORT FIREWORKS" }
+![Image](assets/images/11242022412p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022412p_orig.jpg" data-title="CDA RESORT FIREWORKS" }
 
-![Image](/assets/images/112120221106a.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/112120221106a_orig.jpg" data-title="CDA 4TH OF JULY" }
+![Image](assets/images/112120221106a.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/112120221106a_orig.jpg" data-title="CDA 4TH OF JULY" }
 
-![Image](/assets/images/11242022416p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022416p_orig.jpg" data-title="CDA RESSORT FIREWORKS" }
+![Image](assets/images/11242022416p.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/11242022416p_orig.jpg" data-title="CDA RESSORT FIREWORKS" }

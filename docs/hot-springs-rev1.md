@@ -22,4 +22,4 @@ Amenities:
 
 ##
 
-<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](/assets/images/img-1826-268.jpg) --> -->
+<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](assets/images/img-1826-268.jpg) --> -->

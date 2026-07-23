@@ -1,0 +1,69 @@
+---
+title: "Blog # 8: Learn and be safe"
+date: 2023-05-05
+authors:
+  - chic
+  - david
+categories:
+  - Wildfire & Closures
+---
+
+Important additions for your phones and your expertise  
+  
+As I do research for our website, I often come along items of interest.  
+  
+  
+Mra.org  
+  
+I discovered his website last week, and after analyzing it, I thot I’d let you all know of some important further reading.  
+Log onto  
+<https://mra.org/wp-content/uploads/2016/05/backcountrysafety.pdf>  
+  
+  
+PLEASE go to this website and read about what I’ve written in our RESOURCE section. It will reinforce what you need to know, before you venture out into Nature.  
+The more you know, the better the chances are, that you can avoid dangerous circumstances while in Nature.  
+  
+  
+  
+  
+Airflare  
+  
+  
+The second website we all could use, is AirFlare.  
+Log onto  
+[<https://airflare.com](https://airflare.com>/)  
+  
+This website offers all of us peace of mind and an avenue for us to initiate our oun rescue, and more.  
+  
+For a mere $4.99 PER YEAR, you can turn your cellphone into a rescue devise and a way to see where others you are hiking with are.  
+This system uses technologies that allow you to text rescuers with as little as one cell tower, or in some cases satellite connections.  
+  
+If a hiking partner looses the group, you can communicate with them, but only within about .5 of a mile.   
+That’s better than no communication abilities at all.  
+  
+Besides the price of this subscription being so low, it is an app for your phones that doesn’t weight a single gram.   
+  
+Once you have downloaded the app, there is a tutorial to teach you all you need to know.  
+It’s easy to understand and use.  
+  
+PLEASE, allow yourself to be seen when an emergency occurs.  
+  
+Ski resorts, like Silver Mt., Schweitzer, Brundage, Tamarack, utilize this method of   
+rescue service.  
+  
+Our goal at InlandNWRoutes.com, is to supply you with the freshest knowledge of the trails in our region, forest alerts, and what you need to know & take with you into Nature, and how to be safe.  
+  
+We don’t charge you for this information, because we feel it is our responsibility to supply up to date and correct info at no charge.  
+  
+By introducing the two above websites, we feel we are offering our readers a way to learn and be safe in the mountains.  
+  
+If you have any questions, comments, criticisms, or praise, please let us know.  
+Your input is important to us.  
+  
+Thank You for being our readers, and we hope you all have a great year in the mountains.  
+  
+Be safe, and always error on the side of caution,  
+  
+  
+David  
+Chic

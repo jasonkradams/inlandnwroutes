@@ -78,9 +78,9 @@ Jalapeños, Mr. Sub, Burger Express, Eicharts in Sandpoint
 
 ---
 
-![Picture](/assets/images/8112025440p.jpg)
+![Picture](assets/images/8112025440p.jpg)
 
-![Picture](/assets/images/62790001.jpg)
+![Picture](assets/images/62790001.jpg)
 
 ## Mountain biking the long canyon trail can be a long ordeal
 

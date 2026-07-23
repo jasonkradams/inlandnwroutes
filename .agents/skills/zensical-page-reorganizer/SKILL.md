@@ -75,10 +75,59 @@ This skill provides a systematic workflow for refactoring unorganized, run-on, o
 - **Relative Image Paths Rule**: Always use relative paths for Markdown images (`assets/images/filename.jpg` or `../assets/images/filename.jpg`). **NEVER use root-leading slashes** (`/assets/images/filename.jpg`).
 - **Why**: `zensical.extensions.glightbox` constructs `<a class="glightbox" href="...">` anchors directly from `img.src`. A leading slash causes `href` to remain absolute (`/assets/images/...`), bypassing MkDocs' relative URL rewriter and breaking lightbox image modal previews on subpages.
 
-### 5. Verification & Validation
+### 5. Blog Post Detection & Specialized Formatting
 
-- **Markdown Linting**: Run `pymarkdown --config .pymarkdownlnt.json scan <path/to/file.md>` to verify compliance (checking `MD009` trailing spaces, `MD022` heading blanks, and `MD032` list blanks).
-- **Site Build**: Execute `mkdocs build` to verify that all Markdown extensions (admonitions, tables, superfences, glightbox) render correctly without build errors.
+When reorganizing a page identified as a blog post (located in `docs/blog/`, `docs/blog/posts/`, or containing blog frontmatter / title `Blog #...`):
+
+- **Blog Detection**:
+  - File path is inside `docs/blog/` or `docs/blog/posts/`.
+  - Page contains YAML frontmatter (`date:`, `authors:`, `categories:`).
+  - Title begins with `Blog #...` or `BLOG #...`.
+
+- **Plugin-Driven YAML Frontmatter (No Inline HTML)**:
+  Metadata (`title`, `date`, `authors`, `categories`) must reside exclusively in standard YAML frontmatter at the top of the post file. **DO NOT add custom inline HTML banners** (`<div class="blog-meta">`) or manual metadata markup to the post body. All frontmatter elements (author avatars, author profile links, categories badges, dates, estimated read time) are rendered site-wide through the `blog:` plugin configuration in `mkdocs.yml`:
+  ```yaml
+  plugins:
+    - blog:
+        blog_dir: blog
+        authors: true
+        authors_file: blog/.authors.yml
+        authors_profiles: true
+        categories: true
+        archive: true
+        post_date_format: MMMM d, yyyy
+        post_readtime: true
+        post_excerpt: optional
+        post_excerpt_max_authors: 2
+  ```
+
+  Example YAML Frontmatter:
+  ```yaml
+  ---
+  title: "Blog #12: Geology, Geography, and History"
+  date: 2023-07-06
+  authors:
+    - chic
+    - david
+  categories:
+    - Geology & History
+  ---
+  ```
+
+- **Preserve Original Authors' Prose**:
+  Do **NOT** rewrite, paraphrase, or alter the authors' original body prose. The wording, tone, and voice must remain strictly faithful to the original content.
+
+- **Excerpt Separator (`<!-- more -->`)**:
+  Insert `<!-- more -->` directly after the initial introductory paragraph so blog indexers and card feeds extract clean summaries.
+
+- **Author Signature & Scraped Artifact Cleanup**:
+  - Fix duplicated author footers (e.g., change `Chic Burge    Chic Burge` to a single clean citation line `Chic Burge    David Crafton`).
+  - Strip raw website footers (`InlandNWRoutes.com`), scraped comment markers (`[0 Comments]`), and reply forms (`### Leave a Reply.`).
+
+### 6. Verification & Validation
+
+- **Markdown Linting**: Run `./scripts/lint.sh` or `pymarkdown --config .pymarkdownlnt.json scan <path/to/file.md>` to verify compliance (checking `MD009` trailing spaces, `MD022` heading blanks, and `MD032` list blanks).
+- **Site Build**: Execute `just build` or `mkdocs build` to verify that all Markdown extensions (admonitions, tables, superfences, glightbox) render correctly without build errors.
 - **HTML Anchor Verification**: Inspect generated HTML in `site/<page>/index.html` to confirm that `<a class="glightbox">` `href` paths resolved to correct relative URLs (`../assets/images/...`).
 
 ## Common Pitfalls

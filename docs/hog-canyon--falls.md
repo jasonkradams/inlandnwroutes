@@ -73,22 +73,22 @@ Lenny’s in Cheney
 
 ## Photo gallery
 
-![Picture](/assets/images/2021511824.jpg)
+![Picture](assets/images/2021511824.jpg)
 
 ## Above hog canyon falls.   ​image by chris herath
 
-![Picture](/assets/images/2021511825.jpg)
+![Picture](assets/images/2021511825.jpg)
 
 ## The top section of hog cayon falls.   ​image by chris herath
 
-![Picture](/assets/images/2021511826.jpg)
+![Picture](assets/images/2021511826.jpg)
 
 ## 5 of the 7 drops at hog canyon falls.   ​image by chris herath
 
-![Picture](/assets/images/2021511827.jpg)
+![Picture](assets/images/2021511827.jpg)
 
 ## The bottom section of hog canyon falls.   ​image by chris herath
 
-![Picture](/assets/images/2021611513.jpg)
+![Picture](assets/images/2021611513.jpg)
 
 ## Hog canyon falls photo ops are unique in any season

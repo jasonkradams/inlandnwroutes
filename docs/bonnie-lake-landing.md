@@ -26,7 +26,7 @@ stats:
 
 !!! warning "Before you go"
 
-    ![Picture](/assets/images/20201024165655.jpg)
+    ![Picture](assets/images/20201024165655.jpg)
 
 ## Description
 
@@ -60,6 +60,6 @@ Lenny’s in Cheney
 
 ## Photo gallery
 
-![Picture](/assets/images/11142021942p-jpeg.jpg)
+![Picture](assets/images/11142021942p-jpeg.jpg)
 
 As you approach the lake, on your left are two caves. They came about when lava flowed around gigantic trees, then burned up

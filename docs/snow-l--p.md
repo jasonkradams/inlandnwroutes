@@ -77,15 +77,15 @@ Eichardt’s, Mr Sub, & Burger Express, Jalapeño in Sandpoint
 
 ---
 
-![Picture](/assets/images/6182025201p.jpg)
+![Picture](assets/images/6182025201p.jpg)
 
 ## Photo gallery
 
-![Picture](/assets/images/p733.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p733_orig.png" }
+![Picture](assets/images/p733.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p733_orig.png" }
 
 ## Snow lake
 
-![Picture](/assets/images/p734.png)
+![Picture](assets/images/p734.png)
 
 ## Snow lake in fall
 

@@ -66,7 +66,7 @@ This is a hike you should not miss.
 
 Mr, Sub, Eichardt’s , & Jalapeños, Burger Express in Sandpoint
 
-![Picture](/assets/images/6132025417p.jpg)
+![Picture](assets/images/6132025417p.jpg)
 
 ## Photo gallery
 
@@ -78,7 +78,7 @@ Mr, Sub, Eichardt’s , & Jalapeños, Burger Express in Sandpoint
 
 The view of the american selkirks from the shorty peak lookout. ​notice the outhouse. ya gotta plan ahead at this lookout
 
-![Picture](/assets/images/dsc0871.jpg)
+![Picture](assets/images/dsc0871.jpg)
 
 ## Shorty peak lookout from the trail
 
@@ -88,7 +88,7 @@ The view of the american selkirks from the shorty peak lookout. ​notice the ou
 
 ---
 
-![Picture](/assets/images/dsc0855.jpg)
+![Picture](assets/images/dsc0855.jpg)
 
 ## The inside is pretty nice. but wait for the views outside
 
@@ -102,7 +102,7 @@ The view of the american selkirks from the shorty peak lookout. ​notice the ou
 
 ## Chris heating up my homemade chicken & rice soup i made
 
-![Picture](/assets/images/dsc0884.jpg)
+![Picture](assets/images/dsc0884.jpg)
 
 The short hike to lone tree peak 6732'. Shorty  peak 6515', the purcell trench, and cascade ridge
 
@@ -110,11 +110,11 @@ The short hike to lone tree peak 6732'. Shorty  peak 6515', the purcell trench,
 
 ## Shorty peak and lookout from lone tree peak 6732'
 
-![Picture](/assets/images/dsc0912.jpg)
+![Picture](assets/images/dsc0912.jpg)
 
 ## Chris on the deck after visiting lone tree peak
 
-![Picture](/assets/images/dsc0883.jpg)
+![Picture](assets/images/dsc0883.jpg)
 
 ## Chic taking in the view of the american selkirks
 

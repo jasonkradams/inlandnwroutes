@@ -81,10 +81,10 @@ Click for Current NOAA Weather Conditions
 
 ## Some of the mining equipement
 
-![Picture](/assets/images/111320211008.jpg)
+![Picture](assets/images/111320211008.jpg)
 
 ## The lower section of the rock creek falls
 
-![Picture](/assets/images/111320211009.jpg)
+![Picture](assets/images/111320211009.jpg)
 
 ## The beauty of wildflowers next to the falls

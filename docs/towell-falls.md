@@ -106,19 +106,19 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-![Picture](/assets/images/10112352021.jpg)
+![Picture](assets/images/10112352021.jpg)
 
 ## Rock creek from the bridge
 
-![Picture](/assets/images/10112382021.jpg)
+![Picture](assets/images/10112382021.jpg)
 
 Rock creek. Notice the mesa in the background. This is a terrain feature like others you should remember
 
-![Picture](/assets/images/10112372021.jpg)
+![Picture](assets/images/10112372021.jpg)
 
 ## Rock creek further in
 
-![Picture](/assets/images/930652.jpg)
+![Picture](assets/images/930652.jpg)
 
 ## Towell falls from it's small island
 
@@ -126,26 +126,26 @@ Rock creek. Notice the mesa in the background. This is a terrain feature like ot
 
 ## Lower towell falls in the spring
 
-![Picture](/assets/images/10112422021.jpg)
+![Picture](assets/images/10112422021.jpg)
 
 ​lower towell falls in november Hiking is a bit safer in the winter months because of the cold Rattlesnake are less prevalent
 
-![Picture](/assets/images/10112432021.jpg)
+![Picture](assets/images/10112432021.jpg)
 
 ## The falls drop off basalt columns, ​causing many cascades within the greater falls
 
-![Picture](/assets/images/10112442021.jpg)
+![Picture](assets/images/10112442021.jpg)
 
 ## Lower falls face on in november
 
-![Picture](/assets/images/10112462021.jpg)
+![Picture](assets/images/10112462021.jpg)
 
 ## Upper towell falls in the summer ​notice the terrain features in the background
 
-![Picture](/assets/images/10112512021.jpg)
+![Picture](assets/images/10112512021.jpg)
 
 ## Lower towell falls from the northern route
 
-![Picture](/assets/images/10112522021.jpg)
+![Picture](assets/images/10112522021.jpg)
 
 ## Galen hiking above to view the falls from a different angle

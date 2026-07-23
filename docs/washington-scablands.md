@@ -12,7 +12,7 @@ Now flash forward to today. Washington State’s Channeled Scablands are evidenc
 
 ​
 
-![Picture](/assets/images/8096541-orig.jpg)
+![Picture](assets/images/8096541-orig.jpg)
 
 The Scablands are the brown area east of the Cascades where the worlds largest lava flow occurred which is called the Columbia River Basalt Group. The blue arrows indicate where the Great Flood then washed over these immense basalt columns stripping the surface and leaving behind the Scablands.
 

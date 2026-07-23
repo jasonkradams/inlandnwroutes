@@ -76,7 +76,7 @@ Lenny’s in Cheney.
 
 ## A secluded cove just south of mid lake
 
-![Picture](/assets/images/202159913.jpg)
+![Picture](assets/images/202159913.jpg)
 
 ## Shadows of spokane mountaineers on a wednesday night hike
 

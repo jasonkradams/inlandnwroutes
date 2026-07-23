@@ -68,59 +68,59 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
 [Click for Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=8000&polygon=48.756%2C-116.664%2C48.879%2C-116.843%2C48.964%2C-116.592%2C&area=NaN)
 
-![Picture](/assets/images/6142025641p.jpg)
+![Picture](assets/images/6142025641p.jpg)
 
 ## Photo gallery
 
-![Picture](/assets/images/68a4ad15-0410-4a7c-ae68-346834a4c8f2.jpg){: data-src="/assets/images/68a4ad15-0410-4a7c-ae68-346834a4c8f2.jpg" }
+![Picture](assets/images/68a4ad15-0410-4a7c-ae68-346834a4c8f2.jpg){: data-src="assets/images/68a4ad15-0410-4a7c-ae68-346834a4c8f2.jpg" }
 
 ## Near the start of the trail to cutoff peak on way to smith peak
 
-![Picture](/assets/images/c548ec36-9304-4016-981b-0a5c30f0f86f.jpg)
+![Picture](assets/images/c548ec36-9304-4016-981b-0a5c30f0f86f.jpg)
 
 ## An old lookout cabin on cutoff peak on way to smith peak
 
 ## ​
 
-![Picture](/assets/images/997aec07-d053-4ec0-b4a3-cf22929e2991.jpg)
+![Picture](assets/images/997aec07-d053-4ec0-b4a3-cf22929e2991.jpg)
 
 ## ​chris on cutoff peak
 
-![Picture](/assets/images/7515cfd6-fd72-4246-a14b-241813106c41.jpg)
+![Picture](assets/images/7515cfd6-fd72-4246-a14b-241813106c41.jpg)
 
 ## Chris walking in a cool forest on the way to smith peak
 
-![Picture](/assets/images/2021116-60-jpeg-1.jpg)
+![Picture](assets/images/2021116-60-jpeg-1.jpg)
 
 ## The campsite about half way along the ridge
 
-![Picture](/assets/images/p179.png)
+![Picture](assets/images/p179.png)
 
 ## Along the ridge to smith peak
 
-![Picture](/assets/images/p180.png)
+![Picture](assets/images/p180.png)
 
 ## The ridge walk to smith peak, smith peak top left
 
 ---
 
-![Picture](/assets/images/110620211026p.jpg)
+![Picture](assets/images/110620211026p.jpg)
 
 ## On the ridge between cut off peak and smith peak ​image by chris herath
 
-![Picture](/assets/images/110620211029p.jpg)
+![Picture](assets/images/110620211029p.jpg)
 
 ## Smith lake with lion head on the next ridge ​image by chris herath
 
-![Picture](/assets/images/100620211053p.jpg)
+![Picture](assets/images/100620211053p.jpg)
 
 ## The summit of smith peak ​image by chris herath
 
-![Picture](/assets/images/110620211050p.jpg)
+![Picture](assets/images/110620211050p.jpg)
 
 ## Looking back towards cut off peak. the obvious ridge is the route. Image by chris herath
 
-![Picture](/assets/images/110620211107p.jpg)
+![Picture](assets/images/110620211107p.jpg)
 
 ## One last look back at the summit of smith peak Image by chris herath
 

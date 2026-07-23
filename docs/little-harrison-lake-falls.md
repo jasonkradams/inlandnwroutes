@@ -59,6 +59,6 @@ Jalapeños, Mr, Sub, Eichardt’s in Sandpoint
 
 ## Photo gallery
 
-![Picture](/assets/images/11062021239p.jpg)
+![Picture](assets/images/11062021239p.jpg)
 
 ##

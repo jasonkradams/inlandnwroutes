@@ -101,37 +101,37 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/p327.png)
+![Picture](assets/images/p327.png)
 
 ## One of four revett creek falls
 
 ---
 
-![Picture](/assets/images/2021116-6-jpeg-1.jpg)
+![Picture](assets/images/2021116-6-jpeg-1.jpg)
 
 ## Revett lake east shore line
 
 ---
 
-![Picture](/assets/images/p331.png)
+![Picture](assets/images/p331.png)
 
 ## Chris napping on granite peak
 
 ---
 
-![Picture](/assets/images/p337.png)
+![Picture](assets/images/p337.png)
 
 ## Granite peak trail in snow
 
 ---
 
-![Picture](/assets/images/p286.png)
+![Picture](assets/images/p286.png)
 
 ## The high trail #7 towards burke canyon
 
 ---
 
-![Picture](/assets/images/2021116-7-jpeg-1.jpg)
+![Picture](assets/images/2021116-7-jpeg-1.jpg)
 
 ## Revett lake from ridge between revett & blossom lakes
 

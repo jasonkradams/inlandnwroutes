@@ -67,8 +67,8 @@ The white flower contrasts with the red bractlets.
 
 ## Photo gallery
 
-![Picture](/assets/images/11262021833p.jpg)
+![Picture](assets/images/11262021833p.jpg)
 
 ---
 
-![Picture](/assets/images/11262021834p.jpg)
+![Picture](assets/images/11262021834p.jpg)

@@ -82,7 +82,7 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-![Picture](/assets/images/1202022958p.jpg)
+![Picture](assets/images/1202022958p.jpg)
 
 ## Shorty peak lookout 6515'
 
@@ -104,27 +104,27 @@ Click for Current NOAA Weather Conditions
 
 ## The outhouse is down hill to the south
 
-![Picture](/assets/images/12020221000p.jpg)
+![Picture](assets/images/12020221000p.jpg)
 
 ## In the distance is lone tree peak 6706'
 
 ---
 
-![Picture](/assets/images/8220251235p.jpg)
+![Picture](assets/images/8220251235p.jpg)
 
 ## Shorty peak and lookout from near the top of lone tree peak
 
-![Picture](/assets/images/8220251238p.jpg)
+![Picture](assets/images/8220251238p.jpg)
 
 ## From lone tree's summit, looking towards shorty peak ​image by chris herath
 
 ---
 
-![Picture](/assets/images/8220251251p.jpg)
+![Picture](assets/images/8220251251p.jpg)
 
 ## Lion head group due south of shorty peak
 
-![Picture](/assets/images/8220251256p.jpg)
+![Picture](assets/images/8220251256p.jpg)
 
 ## The creston valley, canada looking ne from the image above
 
@@ -138,7 +138,7 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-![Picture](/assets/images/822025110p.jpg)
+![Picture](assets/images/822025110p.jpg)
 
 ## The american selkirk's "seven sisters"
 

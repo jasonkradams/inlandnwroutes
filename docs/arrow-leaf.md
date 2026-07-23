@@ -12,10 +12,10 @@ This is a new trail on the south side of Antione Peak from the new Trentwood tra
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/202204170144.jpg)
+![Picture](assets/images/202204170144.jpg)
 
-![Picture](/assets/images/202204170143.jpg)
+![Picture](assets/images/202204170143.jpg)
 
-![Picture](/assets/images/202204170142.jpg)
+![Picture](assets/images/202204170142.jpg)
 
 *Picture (Image missing)*

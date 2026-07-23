@@ -43,30 +43,30 @@ Other amenities: ???
 
 ---
 
-![Picture](/assets/images/12042021836p.jpg)
+![Picture](assets/images/12042021836p.jpg)
 
 ## This image is taken from the top of chair #2 Thats mount stuart on the left
 
-![Picture](/assets/images/12042021839p.jpg)
+![Picture](assets/images/12042021839p.jpg)
 
 ## The summit of the quad chair with the columbia river in the distance
 
-![Picture](/assets/images/12042021842p.jpg)
+![Picture](assets/images/12042021842p.jpg)
 
 ## The microwave along windy ridge
 
-![Picture](/assets/images/12042021843p.jpg)
+![Picture](assets/images/12042021843p.jpg)
 
 ## Part of the bomber cliffs
 
-![Picture](/assets/images/12042021845p.jpg)
+![Picture](assets/images/12042021845p.jpg)
 
 ## The bomber cliffs ​some of the chutes are great skiing
 
-![Picture](/assets/images/12042021847p.jpg)
+![Picture](assets/images/12042021847p.jpg)
 
 ## The microwave ridge from near the bomber cliffs
 
-![Picture](/assets/images/12042021851p.jpg)
+![Picture](assets/images/12042021851p.jpg)
 
 ## Mount stuart, taken with a long telephoto

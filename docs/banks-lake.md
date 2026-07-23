@@ -86,18 +86,18 @@ N/A
 
 ---
 
-![Picture](/assets/images/110620211157a.jpg)
+![Picture](assets/images/110620211157a.jpg)
 
 ## The south end of banks lake from the steamboat rock trail
 
-![Picture](/assets/images/52920221105p.jpg)
+![Picture](assets/images/52920221105p.jpg)
 
 ## Steamboat rock state park from atop steamboat rock
 
-![Picture](/assets/images/52920221108p.jpg)
+![Picture](assets/images/52920221108p.jpg)
 
 ## Strata from montana during glacier lake missoula floods
 
-![Picture](/assets/images/11062021305p.jpg)
+![Picture](assets/images/11062021305p.jpg)
 
 ## One of the many islands on the north end of banks lake

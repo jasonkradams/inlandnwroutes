@@ -34,6 +34,6 @@ We have added the areas sheriff’s emergency phone numbers for each trip write 
 
 ## Please everyone...heed this health alert
 
-![Picture](/assets/images/5132025306p-2.jpg)
+![Picture](assets/images/5132025306p-2.jpg)
 
 ## Photo gallery

@@ -41,7 +41,7 @@ stats:
 
 ##
 
-<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](/assets/images/img-1826-3.jpg) --> -->
+<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](assets/images/img-1826-3.jpg) --> -->
 
 ---
 

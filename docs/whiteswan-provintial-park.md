@@ -60,7 +60,7 @@ NA
 
 ## Photo gallery
 
-![Picture](/assets/images/110920211137p.jpg)
+![Picture](assets/images/110920211137p.jpg)
 
 ---
 
@@ -68,6 +68,6 @@ NA
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/110920211146p.jpg)
+![Picture](assets/images/110920211146p.jpg)
 
-![Picture](/assets/images/110920211146.jpg)
+![Picture](assets/images/110920211146.jpg)

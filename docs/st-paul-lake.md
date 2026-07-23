@@ -80,43 +80,43 @@ Kaiju Bar & Grill in Libby.     Henry’s & Pizza Hut, TheShed, and Roasters�
 
 ---
 
-![Picture](/assets/images/6132025510p.jpg)
+![Picture](assets/images/6132025510p.jpg)
 
-![Picture](/assets/images/p272.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p272_orig.png" }
+![Picture](assets/images/p272.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p272_orig.png" }
 
 ## Trail #646 to st. paul lake
 
 ---
 
-![Picture](/assets/images/p273.png)
+![Picture](assets/images/p273.png)
 
 ## Upper trail to st. paul lake
 
 ---
 
-![Picture](/assets/images/p274.png)
+![Picture](assets/images/p274.png)
 
 ## St. paul lake with st. paul peak 7714’ towering above ​i told them fishing for flies is futal
 
 ---
 
-![Picture](/assets/images/11062021123p.jpg)
+![Picture](assets/images/11062021123p.jpg)
 
 ## St.paul lake from st.paul peak. (pictured) above
 
-![Picture](/assets/images/p275.png)
+![Picture](assets/images/p275.png)
 
 ## Father & son fly fishing
 
 ---
 
-![Picture](/assets/images/p276.png)
+![Picture](assets/images/p276.png)
 
 ## One of the many waterfalls above st. paul lake
 
 ---
 
-![Picture](/assets/images/p280.png)
+![Picture](assets/images/p280.png)
 
 ## The bottom section of a 50 foot waterfall
 
@@ -124,18 +124,18 @@ Kaiju Bar & Grill in Libby.     Henry’s & Pizza Hut, TheShed, and Roasters�
 
 ## Waterfall from the north shore Elephant peak on left..st. paul peak on right
 
-![Picture](/assets/images/p277.png)
+![Picture](assets/images/p277.png)
 
 ## Waterfalls below st. paul peak
 
 ---
 
-![Picture](/assets/images/p278.png)
+![Picture](assets/images/p278.png)
 
 ## One of the taller waterfalls above st. paul lake
 
 ---
 
-![Picture](/assets/images/p279.png)
+![Picture](assets/images/p279.png)
 
 ## The peaks are poplar & dad peaks

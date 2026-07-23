@@ -66,7 +66,7 @@ Moon Time, The Mexican Food Factory, Franklins Hoagies, and the Trails End Brewe
 
 ---
 
-![Picture](/assets/images/p460.png)
+![Picture](assets/images/p460.png)
 
 ## Mineral ridge trail between caribou cabin and silver tip view point
 
@@ -74,13 +74,13 @@ Moon Time, The Mexican Food Factory, Franklins Hoagies, and the Trails End Brewe
 
 ## Silver tip viewpoint
 
-![Picture](/assets/images/p463.png)
+![Picture](assets/images/p463.png)
 
 ## The wilson mutual mining & milling trail
 
 ---
 
-![Picture](/assets/images/p469.png)
+![Picture](assets/images/p469.png)
 
 ## I-90, harrison interchange from the wilson overlook as viewed from the wilson mm.&m. trail
 
@@ -92,6 +92,6 @@ Moon Time, The Mexican Food Factory, Franklins Hoagies, and the Trails End Brewe
 
 ---
 
-![Picture](/assets/images/5122024853p.png)
+![Picture](assets/images/5122024853p.png)
 
 ## Wolf lodge bay from silver tip viewpoint

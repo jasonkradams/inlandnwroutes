@@ -31,15 +31,15 @@ Your browser does not support viewing this document. Click [here](https://www.in
 
 ---
 
-<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](/assets/images/11222021926p.jpg) --> -->
+<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](assets/images/11222021926p.jpg) --> -->
 
-![Picture](/assets/images/11222021928p.jpg)
+![Picture](assets/images/11222021928p.jpg)
 
-![Picture](/assets/images/11222021929p.png)
+![Picture](assets/images/11222021929p.png)
 
 ## Photo gallery
 
-![Picture](/assets/images/3222026635p.jpg)
+![Picture](assets/images/3222026635p.jpg)
 
 ## The trail in is about as good as it gets
 
@@ -47,7 +47,7 @@ Your browser does not support viewing this document. Click [here](https://www.in
 
 ## The lushness of this area is worth the walk
 
-![Picture](/assets/images/3222026639p.jpg)
+![Picture](assets/images/3222026639p.jpg)
 
 ## North falls 136'
 
@@ -55,7 +55,7 @@ Your browser does not support viewing this document. Click [here](https://www.in
 
 ## North falls 136'
 
-![Picture](/assets/images/3222026654p.jpg)
+![Picture](assets/images/3222026654p.jpg)
 
 ## North trail from the trail in the above image
 
@@ -63,6 +63,6 @@ Your browser does not support viewing this document. Click [here](https://www.in
 
 ## Most all the trail is outstanding
 
-![Picture](/assets/images/3222026644p.jpg)
+![Picture](assets/images/3222026644p.jpg)
 
 ## Close up of upper north falls

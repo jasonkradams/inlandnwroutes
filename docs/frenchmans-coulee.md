@@ -86,7 +86,7 @@ Lenny’s In Cheney.
 
 ## Photo gallery
 
-![Picture](/assets/images/2021511346.jpg)
+![Picture](assets/images/2021511346.jpg)
 
 ---
 
@@ -100,7 +100,7 @@ Lenny’s In Cheney.
 
 ## A waterfall off the coulee rim falls about half way into the canyon
 
-![Picture](/assets/images/2021511403.jpg)
+![Picture](assets/images/2021511403.jpg)
 
 ## Near the back of the coulee a waterfall drops a tier ​then again to the small pond
 
@@ -108,15 +108,15 @@ Lenny’s In Cheney.
 
 ## Walk around the lake for a place to have lunch and enjoy the sounds and sights
 
-![Picture](/assets/images/2021511408.jpg)
+![Picture](assets/images/2021511408.jpg)
 
 ## As you leave the pond and waterfall, ​look for large raptors floating on the thermals
 
-![Picture](/assets/images/2021511401.jpg)
+![Picture](assets/images/2021511401.jpg)
 
 ## As you walk west back towards the trailhead, ​another fall offers great sounds
 
-![Picture](/assets/images/2021511412.jpg)
+![Picture](assets/images/2021511412.jpg)
 
 ## The feathers climbing area near the west entrance to the coulee
 

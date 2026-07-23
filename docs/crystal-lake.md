@@ -67,7 +67,7 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 ## Photo gallery
 
-![Picture](/assets/images/p125.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p125_orig.png" }
+![Picture](assets/images/p125.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p125_orig.png" }
 
 ## The old bridge on the main trail
 
@@ -87,29 +87,29 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 ## The trail over the rochat divide is up hill
 
-![Picture](/assets/images/p439.png)
+![Picture](assets/images/p439.png)
 
 ## The south trail thru the ground surged trees
 
-![Picture](/assets/images/11062021322p.jpg)
+![Picture](assets/images/11062021322p.jpg)
 
 ## Summer on the south trail. the route above to the rochat divide on right
 
 ## From this image down are taken on the high ridge, rochat peak
 
-![Picture](/assets/images/9262021617.jpg)
+![Picture](assets/images/9262021617.jpg)
 
 ## Reeds baldy 6153’, above crystal lake to sse
 
-![Picture](/assets/images/20210105162642.jpg)
+![Picture](assets/images/20210105162642.jpg)
 
 ## The clean up crew gina, lynn, david & amy. thank you
 
-![Picture](/assets/images/11182021443p.jpg)
+![Picture](assets/images/11182021443p.jpg)
 
 ## Some of the crew above crystal lake
 
-![Picture](/assets/images/11182021438p.jpg)
+![Picture](assets/images/11182021438p.jpg)
 
 ## The 2015 clean up crew on the rochat ridge
 
@@ -117,6 +117,6 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 ## One of the crew walking out the main trail to crystal lake
 
-![Picture](/assets/images/p35.png)
+![Picture](assets/images/p35.png)
 
 ## The trailhead is center left

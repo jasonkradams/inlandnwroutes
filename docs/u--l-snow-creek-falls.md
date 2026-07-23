@@ -81,7 +81,7 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-![Picture](/assets/images/14580024.jpg)
+![Picture](assets/images/14580024.jpg)
 
 ## Lower snow creek falls in spring
 
@@ -93,11 +93,11 @@ Click for Current NOAA Weather Conditions
 
 ## The face of upper snow creek falls in the fall
 
-![Picture](/assets/images/088.jpg)
+![Picture](assets/images/088.jpg)
 
 ## Upper snow creek falls in the dead of winter
 
-![Picture](/assets/images/11112021439p.jpg)
+![Picture](assets/images/11112021439p.jpg)
 
 ## What a beautiful winter sight
 

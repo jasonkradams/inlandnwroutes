@@ -77,11 +77,11 @@ South Falls Lodge
 
 ---
 
-![Picture](/assets/images/11302022818p.jpg)
+![Picture](assets/images/11302022818p.jpg)
 
 ## The trail in is about as good as it gets
 
-![Picture](/assets/images/11302022359p.jpg)
+![Picture](assets/images/11302022359p.jpg)
 
 ## The lushness of this area alone is worth the walk
 
@@ -89,11 +89,11 @@ South Falls Lodge
 
 ## North falls 136'
 
-![Picture](/assets/images/11302022402p.jpg)
+![Picture](assets/images/11302022402p.jpg)
 
 ## North falls landing
 
-![Picture](/assets/images/11302022848p.jpg)
+![Picture](assets/images/11302022848p.jpg)
 
 ## North falls 136'
 
@@ -105,11 +105,11 @@ South Falls Lodge
 
 ## Most all the trail are outstanding
 
-![Picture](/assets/images/11302022825p.jpg)
+![Picture](assets/images/11302022825p.jpg)
 
 ## Upper north falls 65'
 
-![Picture](/assets/images/dscn0960.jpg)
+![Picture](assets/images/dscn0960.jpg)
 
 ## Close up of upper north falls
 
@@ -121,11 +121,11 @@ South Falls Lodge
 
 ## Close up of the bottom of north falls
 
-![Picture](/assets/images/11302022833p.jpg)
+![Picture](assets/images/11302022833p.jpg)
 
 ## North falls
 
-![Picture](/assets/images/11302022834p.jpg)
+![Picture](assets/images/11302022834p.jpg)
 
 ## Did i mention lushness, this trail is exceptional
 
@@ -133,11 +133,11 @@ South Falls Lodge
 
 ## Silver creek
 
-![Picture](/assets/images/11302022838p.jpg)
+![Picture](assets/images/11302022838p.jpg)
 
 ## The area drips with green
 
-![Picture](/assets/images/p59.png)
+![Picture](assets/images/p59.png)
 
 Hike Silver Falls State Park
 A spectacular canyon with 10 waterfalls

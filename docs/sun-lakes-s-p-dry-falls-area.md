@@ -113,13 +113,13 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-![Picture](/assets/images/662022311p.jpg)
+![Picture](assets/images/662022311p.jpg)
 
-![Picture](/assets/images/662022313p.jpg)
+![Picture](assets/images/662022313p.jpg)
 
 ## Julia photographing the area from the point
 
-![Picture](/assets/images/662022315p.jpg)
+![Picture](assets/images/662022315p.jpg)
 
 ## Two ponds on the way to sun lakes state park
 

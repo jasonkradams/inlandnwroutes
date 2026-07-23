@@ -85,63 +85,63 @@ Pyramid Peak, Pyramid Pass, Long Canyon, Long Mountain P. & L., Parker Peak, Fis
 
 Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
-![Picture](/assets/images/6132025407p.jpg)
+![Picture](assets/images/6132025407p.jpg)
 
-![Picture](/assets/images/413202349p.jpg)
+![Picture](assets/images/413202349p.jpg)
 
 ## Photo gallery
 
-![Picture](/assets/images/p681.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p681_orig.png" }
+![Picture](assets/images/p681.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p681_orig.png" }
 
 ## North end of pyramid lake
 
 ---
 
-![Picture](/assets/images/p683.png)
+![Picture](assets/images/p683.png)
 
 ## From a view point above pyramid lake, on the great wall to ball lakes
 
 ---
 
-![Picture](/assets/images/p684.png)
+![Picture](assets/images/p684.png)
 
 ## Pyramid peak 7355’ from long mountain trail
 
 ---
 
-![Picture](/assets/images/p721.png)
+![Picture](assets/images/p721.png)
 
 One day, after summiting pyramid peak, we raced down to pyramid lake to capture the fleeting sunset on the lake
 
-![Picture](/assets/images/2272022811p.jpg)
+![Picture](assets/images/2272022811p.jpg)
 
 ## Upper ball lake
 
-![Picture](/assets/images/p172.png)
+![Picture](assets/images/p172.png)
 
 ## Ice berg on lower ball lake
 
-![Picture](/assets/images/p228.png)
+![Picture](assets/images/p228.png)
 
 ## A pano of the lower ball lake on our return hike
 
-![Picture](/assets/images/2021728550.jpg)
+![Picture](assets/images/2021728550.jpg)
 
 ## The lunar landscape south of ball lakes ​along the ne fork of the selkirk crest
 
-![Picture](/assets/images/2021728603.jpg)
+![Picture](assets/images/2021728603.jpg)
 
 ## Chris examining a new lunar landscape
 
-![Picture](/assets/images/p308.png)
+![Picture](assets/images/p308.png)
 
 ## Chris walking on what he calls "lunar landscape" on the ridge ​south of pyramid lakes
 
-![Picture](/assets/images/p309.png)
+![Picture](assets/images/p309.png)
 
 Sw of ball lakes is this very scenic ridge line hike. ​in the background is lions head peak 7288’ in the clouds
 
-![Picture](/assets/images/p250.png)
+![Picture](assets/images/p250.png)
 
 ## The last view of pyramid lake along the trail out
 

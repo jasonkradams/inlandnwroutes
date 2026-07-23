@@ -77,7 +77,7 @@ Burger Express in Priest River.
 
 ---
 
-![Picture](/assets/images/p380.png)
+![Picture](assets/images/p380.png)
 
 ## A section of the american falls trail #308
 
@@ -87,13 +87,13 @@ Burger Express in Priest River.
 
 ---
 
-![Picture](/assets/images/p168.png)
+![Picture](assets/images/p168.png)
 
 ## The upper priest river falls, aka american falls
 
 ---
 
-![Picture](/assets/images/10232023120p.jpg)
+![Picture](assets/images/10232023120p.jpg)
 
 ## A long exposure of american falls
 

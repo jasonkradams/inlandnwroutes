@@ -22,6 +22,9 @@
     },
     "MD036": {
       "enabled": false
+    },
+    "MD025": {
+      "enabled": false
     }
   }
 }

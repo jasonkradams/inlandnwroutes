@@ -66,7 +66,7 @@ Basal leaves sometimes absent; stem leaves a single pair clasping the stem partw
 
 ---
 
-![Picture](/assets/images/11092021708p.jpg)
+![Picture](assets/images/11092021708p.jpg)
 
 ##
 

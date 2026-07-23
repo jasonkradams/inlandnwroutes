@@ -86,59 +86,59 @@ Henry’s & Pizza Hut, The Shed in Libby. Clark Fork Pantry & Squeeze Inn in Cla
 
 ## Photo gallery
 
-![Picture](/assets/images/p209.png)
+![Picture](assets/images/p209.png)
 
 ## One of several rock creek crossings on a bridge
 
 ---
 
-![Picture](/assets/images/110620211248p.jpg)
+![Picture](assets/images/110620211248p.jpg)
 
 ## Rock creek meadows
 
 ---
 
-![Picture](/assets/images/p199.png)
+![Picture](assets/images/p199.png)
 
 ## The heidelberg mine and rock creek falls
 
-![Picture](/assets/images/p200.png)
+![Picture](assets/images/p200.png)
 
 ## Rock creek falls
 
 ---
 
-![Picture](/assets/images/p201.png)
+![Picture](assets/images/p201.png)
 
 ## High ridge above rock lake to the east of ojibway peak
 
 ---
 
-![Picture](/assets/images/p202.png)
+![Picture](assets/images/p202.png)
 
 ## Walking up to the campsite on the peninsula
 
 ---
 
-![Picture](/assets/images/p203.png)
+![Picture](assets/images/p203.png)
 
 ## Some unusual trees near the campsite ​please do not harm them
 
 ---
 
-![Picture](/assets/images/p204.png)
+![Picture](assets/images/p204.png)
 
 ## Did i mention unusual trees Please do not harm them
 
 ---
 
-![Picture](/assets/images/p212.png)
+![Picture](assets/images/p212.png)
 
 ## Ojibway peak 7303’
 
 ---
 
-![Picture](/assets/images/p213.png)
+![Picture](assets/images/p213.png)
 
 ## The view looking nw up rock lake, with st paul pass
 
@@ -148,85 +148,85 @@ Henry’s & Pizza Hut, The Shed in Libby. Clark Fork Pantry & Squeeze Inn in Cla
 
 ## Rock lake from the st.paul pass
 
-![Picture](/assets/images/p214.png)
+![Picture](assets/images/p214.png)
 
 ## Fireweed & a corner of the southern island
 
 ---
 
-![Picture](/assets/images/p215.png)
+![Picture](assets/images/p215.png)
 
 ## Along the ne shore line
 
 ---
 
-![Picture](/assets/images/p216.png)
+![Picture](assets/images/p216.png)
 
 ## Ojibway peak 7303’ east shore line
 
 ---
 
-![Picture](/assets/images/p217.png)
+![Picture](assets/images/p217.png)
 
 ## Telephoto, b & w of rock peak. first acsent by spokane mountaineers, 1940
 
 ---
 
-![Picture](/assets/images/p218.png)
+![Picture](assets/images/p218.png)
 
 ## Ne shore line with ojibway peak. also smi first ascent, 1940
 
 ---
 
-![Picture](/assets/images/p219.png)
+![Picture](assets/images/p219.png)
 
 ## Amy rafting rock lake  i'm looking south towards engle peak
 
 ---
 
-![Picture](/assets/images/p220.png)
+![Picture](assets/images/p220.png)
 
 ## Ne shore line from campsite
 
 ---
 
-![Picture](/assets/images/p221.png)
+![Picture](assets/images/p221.png)
 
 ## Southern island with st.paul pass off to the nw
 
 ---
 
-![Picture](/assets/images/p222.png)
+![Picture](assets/images/p222.png)
 
 ## An old image of fisher-persons on the nw end of the campsite
 
 ---
 
-![Picture](/assets/images/p223.png)
+![Picture](assets/images/p223.png)
 
 ## Looking se rock lake
 
 ---
 
-![Picture](/assets/images/p236.png)
+![Picture](assets/images/p236.png)
 
 ## East face rock peak
 
 ---
 
-![Picture](/assets/images/p237.png)
+![Picture](assets/images/p237.png)
 
 ## The se face of rock peak. first ascent by smi, 1940
 
 ---
 
-![Picture](/assets/images/p238.png)
+![Picture](assets/images/p238.png)
 
 ## Se corner along the trail out. engle peak 7583’ second point from left
 
 ---
 
-![Picture](/assets/images/p239.png)
+![Picture](assets/images/p239.png)
 
 ## Last view of ojibway peak from the trail out
 

@@ -44,6 +44,6 @@ Lithophragma parviflorum is a species of flowering plant in the saxifrage famil
 
 ---
 
-![Picture](/assets/images/11262021416p.jpg)
+![Picture](assets/images/11262021416p.jpg)
 
 ## Woodland star, one of my favorite wildflowers

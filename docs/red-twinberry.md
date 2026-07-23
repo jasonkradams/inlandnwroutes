@@ -67,4 +67,4 @@ Add Desc
 
 ## Photo gallery
 
-![Picture](/assets/images/11152021425.jpg)
+![Picture](assets/images/11152021425.jpg)

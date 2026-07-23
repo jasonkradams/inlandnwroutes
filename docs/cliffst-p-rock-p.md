@@ -126,13 +126,13 @@ Click for Current NOAA Weather Conditions
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/p452.png)
+![Picture](assets/images/p452.png)
 
 ## Trail along side chicago peak in the meadows
 
 ---
 
-![Picture](/assets/images/p441.png)
+![Picture](assets/images/p441.png)
 
 ## St paul peak in june in the sun
 
@@ -142,7 +142,7 @@ Click for Current NOAA Weather Conditions
 
 St.paul peak on far left, with elephant peak in the distance. rock peak on far right after the first snow
 
-![Picture](/assets/images/11062021134p.jpg)
+![Picture](assets/images/11062021134p.jpg)
 
 ## Scrambling st. paul peak with rock peak left hiker
 
@@ -150,11 +150,11 @@ St.paul peak on far left, with elephant peak in the distance. rock peak on far r
 
 ## The view looking north. ​dead center is snowshoe and a peaks
 
-![Picture](/assets/images/11062021328p.jpg)
+![Picture](assets/images/11062021328p.jpg)
 
 ## Cilff lake from the summit of st. paul peak
 
-![Picture](/assets/images/11062021119p.jpg)
+![Picture](assets/images/11062021119p.jpg)
 
 Chicago peak from st paul peak Top left along chicago peak's ridge is the trailhead just out of sight
 
@@ -166,25 +166,25 @@ Chicago peak from st paul peak Top left along chicago peak's ridge is the trailh
 
 ---
 
-![Picture](/assets/images/p454.png)
+![Picture](assets/images/p454.png)
 
 ## Mountain goat on the sw side of st paul peak, above cliff lake
 
 ---
 
-![Picture](/assets/images/p457.png)
+![Picture](assets/images/p457.png)
 
 ## South face st. paul peak, ascent route
 
 ---
 
-![Picture](/assets/images/p456.png)
+![Picture](assets/images/p456.png)
 
 ## Scrambling the s.w. face of st. paul peak. rock peak back middle
 
 ---
 
-![Picture](/assets/images/p458.png)
+![Picture](assets/images/p458.png)
 
 ## The rock meadows above st. paul lake, se of st. paul peak
 
@@ -196,7 +196,7 @@ Chicago peak from st paul peak Top left along chicago peak's ridge is the trailh
 
 ---
 
-![Picture](/assets/images/11062021123p.jpg)
+![Picture](assets/images/11062021123p.jpg)
 
 ## St. paul lake from st. paul peak
 

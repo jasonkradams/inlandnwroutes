@@ -2,7 +2,7 @@
 
 ## This map is courtesy of the proposed scotchman peaks wilderness
 
-![Picture](/assets/images/63020221242p.jpg)
+![Picture](assets/images/63020221242p.jpg)
 
 **​**Friends of Scotchman Peaks Wilderness Mission, Vision and History
 Mission: To protect the Scotchman Peaks for future generations through Wilderness designation, ongoing stewardship and education.

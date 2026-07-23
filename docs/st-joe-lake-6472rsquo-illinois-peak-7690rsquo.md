@@ -90,7 +90,7 @@ Radio Brewing in Kellogg, City Limits Pub in Wallace
 
 ## Golden eagle
 
-<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](/assets/images/img-1865-4.jpg) --> -->
+<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](assets/images/img-1865-4.jpg) --> -->
 
 Keys to identification: large size, white secondary feathers on wings, white feathers at the base of the tail and the wing width necks down where they meet the body.
 
@@ -100,16 +100,16 @@ Keys to identification: large size, white secondary feathers on wings, white fea
 
 ## Along the ridge from illinois to gold crown
 
-<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](/assets/images/img-1875-3.jpg) --> -->
+<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](assets/images/img-1875-3.jpg) --> -->
 
 ---
 
 ## Gold crown peak w/illinois peak in the background
 
-<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](/assets/images/img-6082-4.jpg) --> -->
+<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](assets/images/img-6082-4.jpg) --> -->
 
 ---
 
 ## Looking south/south east from gold crown peak
 
-<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](/assets/images/img-1878-5.jpg) --> -->
+<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](assets/images/img-1878-5.jpg) --> -->

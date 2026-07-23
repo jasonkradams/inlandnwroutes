@@ -79,13 +79,13 @@ Silver Mountain Resort, Stevens Peak & Lakes, Upper & Lower Glidden Lake, Graham
 
 Radio Brewing in Kellogg. The Snake Pit north of Kingston
 
-![Picture](/assets/images/6132025503p.jpg)
+![Picture](assets/images/6132025503p.jpg)
 
 ## Photo gallery
 
 ---
 
-![Picture](/assets/images/p50.png)
+![Picture](assets/images/p50.png)
 
 ## Latour baldy 6232’
 
@@ -101,35 +101,35 @@ Radio Brewing in Kellogg. The Snake Pit north of Kingston
 
 ---
 
-![Picture](/assets/images/p32.png)
+![Picture](assets/images/p32.png)
 
 ## David coming up from the "trail" to the ridge crest
 
 ---
 
-![Picture](/assets/images/202178315.gif)
+![Picture](assets/images/202178315.gif)
 
 ## Latour peak 6408’ with mirror lake below
 
 ---
 
-![Picture](/assets/images/p34.png)
+![Picture](assets/images/p34.png)
 
 ## The wildlife here is odd. this set of legs ran across our route
 
-![Picture](/assets/images/p84.png)
+![Picture](assets/images/p84.png)
 
 ## Glacier lilies along the ridge line
 
-![Picture](/assets/images/p37.png)
+![Picture](assets/images/p37.png)
 
 ## I wonder how long this tree has been alive on this windy ridge
 
-![Picture](/assets/images/p38.png)
+![Picture](assets/images/p38.png)
 
 ## The breasts (aka, wardner & kellogg peaks)
 
-![Picture](/assets/images/p39.png)
+![Picture](assets/images/p39.png)
 
 ## latour baldy👆       frost peak 👆  latour peak👆from rose lake
 

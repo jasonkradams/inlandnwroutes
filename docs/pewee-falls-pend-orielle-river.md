@@ -68,11 +68,11 @@ NA
 
 [Click for Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
 
-![Picture](/assets/images/6182025208p.jpg)
+![Picture](assets/images/6182025208p.jpg)
 
 ## Photo gallery
 
-![Picture](/assets/images/p135.png)
+![Picture](assets/images/p135.png)
 
 ## The old homestead at the camp grounds and launch
 
@@ -80,15 +80,15 @@ NA
 
 ## Ratt island, pend oreille river during low "tide"
 
-![Picture](/assets/images/11062021206p.jpg)
+![Picture](assets/images/11062021206p.jpg)
 
 ## Ratt island during "high tide"
 
-![Picture](/assets/images/20216101015.jpg)
+![Picture](assets/images/20216101015.jpg)
 
 ## Pewee falls as you enter the bay that it's in
 
-![Picture](/assets/images/p137.png)
+![Picture](assets/images/p137.png)
 
 ## 200 foot pewee falls
 
@@ -96,11 +96,11 @@ NA
 
 ## Pewee falls
 
-![Picture](/assets/images/20216101019.jpg)
+![Picture](assets/images/20216101019.jpg)
 
 ## Pewee falls during low tide. notice the huge rock pile beneth the falls
 
-![Picture](/assets/images/20216101025.jpg)
+![Picture](assets/images/20216101025.jpg)
 
 At one time, there used to be a natural arch to paddle under. but the county commissioners thot it would be okay to allow jet boat tours. hence the arch is no longer standing
 
@@ -108,15 +108,15 @@ At one time, there used to be a natural arch to paddle under. but the county com
 
 ## One of two caves to paddle into
 
-![Picture](/assets/images/11062021155p.jpg)
+![Picture](assets/images/11062021155p.jpg)
 
 ## The pend oreille river with hooknose above
 
-![Picture](/assets/images/20216101030.jpg)
+![Picture](assets/images/20216101030.jpg)
 
 ## Michelle pauses to admire one of the two waterfalls along the river
 
-![Picture](/assets/images/20216101033.jpg)
+![Picture](assets/images/20216101033.jpg)
 
 On the opposite side of the river is this waterfalls. if you set your paddle down and close your eyes, the sounds of the twin falls on each side of the river, produce a stereophonic effect that you can meditate to
 
@@ -128,7 +128,7 @@ On the opposite side of the river is this waterfalls. if you set your paddle dow
 
 ## Boundary dam from the vista house across the river
 
-![Picture](/assets/images/2021631104-jpeg-1-1.jpg)
+![Picture](assets/images/2021631104-jpeg-1-1.jpg)
 
 ## Five turbines making power for seattle
 
@@ -270,7 +270,7 @@ Courtesy Nathan MacDonald, Seattle City Light
 To see footage of Boundary Dam construction and more, see [SMA’s YouTube channelexternal link](https://www.youtube.com/results?search_query=1204-05+boundary).
 This exhibit was created with support and expertise from Seattle City Light and assistance from David Ross, San Jose State University intern.
 
-![Picture](/assets/images/20126101044-copy.jpg)
+![Picture](assets/images/20126101044-copy.jpg)
 
 One night i came back from canada and stayed the night at boundary dam.  As i was having dinner, i noticed the aurora borealis was building. I went around to each campsite and told the campers of the auroras. Not one person got up to see them.their loss. Can you find the big dipper in this image?
 

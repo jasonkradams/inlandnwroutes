@@ -73,49 +73,49 @@ Pyramid Pass & Lakes, Parker Peak, Long Canyon, Trout Lake, the Kootenai Nationa
 
 Jalapeños, Eichardt's, Burger Express, Mr. Sub,  Sandpoint
 
-![Picture](/assets/images/6132025414p.jpg)
+![Picture](assets/images/6132025414p.jpg)
 
 ## Photo gallery
 
 ---
 
-![Picture](/assets/images/fe0783b2-e1b0-4907-9786-8fa57676ea4f.jpg)
+![Picture](assets/images/fe0783b2-e1b0-4907-9786-8fa57676ea4f.jpg)
 
 ## A beautiful trail to long mountain lake & peak
 
 ---
 
-![Picture](/assets/images/d5c43e12-ea5b-42da-8c45-1b3e82c67d8f.jpg)
+![Picture](assets/images/d5c43e12-ea5b-42da-8c45-1b3e82c67d8f.jpg)
 
 ## Chris enjoying the view of long mountain lake, with parker peak
 
 ---
 
-![Picture](/assets/images/37dc454a-8e19-4008-833a-4d9ad270ef3b.jpg)
+![Picture](assets/images/37dc454a-8e19-4008-833a-4d9ad270ef3b.jpg)
 
 ## Chris photographing the surrounding area above long mountain lake
 
 ---
 
-![Picture](/assets/images/286daa74-fbf7-4adc-bb49-faa3dc79a2c8.jpg)
+![Picture](assets/images/286daa74-fbf7-4adc-bb49-faa3dc79a2c8.jpg)
 
 Ridge line leading up to long mountain, from long mountain lake After the lake, you can walk this ridge up to long mountain summit ​and the trail down
 
 ---
 
-![Picture](/assets/images/8c08224b-41c2-4942-8525-9fd2360a398c.jpg)
+![Picture](assets/images/8c08224b-41c2-4942-8525-9fd2360a398c.jpg)
 
 ## We hiked this ridge back toward pyramid pass for the views
 
 ---
 
-![Picture](/assets/images/b170dff7-9643-4bef-9a35-ab2421c5a007.jpg)
+![Picture](assets/images/b170dff7-9643-4bef-9a35-ab2421c5a007.jpg)
 
 ## A beautiful main trail leadng away from long mountain lake
 
 ---
 
-![Picture](/assets/images/2accf6a5-a8ab-40b6-943e-acb56eff4255.jpg)
+![Picture](assets/images/2accf6a5-a8ab-40b6-943e-acb56eff4255.jpg)
 
 ## A beautiful trail makes any hike special
 

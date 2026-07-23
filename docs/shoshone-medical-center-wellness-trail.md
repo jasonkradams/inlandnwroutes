@@ -69,21 +69,21 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 ## Photo gallery
 
-![Picture](/assets/images/p190.png)
+![Picture](assets/images/p190.png)
 
 ## The stairs leading to the wellness trail
 
 ---
 
-![Picture](/assets/images/p153.png)
+![Picture](assets/images/p153.png)
 
 ## The first infosign showing the property and how its managed
 
-![Picture](/assets/images/p154.png)
+![Picture](assets/images/p154.png)
 
 ## All along this trail are info signs like the one above
 
-![Picture](/assets/images/p155.png)
+![Picture](assets/images/p155.png)
 
 ## Spring on this trail is spectacular
 
@@ -91,36 +91,36 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 ## A section of the trail above the picnic table    6.30.2022
 
-![Picture](/assets/images/p156.png)
+![Picture](assets/images/p156.png)
 
 ## .4 miles up this beautiful trail is a place to relax and learn
 
 ---
 
-![Picture](/assets/images/p147.png)
+![Picture](assets/images/p147.png)
 
 ## Silver mountain looms above kellogg
 
-![Picture](/assets/images/p148.png)
+![Picture](assets/images/p148.png)
 
 ## The silver mountain resort base area from the picnic table
 
-![Picture](/assets/images/p149.png)
+![Picture](assets/images/p149.png)
 
 ## Lupine along the wellness trail
 
-![Picture](/assets/images/88d15e44-e1cc-427b-bd28-c30e1e809170.jpg)
+![Picture](assets/images/88d15e44-e1cc-427b-bd28-c30e1e809170.jpg)
 
 ## A winter view from the wellness trail on 1.15.2020
 
-![Picture](/assets/images/53b31d79-3542-4784-8b9b-065d4df4483a.jpg)
+![Picture](assets/images/53b31d79-3542-4784-8b9b-065d4df4483a.jpg)
 
 ## Along the trail mid winter
 
-![Picture](/assets/images/722025237p.png)
+![Picture](assets/images/722025237p.png)
 
 ## Bench about half way to the picnic table
 
-![Picture](/assets/images/722025256p.jpg)
+![Picture](assets/images/722025256p.jpg)
 
 ## Picnic table at overlook

@@ -67,7 +67,7 @@ NA
 
 ## Photo gallery
 
-![Picture](/assets/images/12202022336p.jpg)
+![Picture](assets/images/12202022336p.jpg)
 
 ## Two hikers walking into the giants
 
@@ -75,7 +75,7 @@ NA
 
 ## Giant red cedar along to trail to the giant
 
-![Picture](/assets/images/1202022332p.jpg)
+![Picture](assets/images/1202022332p.jpg)
 
 ## First site of the giant
 
@@ -85,15 +85,15 @@ NA
 
 ---
 
-![Picture](/assets/images/1202022334p.jpg)
+![Picture](assets/images/1202022334p.jpg)
 
 ## Members of the spokane mountaineers posing in front of the giant
 
-![Picture](/assets/images/1202022341p.jpg)
+![Picture](assets/images/1202022341p.jpg)
 
 ## The giant
 
-![Picture](/assets/images/1202022343p.jpg)
+![Picture](assets/images/1202022343p.jpg)
 
 ## Burles like this one, hold all the dna of the tree
 

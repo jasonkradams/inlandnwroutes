@@ -66,15 +66,15 @@ Moon Time, Franklins Hoagies, the Mexican Food Factory, and the Trails End Brewe
 
 ## Photo gallery
 
-![Picture](/assets/images/11072021414p.jpg)
+![Picture](assets/images/11072021414p.jpg)
 
 ## On the yellowstone trail road to the trailhead is a beautiful pasture
 
-![Picture](/assets/images/202159303.jpg)
+![Picture](assets/images/202159303.jpg)
 
 ## The start of the marie creek trail #241
 
-![Picture](/assets/images/202159306.jpg)
+![Picture](assets/images/202159306.jpg)
 
 ## Part of the marie creek trail that the spokane mountaineers rebuilt
 
@@ -90,17 +90,17 @@ Moon Time, Franklins Hoagies, the Mexican Food Factory, and the Trails End Brewe
 
 ## A section of the trail we worked on a years ago ​this section is just before the meadows
 
-![Picture](/assets/images/11072021443p.jpg)
+![Picture](assets/images/11072021443p.jpg)
 
 The meadows. A ways further in, the creek washed out badly, and is hard to cross. On the left of the meadows are places to camp
 
 ---
 
-![Picture](/assets/images/1202022707p.jpg)
+![Picture](assets/images/1202022707p.jpg)
 
 ## Along the north side of the meadows is a place to camp and cool cliffs
 
-![Picture](/assets/images/1202022708p.jpg)
+![Picture](assets/images/1202022708p.jpg)
 
 ## Trail #241 nearing the skitwich creek
 

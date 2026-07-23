@@ -62,11 +62,11 @@ The pride of skiing at silver mountain ​ is the fun of the riding in the longe
 
 ## Chair 3 in the distance, with chair 4 in the foreground
 
-![Picture](/assets/images/12082021305p.jpg)
+![Picture](assets/images/12082021305p.jpg)
 
 ## Kellogg peak's ski terrain Image courtesy of silver mountain
 
-![Picture](/assets/images/2021614722-jpeg-1-1.jpg)
+![Picture](assets/images/2021614722-jpeg-1-1.jpg)
 
 On top of kellogg peak is a replica of a fire lookout cabin On a sunny ski day, the temps are in the 70° range ​and is a great spot to have lunch with a view
 
@@ -78,7 +78,7 @@ On top of kellogg peak is a replica of a fire lookout cabin On a sunny ski day, 
 
 ## Looking north north east from the lookout
 
-![Picture](/assets/images/2021614722-1.jpg)
+![Picture](assets/images/2021614722-1.jpg)
 
 ## An illusive snowbird perched on a limb
 
@@ -86,11 +86,11 @@ On top of kellogg peak is a replica of a fire lookout cabin On a sunny ski day, 
 
 Silver's backcountry south of the boarder A warning to snowboarders, do not go south out of bounds ​its a 1.2 mile walk out
 
-![Picture](/assets/images/11242021714p.jpg)
+![Picture](assets/images/11242021714p.jpg)
 
 ## The rimmed trees near the top of chair 2
 
-![Picture](/assets/images/11242021719p.jpg)
+![Picture](assets/images/11242021719p.jpg)
 
 ## The gang onn the way to the top of wardner peak
 
@@ -104,7 +104,7 @@ Silver's backcountry south of the boarder A warning to snowboarders, do not go s
 
 A day of skiing at ***Silver***, is like skiing in ***Heaven.*** You don't need ***Collateral***, to ski the ***Steep and******Deep***. Just the ***North Star*** to guide you. You will experience ***Sheer******Bliss***, as you shush the ***Solitude*** of***Wardner Peak***. You won't get the ***Shaft*** from a Shady Lady, a ***Bootlegger*** or any other ***Jackass***. ***Eureka!!*** There's ***Gold*** in them thar hills. But you will not find a ***Claim******Jumper***, unless you look closely. Whoever, you may find a ***Corkscrew*** or two, in ***Mogul's Bar***.  ***16 to 1*** you will find ***Heaven***,  and you don't need***Collateral***or a ***Silver Belt***, to enjoy a ***Sunrise*** or a ***Sunset***.  You won't find ***Terrible Edith*** in the ***Meadows***, or a***Fast Eddy*** like ***Tall Paul*** on the***Ridg***e.  But you will find, if you look closely, ***Northern******Lights***, a ***Happy Jack***, and a ***Silver Basin*** filled with pow. So Why Not ***Rendezvous*** with a ***Gem***, and don't just go ***Home James***, go the ***Silver Mountain***. And don't forget the the ***Snow Tubing Hill***  or the ***Magic Carpet*** beginners hill. You don't need a ***Paymaster*** to ski at ***Silve***r,  nor do you need ***Gold***.  All you need to***Get There***, is your addiction to powder. After you have worn yourself out, ***Silver Rapid Waterpark*** can  sooth those sore muscles before you retire to your***Village*** condo. So load up that old ***Saddleback***car of yours, and set your ***T2d2*** navigation system east to ***Silver Mountain***.                                                                                                                                                   chic.  1.26.2017
 
-![Picture](/assets/images/11242021724p.jpg)
+![Picture](assets/images/11242021724p.jpg)
 
 ## Silver's spring party
 

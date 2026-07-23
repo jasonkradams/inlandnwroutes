@@ -129,19 +129,19 @@ The state line ridge route Notice the large "arrow" cut into the forest. My rout
 
 ---
 
-![Picture](/assets/images/101420241017p.jpg)
+![Picture](assets/images/101420241017p.jpg)
 
 ## The route up thru the arrow
 
-![Picture](/assets/images/10142024935p.jpg)
+![Picture](assets/images/10142024935p.jpg)
 
 ## This image shows the route after it breaks out of the woods
 
-![Picture](/assets/images/10142024938p.jpg)
+![Picture](assets/images/10142024938p.jpg)
 
 ## After you get out of the woods, the image above, is the state line ridge
 
-![Picture](/assets/images/10142024942p.jpg)
+![Picture](assets/images/10142024942p.jpg)
 
 ## Our lunch spot along the state line ridge See below, please
 
@@ -151,7 +151,7 @@ The state line ridge route Notice the large "arrow" cut into the forest. My rout
 
 ## Please do not hike the ridge past this point, ​ its way too dangerous, see summer route
 
-![Picture](/assets/images/10142024946p.jpg)
+![Picture](assets/images/10142024946p.jpg)
 
 ## Upper stevens lake
 
@@ -167,7 +167,7 @@ The state line ridge route Notice the large "arrow" cut into the forest. My rout
 
 ## Lookout ski area from the state line ridge
 
-![Picture](/assets/images/101420241030p.jpg)
+![Picture](assets/images/101420241030p.jpg)
 
 ## The route down thru the arrow
 
@@ -181,7 +181,7 @@ The state line ridge route Notice the large "arrow" cut into the forest. My rout
 
 ## The vertical rocks are too dangerous to cross, so drop to the "trail"
 
-![Picture](/assets/images/10152024307p.jpg)
+![Picture](assets/images/10152024307p.jpg)
 
 ## Chicwackin' from the ridge prominence
 
@@ -193,7 +193,7 @@ The state line ridge route Notice the large "arrow" cut into the forest. My rout
 
 ## Views of the upper stevens lake & peak are incredible
 
-![Picture](/assets/images/10152024324p.jpg)
+![Picture](assets/images/10152024324p.jpg)
 
 ## From the same spot above, turn around and view The upper & lower st. regis lakes
 
@@ -209,7 +209,7 @@ The state line ridge route Notice the large "arrow" cut into the forest. My rout
 
 ## Once on the back ridge, the views of lower & upper stevens lakes are great
 
-![Picture](/assets/images/10152024342p.jpg)
+![Picture](assets/images/10152024342p.jpg)
 
 The prize for doing this route is the views from the summit of stevens peak Lone lake is on the left...lower & upper stevens lakes are on the right The easiest way down is to follow the willow ridge (center) Out to the willow peak and drop down to lone lake at a saddle On a much easier user created trail
 

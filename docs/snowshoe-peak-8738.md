@@ -82,13 +82,13 @@ Henry’s & Pizza Hut, The Shed, and Roasters in Libby, Clark Fork Pantry, Eic
 
 ## Photo gallery
 
-![Picture](/assets/images/p247.png)
+![Picture](assets/images/p247.png)
 
 ## Aerial view of snowshoe peak above leigh lake
 
 ---
 
-![Picture](/assets/images/p248.png)
+![Picture](assets/images/p248.png)
 
 ## Spokane mountaineers, snowshoe peak climb from east face of a peak, 50’s
 
@@ -128,14 +128,14 @@ Aaron enjoying the view from the snowshoe ridge. Bockman peak 8174' in backgroun
 
 ## Aaron standing on the summit of snowshoe peak. ​image by chris herath
 
-![Picture](/assets/images/2021511908.jpg)
+![Picture](assets/images/2021511908.jpg)
 
 ## Leigh lake 3588' below the summit of snowshoe peak. Image by chris herath
 
-![Picture](/assets/images/2021511909.jpg)
+![Picture](assets/images/2021511909.jpg)
 
 Blackwell glacier lies on the side of snowshoe peak. Blackwell glacier is the nearest glacier to spokane ​image by chris herath
 
-![Picture](/assets/images/11062021112p.jpg)
+![Picture](assets/images/11062021112p.jpg)
 
 ## A peak & snowshoe peak from schweitzer mountain resort

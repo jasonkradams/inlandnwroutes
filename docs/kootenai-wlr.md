@@ -89,7 +89,7 @@ Jalapeños, Eichardt’s, Burger Express, and Mr. Sub in Sandpoint.
 
 To read more about the purcell trench, the american selkirks, and the cabinet mountain wilderness, ​double click on the regions name in the drop down menu
 
-![Picture](/assets/images/28140013.jpg)
+![Picture](assets/images/28140013.jpg)
 
 ## Two photog friends trying to get a good image ​next to the meeting room barn
 
@@ -105,7 +105,7 @@ To read more about the purcell trench, the american selkirks, and the cabinet mo
 
 ## The kootenai national wildlife refuge from road #18, south side
 
-![Picture](/assets/images/2021116-61-jpeg-1.jpg){: data-src="/assets/images/2021116-61-jpeg-1.jpg" }
+![Picture](assets/images/2021116-61-jpeg-1.jpg){: data-src="assets/images/2021116-61-jpeg-1.jpg" }
 
 ## The kootenai national wildlife refuge from the myrtle lake road
 
@@ -113,7 +113,7 @@ To read more about the purcell trench, the american selkirks, and the cabinet mo
 
 ## The kootenai national wildlife refuge from the burton peak road
 
-![Picture](/assets/images/11162021843.jpg)
+![Picture](assets/images/11162021843.jpg)
 
 ## This image shows the "auto tour road" on the outside of channel
 
@@ -125,7 +125,7 @@ To read more about the purcell trench, the american selkirks, and the cabinet mo
 
 ## The kootenai national wildlife refuge in the summer
 
-![Picture](/assets/images/p732.png)
+![Picture](assets/images/p732.png)
 
 ## A moose from along the auto tour drive
 
@@ -135,7 +135,7 @@ To read more about the purcell trench, the american selkirks, and the cabinet mo
 
 ## A northern section of the kootenai national wildlife refuge
 
-![Picture](/assets/images/110620211250p-1.jpg)
+![Picture](assets/images/110620211250p-1.jpg)
 
 ---
 

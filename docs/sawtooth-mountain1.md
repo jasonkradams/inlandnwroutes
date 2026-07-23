@@ -67,15 +67,15 @@ Clark Fork Pantry& Squeeze In, in Clark Fork. Jalapeños, Mr. Sub, Burger  Expr
 
 ## Photo gallery
 
-![Picture](/assets/images/2021115222-jpeg-1-1-2.jpg)
+![Picture](assets/images/2021115222-jpeg-1-1-2.jpg)
 
 ## This is the view that said to me, "come climb me", from heron, mt
 
-![Picture](/assets/images/3222023857p.jpg)
+![Picture](assets/images/3222023857p.jpg)
 
 ## Middle mountain west of sawtooth mountain
 
-![Picture](/assets/images/2021115225-jpeg-1-1.jpg)
+![Picture](assets/images/2021115225-jpeg-1-1.jpg)
 
 ## The group after climbing a great scree slope, on way to sawtooth
 
@@ -95,7 +95,7 @@ Clark Fork Pantry& Squeeze In, in Clark Fork. Jalapeños, Mr. Sub, Burger  Expr
 
 ## On the way to the top of sawtooth peak, ​sandy pointed out scotchman peak
 
-![Picture](/assets/images/20200508061142-1.jpg)
+![Picture](assets/images/20200508061142-1.jpg)
 
 ## The descent route from sawtooth mountain. billiard table mt. top center
 
@@ -103,7 +103,7 @@ Clark Fork Pantry& Squeeze In, in Clark Fork. Jalapeños, Mr. Sub, Burger  Expr
 
 ## Billiard table mountain 6622" on the left ​with star peak 6167' lookout on the right
 
-![Picture](/assets/images/11072021631p-1.jpg)
+![Picture](assets/images/11072021631p-1.jpg)
 
 ## Star peak from the side of sawtooth mountain
 
@@ -111,7 +111,7 @@ Clark Fork Pantry& Squeeze In, in Clark Fork. Jalapeños, Mr. Sub, Burger  Expr
 
 ## From the summit of sawtooth, spar peak stands to the north
 
-![Picture](/assets/images/2021115229-jpeg-1-1.jpg)
+![Picture](assets/images/2021115229-jpeg-1-1.jpg)
 
 ## Chris descending, with sawtooth mountain in back
 

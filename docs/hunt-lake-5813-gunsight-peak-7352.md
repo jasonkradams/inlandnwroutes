@@ -39,7 +39,7 @@ notes:
 
 # Hunt Lake (5,813') & Gunsight Peak (7,352')
 
-![Hunt Lake 5,813' | Peak 6,976' | Gunsight Peak 7,352' | Trail #1](/assets/images/img-0365_orig.jpg)
+![Hunt Lake 5,813' | Peak 6,976' | Gunsight Peak 7,352' | Trail #1](assets/images/img-0365_orig.jpg)
 _Hunt Lake 5,813' | Peak 6,976' | Gunsight Peak 7,352' | Trail #1_
 
 ## Overview & Trail Description

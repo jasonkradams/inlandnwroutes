@@ -76,29 +76,29 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-![Picture](/assets/images/p408.png)
+![Picture](assets/images/p408.png)
 
 ## Cabinet divide trail #360 from lost buck pass, above upper geiger lake
 
 ---
 
-![Picture](/assets/images/p409.png)
+![Picture](assets/images/p409.png)
 
 ## The cabinet divide trail is between these mountains
 
 ---
 
-![Picture](/assets/images/p411.png)
+![Picture](assets/images/p411.png)
 
 ## Buck lake along the wanless lake trail
 
-![Picture](/assets/images/p410.png)
+![Picture](assets/images/p410.png)
 
 ## Once on the cabinet divide trail, is this spectacular view of wanless lake
 
 ---
 
-![Picture](/assets/images/p406.png)
+![Picture](assets/images/p406.png)
 
 ## The east face of engle peak, above wanless lake
 

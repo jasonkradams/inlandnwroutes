@@ -76,19 +76,19 @@ Radio Brewing in Kellogg, Pizza Factory and Muchacho’s Tacos in Wallace
 
 ## Photo gallery
 
-<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](/assets/images/202111535385-jpeg-1.jpg) --> -->
+<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](assets/images/202111535385-jpeg-1.jpg) --> -->
 
 ## The trail into st. regis lakes along the headwaters of the st. regis river
 
 ---
 
-![Picture](/assets/images/202111535386-jpeg-1.jpg)
+![Picture](assets/images/202111535386-jpeg-1.jpg)
 
 ## The north wall of st. regis valley
 
 ---
 
-![Picture](/assets/images/p373.png)
+![Picture](assets/images/p373.png)
 
 ## The west wall of st. regis lakes. l. & u. stevens lake are on the other side
 
@@ -100,14 +100,14 @@ Radio Brewing in Kellogg, Pizza Factory and Muchacho’s Tacos in Wallace
 
 ---
 
-![Picture](/assets/images/2021115353878-jpeg-1.jpg)
+![Picture](assets/images/2021115353878-jpeg-1.jpg)
 
 ## The state line ridge
 
-![Picture](/assets/images/2021115353879-jpeg-1.jpg)
+![Picture](assets/images/2021115353879-jpeg-1.jpg)
 
 ## On the ridge overlooking stevens lake and peak ​st. regis lakes are left center
 
-![Picture](/assets/images/11062021348p.jpg)
+![Picture](assets/images/11062021348p.jpg)
 
 ## Lower & upper st. regis lakes from the state line trail

@@ -22,4 +22,4 @@ Amenities:
 
 ##
 
-![Picture](/assets/images/img-1826-274.jpg){: data-src="/assets/images/img-1826-274.jpg" }
+![Picture](assets/images/img-1826-274.jpg){: data-src="assets/images/img-1826-274.jpg" }

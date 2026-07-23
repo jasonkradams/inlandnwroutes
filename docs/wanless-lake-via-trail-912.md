@@ -103,7 +103,7 @@ Click for Current NOAA Weather Conditions
 
 ## No images available. if you would like to contribute, please contact me
 
-![Picture](/assets/images/p818-2.png)
+![Picture](assets/images/p818-2.png)
 
 ---
 

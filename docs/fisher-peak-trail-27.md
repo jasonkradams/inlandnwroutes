@@ -77,7 +77,7 @@ Click for Current NOAA Weather Conditions
 
 ## Photo gallery
 
-![Picture](/assets/images/6132025420p.jpg)
+![Picture](assets/images/6132025420p.jpg)
 
 ---
 
@@ -97,15 +97,15 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-![Picture](/assets/images/502139155-jpeg-1.jpg)
+![Picture](assets/images/502139155-jpeg-1.jpg)
 
 ## Creston, b.c., canada from fisher peak ​image by chris herath
 
-![Picture](/assets/images/232025820p.jpg)
+![Picture](assets/images/232025820p.jpg)
 
 ## The lions head peak group (l)-parker peak (r) ​image by chris herath
 
-![Picture](/assets/images/232025813p.jpg)
+![Picture](assets/images/232025813p.jpg)
 
 a peak 8634', , snowshoe peak 8738'                 ibex peak 7676' The highest in the cabinet mountain wilderness se of fisher peak ​image by chris herath
 

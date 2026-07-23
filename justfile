@@ -1,5 +1,9 @@
 # Justfile
 
+# Build the static site
+build:
+	./scripts/build.sh
+
 # Serve the static site locally
 serve:
 	./scripts/serve.sh

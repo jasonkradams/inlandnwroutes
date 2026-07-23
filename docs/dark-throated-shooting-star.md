@@ -56,6 +56,6 @@ The 3-12 flowers have 5 floral parts. The corolla is 15-25 mm across with deep m
 
 ---
 
-![Picture](/assets/images/11202021902.jpg)
+![Picture](assets/images/11202021902.jpg)
 
 If you ever get the chance to see shooting stars in the wild, ​spend some time, photograph them, and revel in their beauty

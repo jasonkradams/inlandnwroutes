@@ -92,7 +92,7 @@ Jalapeños, Eichardt's, Burger Express, Mr. Sub in Sandpoint
 
 ---
 
-![Picture](/assets/images/11062021954p.jpg)
+![Picture](assets/images/11062021954p.jpg)
 
 The unnamed peak to the ne of first two mouth lake The ascent of this face is left of center of the image Image by chris herath
 
@@ -104,7 +104,7 @@ The unnamed peak to the ne of first two mouth lake The ascent of this face is le
 
 ## Above the unnamed peak on the way to the wigwams ​image by chris herath
 
-![Picture](/assets/images/p388.png)
+![Picture](assets/images/p388.png)
 
 Two mouth lakes basin with myrtle’s turtle in background On top of myrtles turtle is a lunar landscape
 
@@ -114,7 +114,7 @@ Two mouth lakes basin with myrtle’s turtle in background On top of myrtles tur
 
 ## 0ne of three lunar landscape. it sits atop myrtle's turtle
 
-![Picture](/assets/images/110620211005p.jpg)
+![Picture](assets/images/110620211005p.jpg)
 
 ## The lunar landscape atop myrtle's turtle ​image by chris herath
 
@@ -122,7 +122,7 @@ Two mouth lakes basin with myrtle’s turtle in background On top of myrtles tur
 
 ## Another image of the lunar landscape above myrtle's turtle. ​image by chris herath
 
-![Picture](/assets/images/2021116-64-jpeg-1.jpg)
+![Picture](assets/images/2021116-64-jpeg-1.jpg)
 
 ## Lower two mouth lake and its beautiful shore line
 
@@ -132,18 +132,18 @@ Two mouth lakes basin with myrtle’s turtle in background On top of myrtles tur
 
 ## One of the deep bays west of the main body of the lake
 
-![Picture](/assets/images/2021114921-jpeg-1.jpg)
+![Picture](assets/images/2021114921-jpeg-1.jpg)
 
 ## Unnamed peak above kent lake
 
-![Picture](/assets/images/p390.png)
+![Picture](assets/images/p390.png)
 
 ## Kent lake below the summit ridge
 
-![Picture](/assets/images/p391.png)
+![Picture](assets/images/p391.png)
 
 ## Use your imagination. two giants fighting, one ripped this esophagus out and discarded it
 
-![Picture](/assets/images/p392.png)
+![Picture](assets/images/p392.png)
 
 ## A clearing storm along the selkirk crest from above two mouth lakes

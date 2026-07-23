@@ -77,7 +77,7 @@ NA
 
 ---
 
-![Picture](/assets/images/222022330p.jpg)
+![Picture](assets/images/222022330p.jpg)
 
 ## Snoopy hangs out in one of the areas of smith rocks
 
@@ -87,7 +87,7 @@ NA
 
 ---
 
-![Picture](/assets/images/222022333p.jpg)
+![Picture](assets/images/222022333p.jpg)
 
 Smith rocks has some of the best climbing rocks in the west. in spring & fall, these routes are filled with the world's best rock climbers
 
@@ -97,6 +97,6 @@ Smith rocks has some of the best climbing rocks in the west. in spring & fall, t
 
 ## Snoopy resting after a hard climb
 
-![Picture](/assets/images/222022334p.jpg)
+![Picture](assets/images/222022334p.jpg)
 
 ## Monkey face is a very technical aid route ​along the north end of misery ridge

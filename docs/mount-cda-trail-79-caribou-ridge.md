@@ -71,17 +71,17 @@ Some of the switchbacks are pretty difficult, so please be careful.
 
 Franklins Hoagies, Mexican Food Factory, Moontime, and the Trails End Brewery.
 
-![Picture](/assets/images/6182025214p.jpg)
+![Picture](assets/images/6182025214p.jpg)
 
 ## Photo gallery
 
 ---
 
-![Picture](/assets/images/1202022749p.jpg)
+![Picture](assets/images/1202022749p.jpg)
 
 ## Spokane mountaineers hiking trail #79 led by chris b
 
-![Picture](/assets/images/1202022753p.jpg)
+![Picture](assets/images/1202022753p.jpg)
 
 ## ONE SIDED MITRE WORT FOUND ALONG trail #79 IN MAY
 
@@ -95,6 +95,6 @@ Franklins Hoagies, Mexican Food Factory, Moontime, and the Trails End Brewery.
 
 ---
 
-![Picture](/assets/images/1202022758p.jpg)
+![Picture](assets/images/1202022758p.jpg)
 
 ## Alpine stars, one of my favorite. from along trail #79

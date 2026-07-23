@@ -45,7 +45,7 @@ Located high in the mountains of Central Idaho, independently owned Brundage Mou
 
 ## Photo gallery
 
-![Picture](/assets/images/12042021943p.jpg)
+![Picture](assets/images/12042021943p.jpg)
 
 ## Light up the night on new years Image by mel & tony kozlowski
 
@@ -55,7 +55,7 @@ The top of blue bird express with the seven devils in the distance ​image by m
 
 ---
 
-![Picture](/assets/images/12042021946.jpg)
+![Picture](assets/images/12042021946.jpg)
 
 This image is of the lower section of run...temptation ​IMAGE BY MEL & TONY KOZLOWSKI, McCALL, IDAHO
 
@@ -67,11 +67,11 @@ This image is of the lower section of run...temptation ​IMAGE BY MEL & TONY KO
 
 ## The top of brundage mountain ski resort ​image by mel & tony kozlowski
 
-![Picture](/assets/images/12042021950p.jpg)
+![Picture](assets/images/12042021950p.jpg)
 
 ## Near the summit of brundage mountain ​image by mel & tony kozlowski
 
-![Picture](/assets/images/12042021951.jpg)
+![Picture](assets/images/12042021951.jpg)
 
 ## The ski patrols hut on top of brundage ​image by mel & tony kozlowski
 
@@ -83,7 +83,7 @@ This image is of the lower section of run...temptation ​IMAGE BY MEL & TONY KO
 
 ## The pond skim at the end of the season ​image by mel & tony kozlowski
 
-![Picture](/assets/images/12042021955p.jpg)
+![Picture](assets/images/12042021955p.jpg)
 
 ## Easy street after a day work ​image by mel & tony kozlowski
 

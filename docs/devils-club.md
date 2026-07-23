@@ -62,10 +62,10 @@ The plant is covered with brittle yellow spines that break off easily if the pla
 
 ---
 
-![Picture](/assets/images/11282021807p.jpg)
+![Picture](assets/images/11282021807p.jpg)
 
 ## This is the queen of devil's club, found on the trail to granite lake, cmw
 
-![Picture](/assets/images/11282021922p.jpg)
+![Picture](assets/images/11282021922p.jpg)
 
 ## Devil's club along the trail to st. paul lake

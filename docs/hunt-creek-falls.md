@@ -58,7 +58,7 @@ Ardy's Cafe and Moose Knuckle Burgers and Brew
 
 ## Photo gallery
 
-![Picture](/assets/images/110620211205p.jpg)
+![Picture](assets/images/110620211205p.jpg)
 
 ## Hunt creek falls in the spring
 

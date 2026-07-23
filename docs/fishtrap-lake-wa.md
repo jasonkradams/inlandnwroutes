@@ -59,13 +59,13 @@ Fishtrap Lake Resort, Lenny’s in Cheney
 
 ## White Pelican
 
-![Picture](/assets/images/20200525140507.jpg)
+![Picture](assets/images/20200525140507.jpg)
 
 ---
 
 ## Looking North East Up the Lake
 
-![Picture](/assets/images/20200525140458.jpg)
+![Picture](assets/images/20200525140458.jpg)
 
 ---
 
@@ -81,8 +81,8 @@ Fishtrap Lake Resort, Lenny’s in Cheney
 
 ## Inlet
 
-![Picture](/assets/images/20200525140448.jpg)
+![Picture](assets/images/20200525140448.jpg)
 
 ---
 
-![Picture](/assets/images/img-0618.jpg)
+![Picture](assets/images/img-0618.jpg)

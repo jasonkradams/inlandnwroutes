@@ -77,11 +77,11 @@ This species often blooms as snow recedes. A form with white or cream petal-like
 
 ---
 
-![Picture](/assets/images/11202021134.jpg)
+![Picture](assets/images/11202021134.jpg)
 
 Glacier lilies are one of the first plants To bloom in late winter or early spring. If there is a snow patch on your hike,  Be sure to check out below the snow
 
-![Picture](/assets/images/2202022132p.jpg)
+![Picture](assets/images/2202022132p.jpg)
 
 ## On the upper trail to leigh lake
 

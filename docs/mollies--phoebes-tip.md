@@ -72,7 +72,7 @@ Burger Express
 
 ---
 
-![Picture](/assets/images/2021115334-jpeg-1.jpg)
+![Picture](assets/images/2021115334-jpeg-1.jpg)
 
 Phoebes tip is on the left, while the mollies is next to phoebes tip, First to the right. west fork mt is right of center
 
@@ -86,13 +86,13 @@ Below the summit of the mollies, is the mollies lake. Off in the distance is the
 
 ## Steep cliffs above bugle creek
 
-![Picture](/assets/images/2021115336-jpeg-1.jpg)
+![Picture](assets/images/2021115336-jpeg-1.jpg)
 
 ## The views of lower priest lake, make the effort to get there, worth it
 
 ---
 
-![Picture](/assets/images/2021314805.jpg)
+![Picture](assets/images/2021314805.jpg)
 
 ## Priest lake from the summit of the mollies in clearing fog
 
@@ -112,7 +112,7 @@ In this turn of the century image, this was the camp, ​for fire lookout people
 
 ---
 
-![Picture](/assets/images/2021115339-jpeg-1.jpg)
+![Picture](assets/images/2021115339-jpeg-1.jpg)
 
 ## The mollies lookout cabin near the turn of the century. ​PHOTO BY THEON McMAHON
 

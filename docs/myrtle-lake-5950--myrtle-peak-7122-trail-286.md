@@ -66,7 +66,7 @@ Jalapeños,  Mr. Sub, Burger Express, Eichardt’s n Sandpoint
 
 ---
 
-![Picture](/assets/images/61820251243p.jpg)
+![Picture](assets/images/61820251243p.jpg)
 
 ## Photo gallery
 

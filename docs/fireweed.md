@@ -84,6 +84,6 @@ Fireweed was important to native people around the world. Choice patches of fire
 
 ## This image was taken above the settler's grove of ancient cedars
 
-![Picture](/assets/images/11082021815p.jpg)
+![Picture](assets/images/11082021815p.jpg)
 
 ##

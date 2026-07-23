@@ -59,4 +59,4 @@ Purple, bright pink, or white, with white throats and 5 notched petals with 2 ro
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/11262021234p.jpg)
+![Picture](assets/images/11262021234p.jpg)

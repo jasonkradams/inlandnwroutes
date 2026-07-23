@@ -92,127 +92,127 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 ---
 
-![Picture](/assets/images/6132025448p.jpg)
+![Picture](assets/images/6132025448p.jpg)
 
 ## Photo gallery
 
 ---
 
-![Picture](/assets/images/9a8b85ce-5229-4247-9d51-015a3210f6a8-1.jpg)
+![Picture](assets/images/9a8b85ce-5229-4247-9d51-015a3210f6a8-1.jpg)
 
 ## Walking on selkirk granite is a delight ​photo by jennifer stone
 
 ---
 
-![Picture](/assets/images/3439b5fb-3485-4d22-9767-fce19d420988-1.jpg)
+![Picture](assets/images/3439b5fb-3485-4d22-9767-fce19d420988-1.jpg)
 
 ## Hikers descending off the selkirk crest. photo by jeniffer stone
 
 ---
 
-![Picture](/assets/images/06a97812-cbb4-4a6b-91dc-fee0b53b4799-1.jpg){: data-src="/assets/images/06a97812-cbb4-4a6b-91dc-fee0b53b4799-1.jpg" }
+![Picture](assets/images/06a97812-cbb4-4a6b-91dc-fee0b53b4799-1.jpg){: data-src="assets/images/06a97812-cbb4-4a6b-91dc-fee0b53b4799-1.jpg" }
 
 ## High above little harrison lake on the ascent
 
 ---
 
-![Picture](/assets/images/img-6223-1.jpg)
+![Picture](assets/images/img-6223-1.jpg)
 
 ## A panorama of little harrison lake
 
 ---
 
-![Picture](/assets/images/ad4478b9-c5b0-451a-8efb-18cd6d158b95-1.jpg)
+![Picture](assets/images/ad4478b9-c5b0-451a-8efb-18cd6d158b95-1.jpg)
 
 ## The north face of the north twin of the seven sisters
 
 ---
 
-![Picture](/assets/images/045cb80a-539d-43ac-b493-f4f25ba1d564-1.jpg)
+![Picture](assets/images/045cb80a-539d-43ac-b493-f4f25ba1d564-1.jpg)
 
 ## The views from the selkirk crest are breath taking
 
 ---
 
-![Picture](/assets/images/f15d2750-1e3c-4971-aa9f-868e1bbdb82e-1.jpg)
+![Picture](assets/images/f15d2750-1e3c-4971-aa9f-868e1bbdb82e-1.jpg)
 
 ## The photographer above, is taking an image of lookout mountain
 
 ---
 
-![Picture](/assets/images/dea90f01-c1ef-4a38-8e42-44d3c7aba663-1.jpg)
+![Picture](assets/images/dea90f01-c1ef-4a38-8e42-44d3c7aba663-1.jpg)
 
 ## A prominence on the ridge between beehive & little harrison lakes
 
 ---
 
-![Picture](/assets/images/7d4c0d6e-4027-4f1d-8daf-50f2ee9d977a-1.jpg)
+![Picture](assets/images/7d4c0d6e-4027-4f1d-8daf-50f2ee9d977a-1.jpg)
 
 ## Scramblers going out for a better view Photo by jennifer stone
 
 ---
 
-![Picture](/assets/images/97837974-c482-45f6-a023-4194839f41f3-1.jpg)
+![Picture](assets/images/97837974-c482-45f6-a023-4194839f41f3-1.jpg)
 
 ## Beehive lake and the beehive dome
 
 ---
 
-![Picture](/assets/images/p120-3.png)
+![Picture](assets/images/p120-3.png)
 
 ## The selkirk crest high above little harrison lake. n. twin on back left
 
 ---
 
-![Picture](/assets/images/55945218-0585-4bb9-9024-871de3dc26c7-1.jpg)
+![Picture](assets/images/55945218-0585-4bb9-9024-871de3dc26c7-1.jpg)
 
 ## The northern part of the seven sisters from above little harrison lake
 
 ---
 
-![Picture](/assets/images/ee21271c-8e64-4dd8-9685-c0120acce1a5-1.jpg)
+![Picture](assets/images/ee21271c-8e64-4dd8-9685-c0120acce1a5-1.jpg)
 
 ## Hiker heading down to little harrison lake. ​photo by jeniffer stone
 
 ---
 
-![Picture](/assets/images/f8687f28-3e49-4d8d-bb1a-0c4935e400f5-1.jpg)
+![Picture](assets/images/f8687f28-3e49-4d8d-bb1a-0c4935e400f5-1.jpg)
 
 ## Scramblers picking their way down thru the huge granite boulders
 
 ---
 
-![Picture](/assets/images/296289b9-0a5f-43cc-9ada-385e4e8102c5-1.jpg)
+![Picture](assets/images/296289b9-0a5f-43cc-9ada-385e4e8102c5-1.jpg)
 
 ## Scramblers heading to little harrison lake, ​photo by jennifer stone
 
 ---
 
-![Picture](/assets/images/859d94c0-3944-46cb-9cc6-ba5d68c1aa6c-1.jpg)
+![Picture](assets/images/859d94c0-3944-46cb-9cc6-ba5d68c1aa6c-1.jpg)
 
 ## The descent route was to the right of the pointed peak
 
 ---
 
-![Picture](/assets/images/445862ad-d7fe-4d56-8a64-d9a3b0fce2ad-1.jpg)
+![Picture](assets/images/445862ad-d7fe-4d56-8a64-d9a3b0fce2ad-1.jpg)
 
 ## The north twin high above little harrison lake
 
 ---
 
-![Picture](/assets/images/66c504b8-72ae-4b03-823b-ccc2d23830c2-1.jpg)
+![Picture](assets/images/66c504b8-72ae-4b03-823b-ccc2d23830c2-1.jpg)
 
 ## Amy taking an image across little harrison lake
 
 ---
 
-![Picture](/assets/images/a7ed1cde-a89d-4be8-aa23-3de1797f644a-1.jpg)
+![Picture](assets/images/a7ed1cde-a89d-4be8-aa23-3de1797f644a-1.jpg)
 
 ## The north twin above little harrison lake
 
 ---
 
-![Picture](/assets/images/485d20bf-651d-4efe-bd2b-6da488db6983-1.jpg)
+![Picture](assets/images/485d20bf-651d-4efe-bd2b-6da488db6983-1.jpg)
 
 ## Jennifer stone sittin’ on a stone
 

@@ -85,7 +85,7 @@ Jalapeños, Mr. Sub, Burger ExpressEichardt’s in Sandpoint
 
 ## Photo gallery
 
-![Picture](/assets/images/ecd623d9-9331-43fe-b0fa-03fe2040215c.jpg){: data-src="/assets/images/ecd623d9-9331-43fe-b0fa-03fe2040215c.jpg" }
+![Picture](assets/images/ecd623d9-9331-43fe-b0fa-03fe2040215c.jpg){: data-src="assets/images/ecd623d9-9331-43fe-b0fa-03fe2040215c.jpg" }
 
 Because of logging, the actual trail starts up this logging road.  ​the granite dome is called myrtle’s turtle
 
@@ -103,13 +103,13 @@ Because of logging, the actual trail starts up this logging road.  ​the grani
 
 ---
 
-![Picture](/assets/images/d1ff938a-58da-4ec8-8beb-ae0c976a3c6e.jpg)
+![Picture](assets/images/d1ff938a-58da-4ec8-8beb-ae0c976a3c6e.jpg)
 
 ## Along the east to west ridge line to the wigs
 
 ---
 
-![Picture](/assets/images/p729.png)
+![Picture](assets/images/p729.png)
 
 ## Harrison peak and other peaks including the twins of the seven sisters
 
@@ -151,7 +151,7 @@ The previous image ridge on the left In the center is the first lunar landscape 
 
 ---
 
-![Picture](/assets/images/p365.png)
+![Picture](assets/images/p365.png)
 
 ## The morning sunrise near camp site with some of the seven sisters in back
 
@@ -163,25 +163,25 @@ The previous image ridge on the left In the center is the first lunar landscape 
 
 ---
 
-![Picture](/assets/images/f3a96204-e8c2-4825-852f-b2357c12f5b0.jpg)
+![Picture](assets/images/f3a96204-e8c2-4825-852f-b2357c12f5b0.jpg)
 
 ## As you come to these trees, descend around them, re-ascend and continue
 
 ---
 
-![Picture](/assets/images/64595ed2-2276-403c-bfb5-11c6defab74b.jpg)
+![Picture](assets/images/64595ed2-2276-403c-bfb5-11c6defab74b.jpg)
 
 ## Large prominences that we avoided by dropping below
 
 ---
 
-![Picture](/assets/images/9ee3e5f0-49fe-4e0a-98c7-be836e9cc82f.jpg)
+![Picture](assets/images/9ee3e5f0-49fe-4e0a-98c7-be836e9cc82f.jpg)
 
 ## Walk down to this wall and drop down around it,  to the left
 
 ---
 
-![Picture](/assets/images/0ddcd0d1-1fc3-4f41-82a2-f61097a618ce.jpg)
+![Picture](assets/images/0ddcd0d1-1fc3-4f41-82a2-f61097a618ce.jpg)
 
 ## The wall, last two images, from below
 
@@ -199,13 +199,13 @@ The previous image ridge on the left In the center is the first lunar landscape 
 
 ---
 
-![Picture](/assets/images/p730.png)
+![Picture](assets/images/p730.png)
 
 ## Cool rocks just past the wall
 
 ---
 
-![Picture](/assets/images/f7d35002-a0e0-43dd-94c2-1548be5cb540.jpg)
+![Picture](assets/images/f7d35002-a0e0-43dd-94c2-1548be5cb540.jpg)
 
 ## Lion head and its nearby peaks, looking nne
 
@@ -213,7 +213,7 @@ The previous image ridge on the left In the center is the first lunar landscape 
 
 ## Along the wigs route, with the wall back left
 
-![Picture](/assets/images/4c5435bd-2820-4b7d-91e1-3ad38312f994.jpg)
+![Picture](assets/images/4c5435bd-2820-4b7d-91e1-3ad38312f994.jpg)
 
 ## The edge, from here to the wigs is along this route
 

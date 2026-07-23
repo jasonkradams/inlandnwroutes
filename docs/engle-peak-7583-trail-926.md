@@ -69,31 +69,31 @@ Eicharts, Mr Sub, Burger Express, and Jalapeños in Sandpoint.
 
 ## Photo gallery
 
-![Picture](/assets/images/p472.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p472_orig.png" }
+![Picture](assets/images/p472.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p472_orig.png" }
 
 ## Fireweed along the saddle above engle lakes
 
 ---
 
-![Picture](/assets/images/2152022326p.jpg)
+![Picture](assets/images/2152022326p.jpg)
 
 ## The last section to the summit, wraps around the peak
 
 ---
 
-![Picture](/assets/images/2152022328p.jpg)
+![Picture](assets/images/2152022328p.jpg)
 
 ## The saddle before the up. engle lakes are down on left
 
 ---
 
-![Picture](/assets/images/2021116-80-jpeg-1.jpg)
+![Picture](assets/images/2021116-80-jpeg-1.jpg)
 
 ## Two of the seven engle lakes
 
 ---
 
-![Picture](/assets/images/p476.png)
+![Picture](assets/images/p476.png)
 
 ## Looking south from engle peak
 

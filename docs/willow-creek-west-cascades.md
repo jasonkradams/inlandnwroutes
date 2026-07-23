@@ -85,43 +85,43 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-![Picture](/assets/images/11102021741.jpg)
+![Picture](assets/images/11102021741.jpg)
 
 ## As you break out of the woods, the lower falls comes into view
 
-![Picture](/assets/images/11102021744.jpg)
+![Picture](assets/images/11102021744.jpg)
 
 ## The above falls in the summer
 
-![Picture](/assets/images/dscn0041.jpg)
+![Picture](assets/images/dscn0041.jpg)
 
 ## This is the 500' cascading waterfall below lone lake. ​
 
-![Picture](/assets/images/6172022849p.jpg)
+![Picture](assets/images/6172022849p.jpg)
 
 ## Small intermittent falls half way up the headwall trail
 
-![Picture](/assets/images/11102021747.jpg)
+![Picture](assets/images/11102021747.jpg)
 
 ## The falls at the back of the lake, on the way to the upper sanctuary
 
-![Picture](/assets/images/11102021750.jpg)
+![Picture](assets/images/11102021750.jpg)
 
 ## Spring time at the lakes waterfall
 
 The next three images are from the 500' cascading waterfall. The original trail climbed up next to the cascades, but it is way too steep. I used technical climbing gear to get these images
 
-![Picture](/assets/images/11102021751.jpg)
+![Picture](assets/images/11102021751.jpg)
 
 ##
 
-![Picture](/assets/images/11102021752.jpg)
+![Picture](assets/images/11102021752.jpg)
 
-![Picture](/assets/images/11102021753.jpg)
+![Picture](assets/images/11102021753.jpg)
 
 ## The lakes falls in the fall
 
-![Picture](/assets/images/11102021754.jpg)
+![Picture](assets/images/11102021754.jpg)
 
 Lone lake from near the lakes waterfall, looking north. ​the split in the trees is the trail down
 

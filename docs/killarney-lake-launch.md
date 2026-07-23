@@ -57,7 +57,7 @@ Trails End Brewery, Moon Time, Franklins, and Mexican Food Factory
 
 ## Please everyone...heed this health alert
 
-![Picture](/assets/images/5132025306p-2.jpg)
+![Picture](assets/images/5132025306p-2.jpg)
 
 *Picture (Image missing)*
 
@@ -67,7 +67,7 @@ Trails End Brewery, Moon Time, Franklins, and Mexican Food Factory
 
 ## A novel way to keep the island clean
 
-![Picture](/assets/images/202162853-jpeg-1.jpg)
+![Picture](assets/images/202162853-jpeg-1.jpg)
 
 ## Be aware
 
@@ -75,7 +75,7 @@ Trails End Brewery, Moon Time, Franklins, and Mexican Food Factory
 
 ## The view from atop popcorn island, looking se
 
-![Picture](/assets/images/202162856-jpeg-1.jpg)
+![Picture](assets/images/202162856-jpeg-1.jpg)
 
 ## It really works
 

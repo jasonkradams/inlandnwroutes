@@ -75,40 +75,40 @@ Radio Brewing in Kellogg, City Limits Pub in Wallace
 
 ## St joe lake
 
-![Picture](/assets/images/img-1826.jpg){: data-src="/assets/images/img-1826.jpg" }
+![Picture](assets/images/img-1826.jpg){: data-src="assets/images/img-1826.jpg" }
 
 ---
 
 ## ​spring in august
 
-![Picture](/assets/images/img-1845.jpg){: data-src="index.md" }
+![Picture](assets/images/img-1845.jpg){: data-src="index.md" }
 
 ---
 
 ## Golden eagle
 
-<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](/assets/images/img-1865.jpg) --> -->
+<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](assets/images/img-1865.jpg) --> -->
 
 ---
 
 ## Catchin' dinner
 
-<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](/assets/images/img-1862.jpg) --> -->
+<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](assets/images/img-1862.jpg) --> -->
 
 ---
 
 ##
 
-<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](/assets/images/img-1875.jpg) --> -->
+<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](assets/images/img-1875.jpg) --> -->
 
 ---
 
 ## Gold crown peak w/illinois peak in the background
 
-<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](/assets/images/img-6082.jpg) --> -->
+<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](assets/images/img-6082.jpg) --> -->
 
 ---
 
 ## We started off on the lowest point of the saddle
 
-<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](/assets/images/img-1878.jpg) --> -->
+<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](assets/images/img-1878.jpg) --> -->

@@ -80,7 +80,7 @@ Henry’s & Pizza Hut, in Libby, Clark Fork Pantry & Squeeze Inn in Clark Fork. 
 
 ## Photo gallery
 
-![Picture](/assets/images/p821.png)
+![Picture](assets/images/p821.png)
 
 ---
 

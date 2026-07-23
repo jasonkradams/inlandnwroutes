@@ -70,23 +70,23 @@ Click for Current NOAA Weather Conditions
 
 ## Photo gallery
 
-![Picture](/assets/images/p129.png)
+![Picture](assets/images/p129.png)
 
 ## The north east end of steamboat rock
 
 ---
 
-![Picture](/assets/images/12082021931p.jpg)
+![Picture](assets/images/12082021931p.jpg)
 
 ## Northern banks lake and islands
 
-![Picture](/assets/images/p134.png)
+![Picture](assets/images/p134.png)
 
 ## Basalt columns along the east face
 
 ---
 
-![Picture](/assets/images/10620211158a.jpg)
+![Picture](assets/images/10620211158a.jpg)
 
 ## Upper banks lake from the north side of steamboat rock
 
@@ -98,7 +98,7 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-![Picture](/assets/images/11062021331p.jpg)
+![Picture](assets/images/11062021331p.jpg)
 
 ## Below the north rim of steamboat rock is an eagles nest
 
@@ -112,11 +112,11 @@ Click for Current NOAA Weather Conditions
 
 ## Jeniffer walking along the west shore cliffs
 
-![Picture](/assets/images/11182021839p.jpg)
+![Picture](assets/images/11182021839p.jpg)
 
 ## Looking south along the west side of the rock
 
-![Picture](/assets/images/spring89steamboatrockdayhike-unk-joesimpson-unk-paulmonroe-melissawick-stuartgrossmanj-oliviacaullaux.jpg)
+![Picture](assets/images/spring89steamboatrockdayhike-unk-joesimpson-unk-paulmonroe-melissawick-stuartgrossmanj-oliviacaullaux.jpg)
 
 ## Spokane mountaineers clowning around on steamboat rock    spring 1989
 

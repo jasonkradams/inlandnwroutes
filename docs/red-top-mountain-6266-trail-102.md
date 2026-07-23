@@ -62,17 +62,17 @@ Jalapeños, Eichardt’s, Burger Express, Mr. Sub in  Sandpoint
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/4132025403p.jpg)
+![Picture](assets/images/4132025403p.jpg)
 
 ## Photo gallery
 
-![Picture](/assets/images/20200505172117.jpg)
+![Picture](assets/images/20200505172117.jpg)
 
 ## Part of the trail to red top 6266’
 
 ---
 
-![Picture](/assets/images/p225.png)
+![Picture](assets/images/p225.png)
 
 ## The summit of red top from the trails in
 
@@ -84,7 +84,7 @@ Jalapeños, Eichardt’s, Burger Express, Mr. Sub in  Sandpoint
 
 ## This trail offers many unique photo opportunities
 
-![Picture](/assets/images/11182021734p.jpg)
+![Picture](assets/images/11182021734p.jpg)
 
 The higher you get on the trail towards joe peak & lake ​ the more snow you will encounter in roctober
 
@@ -92,11 +92,11 @@ The higher you get on the trail towards joe peak & lake ​ the more snow you wi
 
 ## Chris nearing the top of joe peak
 
-![Picture](/assets/images/12082021851p.jpg)
+![Picture](assets/images/12082021851p.jpg)
 
 ## The summit of joe peak
 
-![Picture](/assets/images/11182021739p.jpg)
+![Picture](assets/images/11182021739p.jpg)
 
 ## Joe peak from the south end of hidden lake
 
@@ -104,7 +104,7 @@ The higher you get on the trail towards joe peak & lake ​ the more snow you wi
 
 ## Along the south shore, this rock has made a friend
 
-![Picture](/assets/images/11182021747p.jpg)
+![Picture](assets/images/11182021747p.jpg)
 
 ## West fork cabin
 

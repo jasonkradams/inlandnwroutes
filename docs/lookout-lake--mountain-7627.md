@@ -103,47 +103,47 @@ Burger Express in Priest River.
 
 ---
 
-![Picture](/assets/images/img-4866.jpg)
+![Picture](assets/images/img-4866.jpg)
 
 ## Photo gallery
 
-<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](/assets/images/p253.png) --> -->
+<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](assets/images/p253.png) --> -->
 
 ## Lookout lake,  mountain & towers
 
 ---
 
-![Picture](/assets/images/p254.png)
+![Picture](assets/images/p254.png)
 
 ## The restored 1927 lookout tower, & new (1977) active tower
 
 ---
 
-![Picture](/assets/images/p571.png)
+![Picture](assets/images/p571.png)
 
 ## The north ridge line to the towers, is my favorite ascent route
 
 ---
 
-![Picture](/assets/images/p255.png)
+![Picture](assets/images/p255.png)
 
 ## Along the north ridge line, i spotted a rock dog
 
 ---
 
-![Picture](/assets/images/p573.png)
+![Picture](assets/images/p573.png)
 
 ## Tall prominence along the north ridge
 
 ---
 
-![Picture](/assets/images/p574.png)
+![Picture](assets/images/p574.png)
 
 ## The north ridge
 
 ---
 
-![Picture](/assets/images/p234.png)
+![Picture](assets/images/p234.png)
 
 ## Lower priest lake from summit
 

@@ -75,13 +75,13 @@ stats:
 
 ## Photo gallery
 
-![Picture](/assets/images/dsc0129.jpg)
+![Picture](assets/images/dsc0129.jpg)
 
-![Picture](/assets/images/111020231043p.jpg)
+![Picture](assets/images/111020231043p.jpg)
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/11020231047p.jpg)
+![Picture](assets/images/11020231047p.jpg)
 
 *Picture (Image missing)*
 

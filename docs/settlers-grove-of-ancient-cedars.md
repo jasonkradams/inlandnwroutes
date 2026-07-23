@@ -77,21 +77,21 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 ## Photo gallery
 
-![Picture](/assets/images/p835.png)
+![Picture](assets/images/p835.png)
 
-![Picture](/assets/images/4132025408p.jpg)
+![Picture](assets/images/4132025408p.jpg)
 
-![Picture](/assets/images/20211153537-jpeg-1.jpg)
+![Picture](assets/images/20211153537-jpeg-1.jpg)
 
 ## West fork eagle creek
 
 ---
 
-![Picture](/assets/images/202111535378-jpeg-1.jpg)
+![Picture](assets/images/202111535378-jpeg-1.jpg)
 
 ## Along the trail thru the cedars
 
-![Picture](/assets/images/202111535379-jpeg-1.jpg)
+![Picture](assets/images/202111535379-jpeg-1.jpg)
 
 ## Foot bridge over eagle creek
 
@@ -99,25 +99,25 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 ## The benches are well placed for a rest or lunch
 
-![Picture](/assets/images/p46.png)
+![Picture](assets/images/p46.png)
 
 ## Trail deep within the ancient cedar canopy
 
-![Picture](/assets/images/p47.png)
+![Picture](assets/images/p47.png)
 
 ## This cedar, laying down is taller then me
 
 ## The below images are from all along the trail
 
-![Picture](/assets/images/p48.png)
+![Picture](assets/images/p48.png)
 
 ## Giant western red cedars  ​(having fun)
 
-![Picture](/assets/images/202111535381-jpeg-1.jpg)
+![Picture](assets/images/202111535381-jpeg-1.jpg)
 
 ## This rootball is 8-9 feet tall
 
-![Picture](/assets/images/p359.png)
+![Picture](assets/images/p359.png)
 
 ## Mountain globemallow
 
@@ -125,13 +125,13 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 ## A remnant of the great 1910 fire
 
-![Picture](/assets/images/202111535383-jpeg-1.jpg)
+![Picture](assets/images/202111535383-jpeg-1.jpg)
 
 ## In tragedy, beauty is not far behind
 
 ---
 
-![Picture](/assets/images/202111535384-jpeg-1.jpg)
+![Picture](assets/images/202111535384-jpeg-1.jpg)
 
 ## Eagle creek
 

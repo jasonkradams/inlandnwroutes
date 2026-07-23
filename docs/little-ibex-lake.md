@@ -77,7 +77,7 @@ A Peak, Snowshoe Peak, Vimy Ridge, Bull River, Snowshoe Lake, Ibex Peak , Ross C
 
 Henry’s, Pizza Hut, The Shed, and Rosaeurs in Libby, Clark Fork Pantry & Squeeze Inn in Clark Fork. Eicharts, Mr Sub, Burger Express,  & Jalapeños in Sandpoint
 
-![Picture](/assets/images/6182025126p.jpg)
+![Picture](assets/images/6182025126p.jpg)
 
 ## Photo gallery
 
@@ -85,7 +85,7 @@ Because there isn’t a marked trail from 978 to l. ibex l., i roughly marked th
 
 ---
 
-![Picture](/assets/images/2021115354016-jpeg-1.jpg)
+![Picture](assets/images/2021115354016-jpeg-1.jpg)
 
 ## On the trail to little ibex lake
 
@@ -97,25 +97,25 @@ At about 4 miles in, you will come to this trail junction. ​turn right, down h
 
 ---
 
-![Picture](/assets/images/p150.png)
+![Picture](assets/images/p150.png)
 
 As you come to the middle fork bull river, look for surveyor tape across the river, showing your way up to little ibex lake. along the way. ​this tree caught our interest
 
 ---
 
-![Picture](/assets/images/p151.png)
+![Picture](assets/images/p151.png)
 
 ## Once up thru the downfall, the trail breaks out with the view above
 
 ---
 
-![Picture](/assets/images/p152.png)
+![Picture](assets/images/p152.png)
 
 ## An unnamed mountain next to the little ibex lake
 
 ---
 
-![Picture](/assets/images/2021115354018-jpeg-1.jpg)
+![Picture](assets/images/2021115354018-jpeg-1.jpg)
 
 As we walked out to the lake thru the meadows, i noticed something familiar about the rocks. can you spot a rock formation similar to one in the american selkirks? see answer at the end of this write up
 
@@ -127,15 +127,15 @@ As we walked out to the lake thru the meadows, i noticed something familiar abou
 
 ## As we ate lunch, i noticed the two different types of rock that makes up this mountain
 
-![Picture](/assets/images/20211153540212-jpeg-1.jpg)
+![Picture](assets/images/20211153540212-jpeg-1.jpg)
 
 ## Snowshoe peak 8738’, is off to the ne
 
-![Picture](/assets/images/p157.png)
+![Picture](assets/images/p157.png)
 
 What i notced about this area, was the very unusual rocks and rock formations. can you spot the day hiker in this image
 
-![Picture](/assets/images/20211164131-jpeg-1.jpg)
+![Picture](assets/images/20211164131-jpeg-1.jpg)
 
 When i first saw this rock structure, i had imagined it being a camouflage fortress in a james bond movie
 

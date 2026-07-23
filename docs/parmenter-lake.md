@@ -64,7 +64,7 @@ Click for Current NOAA Weather Conditions
 
 ## Photo gallery
 
-![Picture](/assets/images/p791.png)
+![Picture](assets/images/p791.png)
 
 ## No images. if you would like to contribute, contact chic
 

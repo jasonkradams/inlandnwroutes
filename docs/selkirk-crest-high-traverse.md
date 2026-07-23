@@ -68,15 +68,15 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 ---
 
-![Picture](/assets/images/img-4861.jpg)
+![Picture](assets/images/img-4861.jpg)
 
 ## Photo gallery
 
-![Picture](/assets/images/2021112826-jpeg-1.jpg)
+![Picture](assets/images/2021112826-jpeg-1.jpg)
 
 ## Most of the seven sisters, from near colburn, idaho
 
-![Picture](/assets/images/8c097d28-6e22-43dc-9ec8-0d46d144f77b.jpg)
+![Picture](assets/images/8c097d28-6e22-43dc-9ec8-0d46d144f77b.jpg)
 
 ## Harrison lake, scramble to notch left of center summit, not the right one
 
@@ -88,7 +88,7 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 ---
 
-<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](/assets/images/p336.png) --> -->
+<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](assets/images/p336.png) --> -->
 
 ## The team after summiting the selkirk crest above harrison lake
 
@@ -100,29 +100,29 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 ---
 
-![Picture](/assets/images/0311336e-ae44-478d-b0f2-25a513f490e0.jpg)
+![Picture](assets/images/0311336e-ae44-478d-b0f2-25a513f490e0.jpg)
 
 ## Tyler watching chic scrambling towards the crest. harrison lake below
 
 ---
 
-![Picture](/assets/images/8a2de57c-da14-452f-b4a1-f98f329d94c5.jpg)
+![Picture](assets/images/8a2de57c-da14-452f-b4a1-f98f329d94c5.jpg)
 
 ## Amy scrambling above harrison lake, on the crest
 
 ---
 
-![Picture](/assets/images/8aa29c20-79de-48ad-b738-ccc5911c3858.jpg)
+![Picture](assets/images/8aa29c20-79de-48ad-b738-ccc5911c3858.jpg)
 
 ## Rich scrambling above harrison lake along the crest
 
 ---
 
-![Picture](/assets/images/11062021324p.jpg)
+![Picture](assets/images/11062021324p.jpg)
 
 ## Along the selkirk crest
 
-![Picture](/assets/images/3579bd9d-8597-4132-b5fd-7013ccdb5701.jpg)
+![Picture](assets/images/3579bd9d-8597-4132-b5fd-7013ccdb5701.jpg)
 
 ## Along the crest on the way to the twins, of the seven sisters
 
@@ -134,7 +134,7 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 ---
 
-![Picture](/assets/images/dd88a535-f1ab-4929-9028-b9b43be5865b.jpg)
+![Picture](assets/images/dd88a535-f1ab-4929-9028-b9b43be5865b.jpg)
 
 ## The meadows below the crest, with harrison peak on back right
 
@@ -152,7 +152,7 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 ---
 
-![Picture](/assets/images/p251.png)
+![Picture](assets/images/p251.png)
 
 ## The guru of hiking, rich taking in the views above little harrison lake
 
@@ -164,7 +164,7 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 ---
 
-![Picture](/assets/images/9a3fa78d-88e5-4198-8500-4fd518869983.jpg)
+![Picture](assets/images/9a3fa78d-88e5-4198-8500-4fd518869983.jpg)
 
 ## Amy taking an image of little harrison lake
 
@@ -182,7 +182,7 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 ---
 
-![Picture](/assets/images/a79a2da5-840a-4fa8-b94a-f671f8650a58.jpg)
+![Picture](assets/images/a79a2da5-840a-4fa8-b94a-f671f8650a58.jpg)
 
 ## A hiker scrambling up thru the rocks
 
@@ -194,7 +194,7 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 ---
 
-![Picture](/assets/images/13897d95-3c99-4393-97e4-cd2867e294c9.jpg)
+![Picture](assets/images/13897d95-3c99-4393-97e4-cd2867e294c9.jpg)
 
 ## Little harrison lake lower left, and harrison peak in background
 
@@ -206,7 +206,7 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 ---
 
-![Picture](/assets/images/9ef9760a-1cb9-4c03-a2e7-21dd998e439d.jpg)
+![Picture](assets/images/9ef9760a-1cb9-4c03-a2e7-21dd998e439d.jpg)
 
 ## Little harrison lake from ridge between beehive and l.h.l
 

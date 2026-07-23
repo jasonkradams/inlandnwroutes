@@ -961,6 +961,6 @@ Click to set custom HTML
 If you are looking for a base layer that actually keeps you warm, consider the Indera 2 Layer,
 ​below.
 
-![Picture](/assets/images/41820221132a.jpg)
+![Picture](assets/images/41820221132a.jpg)
 
 ---

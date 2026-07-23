@@ -67,7 +67,7 @@ Lower & Upper Blosson Lakes, Revett Lake, Granite Peak, Siamese Lake Loop, Heart
 
 NA
 
-![Picture](/assets/images/6182025107p.jpg)
+![Picture](assets/images/6182025107p.jpg)
 
 ## Photo gallery
 
@@ -75,7 +75,7 @@ NA
 
 ## Trail #459 towards cube iron mountain
 
-![Picture](/assets/images/20215111100.jpg)
+![Picture](assets/images/20215111100.jpg)
 
 ## Cube iron mountain 7110' from above the lakes
 

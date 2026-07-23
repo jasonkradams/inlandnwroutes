@@ -55,15 +55,15 @@ In Sandpoint is Mr. Sub, Eichardt’s, Jalapeños, and Burger Express in Dover.
 
 ## Photo gallery
 
-![Picture](/assets/images/2272022824p.jpg)
+![Picture](assets/images/2272022824p.jpg)
 
 ## Ol' mexico mine along the wset shore to maiden rock
 
-![Picture](/assets/images/11062021231p.jpg)
+![Picture](assets/images/11062021231p.jpg)
 
 ## Maiden rock boat camp beach along the west side of prnd orielle lake
 
-![Picture](/assets/images/11062021232p.jpg)
+![Picture](assets/images/11062021232p.jpg)
 
 ## Maiden rock stands out next to the beach Its over 800' deep 50' off the point
 

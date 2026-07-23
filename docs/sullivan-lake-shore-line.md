@@ -66,7 +66,7 @@ NA
 
 ## The east shoreline of sullivan lake
 
-![Picture](/assets/images/2021511328.jpg)
+![Picture](assets/images/2021511328.jpg)
 
 ## The eastern shoreline fall colors are a great attraction
 

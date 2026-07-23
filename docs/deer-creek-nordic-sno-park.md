@@ -70,7 +70,7 @@ You will need a map viewer like the free Avenza Maps app here: <https://www.ave
 
 ---
 
-![Picture](/assets/images/11272021829p.jpg)
+![Picture](assets/images/11272021829p.jpg)
 
 ---
 
@@ -98,40 +98,40 @@ Curlew Saloon for good beer and food, Tug Boat in Curlew for excellent hand cut 
 
 ## South Loop
 
-![Picture](/assets/images/img-7470.jpg){: data-src="/assets/images/img-7470.jpg" }
+![Picture](assets/images/img-7470.jpg){: data-src="assets/images/img-7470.jpg" }
 
 ---
 
-![Picture](/assets/images/img-7472.jpg)
+![Picture](assets/images/img-7472.jpg)
 
 ---
 
 ## The campground on the north side of the highway
 
-![Picture](/assets/images/img-7494.jpg)
+![Picture](assets/images/img-7494.jpg)
 
 ---
 
-![Picture](/assets/images/img-7495.jpg)
+![Picture](assets/images/img-7495.jpg)
 
 ---
 
-![Picture](/assets/images/img-7497.jpg)
+![Picture](assets/images/img-7497.jpg)
 
 ---
 
 ## Nils of Altai Skis bending the tips
 
-![Picture](/assets/images/img-7501.jpg)
+![Picture](assets/images/img-7501.jpg)
 
 ---
 
 ## Ferry County Rail Trail
 
-![Picture](/assets/images/img-7518.jpg)
+![Picture](assets/images/img-7518.jpg)
 
 ---
 
 ## Parking lot on the north side of the highway next to the campground
 
-![Picture](/assets/images/img-7527.jpg)
+![Picture](assets/images/img-7527.jpg)

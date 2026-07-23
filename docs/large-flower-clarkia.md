@@ -48,6 +48,6 @@ Stems erect, 10–50 cm. Herbage puberulent. Leaves alternate, linear, obscurely
 
 ---
 
-![Picture](/assets/images/73120231135a.jpg)
+![Picture](assets/images/73120231135a.jpg)
 
 Image by james colquhoun

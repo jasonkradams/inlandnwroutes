@@ -95,19 +95,19 @@ Click for Current NOAA Weather Conditions
 
 ## Photo gallery
 
-![Picture](/assets/images/202139139-jpeg-1.jpg)
+![Picture](assets/images/202139139-jpeg-1.jpg)
 
 ## Unnamed lake below snow peak
 
 ---
 
-![Picture](/assets/images/202139150-jpeg-1.jpg)
+![Picture](assets/images/202139150-jpeg-1.jpg)
 
 ## Snow peak active lookout tower
 
 ---
 
-![Picture](/assets/images/202139155-jpeg-1.jpg)
+![Picture](assets/images/202139155-jpeg-1.jpg)
 
 ## Spokane mountaineers doing trail work on the way to the lookout
 

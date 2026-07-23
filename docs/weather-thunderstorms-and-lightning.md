@@ -10,7 +10,7 @@
 
 When using noaa's website, use the "geocolor" true color daytime panels above. click on animation loops, circled in red below. ​it takes a few seconds to load, and you can lengthen time shown
 
-![Picture](/assets/images/71220241214p.jpg)
+![Picture](assets/images/71220241214p.jpg)
 
 As you can see in this image that shows the western section of the United States,
 you can see in real time images, where fires are, and the direction their smoke plumes are blowing.
@@ -293,7 +293,7 @@ If you notice any of these signs, it may be too late to avoid being struck and p
 
 I recently found this information on the noaa website Please know what to do if thunder is within ear shot ​thanks noaa for your expertise
 
-![Picture](/assets/images/512025907p.jpg)
+![Picture](assets/images/512025907p.jpg)
 
 *Picture (Image missing)*
 
@@ -301,11 +301,11 @@ Click to set custom HTML
 
 ## Noaa's hourly weather forecast sample
 
-![Picture](/assets/images/202171955.jpg)
+![Picture](assets/images/202171955.jpg)
 
 The below is information on a variety of interesting topics ​Why is the sky blue?  The sun shines white and black light to our planet. the white light has all the colors in it. in our upper atmosphere, we have dust particles and oxygen molecules. the white light meaning all of the colors in a rainbow shines through the upper levels of the atmosphere and the blue light scatters across the entire planet. that is why our sky is blue. now, during sunrise and sunset, the light traveling through atmosphere is longer at the horizon, then if you were to look up high in the sky. there are more dust particles and oxygen molecules at the horizon, so that is why you see such pretty colors like red, oranges and yellows
 
-![Picture](/assets/images/11252021748.gif)
+![Picture](assets/images/11252021748.gif)
 
 ## What is an upside-down rainbow?
 
@@ -321,13 +321,13 @@ The northern lights, commonly referred to as the aurora borealis, are the result
 
 ## **What causes the auroras?**
 
-![Picture](/assets/images/11252021806.jpg)
+![Picture](assets/images/11252021806.jpg)
 
 *Picture (Image missing)*
 
 Most auroras occur in response to energetic particles from a solar storm, which cause the gases of the thin upper atmosphere to glow. they take place at heights between 50 to 100 miles above the earth. the aurora can last anywhere between a few minutes to several hours. auroras are most common in polar regions. the various colors, of which green and red predominate, are the results of various light emissions from oxygen and nitrogen gases being energized by the solar particles.
 
-![Picture](/assets/images/11252021808a.jpg)
+![Picture](assets/images/11252021808a.jpg)
 
 ## **What are crepuscular rays?**
 

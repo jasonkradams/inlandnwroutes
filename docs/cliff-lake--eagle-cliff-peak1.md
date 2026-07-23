@@ -75,31 +75,31 @@ Pizza Factory & the 1313 Club in Wallace. Radio Brewing in Kellogg. The Snake Pi
 
 ---
 
-![Picture](/assets/images/p493.png)
+![Picture](assets/images/p493.png)
 
 ## Diamond lake from the trail near cliff lake
 
 ---
 
-![Picture](/assets/images/p492.png)
+![Picture](assets/images/p492.png)
 
 ## Eagle cliff lake in mid spring
 
 ---
 
-![Picture](/assets/images/p531.png)
+![Picture](assets/images/p531.png)
 
 ## Eagle cliff peak 7543’ on the left
 
 ---
 
-![Picture](/assets/images/p520.png)
+![Picture](assets/images/p520.png)
 
 ## The route to eagle cliff summit is center in the shade, Then right up the ridge. ​its a fun up
 
 ---
 
-![Picture](/assets/images/20200722191551.jpg)
+![Picture](assets/images/20200722191551.jpg)
 
 ## The view from eagle cliff peak looking north
 

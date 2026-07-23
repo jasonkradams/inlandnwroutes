@@ -60,4 +60,4 @@ Special Value to Native Bees (Recognized by pollination ecologists as attracting
 
 ---
 
-![Picture](/assets/images/11202021734.jpg)
+![Picture](assets/images/11202021734.jpg)

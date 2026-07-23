@@ -61,4 +61,4 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-![Picture](/assets/images/11052021715p.jpg)
+![Picture](assets/images/11052021715p.jpg)

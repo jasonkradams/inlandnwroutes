@@ -56,7 +56,7 @@ Lenny’s in Cheney
 
 ## Photo gallery
 
-![Picture](/assets/images/52020221117p.jpg)
+![Picture](assets/images/52020221117p.jpg)
 
 ## A map of the trail by tyler nyman
 

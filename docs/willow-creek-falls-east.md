@@ -71,68 +71,68 @@ Click for Current NOAA Weather Conditions
 
 ## Photo gallery
 
-![Picture](/assets/images/11102021307.jpg)
+![Picture](assets/images/11102021307.jpg)
 
 ## 1st WATERFALL
 
-![Picture](/assets/images/11102021309.jpg)
+![Picture](assets/images/11102021309.jpg)
 
 ## 1st WATERFALL
 
-![Picture](/assets/images/61420221137a.jpg)
+![Picture](assets/images/61420221137a.jpg)
 
 ## This is the same waterfall as above, but in heavy runoff on 5.31.22
 
-![Picture](/assets/images/11102021312.jpg)
+![Picture](assets/images/11102021312.jpg)
 
 ## #1    usually you see hoar frost popping up thru the dirt on a trail
 
-![Picture](/assets/images/11102021315.jpg)
+![Picture](assets/images/11102021315.jpg)
 
 ## #1    ice balls form when the flow is high
 
-![Picture](/assets/images/61420221133a.jpg)
+![Picture](assets/images/61420221133a.jpg)
 
 ## #2.  this falls is noisy and up stream about .4 mile
 
-![Picture](/assets/images/11102021344.jpg)
+![Picture](assets/images/11102021344.jpg)
 
 ## #2.   the same as above, but in lower flow
 
-![Picture](/assets/images/11102021348.jpg)
+![Picture](assets/images/11102021348.jpg)
 
 ## #3.   this is the biggest of the lower falls
 
-![Picture](/assets/images/11102021355.jpg)
+![Picture](assets/images/11102021355.jpg)
 
 ## #4.   this  falls is at the bottom of the headwall that you have to cross
 
-![Picture](/assets/images/11102021401.jpg)
+![Picture](assets/images/11102021401.jpg)
 
-![Picture](/assets/images/11102021402.jpg)
+![Picture](assets/images/11102021402.jpg)
 
 ## #4.  headwall falls taken from the log crossing
 
-![Picture](/assets/images/11102021406.jpg)
+![Picture](assets/images/11102021406.jpg)
 
 ## #4.  headwall falls
 
-![Picture](/assets/images/1102021409.jpg)
+![Picture](assets/images/1102021409.jpg)
 
 ## #4.   the start of winter at the headwall falls
 
-![Picture](/assets/images/1102021412.jpg)
+![Picture](assets/images/1102021412.jpg)
 
 ## #4.  the headwall falls in the dead of winter
 
-![Picture](/assets/images/11102021414.gif)
+![Picture](assets/images/11102021414.gif)
 
 ## #4.  the headwall falls
 
-![Picture](/assets/images/11102021419.jpg)
+![Picture](assets/images/11102021419.jpg)
 
 ## #5.  these waterfalls are half way up the headwall &   ​the drop between a crack in the rocks
 
-![Picture](/assets/images/11102021424.gif)
+![Picture](assets/images/11102021424.gif)
 
 ## #5.  in early spring

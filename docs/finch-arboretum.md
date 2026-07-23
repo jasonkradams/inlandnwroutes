@@ -69,7 +69,7 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-![Picture](/assets/images/11052021442a.jpg)
+![Picture](assets/images/11052021442a.jpg)
 
 ## Garden spring creek runs thru the arboretum
 
@@ -97,7 +97,7 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-![Picture](/assets/images/11052021545p.jpg)
+![Picture](assets/images/11052021545p.jpg)
 
 ## There are many photo ops along garden springs creek
 
@@ -109,7 +109,7 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-![Picture](/assets/images/11052021508a.jpg)
+![Picture](assets/images/11052021508a.jpg)
 
 ## This is a one of a kind image. the tree fell a few years ago
 
@@ -117,10 +117,10 @@ Click for Current NOAA Weather Conditions
 
 ## The next three images show the carpet of yellow along garden spring creek
 
-![Picture](/assets/images/11052021551p.jpg)
+![Picture](assets/images/11052021551p.jpg)
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/11052021553p.jpg)
+![Picture](assets/images/11052021553p.jpg)
 
 ## In late fall, the creek freezes around its many cascades

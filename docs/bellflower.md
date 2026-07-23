@@ -52,4 +52,4 @@ stats:
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/772022825p.jpg)
+![Picture](assets/images/772022825p.jpg)

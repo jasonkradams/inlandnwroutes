@@ -82,21 +82,21 @@ Click for Current NOAA Weather Conditions
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/11132021821.jpg)
+![Picture](assets/images/11132021821.jpg)
 
 ## Leigh creek falls and your first break
 
 ## When you first see leigh creek falls, you wonder how far up it goes
 
-![Picture](/assets/images/11132021822.jpg)
+![Picture](assets/images/11132021822.jpg)
 
 ## Elite hikers shuwen and tyler pose for an image in front of the falls
 
-![Picture](/assets/images/11132021823.jpg)
+![Picture](assets/images/11132021823.jpg)
 
 ## A telephoto shot of a section of leigh creek falls
 
-![Picture](/assets/images/11132021827.jpg)
+![Picture](assets/images/11132021827.jpg)
 
 Above the vertical section of the trail is this view below the trail ​the sights and sounds are well worth the effort
 
@@ -104,11 +104,11 @@ Above the vertical section of the trail is this view below the trail ​the sigh
 
 ## Leigh creek falls with the west wall above the lake
 
-![Picture](/assets/images/11132021830.jpg)
+![Picture](assets/images/11132021830.jpg)
 
 ## What an incredible view
 
-![Picture](/assets/images/11132021831.jpg)
+![Picture](assets/images/11132021831.jpg)
 
 ## All too soon the view of the falls fades, and then you are at the lake
 

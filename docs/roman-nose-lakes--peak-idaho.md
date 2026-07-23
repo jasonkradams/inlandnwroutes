@@ -122,151 +122,151 @@ Ruby Ridge, Snow Creek Falls, Bottleneck Lake & Peak, Kootenai National Wildlife
 
 Jalapeños, Eichard’s, Burger Express, Mr. Sub, Sandpoint
 
-![Picture](/assets/images/6182025159p.jpg)
+![Picture](assets/images/6182025159p.jpg)
 
 ## Photo gallery
 
-![Picture](/assets/images/10142023229p.jpg)
+![Picture](assets/images/10142023229p.jpg)
 
 ## The start of the trail to the upper lakes. ​that brown smudge is a hummingbird
 
 ---
 
-![Picture](/assets/images/a3cacc0e-8743-4cee-88f9-6b44547fef85.jpg)
+![Picture](assets/images/a3cacc0e-8743-4cee-88f9-6b44547fef85.jpg)
 
 ## At the summit of the trail to the upper lakes
 
 ---
 
-![Picture](/assets/images/075819db-b275-481f-82bc-409feab6032a.jpg)
+![Picture](assets/images/075819db-b275-481f-82bc-409feab6032a.jpg)
 
 ## A view below lake #2. look for a waterfall here during spring run off
 
 ---
 
-![Picture](/assets/images/10142023300p.jpg)
+![Picture](assets/images/10142023300p.jpg)
 
 ## Lake n#2 from sw end
 
-![Picture](/assets/images/8df17501-6450-4386-9aee-2ba1c527434f.jpg)
+![Picture](assets/images/8df17501-6450-4386-9aee-2ba1c527434f.jpg)
 
 ## An unamed mountain above lake #2
 
 ---
 
-![Picture](/assets/images/10142023318p.jpg)
+![Picture](assets/images/10142023318p.jpg)
 
 ### **Nice waterfall sw end of lake #2**
 
-![Picture](/assets/images/427ca46b-c555-4bff-b36d-694f15f2fff1.jpg)
+![Picture](assets/images/427ca46b-c555-4bff-b36d-694f15f2fff1.jpg)
 
 ## Fall colors at the trails summit
 
 ---
 
-![Picture](/assets/images/11182021801p.jpg)
+![Picture](assets/images/11182021801p.jpg)
 
 ## A short scramble about half way up whisker ridge
 
-![Picture](/assets/images/11182021804p.jpg)
+![Picture](assets/images/11182021804p.jpg)
 
 ## Above the scramble, is a scenic route ​ towards the summit of roman nose
 
 ## From here down shows the upper whisker ridge route, option #1
 
-![Picture](/assets/images/d5a238ae-3df4-4cfe-9a14-1aaa1d829bf9.jpg)
+![Picture](assets/images/d5a238ae-3df4-4cfe-9a14-1aaa1d829bf9.jpg)
 
 ## The chief along whisker ridge
 
 ---
 
-![Picture](/assets/images/edc3162b-39c2-4970-80ee-004e89f880e1.jpg)
+![Picture](assets/images/edc3162b-39c2-4970-80ee-004e89f880e1.jpg)
 
 ## Whisker ridge.    this ridge was named by chic to designate the route
 
 ---
 
-![Picture](/assets/images/20537370-bec2-4110-ab4c-c1b856666d2a.jpg)
+![Picture](assets/images/20537370-bec2-4110-ab4c-c1b856666d2a.jpg)
 
 ## Along whisker ridge in the fog
 
 ---
 
-![Picture](/assets/images/60dba3b6-3cfd-4aac-a9c2-923bf29c6f37.jpg)
+![Picture](assets/images/60dba3b6-3cfd-4aac-a9c2-923bf29c6f37.jpg)
 
 ## Lake #3 from whisker ridge. trailhead on right boarder
 
 ---
 
-![Picture](/assets/images/c52fcd6a-0fe4-439d-a0c0-7a83262bc4d2.jpg)
+![Picture](assets/images/c52fcd6a-0fe4-439d-a0c0-7a83262bc4d2.jpg)
 
 ## Above whisker ridge on the way to roman nose peak
 
 ---
 
-![Picture](/assets/images/df53e350-0eb7-45e1-a09e-93c057ca9d2b.jpg)
+![Picture](assets/images/df53e350-0eb7-45e1-a09e-93c057ca9d2b.jpg)
 
 ## Two false summits on left, with roman nose summit mid image
 
 ---
 
-![Picture](/assets/images/989908ea-ab21-4071-aec0-8765b9d1365d.jpg)
+![Picture](assets/images/989908ea-ab21-4071-aec0-8765b9d1365d.jpg)
 
 ## The selkirk crest peaking out above lake #3
 
 ---
 
-![Picture](/assets/images/4009a4b4-9c8a-4b5b-81fa-7747a8b6c93a.jpg)
+![Picture](assets/images/4009a4b4-9c8a-4b5b-81fa-7747a8b6c93a.jpg)
 
 ## Lake #2 & 3 below roman nose peak with unnamed peak 6921’in back
 
 ---
 
-![Picture](/assets/images/207c9ac9-25d8-4af5-9f2c-546e2bff13b0.jpg)
+![Picture](assets/images/207c9ac9-25d8-4af5-9f2c-546e2bff13b0.jpg)
 
 ## Amy enjoying the terrain of the american selkirks
 
 ---
 
-![Picture](/assets/images/7f2e8dd8-d500-47cd-8601-9c5f50b2a3b2.jpg)
+![Picture](assets/images/7f2e8dd8-d500-47cd-8601-9c5f50b2a3b2.jpg)
 
 ## The second of two false summit along whisker ridge
 
 ---
 
-![Picture](/assets/images/a1bea7d1-b0f8-4608-910c-3e838588043b.jpg)
+![Picture](assets/images/a1bea7d1-b0f8-4608-910c-3e838588043b.jpg)
 
 ## From the summit of roman nose, shows the southern part seven sisters
 
 ---
 
-![Picture](/assets/images/11062021259p.jpg)
+![Picture](assets/images/11062021259p.jpg)
 
 ## The full length of the selkirk crest
 
-![Picture](/assets/images/11062021225p.jpg)
+![Picture](assets/images/11062021225p.jpg)
 
 ## A hiker enjoying the view fron roman nose summit
 
-![Picture](/assets/images/382c89b8-a0fa-4f76-94fe-994fdaaf9736.jpg)
+![Picture](assets/images/382c89b8-a0fa-4f76-94fe-994fdaaf9736.jpg)
 
 ## Scramblers enjoying the views while sitting on the edge
 
 ---
 
-![Picture](/assets/images/11182021807p.jpg)
+![Picture](assets/images/11182021807p.jpg)
 
 ## This is the view the scramblers above had
 
-![Picture](/assets/images/e926a495-889f-4729-9d4b-28a592b9f5eb.jpg)
+![Picture](assets/images/e926a495-889f-4729-9d4b-28a592b9f5eb.jpg)
 
 ## Amy shooting the lower lake
 
-![Picture](/assets/images/10142023329p.jpg)
+![Picture](assets/images/10142023329p.jpg)
 
 ## Lake #3 from the roman nose nature trail
 
-![Picture](/assets/images/11062021316p.jpg)
+![Picture](assets/images/11062021316p.jpg)
 
 Roman nose peak & fire lookout tower. three months after climbing the right ridge, and having lunch in the tower, it blew down in 2007
 
@@ -274,11 +274,11 @@ Roman nose peak & fire lookout tower. three months after climbing the right ridg
 
 The following newspaper article is from a 1981 accident Can you imagine what was going thru this snowmobiler's head as he flew 650 feet
 
-![Picture](/assets/images/11102023430p.jpg)
+![Picture](assets/images/11102023430p.jpg)
 
 ## I didn't crop this story to preserve some quality
 
-![Picture](/assets/images/1202024703p.jpg)
+![Picture](assets/images/1202024703p.jpg)
 
 ## The history of the sundance fire 9.23.1967
 

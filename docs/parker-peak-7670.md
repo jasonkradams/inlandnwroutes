@@ -59,9 +59,9 @@ Jalapeños, Mr. Sub, Burger Express, Eicharts in Sandpoint
 
 ## Photo gallery
 
-![Picture](/assets/images/8112025444p.jpg)
+![Picture](assets/images/8112025444p.jpg)
 
-![Picture](/assets/images/2021112822-jpeg-1.jpg)
+![Picture](assets/images/2021112822-jpeg-1.jpg)
 
 ## Pyramid pass
 
@@ -71,13 +71,13 @@ Jalapeños, Mr. Sub, Burger Express, Eicharts in Sandpoint
 
 ---
 
-![Picture](/assets/images/p261.png)
+![Picture](assets/images/p261.png)
 
 ## Parker peak 7670’ in back, along parker ridge ​this is a beautiful hike to parker peak
 
 ---
 
-![Picture](/assets/images/p262.png)
+![Picture](assets/images/p262.png)
 
 ## The lions head (l), and smith peak 7653’ on right
 
@@ -89,13 +89,13 @@ Jalapeños, Mr. Sub, Burger Express, Eicharts in Sandpoint
 
 ---
 
-![Picture](/assets/images/p284.png)
+![Picture](assets/images/p284.png)
 
 ## Approaching parker peak along parker ridge
 
 ---
 
-![Picture](/assets/images/p285.png)
+![Picture](assets/images/p285.png)
 
 ## The final ascent along parker ridge, to parker peak
 
@@ -103,15 +103,15 @@ Jalapeños, Mr. Sub, Burger Express, Eicharts in Sandpoint
 
 ## A 300° pano from the summit of parker peak
 
-![Picture](/assets/images/p287.png)
+![Picture](assets/images/p287.png)
 
 ## The trail down the south face of parker peak towards pyramid pass. pyramid peak is top center
 
-![Picture](/assets/images/p174.png)
+![Picture](assets/images/p174.png)
 
 ## Long mountain lake from the parker ridge trail
 
-![Picture](/assets/images/p283.png)
+![Picture](assets/images/p283.png)
 
 ## The trail past long mountain lake
 

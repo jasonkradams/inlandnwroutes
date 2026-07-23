@@ -69,15 +69,15 @@ The Proposed Scotchman Peaks Wilderness, the Cabinet Mountain Wilderness, and lo
 
 Clark Fork Pantry, Squeeze Inn in Clark Fork & Jalapeños, Mr. Sub, Eichardt’s Sandpoint
 
-![Picture](/assets/images/6182025148p.jpg)
+![Picture](assets/images/6182025148p.jpg)
 
 ## Photo gallery
 
-![Picture](/assets/images/4132025435p.jpg)
+![Picture](assets/images/4132025435p.jpg)
 
-![Picture](/assets/images/2020971222-copy.jpg)
+![Picture](assets/images/2020971222-copy.jpg)
 
-![Picture](/assets/images/11112021427p-1.jpg)
+![Picture](assets/images/11112021427p-1.jpg)
 
 This braided log was a beautiful part of the cedars, but someone cut it out a few years ago. what a bummer
 
@@ -97,13 +97,13 @@ This braided log was a beautiful part of the cedars, but someone cut it out a fe
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/11072021310p-1.jpg)
+![Picture](assets/images/11072021310p-1.jpg)
 
 *Picture (Image missing)*
 
 ## Hiking partners david and erwin, standing by a big one
 
-![Picture](/assets/images/p101-1.png)
+![Picture](assets/images/p101-1.png)
 
 ## People build these cool rock cairns, but nature washes them away every spring runoff
 
@@ -121,7 +121,7 @@ This braided log was a beautiful part of the cedars, but someone cut it out a fe
 
 ---
 
-![Picture](/assets/images/11062021150p-1.jpg)
+![Picture](assets/images/11062021150p-1.jpg)
 
 ## The cabinet mountain wilderness from near the ross creek cedars
 

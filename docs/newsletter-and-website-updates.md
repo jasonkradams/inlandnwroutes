@@ -95,7 +95,7 @@ We started working on the [Paddle Routes](paddle/index.md) section. Check back o
 
 [Added Fishtrap Lake Paddle](fishtrap-lake-wa.md)
 
-![Picture](/assets/images/20200525140601.jpg){: data-src="fishtrap-lake-wa.md" }
+![Picture](assets/images/20200525140601.jpg){: data-src="fishtrap-lake-wa.md" }
 
 ---
 
@@ -111,7 +111,7 @@ We started working on the [Paddle Routes](paddle/index.md) section. Check back o
 
 [Added Cedar Lake in the Cabinet Mountain Wilderness](cedar-lake-5914.md)
 
-![Picture](/assets/images/img-0101.jpg){: data-src="cedar-lake-5914.md" }
+![Picture](assets/images/img-0101.jpg){: data-src="cedar-lake-5914.md" }
 
 ---
 
@@ -150,7 +150,7 @@ Cabinet Divide Trail #360. CMW
 
 ​Cliff Lake, Chicago Peak, St. Paul Peak
 
-![Picture](/assets/images/img-6240.jpg){: data-src="little-harrison-lake-6271--peak-7292.md" }
+![Picture](assets/images/img-6240.jpg){: data-src="little-harrison-lake-6271--peak-7292.md" }
 
 ---
 

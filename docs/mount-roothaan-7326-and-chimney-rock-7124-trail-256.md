@@ -108,15 +108,15 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
 ---
 
-![Picture](/assets/images/6182025204p.jpg)
+![Picture](assets/images/6182025204p.jpg)
 
 ## Photo gallery
 
-![Picture](/assets/images/p691.png)
+![Picture](assets/images/p691.png)
 
 ## A glimpse of mount roothaan & chimney rock ​from the pack river road
 
-![Picture](/assets/images/4bb3d440-2070-41db-85f1-a6f6c1e8e241.jpg)
+![Picture](assets/images/4bb3d440-2070-41db-85f1-a6f6c1e8e241.jpg)
 
 ## Pack river from the trailhead bridge
 
@@ -124,7 +124,7 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
 ## Along the west trail to mount roothaan
 
-![Picture](/assets/images/70cdf227-8924-4a60-ac4f-aa9965a84c0c.jpg){: data-src="/assets/images/70cdf227-8924-4a60-ac4f-aa9965a84c0c.jpg" }
+![Picture](assets/images/70cdf227-8924-4a60-ac4f-aa9965a84c0c.jpg){: data-src="assets/images/70cdf227-8924-4a60-ac4f-aa9965a84c0c.jpg" }
 
 ## Chimney rock from the eastern pack river trail
 
@@ -132,7 +132,7 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
 ## Fall colors below the rock, are spectacular
 
-![Picture](/assets/images/p689.png)
+![Picture](assets/images/p689.png)
 
 ## An aerial view of mount roothaan & chimney rock Flown by pilot galen
 
@@ -146,7 +146,7 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
 ## The american selkirks with mt roothan and chimney rock Image is from the wigs trail
 
-![Picture](/assets/images/1d886331-d960-41bb-bfc5-7c9da95a5faa.jpg)
+![Picture](assets/images/1d886331-d960-41bb-bfc5-7c9da95a5faa.jpg)
 
 ## A 1957 summit of chimney rock by spokane mountaineers
 
@@ -154,15 +154,15 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
 ## The east face of chimney rock, after the huge rock slab fell
 
-![Picture](/assets/images/p690.png)
+![Picture](assets/images/p690.png)
 
 ## Spokane mountaineers, frank hefferlin, bill fix, na, helen stowell in 6.1958
 
-![Picture](/assets/images/202159137.jpg)
+![Picture](assets/images/202159137.jpg)
 
 ## A spokane mountaineers climbing party heading towards chimney rock
 
-![Picture](/assets/images/202159130.jpg)
+![Picture](assets/images/202159130.jpg)
 
 ## Chimney rock from mount roothaan
 
@@ -170,7 +170,7 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
 ## A spokane mountaineers climbing party heading to the summit
 
-![Picture](/assets/images/0685b642-af6a-48fd-ab60-7de91ee0df6d.jpg)
+![Picture](assets/images/0685b642-af6a-48fd-ab60-7de91ee0df6d.jpg)
 
 ## From along the selkirk crest high traverse, ​chimney rock & mt. roothaan in back
 

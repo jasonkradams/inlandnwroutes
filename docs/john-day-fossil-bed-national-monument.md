@@ -105,17 +105,17 @@ NA
 
 As you scroll down thru the maps and images, keep in mind, i only used a polarizing filter to bring the colors up
 
-![Picture](/assets/images/2021116-10-jpeg-1.jpg)
+![Picture](assets/images/2021116-10-jpeg-1.jpg)
 
 ## Overall map of the john day fossil bed national monument
 
 ---
 
-![Picture](/assets/images/2021116-11-jpeg-1.jpg)
+![Picture](assets/images/2021116-11-jpeg-1.jpg)
 
 ## The blue basin area
 
-![Picture](/assets/images/2021116-12-jpeg-1.jpg)
+![Picture](assets/images/2021116-12-jpeg-1.jpg)
 
 ## Thomas condon paleontology & vistor center
 
@@ -127,7 +127,7 @@ As you scroll down thru the maps and images, keep in mind, i only used a polariz
 
 ## These columns are solid fossils
 
-![Picture](/assets/images/2021116-15-jpeg-1.jpg)
+![Picture](assets/images/2021116-15-jpeg-1.jpg)
 
 ## Fossil columns
 
@@ -135,7 +135,7 @@ As you scroll down thru the maps and images, keep in mind, i only used a polariz
 
 ## The painted hills unit
 
-![Picture](/assets/images/2021116-18-jpeg-1.jpg)
+![Picture](assets/images/2021116-18-jpeg-1.jpg)
 
 ## Painted hills unit
 
@@ -147,13 +147,13 @@ As you scroll down thru the maps and images, keep in mind, i only used a polariz
 
 ---
 
-![Picture](/assets/images/2021116-20-jpeg-1.jpg)
+![Picture](assets/images/2021116-20-jpeg-1.jpg)
 
 ## Painted hills unit
 
 ---
 
-![Picture](/assets/images/2021116-21-jpeg-1.jpg)
+![Picture](assets/images/2021116-21-jpeg-1.jpg)
 
 ## The leaf hill trail & painted cove trail map
 

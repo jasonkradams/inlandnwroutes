@@ -83,7 +83,7 @@ Pizza Factory, 1313 Club and Muchacho’s Tacos in Wallace
 
 ## The hub lake trail near the start
 
-![Picture](/assets/images/20211164133-jpeg-1.jpg)
+![Picture](assets/images/20211164133-jpeg-1.jpg)
 
 Dipper falls along the trail to hub lake. in late summer and fall, the falls cascade off of each other. hence there are dozens of ladles, or dippers
 
@@ -91,7 +91,7 @@ Dipper falls along the trail to hub lake. in late summer and fall, the falls cas
 
 This image was taken on 10.7.2025. as you can see, the flow is low,  But still spectacular to see. Image by chris herath
 
-![Picture](/assets/images/1082025854p.jpg)
+![Picture](assets/images/1082025854p.jpg)
 
 ## Hub lake from eagle peak
 

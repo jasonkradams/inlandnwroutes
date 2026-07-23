@@ -75,7 +75,7 @@ Harvest Restaurant in Spangle. Lenny’s in Cheney.
 
 Click for Current NOAA Weather Conditions
 
-![Picture](/assets/images/6182025212p.jpg)
+![Picture](assets/images/6182025212p.jpg)
 
 ## Photo gallery
 

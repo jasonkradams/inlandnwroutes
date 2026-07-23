@@ -20,7 +20,7 @@ The Saltese Highlands conservation area is a great place to ride in the spring a
 
 ---
 
-![Picture](/assets/images/202204171030-turtle-gulch.jpg)
+![Picture](assets/images/202204171030-turtle-gulch.jpg)
 
 ## Turtle gulch and uplands loop junction
 
@@ -32,6 +32,6 @@ The Saltese Highlands conservation area is a great place to ride in the spring a
 
 ---
 
-![Picture](/assets/images/202204171035-uplands-summit-junction.jpg)
+![Picture](assets/images/202204171035-uplands-summit-junction.jpg)
 
 ## Uplands loop and summit loop junction

@@ -75,7 +75,7 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/212022356p.jpg)
+![Picture](assets/images/212022356p.jpg)
 
 ## Near the west trailhead
 
@@ -85,6 +85,6 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 ## Up steam from the west trailhead
 
-![Picture](/assets/images/212022402p.jpg)
+![Picture](assets/images/212022402p.jpg)
 
 ## FROM A HIGH POINT ALONG THE COEUR d’ALENE RIVER

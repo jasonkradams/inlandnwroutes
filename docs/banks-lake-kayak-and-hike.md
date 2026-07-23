@@ -81,16 +81,16 @@ NA
 
 ## Steamboat Rock
 
-![Picture](/assets/images/img-6202.jpg)
+![Picture](assets/images/img-6202.jpg)
 
 ## The Hike
 
-![Picture](/assets/images/4241139.jpg)
+![Picture](assets/images/4241139.jpg)
 
 ## Two hikers on top of steamboat rock
 
-![Picture](/assets/images/img-6193.jpg)
+![Picture](assets/images/img-6193.jpg)
 
 ## Two Hikers on Top
 
-![Picture](/assets/images/img-6194.jpg)
+![Picture](assets/images/img-6194.jpg)

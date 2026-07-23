@@ -81,7 +81,7 @@ Towell falls, escure ranch, washington scablands
 
 <div class="grid cards" markdown>
 
-- ![Picture](/assets/images/img-2579.jpg)
+- ![Picture](../assets/images/img-2579.jpg)
 
 </div>
 
@@ -111,7 +111,7 @@ Palouse falls, washington
 
 <div class="grid cards" markdown>
 
-- ![Picture](/assets/images/dsc-0399.jpg)
+- ![Picture](../assets/images/dsc-0399.jpg)
 
 </div>
 
@@ -124,7 +124,7 @@ Kootenai falls, montana
 
 <div class="grid cards" markdown>
 
-- ![Picture](/assets/images/img-1239.jpg)
+- ![Picture](../assets/images/img-1239.jpg)
 
 </div>
 
@@ -146,7 +146,7 @@ Hunt Creek Falls, American Selkirks.
 
 <div class="grid cards" markdown>
 
-- ![Picture](/assets/images/dsc-0675.jpg)
+- ![Picture](../assets/images/dsc-0675.jpg)
 
 </div>
 
@@ -159,7 +159,7 @@ St. paul lake falls, cabinet mountain wilderness, mt.
 
 <div class="grid cards" markdown>
 
-- ![Picture](/assets/images/img-0203.jpg)
+- ![Picture](../assets/images/img-0203.jpg)
 
 </div>
 
@@ -186,7 +186,7 @@ Leigh lake, cabinet mountain wilderness, mt.
 
 <div class="grid cards" markdown>
 
-- ![Picture](/assets/images/img-1198.jpg)
+- ![Picture](../assets/images/img-1198.jpg)
 
 </div>
 

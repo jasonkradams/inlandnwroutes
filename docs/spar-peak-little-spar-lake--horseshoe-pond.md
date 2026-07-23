@@ -145,7 +145,7 @@ Clark Fork Pantry in Clark Fork, Jalapeños in Sandpoint. Henry's and The Shed i
 
 ## Photo gallery
 
-![Picture](/assets/images/8312022202p.jpg)
+![Picture](assets/images/8312022202p.jpg)
 
 ## Spar peak 6585' and unnamed tower along the trail in ​image by chris h
 
@@ -157,27 +157,27 @@ Clark Fork Pantry in Clark Fork, Jalapeños in Sandpoint. Henry's and The Shed i
 
 ## The south wall above spar creek stretches over a mile ​image by chris h
 
-![Picture](/assets/images/8312022219p.jpg)
+![Picture](assets/images/8312022219p.jpg)
 
 ## Upper spar creek on the way to spar lake Image by chris h
 
-![Picture](/assets/images/8312022223p.jpg)
+![Picture](assets/images/8312022223p.jpg)
 
 ## A great place to have a snack along the nne end of little spar lake ​image by chris h
 
-![Picture](/assets/images/8312022233p.jpg)
+![Picture](assets/images/8312022233p.jpg)
 
 ## We cut directly up, my favorite direction, Thru the woods until we broke out with this view
 
-![Picture](/assets/images/8312022238p.jpg)
+![Picture](assets/images/8312022238p.jpg)
 
 ## Chris hiking above little spar lake towards horseshoe pond
 
-![Picture](/assets/images/8312022241p.jpg)
+![Picture](assets/images/8312022241p.jpg)
 
 A pano view of the cliffs above trail #143 Way far off in the distance is sugarloaf mountain 7566'.  ​the tower next to spar peak. Little spar lake
 
-![Picture](/assets/images/20221000527.jpg)
+![Picture](assets/images/20221000527.jpg)
 
 ## Mountaineer darcy on top of spar peak
 
@@ -189,7 +189,7 @@ A pano view of the cliffs above trail #143 Way far off in the distance is sugarl
 
 ## The peninsula at horseshoe pond ​image by chris h
 
-![Picture](/assets/images/8192024344p.jpg)
+![Picture](assets/images/8192024344p.jpg)
 
 ## Horseshoe pond pano
 
@@ -197,7 +197,7 @@ A pano view of the cliffs above trail #143 Way far off in the distance is sugarl
 
 ## The view west from horseshoe pond Scotchman peak #2 on left ​image by chris h
 
-![Picture](/assets/images/9120221142a.jpg)
+![Picture](assets/images/9120221142a.jpg)
 
 ## On the return hike, views of little spar lake are incredible
 

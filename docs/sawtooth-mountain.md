@@ -73,11 +73,11 @@ Click for Current NOAA Weather Conditions
 
 ## This is the view that said to me, "come climb me", from heron, mt
 
-![Picture](/assets/images/20200507185535.jpg)
+![Picture](assets/images/20200507185535.jpg)
 
 ## Middle mountain west of sawtooth mountain
 
-![Picture](/assets/images/2021115225-jpeg-1.jpg)
+![Picture](assets/images/2021115225-jpeg-1.jpg)
 
 ## The group after climbing a killer scree slope, on way to sawtooth
 
@@ -85,7 +85,7 @@ Click for Current NOAA Weather Conditions
 
 ## Sawtooth mountain from the high ridge 600 verts
 
-![Picture](/assets/images/2021115228-jpeg-1.jpg)
+![Picture](assets/images/2021115228-jpeg-1.jpg)
 
 ## A spectacular view that few have ever seen, from sawtooth mountain
 
@@ -93,15 +93,15 @@ Click for Current NOAA Weather Conditions
 
 ## On the way to the top of sawtooth peak, ​sandy pointed out scotchman peak
 
-![Picture](/assets/images/20200508061142.jpg)
+![Picture](assets/images/20200508061142.jpg)
 
 ## The descent route from sawtooth mountain. billiard table mt. top center
 
-![Picture](/assets/images/11072021629p.jpg)
+![Picture](assets/images/11072021629p.jpg)
 
 ## Billiard table mountain 6622' ​ on the left with star peak 6167' lookout on the right
 
-![Picture](/assets/images/11072021631p.jpg)
+![Picture](assets/images/11072021631p.jpg)
 
 ## Star peak from the side of sawtooth mountain
 

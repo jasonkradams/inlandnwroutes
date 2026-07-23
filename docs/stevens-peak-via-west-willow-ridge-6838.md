@@ -89,7 +89,7 @@ The terrain is steep and sustained for several miles.
 
 ---
 
-![Picture](/assets/images/2021115353880-jpeg-1.jpg){: data-src="/assets/images/2021115353880-jpeg-1.jpg" }
+![Picture](assets/images/2021115353880-jpeg-1.jpg){: data-src="assets/images/2021115353880-jpeg-1.jpg" }
 
 ## An old abandon boom truck just before the summit ridge, ​on the idaho centennial trail
 
@@ -101,43 +101,43 @@ The terrain is steep and sustained for several miles.
 
 ---
 
-![Picture](/assets/images/20200529095059.jpg)
+![Picture](assets/images/20200529095059.jpg)
 
 ## An old geeeezer chuggin’ along west willow ridge. ​image by amy v
 
 ---
 
-![Picture](/assets/images/11062021158p.jpg)
+![Picture](assets/images/11062021158p.jpg)
 
 ## The willow ridge line to stevens peak 6838'
 
-![Picture](/assets/images/20200529095120.jpg)
+![Picture](assets/images/20200529095120.jpg)
 
 There’s nothing like a great spot, with friends and views to enjoy a high mountain lunch. image by david crafton
 
 ---
 
-![Picture](/assets/images/20200530094743.jpg)
+![Picture](assets/images/20200530094743.jpg)
 
 Mountain blue birds. there are small flocks of them on most of the peaks around here. image by david crafton
 
 ---
 
-![Picture](/assets/images/20200530094803.jpg)
+![Picture](assets/images/20200530094803.jpg)
 
 From the summit of stevens peak, is this view of upper & lower stevens lakes on the right, with lone lake on the left side of the divide. ​
 
 ---
 
-![Picture](/assets/images/p377.png)
+![Picture](assets/images/p377.png)
 
 ## Amy taking a selfie out on the edge
 
-![Picture](/assets/images/p378.png)
+![Picture](assets/images/p378.png)
 
 ## Long lake and the upper sanctuary, with lone lake below
 
-![Picture](/assets/images/p379.png)
+![Picture](assets/images/p379.png)
 
 ## Co-author david crafton, and hiking partner amy v. descending stevens peak’s west willow ridge
 
@@ -151,7 +151,7 @@ From the summit of stevens peak, is this view of upper & lower stevens lakes on 
 
 Up high on the idaho centennial trail ​above the upper sanctuary, lone lake ​image by vanette leighty
 
-![Picture](/assets/images/3302023709p.jpg)
+![Picture](assets/images/3302023709p.jpg)
 
 ## The south wall of the upper sanctuary at lone lake, stevens peak area ​image by vanette leighty
 

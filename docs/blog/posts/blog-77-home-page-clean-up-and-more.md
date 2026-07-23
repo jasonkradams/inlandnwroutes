@@ -1,0 +1,66 @@
+---
+title: "Blog #77: Home page clean up and more"
+date: 2024-10-28
+authors:
+  - chic
+  - david
+categories:
+  - Wildfire & Closures
+---
+
+I visited David last week to discuss some ideas we both had for our website.
+
+<!-- more -->
+
+In the process of cleaning up our HOME PAGE, we decided to move our FOREST ALERTS to the individual trip write ups.
+The reason we decided to move this very important info to the write ups, is so you can check for any kind of issues, trying to get to the trailheads.
+
+Years ago, a friend and I were driving up to hike into Long Mountain Lake & Peak.
+As we drove the frontage road of the American Selkirks, we came up to a bridge that was being replaced.
+Our turnoff was about 300’ past the bridge work, we intended to drive up.
+We eventually had to drive back to Bonners Ferry and drove up 95 to near the Canadian border, to Copeland, and down to our forest road.
+All this took about an extra hour or so to reach the trailhead.
+
+It was on that trip that I decided to do two things to our website.
+
+1st…I always advise hikers planning a trip, to call or get online to see if their trip would be affected by any kind of forest closures or delays.
+2nd…it is very important that you tell a responsible person your itinerary, your exact route of hiking, and when to notify the local sheriff’s office, if you are overdue or late.
+If you have to change your destination, you must call your responsible person to let them know of your changes.
+If you don’t, and are late or injured, the search parties may be looking in the wrong location for you.
+
+Both of these are critical in case of an unfortunate accident.
+
+Two bear air rescue service
+
+We are very fortunate to have a rescue service close by to get us out of the woods and to an ambulance or hospital.
+
+Two years ago, I was leading a snowshoe (sshoe) next to Stevens Lakes.
+One of the participants, slipped and tore her Achilles Tendon off the behind. She could not walk or even stand up.
+I called 911, and the Shoshone County Sheriff, dispatched a three person rescue crew to us.
+
+Please keep in mind, it takes hours for a rescue crew to get to the accident site.
+
+Once the Shoshone County S&R leader got to us, the leader called TWO BEAR AIR.
+
+They are stationed out of Kalispell, so it took time for them to get to us.
+But when they were hovering above us, I realized my friend was going to get out, without a difficult and complicated rescue.
+
+Altho that was a great help in getting her out, the very best part, is….TWO BEAR AIR is a free rescue service.
+It cost my friend ZERO $.
+She was air lifted to Lookout Ski Areas parking lot, where an ambulance was waiting.
+
+So the moral to ALL of this is simple.
+Stuff happen in the mountains.
+Please prepare for all unforeseen incidents.
+
+David and my goal is to provide you with the best knowledge we can.
+By doing this, you can plan your trip, or know what’s available to you, before you even put on your boots.
+
+Please check out our RESOURCES, HINTS and MEDICAL INFO  sections for more important information, that everyone NEEDS TO KNOW.
+
+Thank You for reading and using our local website.
+Please be safe and learn what we all need to know to have "too much fun in the mountains".
+
+Chic       David
+
+InlandNWRoutes.com

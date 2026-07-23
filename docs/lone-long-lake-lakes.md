@@ -101,9 +101,9 @@ I tried a new technic and below are the results. ​by doing this, i can take ti
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/5192026416p.jpg)
+![Picture](assets/images/5192026416p.jpg)
 
-![Picture](/assets/images/5192026417p.jpg)
+![Picture](assets/images/5192026417p.jpg)
 
 *Picture (Image missing)*
 
@@ -123,25 +123,25 @@ I tried a new technic and below are the results. ​by doing this, i can take ti
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/p115.png)
+![Picture](assets/images/p115.png)
 
 ---
 
 ---
 
-![Picture](/assets/images/p116.png)
+![Picture](assets/images/p116.png)
 
 ---
 
 ## The below 5 images are from the spokane mountaineers fall 2019 trail work party and clean up
 
-![Picture](/assets/images/p117.png)
+![Picture](assets/images/p117.png)
 
-![Picture](/assets/images/p118.png)
+![Picture](assets/images/p118.png)
 
 ## Chopping out a stump in the trail
 
-![Picture](/assets/images/p537.png)
+![Picture](assets/images/p537.png)
 
 ## Chopping out a stump along the lone lake trail
 
@@ -161,7 +161,7 @@ I tried a new technic and below are the results. ​by doing this, i can take ti
 
 ---
 
-![Picture](/assets/images/p79.png)
+![Picture](assets/images/p79.png)
 
 ## The smi 2018 fall trails crew
 
@@ -173,13 +173,13 @@ I tried a new technic and below are the results. ​by doing this, i can take ti
 
 ---
 
-![Picture](/assets/images/p82.png)
+![Picture](assets/images/p82.png)
 
 ## A hiker fly fishing on lone lake
 
 ---
 
-![Picture](/assets/images/p119.png)
+![Picture](assets/images/p119.png)
 
 ## Hiking in the fog, often produces great images
 
@@ -193,25 +193,25 @@ I tried a new technic and below are the results. ​by doing this, i can take ti
 
 ## Below are images from what i call "the upper sanctuary"
 
-![Picture](/assets/images/p85.png)
+![Picture](assets/images/p85.png)
 
 ## A pano from the upper sanctuary
 
 ---
 
-![Picture](/assets/images/p86.png)
+![Picture](assets/images/p86.png)
 
 ## fall 2019 in the sanctuary
 
 ---
 
-![Picture](/assets/images/p87.png)
+![Picture](assets/images/p87.png)
 
 ## The ridge line north of stevens peak, called willow ridge
 
 ---
 
-![Picture](/assets/images/p89.png)
+![Picture](assets/images/p89.png)
 
 ## Super trail hero/boss, lynn smith ​ points out features on the nw face of stevens peak
 
@@ -223,7 +223,7 @@ I tried a new technic and below are the results. ​by doing this, i can take ti
 
 ---
 
-![Picture](/assets/images/p91.png)
+![Picture](assets/images/p91.png)
 
 ## A waxing moon from the sanctuary
 

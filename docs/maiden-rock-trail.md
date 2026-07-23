@@ -86,14 +86,14 @@ Moon Time, Franklins Hoagies, the Mexican Food Factory, and the Trails End Brewe
 
 ## Swimming at maiden rock
 
-![Picture](/assets/images/11072021404p.jpg)
+![Picture](assets/images/11072021404p.jpg)
 
 ## Maiden rock shoreline
 
-![Picture](/assets/images/11072021407p.jpg)
+![Picture](assets/images/11072021407p.jpg)
 
 Looking north. granite point is on the right. The proposed scotchmans peak wilderness, ​and scotchmans peak is mid image
 
-![Picture](/assets/images/11072021408p.jpg)
+![Picture](assets/images/11072021408p.jpg)
 
 ## A telephoto of scotchmans peak right of center

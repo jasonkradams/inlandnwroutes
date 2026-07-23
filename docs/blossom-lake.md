@@ -99,17 +99,17 @@ The Snake Pit, the Sprag Pole Bar & Museum.
 
 ## Photo gallery
 
-![Picture](/assets/images/2021116-8-jpeg-1.jpg)
+![Picture](assets/images/2021116-8-jpeg-1.jpg)
 
 ## The trail to blossom near the lower lake
 
 ---
 
-![Picture](/assets/images/812024320p.jpg)
+![Picture](assets/images/812024320p.jpg)
 
 ## Lower blossom lake in mid summer
 
-![Picture](/assets/images/812024331p.jpg)
+![Picture](assets/images/812024331p.jpg)
 
 ---
 
@@ -117,36 +117,36 @@ The Snake Pit, the Sprag Pole Bar & Museum.
 
 ---
 
-![Picture](/assets/images/p352.png)
+![Picture](assets/images/p352.png)
 
 ## Lower blossom lake from west end
 
 ---
 
-![Picture](/assets/images/p353.png)
+![Picture](assets/images/p353.png)
 
 ## Lower blossom lake from the ridge between blossom & revett lakes
 
 ---
 
-![Picture](/assets/images/812024336p.jpg)
+![Picture](assets/images/812024336p.jpg)
 
 ## Lower blossom lake, showing the upper valley that holds the upper blossom lake
 
-![Picture](/assets/images/812024412p.jpg)
+![Picture](assets/images/812024412p.jpg)
 
 ## Look for this trail sign at the junction
 
-![Picture](/assets/images/812024347p.jpg)
+![Picture](assets/images/812024347p.jpg)
 
 ## Upper blossom lake
 
-![Picture](/assets/images/p354.png)
+![Picture](assets/images/p354.png)
 
 ## Pear lake wth trail #7 ridge line
 
 ---
 
-![Picture](/assets/images/812024353p.jpg)
+![Picture](assets/images/812024353p.jpg)
 
 ## Pear lake below trail #7 ridge

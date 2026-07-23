@@ -97,7 +97,7 @@ Squeeze Inn and the Clark Fork Pantry on Clark Fork. Jalapeños, Mr. Sub, Burghe
 
 ---
 
-![Picture](/assets/images/p382.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p382_orig.png" }
+![Picture](assets/images/p382.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p382_orig.png" }
 
 ## Moose Lake Trail System Map
 
@@ -111,19 +111,19 @@ Squeeze Inn and the Clark Fork Pantry on Clark Fork. Jalapeños, Mr. Sub, Burghe
 
 ---
 
-![Picture](/assets/images/2021115307-jpeg-1.jpg)
+![Picture](assets/images/2021115307-jpeg-1.jpg)
 
 ## Chris on the trail to lake estelle
 
 ---
 
-![Picture](/assets/images/2021115308-jpeg-1.jpg)
+![Picture](assets/images/2021115308-jpeg-1.jpg)
 
 As the trail nears lake estelle, it circles a ridge point before gently climbing into the lake estelle basin
 
 ---
 
-![Picture](/assets/images/2021115309-jpeg-1.jpg)
+![Picture](assets/images/2021115309-jpeg-1.jpg)
 
 ## There are two camp sites to the right, And one to the left as you come to the lake
 

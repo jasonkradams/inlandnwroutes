@@ -71,14 +71,14 @@ Radio Brewing in Kellogg, City Limits Pub in Wallace
 
 ## St Joe Lake
 
-![Picture](/assets/images/img-1826-1.jpg)
+![Picture](assets/images/img-1826-1.jpg)
 
-![Picture](/assets/images/img-1845-1.jpg)
+![Picture](assets/images/img-1845-1.jpg)
 
-![Picture](/assets/images/img-6082-1-1.jpg)
+![Picture](assets/images/img-6082-1-1.jpg)
 
-![Picture](/assets/images/img-1878-1-1.jpg)
+![Picture](assets/images/img-1878-1-1.jpg)
 
-![Picture](/assets/images/img-1865-1.jpg)
+![Picture](assets/images/img-1865-1.jpg)
 
-![Picture](/assets/images/img-1878-2.jpg)
+![Picture](assets/images/img-1878-2.jpg)

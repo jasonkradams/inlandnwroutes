@@ -94,11 +94,11 @@ Click for Current NOAA Weather Conditions
 
 ## Kootenai falls. the bowl on the right is very photogenic
 
-![Picture](/assets/images/11122012838.jpg)
+![Picture](assets/images/11122012838.jpg)
 
 ## This is a view of the falls at tis widest
 
-![Picture](/assets/images/11122012840.jpg)
+![Picture](assets/images/11122012840.jpg)
 
 ## The river rounds one island then another as it winds down its course
 
@@ -118,18 +118,18 @@ Click for Current NOAA Weather Conditions
 
 ## Opd posing for me as he moves into place for these unusual images
 
-![Picture](/assets/images/28140028.jpg)
+![Picture](assets/images/28140028.jpg)
 
 ## The photo ops are everywhere if you just look
 
-![Picture](/assets/images/28140025.jpg)
+![Picture](assets/images/28140025.jpg)
 
 ## During run off, this area is inundated with raging water
 
-![Picture](/assets/images/28140017.jpg)
+![Picture](assets/images/28140017.jpg)
 
 ## As the water moves, it creates many photo ops
 
-![Picture](/assets/images/img-0635.jpg)
+![Picture](assets/images/img-0635.jpg)
 
 David, our it guy on the left, with erwin on the swinging bridge Although the stromalites aren't in this image, they are below the bridge

@@ -111,6 +111,6 @@ In 1993 on my way h0me from a climbing trip in the n. cascades, i stopped by dry
 
 ## The plunge pool below dry falls rim at twilight
 
-![Picture](/assets/images/12032021616p.jpg)
+![Picture](assets/images/12032021616p.jpg)
 
 ## Most of the clean up crew, standing by the truck of trash

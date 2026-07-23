@@ -109,7 +109,7 @@ Built in 1932, this gabled-roofed L-4 cab atop a 10' tower was abruptly destroye
 
 ## A horse pack team delivering supplies to the lookout
 
-![Picture](/assets/images/11072021317p.jpg)
+![Picture](assets/images/11072021317p.jpg)
 
 ## A telephoto shoot of mount roothaan & chimney rock ​image by chris herath
 
@@ -117,7 +117,7 @@ Built in 1932, this gabled-roofed L-4 cab atop a 10' tower was abruptly destroye
 
 ## A telephoto shoot of harrison peak to the north ​image by chris herath
 
-![Picture](/assets/images/2021115329-jpeg-1.jpg)
+![Picture](assets/images/2021115329-jpeg-1.jpg)
 
 When you drop your pack and turn east, the view is outstanding. ​the entire american selkirks is before you
 
@@ -131,7 +131,7 @@ When you drop your pack and turn east, the view is outstanding. ​the entire am
 
 ## If only this outhouse could talk
 
-![Picture](/assets/images/p399.png)
+![Picture](assets/images/p399.png)
 
 ## An outhouse with a view
 

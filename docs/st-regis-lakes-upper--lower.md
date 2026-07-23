@@ -68,30 +68,30 @@ Radio Brewing in Kellogg, Pizza Factory, 1313 Club, and Muchacho’s Tacos in Wa
 
 ## Photo gallery
 
-![Picture](/assets/images/p299.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p299_orig.png" }
+![Picture](assets/images/p299.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p299_orig.png" }
 
 ## The trail into st. regis lakes along the headwaters of the st. regis river
 
-![Picture](/assets/images/p300.png)
+![Picture](assets/images/p300.png)
 
 ## The north wall of st. regis river valley
 
-![Picture](/assets/images/p301.png)
+![Picture](assets/images/p301.png)
 
 ## The west wall of st. regis river. l. & u. stevens lake are on the other side
 
-![Picture](/assets/images/p302.png)
+![Picture](assets/images/p302.png)
 
 ## Chic scrambling up to the id. mt. state lines above st. regis lake ​image by tony kozlowski
 
-![Picture](/assets/images/112026435p.jpg)
+![Picture](assets/images/112026435p.jpg)
 
 This is the state line ridge sw of st. regis lake On the opposite side of this ridge is the lower & upper stevens lakes
 
-![Picture](/assets/images/p303.png)
+![Picture](assets/images/p303.png)
 
 ## The state line ridge from above st. regis lake. see below. ​
 
-![Picture](/assets/images/p304.png)
+![Picture](assets/images/p304.png)
 
 Upper st. regis lake. the first lake you come to is the upper lake. stevens peak & just the corner of upper stevens lake on the right

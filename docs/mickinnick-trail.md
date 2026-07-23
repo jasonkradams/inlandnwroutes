@@ -65,11 +65,11 @@ Jalapeños, Burger Express, Eichardt’s, Mr. Sub
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/4132025422p.jpg)
+![Picture](assets/images/4132025422p.jpg)
 
-![Picture](/assets/images/103120231110p.jpg)
+![Picture](assets/images/103120231110p.jpg)
 
-![Picture](/assets/images/103120231010p.jpg)
+![Picture](assets/images/103120231010p.jpg)
 
 ## The trailhead to the mickinnick trail ​image by rick nolting
 
@@ -77,7 +77,7 @@ Jalapeños, Burger Express, Eichardt’s, Mr. Sub
 
 ## The mickinnik hike from gold hill Image by rick nolting
 
-![Picture](/assets/images/103120231007p.jpg)
+![Picture](assets/images/103120231007p.jpg)
 
 ## The mickinnick hike from gold hill Image by rick nolting
 
@@ -85,10 +85,10 @@ Jalapeños, Burger Express, Eichardt’s, Mr. Sub
 
 ## The mickinnick hike from gold hill Image by rick nolting
 
-![Picture](/assets/images/103120231041p.jpg)
+![Picture](assets/images/103120231041p.jpg)
 
 ## Snowshoeing near the summit of the mickinnick trail ​image by rick nolting
 
-![Picture](/assets/images/103120231044p.jpg)
+![Picture](assets/images/103120231044p.jpg)
 
 ## Sandpoint from the summit of the mickinnick trail Image by rick nolting

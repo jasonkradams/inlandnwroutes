@@ -4,7 +4,7 @@
 
 ---
 
-![Picture](/assets/images/img-0203.jpg)
+![Picture](assets/images/img-0203.jpg)
 
 I was born and raised at the base of the Sierra Nevada's. I've been hiking, climbing, skiing and peak bagging in those mountains since my late teen's. In my twenties I guided mountaineering trips in all seasons: Fall climbing in Yosemite, Winter snow and ice travel in the Desolation Wilderness, and in Spring we would put it all together and bag Shasta.
 

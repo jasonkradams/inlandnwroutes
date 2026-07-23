@@ -80,20 +80,20 @@ Click for Current NOAA Weather Conditions
 
 ## Lower section of myrtle falls
 
-![Picture](/assets/images/28150033.jpg)
+![Picture](assets/images/28150033.jpg)
 
 ## Below the lower section pictured above
 
-![Picture](/assets/images/28140006.jpg)
+![Picture](assets/images/28140006.jpg)
 
 ## Myrtle creek down creek from  the bridge
 
-![Picture](/assets/images/28140010.jpg)
+![Picture](assets/images/28140010.jpg)
 
 ## Myrtle creek
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/28140007.jpg)
+![Picture](assets/images/28140007.jpg)
 
 *Picture (Image missing)*

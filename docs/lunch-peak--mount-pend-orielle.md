@@ -79,11 +79,11 @@ Mr. Sub, Eichardt’s, Jalapeños and the Burger Express.
 
 ## This incredible trail starts near the lunch peak lookout rental ​image by chris herath
 
-![Picture](/assets/images/7262025318p.jpg)
+![Picture](assets/images/7262025318p.jpg)
 
 ## This is the view from the lunch peak rental lookout, of the selkirks Can you spot chimney rock?
 
-![Picture](/assets/images/7262025354p.png)
+![Picture](assets/images/7262025354p.png)
 
 ## Along trail #67 there are three scree slopes to cross
 
@@ -91,19 +91,19 @@ Mr. Sub, Eichardt’s, Jalapeños and the Burger Express.
 
 ## The view from along trail #67. in the distance is the american selkirks ​image by chris herath
 
-![Picture](/assets/images/7262025323p.jpg)
+![Picture](assets/images/7262025323p.jpg)
 
 ## Trail #67 has several long near level sections that make the trail enjoyable
 
-![Picture](/assets/images/7262025338p.jpg)
+![Picture](assets/images/7262025338p.jpg)
 
 Lake darling sits off to the east of trail #67 Above lake darling is snowshoe and a peaks, c.m.w. ​image by chris herath
 
-![Picture](/assets/images/7262025345p.jpg)
+![Picture](assets/images/7262025345p.jpg)
 
 ## As trail #67 drops and does a switchback, ​the view of mount pend oreille comes into view
 
-![Picture](/assets/images/7262025408p.jpg)
+![Picture](assets/images/7262025408p.jpg)
 
 ## As the trail breaks out of the woods The trail comes up towards mount pend oreille
 
@@ -111,19 +111,19 @@ Lake darling sits off to the east of trail #67 Above lake darling is snowshoe an
 
 ## Trail #67 as it starts its climb toward mount pend oreille ​image by chris herath
 
-![Picture](/assets/images/7262025420p.jpg)
+![Picture](assets/images/7262025420p.jpg)
 
 ## This is the first sight of pend oreille lake to the south Image by chris herath
 
-![Picture](/assets/images/7262025404p.jpg)
+![Picture](assets/images/7262025404p.jpg)
 
 ## The summit of mount pend oreille and the collapsed fire lookout
 
-![Picture](/assets/images/7262025426p.jpg)
+![Picture](assets/images/7262025426p.jpg)
 
 ## The only remanence of the old fire lookout
 
-![Picture](/assets/images/7262025440p.jpg)
+![Picture](assets/images/7262025440p.jpg)
 
 ## After lunch, a nap is always a great idea
 
@@ -131,7 +131,7 @@ Lake darling sits off to the east of trail #67 Above lake darling is snowshoe an
 
 ## To the east are the spectacular views of the cabinet mountain wilderness ​image by chris herath
 
-![Picture](/assets/images/7262025437p.jpg)
+![Picture](assets/images/7262025437p.jpg)
 
 ​looking east are the two highest peaks in the cabinet mountain wilderness THE PEAKS ARE A PEAK 8634v AND SNOWSHOE PEAK 8738v ​image by chris herath
 
@@ -139,7 +139,7 @@ Lake darling sits off to the east of trail #67 Above lake darling is snowshoe an
 
 ## To the west is the american selkirks
 
-![Picture](/assets/images/7262025446p.jpg)
+![Picture](assets/images/7262025446p.jpg)
 
 As we left the summit, the views of pend oreille lake ​and wildflowers were everywhere ​image by chris herath
 
@@ -157,7 +157,7 @@ On our way down from the trailhead, ​this view required us to photograph it �
 
 ## This image is the same area, of the july 2023, lightening creek fire
 
-![Picture](/assets/images/7262025535p.jpg)
+![Picture](assets/images/7262025535p.jpg)
 
 ---
 

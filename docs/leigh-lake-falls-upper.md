@@ -95,7 +95,7 @@ Click for Current NOAA Weather Conditions
 
 ## As you walk out to the in the early spring, glacier lilies are all around
 
-![Picture](/assets/images/11132021536.jpg)
+![Picture](assets/images/11132021536.jpg)
 
 ## This is the first big falls along the north shoreline
 
@@ -107,7 +107,7 @@ Click for Current NOAA Weather Conditions
 
 ## Although this cascade is only 600' tall, it is spectacular to paddle by
 
-![Picture](/assets/images/11132021628.jpg)
+![Picture](assets/images/11132021628.jpg)
 
 ## A snow terminus, towers above paddlers. ​the center ridge line above is over 1500'
 
@@ -127,7 +127,7 @@ Icebergs float on leigh lake. ​all the vertical groves in the background, have
 
 ## Snow levels are about 30+ feet pre year. ​jane poses for an image before the terminus
 
-![Picture](/assets/images/11132021652.jpg)
+![Picture](assets/images/11132021652.jpg)
 
 They say, the majority of a berg is below the berg ​this berg's lower section shows 60' below the surface
 
@@ -135,7 +135,7 @@ They say, the majority of a berg is below the berg ​this berg's lower section 
 
 ## Each snow terminus or snow field up high ​produces gigantic amounts of snow Photo by deb pierce
 
-![Picture](/assets/images/11132021654.jpg)
+![Picture](assets/images/11132021654.jpg)
 
 ## Along the west wall dozens of falls drop to the lake
 

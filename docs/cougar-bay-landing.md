@@ -58,16 +58,16 @@ The Mexican Food Factory, Trails End Brewery, Franklins Hoagies, and the Moon Ti
 
 ## Please everyone...heed this health alert
 
-![Picture](/assets/images/5132025306p-2.jpg)
+![Picture](assets/images/5132025306p-2.jpg)
 
 ## There is more to do in cougar bay then paddling around
 
-![Picture](/assets/images/11092021955p.jpg)
+![Picture](assets/images/11092021955p.jpg)
 
-![Picture](/assets/images/11092021957p.jpg)
+![Picture](assets/images/11092021957p.jpg)
 
-![Picture](/assets/images/11092021959p.jpg)
+![Picture](assets/images/11092021959p.jpg)
 
-![Picture](/assets/images/110920211000p.jpg)
+![Picture](assets/images/110920211000p.jpg)
 
-![Picture](/assets/images/110920211001p.jpg)
+![Picture](assets/images/110920211001p.jpg)

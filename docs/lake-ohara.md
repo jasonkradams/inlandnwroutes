@@ -43,7 +43,7 @@ Take Highway 95 north across the border to Radium Hot Springs, named because the
 
 ## Trail Map (Click below to download a pdf of the trail system)
 
-![Image](/assets/images/pdf.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/2013-ohara-map.pdf" data-title="Download file: Lake O'Hara Trail Map" }
+![Image](assets/images/pdf.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/2013-ohara-map.pdf" data-title="Download file: Lake O'Hara Trail Map" }
 
 | | |
 |---|---|
@@ -92,13 +92,13 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-![Picture](/assets/images/img-4829.jpg){: data-src="/assets/images/img-4829.jpg" }
+![Picture](assets/images/img-4829.jpg){: data-src="assets/images/img-4829.jpg" }
 
 ## The bus stop and wood shed at the campground
 
 ---
 
-![Picture](/assets/images/img-3205.jpg)
+![Picture](assets/images/img-3205.jpg)
 
 ## Dinner time at the camp
 
@@ -116,7 +116,7 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-![Picture](/assets/images/img-9306.jpg)
+![Picture](assets/images/img-9306.jpg)
 
 ## Lake o’hara log cabin rentals
 
@@ -128,19 +128,19 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-![Picture](/assets/images/img-9241-1.jpg)
+![Picture](assets/images/img-9241-1.jpg)
 
 ## Climbing down from all souls' prospect
 
 ---
 
-![Picture](/assets/images/img-4814.jpg)
+![Picture](assets/images/img-4814.jpg)
 
 ## All souls’ prospect route
 
 ---
 
-![Picture](/assets/images/img-3198.jpg)
+![Picture](assets/images/img-3198.jpg)
 
 ## Looking up the lake oesa basin just right of center
 
@@ -164,12 +164,12 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-![Picture](/assets/images/img-1059.jpg)
+![Picture](assets/images/img-1059.jpg)
 
 ## Mount schaffer coming back from lake mcarthur
 
 ---
 
-![Picture](/assets/images/img-3200.jpg)
+![Picture](assets/images/img-3200.jpg)
 
 ## Grizzly bear digs at schaffer lake

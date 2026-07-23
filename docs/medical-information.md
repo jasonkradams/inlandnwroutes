@@ -6,7 +6,7 @@ As you read this section, please understand that it is designed to inform you. Â
 
 The reason we suggest carrying this card is simple: if you have an issue in the mountains, medical personnel, as well as your hiking buddies, need to know what to do and who to call. ***Everyone*** should have this form in their packs.
 
-![Image](/assets/images/pdf.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/medical_emergency_card.pdf" data-title="Download file: medical_emergency_card.pdf" }
+![Image](assets/images/pdf.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/medical_emergency_card.pdf" data-title="Download file: medical_emergency_card.pdf" }
 
 | | |
 |---|---|
@@ -189,7 +189,7 @@ obtained via two satellites operated by the National Oceanic and Atmospheric
 Administration (NOAA). These data are then used to produce a forecast of ozone
 levels for the next day at various points around the country.
 
-![Picture](/assets/images/482022832p.jpg)
+![Picture](assets/images/482022832p.jpg)
 
 ### Sunscreen
 

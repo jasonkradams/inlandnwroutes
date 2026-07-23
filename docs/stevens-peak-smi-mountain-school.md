@@ -55,7 +55,7 @@ After learning these basic skills the Mountaineer's offer clinics that will teac
 
 From the lower lake outlet climb west up the ridge which separates Stevens from Lone Lakes. Follow the ridge to the summit and back.
 
-![Picture](/assets/images/img-0805-1.png){: data-src="https://www.spokanemountaineers.org/" }
+![Picture](assets/images/img-0805-1.png){: data-src="https://www.spokanemountaineers.org/" }
 
 ## [Spokane mountaineers](https://www.spokanemountaineers.org)
 
@@ -85,13 +85,13 @@ City Lights Brewery in Wallace and Radio Brewery in Kellogg. They both have exce
 
 ---
 
-<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](/assets/images/img-9016.jpg) --> -->
+<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](assets/images/img-9016.jpg) --> -->
 
 ## You can see blocks of avalanche debris on the left
 
 ---
 
-![Picture](/assets/images/img-9019.jpg)
+![Picture](assets/images/img-9019.jpg)
 
 ## Wet loose avalanches down low on the east facing slopes
 
@@ -103,7 +103,7 @@ City Lights Brewery in Wallace and Radio Brewery in Kellogg. They both have exce
 
 ---
 
-![Picture](/assets/images/img-9028.jpg)
+![Picture](assets/images/img-9028.jpg)
 
 ## Base camp
 
@@ -115,7 +115,7 @@ Avalanche and snow condition assessment: we found nine inches of fresh soft snow
 
 ---
 
-![Picture](/assets/images/img-9036.jpg)
+![Picture](assets/images/img-9036.jpg)
 
 ## Group meeting outlining the schedule for the team summit climb in the early morning hours
 
@@ -139,18 +139,18 @@ Avalanche and snow condition assessment: we found nine inches of fresh soft snow
 
 ---
 
-![Picture](/assets/images/img-9048.jpg)
+![Picture](assets/images/img-9048.jpg)
 
 ## Team two pound burritos on the summit
 
 ---
 
-![Picture](/assets/images/img-9059.jpg)
+![Picture](assets/images/img-9059.jpg)
 
 ## Coming down bridget red, amy black, stevens white
 
 ---
 
-![Picture](/assets/images/img-9064.jpg)
+![Picture](assets/images/img-9064.jpg)
 
 ## We were able to avoid the huge cornice on the upper left

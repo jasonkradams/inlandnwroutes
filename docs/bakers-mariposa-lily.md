@@ -56,8 +56,8 @@ Stem 10–35 cm. Leaf blade 5–18 mm wide. Bracts 2 or more, 1–5 cm long. Flo
 
 ---
 
-![Picture](/assets/images/11232021919.jpg)
+![Picture](assets/images/11232021919.jpg)
 
 ## The long narrow leaves are lupine, not mariposa leaves
 
-![Picture](/assets/images/11232021920.jpg)
+![Picture](assets/images/11232021920.jpg)

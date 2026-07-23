@@ -91,42 +91,42 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-![Picture](/assets/images/10052021933.jpg)
+![Picture](assets/images/10052021933.jpg)
 
 Tyler & shuwen's spokane mountaineers hike to elk creek ​in the background is lower elk creek falls
 
-![Picture](/assets/images/110620211143a.jpg)
+![Picture](assets/images/110620211143a.jpg)
 
 ## Basalt sides of the lower elk creek falls
 
-![Picture](/assets/images/21530014-2.jpg)
+![Picture](assets/images/21530014-2.jpg)
 
 ## The 70' middle falls in the spring
 
-![Picture](/assets/images/10242023432p.jpg)
+![Picture](assets/images/10242023432p.jpg)
 
 ## The middle falls from the waters edge trail in the fall
 
-![Picture](/assets/images/21530030.jpg)
+![Picture](assets/images/21530030.jpg)
 
 ## Upper elk creek falls and swimming hole
 
-![Picture](/assets/images/110620211135a.jpg)
+![Picture](assets/images/110620211135a.jpg)
 
 ## Looking down stream from the upper elk creek falls
 
-![Picture](/assets/images/11052021939.jpg)
+![Picture](assets/images/11052021939.jpg)
 
 ## A snowball fight broke out along the trail in
 
-![Picture](/assets/images/11052021941.jpg)
+![Picture](assets/images/11052021941.jpg)
 
 The giant redcedar. It is 3,000 years old, stands 177' tall and is 18' in diameter It wasn't found until 1979
 
-![Picture](/assets/images/11052021942.jpg)
+![Picture](assets/images/11052021942.jpg)
 
 ## The gang was amazed at this natural wonder
 
-![Picture](/assets/images/11052021948.jpg)
+![Picture](assets/images/11052021948.jpg)
 
 ## Of course, i had to take a group shot of the gang

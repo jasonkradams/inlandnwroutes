@@ -96,7 +96,7 @@ Finding your way from Hwy 200 to the lake.
 
 NA
 
-![Picture](/assets/images/img-4877.png)
+![Picture](assets/images/img-4877.png)
 
 ## Photo gallery
 
@@ -108,7 +108,7 @@ NA
 
 ---
 
-![Picture](/assets/images/8620241027p.jpg)
+![Picture](assets/images/8620241027p.jpg)
 
 ## Lunch spot on terrace lake
 
@@ -120,7 +120,7 @@ NA
 
 ## Stony lake
 
-![Picture](/assets/images/8620241038p.jpg)
+![Picture](assets/images/8620241038p.jpg)
 
 ## A pano of stony lake
 

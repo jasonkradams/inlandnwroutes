@@ -1,6 +1,6 @@
 # Cabinet Mountains Wilderness
 
-![Picture](/assets/images/392022805p.jpg)
+![Picture](assets/images/392022805p.jpg)
 
 Check out this USFS website on the origin of Kootenai National Forest names
 
@@ -8,7 +8,7 @@ Check out this USFS website on the origin of Kootenai National Forest names
 
 ## Cabinet mountain wilderness from kellogg peak, silver mt
 
-![Picture](/assets/images/4132025439p.jpg)
+![Picture](assets/images/4132025439p.jpg)
 
 The first thing you should know about the Cabinet Mountain Wilderness is that it is such a special place, that when the 1964 Wilderness Preservation Act was signed into law by President Lyndon B. Johnson, it was one of the 14 areas to be included in the act.
 
@@ -78,11 +78,11 @@ Practice the [Leave No Trace](http://lnt.org/learn/7-principles) Techniques to l
 Have a safe and memorable visit!
 ​
 
-![Picture](/assets/images/2152022818p.jpg)
+![Picture](assets/images/2152022818p.jpg)
 
 *Picture (Image missing)*
 
-![Picture](/assets/images/2152022814p.jpg)
+![Picture](assets/images/2152022814p.jpg)
 
 For a complete history of the kootenai national forest, click the below link<https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5280687.pdf>
 

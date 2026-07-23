@@ -82,21 +82,21 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 ## Photo gallery
 
-![Picture](/assets/images/111120211020p.jpg)
+![Picture](assets/images/111120211020p.jpg)
 
 ## The trail to revett lake is easy and scenic
 
-![Picture](/assets/images/p271.png)
+![Picture](assets/images/p271.png)
 
 ## Revett creek falls
 
 ---
 
-![Picture](/assets/images/722025305p.jpg)
+![Picture](assets/images/722025305p.jpg)
 
 ## Cool rock wall before the lake
 
-![Picture](/assets/images/p258.png)
+![Picture](assets/images/p258.png)
 
 ## Revett lake east shore line
 
@@ -120,7 +120,7 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 ---
 
-![Picture](/assets/images/p260.png)
+![Picture](assets/images/p260.png)
 
 ## Granite peak trail in snow
 
@@ -132,20 +132,20 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 ---
 
-![Picture](/assets/images/p266.png)
+![Picture](assets/images/p266.png)
 
 Revett lake from the ridge between revett & lower blossom lakes ​the steep slope top left of center is the route to granite peak
 
 ---
 
-![Picture](/assets/images/p267.png)
+![Picture](assets/images/p267.png)
 
 ## A day spent next to a high country lake with your dog and a book, is best
 
-![Picture](/assets/images/722024308p.jpg)
+![Picture](assets/images/722024308p.jpg)
 
 ## Revett falls actually have 4 drops, but only in the summer
 
-![Picture](/assets/images/722025319p.jpg)
+![Picture](assets/images/722025319p.jpg)
 
 ## Mariposa lilies along the trail. rarely do you see such a large clump

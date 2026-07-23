@@ -70,7 +70,7 @@ Henry’s in Libby, Pizza Hut, Rosaeurs, Clark Fork Pantry & Squeeze Inn in Clar
 
 ---
 
-![Picture](/assets/images/p790.png)
+![Picture](assets/images/p790.png)
 
 ---
 

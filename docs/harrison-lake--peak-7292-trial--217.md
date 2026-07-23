@@ -125,13 +125,13 @@ Jalapeños, Eichardt's, Burger Express, Mr, Sub in Sandpoint
 
 ---
 
-![Picture](/assets/images/p619.png)
+![Picture](assets/images/p619.png)
 
 ## Harrison peak from trail #217
 
 ---
 
-<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](/assets/images/497729d9-36d7-4c81-a741-3da2fe291b24.jpg) --> -->
+<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](assets/images/497729d9-36d7-4c81-a741-3da2fe291b24.jpg) --> -->
 
 ## The author rock hoppng above harrison lake with harrison peak on top left
 
@@ -145,7 +145,7 @@ Jalapeños, Eichardt's, Burger Express, Mr, Sub in Sandpoint
 
 ## Harrison peak from near harrison lake
 
-![Picture](/assets/images/91920221156p.jpg)
+![Picture](assets/images/91920221156p.jpg)
 
 ## The south twin and other selkirk crest peaks, ​taken from near peak 7171'
 
@@ -153,7 +153,7 @@ Jalapeños, Eichardt's, Burger Express, Mr, Sub in Sandpoint
 
 ## Harrison lake from harrison peak 7292' & peak 7171'above Opposite direction from the image below
 
-![Picture](/assets/images/p617.png)
+![Picture](assets/images/p617.png)
 
 ## Peak 7171’ on left with harrison peak on right. ​harrison lake is between, but not visible
 
@@ -165,7 +165,7 @@ Jalapeños, Eichardt's, Burger Express, Mr, Sub in Sandpoint
 
 ---
 
-![Picture](/assets/images/0fcf558e-cd6e-4963-895e-dd201a02a386.jpg)
+![Picture](assets/images/0fcf558e-cd6e-4963-895e-dd201a02a386.jpg)
 
 ## Harrison peak top right with little harrison lake bottom right
 
@@ -177,7 +177,7 @@ Jalapeños, Eichardt's, Burger Express, Mr, Sub in Sandpoint
 
 ---
 
-![Picture](/assets/images/983b1f99-1877-479a-b814-562cc6ef5111.jpg)
+![Picture](assets/images/983b1f99-1877-479a-b814-562cc6ef5111.jpg)
 
 ## From roman nose summit, the seven sisters, the beehive dome and harrison peak on right
 
@@ -189,7 +189,7 @@ Jalapeños, Eichardt's, Burger Express, Mr, Sub in Sandpoint
 
 ---
 
-![Picture](/assets/images/b3252a65-4710-406d-b1b9-72f2e5a0c162.jpg)
+![Picture](assets/images/b3252a65-4710-406d-b1b9-72f2e5a0c162.jpg)
 
 ## Harrison peak on left from the wigwams east trail
 
@@ -199,7 +199,7 @@ Jalapeños, Eichardt's, Burger Express, Mr, Sub in Sandpoint
 
 ## The selkirks seven sisters with harrison peak above the old hiker
 
-![Picture](/assets/images/11062021541p.jpg)
+![Picture](assets/images/11062021541p.jpg)
 
 ## Harrison lake outlet creek falls
 

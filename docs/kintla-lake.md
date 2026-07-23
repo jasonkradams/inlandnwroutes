@@ -69,17 +69,17 @@ The Polebridge Mechantile is a favorite for their coffee and pastries. Northern 
 
 ---
 
-![Picture](/assets/images/p241-1.png){: data-src="/assets/images/p241-1.png" }
+![Picture](assets/images/p241-1.png){: data-src="assets/images/p241-1.png" }
 
 ## Kintla lake at sunrise
 
-![Picture](/assets/images/11112021918p.jpg)
+![Picture](assets/images/11112021918p.jpg)
 
 ---
 
 ## What a day to be on kintla lake
 
-![Picture](/assets/images/11112021921p.jpg)
+![Picture](assets/images/11112021921p.jpg)
 
 ## A group of spokane mountaineers paddling the south shore
 

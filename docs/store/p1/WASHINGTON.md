@@ -1,6 +1,6 @@
 # Store/P1/Washington
 
-<!-- Missing Image: <!-- Missing Image: [<!-- Missing Image: ![Image](/assets/images/blank-product-w640.png) --> --> -->](index.md/cdn2.editmysite.com/images/util/blank-product-w640.png)
+<!-- Missing Image: <!-- Missing Image: [<!-- Missing Image: ![Image](../../assets/images/blank-product-w640.png) --> --> -->](index.md/cdn2.editmysite.com/images/util/blank-product-w640.png)
 
 ## washington
 
