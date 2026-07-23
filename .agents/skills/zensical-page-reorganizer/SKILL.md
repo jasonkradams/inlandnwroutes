@@ -57,7 +57,20 @@ This skill provides a systematic workflow for refactoring unorganized, run-on, o
 
 - **Bulleted Lists**: Group key statistics or boundary descriptions into bulleted lists. Ensure lists have preceding and succeeding blank lines (`MD032`).
 
-### 4. GLightbox Asset Path Normalization
+### 4. Image Formatting & GLightbox Asset Normalization
+
+- **Accessibility & Caption Synchronization**:
+  - Format images using standard Markdown image syntax with an italicized caption paragraph directly beneath:
+
+    ```markdown
+    ![Hikers navigating the boulder route toward Hunt Lake](assets/images/p620.png)
+    _Hikers navigating the boulder route toward Hunt Lake._
+    ```
+
+  - **Identical Alt & Caption Text Rule**: Ensure the image `alt` text (`![Alt text]`) matches the italicized caption (`_Caption text_`) below the image. This guarantees:
+    1. **a11y Compliance**: Assistive screen readers receive full descriptive alt text on the `<img>` tag.
+    2. **Lightbox Title**: `zensical.extensions.glightbox` (`auto_caption: true`) extracts the `alt` text to populate `data-title` in the GLightbox modal viewer.
+    3. **Page Display**: The exact caption text renders on the web page in italics directly below the image.
 
 - **Relative Image Paths Rule**: Always use relative paths for Markdown images (`assets/images/filename.jpg` or `../assets/images/filename.jpg`). **NEVER use root-leading slashes** (`/assets/images/filename.jpg`).
 - **Why**: `zensical.extensions.glightbox` constructs `<a class="glightbox" href="...">` anchors directly from `img.src`. A leading slash causes `href` to remain absolute (`/assets/images/...`), bypassing MkDocs' relative URL rewriter and breaking lightbox image modal previews on subpages.

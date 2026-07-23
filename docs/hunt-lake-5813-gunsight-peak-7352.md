@@ -39,7 +39,8 @@ notes:
 
 # Hunt Lake (5,813') & Gunsight Peak (7,352')
 
-*Hunt Lake 5,813' | Peak 6,976' | Gunsight Peak 7,352' | Trail #1*
+![Hunt Lake 5,813' | Peak 6,976' | Gunsight Peak 7,352' | Trail #1](/assets/images/img-0365_orig.jpg)
+_Hunt Lake 5,813' | Peak 6,976' | Gunsight Peak 7,352' | Trail #1_
 
 ## Overview & Trail Description
 
@@ -148,4 +149,3 @@ _Looking down at Hunt Lake from the high summits near Mt. Roothaan and Chimney R
 !!! quote "Backcountry Reflection"
     > *"Wandering is a state of mind, while bushwhackin' is a state of pleasure."*  
     > — **Chic** (August 29, 2012)
-
