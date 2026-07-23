@@ -43,19 +43,6 @@ Anthony Lakes Mountain Resort is a high-alpine ski area nestled in the scenic El
 
 The resort offers 1,100 acres of skiable terrain across 21 named runs and 3 lifts, featuring a triple chairlift, handle tow, and carpet lift. Beyond alpine skiing and snowboarding, Anthony Lakes provides extensive Nordic skiing trails, snowshoeing routes, and backcountry access against the dramatic backdrop of Gunsight Peak and Anthony Lake.
 
-## Quick Facts & Statistics
-
-| Resort Metric | Details |
-| :--- | :--- |
-| **Location** | North Powder, Oregon (Elkhorn Mountains) |
-| **Base Elevation** | 7,100 feet *(Highest in Oregon)* |
-| **Summit Elevation** | 8,000 feet |
-| **Vertical Drop** | 900 feet |
-| **Skiable Area** | 1,100 acres |
-| **Average Snowfall** | 300+ inches annually |
-| **Runs & Lifts** | 21 named runs / 3 lifts (1 Triple Chair, 1 Handle Tow, 1 Carpet) |
-| **Activities** | Alpine Skiing, Snowboarding, Nordic Skiing, Snowshoeing, Backcountry |
-
 ## Access & Directions
 
 - **From Spokane, WA (approx. 300 miles / 4.5 hours)**: Drive west on I-90 to Ritzville, then follow US-395 South / I-82 to Pendleton, OR. Continue east on I-84 through La Grande to Exit 285 (North Powder). From North Powder, turn west onto the Anthony Lakes Highway (Forest Road 73) and follow it 20 miles into the Wallowa-Whitman National Forest to the resort base lodge.
