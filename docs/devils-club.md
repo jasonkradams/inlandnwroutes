@@ -53,8 +53,34 @@ notes:
 
 ## Description
 
-Devil's club generally grows to 1 to 1.5 metres (3 ft 3 in to 4 ft 11 in) tall. Some stands located in rainforest gullies or moist, undisturbed areas can reach heights of 3 metres (9.8 ft) to 5 metres (16 ft) or more. The spines are found along the upper and lower surfaces of veins of its leaves as well as the stems. The [leaves](https://en.wikipedia.org/wiki/Leaf) are spirally arranged on the stems, simple, palmately lobed with 5-13 lobes, 20 to 40 centimetres (7.9 to 15.7 in) across. The [flowers](https://en.wikipedia.org/wiki/Flower) are produced in dense [umbels](https://en.wikipedia.org/wiki/Umbel) 10 to 20 centimetres (3.9 to 7.9 in) diameter, each flower small, with five greenish-white petals. The [fruit](https://en.wikipedia.org/wiki/Fruit) is a small red [drupe](https://en.wikipedia.org/wiki/Drupe) 4 to 7 millimetres (0.16 to 0.28 in) diameter.[2]
-The plant is covered with brittle yellow spines that break off easily if the plants are handled or disturbed, and the entire plant has been described as having a "primordial" appearance. The plants are slow growing and take many years to reach seed-bearing maturity; this makes them very sensitive to human impact as they do not reproduce quickly.Park officers in Alaska have recruited devil's club as a natural fence, using the plant's spines to Keep visitors from wandering off trails. Scientists and health officials in Alaska are also hoping to use the plant to develop a marketable tea for treating tuberculosis which would then be marketed to China, though this can be contentious as it brings up issues of appropriation of traditional knowledge and intellectual property. [Read more about these uses of devil's club in Alaska.](http://news.nationalgeographic.com/news/2003/09/0905_030905_tvdevilsclub.html)
+Devil's club generally grows to 1 to 1.5 metres (3 ft 3 in to 4 ft 11 in) tall. Some stands located in
+rainforest
+gullies or moist, undisturbed areas can reach heights of 3 metres (9.8 ft) to 5 metres (16 ft) or more. The
+spines are
+found along the upper and lower surfaces of veins of its leaves as well as the stems. The
+[leaves](https://en.wikipedia.org/wiki/Leaf) are spirally arranged on the stems, simple, palmately lobed with
+5-13
+lobes, 20 to 40 centimetres (7.9 to 15.7 in) across. The [flowers](https://en.wikipedia.org/wiki/Flower) are
+produced in
+dense [umbels](https://en.wikipedia.org/wiki/Umbel) 10 to 20 centimetres (3.9 to 7.9 in) diameter, each flower
+small,
+with five greenish-white petals. The [fruit](https://en.wikipedia.org/wiki/Fruit) is a small red
+[drupe](https://en.wikipedia.org/wiki/Drupe) 4 to 7 millimetres (0.16 to 0.28 in) diameter.[2]
+The plant is covered with brittle yellow spines that break off easily if the plants are handled or disturbed,
+and the
+entire plant has been described as having a "primordial" appearance. The plants are slow growing and take many
+years to
+reach seed-bearing maturity; this makes them very sensitive to human impact as they do not reproduce
+quickly.Park
+officers in Alaska have recruited devil's club as a natural fence, using the plant's spines to Keep visitors
+from
+wandering off trails. Scientists and health officials in Alaska are also hoping to use the plant to develop a
+marketable
+tea for treating tuberculosis which would then be marketed to China, though this can be contentious as it
+brings up
+issues of appropriation of traditional knowledge and intellectual property. [Read more about these uses of
+devil's club
+in Alaska.](http://news.nationalgeographic.com/news/2003/09/0905_030905_tvdevilsclub.html)
 
 ---
 

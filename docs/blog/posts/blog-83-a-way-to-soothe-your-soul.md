@@ -19,11 +19,17 @@ Near you are many parks. Take a walk along its paths, and experience Natures bea
 You who live in Spokane County, have a selection of Spokane Conservation Futures Tax properties to hike in.
 These properties for the most part, are designed for hiking.
 So….go take a hike.
-By the time you get home, you will have changed your attitude, and find that in Nature, there is personal peace.
-Unfortunately all of our problems are still among us, but you have a centering ability to tackle them with care.
-Likewise, I would like to ask any of you, if you have written inspirational thots, stories, poems, etc., please consider sending them to me.
+By the time you get home, you will have changed your attitude, and find that in Nature, there is personal
+peace.
+Unfortunately all of our problems are still among us, but you have a centering ability to tackle them with
+care.
+Likewise, I would like to ask any of you, if you have written inspirational thots, stories, poems, etc.,
+please consider
+sending them to me.
 We will review them, and publish them in our WRITING sections.
-You can submit any questions, comments, criticisms, or gripes, by accessing the orange envelope at the bottom of every page.
+You can submit any questions, comments, criticisms, or gripes, by accessing the orange envelope at the bottom
+of every
+page.
 This method goes directly to me.
 This envelope can also be used for any kind of communications you wish to share with us.
 Thank you all for reading and using our website.

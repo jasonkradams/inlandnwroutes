@@ -11,7 +11,9 @@ categories:
 time to treat your winter outer layers..dwr.
 
 We buy outer gear to keep ourselves warm and dry.
-With skiing, sshoeing, alpine climbing, or just winter hiking into a high country lake coming soon, it’s time to wash and treat our gear.
+With skiing, sshoeing, alpine climbing, or just winter hiking into a high country lake coming soon, it’s time
+to wash
+and treat our gear.
 This method is for technical gear only.
 DO NOT TREAT wool, fleece, down, or some synthetics with this method.
               items needed
@@ -22,7 +24,9 @@ Use one of the the A&H scoopfuls to wash in.
 After that cycle is done, re-wash with water only.
 DWR
 This product applies differently than aerosols sprays.
-Hang the garment on a hanger outside, and apply an even coating of the DWR spray.  Re-apply another light coat on shoulders, top of arms, chest, thighs, seat, all high activity areas.
+Hang the garment on a hanger outside, and apply an even coating of the DWR spray.  Re-apply another light coat
+on
+shoulders, top of arms, chest, thighs, seat, all high activity areas.
 Then you can either…….
 Toss it in your dryer on medium heat, for 30+ minutes.
 
@@ -30,8 +34,11 @@ Or hang to dry for no less then 24 hours.
 If need be, you can re-apply a coating, and dry as above.
 Try to protect your outer layers by making sure they are cleaned after each use.
 Only apply DWR to clean gear.
-Half way thru the season or as necessary, you can re-apply the DWR to a clean garment. But make sure you use a dryer to set the spray.
-Another thing I have been practicing, and teaching people, is your technical outer gear is one of your life line.
+Half way thru the season or as necessary, you can re-apply the DWR to a clean garment. But make sure you use a
+dryer to
+set the spray.
+Another thing I have been practicing, and teaching people, is your technical outer gear is one of your life
+line.
 On demand, your gear must perform as needed.
 So I never wear my outdoor sport clothing for ANYTHING BUT MY SPORTS ACTIVITIES.
 It would be a drag if you were on a winter hike, and your outer layers did not keep you warm or dry.
@@ -62,7 +69,8 @@ Chic Burge             David Crafton
 
 InlandNWRoutes.com
 
-The State Line Trail                                                                                                                                     Stevens Peak 👇 area
+The State Line Trail
+Stevens Peak 👇 area
 
 <!-- more -->
 

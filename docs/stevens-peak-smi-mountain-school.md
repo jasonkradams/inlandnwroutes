@@ -38,22 +38,52 @@ notes:
 
 ## Description
 
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-The Spokane Mountaineers have been training on Stevens Peak for decades. They put on a three month intensive Mountain School that teaches you the basics of Mountaineering including clothing and equipment, packing and snow camping, group dynamics, snow skills, self arrest, glacier travel, crevasse rescue, knots, conditioning, nutrition, teamed rope travel, team arrest, mountain weather and avalanche awareness.
+We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
+info. if an
+emergency ocurrs, evaluate your circumstances and call only if needed.
+The Spokane Mountaineers have been training on Stevens Peak for decades. They put on a three month intensive
+Mountain
+School that teaches you the basics of Mountaineering including clothing and equipment, packing and snow
+camping, group
+dynamics, snow skills, self arrest, glacier travel, crevasse rescue, knots, conditioning, nutrition, teamed
+rope travel,
+team arrest, mountain weather and avalanche awareness.
 
-The Stevens Peak weekend teaches you climbing conditions assessment, overnighting with an alpine start and rope-team summit climbing.
+The Stevens Peak weekend teaches you climbing conditions assessment, overnighting with an alpine start and
+rope-team
+summit climbing.
 
-The next month will focus on rock climbing skills, map and compass navigation, route finding, mountain rescue and mountaineering medicine.
+The next month will focus on rock climbing skills, map and compass navigation, route finding, mountain rescue
+and
+mountaineering medicine.
 
-To graduate you have to complete the graduation climb which has been Mount Athabasca in the Columbia Icefields in the Canadian Rockies in the past but due to the pandemic and the closed border we will be climbing one of the Cascade volcanoes this year. In addition to the grad climb you have to organize and complete a 2nd glacier climb by October 15th, pass a written and practical test, demonstrate your basic climbing skills during the outdoor sessions, earn or show a current First Aid certification and participate in a day of conservation activity such as trail work, crag clean up, etc.
+To graduate you have to complete the graduation climb which has been Mount Athabasca in the Columbia Icefields
+in the
+Canadian Rockies in the past but due to the pandemic and the closed border we will be climbing one of the
+Cascade
+volcanoes this year. In addition to the grad climb you have to organize and complete a 2nd glacier climb by
+October
+15th, pass a written and practical test, demonstrate your basic climbing skills during the outdoor sessions,
+earn or
+show a current First Aid certification and participate in a day of conservation activity such as trail work,
+crag clean
+up, etc.
 
-If you find yourself in the mountains in conditions that you wish you had more skill and experience in, I recommend taking the  Spokane Mountaineers Mountain School. You will learn new skills, meet new people and have an opportunity to practice.
+If you find yourself in the mountains in conditions that you wish you had more skill and experience in, I
+recommend
+taking the  Spokane Mountaineers Mountain School. You will learn new skills, meet new people and have an
+opportunity to
+practice.
 
-After learning these basic skills the Mountaineer's offer clinics that will teach you traditional lead climbing, high angle rescue, ice climbing and alpine climbing.
+After learning these basic skills the Mountaineer's offer clinics that will teach you traditional lead
+climbing, high
+angle rescue, ice climbing and alpine climbing.
 
 ## Option #1
 
-From the lower lake outlet climb west up the ridge which separates Stevens from Lone Lakes. Follow the ridge to the summit and back.
+From the lower lake outlet climb west up the ridge which separates Stevens from Lone Lakes. Follow the ridge
+to the
+summit and back.
 
 ![Picture](assets/images/img-0805-1.png)
 
@@ -63,7 +93,11 @@ From the lower lake outlet climb west up the ridge which separates Stevens from 
 
 ## Directions
 
-Take I-90 east through the Idaho Panhandle to the East Mullan exit and take Friday Ave east past the mine and stay right going over I-90 on a one lane over pass to the snow mobile parking lot just past the Interstate. If the conditions permit and the road is clear of snow drive another mile up to the trail head.
+Take I-90 east through the Idaho Panhandle to the East Mullan exit and take Friday Ave east past the mine and
+stay right
+going over I-90 on a one lane over pass to the snow mobile parking lot just past the Interstate. If the
+conditions
+permit and the road is clear of snow drive another mile up to the trail head.
 
 Click on the right arrow -> below in the upper left hand corner to reveal the map legend.
 
@@ -71,15 +105,26 @@ Click on the right arrow -> below in the upper left hand corner to reveal the ma
 
 ## Cool things close by
 
-Lone Lake, St. Regis Lakes, State Line Ridge, Upper & Lower Glidden Lakes, Cooper Lake, Graham Mountain and Crystal Lake
+Lone Lake, St. Regis Lakes, State Line Ridge, Upper & Lower Glidden Lakes, Cooper Lake, Graham Mountain and
+Crystal Lake
 
 ## Hazards
 
-Avalanches: It had warmed up the week prior to our trip and the snow pack consolidated and reached equilibrium in temperature making for the best avalanche conditions for the year. The problem was that it snowed 3 to 9" inches on Thursday and then the sun came out on Friday causing wet loose avalanches on both the east and west aspects which we saw as we hiked up the basin Saturday morning. Things froze solid Saturday night when the sun went down and we peaked out in the morning before it warmed back up.
+Avalanches: It had warmed up the week prior to our trip and the snow pack consolidated and reached equilibrium
+in
+temperature making for the best avalanche conditions for the year. The problem was that it snowed 3 to 9"
+inches on
+Thursday and then the sun came out on Friday causing wet loose avalanches on both the east and west aspects
+which we saw
+as we hiked up the basin Saturday morning. Things froze solid Saturday night when the sun went down and we
+peaked out in
+the morning before it warmed back up.
 
 ## R & P
 
-City Lights Brewery in Wallace and Radio Brewery in Kellogg. They both have exceptionally good food and beer. Muchachos Tacos and Pizza Factory in Wallace.
+City Lights Brewery in Wallace and Radio Brewery in Kellogg. They both have exceptionally good food and beer.
+Muchachos
+Tacos and Pizza Factory in Wallace.
 
 ## Photo gallery
 
@@ -111,7 +156,13 @@ City Lights Brewery in Wallace and Radio Brewery in Kellogg. They both have exce
 
 *Picture (Image missing)*
 
-Avalanche and snow condition assessment: we found nine inches of fresh soft snow on top of a thin ice crust and the rest of the column was well consolidated making for good conditions until the the sun hit the unconsolidated snow on the top layer
+Avalanche and snow condition assessment: we found nine inches of fresh soft snow on top of a thin ice crust
+
+and the rest
+
+of the column was well consolidated making for good conditions until the the sun hit the unconsolidated snow
+on the top
+layer
 
 ---
 

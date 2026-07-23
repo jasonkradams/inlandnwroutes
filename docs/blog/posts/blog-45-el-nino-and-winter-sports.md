@@ -22,14 +22,16 @@ On average, we have about the same number of La Niños as we do El Niño.
 But what you want to look at is the degree of intensity in both.
 
 Now with climate change, are we going to have more El Niño weather patterns?
-Of course we can’t predict the weather that far out, but we can learn to deal with weather, by adapting to the conditions, and doing the sports we love, in those conditions, if it’s safe.
+Of course we can’t predict the weather that far out, but we can learn to deal with weather, by adapting to the
+conditions, and doing the sports we love, in those conditions, if it’s safe.
 
 If you are as down as I am, about not being able to ski the fluff,
 go for a walk.
 
 Log onto NOAA.gov, and examine the illustrations and words to get an idea of where you might want to go.
 After you’ve looked and read the above, scroll down and click on the Hourly Weather Graph.
-Study this chart to get accurate times and amounts of precipitation, sky cover, wind speeds & direction, and temperatures thruout the day.
+Study this chart to get accurate times and amounts of precipitation, sky cover, wind speeds & direction, and
+temperatures thruout the day.
 After getting use to seeing this  information, you can plan your day, down to the hour.
 
 We have a whole section on weather, that will show you what to expect in detail.

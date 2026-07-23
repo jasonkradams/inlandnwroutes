@@ -8,6 +8,8 @@
 
 ## Join in on the Fun and Give Back
 
-Trail users should volunteer annually doing trail work with one of the local trail work parties: [WTA](https://www.wta.org), [ITA](http://www.idahotrailsassociation.org) or the [Spokane Mountaineers](https://www.spokanemountaineers.org).
+Trail users should volunteer annually doing trail work with one of the local trail work parties:
+[WTA](https://www.wta.org), [ITA](http://www.idahotrailsassociation.org) or the [Spokane
+Mountaineers](https://www.spokanemountaineers.org).
 
 [Volunteer](https://www.wta.org)

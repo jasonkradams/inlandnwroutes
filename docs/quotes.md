@@ -1,6 +1,10 @@
 # Quotes
 
-Quotes... we encourage you to send us your writing on human powered sports. please keep them clean and short. we do reserve the right to refuse any inappropriate content. If a quote has the word "Unknown" below it, it is most likely from pinterest or other sites that dont identify the author
+Quotes... we encourage you to send us your writing on human powered sports. please keep them clean and short.
+we do
+reserve the right to refuse any inappropriate content. If a quote has the word "Unknown" below it, it is most
+likely
+from pinterest or other sites that dont identify the author
 
 ---
 
@@ -12,7 +16,9 @@ N
 
 .Quotes
 
-Mountain Pique: Alpine climbers rope them selves together not because there is safety in numbers, but to keep the doubtful ones from changing their minds.
+Mountain Pique: Alpine climbers rope them selves together not because there is safety in numbers, but to keep
+the
+doubtful ones from changing their minds.
 
          A quote in the Spokane Mountaineers quarterly trip publication,      in 1967
 
@@ -20,7 +26,8 @@ Depression can’t hit a moving object.
 
          Unknown, but told to me by Tai Herath, Thank You.
 
-If you could kick the person the pants responsible for most of your troubles, you couldn’t sit down for a month.
+If you could kick the person the pants responsible for most of your troubles, you couldn’t sit down for a
+month.
 
         Theodore Roosevelt
 
@@ -123,7 +130,9 @@ We are all born ignorant, but one must work hard to remain stupid.
 
         Benjamin Franklin
 
-We seem to understand the value of oil, timber, minerals and housing, but not the value of unspoiled beauty, wildlife, and spiritual renewal.
+We seem to understand the value of oil, timber, minerals and housing, but not the value of unspoiled beauty,
+wildlife,
+and spiritual renewal.
 
        Calvin & Hobbs
 
@@ -373,7 +382,9 @@ Growth is skipping over the things, you used to trip over.
 
        Healing Hearts
 
-If you feel like you’re losing everything, remember that trees lose their leaves every year, and they still stand tall and wait for a better day to come.
+If you feel like you’re losing everything, remember that trees lose their leaves every year, and they still
+stand tall
+and wait for a better day to come.
 
            Unknown
 
@@ -458,7 +469,9 @@ The best way to predict the future, is to invent it.
 
           Alan Kay
 
-Im at an age where my mind still thinks I’m 29, my humor suggests I’m 12, while my body mostly keeps asking me are sure I’m not dead yet.
+Im at an age where my mind still thinks I’m 29, my humor suggests I’m 12, while my body mostly keeps asking me
+are sure
+I’m not dead yet.
 
            Ink
 
@@ -669,7 +682,8 @@ Many people are denied the privilege.
 
           Unknown
 
-The trouble with having an open mind is that people will insist on coming along and trying to put things in it.
+The trouble with having an open mind is that people will insist on coming along and trying to put things in
+it.
 
         Terry Pratchett
 
@@ -690,7 +704,10 @@ When you feel worthless, remember you were once the quickest sperm cell.
 
            Unknown
 
-This is what it’s all about, in my opinion; we believe that man must live with Nature, not against it; we must use Nature, but not destroy it; and very often it is the highest use of Nature is for man’s spirit, not his pocketbook.
+This is what it’s all about, in my opinion; we believe that man must live with Nature, not against it; we must
+use
+Nature, but not destroy it; and very often it is the highest use of Nature is for man’s spirit, not his
+pocketbook.
 
                 Brock Evans
                 Washington’s Governor, 1967
@@ -1172,7 +1189,8 @@ is to do good work today.
 
          Unknown
 
-The fact that jellyfish have survived for 660 million years despite not having a brain, gives hope to many people.
+The fact that jellyfish have survived for 660 million years despite not having a brain, gives hope to many
+people.
 
           Unknown
 
@@ -1941,7 +1959,9 @@ So this is what a mountain was like, the same as a person the more you know, the
 
          Wu Ming-Yi
 
-Real adventure is defined best as a journey from which you may not come back alive, and certainly not as the same person.
+Real adventure is defined best as a journey from which you may not come back alive, and certainly not as the
+same
+person.
 
         Yvon Chouinard
 
@@ -2673,7 +2693,8 @@ Not thunder.
 Romi
 
 I asked a wise man, "Tell me sir, in which field could I make a career?"
-He said with a smile, " Be a good human being, there are a lot of opportunity in this area and very little competition.
+He said with a smile, " Be a good human being, there are a lot of opportunity in this area and very little
+competition.
 
 Unknown
 
@@ -2704,7 +2725,9 @@ but always get you the right ones.
 
 John Lennon
 
-Even though there are days I wish I could change some things that happened in the past, there are reasons the rear view mirrors is so small and the windshield is so big.
+Even though there are days I wish I could change some things that happened in the past, there are reasons the
+rear view
+mirrors is so small and the windshield is so big.
 Where you’re headed is much more important than what you’ve left behind.
 
 Unknown
@@ -3000,8 +3023,12 @@ resisting a rest?
 
                         Unknown
 
-On 4.2.1973 Motorola employee Martin Cooper made the first public mobile telephone call on a Manhattan sidewalk, to Joel Engel of Bell Labs.
-Cooper later told the BBC that his first words were, "Joel, I’m calling you from a ‘real’ cellular telephone a portable hand held telephone".
+On 4.2.1973 Motorola employee Martin Cooper made the first public mobile telephone call on a Manhattan
+sidewalk, to Joel
+Engel of Bell Labs.
+Cooper later told the BBC that his first words were, "Joel, I’m calling you from a ‘real’ cellular telephone a
+portable
+hand held telephone".
 
                          Unknown
 
@@ -3062,7 +3089,9 @@ Mark Twain said this about New England weather…..
 
 "If you don’t like the weather, just wait a minute".
 
-"In this odd business of mountaineering, a large number of unpleasant moments somehow combine to create an experience in which is wholly delightful".
+"In this odd business of mountaineering, a large number of unpleasant moments somehow combine to create an
+experience in
+which is wholly delightful".
 
                          Arnold Lunn
 
@@ -3097,7 +3126,9 @@ it probably doesn’t lead anywhere".
 
                        Frank Clark
 
-"….the most luxuriant and most extravagantly beauty of all the alpine gardens I ever beheld in all my mountain top wandering."
+"….the most luxuriant and most extravagantly beauty of all the alpine gardens I ever beheld in all my mountain
+top
+wandering."
 
                         John Muir, conservationist, 1889
 
@@ -3157,7 +3188,11 @@ There are no rules for a good picture, just good pictures.
 
                   Ansel Adams
 
-"Mountains help me navigate what is most important to me. They balance the chaos that is regular life. Balance is what I strive to accomplish with climbing a balance of life, love and the mountains. Alpine climbing is a life-long commitment. I live and breathe it."
+"Mountains help me navigate what is most important to me. They balance the chaos that is regular life. Balance
+is what I
+strive to accomplish with climbing a balance of life, love and the mountains. Alpine climbing is a life-long
+commitment.
+I live and breathe it."
 
 Jess Roskelley
 
@@ -3193,9 +3228,13 @@ Approximately 102,000 cubic miles.
 
 Stormrisc, S-R
 
-If there's no snow (or rain) falling from the sky and you’re not in a cloud, then the temperature decreases by about 5.4°F for every 1,000 feet up you go in elevation.
+If there's no snow (or rain) falling from the sky and you’re not in a cloud, then the temperature decreases by
+about
+5.4°F for every 1,000 feet up you go in elevation.
 
-However, if you’re in a cloud, or it is snowing/raining, the temperature decreases by about 3.3°F for every 1,000 feet up you go in elevation.
+However, if you’re in a cloud, or it is snowing/raining, the temperature decreases by about 3.3°F for every
+1,000 feet
+up you go in elevation.
 Thus meaning it’s a change of 6°C per 1,000 meters.
 
 A vigorous five-mile walk will do more good
@@ -3223,7 +3262,8 @@ She always begins by saying,
 
                        Unknown
 
-The fastest way to call a family meeting, is to simply turn off the WiFi router and wait in the room it is located.
+The fastest way to call a family meeting, is to simply turn off the WiFi router and wait in the room it is
+located.
 
                        Unknown
 
@@ -3355,7 +3395,9 @@ She likes toilet water, too."
 
 Unknown Cartoonist
 
-I would like to be known as a person who is concerned about freedom and equality and justice and prosperity for all people.
+I would like to be known as a person who is concerned about freedom and equality and justice and prosperity
+for all
+people.
 
 Rosa Parks
 
@@ -3441,7 +3483,8 @@ eat slowly, and lie about your age,
 
                          John Barrymore
 
-"Half of our life is spent trying to find something to do with the time we have rushed through life trying to save."
+"Half of our life is spent trying to find something to do with the time we have rushed through life trying to
+save."
 
                         Will Rogers
 
@@ -3519,7 +3562,9 @@ why would you be embarrassed to get a colonoscopy?"
 A cardiologist walks into a motorcycle repair shop.
 The mechanic says, "Hey doc, come over here. I want to show you something."
 The heart Doctor walks over to the mechanic.
-The mechanic says, "I completely rebuilt this motor. Why is it that I get the small bucks and you get all the big bucks."
+The mechanic says, "I completely rebuilt this motor. Why is it that I get the small bucks and you get all the
+big
+bucks."
 The doctor says, "Try doing that with the motor running."
 
                        Don Drapeau
@@ -3545,7 +3590,9 @@ Get up and do something."
 103 Year Old Marathoner
 " Can’t Nothing Bring  Me Down" Book
 
-As important as these opportunities are, it is also critical that we have places "to hear ourselves think," away from the growing clamor of the planet. "In wildness is the preservation of the world," wrote Henry Thoreau.
+As important as these opportunities are, it is also critical that we have places "to hear ourselves think,"
+away from
+the growing clamor of the planet. "In wildness is the preservation of the world," wrote Henry Thoreau.
 It is just as true today as when he penned that nearly 200 years ago.
 
                      Henry David Thorea
@@ -3554,14 +3601,20 @@ It is just as true today as when he penned that nearly 200 years ago.
 
                     Neale Donald Walsch
 
-If future generations are to remember us more with gratitude than sorrow, we must achieve more than just the miracles of technology. We must also leave them a glimpse of the world as it was created, not just as it looked when we got through with it.
+If future generations are to remember us more with gratitude than sorrow, we must achieve more than just the
+miracles of
+technology. We must also leave them a glimpse of the world as it was created, not just as it looked when we
+got through
+with it.
 
                    President Lyndon B. Johnson
 Upon signing the National Wild and Scenic River Act, and the National Trail System Act of 1968.
 
 Sagittarius 1: November 22 - December 21
 
-Independent and strong-willed, Sagittarius personalities are all about going off the beaten path. Sagittarius is open-hearted, generous, big-spirited and painfully honest.
+Independent and strong-willed, Sagittarius personalities are all about going off the beaten path. Sagittarius
+is
+open-hearted, generous, big-spirited and painfully honest.
 
 10.2018 From the Friends of Scotchman Peaks.
 
@@ -3587,7 +3640,9 @@ time and time again.
 
 chic     12.25.2018
 
-As Christmas on the slopes of Silver Mountain, draws to a close, I hope our nation rises from our President’s insanity, to shine
+As Christmas on the slopes of Silver Mountain, draws to a close, I hope our nation rises from our President’s
+insanity,
+to shine
 in all its greatness.
 
                     chic.  12.25.2018
@@ -3652,7 +3707,8 @@ Some take us forward; they're called dreams."
 A Democrat is a Republican,
 that spent a night in jail.
 
-"The people of these United States are the rightful master of both Congresses and courts, not to overthrow the Constitution, but to overthrow the men who pervert the Constitution."
+"The people of these United States are the rightful master of both Congresses and courts, not to overthrow the
+Constitution, but to overthrow the men who pervert the Constitution."
 
                      Abraham Lincoln
 
@@ -3684,7 +3740,11 @@ Get up and do something."
 103 Year Old Marathoner
 " Can’t Nothing Bring  Me Down" Book
 
-As important as these opportunities are, it is also critical that we have places "to hear ourselves think," away from the growing clamor of the planet. "In wildness is the preservation of the world," wrote Henry Thoreau. It is just as true today as when he penned that nearly 200 years ago.
+As important as these opportunities are, it is also critical that we have places "to hear ourselves think,"
+away from
+the growing clamor of the planet. "In wildness is the preservation of the world," wrote Henry Thoreau. It is
+just as
+true today as when he penned that nearly 200 years ago.
 
                       Henry David Thorea
 
@@ -4070,7 +4130,9 @@ But our memories of those days, will last forever.
 
          chic      11.8.2025
 
-There are few pleasures more exciting than to stand on a summit, and seeing all the summits you’ve stood on, and all you want to visit.
+There are few pleasures more exciting than to stand on a summit, and seeing all the summits you’ve stood on,
+and all you
+want to visit.
 
         chic   11.7.2025
 

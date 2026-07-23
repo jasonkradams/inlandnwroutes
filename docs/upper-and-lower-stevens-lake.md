@@ -40,23 +40,59 @@ notes:
 
 ## Description
 
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-This trail starts south above Mullan, Idaho where the trailhead sits on an old railroad bed. Stevens Lakes trail goes up the left (east) side of  Willow Creek on an old mining road. A short distance up the road, off to the right (west), is an old mine tunnel tucked onto the mountain.
-In the recent past, I have been building a water diversion trench to drain the 50' of trail that's always wet from a near by spring.
-The road dwindles down to a trail that switchbacks a few times and becomes steep as it makes its way into a forest. The terrain flattens out where there used to be some plywood shacks the miner stayed in. Just past this forest, the trail breaks out into a clearing that offers great views of the cliffs above and a nice waterfall above the trails crossing. In the spring, look for a narrow section of the creek, about 50’ below the falls to cross.
-Once past the creek, the trail heads west on a large scree slope to a switchback that takes you back to the creek higher up. At this switchback, look to the east where the creek falls thru a split rock. Look closer up above and there are two more waterfalls.From here the trail steepens and often is slippery with mud.
-In about 10 minutes the trail mellows thru a small forest until it pops out at the lake. There are camp site all along the north end of the lake.
-To get to the upper upper lake, hike the right (west) shore line to the back of the lake. Look for a path near the rock outcropping that works its way up 300verts to the lake. Off to the east along the shore line, is a photo op in every season, especially fall.
-All the slopes above the lakes to the west, are slopes the Spokane Mountaineers instruct their students in glacier travel and ice axe arrest practice. After the instruction on Sunday, the instructors take the student south on the knife edge ridge to the summit.
+We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
+info. if an
+emergency ocurrs, evaluate your circumstances and call only if needed.
+This trail starts south above Mullan, Idaho where the trailhead sits on an old railroad bed. Stevens Lakes
+trail goes up
+the left (east) side of  Willow Creek on an old mining road. A short distance up the road, off to the right
+(west), is
+an old mine tunnel tucked onto the mountain.
+In the recent past, I have been building a water diversion trench to drain the 50' of trail that's always wet
+from a
+near by spring.
+The road dwindles down to a trail that switchbacks a few times and becomes steep as it makes its way into a
+forest. The
+terrain flattens out where there used to be some plywood shacks the miner stayed in. Just past this forest,
+the trail
+breaks out into a clearing that offers great views of the cliffs above and a nice waterfall above the trails
+crossing.
+In the spring, look for a narrow section of the creek, about 50’ below the falls to cross.
+Once past the creek, the trail heads west on a large scree slope to a switchback that takes you back to the
+creek higher
+up. At this switchback, look to the east where the creek falls thru a split rock. Look closer up above and
+there are two
+more waterfalls.From here the trail steepens and often is slippery with mud.
+In about 10 minutes the trail mellows thru a small forest until it pops out at the lake. There are camp site
+all along
+the north end of the lake.
+To get to the upper upper lake, hike the right (west) shore line to the back of the lake. Look for a path near
+the rock
+outcropping that works its way up 300verts to the lake. Off to the east along the shore line, is a photo op in
+every
+season, especially fall.
+All the slopes above the lakes to the west, are slopes the Spokane Mountaineers instruct their students in
+glacier
+travel and ice axe arrest practice. After the instruction on Sunday, the instructors take the student south on
+the knife
+edge ridge to the summit.
 
 ## Option #1
 
 Summit hike
-From the upper lake, walk the right shore line, bearing right up hill. There is no trail, and be aware, this route is about 1400 verts on nearly a 47% slope. Once on the ridge top, turn left (south) staying on the spine all the way to the summit.
+From the upper lake, walk the right shore line, bearing right up hill. There is no trail, and be aware, this
+route is
+about 1400 verts on nearly a 47% slope. Once on the ridge top, turn left (south) staying on the spine all the
+way to the
+summit.
 There are three descent routes.
-1st is the way you ascended the peak. But please be aware, this is the most dangerous part of descending. DO NOT GO DOWN TO THE UPPER LAKE ON THIS SLOPE.
+1st is the way you ascended the peak. But please be aware, this is the most dangerous part of descending. DO
+NOT GO DOWN
+TO THE UPPER LAKE ON THIS SLOPE.
 2nd is to circle around west above Lone Lake, and descend into the Upper Santuary on the west side.
-3rd is to follow the old road on West Willow Ridge side of Lone Lake down to where the road drops East down to the trail to Lone Lake.
+3rd is to follow the old road on West Willow Ridge side of Lone Lake down to where the road drops East down to
+the trail
+to Lone Lake.
 Be safe and do this hike/scramble clockwise only.
 Do not do the loop counter clockwise, its way to dangerous.
 
@@ -64,26 +100,48 @@ Do not do the loop counter clockwise, its way to dangerous.
 
 The summit from upper stevens lake.
 From the upper lake, hike up to a low laying bench that heads towards the peak.
-Scramble up under Stevens Peak in an obvious chute. Once up under the peak, turn right up a the knife edge ridge. Turn left on the ridge and scramble to the summit. BE AWARE..in early spring, these chutes can be avalanche chutes. This is a summer, fall route only. SEE IMAGE BELOW TO FOR THIS ROUTE.
+Scramble up under Stevens Peak in an obvious chute. Once up under the peak, turn right up a the knife edge
+ridge. Turn
+left on the ridge and scramble to the summit. BE AWARE..in early spring, these chutes can be avalanche chutes.
+This is a
+summer, fall route only. SEE IMAGE BELOW TO FOR THIS ROUTE.
 
 ## Option #3
 
 St. regis, stevens lakes, and state line ridge
-How many times have you hiked onto Stevens Lakes, and wondered where the road goes as you enter the forest onto a trail, below the old mine site.
+How many times have you hiked onto Stevens Lakes, and wondered where the road goes as you enter the forest
+onto a trail,
+below the old mine site.
 I did for years, but changed that n 4.17.2020.
-Armed with a google map of the route, I turned up the road for 7 easy switchbacks from a logging operation. I was surprised at how quickly the switchbacks were behind me.
-If you stay on the logging road, it skirts a clearcut and enters a forest that eventually leads you to the open State Line Ridge to Stevens Peak.
-Or about the time you enter the forest mentioned above, you can cut up thru the clearcut to the west. At the top of the clear cut, enter the forest and head south for about .5 miles, where the terrain opens up.
+Armed with a google map of the route, I turned up the road for 7 easy switchbacks from a logging operation. I
+was
+surprised at how quickly the switchbacks were behind me.
+If you stay on the logging road, it skirts a clearcut and enters a forest that eventually leads you to the
+open State
+Line Ridge to Stevens Peak.
+Or about the time you enter the forest mentioned above, you can cut up thru the clearcut to the west. At the
+top of the
+clear cut, enter the forest and head south for about .5 miles, where the terrain opens up.
 
-From these options, you will come out of the forest along a long ridge to the CDA River District and the St. Joe River District.
-DO NOT ATTEMPT TO HIKE THIS KNIFE EDGE RIDGE TO THE BACK DIVIDE. ITS WAY TOO DANGEROUS. Instead, drop down below, to skirt the dangerous terrain.
-About .75 miles from the forest, you will come to the rock prominence you see above Upper Stevens Lake. This is a great spot for lunch.
+From these options, you will come out of the forest along a long ridge to the CDA River District and the St.
+Joe River
+District.
+DO NOT ATTEMPT TO HIKE THIS KNIFE EDGE RIDGE TO THE BACK DIVIDE. ITS WAY TOO DANGEROUS. Instead, drop down
+below, to
+skirt the dangerous terrain.
+About .75 miles from the forest, you will come to the rock prominence you see above Upper Stevens Lake. This
+is a great
+spot for lunch.
 
 If you decide to head to Stevens Peak, USE EXTREME CAUTION.
 
 ## Directions
 
-Drive east on I-90 to exit #69, and turn left (north) over the freeway to the stop. Turn right (east) past Lucky Friday Mine on SH 10 for about .75 miles and bear right until the road crosses over the freeway. Continue up Willow Creek Road for about a mile to the trailhead.
+Drive east on I-90 to exit #69, and turn left (north) over the freeway to the stop. Turn right (east) past
+Lucky Friday
+Mine on SH 10 for about .75 miles and bear right until the road crosses over the freeway. Continue up Willow
+Creek Road
+for about a mile to the trailhead.
 
 Do not turn towards the Shoshone Park, go right.
 
@@ -95,11 +153,17 @@ Lone Lake, Stevens Peak, Gold Hill, St. Regis Lakes, Cooper Lake, Shoshone Park 
 
 ## Hazards
 
-Some of the trail to Lower Stevens Lake is very slippery in wet conditions. The trail from Upper Stevens Lake, up to the summit and down to Lone Lake are hazardous. Use extreme caution. In OPTION #3, you should use EXTREME CAUTION PAST THE ROCK PROMINENCE ALONG THIS RIDGE
+Some of the trail to Lower Stevens Lake is very slippery in wet conditions. The trail from Upper Stevens Lake,
+up to the
+summit and down to Lone Lake are hazardous. Use extreme caution. In OPTION #3, you should use EXTREME CAUTION
+PAST THE
+ROCK PROMINENCE ALONG THIS RIDGE
 
 ## R & P
 
-Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ & Saloon, Wallace Brewing Co., and Muchacho’s Tacis in Wallace. Radio Brewing, the Snake Pit, and Moontime.
+Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ &
+Saloon,
+Wallace Brewing Co., and Muchacho’s Tacis in Wallace. Radio Brewing, the Snake Pit, and Moontime.
 
 ---
 
@@ -113,7 +177,9 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 ![Picture](assets/images/p512.png)
 
-In the mid to late 80’s, the usfs designated the stevens peak area, the "alpine lakes region" but never followed thru with its possible wilderness designation
+In the mid to late 80’s, the usfs designated the stevens peak area, the "alpine lakes region" but never
+followed thru
+with its possible wilderness designation
 
 ## Stevens lakes from stevens peak 6838’
 
@@ -137,7 +203,11 @@ In the mid to late 80’s, the usfs designated the stevens peak area, the "alpin
 
 ![Picture](assets/images/p43.png)
 
-I have photographed this cedar tree (circling cedar) for over 50 years. It stands/lies about half way to the lower stevens lake. I must tell you all….some do gooder tried to put the green end On the rock for the winter, and broke it’s core. The circling cedar has died from it’s injuries. how sad
+I have photographed this cedar tree (circling cedar) for over 50 years. It stands/lies about half way to the
+lower
+stevens lake. I must tell you all….some do gooder tried to put the green end On the rock for the winter, and
+broke it’s
+core. The circling cedar has died from it’s injuries. how sad
 
 ![Picture](assets/images/p44.png)
 
@@ -153,7 +223,9 @@ I have photographed this cedar tree (circling cedar) for over 50 years. It stand
 
 ![Picture](assets/images/p338.png)
 
-The trail to the upper lake shows on the right in summer & fall In the spring this area is too wet. follow the braided trail up on the hill side. In 2024 an avalanche brought down dozens of trees.
+The trail to the upper lake shows on the right in summer & fall In the spring this area is too wet. follow the
+braided
+trail up on the hill side. In 2024 an avalanche brought down dozens of trees.
 
 ![Picture](assets/images/p339.png)
 
@@ -201,9 +273,15 @@ Does anyone see the image of a lady leaning back against the peak, holding a bab
 
 ![Picture](assets/images/p358.png)
 
-This image was taken 4.27.20 on the ridge between st. regis lakes & stevens lakes. stevens peak, top right center. 8 miles rt, 2700 verts to this point
+This image was taken 4.27.20 on the ridge between st. regis lakes & stevens lakes. stevens peak, top right
+center. 8
+miles rt, 2700 verts to this point
 
-Trees! They simply are amazing to me. They stand all Summer in scorching heat, Then in Winter they freeze solid white. Temperature differences can reach, 100°’s. So the next time you are in the mountains, hug that tree that inspires you. chic      1.23.2025
+Trees! They simply are amazing to me. They stand all Summer in scorching heat, Then in Winter they freeze
+solid white.
+Temperature differences can reach, 100°’s. So the next time you are in the mountains, hug that tree that
+inspires you.
+chic      1.23.2025
 
 The below are some historical images
 On the stevens peak area.
@@ -213,7 +291,11 @@ to enhance their visit.
 
 ## The great avalanche of 1903
 
-all images below are from the "barnard-stockbridge photography collection" And are housed in the university of idaho digital archives.  I would like to thank the  Northern pacific railroad depot museum For turning me on to the below history
+all images below are from the "barnard-stockbridge photography collection" And are housed in the university of
+idaho
+digital archives.  I would like to thank the  Northern pacific railroad depot museum For turning me on to the
+below
+history
 
 *Picture (Image missing)*
 
@@ -221,11 +303,19 @@ all images below are from the "barnard-stockbridge photography collection" And a
 
 ![Picture](assets/images/8420231025a.jpg)
 
-this is an image of the old train reverse "s" shaped bridge That used to be in the area of the trailhead for stevens lakes. the current trailhead is marked with a red dot
+this is an image of the old train reverse "s" shaped bridge That used to be in the area of the trailhead for
+stevens
+lakes. the current trailhead is marked with a red dot
 
 *Picture (Image missing)*
 
-In this hand colored photo, notice the mine dump near center It is where the gigantic log is above the upper parking area. Also, notice the two mine buildings below the current trailhead the trestles burned in 1910 and were replaced with earthen bridges
+In this hand colored photo, notice the mine dump near center It is where the gigantic log is above the upper
+
+parking
+
+area. Also, notice the two mine buildings below the current trailhead the trestles burned in 1910 and were
+replaced with
+earthen bridges
 
 ### The engines were pushing a caboos and a rotary plow, but as it rounded the "s" shaped bridge, it broke down, stranding some cars on the bridge
 
@@ -240,7 +330,9 @@ they were shot on 8x10 glass negatives.
 
 ![Picture](assets/images/8420231046a.jpg)
 
-In these images, notice the lack of trees. in 1892-3 a huge fire denuded the entire area. the avalanche came right down the slope above the trailhead
+In these images, notice the lack of trees. in 1892-3 a huge fire denuded the entire area. the avalanche came
+right down
+the slope above the trailhead
 
 *Picture (Image missing)*
 
@@ -258,11 +350,19 @@ This image of the rotary snow blower, is to illustrate  the type of equipment us
 
 *Picture (Image missing)*
 
-This image is from 1890 and illustrates the extent of the avalanches debris that occurred many times along the northern pacific rail line. The bridge on the left is over willow creek. it is now an earthen bridge that you cross to get to lone lake
+This image is from 1890 and illustrates the extent of the avalanches debris that occurred many times along the
+
+northern
+
+pacific rail line. The bridge on the left is over willow creek. it is now an earthen bridge that you cross to
+get to
+lone lake
 
 ![Picture](assets/images/8420231056a.jpg)
 
-The forest around the "s" bridge, was burned in 1893-4,  And the "s" shaped bridge completely burned in the great fire of 1910
+The forest around the "s" bridge, was burned in 1893-4,  And the "s" shaped bridge completely burned in the
+great fire
+of 1910
 
 *Picture (Image missing)*
 
@@ -286,7 +386,9 @@ This image is of upper stevens lake in 1920 notice the lack of trees Image by ne
 
 ![Picture](assets/images/8420231126a.jpg)
 
-An image of lower stevens lake and peak from 1893 the fires of 1893-4, 1910 & 1923 destroyed all the trees image by nellie stockbridge
+An image of lower stevens lake and peak from 1893 the fires of 1893-4, 1910 & 1923 destroyed all the trees
+image by
+nellie stockbridge
 
 *Picture (Image missing)*
 
@@ -305,13 +407,19 @@ I first hiked into the Stevens Lakes area, back in the mid 60’s.
 Back then, the amount of trees were way less, and what was there were young Sub-Alpine Fir.
 This whole area was ravaged by wildfires in 1893-4,  The Great Burn in 1910, and again in 1928.
 
-Since then, I have always wondered what the pipe line was used for, but more importantly how they got the 24 foot long by 10" diameter pipe sections in place up Trail #165.
+Since then, I have always wondered what the pipe line was used for, but more importantly how they got the 24
+foot long
+by 10" diameter pipe sections in place up Trail #165.
 
-If you’ve hiked it, you know what I mean. Keep in mind the current long switchback on the scree slope, wasn’t the trail back then.
+If you’ve hiked it, you know what I mean. Keep in mind the current long switchback on the scree slope, wasn’t
+the trail
+back then.
 The old trail stayed close to the west side of East Willow Creek.
 
 The pipe sits in a trench deep enough that if an avalanche occurred, the pipe could not be dislodged.
-Over a hundred years of sediment, pine neddles, leaves and other forest debris have fallen to nearly covered the pipe in its trench.
+Over a hundred years of sediment, pine neddles, leaves and other forest debris have fallen to nearly covered
+the pipe in
+its trench.
 This image is after the first scree slope, above where the road becomes the trail.
 
 ![Picture](assets/images/7312024141p.jpg)
@@ -320,7 +428,9 @@ Reindeer Queen Mine built a 5 foot tall log dam stretching across the exit creek
 This image show a small portion of the headwall reservoir, yellow arrow.
 Red line is the mine at the current switchback.
 The image below is not the Reindeer Queen mine.
-This image is to show you the reservoir for the Reindeer Queen Mine, and the old mine at the corner of the scree switchback.
+This image is to show you the reservoir for the Reindeer Queen Mine, and the old mine at the corner of the
+scree
+switchback.
 
 ![Picture](assets/images/img-27e53a7f2bc4-1.jpg)
 
@@ -332,16 +442,28 @@ The miners of the reindeer queen mine
 
 *Picture (Image missing)*
 
-Because they constructed a trench to hold the pipe, I believe they used horses to transport the pipe to the upper sections, via that trench.
+Because they constructed a trench to hold the pipe, I believe they used horses to transport the pipe to the
 
-The pack train couldn’t turn sharp corners coming up Trail #165, so I believe that’s the only way they could get the long sections up trail.
+upper
 
-Trail #165 has too many turns, rocky areas, and steepness to get that length of pipe up the current hiking trail.
+sections, via that trench.
 
-The mines used the water pressure to wash their equipment, keep the dust down inside the mine, fire suppression, human uses, generating electricity, and to power their new water powered Ingersoll-Rand Air Compressor.
-So the next time you hike into Stevens Lakes, think of the efforts put forth by those miners, back in the late 1800’s to 1933 and beyond, that the Reindeer Queen Mine and the water pipe, were in existence/production.
+The pack train couldn’t turn sharp corners coming up Trail #165, so I believe that’s the only way they could
+get the
+long sections up trail.
 
-I would like to thank the following people for their kind words of encouragement and guidance in creating this article.
+Trail #165 has too many turns, rocky areas, and steepness to get that length of pipe up the current hiking
+trail.
+
+The mines used the water pressure to wash their equipment, keep the dust down inside the mine, fire
+suppression, human
+uses, generating electricity, and to power their new water powered Ingersoll-Rand Air Compressor.
+So the next time you hike into Stevens Lakes, think of the efforts put forth by those miners, back in the late
+1800’s to
+1933 and beyond, that the Reindeer Queen Mine and the water pipe, were in existence/production.
+
+I would like to thank the following people for their kind words of encouragement and guidance in creating this
+article.
 
 Dick Caron
  For his information on mining history, and allowing me to photograph some of his images.
@@ -352,7 +474,9 @@ The Captain John Mullan Museum.
 Their collection from Butch Jacobson was more than I hoped for.
 
 Bud Koski  and The John Mullan Museum
-For turning me on to Butch Jacobson’s incredible albums of newspaper articles and images, at The Captain John Mullan Museum
+For turning me on to Butch Jacobson’s incredible albums of newspaper articles and images, at The Captain John
+Mullan
+Museum
 The information I learned at the museum was invaluable.
 And the albums showed me several more topics that I will write about.
 
@@ -365,7 +489,9 @@ Nellie used large format cameras up to 8x10", with glass negatives, in the field
 Sometimes she would traveled with a portable darkroom, so she could see what she got, was what she wanted.
 Nellie had a staff that carried and set up her equipment.
 
-You can learn more about Nellie, and view her work at the below url. Find the "Timeline" button to see them in order of date.
+You can learn more about Nellie, and view her work at the below url. Find the "Timeline" button to see them in
+order of
+date.
 
 <https://www.lib.uidaho.edu/digital/barstock/about.html#:~:text=Nellie%20Stockbridge&text=Stockbridge%20was%20a%20dedicated%20photographer,became%20the%20mayor%20of%20Wallace.>
 
@@ -373,22 +499,34 @@ You can learn more about Nellie, and view her work at the below url. Find the "T
 
 ## The upper pipe line from lower stevens lake
 
-In the process of doing research at the Captain John Mullan Museum, I came across a second pipe line, to tell you about.
-It is closely related to the first story, in that it existed in the same drainage, and used the same water supply, kinda. But that’s it.
+In the process of doing research at the Captain John Mullan Museum, I came across a second pipe line, to tell
+you about.
+It is closely related to the first story, in that it existed in the same drainage, and used the same water
+supply,
+kinda. But that’s it.
 I spent hours examining Nellie Stockbridge’s images, and found the image below.
 It is this image that got me interested in the original pipe lines history.
-I first thought they were used together. But since, I have learned that they were used at different mines, and were from different reservoirs.
-The miners had installed an upper 800 foot section with the 10" diameter pipe all the way up to Lower Stevens Lake.
+I first thought they were used together. But since, I have learned that they were used at different mines, and
+were from
+different reservoirs.
+The miners had installed an upper 800 foot section with the 10" diameter pipe all the way up to Lower Stevens
+Lake.
 The pipe in this image is vastly different than the 10" pipe in the first story.
-It is a 10" diameter pipe that weighs a lot less, making it easier to place the pipe all the way up East Willow Creek, to Lower Stevens Lake.
+It is a 10" diameter pipe that weighs a lot less, making it easier to place the pipe all the way up East
+Willow Creek,
+to Lower Stevens Lake.
 
 *Picture (Image missing)*
 
-Because Trail #165 is so rough, steep, and twisted, they couldn’t have brought these pipe sections up the hiking trail.
+Because Trail #165 is so rough, steep, and twisted, they couldn’t have brought these pipe sections up the
+
+hiking trail.
 
 So one day, I walked up to the Silver Crest Mine (above), and searched for clues.
 Above the dump site in the above image, I notice the whitish pipe line that goes left from the waste dump.
-I walked it out past the Carney 1-3 Mine site. This old trail pictured below, fades into the Earth past these mines. So there is a possibility that the water pipe terminated at the Carney 1-3 mines.
+I walked it out past the Carney 1-3 Mine site. This old trail pictured below, fades into the Earth past these
+mines. So
+there is a possibility that the water pipe terminated at the Carney 1-3 mines.
 There was a hiking trail up from the Dorsey trestle , that was considered easier. But I haven’t found it yet.
 This image was taken near the Silver Crest Group Mine, and heads north.
 I believe the miners transported the 10" pipe sections to the Silver Crest Mine on this gentle trail.
@@ -407,7 +545,8 @@ The yellow arrow shows the Reindeer Queen Mines headwall reservoir.
 
 ![Picture](assets/images/img-9909f64b5b29-1.jpg)
 
-The camp for the miners, skirts the current Trail #165 just before you pop out of the forest near the headwall waterfall.
+The camp for the miners, skirts the current Trail #165 just before you pop out of the forest near the headwall
+waterfall.
 
 ![Picture](assets/images/7312024233p.jpg)
 
@@ -415,7 +554,13 @@ The camp for the miners, skirts the current Trail #165 just before you pop out o
 
 *Picture (Image missing)*
 
-(Authors note…in the late 80’s, I took part in a clean up of 6-4x8 plywood shacks and all their miscellaneous junk. These plywood shacks replaced the old building, pictured above and below. Now, every year, the Spokane Mountaineer’s members with help from our conservation committee, do extensive trail work twice a year.  chic)
+(Authors note…in the late 80’s, I took part in a clean up of 6-4x8 plywood shacks and all their miscellaneous
+
+junk.
+
+These plywood shacks replaced the old building, pictured above and below. Now, every year, the Spokane
+Mountaineer’s
+members with help from our conservation committee, do extensive trail work twice a year.  chic)
 
 On June 28th, 2024, I hiked into Lower Stevens Lake, again to search for clues.
 What I discovered were these four large boulders.
@@ -431,15 +576,21 @@ Around 1916-7 the dam at Lower Stevens Lake, failed.
 The rush of water created a 30 foot tall wall of water all the way down the East Fork Willow Creek drainage.
 It destroyed all the Reindeer Queen Mine buildings, and others structures along its path.
 
-Near the present trailhead, there was a train trestle that crossed over Willow Creek, just west of the parking area.
+Near the present trailhead, there was a train trestle that crossed over Willow Creek, just west of the parking
+area.
 It was made of timbers, and was washed away in the flood.
-After the washout, the Northern Pacific Railroad created an earthen railroad crossing above all the creeks on the Idaho side.
+After the washout, the Northern Pacific Railroad created an earthen railroad crossing above all the creeks on
+the Idaho
+side.
 This crossing leads to the Lone Lake Trail #138, on the west side of Willow Creek.
 
 The flood also caused the "S" shaped Bridge to be moved out of plum.
-The failure of the dam happened around 11am, and took until 4pm to reach Osburn and Kellogg, where low laying areas of the cities were flooded.
+The failure of the dam happened around 11am, and took until 4pm to reach Osburn and Kellogg, where low laying
+areas of
+the cities were flooded.
 
-I would like to thank the following people for their kind words of encouragement and guidance in creating this article.
+I would like to thank the following people for their kind words of encouragement and guidance in creating this
+article.
 
 The Captain John Mullan Museum
 It’s amazing to see how people like our grand and great grand fathers and mothers lived.
@@ -452,7 +603,9 @@ Bob Dunesmore
 For his mining engineering expertise.
 
 Bud Koski
-For turning me on to Butch Jacobson’s incredible albums of newspaper articles and images, at The Captain John Mullan Museum
+For turning me on to Butch Jacobson’s incredible albums of newspaper articles and images, at The Captain John
+Mullan
+Museum
 The information I learned at the museum was invaluable.
 And the albums showed me several more topics that I want to explore.
 
@@ -471,40 +624,68 @@ You can learn more about Nellie, and view her work at the below url.
 
 ## Mullan fish & game club and their cabin at lower stevens lake
 
-As I was doing research for the above two stories, I came across old newspaper articles about the Mullan Fish & Game Club. (Association)
-In those articles I discovered that the club had started a program to stock the local lakes of the Silver Valley, in 1912.
-The club ordered as many as 200,000 fish fry, to be planted in the fall, to many lakes and streams in the Silver Valley.
+As I was doing research for the above two stories, I came across old newspaper articles about the Mullan Fish
+& Game
+Club. (Association)
+In those articles I discovered that the club had started a program to stock the local lakes of the Silver
+Valley, in
+
+1912.
+The club ordered as many as 200,000 fish fry, to be planted in the fall, to many lakes and streams in the
+Silver Valley.
 For "Twin Lakes" (Stevens Lakes), they had to haul the fish fry in, in containers on their backs.
 About the same time, the club proposed building a log bungalow at Lower Stevens Lake.
-About the same time the United States Forestry Service (old name), proposed building a cabin between the two lakes, often referred to as Twin Lakes.
-In that proposal, the USFS suggested that they could make the Upper East Fork Willow Creek between the lakes, more inhabitable for fish to spawn.
-As the club’s cabin turned out to be popular, they proposed a second cabin at Lower Stevens Lake, for their ladies.
+About the same time the United States Forestry Service (old name), proposed building a cabin between the two
+lakes,
+often referred to as Twin Lakes.
+In that proposal, the USFS suggested that they could make the Upper East Fork Willow Creek between the lakes,
+more
+inhabitable for fish to spawn.
+As the club’s cabin turned out to be popular, they proposed a second cabin at Lower Stevens Lake, for their
+ladies.
 However, I found no evidence that the second cabin was ever built.
 In 1928 most of the Stevens Peak area burned, and the cabin(s?)
 became history.
-The only images I have found of the cabin, does not give me a clue to where on the shore line, the cabin existed.
+The only images I have found of the cabin, does not give me a clue to where on the shore line, the cabin
+existed.
 
-But having hiked all around the lake many times, it had to be on the very first flat spot as Trail #165 arrives to the lower lake. the fire pit is just below old cabin site.
+But having hiked all around the lake many times, it had to be on the very first flat spot as Trail #165
+arrives to the
+lower lake. the fire pit is just below old cabin site.
 
 ![Picture](assets/images/img-b3ad615d9e04-1.jpg)
 
-The United State Forestry Service eventually built a cabin/lookout on Stevens summit, and connected them to the Mullan Fish & Game Club, via a telephone line.
+The United State Forestry Service eventually built a cabin/lookout on Stevens summit, and connected them to
+the Mullan
+Fish & Game Club, via a telephone line.
 
-The only evidence I have found is really weak, but knowing the summit as well as I do, I can see in the below image a rectangular structure on the summit.
+The only evidence I have found is really weak, but knowing the summit as well as I do, I can see in the below
+image a
+rectangular structure on the summit.
 
 *Picture (Image missing)*
 
-If you tap on the image, save it so you can expand your screen to see what little evidence I’ve come across so far in my research.
+If you tap on the image, save it so you can expand your screen to see what little evidence I’ve come across so
 
-I will be visiting the Captain John Mullan Museum in the upcoming weeks to pour over the albums of newspaper articles.
+far in my
+
+research.
+
+I will be visiting the Captain John Mullan Museum in the upcoming weeks to pour over the albums of newspaper
+articles.
 Stay tuned.
 
-I would like to thank the following people for their kind words of encouragement and guidance in creating this article.
+I would like to thank the following people for their kind words of encouragement and guidance in creating this
+article.
 
-The Captan John Mullan Museum in Mullan, Idaho for having collected and displayed thousands of artifacts, including the Butch Jacobsen History Albums.
+The Captan John Mullan Museum in Mullan, Idaho for having collected and displayed thousands of artifacts,
+including the
+Butch Jacobsen History Albums.
 
  Bud Koski
-For turning me on to Butch Jacobson’s incredible albums of newspaper articles and images, at The Captain John Mullan Museum
+For turning me on to Butch Jacobson’s incredible albums of newspaper articles and images, at The Captain John
+Mullan
+Museum
 The information I learned at the museum was invaluable.
 And the albums showed me several more topics that I want to explore.
 

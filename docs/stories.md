@@ -1,6 +1,8 @@
 # Stories
 
-Stories... we encourage you to send us your writing on human powered sports. please keep them clean and short. we do reserve the right to refuse any inappropriate content
+Stories... we encourage you to send us your writing on human powered sports. please keep them clean and short.
+we do
+reserve the right to refuse any inappropriate content
 
 ## Stories
 
@@ -10,27 +12,43 @@ Stories... we encourage you to send us your writing on human powered sports. ple
 
 ### S.O.S. Explained
 
- An Airbus 380 is on its way across the Atlantic. It flies consistently at 800 km/h at 30,000 feet, when suddenly a Eurofighter with Tempo Mach 2 appears.
+ An Airbus 380 is on its way across the Atlantic. It flies consistently at 800 km/h at 30,000 feet, when
+suddenly a
+Eurofighter with Tempo Mach 2 appears.
 
- The pilot of the fighter jet slows down, flies alongside the Airbus and greets the pilot of the passenger plane by radio: "Airbus, boring flight isn’t it? Now have a look here!"
+ The pilot of the fighter jet slows down, flies alongside the Airbus and greets the pilot of the passenger
+plane by
+radio: "Airbus, boring flight isn’t it? Now have a look here!"
 U
- He rolls his jet on its back, accelerates, breaks through the sound barrier, rises rapidly to a dizzying height, and then swoops down almost to sea level in a breathtaking dive. He loops back next to the Airbus and asks, "Well, how was that?"
+ He rolls his jet on its back, accelerates, breaks through the sound barrier, rises rapidly to a dizzying
+height, and
+then swoops down almost to sea level in a breathtaking dive. He loops back next to the Airbus and asks, "Well,
+how was
+that?"
 
  The Airbus pilot answers: "Very impressive, but now you look!"
 
- The jet pilot watches the Airbus, but nothing happens. It continues to fly stubbornly straight, with the same speed. After 15 minutes, the Airbus pilot radios, "Well, how was that?
+ The jet pilot watches the Airbus, but nothing happens. It continues to fly stubbornly straight, with the same
+speed.
+After 15 minutes, the Airbus pilot radios, "Well, how was that?
 
  Confused, the jet pilot asks, "What did you do?"
 
- The AirBus pilot laughs and says, "I got up, stretched my legs, walked to the back of the aircraft to use the washroom, then got a cup of coffee and a chocolate fudge pastry.
+ The AirBus pilot laughs and says, "I got up, stretched my legs, walked to the back of the aircraft to use the
+washroom,
+then got a cup of coffee and a chocolate fudge pastry.
 
  The moral of the story is:
 
- When you are young, speed and adrenaline seems to be great. But as you get older and wiser, you learn that comfort and peace are more important.
+ When you are young, speed and adrenaline seems to be great. But as you get older and wiser, you learn that
+comfort and
+peace are more important.
 
  This is called S.O.S.: Slower, Older, but Smarter.
 
- Dedicated to all my friends who are like me, now realizing that it is time to slow down and enjoy the rest of the trip. Dedicated to all seniors.
+ Dedicated to all my friends who are like me, now realizing that it is time to slow down and enjoy the rest of
+the trip.
+Dedicated to all seniors.
 
 anonymous
 
@@ -470,7 +488,9 @@ My mountains are screaming--
 It's astonishing to me that the spiny cirques of the American Selkirks, have lasted for 135 million years.
 Some look so fragile, you wonder of its safety.
 Yet we scramble for these perfect spots to photograph each section.
-My friend Chris is an aggressive explorer.  Yet is first to point out hazards and offer cautions.  Such a wanderer makes a special hiking companion.
+My friend Chris is an aggressive explorer.  Yet is first to point out hazards and offer cautions.  Such a
+wanderer makes
+a special hiking companion.
 One who is cautious, yet has to go to the coolest spots.
                 Thanks Chris .
 
@@ -553,27 +573,64 @@ How long does your sex last?
 
                         chic      9.22.11
 
-Hiking, biking, swimming, climbing, rollerblading, mountain biking, partying, snowshoeing, backpacking,scrambling,
+Hiking, biking, swimming, climbing, rollerblading, mountain biking, partying, snowshoeing,
+backpacking,scrambling,
 are all fillers to keep us sane, between ski seasons.
 
                          chic      9.22.11
 
 What a day to remember.
 
-Yesterday, Chris and I hiked to Upper and Lower Two Mouth Lakes high in the American Selkirks.  The trail up thru the old forest was riddled with roots and rocks, giant trees,  and house size boulders.
+Yesterday, Chris and I hiked to Upper and Lower Two Mouth Lakes high in the American Selkirks.  The trail up
+thru the
+old forest was riddled with roots and rocks, giant trees,  and house size boulders.
 Once at the lakes, Chris was astounded by their sheer beauty.
-Lower Two Mouth Lakes has a lot shoreline made up of rolling granite, and multi colored grasses, that beg to be photographed.
+Lower Two Mouth Lakes has a lot shoreline made up of rolling granite, and multi colored grasses, that beg to
+be
+photographed.
 What the maps don't show, are the many lengthy bays, jutting back along its
 Shoreline.
-Sub-Alpine Fir dominate the landscape.  When these trees are young, under 40 years or so, they are short and remind me of hula dancers.  As they age,  they grow into towering spears of solid green.  By the time they are 50 feet or so, they are ancient.  Walking amongst these trees, one conjures up feelings of walking in a make believe land.
-The basin these lakes sit in, are surrounded by towering peaks and huge granite slabs, miles wide and thousands of feet from the valley floors to their lofty summits.  Scattered along the basin floor are boulders the size cars far away from the ridge lines and peaks.
+Sub-Alpine Fir dominate the landscape.  When these trees are young, under 40 years or so, they are short and
+remind me
+of hula dancers.  As they age,  they grow into towering spears of solid green.  By the time they are 50 feet
+or so, they
+are ancient.  Walking amongst these trees, one conjures up feelings of walking in a make believe land.
+The basin these lakes sit in, are surrounded by towering peaks and huge granite slabs, miles wide and
+thousands of feet
+from the valley floors to their lofty summits.  Scattered along the basin floor are boulders the size cars far
+away from
+the ridge lines and peaks.
 Off in the distance stands Harrison Peak with it's hook nose summit.
 On the opposite side of the lake's basin, stands Peak 7171' with a shear vertical face.
-After capturing many images around the lake, we ventured up a ridge line to the upper base of this peak.  We examined a route on a less vertical east face, and set our goal for the top.  As we worked our way up thru the diagonal rock bands.  The views improve with each step.  Once above the steepest section, we walked along it's shear vertical edge.  Views of other ridge lines leading up to the summit, were sole gnarly, they are simply impossible to hike or climb.
+After capturing many images around the lake, we ventured up a ridge line to the upper base of this peak.  We
+examined a
+route on a less vertical east face, and set our goal for the top.  As we worked our way up thru the diagonal
+rock bands.
+The views improve with each step.  Once above the steepest section, we walked along it's shear vertical edge.
+Views of
+other ridge lines leading up to the summit, were sole gnarly, they are simply impossible to hike or climb.
 As our summit came closer,  and views kept getting even more amazing, we
-Realized that this was a false summit.  Just above us, further up the ridge, sits our goal at 7001'.  This summit, Altho unnamed, stands above Kent Lake in the back of a huge granite cirque.  The ridge line around the cirque offers so many photo ops., you have to become choosy with your shooting.  The upper reaches of the ridge line is basically flat.  As we wandered about  looking for the perfect scene, we realized that all our images will be perfect, simply because of our location.  You just can't take a bad image amongst such astounding beauty.  All around us for miles are the many summits of the American Selkirks.  A cool view of the Seven Sisters, is viewed inline as opposed to face on.  A view rarely seen by most.
-The hardest part for Chris and I , is the decision to head down.  It isn't that there aren't great shots on the way down, it's just that you don't want to leave such a beautiful place.
-The long nine miles walk back to the car was uneventful, until we reached the trailhead.  Here we meet Sunshine Lisa and a young man, who were rock climbing up higher.  When we turned to walk the remaining 1.8 miles, Sunshine Lisa offered us a quick ride to our cars.
+Realized that this was a false summit.  Just above us, further up the ridge, sits our goal at 7001'.  This
+summit, Altho
+unnamed, stands above Kent Lake in the back of a huge granite cirque.  The ridge line around the cirque offers
+so many
+photo ops., you have to become choosy with your shooting.  The upper reaches of the ridge line is basically
+flat.  As we
+wandered about  looking for the perfect scene, we realized that all our images will be perfect, simply because
+of our
+location.  You just can't take a bad image amongst such astounding beauty.  All around us for miles are the
+many summits
+of the American Selkirks.  A cool view of the Seven Sisters, is viewed inline as opposed to face on.  A view
+rarely seen
+by most.
+The hardest part for Chris and I , is the decision to head down.  It isn't that there aren't great shots on
+the way
+down, it's just that you don't want to leave such a beautiful place.
+The long nine miles walk back to the car was uneventful, until we reached the trailhead.  Here we meet
+Sunshine Lisa and
+a young man, who were rock climbing up higher.  When we turned to walk the remaining 1.8 miles, Sunshine Lisa
+offered us
+a quick ride to our cars.
 Yahoo. For the great young people of Bonner's Ferry and Sandpoint.
 Sunshine Lisa dropped us off at the upper end of the bridge replacement we had to start from.
 Not only was the hike exceptional, the locals were kind and saved our butts at the end of a hard days hike.
@@ -586,20 +643,26 @@ The very best ridge line in our region, is by far The Seven Sisters of the Ameri
 First the Pack River road offers an excellent view of Chimney Rock, and a glimpse of the Sisters themselves.
 Then there is the scenic trail to Harrison Lake, with views of Harrison Peak's
 hook nose  shape.
-Once at the lake, which is beautiful in it's own right, the high ridge that circles most of the basin is spectacular.  Harrison Peak to the north is the start of The Seven Sisters.  While just south down the crest is Peak 7171'.
+Once at the lake, which is beautiful in it's own right, the high ridge that circles most of the basin is
+spectacular.
+Harrison Peak to the north is the start of The Seven Sisters.  While just south down the crest is Peak 7171'.
 This crest can be accessed thru lots of effort by boulder hopping.
 But once on the ridge, the high trail to the south will amaze even the most
 experienced explorer.
 The path wanders amungst huge boulders and past ancient Sub-Alipne Fir.
 Both living and long since bleached white from the relentless sun.
 Altho the path is narrow, it allows for views all around, as you ascend.
-As the summit block gets closer, you realize that these high peaks really are as sawtooth like as they appear from Highway 200.  The excitement builds until all directions are down.
+As the summit block gets closer, you realize that these high peaks really are as sawtooth like as they appear
+from
+Highway 200.  The excitement builds until all directions are down.
 Once you've stood no top of the Selkirks Crest, you start planning your next trip.
 After all, there are 6 more summits to play on.
 
                          chic      9.30.11
 
-At 7001' in the American Selkirks, towers an unnamed peak above Kent Lake.  It's face and ridge line are so scenic, it astonishes anyone who reaches this height.
+At 7001' in the American Selkirks, towers an unnamed peak above Kent Lake.  It's face and ridge line are so
+scenic, it
+astonishes anyone who reaches this height.
 As the leaves start their migration of colors toward winter, they turn on like spotlights.
 The bright colors stand stark against the light grey granite.
 Along with the bold dark greens of the Sub-Alpine Fir, the contrast makes for incredible images.
@@ -607,30 +670,67 @@ Go visit the high country and benefit from its riches.
 
                          chic      9.30.11
 
-It's late  September, when the mountains are beginning their migration of colors.  First they are subtle  with yellows and burnt oranges amungst the brilliant greens.
-Over the next several weeks this migration will light up the mountains with such beauty, it will astonish even the most avid wanderers.  The ground cover will turn brilliant reds, organes , and yellows.  These colors will carpet the mountains with astonishing beauty.
+It's late  September, when the mountains are beginning their migration of colors.  First they are subtle  with
+yellows
+and burnt oranges amungst the brilliant greens.
+Over the next several weeks this migration will light up the mountains with such beauty, it will astonish even
+the most
+avid wanderers.  The ground cover will turn brilliant reds, organes , and yellows.  These colors will carpet
+the
+mountains with astonishing beauty.
 Then just as the lands are about to turn white, the Larch flash onto the scene in electric yellows.
 It's fall in the mountains.
 It's beautiful in the mountains.
 
                           chic       9.30.11
 
-The dark green, nearly black in places, of the moss covered rock of Goofy Falls, are a photographers dream come true.  The body of these falls are broken rock in a chaos of angles and near vertical stands.
-The flow of water is sparse, and drips more than tumbles.  Where the water runs "heavy", are bare and glisten in the light.  Along side these flows are mosses so thick, it's hard to determine the underlying rocks shape.
+The dark green, nearly black in places, of the moss covered rock of Goofy Falls, are a photographers dream
+come true.
+The body of these falls are broken rock in a chaos of angles and near vertical stands.
+The flow of water is sparse, and drips more than tumbles.  Where the water runs "heavy", are bare and glisten
+in the
+light.  Along side these flows are mosses so thick, it's hard to determine the underlying rocks shape.
 The greens are so dark, the textures adds to its photo quality.
-This is one falls that actually looks and photographs better with less flow than more.  As you position yourself around the base of the falls, especially along it's lower stream, you notice that the rocks of these falls are actually goldish and orange.  As the stream flows over the rocks in a series of tumbles and drops, the multi colored  rocks shine in a splash of color.  These brilliant rocks add to the contrast of the dark green mosses above them.  On one side of the narrow canyon, the rocks overhang drastically , which adds depth and size to the canyon.
-Amongst all the tame chaos, deep inside the rocks, under the falls, lives a family of Dippers.  As we set up to photograph the falls, they fly out thru the falling water, and perch on the diagonal logs in front of the flow.  They dip, hence their name, and seam to dance a happy dance, mostly because they seam to be showing off their home.
+This is one falls that actually looks and photographs better with less flow than more.  As you position
+yourself around
+the base of the falls, especially along it's lower stream, you notice that the rocks of these falls are
+actually goldish
+and orange.  As the stream flows over the rocks in a series of tumbles and drops, the multi colored  rocks
+shine in a
+splash of color.  These brilliant rocks add to the contrast of the dark green mosses above them.  On one side
+of the
+narrow canyon, the rocks overhang drastically , which adds depth and size to the canyon.
+Amongst all the tame chaos, deep inside the rocks, under the falls, lives a family of Dippers.  As we set up
+to
+photograph the falls, they fly out thru the falling water, and perch on the diagonal logs in front of the
+flow.  They
+dip, hence their name, and seam to dance a happy dance, mostly because they seam to be showing off their home.
 These falls are unique and special to our area.
-Most falls rage, while these falls drip onto lush green moss.  It is a place to return to often for its unique beauty.
+Most falls rage, while these falls drip onto lush green moss.  It is a place to return to often for its unique
+beauty.
 
                             chic  10.4.11
 
 High along the Idaho Montana boarder at 7312 vertical feet, sits Ward Peak.
-The southern trail to the top is only a mile hike.  In early October this face lights up in reds, burnt oranges (Knot Weed) among the pastel yellow grasses.  Sparsely scattered along this face are ancient white snags towering like odd chandeliers .
-As the trail switchbacks one time up to the summit ridge, Eagle Peak appears across the high mountain cirque.  This cirque also contains five beautiful lakes,
-Two of which are visible from Ward's summit ridge.  As you walk along the boulder strun ridge, there is an area that has been stacked as a wind break campsite.  A little further is another ridge jutting off to the north.
-Once on the new ridge you have views of Mary Lake on one side and Unnamed Double Lake that I call Dos Lac on the other.  Imagine the photos.
-As we drop down the ridge towards the trailhead, we venture onto a hidden shelf with wild flowers and fall colors.  Across the cirque is a field of brilliant fall colors dying to be photographed.  Further down the face the contrast ancient white snags , blonde grasses, and bright orange Knot Weed dominate the views.
+The southern trail to the top is only a mile hike.  In early October this face lights up in reds, burnt
+oranges (Knot
+Weed) among the pastel yellow grasses.  Sparsely scattered along this face are ancient white snags towering
+like odd
+chandeliers .
+As the trail switchbacks one time up to the summit ridge, Eagle Peak appears across the high mountain cirque.
+This
+cirque also contains five beautiful lakes,
+Two of which are visible from Ward's summit ridge.  As you walk along the boulder strun ridge, there is an
+area that has
+been stacked as a wind break campsite.  A little further is another ridge jutting off to the north.
+Once on the new ridge you have views of Mary Lake on one side and Unnamed Double Lake that I call Dos Lac on
+the other.
+Imagine the photos.
+As we drop down the ridge towards the trailhead, we venture onto a hidden shelf with wild flowers and fall
+colors.
+Across the cirque is a field of brilliant fall colors dying to be photographed.  Further down the face the
+contrast
+ancient white snags , blonde grasses, and bright orange Knot Weed dominate the views.
 Altho this is a short hike, it contains all the ingredients to please even the most traveled hiker.
 
                            chic     10.4.11
@@ -660,13 +760,18 @@ in fall colors.  It's the intensity of these colors that draws your eye.
 The bench we are shooting from had both wild flowers and fall colors.
 Next to us is a glacier polished rock slab that drops several thousand feet.
 The opposite side of the cirque is a descending ridge that runs out in a mile.
-From our high place, the double lake sparkles like a gem.  Dividing the lakes is a band of debris that snakes from one side to the other.
+From our high place, the double lake sparkles like a gem.  Dividing the lakes is a band of debris that snakes
+from one
+side to the other.
 One hot summer day that I was at the lake, I thot I'd dive in to cool off.
 After stripping down I stepped out onto a ledge just below the surface.
 To my amazement, that ledge was so far down, I never did stand on it.
 The clarity of the water was deceiving.
-From the lake the cirque stands high and imposing.  Way back in the center of the cirque is a huge snowfield left over from last winter or maybe the winter before.
-Another cool feature of these lakes, is a difficulty to reach. I have never unhappy with a trip Ward and Eagle Peaks.
+From the lake the cirque stands high and imposing.  Way back in the center of the cirque is a huge snowfield
+left over
+from last winter or maybe the winter before.
+Another cool feature of these lakes, is a difficulty to reach. I have never unhappy with a trip Ward and Eagle
+Peaks.
 
                           chic       10.4.11
 
@@ -862,7 +967,13 @@ then most of the hikes.
 
                              chic      10.7.11
 
-We walked the ridge again today.  This time we skipped the lakes and turned our efforts up hill.  As the trail submitted the ridge, we stepped off onto rough rolled granite.  After a brief stop to hydrate and snack, we focused our efforts  and our attention on the imposing 600 foot rock band in the middle of our ascent.  We chose a close diagonal crack that proved to be too scary for me.
+We walked the ridge again today.  This time we skipped the lakes and turned our efforts up hill.  As the trail
+submitted
+the ridge, we stepped off onto rough rolled granite.  After a brief stop to hydrate and snack, we focused our
+efforts
+and our attention on the imposing 600 foot rock band in the middle of our ascent.  We chose a close diagonal
+crack that
+proved to be too scary for me.
 After an even scarier descent, I moved south to a very doable route.
 Once past this obstacle, the first false summit loomed above us.
 Walking up the east face reminds me of a garden built by the gods.
@@ -871,13 +982,16 @@ Once on top of Peak 7001', we continued along the ridge to its lowest point.
 Here, with great views in all directions, we paused for lunch.
 After a delicious chicken caesar wrap, we photographed the rising clouds.
 It looked like a storm brewing, but turned out to be a great photo op.
-I had slipped on a frosted rock earlier and bruised my left IT muscle, so I decided not to continue on to the Wigwams.
+I had slipped on a frosted rock earlier and bruised my left IT muscle, so I decided not to continue on to the
+Wigwams.
 As Chris made his way down to an obvious route, I continued the scenes all around me.
 Off to the north, Lions Head, Myrtle, and Abandon peaks command the views.
 Turn 180 degrees and Harrison Peak and it's seven sisters line up.
 Further away to the south west of the sisters, Mount Roothaan, and it's erection,
 Chimney Rock silhouette the horizon.
-Soon Chris returned from the Wigs, and we started our ascent back up to Peak 7001'.  From Peak 7001', the descent to the van is a slow 6 mile hike.
+Soon Chris returned from the Wigs, and we started our ascent back up to Peak 7001'.  From Peak 7001', the
+descent to the
+van is a slow 6 mile hike.
 What an incredible hike and ridge to play on.
 
                            chic      10.9.11
@@ -910,15 +1024,26 @@ Snow White.
 
                              chic      10.9.11
 
-Along the trail to Two Mouth Lakes in the American Selkirks and the surrounding peaks are massive white pines with diameters 3 to 5feet.
+Along the trail to Two Mouth Lakes in the American Selkirks and the surrounding peaks are massive white pines
+with
+diameters 3 to 5feet.
 Theses giants produce an enormous amount of golden-orange pine needles
 Walking along a trail covered with this golden carpet seemed surreal.
-Once off the trail, as we ascended the steep ridge line, we are awe struck by all the colors.  First and foremost is the near overwhelming quantity and quality of the rolling white granite.  Scattered everywhere are granite boulders the size coolers to the size of busses.
-On the ridge top are granite boulders stacked precariously into towers and knife edge points.  It is a wonder they are still standing.
-All around are deciduous trees turning from deep green to spectacular yellows and reds.  Their leaves cover the ground all around.
+Once off the trail, as we ascended the steep ridge line, we are awe struck by all the colors.  First and
+foremost is the
+near overwhelming quantity and quality of the rolling white granite.  Scattered everywhere are granite
+boulders the size
+coolers to the size of busses.
+On the ridge top are granite boulders stacked precariously into towers and knife edge points.  It is a wonder
+they are
+still standing.
+All around are deciduous trees turning from deep green to spectacular yellows and reds.  Their leaves cover
+the ground
+all around.
 As we venture higher the huckleberry bushes turn a bright burnt orange.
 Everywhere they cover the ground and add spectacular colors to our hike.
-Not to mention.  When you blend all these vibrant colors against the abundant  white granite, the contrast is overwhelming .
+Not to mention.  When you blend all these vibrant colors against the abundant  white granite, the contrast is
+overwhelming .
 This is the American Selkirks.
 
                                chic       10.9.11

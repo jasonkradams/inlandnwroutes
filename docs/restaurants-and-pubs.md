@@ -5,7 +5,8 @@
 ### As we wander in the mountains, the end of the day, may require food and drink
 
 Below are restaurants and pubs to consider.
-If you come upon a great restaurant, please use the envelope at the bottom of each page to contact me, directly.
+If you come upon a great restaurant, please use the envelope at the bottom of each page to contact me,
+directly.
 
 *Washington*
 

@@ -26,7 +26,9 @@ stats:
 
 ## Description
 
-WEST END LAUNCH: The west end has an unusual designation. It's outlet flows in both directions, depending on what time of the year it is.
+WEST END LAUNCH: The west end has an unusual designation. It's outlet flows in both directions, depending on
+what time
+of the year it is.
 There are only a few streams in the U.S. that do that.
 This is a very busy fishing spot for those without a boat.
 Please do not block the launch area.
@@ -38,13 +40,19 @@ Fernan is a lake I go to if the winds are up on CDA.
 
 ## Directions
 
-From downtown CDA, drive east on Sherman Street (Main Street thru downtown), under the I-90 overpass east of Lake CDA Drive.
-On your right is the IPNF CDA River Ranger District, Fernan Ranger District office. Turn right (S) onto Theis Dr to the launch.
+From downtown CDA, drive east on Sherman Street (Main Street thru downtown), under the I-90 overpass east of
+Lake CDA
+Drive.
+On your right is the IPNF CDA River Ranger District, Fernan Ranger District office. Turn right (S) onto Theis
+Dr to the
+launch.
 Parking is limited, so stay between the lines, do not park on the sides, grass, or neighborhood.
 
 ## Cool things close by
 
-The NEW Fernan  Lake Natural Area, Lake CDA Drive to Higgins Point, the Fernan Saddle, Mineral Ridge, and the Wallace L. Forest Conservation Area.
+The NEW Fernan  Lake Natural Area, Lake CDA Drive to Higgins Point, the Fernan Saddle, Mineral Ridge, and the
+Wallace L.
+Forest Conservation Area.
 
 ## R & P
 
@@ -54,6 +62,7 @@ Moon Time, Mexican Food Factory, Trails End Brewery, and Franklins.
 
 ## Plan your trip
 
-[Click for Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
+[Click for Current NOAA Weather
+Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
 
 ## Photo gallery

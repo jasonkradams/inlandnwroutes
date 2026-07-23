@@ -13,8 +13,12 @@ Maps
 <!-- more -->
 
 I have been putting USFS Topo maps on each of our hikes.
-It is of courses, a work in progressed. In order to find maps I have to do a lot of research on National Forests websites.
-Something to keep in mind as you read our hikes, I only use USFS distances and elevation gain/loss. They are using the best equipment. If by chance I couldn’t get the numbers, I use personal GPS units
+It is of courses, a work in progressed. In order to find maps I have to do a lot of research on National
+Forests
+websites.
+Something to keep in mind as you read our hikes, I only use USFS distances and elevation gain/loss. They are
+using the
+best equipment. If by chance I couldn’t get the numbers, I use personal GPS units
 If you see the word "about" before a elevation or distance, they are not USFS numbers.
 
 Lost & found

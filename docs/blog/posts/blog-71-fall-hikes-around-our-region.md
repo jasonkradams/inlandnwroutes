@@ -15,7 +15,9 @@ Below I will suggest some of the best fall color hikes with additional insights.
 <!-- more -->
 
 (a note….
-All of my trail distances and elevation gains, are strictly from the U.S.F.S. websites on that particular hike, unless I prefix the number with "about".  C.),
+All of my trail distances and elevation gains, are strictly from the U.S.F.S. websites on that particular
+hike, unless I
+prefix the number with "about".  C.),
 
 Cabinet mountain wilderness
 Lower & Upper Geiger Lakes & Lost Buck Pass
@@ -23,18 +25,25 @@ Lower & Upper Geiger Lakes & Lost Buck Pass
 
 Lower Geiger Lake is an easy 2 miles and 1000verts.
 The Upper Geiger Lake is just a mile further, with 600verts.
-But don’t stop there. Above you in a notch to the south is Lost Buck Pass. Here the trail merges with the Cabinet Divide Trail #360. If you walk south on this high ridge, the views of Wanless Lake below Engle Peak, fills your view.
+But don’t stop there. Above you in a notch to the south is Lost Buck Pass. Here the trail merges with the
+Cabinet Divide
+Trail #360. If you walk south on this high ridge, the views of Wanless Lake below Engle Peak, fills your view.
 
-For the very adventurous, skilled hikers, Carney Peak 7173’ towers above the skyline. Once on top, the views north are of the heart of the C.M.W.
+For the very adventurous, skilled hikers, Carney Peak 7173’ towers above the skyline. Once on top, the views
+north are
+of the heart of the C.M.W.
 
 Rock Lake & The Milwaukee Pass
 <https://www.inlandnwroutes.com/rock-lake-4958.html>
 
 The unusual thing about Rock Lake, is that it sits below two peaks.
 But these two peaks are very close together. Hence a long narrow lake.
-To the north, up a long valley, sit Milwaukee Pass. Even hiking up half way, produces great views and photo ops, of Rock Lake.
+To the north, up a long valley, sit Milwaukee Pass. Even hiking up half way, produces great views and photo
+ops, of Rock
+Lake.
 East of Rock Lake, is a peak called Ojibway.
-What you will notice walking the west shore line, is how incredibly steep the walls are, right out of the lake.
+What you will notice walking the west shore line, is how incredibly steep the walls are, right out of the
+lake.
 The hike up Trail #935 is gentle for about 3 miles, then it switchbacks gently to the lake.
 Trail #935 is 8.2 miles RT with 1708verts.
 
@@ -45,7 +54,8 @@ Harrison Lake
 
 Harrison Lake Trail # 217 is an easy 2.5 miles one way with 1435verts.
 
-Along the trail there are several viewpoints to stop and admire the Pack River Valley, and its surrounding peaks.
+Along the trail there are several viewpoints to stop and admire the Pack River Valley, and its surrounding
+peaks.
 Harrison Lake sits below the Selkirk Crest, that circles most of the lake.
 There are many options to extend your hike, listed on our website.
 
@@ -53,7 +63,9 @@ Roman Nose Lakes
 <https://www.inlandnwroutes.com/roman-nose-lakes--peak-idaho.html>
 
 The coolest thing about the Roman Nose Lakes, is you can take almost anyone to one of them.
-The first lake has a boardwalk around the NE shore, that is wheelchair accessible. Think Grandma fishing, while you hike.
+The first lake has a boardwalk around the NE shore, that is wheelchair accessible. Think Grandma fishing,
+while you
+hike.
 The upper lake is 2 miles in with 535verts and some downhill.
 As you walk these trails, notice how your adventure is circled by high ridges and towering peaks.
 This is a great family hike.
@@ -65,7 +77,9 @@ Lone Lake & the Upper Sanctuary
 Lone Lake sits below the most dynamic face of Stevens Peak.
 If you are a fall color enthusiast, the Upper Sanctuary is a place for you.
 Trail #138 climbs 2 miles with 1637verts.
-By walking around the west shore, and up over the waterfall, you will reach the Sanctuary in less than a mile and about 250verts gained.
+By walking around the west shore, and up over the waterfall, you will reach the Sanctuary in less than a mile
+and about
+250verts gained.
 DO NOT MISS THIS LAKE AND ABOVE in the last week of September to the second week in Rocktober.
 
 Preist lake selkirks
@@ -95,7 +109,9 @@ Below are some ways to predict if your outing will be successful.
 
 [<https://www.weather.gov](https://www.weather.gov>/)
 This is the site I use every time I am planning an outing. Especially the 3-4 days prior to the trip
-Once on this website, enter the place you are planning to go to, in the top left…"Local Forecast by City, State, Zip code", or destination.
+Once on this website, enter the place you are planning to go to, in the top left…"Local Forecast by City,
+State, Zip
+code", or destination.
 
 This will bring up a page that has the description of the upcoming week.
 These words are general descriptions of those days, but do not tell you the whole story.
@@ -109,7 +125,9 @@ This graph shows you all the specifics for two days at a time.
 The first row shows you the forecast Temperature, DewPoint, and the Heat Index, or windchill factor.
 
 The second row shows Gusts and Surface winds.
-Notice next to the numbers, an arrow that points in the direction the winds may be coming from. The notches on the end of these arrows indicates the general speed the winds will be blowing. The more notches, the faster the winds.
+Notice next to the numbers, an arrow that points in the direction the winds may be coming from. The notches on
+the end
+of these arrows indicates the general speed the winds will be blowing. The more notches, the faster the winds.
 
 In the third row is the Relative Humidity (%).
 The next info is the Precipitation Potential (%).
@@ -124,15 +142,20 @@ The top is Ocnl….meaning occasional chance of rain.
 
 The bottom row is for Thunder in the summer or Snow & Sleet in the winter.
 
-The bars have numbers attached which details the amount of Thunder or Snow predicted. If there are no numbers, it indicates that the potential is unknown at the time.
+The bars have numbers attached which details the amount of Thunder or Snow predicted. If there are no numbers,
+it
+indicates that the potential is unknown at the time.
 
-By tapping the Forward 2 Days, at the top of the Hourly Weather Forecast, the graphs will move forward two days.
+By tapping the Forward 2 Days, at the top of the Hourly Weather Forecast, the graphs will move forward two
+days.
 
 It may take some time to figure out what this graph shows you.
 By moving forward or backward, you can see the trend of the forecast.
 I often screenshot these pages every day so I can determine the weather patterns leading up to my outing.
 
-Armed with this info, you can tell if your destination will be hot, rainy, cold, windy, etc., but most importantly the percentage of rain or snow predicted.
+Armed with this info, you can tell if your destination will be hot, rainy, cold, windy, etc., but most
+importantly the
+percentage of rain or snow predicted.
 
 The more you know in your planning stage, the more likely your outing will be successful.
 

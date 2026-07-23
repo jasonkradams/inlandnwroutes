@@ -63,7 +63,11 @@ To further your hiking in this area, there is a hike from Lake Estelle to Gem La
 
 ## Directions
 
-Head north to Sandpoint and take the Hwy 200 exit and head east to the Pack River and Pend Orielle Lake confluences. At 3.4 miles from the Pack River, turn left (East) for 12 miles to a junction with the Lightning Creek Road #275. Turn left (north) up Lightning Creek for less then a mile, and turn right (S). Onto FR #1022 to the trailhead.
+Head north to Sandpoint and take the Hwy 200 exit and head east to the Pack River and Pend Orielle Lake
+confluences. At
+3.4 miles from the Pack River, turn left (East) for 12 miles to a junction with the Lightning Creek Road #275.
+Turn left
+(north) up Lightning Creek for less then a mile, and turn right (S). Onto FR #1022 to the trailhead.
 
 ---
 
@@ -73,11 +77,13 @@ None of note
 
 ## Cool things close by
 
-Lake Estelle, Gem Lake, Pend Orielle Lake, Lunch Peak Fire Lookout & Mount Pend Orielle Peak, Char Falls, and Scotchman’s Peak.
+Lake Estelle, Gem Lake, Pend Orielle Lake, Lunch Peak Fire Lookout & Mount Pend Orielle Peak, Char Falls, and
+Scotchman’s Peak.
 
 ## R & P
 
-Squeeze Inn and the Clark Fork Pantry on Clark Fork. Jalapeños, Mr. Sub, Burgher Express,  and Eichardt’s in Sandpoint.
+Squeeze Inn and the Clark Fork Pantry on Clark Fork. Jalapeños, Mr. Sub, Burgher Express,  and Eichardt’s in
+Sandpoint.
 
 ## Photo gallery
 

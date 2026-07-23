@@ -26,7 +26,8 @@ Now imagine being out in 20° or 8°f, or lower.
 
 <!-- more -->
 
-Below 32° your face skin can freeze. At 8° your skin may turn whitish, and you may loose the ability to feel the freeze.
+Below 32° your face skin can freeze. At 8° your skin may turn whitish, and you may loose the ability to feel
+the freeze.
 
 ALWAYS use caution not only for you, but for your hiking partners.
 Along you sshoe (snowshoe), keep an eye on your friends.
@@ -35,7 +36,8 @@ Act fast and get them to a safe place, immediately.
 
 On long hikes I take an automobile road flare. They burn at 1500°, and can start even frozen wood, on fire.
 
-But you will need to re-organize the group fast. Everyone must work in unison to get your friend/victim out to safety.
+But you will need to re-organize the group fast. Everyone must work in unison to get your friend/victim out to
+safety.
 And be sure to observe all in your party. Others can freeze while you are saving your first victim.
 
 If your friends condition worsens, or others suffer from the cold, it may put everyone else in danger.
@@ -51,8 +53,12 @@ These kind of temperatures can cause frost bite or worse very quickly.
 
 In my WInter pack I carry many different size chemical hand warmers, and tape to secure them in place.
 
-I’ve been doing these sports for many decades. I have found that techniques and procedures, change as new science and products emerges.
-You may have a favorite source for understanding all this. So please reread these sources at the beginning of each Winter season.
+I’ve been doing these sports for many decades. I have found that techniques and procedures, change as new
+science and
+products emerges.
+You may have a favorite source for understanding all this. So please reread these sources at the beginning of
+each
+Winter season.
 
 A source that I used to verify and double check myself information is listed below.
 

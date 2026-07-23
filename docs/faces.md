@@ -4,7 +4,9 @@
 
 > [!TIP]
 
-> **Interactive Photo Gallery**: Click on any photo to open the high-resolution lightbox modal. These natural formations take a bit of imagination to spot the faces!
+> **Interactive Photo Gallery**: Click on any photo to open the high-resolution lightbox modal. These natural
+formations
+take a bit of imagination to spot the faces!
 
 ---
 

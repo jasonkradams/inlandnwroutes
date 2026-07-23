@@ -8,16 +8,24 @@ categories:
   - Wildfire & Closures
 ---
 
-As you have heard, the current administration has slashed forest personnel and dollars spent on maintaining our forests and parks.
+As you have heard, the current administration has slashed forest personnel and dollars spent on maintaining
+
+our forests
+
+and parks.
 
 <!-- more -->
 
-In light of these cost cutting measures, we as users will have to step up to keep our forests and parks clean, safe, and open for all to enjoy.
+In light of these cost cutting measures, we as users will have to step up to keep our forests and parks clean,
+safe, and
+open for all to enjoy.
 
 We may loose some parks to budget cuts, and forests to neglect.
 So we, the users must take up the slack.
 
-I would like to encourage all who use our trails to join organizations like the Washington Trail Association, Idaho Trail Association, The Spokane Mountaineers and so many others.
+I would like to encourage all who use our trails to join organizations like the Washington Trail Association,
+Idaho
+Trail Association, The Spokane Mountaineers and so many others.
 
 The ball is in our court. Now is the time to keep what we can from going by the wayside.
 
@@ -73,8 +81,11 @@ Friends of Mount Spokane
 The above is a partial list of organizations we have around Spokane.
 
 Instead of just using our trails, we at InlandNWRoutes.com
-[<https://www.inlandnwroutes.com,](https://www.inlandnwroutes.com>/) encourage all users to help us keep our trails open and healthy.
-While on your hikes, pick up trash, make sure campfires are dead out, kick twigs, branches rocks,  etc. off trails.
+[<https://www.inlandnwroutes.com,](https://www.inlandnwroutes.com>/) encourage all users to help us keep our
+trails open
+and healthy.
+While on your hikes, pick up trash, make sure campfires are dead out, kick twigs, branches rocks,  etc. off
+trails.
 
 PLEASE carry with you, about a dozen plastic grocery bags.
 They can be used as water buckets to put out smoldering campfires.
@@ -86,9 +97,15 @@ He has also logged many hours with the WTA.ORG, Spokane Mountaineers, and other 
 
 Chic
 In 1991 I adopted Lower & Upper Stevens Lakes and Lone Lake, from the USFS CDA River Ranger District
-After all holidays and when I can, I hike into the lakes and cleanup the campsites, put out smoldering campfires, and with Spokane Mountaineer Trail Boss, Lynn Smith, our organization does two trail work parties per drainage, one in June and the other in September.
+After all holidays and when I can, I hike into the lakes and cleanup the campsites, put out smoldering
+campfires, and
+with Spokane Mountaineer Trail Boss, Lynn Smith, our organization does two trail work parties per drainage,
+one in June
+and the other in September.
 
-My past work on trails is too extensive to list all. But with the Spokane Mountaineers, I’ve racked up over 100 trail work days.
+My past work on trails is too extensive to list all. But with the Spokane Mountaineers, I’ve racked up over
+100 trail
+work days.
 
 David and I would like to THANK YOU ALL, for reading and using our website.
 

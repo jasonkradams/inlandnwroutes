@@ -37,28 +37,48 @@ notes:
 
 ## Description
 
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-From Geiger Lakes, skirt the upper lake for one mile to Lost Buck Pass. The divide trail runs south for 16 miles past Baree Lake where it exits the wilderness boundary.
-Along the Lost Buck Pass area, the views are incredible of Wanless Lake to the west. As this high rocky trail wonders south, Bear Lake is off to the left (east), as is Baree Lake, which sits very near the southern end of the Cabinet Mountain Wilderness.
+We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
+info. if an
+emergency ocurrs, evaluate your circumstances and call only if needed.
+From Geiger Lakes, skirt the upper lake for one mile to Lost Buck Pass. The divide trail runs south for 16
+miles past
+Baree Lake where it exits the wilderness boundary.
+Along the Lost Buck Pass area, the views are incredible of Wanless Lake to the west. As this high rocky trail
+wonders
+south, Bear Lake is off to the left (east), as is Baree Lake, which sits very near the southern end of the
+Cabinet
+Mountain Wilderness.
 From the Silver Butte Pass area, hike for 2 hard miles up hill to Canyon Peak 6326'.
 Continue past Canyon Peak towards Lost Buck Pass, about 10 miles.
 
 ## Directions
 
 North route
-From Libby, Montana, drive about 17 miles south on Highway 2, and turn right (west) onto West Fisher Creek Road # 231. Follow 231 for about 6 miles and turn left (south) onto Road # 6748 for another 2 miles to the trailhead.
+From Libby, Montana, drive about 17 miles south on Highway 2, and turn right (west) onto West Fisher Creek
+Road # 231.
+
+Follow 231 for about 6 miles and turn left (south) onto Road # 6748 for another 2 miles to the trailhead.
 
 South route
-Drive Highway 200 for about 2 miles past Trout Creek, Montana on to Blue Slide Road and go 4 miles to Vermillion RiverRoad # 154. Follow this road for about 7 miles to Silver Butte Road # 148, and take it for 5 miles to the top of the pass and the trailhead.
+Drive Highway 200 for about 2 miles past Trout Creek, Montana on to Blue Slide Road and go 4 miles to
+Vermillion
+RiverRoad # 154. Follow this road for about 7 miles to Silver Butte Road # 148, and take it for 5 miles to the
+
+top of
+
+the pass and the trailhead.
 
 ## Hazards
 
 From the south, the trail has a few steep sections.
-From the north, you can access the trail from above the Upper Geiger Lake Trail to Lost Buck Pass. This section of the trail has great views of Wanless Lake with Engle Peak above. This section is a rocky trail that heads south.
+From the north, you can access the trail from above the Upper Geiger Lake Trail to Lost Buck Pass. This
+section of the
+trail has great views of Wanless Lake with Engle Peak above. This section is a rocky trail that heads south.
 
 ## Cool things close by
 
-Bear Lake, Baree Lake, Wanless Lake, Clark Fork River, Trout Creek and the Proposed Scotchman Peak's Wilderness
+Bear Lake, Baree Lake, Wanless Lake, Clark Fork River, Trout Creek and the Proposed Scotchman Peak's
+Wilderness
 
 ## R & P
 

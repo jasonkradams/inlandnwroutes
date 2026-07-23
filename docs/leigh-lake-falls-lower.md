@@ -27,7 +27,9 @@ stats:
 ## Description
 
 Leigh Creek Falls is one of the most spectacular waterfalls in the Inland Northwest.
-With a drop of about 100', it is a spectacular sight along a most beautiful trail to one of the most beautiful lakes in our region.
+With a drop of about 100', it is a spectacular sight along a most beautiful trail to one of the most beautiful
+lakes in
+our region.
 After hiking 1.2 miles up Trail #132, you come to a spot that requires you to stop and enjoy its beauty.
 
 If you are adventurous, you can scramble up the sides of the falls to photograph many of its numerous drops.
@@ -45,19 +47,29 @@ This would be a great spot to have lunch, take a nap and enjoy the spectacular s
 
 ## Option #3
 
-For a closer view of some of the falls along Leigh Lakes shoreline, walk a user created path along the north shore to a rock beach.
+For a closer view of some of the falls along Leigh Lakes shoreline, walk a user created path along the north
+shore to a
+rock beach.
 
 ---
 
 ## Directions
 
-From Libby, drive south on Highway 2 towards Glacier National Park for about 8 miles to the Bear Creek Road #278. Turn right (west) for three miles to FR#867. Turn right (west) for about 5 miles to FR #4786. Drive up 4786 for about 2 miles to the trailhead. Notice along this last stretch of road, that there is pull off to the left to a very primitive campsite. If it’s occupied, you can camp at the parking area.
+From Libby, drive south on Highway 2 towards Glacier National Park for about 8 miles to the Bear Creek Road
+#278. Turn
+right (west) for three miles to FR#867. Turn right (west) for about 5 miles to FR #4786. Drive up 4786 for
+about 2 miles
+to the trailhead. Notice along this last stretch of road, that there is pull off to the left to a very
+primitive
+campsite. If it’s occupied, you can camp at the parking area.
 
 ---
 
 ## Cool things close by
 
-Snowshoe Peak 8738', A Peak, Granite Lake, L.& U. Geiger Lakes with Lost Buck Pass & the Cabinet Divide Trail with views of Wanless Lake.
+Snowshoe Peak 8738', A Peak, Granite Lake, L.& U. Geiger Lakes with Lost Buck Pass & the Cabinet Divide Trail
+with views
+of Wanless Lake.
 The Proposed Scotchman Peaks Wilderness, the Bull River and Lake, and the Clark Fork River.
 
 ## Hazards
@@ -97,7 +109,8 @@ Click for Current NOAA Weather Conditions
 
 ![Picture](assets/images/11132021827.jpg)
 
-Above the vertical section of the trail is this view below the trail the sights and sounds are well worth the effort
+Above the vertical section of the trail is this view below the trail the sights and sounds are well worth the
+effort
 
 *Picture (Image missing)*
 
@@ -113,4 +126,6 @@ Above the vertical section of the trail is this view below the trail the sights 
 
 *Picture (Image missing)*
 
-You may wonder where all this water comes from All the benches above the lake hold some degree of snow year round
+You may wonder where all this water comes from All the benches above the lake hold some degree of snow year
+
+round

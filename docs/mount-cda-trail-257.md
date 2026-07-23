@@ -39,11 +39,21 @@ notes:
 
 ## Description
 
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.Trail #257 is a forested hike up the east side of Mount CDA. After crossing Beauty Creek, the trail switchbacks for about 2.7 miles to FR 439. Once at this road turn south (left) and walk a short distance to a view point that shows a small section of lower Lake CDA. Stop here for a snack, before retracing your steps back to the trailhead.
+We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
+info. if an
+emergency ocurrs, evaluate your circumstances and call only if needed.Trail #257 is a forested hike up the
+east side of
+Mount CDA. After crossing Beauty Creek, the trail switchbacks for about 2.7 miles to FR 439. Once at this road
+turn
+south (left) and walk a short distance to a view point that shows a small section of lower Lake CDA. Stop here
+for a
+snack, before retracing your steps back to the trailhead.
 
 ## Option #1
 
-From the junction of FR #439 and where Trail #257 merge, turn right (north) for about 3 miles to the Mount CDA Overlook and Campground.
+From the junction of FR #439 and where Trail #257 merge, turn right (north) for about 3 miles to the Mount CDA
+Overlook
+and Campground.
 
 From this campgrounds, there is Trail #227 up past the old outhouse that leads to the summit of Mount CDA.
 
@@ -60,17 +70,23 @@ This extended hike/mt bike is about a 14 mile loop.
 
 ## Directions
 
-Take I-90 east of CDA to Exit 22, and head towards Harrison, Idaho. Just past the Mineral Ridge parking area, turn east (left) up the Beauty Bay Road and campground for about 3 miles to the small trailhead. Look for a sign Trial #257.
+Take I-90 east of CDA to Exit 22, and head towards Harrison, Idaho. Just past the Mineral Ridge parking area,
+turn east
+(left) up the Beauty Bay Road and campground for about 3 miles to the small trailhead. Look for a sign Trial
+#257.
 
 ## Cool things close by
 
-Mineral Ridge, Mount CDA, Caribou Ridge Trail #79, Highway 97A around Lake CDA, Wallace L. Forest Conservation Area, and the very old original motor road to the east.
+Mineral Ridge, Mount CDA, Caribou Ridge Trail #79, Highway 97A around Lake CDA, Wallace L. Forest Conservation
+Area, and
+the very old original motor road to the east.
 
 ## Hazards
 
 In the winter, this trail can be icy, use caution.
 Mt. Bikes use this trail also. Listen carefully and get out of their way.
-I’ve also seen bear on this trail, so yell "hey bear" occasionally, especially as you come up over ridges or by creeks.
+I’ve also seen bear on this trail, so yell "hey bear" occasionally, especially as you come up over ridges or
+by creeks.
 
 ## R & P
 

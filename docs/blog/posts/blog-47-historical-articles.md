@@ -10,8 +10,11 @@ categories:
 
 history on inlandnwroutes.com
 
-As David and I were building and writing our website, I came across historical articles about the various areas and recreation locations.
-I have those histories in one of two places for you to familiarize yourself with the area you are recreating in.
+As David and I were building and writing our website, I came across historical articles about the various
+areas and
+recreation locations.
+I have those histories in one of two places for you to familiarize yourself with the area you are recreating
+in.
 
 <!-- more -->
 
@@ -29,9 +32,12 @@ Did you know, that in two counties in Montana, the population is an astounding .
 New York City has 26,402 people per square mile, for instance.
 Yes, history can be boring.
 But when you learn about the Great Avalanche of 1903 at the Stevens Lakes Trailhead, history came alive.
-For those of you who have hiked to Stevens Lakes, have you wondered what the 8" pipe that crosses the trail several times is all about.
+For those of you who have hiked to Stevens Lakes, have you wondered what the 8" pipe that crosses the trail
+several
+times is all about.
 I am working on an article that should be posted by May, that will tell you the story of the pipe.
-I am also, going to make a note on the individual write ups that will alert readers that a history is available.
+I am also, going to make a note on the individual write ups that will alert readers that a history is
+available.
 Thank You all for reading our website.
 
 Chic         David

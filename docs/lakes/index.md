@@ -268,7 +268,8 @@
 
 - ![Image](../assets/images/img-0826.jpg)
 
-- ![Image](../assets/images/3312022852p-copy.jpg "LONE LAKE (L), WILLOW RIDGE (M), LOWER & UPPER STEVENS LAKES")
+- ![Image](../assets/images/3312022852p-copy.jpg "LONE LAKE (L), WILLOW RIDGE (M), LOWER & UPPER STEVENS
+  LAKES")
 
 </div>
 
@@ -282,4 +283,8 @@
 
 <!-- Missing Image -->
 
-<!-- Missing Image: [*(Image missing)*](missing-image.jpg "ONE OF THE MORE BEAUTIFUL LAKES IN OUR REGION..UNNAMED DOUBLE LAKE") -->
+<!-- Missing Image: [*(Image missing)*](missing-image.jpg "ONE OF THE MORE BEAUTIFUL LAKES IN OUR
+
+REGION..UNNAMED DOUBLE
+
+LAKE") -->

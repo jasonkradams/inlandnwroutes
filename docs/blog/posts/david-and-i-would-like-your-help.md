@@ -10,7 +10,9 @@ categories:
 
 david and i would like your help
 
-Since 2018, when David and I came up with the idea of building this website, we have worked diligently to add as much information as possible.
+Since 2018, when David and I came up with the idea of building this website, we have worked diligently to add
+as much
+information as possible.
 But we are human, and have made mistakes along the way.
 We strive to….
 a.) give you the most up to date information on the trails and topics we offer our readers.

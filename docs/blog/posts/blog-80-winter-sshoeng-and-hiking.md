@@ -16,17 +16,24 @@ SSHOENG.    (Snowshoeing)
 Most sshoe hikes are in terrain that snow slides rarely occur.
 But some trails lead to areas that caution should be used.
 Sshoeing requires balance and fast reaction times when out of balance.
-To make balancing safer, extend your ski pole lengths. This will give you a point of balance that is further away and more stable.
+To make balancing safer, extend your ski pole lengths. This will give you a point of balance that is further
+away and
+more stable.
 Treat your ski boots with Boot Durable Water Repellent.
 There’s nothing more unpleasant, than slogging along in wet cold boots.
 They can also cause blisters.
 Treat your outer wear as mentioned in RESOURCES.
 Two good treatments are from NIKWax and Gearaid.
 Ask for their DURABLE WATER REPELLENT.
-Before you buy store bought water repellents, other than the above, check the web to make sure they DO NOT CONTAIN PFAS FOREVER CHEMICALS.
+Before you buy store bought water repellents, other than the above, check the web to make sure they DO NOT
+CONTAIN PFAS
+FOREVER CHEMICALS.
 The DWR products are people safe.
-Something I carry when in the Winter mountains, are automobile Road Flares. They burn at 1500°, and can start wet materials ablaze.
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*however, you must use extreme caution in carrying them.\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Something I carry when in the Winter mountains, are automobile Road Flares. They burn at 1500°, and can start
+wet
+materials ablaze.
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*however, you must use extreme caution in carrying
+them.\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 I tape mine in a mailing tube, and it never gets put in a spot that may bend or break them.
 
 And I joy carry them outside my pack. That way bcan separate it from the act f needed.
@@ -55,7 +62,8 @@ It better to be embarrassed, than to be rescued, or worse.
 Benjamin Franklin once said:
 "If you fail to plan, you are planning to fail."
 
-The very easiest way to overcome the Winter Blues, is to go out and really experience Winter in all its beauty.
+The very easiest way to overcome the Winter Blues, is to go out and really experience Winter in all its
+beauty.
 (start with The Finch Arboretum)
 But do not wear cotton anything. If they get wet, they zap your body heat in minutes.
 Look at GEAR-CHIC. In there are very good base layers that don’t cost like national brands.

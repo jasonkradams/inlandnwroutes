@@ -44,17 +44,27 @@ If anyone does this trip, please supply Chic with info on the hike in.
 
 ## Directions
 
-In Libby, at the intersection of Hwy 2 & 37, turn west and go one block. Turn left on a Main Street and go 6 blocks to Balsam Street. Turn right, cross the Flower Creek Bridge , then take the first left and go .4 to the road that bears right up Parmenter Hill. At the top of the hill, take the first right and go just over a mile to the "Y." Take the unsaved left fork to the trailhead, about 220 yards.
+In Libby, at the intersection of Hwy 2 & 37, turn west and go one block. Turn left on a Main Street and go 6
+blocks to
+Balsam Street. Turn right, cross the Flower Creek Bridge , then take the first left and go .4 to the road that
+bears
+right up Parmenter Hill. At the top of the hill, take the first right and go just over a mile to the "Y." Take
+the
+unsaved left fork to the trailhead, about 220 yards.
 
 ## Hazards: na
 
 ## Cool things close by
 
-Ross Creek Cedars, Cedar Lakes, Dome Mountain, Kootenai Falls, the Proposed Scotchman Peaks Wilderness, Granite Lake, and Leigh Lake.
+Ross Creek Cedars, Cedar Lakes, Dome Mountain, Kootenai Falls, the Proposed Scotchman Peaks Wilderness,
+Granite Lake,
+and Leigh Lake.
 
 ## R & P
 
-Henry’s in Libby, Pizza Hut, Rosaeurs, Clark Fork Pantry & Squeeze Inn in Clark Fork. Eicharts, Mr Sub, Burger Express, & Jalapeños in Sandpoint
+Henry’s in Libby, Pizza Hut, Rosaeurs, Clark Fork Pantry & Squeeze Inn in Clark Fork. Eicharts, Mr Sub, Burger
+Express,
+& Jalapeños in Sandpoint
 
 ---
 

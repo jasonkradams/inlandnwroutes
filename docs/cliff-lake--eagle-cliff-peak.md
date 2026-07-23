@@ -44,21 +44,33 @@ notes:
 
 ## Description
 
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
+We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
+info. if an
+emergency ocurrs, evaluate your circumstances and call only if needed.
 Whether before or after the hike, be sure to check out the falls below the parking area.
 Trail #100 follows along side Diamond Lake for one mile to Cliff Lake.
 
 About half way up is a foot bridge and a nice cascade to photograph.
-As you catch the the first views of Cliff Lake and Eagle Cliff Peak, you will be amazed at its sheer mountain face.
-If you go here in the fall, you will enjoy the bright yellow colors of the Tamaracks on the road to the trailhead.
+As you catch the the first views of Cliff Lake and Eagle Cliff Peak, you will be amazed at its sheer mountain
+face.
+If you go here in the fall, you will enjoy the bright yellow colors of the Tamaracks on the road to the
+trailhead.
 
 ## Option #1
 
-After spending some time enjoying the lake, hike south to a gap to the SE of the peak. The peak is about 1629’ above the lake on a steep"trail" that you should not be miss. The views from atop Eagle Cliff are worth the climb.
+After spending some time enjoying the lake, hike south to a gap to the SE of the peak. The peak is about 1629’
+above the
+lake on a steep"trail" that you should not be miss. The views from atop Eagle Cliff are worth the climb.
 
 ## Directions
 
-From Interstate 90 take the Dry Creek exit #43 turn south on the Dry Creek Frontage Road 69. Follow Road 69 to the junction of Dry Creek Road 342. Turn west onto the Dry Creek Road and drive 9.5 miles to the junction of Diamond Lake Road 7843. Turn south and drive 4.1 miles to Diamond Lake. There is ample parking in this area. Trail #100 starts on the west side of the bridge.
+From Interstate 90 take the Dry Creek exit #43 turn south on the Dry Creek Frontage Road 69. Follow Road 69 to
+the
+junction of Dry Creek Road 342. Turn west onto the Dry Creek Road and drive 9.5 miles to the junction of
+Diamond Lake
+Road 7843. Turn south and drive 4.1 miles to Diamond Lake. There is ample parking in this area. Trail #100
+starts on the
+west side of the bridge.
 
 ## Hazards
 

@@ -31,12 +31,15 @@ The P.O.River Stretches 65 miles down stream and 27 miles up stream to the Long 
 
 ## Attractions
 
-The Pend Orielle River meanders thru a wide valley as it stretches from Sandpoint to the Boundary Dam north of Metaline Falls, in N. Washington.
+The Pend Orielle River meanders thru a wide valley as it stretches from Sandpoint to the Boundary Dam north of
+Metaline
+Falls, in N. Washington.
 Views of the American Selkirks. Sullivan Lake, Boundary Dam and Pewee Falls.
 
 ## Directions
 
-From Spokane, drive north to Newport. At Newport, head east on Hwy 2 for less then 2 miles to the Albeni Dam site.
+From Spokane, drive north to Newport. At Newport, head east on Hwy 2 for less then 2 miles to the Albeni Dam
+site.
 
 ## Cool things close by
 
@@ -50,7 +53,8 @@ NA
 
 ## Plan your trip
 
-[Click for Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
+[Click for Current NOAA Weather
+Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
 
 ## Photo gallery
 

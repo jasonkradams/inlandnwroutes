@@ -43,27 +43,43 @@ stats:
 ## Description
 
 There are two trails to Ancient Lakes.
-The first skirts the Babcock Bench for about .4 miles to an obscure trail heading left (east) along towering basalt cliffs. The trail follows along these cliffs, and at about 1.5 miles the trail rises and drops down to the second trail and merges to the Ancient Lakes.
+The first skirts the Babcock Bench for about .4 miles to an obscure trail heading left (east) along towering
+basalt
+cliffs. The trail follows along these cliffs, and at about 1.5 miles the trail rises and drops down to the
+second trail
+and merges to the Ancient Lakes.
 
-The second trail in, and more used, is the main trail to Ancient Lakes. Once at the lakes follow the directions above to Dusty Lake.
+The second trail in, and more used, is the main trail to Ancient Lakes. Once at the lakes follow the
+directions above to
+Dusty Lake.
 
 You may feel like you are in an old western movie scene.
 
-The trick to hiking in the Scabs, is to observe your surroundings and note all high landmarks and other prominent features . You can use these landmarks to navigate off trail routes.
+The trick to hiking in the Scabs, is to observe your surroundings and note all high landmarks and other
+prominent
+features . You can use these landmarks to navigate off trail routes.
 
 ## Option #1
 
-Once at the Ancient Lakes, we went off trail and chicwacked over to Dusty Lake. Any trail you may pick up will soon fade. But Dusty Lake is only about .8 of a mile due south.
+Once at the Ancient Lakes, we went off trail and chicwacked over to Dusty Lake. Any trail you may pick up will
+soon
+fade. But Dusty Lake is only about .8 of a mile due south.
 
 ## Option #2
 
-If you hike up to the north rim to return to the cars, walk close, but with safety, and look at the massive basalt column tops. Some are starting to tilt, making for an unusual image.
+If you hike up to the north rim to return to the cars, walk close, but with safety, and look at the massive
+basalt
+column tops. Some are starting to tilt, making for an unusual image.
 Please do not go out onto them.
 
 ## Directions
 
 The turnoff to the Ancient Lakes Trail is five miles south of Quincy on SR 281. Turn
-west off SR 281 onto White Trail Road and continue 3 miles. Turn left (south) at the "public fishing" sign onto a gravel road toward Quincy Lakes. The Ancient Lakes trailhead is located 0.7 mile south of the intersection with White Trail Road. There is no privy at this trailhead.
+west off SR 281 onto White Trail Road and continue 3 miles. Turn left (south) at the "public fishing" sign
+onto a gravel
+road toward Quincy Lakes. The Ancient Lakes trailhead is located 0.7 mile south of the intersection with White
+Trail
+Road. There is no privy at this trailhead.
 
 ## Hazards
 
@@ -78,11 +94,15 @@ They can be use to gain perspective of your current location, as apposed to your
 Always make sure Each hiker is carrying a map of the area.
 And do not allow any hiker in your group to wonder off.
 Your group Must STAY TOGETHER. There are safety shin guards you can buy to protect from snakes.
-Use your cell phone to take pictures of the terrain. Later if you are misplaced, you can refer to the image to gain perspective.
+Use your cell phone to take pictures of the terrain. Later if you are misplaced, you can refer to the image to
+gain
+perspective.
 
 ## Cool things close by
 
-Ancient & Dusty Lakes, Columbia Basin Wildlife Area, the mighty Columbia River, the Gorge Amphitheater, Vantage, and the Petrified Forest.
+Ancient & Dusty Lakes, Columbia Basin Wildlife Area, the mighty Columbia River, the Gorge Amphitheater,
+Vantage, and the
+Petrified Forest.
 
 ## R & P
 

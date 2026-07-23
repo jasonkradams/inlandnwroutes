@@ -33,7 +33,9 @@ The bay is large and will take you out into the body of Lake CDA
 
 ## Directions
 
-From CDA, drive south on Hwy 95 to the Bellgrove turn off, and continue east on W. Rockford Bay Road, to the Shooters Bar & Grill.
+From CDA, drive south on Hwy 95 to the Bellgrove turn off, and continue east on W. Rockford Bay Road, to the
+Shooters
+Bar & Grill.
 The launch is just past the marina.
 
 ## Cool things close by
@@ -48,7 +50,8 @@ Trails End Brewery, Franklins, Moon Time, Mexican Food Factory
 
 ## Plan your trip
 
-[Click for Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
+[Click for Current NOAA Weather
+Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
 
 ## Please everyone...heed this health alert
 

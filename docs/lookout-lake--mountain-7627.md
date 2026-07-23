@@ -42,9 +42,17 @@ notes:
 
 ## Description
 
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-Lookout Mountain stands tall on the west side of the Selkirk Range, above Upper Priest Lake. One cool thing about this hike, is how easy it is.
-From the trailhead, hike Trail #36 for about a mile to Lookout Lake. After enjoying the lake, continue on Trail #36, and watch for a "trail," Trail #37 off to the left (East) that leads you to the summit and it’s two lookout towers. Wonder the summit plateau, and enjoy the magnificent views.
+We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
+info. if an
+emergency ocurrs, evaluate your circumstances and call only if needed.
+Lookout Mountain stands tall on the west side of the Selkirk Range, above Upper Priest Lake. One cool thing
+about this
+hike, is how easy it is.
+From the trailhead, hike Trail #36 for about a mile to Lookout Lake. After enjoying the lake, continue on
+Trail #36, and
+watch for a "trail," Trail #37 off to the left (East) that leads you to the summit and it’s two lookout
+towers. Wonder
+the summit plateau, and enjoy the magnificent views.
 
 Please do not disturb the fire lookout person, unless they invite you up.
 The old lookout has been restored, but survived a fire in 2001.
@@ -68,8 +76,14 @@ Always stay more than 10 feet from the edge.
 ## Option #2
 
 This option allows scramblers to get away from trails and see the land to the north.
-When you are on the summit, notice the rocky ridge heading north, then elbows left (west). My suggestion, is to hike back up these two ridges to the lookout before heading back to the lake. Years ago, we tried to do a loop, that cost us time and a whole lot of energy.. The western point of this ridge is a dead end, with difficult chicwackin’
-By walking back up the ridge line,you get the best views of the peak with its two lookout towers. And a whole lot of fun scrambling.
+When you are on the summit, notice the rocky ridge heading north, then elbows left (west). My suggestion, is
+to hike
+back up these two ridges to the lookout before heading back to the lake. Years ago, we tried to do a loop,
+that cost us
+time and a whole lot of energy.. The western point of this ridge is a dead end, with difficult chicwackin’
+By walking back up the ridge line,you get the best views of the peak with its two lookout towers. And a whole
+lot of fun
+scrambling.
 
 ---
 

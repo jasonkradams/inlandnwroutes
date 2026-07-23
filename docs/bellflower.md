@@ -42,7 +42,13 @@ stats:
 
 ## Description
 
-The flowers are produced in panicles (sometimes solitary), and have a five-lobed corolla, typically large (2–5 cm or more long), mostly blue to purple, sometimes white or pink. Below the corolla, 5 leaf-like sepals form the calyx. Some species have a small additional leaf-like growth termed an "appendage" between each sepal, and the presence or absence, relative size, and attitude of the appendage is often used to distinguish between closely related species.
+The flowers are produced in panicles (sometimes solitary), and have a five-lobed corolla, typically large (2–5
+cm or
+more long), mostly blue to purple, sometimes white or pink. Below the corolla, 5 leaf-like sepals form the
+calyx. Some
+species have a small additional leaf-like growth termed an "appendage" between each sepal, and the presence or
+absence,
+relative size, and attitude of the appendage is often used to distinguish between closely related species.
 
 ---
 

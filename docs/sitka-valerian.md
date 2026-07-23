@@ -73,8 +73,28 @@ notes:
 
 ## Description
 
-Plants from a short, often branched rhizome. Stems 25–75 cm, glabrous except at the nodes. Basal leaves absent or similar to but smaller than the cauline. Stem leaves petiolate; blades 6–15 cm long, with 1 to 4 pairs of lanceolate to ovate, crenate lateral lobes and a somewhat larger terminal lobe. Inflorescence hemispheric, 2–6 cm across, puberulent. Flowers perfect; corolla white to pink, sparsely hairy, 5–8 mm long, lobes less than half as long as the tube. Achenes lance-ovate, 4–6 mm long, glabrous.
-Erect sturdy stems, most leaves along stem. Leaves deeply lobed or coarsely toothed, hairless to slightly hairy. Inflorescence is tight head at stem top. Flowers white or pale pink tubes opening to 5 lobes, stamens and pistil extending beyond lobes. Grows in wet places at mid- to alpine elevations. Common species in North Cascades subalpine meadows. Distinguished from *V. scouleri* by coarsely toothed leaf margins, more stem leaves, flowers more often white than pink.
+Plants from a short, often branched rhizome. Stems 25–75 cm, glabrous except at the nodes. Basal leaves absent
+or
+similar to but smaller than the cauline. Stem leaves petiolate; blades 6–15 cm long, with 1 to 4 pairs of
+lanceolate to
+ovate, crenate lateral lobes and a somewhat larger terminal lobe. Inflorescence hemispheric, 2–6 cm across,
+puberulent.
+Flowers perfect; corolla white to pink, sparsely hairy, 5–8 mm long, lobes less than half as long as the tube.
+Achenes
+lance-ovate, 4–6 mm long, glabrous.
+Erect sturdy stems, most leaves along stem. Leaves deeply lobed or coarsely toothed, hairless to slightly
+hairy.
+Inflorescence is tight head at stem top. Flowers white or pale pink tubes opening to 5 lobes, stamens and
+pistil
+extending beyond lobes. Grows in wet places at mid- to alpine elevations. Common species in North Cascades
+
+subalpine
+
+meadows. Distinguished from *V. scouleri* by coarsely toothed leaf margins, more stem leaves, flowers more
+
+often white
+
+than pink.
 
 ---
 

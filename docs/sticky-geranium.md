@@ -49,10 +49,22 @@ stats:
 
 ## Description
 
-The many-toothed, deeply-lobed, bright-green leaves of this large, clumped wild geranium occur on strong, branching, 1-3 ft., flower stalks. A lightly-haired plant with several stems, leaves on long stalks, most near the base, and a few pink-lavender to purplish flowers in an open cluster near the top. Pinkish to lavender, 1 1/2 in. wide, saucer-shaped flowers occur at stem tips. Stem, leaves, and flower stalks are covered with sticky hairs.
-This is one of several western Geraniums with pinkish-purple flowers; all are similar, distinguished only by technical features. Dove's Foot Geranium (G. molle), with small pink flowers, is a common weed on lawns and in vacant lots and is native to Europe.
+The many-toothed, deeply-lobed, bright-green leaves of this large, clumped wild geranium occur on strong,
+branching, 1-3
+ft., flower stalks. A lightly-haired plant with several stems, leaves on long stalks, most near the base, and
+a few
+pink-lavender to purplish flowers in an open cluster near the top. Pinkish to lavender, 1 1/2 in. wide,
+saucer-shaped
+flowers occur at stem tips. Stem, leaves, and flower stalks are covered with sticky hairs.
+This is one of several western Geraniums with pinkish-purple flowers; all are similar, distinguished only by
+technical
+features. Dove's Foot Geranium (G. molle), with small pink flowers, is a common weed on lawns and in vacant
+lots and is
+native to Europe.
 
-Sticky geranium is one of our most conspicuous pink-flowered wildflowers. The plants can be nearly waist high! The flowers are pink to rose-purple and have distinctive dark purple veins on the petals.
+Sticky geranium is one of our most conspicuous pink-flowered wildflowers. The plants can be nearly waist high!
+The
+flowers are pink to rose-purple and have distinctive dark purple veins on the petals.
 
 ---
 

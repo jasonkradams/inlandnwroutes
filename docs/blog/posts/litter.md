@@ -38,17 +38,26 @@ PLEASE do not leave these items in the fire pits in backcountry.
 A good steward, is a person that takes care of what they take into Nature.
 There’s an old adage that goes…."if you can carry it in full, you can certainly carry it out empty".
 
-When I lead a hike for the Spokane Mountaineers, I carry my grabbing tool and several plastic grocery bags, to clean up the trailheads.
-On my hikes, I use the same bags to collect litter, fire pit garbage, etc. You can use one to pick up the litter, and put it in the other bag.
+When I lead a hike for the Spokane Mountaineers, I carry my grabbing tool and several plastic grocery bags, to
+clean up
+the trailheads.
+On my hikes, I use the same bags to collect litter, fire pit garbage, etc. You can use one to pick up the
+litter, and
+put it in the other bag.
 Or you may want to carry surgical gloves to pick up the litter.
 
-No matter what method or your motivation, picking up others trash in Nature makes your everyday hike more enjoyable.
+No matter what method or your motivation, picking up others trash in Nature makes your everyday hike more
+enjoyable.
 
-We can’t get rid of slobs in the mountains, but WE can make the areas we hike too, more enjoyable for ourselves and others.
+We can’t get rid of slobs in the mountains, but WE can make the areas we hike too, more enjoyable for
+ourselves and
+others.
 
-Last year while staying at the Bull River Campgrounds, I picked up all the little trash that bothers me the most.
+Last year while staying at the Bull River Campgrounds, I picked up all the little trash that bothers me the
+most.
 The campground host walked over to me and thanked me.
-He also said that in his experience, a clean campsite fosters the current occupant to keep the site clean themselves.
+He also said that in his experience, a clean campsite fosters the current occupant to keep the site clean
+themselves.
 
 A suggestion I live by is simple, DO NOT TOUCH LITTER.
 Use a grabber or gloves to clean up the high country areas we enjoy.

@@ -51,9 +51,31 @@ notes:
 
 ## Description
 
-Clintonia uniflora is a species of flowering plant in the lily family known by several common names, including bride's bonnet and queen's cup. This rhizomatous perennial, a member of the bead lily genus, is native to the mountains of western North America from California to Alberta. It grows in the understory of coniferous forests. This flower has only two or three leaves located at the base of its stem, but they are several centimeters wide and can be much longer. It bears flowers singly or in flower clusters of two or three. The small simple flower has six white petals and six protruding white stamens with pollen-dusted anthers. The flower is replaced atop the stem by a round blue berry up to a centimeter wide.
-T he flower of the Queen's cup is white, is about 1 inch across, and sits at the top of a slender stalk that is 3-8 inches tall. The basal leaves are longer than the flower stalk and are lance-shaped. This plant can have from 2 to 5 bright green leaves. In late summer a roundish blue berry develops.
-Queen's Cup is a perennial flowering plant in the lily family native to the mountainous regions of western North America.  Grow in partial to full shade in rich moist soils.   It has showy six-petaled white flowers and large blade-shaped green leaves.  It can be propagated by root division in the spring or by seed though seeding plants can take up to four years before they flower.   It suffers damage from slugs.
+Clintonia uniflora is a species of flowering plant in the lily family known by several common names, including
+bride's
+bonnet and queen's cup. This rhizomatous perennial, a member of the bead lily genus, is native to the
+mountains of
+western North America from California to Alberta. It grows in the understory of coniferous forests. This
+flower has only
+two or three leaves located at the base of its stem, but they are several centimeters wide and can be much
+longer. It
+bears flowers singly or in flower clusters of two or three. The small simple flower has six white petals and
+six
+protruding white stamens with pollen-dusted anthers. The flower is replaced atop the stem by a round blue
+berry up to a
+centimeter wide.
+T he flower of the Queen's cup is white, is about 1 inch across, and sits at the top of a slender stalk that
+is 3-8
+inches tall. The basal leaves are longer than the flower stalk and are lance-shaped. This plant can have from
+2 to 5
+bright green leaves. In late summer a roundish blue berry develops.
+Queen's Cup is a perennial flowering plant in the lily family native to the mountainous regions of western
+North
+America.  Grow in partial to full shade in rich moist soils.   It has showy six-petaled white flowers and
+large
+blade-shaped green leaves.  It can be propagated by root division in the spring or by seed though seeding
+plants can
+take up to four years before they flower.   It suffers damage from slugs.
 
 ---
 

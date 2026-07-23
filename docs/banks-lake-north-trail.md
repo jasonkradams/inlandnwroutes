@@ -34,16 +34,22 @@ stats:
 
 ## Description
 
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed. Description coming soon
+We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
+info. if an
+emergency ocurrs, evaluate your circumstances and call only if needed. Description coming soon
 
 ## Directions
 
 From Spokane, drive west on Hwy 2 to Grand Coulee.
-In Grand Coulee at Hwy 174 & Hwy 155, turn north up Hwy 174, and stay on Hwy 174, heading west to Barker Canyon Rex Road. Turn left (south)and drive about 6 miles to the Barker Canyon parking area.
+In Grand Coulee at Hwy 174 & Hwy 155, turn north up Hwy 174, and stay on Hwy 174, heading west to Barker
+Canyon Rex
+Road. Turn left (south)and drive about 6 miles to the Barker Canyon parking area.
 
 ## Hazards
 
-As all Scabs hikes, you must be aware you are in rattlesnake country. Use great caution. Look for snakes sunning themselves, sometimes under or next to rocks.
+As all Scabs hikes, you must be aware you are in rattlesnake country. Use great caution. Look for snakes
+sunning
+themselves, sometimes under or next to rocks.
 The Scabs are very arid and require lots of water, and sun protection.
 
 ## Cool things close by

@@ -26,10 +26,14 @@ Trout lake & big fisher lake
 However forest road #423 remains closed until 7.15.2024.
 This road services myrtle lake & peak
 
-If you have questions about the rescinded road order #634, or the closure of forest road #432, please follow this link...
+If you have questions about the rescinded road order #634, or the closure of forest road #432, please follow
+this
+link...
 [<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 
-David and I are dedicated to](https://www.fs.usda.gov/alerts/ipnf/alerts-notices) bring you the most up to date information on forest closures, forest fires, and other info you need to know before you head out into Nature.
+David and I are dedicated to](https://www.fs.usda.gov/alerts/ipnf/alerts-notices) bring you the most up to
+date
+information on forest closures, forest fires, and other info you need to know before you head out into Nature.
 
 THANK YOU, for using InlandNWRoutes.com
 

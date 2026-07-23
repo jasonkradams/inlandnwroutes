@@ -46,15 +46,70 @@ stats:
 
 ## Description
 
-Yellow columbine (*Aquilegia* *flavescens*) is a member of the buttercup family, Ranunculaceae, which has a global distribution with 50 genera and 1,800 species. The buttercup family is more abundant in temperate and cooler regions on both the northern and southern hemispheres. The genus *Aquilegia* has about 60 to 70 species in the northern hemisphere and all are herbaceous perennials. Yellow columbine is native to the Rocky Mountains from Utah, Wyoming, Montana, Oregon, and Washington north to British Columbia and Alberta, Canada. You will find this pretty, yellow columbine in mountain meadows, open woods, and alpine slopes between 4,300 and 11,500 feet. Yellow columbine (*Aquilegia* *flavescens*) will sometimes form hybrid swarms with western columbine (*Aquilegia* *formosa*), which grows at lower elevations. Intermediate specimens having pinkish-red flowers with petal blades 5 to 6 millimeters long are occasionally found where these two species grow together.
+Yellow columbine (*Aquilegia* *flavescens*) is a member of the buttercup family, Ranunculaceae, which has a
 
-It is interesting that both the scientific and common name refer to birds in flight. The name *Aquilegia* is derived from Latin for eagle, "*aquila", w*hich refers to the spurred shape of the flower petals resembling an eagle's talon. The common name, "columbine" comes from the Latin for "dove", due to the resemblance of the inverted flowers posing as five doves clustered together. When the wind is blowing, the swaying flowers look as if they are about ready to take off for flight.
+global
 
-The flowers of *Aquilegia* have a distinctive appearance. They have five sepals and petals (sometimes four), and the sepals are often brightly colored. The petals often have spurs that run between the sepals. The flowers are bisexual and have a radial symmetry. The flowering period spans from June to August.
+distribution with 50 genera and 1,800 species. The buttercup family is more abundant in temperate and cooler
+regions on
+both the northern and southern hemispheres. The genus *Aquilegia* has about 60 to 70 species in the northern
 
-The stem height of yellow columbine ranges from 20 to 70 centimeters (7.8 to 27.5 inches). Basal leaves are much shorter than the stems and are twice-ternately compound ranging in length from 8 to 30 centimeters. Flowers are usually nodding and the sepals are perpendicular to the floral axis. Sepals are yellow or tinged with pink. The petals have yellow spurs and the tips are incurved, 10 to 18 millimeters long. The blades are cream colored, oblong, and 4 to 8 millimeters long. The fruiting follicles range from 18 to 27 millimeters in length.
+hemisphere
 
-Historically, flowers of various species of columbine were consumed in moderation with other fresh greens, and reported to be quite sweet. If consumed in small quantities, it was considered safe to ingest the flowers. However, once mature, the seeds and roots can be highly poisonous if consumed. They contain cardiogenic toxins that may cause both severe gastroenteritis and heart palpitations. Native Americans did use very small amounts of *Aquilegia* root as a treatment for ulcers.
+and all are herbaceous perennials. Yellow columbine is native to the Rocky Mountains from Utah, Wyoming,
+Montana,
+Oregon, and Washington north to British Columbia and Alberta, Canada. You will find this pretty, yellow
+columbine in
+mountain meadows, open woods, and alpine slopes between 4,300 and 11,500 feet. Yellow columbine (*Aquilegia*
+*flavescens*) will sometimes form hybrid swarms with western columbine (*Aquilegia* *formosa*), which grows at
+
+lower
+
+elevations. Intermediate specimens having pinkish-red flowers with petal blades 5 to 6 millimeters long are
+occasionally
+found where these two species grow together.
+
+It is interesting that both the scientific and common name refer to birds in flight. The name *Aquilegia* is
+
+derived
+
+from Latin for eagle, "*aquila", w*hich refers to the spurred shape of the flower petals resembling an eagle's
+talon.
+The common name, "columbine" comes from the Latin for "dove", due to the resemblance of the inverted flowers
+posing as
+five doves clustered together. When the wind is blowing, the swaying flowers look as if they are about ready
+to take off
+for flight.
+
+The flowers of *Aquilegia* have a distinctive appearance. They have five sepals and petals (sometimes four),
+
+and the
+
+sepals are often brightly colored. The petals often have spurs that run between the sepals. The flowers are
+bisexual and
+have a radial symmetry. The flowering period spans from June to August.
+
+The stem height of yellow columbine ranges from 20 to 70 centimeters (7.8 to 27.5 inches). Basal leaves are
+much shorter
+than the stems and are twice-ternately compound ranging in length from 8 to 30 centimeters. Flowers are
+usually nodding
+and the sepals are perpendicular to the floral axis. Sepals are yellow or tinged with pink. The petals have
+yellow spurs
+and the tips are incurved, 10 to 18 millimeters long. The blades are cream colored, oblong, and 4 to 8
+millimeters long.
+The fruiting follicles range from 18 to 27 millimeters in length.
+
+Historically, flowers of various species of columbine were consumed in moderation with other fresh greens, and
+reported
+to be quite sweet. If consumed in small quantities, it was considered safe to ingest the flowers. However,
+once mature,
+the seeds and roots can be highly poisonous if consumed. They contain cardiogenic toxins that may cause both
+severe
+gastroenteritis and heart palpitations. Native Americans did use very small amounts of *Aquilegia* root as a
+
+treatment
+
+for ulcers.
 
 ---
 

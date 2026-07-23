@@ -18,7 +18,9 @@ Ingredients:
 
 Prep
 In a large pot, cook the bacon until crisp. remove from pot and drain bacon fat.
-Then add celery, onion, carrots, and garlic to the drippings and saute until the onion is transparent, or about 8-10 minutes.
+Then add celery, onion, carrots, and garlic to the drippings and saute until the onion is transparent, or
+about 8-10
+minutes.
 Add chopped potatoes and stir.
 
 Add 2.5 quarts of water

@@ -14,4 +14,5 @@ It's always fun to find your first flower when the snow melts.
 
 ![Picture](../../assets/images/202303311743.jpg)
 
-To find the first flowers you have to go to the sage brush country. We found these near Crab Creek west of Othello, WA.
+To find the first flowers you have to go to the sage brush country. We found these near Crab Creek west of
+Othello, WA.

@@ -18,7 +18,9 @@ Three days without water.
 And three weeks without food. Depending on size*
 As long as I can remember, there has been public arguments about how much water you should be drunk per day.
 
-In the sports we do, drinking enough water is paramount to sustaining our ability to preform. A good rule of thumb is to drink enough water not to experience thirst.
+In the sports we do, drinking enough water is paramount to sustaining our ability to preform. A good rule of
+thumb is to
+drink enough water not to experience thirst.
 If you do experience thirst, it’s already too late.
 Stop and rehydrate thoroughly before continuing.
 But do not over drink. Water toxicity can be as dangerous as not enough water.
@@ -32,7 +34,9 @@ The whole kit is only 5 ounces. They claim 100,000 gallon lifetime, with proper 
 It has a 16oz. collapsible flask that can be filled in a hurry, so you can continue on.
 I use an empty pop bottle that will screw into the filter.
 I always have at least two bottles of water with me. One is a pop bottle.
-I also feel that if you have to dig for, or have someone get you your water bottle out, you may not be hydrating often enough.
+I also feel that if you have to dig for, or have someone get you your water bottle out, you may not be
+hydrating often
+enough.
 Find a water bottle holder so it’s always within reach.
 Keep an eye on your hiking partners.
 If they are not drinking enough water, they may be in trouble.

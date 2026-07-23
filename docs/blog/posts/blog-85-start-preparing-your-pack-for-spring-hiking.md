@@ -23,8 +23,12 @@ Things to pack and do this year
 
 A) Plastic Grocery Bags
 In 2024 as I hiked into lakes to have dinner with a view, I came across three smoldering campfires.
-It was scary, but when I realized these campfires were from the weekend, and I was there on Wednesday night, I’m so happy to have stumbled on them.
-In a sandwich size ziplock fold up a dozen grocery bags. Fold them to fit in a ziplock, then weight them to flatten and release air.
+It was scary, but when I realized these campfires were from the weekend, and I was there on Wednesday night,
+I’m so
+happy to have stumbled on them.
+In a sandwich size ziplock fold up a dozen grocery bags. Fold them to fit in a ziplock, then weight them to
+flatten and
+release air.
 Each bag weights about 6 grams, and can save a forest.
 
 B) But there’s more.
@@ -38,13 +42,15 @@ The trail
 The trails we hike, take us to the most amazing and beautiful places.
 Caring for our trails must fall on us, the users.
 
-As you come upon downed twigs, branches, rocks, and other trail debris, use your poles to flick them off the trail.
+As you come upon downed twigs, branches, rocks, and other trail debris, use your poles to flick them off the
+trail.
 Years ago, I didn’t, and tripped on it on the way down.
 
 If you find some downed trees that cross the trails, let the local hiking or other sports clubs know.
 Our better yet. I carry a 14" saw to clear trails when I’m out.
 A bow saw is light and can do a 12" tree, with lots of effort.
-But that effort pays off when you walk back to the cars after going on your hike, and cross your work on the way out.
+But that effort pays off when you walk back to the cars after going on your hike, and cross your work on the
+way out.
 I always take before and after images.
 The feeling you get from doing trail work, builds esteem and pride in doing your part.
 
@@ -53,7 +59,9 @@ First and foremost…
 Do not leave anything in your car that is of value!
 Trailheads are notorious for car break ins. PERIOD!
 
-When I lead trips or do solo hikes, I get to the parking area at least 30 minutes early. I carry grabbers to pick up trash at the trailheads.
+When I lead trips or do solo hikes, I get to the parking area at least 30 minutes early. I carry grabbers to
+pick up
+trash at the trailheads.
 Hikers may not notice it, but I do.
 The experience other hikers will have, or maybe even you, is worth the effort.
 
@@ -64,7 +72,8 @@ Confrontation in the mountains is ugly.
 See the previous blog #84
 For trail organizations in our area.
 
-If you come across road closures, slides, floods, construction, or what ever will keep us from getting to the trailheads, email me.
+If you come across road closures, slides, floods, construction, or what ever will keep us from getting to the
+trailheads, email me.
 Please be very specific in your details.
 Use the envelope at the bottom of each page on the website to contact me.
 Your input can help others. Or maybe you may enjoy others work.
@@ -79,7 +88,9 @@ Do not be embarrassed, Be safe.
 The use of map and compass does require a memory and practice.
 But ask yourself…what’s your life worth?
 
-Try this….the next time you are on a hike, ask your fellow hikers to instantly point and stay pointing……north, or any of the other three directions.
+Try this….the next time you are on a hike, ask your fellow hikers to instantly point and stay pointing……north,
+or any of
+the other three directions.
 By polishing that skill, you may be able to get unlost.
 
 Firstaid kit
@@ -100,7 +111,9 @@ You will need to take athletic tape to secure the burn pads.
 I once had a pack that blistered my lower back above my belt.
 After applying the pad, I didn’t feel it until I showered.
 
-Gather all the things you normally take in your pack, and clean them. Then rebuild it, changing out perishable and used items. Including 13 ESSENTIALS
+Gather all the things you normally take in your pack, and clean them. Then rebuild it, changing out perishable
+and used
+items. Including 13 ESSENTIALS
 Add the grocery bags, and be prepared for a great Spring.
 
 April and early May are great hiking months. And you may not need snowshoes. Traction devises are wise.

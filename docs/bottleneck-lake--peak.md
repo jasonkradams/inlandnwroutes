@@ -42,18 +42,30 @@ notes:
 
 ## Description
 
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-The trailhead is shared by Bottleneck and Snow Lakes. About 1.8 miles up Trail #185, you will come to a junction with Trail 185 that leads you to Snow Lakes. At this junction the trail switchbacks twice before heading up to Bottleneck Lake for about 1.5 miles from the second switchback.
+We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
+info. if an
+emergency ocurrs, evaluate your circumstances and call only if needed.
+The trailhead is shared by Bottleneck and Snow Lakes. About 1.8 miles up Trail #185, you will come to a
+junction with
+Trail 185 that leads you to Snow Lakes. At this junction the trail switchbacks twice before heading up to
+Bottleneck
+Lake for about 1.5 miles from the second switchback.
 
 There are two campsites at the base of the lake.
 
 ## Option #1
 
-While at the lake, check out a route to the ridge line that Bottleneck Peak sits on. The beginning is a scramble up scree, until just below the summit, on its SE side. Look for a chute on its SE side. There is an upper lake just below the peak to visit. It offers more serenity.
+While at the lake, check out a route to the ridge line that Bottleneck Peak sits on. The beginning is a
+scramble up
+scree, until just below the summit, on its SE side. Look for a chute on its SE side. There is an upper lake
+just below
+the peak to visit. It offers more serenity.
 
 ## Option #2
 
-To get to the upper lake, skirt around the lower lake to the left onto a small scree slope, heading SW. Its a short distance to the upper lake.
+To get to the upper lake, skirt around the lower lake to the left onto a small scree slope, heading SW. Its a
+short
+distance to the upper lake.
 
 ## Option #3
 
@@ -64,7 +76,13 @@ From this ridge is a spectacular view of the Beehive Dome across the Pack River.
 
 ## Directions
 
-As you drive thru Bonner’s Ferry, turn left (west) onto Riverside St. just before the Kootenai River Bridge. Head west on Riverside for about 5 miles, until you come to West Side Road #18. Make a sharp left turn (south) for 2.2 miles, and make another sharp turn right (NE) up F.R. # 402 for about 9.5 miles to the joint trailhead with Snow Lake Lake.
+As you drive thru Bonner’s Ferry, turn left (west) onto Riverside St. just before the Kootenai River Bridge.
+Head west
+on Riverside for about 5 miles, until you come to West Side Road #18. Make a sharp left turn (south) for 2.2
+miles, and
+make another sharp turn right (NE) up F.R. # 402 for about 9.5 miles to the joint trailhead with Snow Lake
+
+Lake.
 
 Riverside road follows the kootenai river, and skirts ball fields.
 Drive the speed limit, or pay the price.
@@ -77,7 +95,8 @@ If you decide to scramble to the peak, there are a few exposed sections to the s
 
 ## Cool things close by
 
-Kootenai National Wildlife Refuge, Myrtle Falls, Burton Peak, Lower & Upper Snow Creek Falls, Roman Nose Lakes & Peak.
+Kootenai National Wildlife Refuge, Myrtle Falls, Burton Peak, Lower & Upper Snow Creek Falls, Roman Nose Lakes
+& Peak.
 
 ## R & P
 
@@ -137,4 +156,8 @@ Eichardt’s, Mr Sub, Burger Express, Jalapeños in Sandpoint.
 
 ## Beehive dome from bottleneck peak
 
-Whether you go into Nature for serenity or peace a walk amongst Nature will show you more than you can imagine. It is a fact that a walk in Nature soothes our souls, allows us to become centered. And as we returns to life, we are changed.     chic    7.27.2924
+Whether you go into Nature for serenity or peace a walk amongst Nature will show you more than you can
+imagine. It is a
+fact that a walk in Nature soothes our souls, allows us to become centered. And as we returns to life, we are
+changed.
+chic    7.27.2924

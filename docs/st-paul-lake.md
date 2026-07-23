@@ -45,17 +45,29 @@ notes:
 
 ## Description
 
-From the trailhead Hike S.E. up the East Fork Bull River for about 2 miles to a bridge over the river. On the right is Placer Creek, with the E. Fork Bull River on your left. As you leave the bridge, notice the stereophonic sounds of the two creeks. For most of the hike to the lake the sounds, are worth the hike itself. In about 1.75 miles the trail begins a few switchbacks until the lake appears thru the trees.
+From the trailhead Hike S.E. up the East Fork Bull River for about 2 miles to a bridge over the river. On the
+right is
+Placer Creek, with the E. Fork Bull River on your left. As you leave the bridge, notice the stereophonic
+sounds of the
+two creeks. For most of the hike to the lake the sounds, are worth the hike itself. In about 1.75 miles the
+trail begins
+a few switchbacks until the lake appears thru the trees.
 St. Paul Lake is over 800 feet round and has no obvious outlet.
 There are two campsite, one as you come to the lake, and another on its south shore.
 
 ## Option #1
 
-St Paul Pass is located about a mile S.E. of the lake. From this pass you can access Libby Lakes, Rock Lake, and Ojibway Peak.
+St Paul Pass is located about a mile S.E. of the lake. From this pass you can access Libby Lakes, Rock Lake,
+and Ojibway
+Peak.
 
 ## Option #2
 
-Above the lake are several tall waterfalls that make this hike a must do for photographers, and hikers alike. There is no trail, and you must rock hop over semi dangerous terrain. I was there in July, 2019 and the jungles have grown above head high. Be very careful getting to the many falls.
+Above the lake are several tall waterfalls that make this hike a must do for photographers, and hikers alike.
+There is
+no trail, and you must rock hop over semi dangerous terrain. I was there in July, 2019 and the jungles have
+grown above
+head high. Be very careful getting to the many falls.
 For a view of the lake with several waterfalls in the image, CAREFULLY walk to the N.W. corner of the lake.
 A word of caution....if you take children, watch them while any where near the lake. or up by the waterfalls.
 
@@ -66,7 +78,9 @@ The trailhead is up F. R. #407 about 6 miles from Hwy 56. Along the way is an ol
 
 ## Hazards
 
-The banks around St. Paul Lake are very steep on all but the south shore. If you take kids or dogs, be very aware of slips into the lake
+The banks around St. Paul Lake are very steep on all but the south shore. If you take kids or dogs, be very
+aware of
+slips into the lake
 
 ## Cool things close by
 
@@ -74,7 +88,9 @@ Historical Bull River Ranger Station, St. Paul Peak, Libby Lakes, Rock Lake & Pe
 
 ## R & P
 
-Kaiju Bar & Grill in Libby.     Henry’s & Pizza Hut, TheShed, and Roasters in Libby, Clark Fork Pantry, Eicharts, Mr Sub, Burger Express & Jalapeños in Sandpoint
+Kaiju Bar & Grill in Libby.     Henry’s & Pizza Hut, TheShed, and Roasters in Libby, Clark Fork Pantry,
+Eicharts, Mr
+Sub, Burger Express & Jalapeños in Sandpoint
 
 ## Photo gallery
 

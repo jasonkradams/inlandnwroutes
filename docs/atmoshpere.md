@@ -4,7 +4,9 @@
 
 > [!TIP]
 
-> **Interactive Photo Gallery**: Click on any photo to open the high-resolution lightbox modal with slide controls, captions, and full-screen view.
+> **Interactive Photo Gallery**: Click on any photo to open the high-resolution lightbox modal with slide
+controls,
+captions, and full-screen view.
 
 ---
 
@@ -113,7 +115,8 @@
 </div>
 
 <div class="photo-card">
-  <a href="assets/images/12192021706p.jpg" title="LOW CLOUDS ON PEND OREILLE LAKE FROM BLACKTAIL MT. OVERLOOK">
+  <a href="assets/images/12192021706p.jpg" title="LOW CLOUDS ON PEND OREILLE LAKE FROM BLACKTAIL MT.
+OVERLOOK">
     <img src="assets/images/12192021706p.jpg" alt="Low Clouds on Pend Oreille Lake" />
   </a>
   <div class="photo-card-caption">Low Clouds on Pend Oreille Lake</div>
@@ -162,7 +165,11 @@
 </div>
 
 <div class="photo-card">
-  <a href="assets/images/122220211150a.jpg" title="BROCKEN SPECTRE GLORY - SHADOW CAST ON UNDERLYING CLOUD (BY CHRIS H.)">
+  <a href="assets/images/122220211150a.jpg" title="BROCKEN SPECTRE GLORY - SHADOW CAST ON UNDERLYING CLOUD (BY
+
+CHRIS
+
+H.)">
     <img src="assets/images/122220211150a.jpg" alt="Brocken Spectre Glory" />
   </a>
   <div class="photo-card-caption">Brocken Spectre "Glory" (by Chris H.)</div>

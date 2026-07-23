@@ -11,9 +11,10 @@ categories:
 Hi Hikers,
 
 I recently came across an article on a GIGANTIC AVALANCHE that occurred in the Willow Creek area below Stevens Peak in 1903.
-Scroll down past the colored images in it’s PHOTO GALLERY, and see what happened.
-<https://www.inlandnwroutes.com/upper-and-lower-stevens-lake.html> You will be amazed
 
 <!-- more -->
 
-Chic Burge      David Crafton
+Scroll down past the colored images in its PHOTO GALLERY, and see what happened. [Upper and Lower Stevens
+Lake](../../lakes/index.md). You will be amazed.
+
+Chic Burge & David Crafton

@@ -22,8 +22,12 @@ It was a little over 3.5 hours until the rescue leader got to us.
 It took 3.5 hours?, you asked!
 Below, I will explain what occurs when a rescue is called in.
 
-After the dispatch officer evaluates our situation, she called several of the Search & Rescue team members to come to their facility where they store their equipment.
-After loading their side by side (S-S), they drove up to Lookout Pass to launch their S-S, they had to deal with soft snow.
+After the dispatch officer evaluates our situation, she called several of the Search & Rescue team members to
+come to
+their facility where they store their equipment.
+After loading their side by side (S-S), they drove up to Lookout Pass to launch their S-S, they had to deal
+with soft
+snow.
 At least once, they got stuck. Stuck to a point they had to dig themselves out.
 When they got directly above us, the leader came down to us.
 He assessed the situation, and radioed his crew to stay put.
@@ -32,15 +36,24 @@ So he made a phone call.
 Within 1.2 hours, we could hear a helicopter coming our way from the east.
 Hovering above us was a Two Bear Air Rescue Helicopter.
 A technician was lowered to access the method of rescue needed.
-He put a body harness on the victim, and within a few minutes, the two were hauled up to the helicopter. And off it went.
-Because the injury was not life threatening, they dropped the victim off at Lookout Pass, to a waiting ambulance.
+He put a body harness on the victim, and within a few minutes, the two were hauled up to the helicopter. And
+off it
+went.
+Because the injury was not life threatening, they dropped the victim off at Lookout Pass, to a waiting
+ambulance.
 
 In reading this, it seems like 4-5 hours was a long time. But it wasn’t.
-For all the people to get ready, and go through all the necessary equipment, and work towards the victim, is very time consuming.
+For all the people to get ready, and go through all the necessary equipment, and work towards the victim, is
+very time
+consuming.
 And again, we were only 5 miles from Mullan.
 
-During the wait, I assessed the victims condition, treated for shock, supplied OTC pain killers carefully, and monitored her condition continually.
-The other hiker went down hill looking for a spot where the trees were open, and came back up. He found a large open area below us.
+During the wait, I assessed the victims condition, treated for shock, supplied OTC pain killers carefully, and
+monitored
+her condition continually.
+The other hiker went down hill looking for a spot where the trees were open, and came back up. He found a
+large open
+area below us.
 I tied a sit pad to the victim, so i could carefully slide her down about a quarter of a mile.
 
 Because the victim couldn’t move around, she became cold.
@@ -56,11 +69,15 @@ Imagine if an accident occurs 20 or 30 miles from a rescue service.
 Most all areas have a Search & Rescue service within their Sheriff’s Office.
 They are on call 24/7/365.
 They drop what they are doing, or wake up, and head to their equipment stash.
-All this takes a huge amount of time and planning. And as all planning goes, it must stay fluid, and adapt to the ever changing circumstances.
+All this takes a huge amount of time and planning. And as all planning goes, it must stay fluid, and adapt to
+the ever
+changing circumstances.
 
 The other thing that really struck a note with me, about my friends accident.
 When the Sheriff Officer got to us, I thank them for their time and trouble to come to our assistance.
-After the victim was off to the ambulance, the Officer told me that in dozens and dozens of rescues he has led, we were the very first group that didn’t ask him the following question…..
+After the victim was off to the ambulance, the Officer told me that in dozens and dozens of rescues he has
+led, we were
+the very first group that didn’t ask him the following question…..
 "What took you so long?
 These men and women are dropping what they were doing and rushing to help you.
 Please be kind.
@@ -71,15 +88,22 @@ Then it grew to 13 ESSENTIALS.
 
 The items in a ESSENTIAL POUCH you carry, can and has saved lives.
 
-When we venture into Nature, WE MUST BE PREPARED for any and all circumstances. And we must be responsible for ourselves and our actions.
+When we venture into Nature, WE MUST BE PREPARED for any and all circumstances. And we must be responsible for
+ourselves
+and our actions.
 
-A few days ago, I hiked into Lower Stevens Lake, to assess the amount of downed trees from the December wind storms.
-During my day to and back from the lake, there were three groups of two boys each, that were very unprepared for the walk.
+A few days ago, I hiked into Lower Stevens Lake, to assess the amount of downed trees from the December wind
+storms.
+During my day to and back from the lake, there were three groups of two boys each, that were very unprepared
+for the
+walk.
 All 6 young men had on only shorts and tennis shoes.
 I only saw two day packs, and none had shirts on.
 The two that made the lake were pretty pink, by the time they got to the trailhead.
 This kind of behavior is not acceptable.
-If something happened to either of these 6 young men, they can be in danger, but worse yet, they could be putting the S&R crew in peril.
+If something happened to either of these 6 young men, they can be in danger, but worse yet, they could be
+putting the
+S&R crew in peril.
 
 Please spend some time, and read and understand all aspects of RESOURCE, HINTS, AND MEDICAL sections.
 What I’ve written isn’t enough. After reading these sections, do your own research.

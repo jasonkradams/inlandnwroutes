@@ -1,6 +1,8 @@
 # Writings
 
-Writings.... we encourage you to send us your writing on human powered sports. please keep them clean and short. we do reserve the right to refuse any inappropriate content
+Writings.... we encourage you to send us your writing on human powered sports. please keep them clean and
+short. we do
+reserve the right to refuse any inappropriate content
 
 ---
 
@@ -217,7 +219,9 @@ If you find yourself pushing your abilities beyond your limits, you find yoursel
 If only we could control our fears, we may just find a secure hold or a way out.
 It is important for climbers to fine tune ourselves to realize our limits.
 To test them, but to protect ourselves and then to move on.
-Soon, thru careful probing and effort, our abilities will increase, to where someday, that problem will become fun to practice on.
+Soon, thru careful probing and effort, our abilities will increase, to where someday, that problem will become
+fun to
+practice on.
 
                chic      N2.16.1987
 
@@ -266,7 +270,8 @@ Is a place you should not pass on.
 
 Today, the 21st of December, the snows started falling.
 Altho the depth is around 4 to 6 inches, the streets are so slick I can't get off the island.
-The resorts and most skiers are hopeful that this winter will be a rebound from last year's disappointing ski season.
+The resorts and most skiers are hopeful that this winter will be a rebound from last year's disappointing ski
+season.
 Kris Crocker is calling for 7 to 10" in the mountains. Yahooooo!
 Marsha is coming to pick me up in the morning to go skiing.
 She drives a "tank" and said getting up Mt. Spokane today to snowshoe was okay.
@@ -371,7 +376,8 @@ Today the soft sounds of a small creek below the chairlift,
 drew me to listen as I passed overhead.
 The gurgling and the splashing of the water over the rocks mesmerized me.
 It was a sound one rarely hears during a mid winter ski day.
-Such a pleasure it was, I wished the lift would stop so I could soak in the sounds and sights of these small brooks.
+Such a pleasure it was, I wished the lift would stop so I could soak in the sounds and sights of these small
+brooks.
 So soothing, yet so unexpected.
 
 chic     3.4.2016
@@ -463,7 +469,9 @@ too cozy with either.
 
 chic      6.4.2016
 
-I'm am so saddened by the neglect of our nation's industries and our government's ability to protect our lands, waters, air, creatures and people.
+I'm am so saddened by the neglect of our nation's industries and our government's ability to protect our
+lands, waters,
+air, creatures and people.
 Greed, senseless misuse, damage to our environment and lack of action to protect it all is overwhelming.
 The problem is, there is no solution that will work.
 There is no common sense in any of this.
@@ -499,10 +507,14 @@ Have you ever walked a path past waterfalls, up thur a forest?
 Experiencing the sounds of the forest in a babbling brook.
 Birds signal ahead that we are coming.
 All the creatures come out to see who is walking by their home.
-And then the deep blue lake appears before you, with it's white corniced ridges contrasting against the bluest of blue sky's.
-With a little effort, the serenity that surrounds you, will lift your spirit higher then the mountains above you.
+And then the deep blue lake appears before you, with it's white corniced ridges contrasting against the bluest
+of blue
+sky's.
+With a little effort, the serenity that surrounds you, will lift your spirit higher then the mountains above
+you.
 When you stand on the summit, the Stevens Lakes below you look like portals to earth's soul.
-To see such beauty, you have to put in the effort to get high in the mountains, and experience all it's facets.
+To see such beauty, you have to put in the effort to get high in the mountains, and experience all it's
+facets.
 Like walking in the rain, or running bare foot across a cornice, your very soul and spirit will be lifted.
 Put down your phones. Reconnect with nature.
 Realize yourself.
@@ -624,9 +636,19 @@ this year.
 chic       4.2.2017
 
 A funny thing happened at lunch the other day in the Mountain House at Silver Mountain.
-Because it was a Sunday, Toni was with Marsha and I, enjoying one of my classic sandwiches. Fresh buns, avocado, tomato, Little Gems Romaine lettuce, extra sharp cheddar cheese, and savoury meats, made the day. Of course, Cheetos added the crunch to our lunch. I have learned over the years, that the Cheetos or chips cause addictive behavior with the girls. But what happened next surprised us all.
-After we gorged, and enjoyed an apple to clean our teeth, we were getting ready to go back out, when Toni popped up laughing out loud at her self.
-She held up her hands, palms towards us. All her fingers on both hands, up to the second  knuckle were coated with thick Cheetos yellow-orange contamination.
+Because it was a Sunday, Toni was with Marsha and I, enjoying one of my classic sandwiches. Fresh buns,
+avocado, tomato,
+Little Gems Romaine lettuce, extra sharp cheddar cheese, and savoury meats, made the day. Of course, Cheetos
+added the
+crunch to our lunch. I have learned over the years, that the Cheetos or chips cause addictive behavior with
+the girls.
+But what happened next surprised us all.
+After we gorged, and enjoyed an apple to clean our teeth, we were getting ready to go back out, when Toni
+popped up
+laughing out loud at her self.
+She held up her hands, palms towards us. All her fingers on both hands, up to the second  knuckle were coated
+with thick
+Cheetos yellow-orange contamination.
 We all had a good laugh, of course at Toni's expense.
 
 chic       4.2.2017
@@ -686,11 +708,29 @@ At one point, it looked like winter had returned. All white and beautiful.
 
 chic      5.15.2017
 
-As we paddled the Pend Orielle River, it became obvious that this was a special day on the river. The sun shined bright, and the river reflected mirror images. Once around Ratt Island, Pewee Falls showed bright and loud. As we approached, the roar of falling water filled our senses. We paddled close and felt the fine mist blowing in our faces. But it was the falling waters pattern that captured our attention. Streams of falling water, pounded the river in vertical columns. It was hard to leave this beautiful site, but there's more to see.
+As we paddled the Pend Orielle River, it became obvious that this was a special day on the river. The sun
+shined bright,
+and the river reflected mirror images. Once around Ratt Island, Pewee Falls showed bright and loud. As we
+approached,
+the roar of falling water filled our senses. We paddled close and felt the fine mist blowing in our faces. But
+it was
+the falling waters pattern that captured our attention. Streams of falling water, pounded the river in
+vertical columns.
+It was hard to leave this beautiful site, but there's more to see.
 Vertical walls jut out of the river on both sides. One has a cave we paddled into.
-These massive vertical rock walls are bent from years of uplift. On one wall was a tree that grew upside down. Kind of like an evergreen waterfall. We paddled thru what was once a natural arch, and on to a spot for lunch.
-We ate and enjoyed the day go by before continuing on our paddle. Great folded rocks rose out of the river, commanding our attention. Further up the river, the banks were lit in bright greens.
-As we paddled thru this narrow canyon, we heard the sounds that drew us up stream. On both sides of the river, were waterfalls echoing loudly. We positioned ourselves on the river to experience stereophonic waterfalls. We lingered as long as possible, but knew we had to head back down stream. Seeing it all in reverse, made the paddle seem shorter on the return
+These massive vertical rock walls are bent from years of uplift. On one wall was a tree that grew upside down.
+Kind of
+like an evergreen waterfall. We paddled thru what was once a natural arch, and on to a spot for lunch.
+We ate and enjoyed the day go by before continuing on our paddle. Great folded rocks rose out of the river,
+commanding
+our attention. Further up the river, the banks were lit in bright greens.
+As we paddled thru this narrow canyon, we heard the sounds that drew us up stream. On both sides of the river,
+were
+waterfalls echoing loudly. We positioned ourselves on the river to experience stereophonic waterfalls. We
+lingered as
+long as possible, but knew we had to head back down stream. Seeing it all in reverse, made the paddle seem
+shorter on
+the return
 
                 chic
 
@@ -700,7 +740,8 @@ No matter how many times I've walked the Stevens Lake's trail, it amazes me each
 The sounds of Willow Creek crashing down it's rugged path, fill the air with Mother Nature’s noise.
 The constant roar of cascading water, smoothies the climb up its steep path.
 The forests change in type and beauty the higher you climb.
-At one point the small scree slabs clank under our feet, but shortly they give way to the all too familiar soft tread.
+At one point the small scree slabs clank under our feet, but shortly they give way to the all too familiar
+soft tread.
 As we approach the headwall, the volume of mothers noise, rises until it's under foot.
 When the trail turns sharply in the woods, there's the unforgettable sounds of falling water.
 Here, you see several falls, some up higher, some falling before you.
@@ -717,7 +758,9 @@ Lining the ridge, left and right, are old white snags looking like whiskers on a
 Rock faces jut out of the lush green, adding to its starkness.
 Then a sparkle from the lake where a fish breached the surface, draws my attention.
 The circles expand in five or six concentric rings or waves. Their edges sparkle in reflection.
-Below Stevens Peak, behind a shallow u shape bowl of Sub-Alpine firs stretching from side to side sits Upper Stevens Lake.
+Below Stevens Peak, behind a shallow u shape bowl of Sub-Alpine firs stretching from side to side sits Upper
+Stevens
+Lake.
 It seems to yell at me to "come up to see me."
 The "trail" around the lake has many grand viewpoints, as does the "trail" above.
 The upper lake shins even brighter below it's peak.
@@ -833,9 +876,14 @@ Smith Peak 9.15.2017
 I opted out of the summit push. We set up camp on a rocky knoll in the dark.
 I slept, if you can call it that, on a foam pad and Thermorest.
 The ground was very bumpy and uneven. If I'd slept 3 hours, I'd be surprised.
-So I did as my body said and stayed behind, waiting for a yell from Chris. If he yells three time "Yes  Yes  Yes", I will move to the upper camp site about 300 vertical feet and about 1/4 a mile. If the didn't hear Chris, I will start transporting loads back up the trail in.
+So I did as my body said and stayed behind, waiting for a yell from Chris. If he yells three time "Yes  Yes
+Yes", I
+will move to the upper camp site about 300 vertical feet and about 1/4 a mile. If the didn't hear Chris, I
+will start
+transporting loads back up the trail in.
 There were some tenting options there.
-With just 3 months to 72, I've come to the conclusion that I need to step away from certain outdoor activities.
+With just 3 months to 72, I've come to the conclusion that I need to step away from certain outdoor
+activities.
 Altho my back is okay, the potential is too great to ignore its warning pains.
 Carrying more than a daypack (except Leigh Lake) is a thing of the past.
 Yesterday's pack weighted between 40 & 45 pounds, including 7 26 oz water bottles.
@@ -848,7 +896,9 @@ We had seen this camp site a few years earlier when we scouted the route to Smit
 I went back down and brought up Chris's tent and sleeping bag, then made one more trip to bring up his pack.
 While Chris headed towards Smith Peak, I set up the tent and made camp.
 Chris spent 9 hours round trip to Smith.
-The ridge between Cut Off Peak and Smith is absolutely spectacular. During Chris's hike, I took my Kiniksu N. F. map to a high spot and identified all the peaks we have summited over the last 36 years.
+The ridge between Cut Off Peak and Smith is absolutely spectacular. During Chris's hike, I took my Kiniksu N.
+F. map to
+a high spot and identified all the peaks we have summited over the last 36 years.
 The next day we confirmed our summits.
 After Chris returned, we had dinner and crashed.
 Sunday's hike out was okay only because we had drunk or used all but two bottles of water each.
@@ -856,12 +906,15 @@ Even tho I didn't get to summit Smith Peak, I feel the backpack was a success.
 
 chic      9.15-18.2017
 
-Tisn't just the mountains and all they hold, it's sitting back against a rock, listening and feeling the gentle breeze blow by.
+Tisn't just the mountains and all they hold, it's sitting back against a rock, listening and feeling the
+gentle breeze
+blow by.
 The occasional bird chirps, but they have pointed their beaks south.
 The air isn't blistering hot any more. The nip, just enough to make me wear my fleece is so comfortable.
 It's really about friendships.
 For in life, the only real things we own are our friendships, health, and our integrity.
-The small depression along the high ridge to Smith Peak is a perfect camp spot. It sits in a basin about 200' round.
+The small depression along the high ridge to Smith Peak is a perfect camp spot. It sits in a basin about 200'
+round.
 The lower side is covered in a thick moss that is damp to the touch.
 It is a perfect camp spot, and location to view the American Selkirks all around us.
 

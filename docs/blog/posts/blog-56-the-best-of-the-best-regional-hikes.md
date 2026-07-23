@@ -11,11 +11,17 @@ categories:
 We are very fortunate to live within 3-4 hours of some incredible hiking.
 
 Below are in my opinion, the best of the best hikes shown on our website.
-One of my criteria is hiking in places where there aren’t many, if any other people. To achieve this, we provide OPTIONS.
+One of my criteria is hiking in places where there aren’t many, if any other people. To achieve this, we
+provide
+OPTIONS.
 OPTIONS are hikes that take skills and off trail navigation.
 They should only be done by knowledgeable and capable  enthusiasts.
 Click on the associated url’s to see my write ups on each hike.
-If you have specific questions about an area here or on our website, please feel free to contact me. At the bottom of every page is my email envelope. But do remember, I am often out doing research or enjoying these wonderful places. Contact me 2-3 days ahead of your hike, or call the Ranger district 3 days before every hike for more info.
+If you have specific questions about an area here or on our website, please feel free to contact me. At the
+bottom of
+every page is my email envelope. But do remember, I am often out doing research or enjoying these wonderful
+places.
+Contact me 2-3 days ahead of your hike, or call the Ranger district 3 days before every hike for more info.
 
 Every few days, i will add a different area within our region
 
@@ -23,22 +29,33 @@ Every few days, i will add a different area within our region
 
 idaho
                  the american selkirks   (a.s.)
-This very unusual mountain range starts at Mica Peak, near Spokane, and stretches over 300 miles north into British Columbia.
+This very unusual mountain range starts at Mica Peak, near Spokane, and stretches over 300 miles north into
+British
+Columbia.
 About 100 miles of the Selkirks are in Idaho.
-An important note about the Selkirk Granite….it is a gnarly rock that  allows you to ascend steep slabs. So just don’t fall.
+An important note about the Selkirk Granite….it is a gnarly rock that  allows you to ascend steep slabs. So
+just don’t
+fall.
 
           west fork lake, mountain, ridge & tower
 <https://www.inlandnwroutes.com/west-fork-lake-mountain-6416--lookout-tower-trail-347.html>
-Really the hardest part of this hike is the drive. From Rathdrum it take 3+ hours. But the roads are pretty good.
+Really the hardest part of this hike is the drive. From Rathdrum it take 3+ hours. But the roads are pretty
+
+good.
 
 Once at the lake, head up to the ridge on the west side.
-From the abandon lookout tower, walk  NW & N along the ridge for a very nice walk. There are two lakes to enjoy along this ridge.
+From the abandon lookout tower, walk  NW & N along the ridge for a very nice walk. There are two lakes to
+enjoy along
+this ridge.
 Once back at the tower, head SE to experience a beautiful ridge walk.
 
           two mouth lakes & myrtle’s turtle
 <https://www.inlandnwroutes.com/two-mouth-lakes-5785.html>
 Lower Two Mouth Lake is the prettiest high country lake, and warm enough to swim in.
-To the ESE is Upper Two Mouth Lake. It isn’t as spectacular as lower lake. But next to it, is Myrtle’s Turtle. When you are walking the lower section of the trail, Myrtle’s Turtle is the gigantic granite dome you see from the trail.
+To the ESE is Upper Two Mouth Lake. It isn’t as spectacular as lower lake. But next to it, is Myrtle’s Turtle.
+When you
+are walking the lower section of the trail, Myrtle’s Turtle is the gigantic granite dome you see from the
+trail.
 From the upper lake, it’s an easy walk to the top.
 Don’t miss going to the top. You will be amazed.
 
@@ -55,7 +72,9 @@ Do not miss this hike, high clearance vehicles are needed.
 The hike to the Wigs is on an easy trail to an old helipad and the Wigwams summit next door.
 Once at the helipad, walk east along a magnificent cliff edge.
 After about 1.2 miles, the views open up.
-Do not miss this view. The American Selkirks stretch out for over ten miles. From Harrison Peak on the north, to Chimney Rock and Mount Roothaan to the south.
+Do not miss this view. The American Selkirks stretch out for over ten miles. From Harrison Peak on the north,
+to Chimney
+Rock and Mount Roothaan to the south.
 It looks like you are looking down a saw blade.
 This is my favorite backpack.
 
@@ -68,8 +87,14 @@ When at L.H.L. the Selkirks Crest fills the western view.
 
           selkirk crest high traverse
 <https://www.inlandnwroutes.com/selkirk-crest-high-traverse.html>
-This hike/scramble, takes you to three of the American Selkirks most beautiful alpine Lakes, along the Selkirk Crest, and to the summit of Peak 7171’.
-However, the trailheads are a little over a mile apart. Leave a car at Beehive Trailhead, or walk the mile+ up to Harrison Lake Trailhead.
+This hike/scramble, takes you to three of the American Selkirks most beautiful alpine Lakes, along the Selkirk
+Crest,
+and to the summit of Peak 7171’.
+However, the trailheads are a little over a mile apart. Leave a car at Beehive Trailhead, or walk the mile+ up
+
+to
+
+Harrison Lake Trailhead.
 
 This is easily the best day hike in the A.S.
 
@@ -78,13 +103,17 @@ This is easily the best day hike in the A.S.
 
 From the west, the  Horton Ridge the trail is easy and relatively short.
 From the east, Pack River, the route is longer, with outstanding views.
-Chimney Rock is a technical climb, while  Mount Roothaan is a pleasant rock hop to the summit. The views to the north, up the American Selkirks are worth the effort.
+Chimney Rock is a technical climb, while  Mount Roothaan is a pleasant rock hop to the summit. The views to
+the north,
+up the American Selkirks are worth the effort.
 
           fault lake
 <https://www.inlandnwroutes.com/fault-lake-5980--hunt-peak-7058-trail-59.html>
 
 The road is the hard part of this spectacular hike.
 The trail steadily climbs up to the basin that Fault Lake sits in.
-The first thing you notice when you see the lake, is the very large notch above the lake. This notch is actually a fault line. Hence the name Fault Lake. Hike up into the notch for great views of the A.S. From the south.
+The first thing you notice when you see the lake, is the very large notch above the lake. This notch is
+actually a fault
+line. Hence the name Fault Lake. Hike up into the notch for great views of the A.S. From the south.
 
 Coming next are best hikes in the cabinet mountain wilderness

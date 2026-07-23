@@ -41,24 +41,48 @@ notes:
 
 ## Description
 
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
+We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
+info. if an
+emergency ocurrs, evaluate your circumstances and call only if needed.
 ***South Route***
 To get to Little Harrison Lake, you must first hike to Beehive Lake on trial #279 for 4.5 miles.
 
-Take a moment to enjoy Beehive Lake before climbing the ridge to the right (N). There is a faint trail on the NE end of the lake that heads north up and over the ridge. Carefully descend the ridge to the right (east) end of Little Harrison Lake. There is a trail around the lake to the flat granite slabs.
-Above the lake is a nice waterfall that feeds the lake and offers great sound effects in the spring. Above the falls is the location of a plane crash that 4 people walked away from it.
-The background to the west is the famous American Selkirk Crest and most of the Seven Sisters, including the Twins. To the north is a high meadows that leads to Harrison Lake and Peak.
+Take a moment to enjoy Beehive Lake before climbing the ridge to the right (N). There is a faint trail on the
+NE end of
+the lake that heads north up and over the ridge. Carefully descend the ridge to the right (east) end of Little
+Harrison
+Lake. There is a trail around the lake to the flat granite slabs.
+Above the lake is a nice waterfall that feeds the lake and offers great sound effects in the spring. Above the
+falls is
+the location of a plane crash that 4 people walked away from it.
+The background to the west is the famous American Selkirk Crest and most of the Seven Sisters, including the
+Twins. To
+the north is a high meadows that leads to Harrison Lake and Peak.
 Retrace your steps back up the ridge and over to Beehive Lake and trail.
 
 ***North Route***
-From Harrison Lake, scramble the back wall to the crest, and turn left (south). Peak 7171' is the first peak along the crest. Continue south on the Selkirk Crest for up to 4 summits. The forth summit is impossible to descend without ropes, so come back to a saddle and work your way down to the high meadows. Spend some time in the meadows as you walk over to Little Harrison Lake. It's a magical meadows.
+From Harrison Lake, scramble the back wall to the crest, and turn left (south). Peak 7171' is the first peak
 
-Once at the lake, spend some time before scrambling the ridge to Beehive Lake, or retrace your steps back to Harrison Lake.
-If you choose to go over the ridge to Beehive Lake, its 4.5 miles to the trailhead, and about a mile to the Harrison Lake trailhead.
+along the
+
+crest. Continue south on the Selkirk Crest for up to 4 summits. The forth summit is impossible to descend
+without ropes,
+so come back to a saddle and work your way down to the high meadows. Spend some time in the meadows as you
+walk over to
+Little Harrison Lake. It's a magical meadows.
+
+Once at the lake, spend some time before scrambling the ridge to Beehive Lake, or retrace your steps back to
+Harrison
+Lake.
+If you choose to go over the ridge to Beehive Lake, its 4.5 miles to the trailhead, and about a mile to the
+Harrison
+Lake trailhead.
 
 ## Directions
 
-From Sandpoint drive north on 95 to Samuel. Turn left (west) on to the Pack River Road #231 for 19 miles to Beehive Lake trailhead, or 20 miles to the Harrison Lake trailhead.
+From Sandpoint drive north on 95 to Samuel. Turn left (west) on to the Pack River Road #231 for 19 miles to
+Beehive Lake
+trailhead, or 20 miles to the Harrison Lake trailhead.
 
 ## Hazards
 

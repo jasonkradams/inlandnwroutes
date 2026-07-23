@@ -4,7 +4,11 @@
 
 ---
 
-Out of necessity one trip, a birthday just happened to one of the participants. Everyone started working on different aspects of a surprise party.
+Out of necessity one trip, a birthday just happened to one of the participants. Everyone started working on
+
+different
+
+aspects of a surprise party.
 
 I looked around the kitchen, and improvised. The results are below.   C.
 

@@ -57,11 +57,40 @@ stats:
 
 ## Description
 
-Spreading dogbane is a showy member of the dogbane family (Apocynaceae) that is found in nearly all of the 50 states except some in the southeast. The common name, dogbane, and the genus name, "*Apocynum*," meaning "away from dog," are testaments to the toxic nature of this plant, not only to dogs, but to humans, livestock, and other mammals as well.
-This perennial stands up to 2 feet tall, and the red stem branches multiple times giving it a wide-spreading appearance. Each branch is lined with opposite leaves that droop down. At the end of the branches are clusters of fragrant flowers. The flowers are small (just over ¼ inch wide), bell-shaped, and white with light pink stripes. Each flower produces 2 slender pods that release numerous small seeds tipped by a tuft of cottony hairs that aid in wind dispersal. Spreading dogbane, as the name suggests, tends to spread from underground rhizomes and form distinct patches. Although it is native to North America, in some areas it is considered a nuisance weed.
-Spreading dogbane is found in a variety of habitats, from native plant communities to weedy roadsides and waste areas. The flowers produce nectar that is an important food source for insects, most notably the monarch butterfly. In fact, the milkweed family, host plant for monarchs, and the dogbane family are closely related.
-If you break a spreading dogbane stem or leaf, you will see that the plant contains a bitter, sticky, milky white sap. The sap contains cardiac glycosides that are toxic to humans. The root also contains a potent cardiac stimulant, cymarin. These toxic compounds help protect spreading dogbane from grazing animals. Despite its toxicity, the plant has been used medicinally for a variety of ailments. However, this plant is best enjoyed for its beauty and not as a medicine. Native Americans used the tough fibers of this and other native dogbanes to make threads and cord.
-Be sure to watch for spreading dogbane in the fall as well. It is one of the first species to change color, turning a brilliant yellow.
+Spreading dogbane is a showy member of the dogbane family (Apocynaceae) that is found in nearly all of the 50
+states
+except some in the southeast. The common name, dogbane, and the genus name, "*Apocynum*," meaning "away from
+dog," are
+testaments to the toxic nature of this plant, not only to dogs, but to humans, livestock, and other mammals as
+well.
+This perennial stands up to 2 feet tall, and the red stem branches multiple times giving it a wide-spreading
+appearance.
+Each branch is lined with opposite leaves that droop down. At the end of the branches are clusters of fragrant
+flowers.
+The flowers are small (just over ¼ inch wide), bell-shaped, and white with light pink stripes. Each flower
+produces 2
+slender pods that release numerous small seeds tipped by a tuft of cottony hairs that aid in wind dispersal.
+Spreading
+dogbane, as the name suggests, tends to spread from underground rhizomes and form distinct patches. Although
+it is
+native to North America, in some areas it is considered a nuisance weed.
+Spreading dogbane is found in a variety of habitats, from native plant communities to weedy roadsides and
+waste areas.
+The flowers produce nectar that is an important food source for insects, most notably the monarch butterfly.
+In fact,
+the milkweed family, host plant for monarchs, and the dogbane family are closely related.
+If you break a spreading dogbane stem or leaf, you will see that the plant contains a bitter, sticky, milky
+white sap.
+The sap contains cardiac glycosides that are toxic to humans. The root also contains a potent cardiac
+stimulant,
+cymarin. These toxic compounds help protect spreading dogbane from grazing animals. Despite its toxicity, the
+plant has
+been used medicinally for a variety of ailments. However, this plant is best enjoyed for its beauty and not as
+a
+medicine. Native Americans used the tough fibers of this and other native dogbanes to make threads and cord.
+Be sure to watch for spreading dogbane in the fall as well. It is one of the first species to change color,
+turning a
+brilliant yellow.
 
 ---
 

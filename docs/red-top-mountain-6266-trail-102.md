@@ -37,16 +37,27 @@ notes:
 
 ## Description
 
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-The trail to Hidden Lake is easy, and moderate to the peak. Most people don't venture past the lake, where there is good fishing and swimming, so the peak trail is seldom used. On the trail above Hidden Lake the views across the lake are of Joe Peak 6748'. Red Top offers views of the northern section of the American Selkirks.
+We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
+info. if an
+emergency ocurrs, evaluate your circumstances and call only if needed.
+The trail to Hidden Lake is easy, and moderate to the peak. Most people don't venture past the lake, where
+there is good
+fishing and swimming, so the peak trail is seldom used. On the trail above Hidden Lake the views across the
+lake are of
+Joe Peak 6748'. Red Top offers views of the northern section of the American Selkirks.
 
 ## Options 1
 
-From the top, the trail begins a 4 mile descent to Road #281. It leaves the ridge and drops back into forested habitat with lots of huckleberries, while in season.
+From the top, the trail begins a 4 mile descent to Road #281. It leaves the ridge and drops back into forested
+habitat
+with lots of huckleberries, while in season.
 
 ## Directions
 
-From Bonners Ferry drive north on 95 for 15 miles to SH #1. Turn left (west) and drive thru Copeland and over the Kootenai River on FR #281 to the West Side Road #417. Turn left (south) onto FR #281, to FR #2545 to the trailhead.
+From Bonners Ferry drive north on 95 for 15 miles to SH #1. Turn left (west) and drive thru Copeland and over
+the
+Kootenai River on FR #281 to the West Side Road #417. Turn left (south) onto FR #281, to FR #2545 to the
+trailhead.
 
 ## Cool things close by
 

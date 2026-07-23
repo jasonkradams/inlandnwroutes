@@ -2,16 +2,65 @@
 import os
 import glob
 import re
+import textwrap
 
 DOCS_DIR = 'docs'
 all_md_files = sorted(glob.glob(os.path.join(DOCS_DIR, '**/*.md'), recursive=True))
+
+def smart_wrap_paragraph(line, max_len=120):
+    if len(line) <= max_len:
+        return [line]
+    # Do not wrap headings, table rows, horizontal rules, or admonitions
+    if line.startswith('#') or line.startswith('|') or line.startswith('---') or line.startswith('!!!'):
+        return [line]
+    if re.search(r'^\s*!\[.*\]\(.*\)\s*$', line):
+        return [line]
+    
+    # Detect list prefix (bullet or number)
+    match = re.match(r'^(\s*[\*\-\+]\s+|\s*\d+\.\s+)?(.*)$', line)
+    if not match:
+        return [line]
+    
+    prefix = match.group(1) or ''
+    text = match.group(2)
+    
+    if not text.strip():
+        return [line]
+        
+    sub_indent = ' ' * len(prefix) if prefix else ''
+    available_width = max(30, max_len - len(prefix))
+    
+    wrapped = textwrap.wrap(
+        text,
+        width=available_width,
+        break_long_words=False,
+        break_on_hyphens=False,
+        subsequent_indent=sub_indent
+    )
+    
+    if not wrapped:
+        return [line]
+    wrapped[0] = prefix + wrapped[0]
+    
+    # Prevent wrapped lines from starting with numbers like '1903.' to avoid MD029 false positives
+    cleaned_wrapped = []
+    for i, w in enumerate(wrapped):
+        if i > 0 and re.match(r'^\s*\d+\.', w):
+            cleaned_wrapped[-1] = cleaned_wrapped[-1] + ' ' + w.lstrip()
+        else:
+            cleaned_wrapped.append(w)
+            
+    return cleaned_wrapped
 
 def process_file(filepath):
     with open(filepath, 'r', encoding='utf-8', errors='ignore') as fp:
         content = fp.read()
     
-    # 0. Clean blank lines inside YAML frontmatter
+    # 0. Separate frontmatter from body
     lines = content.splitlines()
+    fm_lines = []
+    body_lines = lines
+    
     if len(lines) > 0 and lines[0].strip() == '---':
         end_fm = -1
         for i in range(1, len(lines)):
@@ -19,14 +68,16 @@ def process_file(filepath):
                 end_fm = i
                 break
         if end_fm > 1:
-            fm_lines = lines[1:end_fm]
-            clean_fm = [l for l in fm_lines if l.strip() != '']
-            rest_lines = lines[end_fm:]
-            lines = [lines[0]] + clean_fm + rest_lines
-            content = '\n'.join(lines)
+            # Strip blank lines inside frontmatter
+            clean_fm = [l for l in lines[1:end_fm] if l.strip() != '']
+            fm_lines = ['---'] + clean_fm + ['---']
+            body_lines = lines[end_fm + 1:]
+
+    # Clean body content
+    body_str = '\n'.join(body_lines)
     
     # 1. Clean zero-width spaces and non-breaking spaces
-    content = content.replace('\u200b', '').replace('\xa0', ' ')
+    body_str = body_str.replace('\u200b', '').replace('\xa0', ' ')
     
     # 2. Normalize image paths relative to filepath
     rel_dir = os.path.relpath(os.path.dirname(filepath), DOCS_DIR)
@@ -37,7 +88,7 @@ def process_file(filepath):
         correct_prefix = ('../' * depth) + 'assets/images/'
     
     # Fix absolute or malformed image paths
-    content = re.sub(r'(/|\.|\w)*/?assets/images/', correct_prefix, content)
+    body_str = re.sub(r'(/|\.|\w)*/?assets/images/', correct_prefix, body_str)
     
     # Extract title from {: data-src=... data-title="..."} and put into alt/caption
     def fix_image_attr(match):
@@ -50,58 +101,57 @@ def process_file(filepath):
             return f'![{title}]({img_path})\n_{title}_'
         return f'![Image]({img_path})'
 
-    content = re.sub(r'!\[[^\]]*\]\([^)]+\)\{\:[^\}]*\}', fix_image_attr, content)
+    body_str = re.sub(r'!\[[^\]]*\]\([^)]+\)\{\:[^\}]*\}', fix_image_attr, body_str)
     
     # Remove orphaned trailing quote right after image tag
-    content = re.sub(r'(!\[[^\]]*\]\([^\)]+\))\"', r'\1', content)
+    body_str = re.sub(r'(!\[[^\]]*\]\([^\)]+\))\"', r'\1', body_str)
     
     # 3. Clean scraped web artifacts
-    content = re.sub(r'##\s*\[[^\]]+\.html\]\(\)', '', content)
-    content = re.sub(r'\[[^\]]+\.html\]\(\)', '', content)
-    content = re.sub(r'\[<https://www\.inlandnwroutes\.com\]\(https://www\.inlandnwroutes\.com>/?\)', '', content)
-    content = re.sub(r'https?://www\.inlandnwroutes\.com/uploads/\S+', '', content)
-    content = re.sub(r'\[0\s*Comments\]', '', content, flags=re.IGNORECASE)
-    content = re.sub(r'###\s*Leave a Reply\.?', '', content, flags=re.IGNORECASE)
-    content = re.sub(r'\[\[email\s*protected\]\]\(/cdn-cgi/l/email-protection\)', 'info@inlandnwroutes.com', content)
-    content = re.sub(r'/cdn-cgi/l/email-protection', '', content)
-    content = re.sub(r'\[\"\]\(\"\)', '', content)
-    content = re.sub(r'\[\"\]\(\)', '', content)
+    body_str = re.sub(r'##\s*\[[^\]]+\.html\]\(\)', '', body_str)
+    body_str = re.sub(r'\[[^\]]+\.html\]\(\)', '', body_str)
+    body_str = re.sub(r'\[<https://www\.inlandnwroutes\.com\]\(https://www\.inlandnwroutes\.com>/?\)', '', body_str)
+    body_str = re.sub(r'https?://www\.inlandnwroutes\.com/uploads/\S+', '', body_str)
+    body_str = re.sub(r'\[0\s*Comments\]', '', body_str, flags=re.IGNORECASE)
+    body_str = re.sub(r'###\s*Leave a Reply\.?', '', body_str, flags=re.IGNORECASE)
+    body_str = re.sub(r'\[\[email\s*protected\]\]\(/cdn-cgi/l/email-protection\)', 'info@inlandnwroutes.com', body_str)
+    body_str = re.sub(r'/cdn-cgi/l/email-protection', '', body_str)
+    body_str = re.sub(r'\[\"\]\(\"\)', '', body_str)
+    body_str = re.sub(r'\[\"\]\(\)', '', body_str)
     
-    # 4. Clean trailing spaces (MD009)
-    lines = [l.rstrip() for l in content.splitlines()]
-
-    # Normalize list markers to '-' for MD004 consistency in non-frontmatter lines
-    in_fm = False
-    new_lines = []
-    for line in lines:
-        if line.strip() == '---':
-            in_fm = not in_fm
-            new_lines.append(line)
+    # 4. Process body lines: trim trailing spaces and smart wrap
+    raw_body = [l.rstrip() for l in body_str.splitlines()]
+    in_code = False
+    new_body = []
+    
+    for line in raw_body:
+        if line.strip().startswith('```'):
+            in_code = not in_code
+            new_body.append(line)
             continue
-        if not in_fm:
+            
+        if not in_code:
             # Replace bullet point '*' with '-' if it starts a list item
             line = re.sub(r'^(\s*)\*\s+', r'\1- ', line)
-        new_lines.append(line)
-
-    content = '\n'.join(new_lines)
-    
-    # 5. Heading blank line spacing (MD022)
-    content = re.sub(r'([^\n])\n(#{1,6}\s+)', r'\1\n\n\2', content)
-    content = re.sub(r'(#{1,6}\s+[^\n]+)\n([^\n#])', r'\1\n\n\2', content)
-    
-    # 6. List blank line spacing (MD032)
-    content = re.sub(r'([^\n])\n(\s*[\*\-\+]\s+)', r'\1\n\n\2', content)
-    content = re.sub(r'(\s*[\*\-\+]\s+[^\n]+)\n([^\n\*\-\+\s])', r'\1\n\n\2', content)
-    content = re.sub(r'([^\n])\n(\s*\d+\.\s+)', r'\1\n\n\2', content)
-    
-    # 7. Collapse multiple blank lines to max 2
-    content = re.sub(r'\n{3,}', '\n\n', content)
-    
-    # Ensure newline at EOF
-    if not content.endswith('\n'):
-        content += '\n'
+            new_body.extend(smart_wrap_paragraph(line, max_len=120))
+        else:
+            new_body.append(line)
+            
+    # Combine frontmatter and body
+    final_lines = []
+    if fm_lines:
+        final_lines.extend(fm_lines)
+        final_lines.append('')  # Single blank line after frontmatter
         
-    return content
+    final_lines.extend(new_body)
+    
+    final_str = '\n'.join(final_lines)
+    # Collapse 3+ consecutive blank lines to 2
+    final_str = re.sub(r'\n{3,}', '\n\n', final_str)
+    
+    if not final_str.endswith('\n'):
+        final_str += '\n'
+        
+    return final_str
 
 modified = 0
 for filepath in all_md_files:

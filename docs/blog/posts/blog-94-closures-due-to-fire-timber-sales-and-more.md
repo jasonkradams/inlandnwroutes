@@ -29,10 +29,13 @@ If by chance you can not reach the USFS, or their ALERTS, pick a different area 
 For instance….Bunco Road north of CDA, has a timber sale about to begin.
 That means North Chilco Mountains Roads BUNCO ROAD, # 332 and # 385 are closed to the north access.
 
-Years ago, a hiking buddy and I drove more than 3 hours, only to find the road to where we were going to, was closed.
+Years ago, a hiking buddy and I drove more than 3 hours, only to find the road to where we were going to, was
+closed.
 We had to drive an extra hour to get to the trailhead, via an alternative route.
 
-PLEASE click on ALERTS for each hike, or contact the RANGER DISTRICT listed above our ALERT NOTICE, at least 3 days in advance of your trip.
+PLEASE click on ALERTS for each hike, or contact the RANGER DISTRICT listed above our ALERT NOTICE, at least 3
+days in
+advance of your trip.
 
 For BLM LANDS, click on this url....<https://www.blm.gov/info/notices>
 

@@ -39,8 +39,14 @@ Easy access your the Long Bridge and Pend Orielle Lake just past the Long Bridge
 
 ## Directions
 
-From Dover, drive east on Hwy 2 for about 2 miles and turn east onto Ontario Street. In .7 miles is the Lakeview Park. The launch is on the SE side of the park.
-From the Sandpoint exit off of 95, you will be on Superior. In a block, turn right (north) onto S. 1st Street. At Lake Street, turn left (west), and drive to Hwy 2. Turn left on Hwy 2 to S. Boyer Ave, where you turn left down to Lakeview Parkland
+From Dover, drive east on Hwy 2 for about 2 miles and turn east onto Ontario Street. In .7 miles is the
+Lakeview Park.
+The launch is on the SE side of the park.
+From the Sandpoint exit off of 95, you will be on Superior. In a block, turn right (north) onto S. 1st Street.
+At Lake
+Street, turn left (west), and drive to Hwy 2. Turn left on Hwy 2 to S. Boyer Ave, where you turn left down to
+Lakeview
+Parkland
 
 ## Cool things close by
 
@@ -54,7 +60,8 @@ Burger Express, Mr. Sub, Eichardt’s, and Jalapeños.
 
 ## Plan your trip
 
-[Click for Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
+[Click for Current NOAA Weather
+Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
 
 ## Photo gallery
 

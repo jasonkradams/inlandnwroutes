@@ -11,16 +11,23 @@ categories:
 We are very fortunate to live within 3-4 hours of some incredible hiking.
 
 Below are in my opinion, the best of the best hikes shown on our website.
-One of my criteria is hiking in places where there aren’t many, if any other people. To achieve this, we provide OPTIONS.
+One of my criteria is hiking in places where there aren’t many, if any other people. To achieve this, we
+provide
+OPTIONS.
 OPTIONS are hikes that take skills and off trail navigation.
 They should only be done by knowledgeable and capable  enthusiasts.
 Click on the associated url’s to see my write ups on each hike.
-If you have specific questions about an area here or on our website, please feel free to contact me. At the bottom of every page is my email envelope. But do remember, I am often out doing research or enjoying these wonderful places. Contact me 2-3 days ahead of your hike, or call the Ranger district 3 days before every hike for more info
+If you have specific questions about an area here or on our website, please feel free to contact me. At the
+bottom of
+every page is my email envelope. But do remember, I am often out doing research or enjoying these wonderful
+places.
+Contact me 2-3 days ahead of your hike, or call the Ranger district 3 days before every hike for more info
 
 <!-- more -->
 
 Proposed scotchmen peaks wilderness. (pspw)
-For over 20 years, the Friends of  Scotchman Peak, have worked to put this area into the National Wilderness System.
+For over 20 years, the Friends of  Scotchman Peak, have worked to put this area into the National Wilderness
+System.
 This whole area is rough to get to its summits, but so worth every bit of effort.
 
 Ross creek cedars
@@ -41,7 +48,9 @@ Be aware of the Mountain Goats? They may be aggressive.
 
 Star peak
 <https://www.inlandnwroutes.com/star-peak1.html>
-As you are driving east on Hwy 200, Star Peak sticks out on the southern end of the Proposed Wilderness. Look for the lookout tower on top of the pyramid shaped peak.
+As you are driving east on Hwy 200, Star Peak sticks out on the southern end of the Proposed Wilderness. Look
+for the
+lookout tower on top of the pyramid shaped peak.
 This hike is 4.72 miles with 3910 feet gain.
 It’s not easy, but offers rarely seen views.
 The outhouse for the tower is class A.
@@ -52,5 +61,7 @@ Do not miss this hike/chicwack
 It’s a moderate hike to L.S.L. but the mile long cliff that the trail follows are spectacular.
 The lake is lined with cliffs on the NE side.
 Have a healthy snack here, and hold lunch til at the pond.
-From the lake, if you chicwack straight up for about .5 miles, the forest opens up. Here you turn left and walk to where you see the pond to the NW.
+From the lake, if you chicwack straight up for about .5 miles, the forest opens up. Here you turn left and
+walk to where
+you see the pond to the NW.
 Save your lunch for the peninsula.

@@ -39,20 +39,41 @@ notes:
 
 ## Description
 
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-Altho this trail seems long, it is a beautiful trail to hike on the hottest day of the year. Most of Trail #308 is surrounded by large Hemlocks and Cedars.
+We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
+info. if an
+emergency ocurrs, evaluate your circumstances and call only if needed.
+Altho this trail seems long, it is a beautiful trail to hike on the hottest day of the year. Most of Trail
+#308 is
+surrounded by large Hemlocks and Cedars.
 
-For the most part, this trail skirts the Upper Priest River. Along your hike or mt. bike, there are numerous wood walkways to protect the fragile, often moist ground. Trees make this hike a real memory. And this area is one of the largest, in tact old growth forests in the Pacific Northwest.
+For the most part, this trail skirts the Upper Priest River. Along your hike or mt. bike, there are numerous
+wood
+walkways to protect the fragile, often moist ground. Trees make this hike a real memory. And this area is one
+of the
+largest, in tact old growth forests in the Pacific Northwest.
 Some of the trees are up to 10 feet in diameter.
-For a shorter hike, you can drive up FR1013, and turn onto FR 1388 to the Continental Trailhead. The hike is 1.5 miles and 1040 verts down to Trail #308. From 308, it’s another mile to American Falls, aka Upper Priest Falls. But it won’t be as cool as hiking the 308 trail. Cool meaning temps and beauty.
+For a shorter hike, you can drive up FR1013, and turn onto FR 1388 to the Continental Trailhead. The hike is 1.5 miles
+and 1040 verts down to Trail #308. From 308, it’s another mile to American Falls, aka Upper Priest Falls. But
+it won’t
+be as cool as hiking the 308 trail. Cool meaning temps and beauty.
 
-For mt. bikers, drive past, Trail 308 trailhead, leaving a shuttle car and turn up FR 1388 after it crosses Continental Creek to the end. You will be at the Continental Trail #28. This route is 14 miles back to the Trail #308 trailhead where you left a shuttle car. It is a 1040 foot drop down to Trail #308.
+For mt. bikers, drive past, Trail 308 trailhead, leaving a shuttle car and turn up FR 1388 after it crosses
+Continental
+Creek to the end. You will be at the Continental Trail #28. This route is 14 miles back to the Trail #308
+trailhead
+where you left a shuttle car. It is a 1040 foot drop down to Trail #308.
 
 While at American Falls, look around for Orange Peel Fungus.
 
 ## Directions
 
-From Priest River, drive north on Hwy 57 for about 37 miles to Nordman. Continue 14 miles on FR #302 to Granite Creek and the Stagger Inn Campground. Take a moment here to visit Granite Falls and the Roosevelt Grove of Ancient Cedars. From here drive 1.6 miles to the FR #1013 junction. Take the middle fork nearly 12 miles, and look for the parking area on the left.
+From Priest River, drive north on Hwy 57 for about 37 miles to Nordman. Continue 14 miles on FR #302 to
+Granite Creek
+and the Stagger Inn Campground. Take a moment here to visit Granite Falls and the Roosevelt Grove of Ancient
+Cedars.
+From here drive 1.6 miles to the FR #1013 junction. Take the middle fork nearly 12 miles, and look for the
+parking area
+on the left.
 
 For the upper trailhead, drive further up 1013, to the #28 trailhead at the end of the road.
 
@@ -99,6 +120,8 @@ Burger Express in Priest River.
 
 ---
 
-There are two things I like about life… Living it, and living in nature.  The solitude is deafening.                     chic     1.1.2023
+There are two things I like about life… Living it, and living in nature.  The solitude is deafening.
+
+chic     1.1.2023
 
 ---

@@ -51,9 +51,21 @@ stats:
 
 ## Description
 
-FlowersEach flower is about 1/4" across, consisting of 5 white petals, 5 light green sepals, 5 light green pistils, and numerous stamens (20 or more). The petals are much longer than the sepals, while the filaments of the stamens are much longer than the styles of the pistils. Where the nectaries of each flower are located, there is a narrow ring-like structure that surrounds the 5 pistils in the center of the flower; this floral structure is pink, orange, or yellow. It flowers mid- to late summer.
+FlowersEach flower is about 1/4" across, consisting of 5 white petals, 5 light green sepals, 5 light green
+pistils, and
+numerous stamens (20 or more). The petals are much longer than the sepals, while the filaments of the stamens
+are much
+longer than the styles of the pistils. Where the nectaries of each flower are located, there is a narrow
+ring-like
+structure that surrounds the 5 pistils in the center of the flower; this floral structure is pink, orange, or
+yellow. It
+flowers mid- to late summer.
 
-This mound-shaped shrub, 3-6 ft. tall and wide, bears numerous, fine-textured, erect, unbranched stems. Deciduous foliage is yellow-green, turning golden-yellow in fall. Tiny white flowers are arranged in conical, terminal spikes. A woody shrub with a dense, pyramidal, terminal cluster of small, white or pale pinkish flowers.
+This mound-shaped shrub, 3-6 ft. tall and wide, bears numerous, fine-textured, erect, unbranched stems.
+Deciduous
+foliage is yellow-green, turning golden-yellow in fall. Tiny white flowers are arranged in conical, terminal
+spikes. A
+woody shrub with a dense, pyramidal, terminal cluster of small, white or pale pinkish flowers.
 
 ---
 

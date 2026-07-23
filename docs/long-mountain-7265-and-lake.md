@@ -44,30 +44,49 @@ notes:
 
 ## Description
 
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-From the Pyramid Lakes trailhead, hike Trail #13 SW for 1/2 a mile to the junction with Traill #43 (Pyramid Lake Trail). Bear right at the sign and trail register, still on Trail #13 to Pyramid Pass.
+We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
+info. if an
+emergency ocurrs, evaluate your circumstances and call only if needed.
+From the Pyramid Lakes trailhead, hike Trail #13 SW for 1/2 a mile to the junction with Traill #43 (Pyramid
+Lake Trail).
+Bear right at the sign and trail register, still on Trail #13 to Pyramid Pass.
 
-After a snack at the pass, drop down Trail #7 to a junction with the Long Mt. Lake. Turn right onto Trail #221 and climb the 540 feet to a saddle above Long Mt. Lake. Its about 1/2 a mile and 235' loss to the lake. There are campsites at the lake for lunch, or you can climb a short distance to the north ridge above the lake for lunch with a view. Instead of returning on the trail in, continue up the ridge you had lunch on to the top of Long Mountain 7265'. At the summit you can walk the ridge line SE back to Trail  #221, and out.
+After a snack at the pass, drop down Trail #7 to a junction with the Long Mt. Lake. Turn right onto Trail #221
+and climb
+the 540 feet to a saddle above Long Mt. Lake. Its about 1/2 a mile and 235' loss to the lake. There are
+campsites at the
+lake for lunch, or you can climb a short distance to the north ridge above the lake for lunch with a view.
+Instead of
+returning on the trail in, continue up the ridge you had lunch on to the top of Long Mountain 7265'. At the
+summit you
+can walk the ridge line SE back to Trail  #221, and out.
 
 This lake is secluded and with the white granite rocks surrounded by the fall colors, its amazing.
 
 ## Option #1
 
-From Pyramid Pass, you can scramble NE up a steep ridge to an ever higher ridge. Once on top, hike NW to a prominence and look for a descent route to the ridge line leading down to Long Mountain Lake
+From Pyramid Pass, you can scramble NE up a steep ridge to an ever higher ridge. Once on top, hike NW to a
+prominence
+and look for a descent route to the ridge line leading down to Long Mountain Lake
 
 ## Directions
 
-From the Kootenai Wildlife Refuge, drive about 10 miles north on FR 417 or West Side Road, to FR #634 Trout Creek. Follow Trout Creek west for 9 miles to the trailhead.
+From the Kootenai Wildlife Refuge, drive about 10 miles north on FR 417 or West Side Road, to FR #634 Trout
+Creek.
+Follow Trout Creek west for 9 miles to the trailhead.
 
 ## Hazards
 
 None of note on Trail #221.
 
-However, if you choose the high ridge line, take care on the ridge, and the descent to Long Mountain’s ridge line.
+However, if you choose the high ridge line, take care on the ridge, and the descent to Long Mountain’s ridge
+line.
 
 ## Cool things close by
 
-Pyramid Pass & Lakes, Parker Peak, Long Canyon, Trout Lake, the Kootenai National Wildlife Refuge, Myrtle Falls, Snow Creek Falls, and the Purcell Trench.
+Pyramid Pass & Lakes, Parker Peak, Long Canyon, Trout Lake, the Kootenai National Wildlife Refuge, Myrtle
+Falls, Snow
+Creek Falls, and the Purcell Trench.
 
 ## R & P
 
@@ -99,7 +118,9 @@ Jalapeños, Eichardt's, Burger Express, Mr. Sub,  Sandpoint
 
 ![Picture](assets/images/286daa74-fbf7-4adc-bb49-faa3dc79a2c8.jpg)
 
-Ridge line leading up to long mountain, from long mountain lake After the lake, you can walk this ridge up to long mountain summit and the trail down
+Ridge line leading up to long mountain, from long mountain lake After the lake, you can walk this ridge up to
+long
+mountain summit and the trail down
 
 ---
 

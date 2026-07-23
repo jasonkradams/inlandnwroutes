@@ -46,23 +46,44 @@ notes:
 
 ## Description
 
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
+We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
+info. if an
+emergency ocurrs, evaluate your circumstances and call only if needed.
 The most unfortunate thing about this old trail, National Recreation Trail #16, is, it is now an ORV trail.
 
 The trailhead is on the east side of Elsie Lake, and basically heads SE for about two miles to N.R.T #16.
 
- ***At this trail junction, be sure to look back, or take a picture, at the junction so on your return hike, you know where to turn down to Elsie Lake.***Once on N.R.Trail #16, head NE for about .3 of a mile and bear left up towards Striped Peak for a little less then a mile to its long summit. Walk north on the summit and see a rock/wind shelter someone built with great skill. Retrace your steps back to the lake.
+ ***At this trail junction, be sure to look back, or take a picture, at the junction so on your return hike,
+you know
+where to turn down to Elsie Lake.***Once on N.R.Trail #16, head NE for about .3 of a mile and bear left up
+towards
+Striped Peak for a little less then a mile to its long summit. Walk north on the summit and see a rock/wind
+shelter
+someone built with great skill. Retrace your steps back to the lake.
 
 warning
-The first right walking back to Elsie Lake off of N.R.Trail #16 is not the road back to Elsie Lake. Walk about .4 miles to the next right turn and head down to Elsie Lake.
+The first right walking back to Elsie Lake off of N.R.Trail #16 is not the road back to Elsie Lake. Walk about
+.4 miles
+to the next right turn and head down to Elsie Lake.
 
 ## Option #1
 
-After summiting Striped Peak and hiking SW on Trail #16, do not turn down Trail #106. Instead, continue on N.R. Trail #16 for about two miles to an intersection with 4 roads up on a barren knoll. Take the ORV trail NW that skirts Elsie Lakes on their west side. This road is about 1 mile down to the Big Creek Road. Turn right and walk .5 of a mile back to Elsie Lake.
+After summiting Striped Peak and hiking SW on Trail #16, do not turn down Trail #106. Instead, continue on
+N.R. Trail
+#16 for about two miles to an intersection with 4 roads up on a barren knoll. Take the ORV trail NW that skirts Elsie
+Lakes on their west side. This road is about 1 mile down to the Big Creek Road. Turn right and walk .5 of a
+mile back to
+Elsie Lake.
 
 ## Directions
 
-On I-90, turn right (south) onto the Big Creek Road #264. This exit is where the memorial for the 90+ miners that died in a tragic mining accident. Head due south up the Big Creek Road past the Sunshine Mine, where the road turns to dirt. Elsie Lake is about 13 miles up Road 264.
+On I-90, turn right (south) onto the Big Creek Road #264. This exit is where the memorial for the 90+ miners
+
+that died
+
+in a tragic mining accident. Head due south up the Big Creek Road past the Sunshine Mine, where the road turns
+to dirt.
+Elsie Lake is about 13 miles up Road 264.
 
 ## Hazards
 
@@ -70,11 +91,17 @@ Watch and listen for ORV’s everywhere up Big Creek. Striped Peak has no ORV tr
 
 ## Cool things close by
 
-Stevens Peak & Lakes, U. & L Glidden Lakes, Silver Mountain Resort, Graham Mountain, the Trail of the CDA’s, and the Route of the Hiawatha.
+Stevens Peak & Lakes, U. & L Glidden Lakes, Silver Mountain Resort, Graham Mountain, the Trail of the CDA’s,
+and the
+Route of the Hiawatha.
 
 ## R & P
 
-Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ & Saloon, Wallace Brewing Co.,mane Muchacho’s Tacos in Wallace. Radio Brewing in Kellogg. , The Snake Pit north of Kingston. And the Moon Time in CDA
+Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ &
+Saloon,
+Wallace Brewing Co.,mane Muchacho’s Tacos in Wallace. Radio Brewing in Kellogg. , The Snake Pit north of
+Kingston. And
+the Moon Time in CDA
 
 ## Photo gallery
 

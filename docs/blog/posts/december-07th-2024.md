@@ -8,7 +8,11 @@ categories:
   - Winter Sports
 ---
 
-As Spring is about to turn into Winter, there are ways to see how the conditions are at your favorite ski resort or backcountry areas.
+As Spring is about to turn into Winter, there are ways to see how the conditions are at your favorite ski
+
+resort or
+
+backcountry areas.
 
 <!-- more -->
 
@@ -18,7 +22,8 @@ This will bring up a website that tells you so much about the conditions.
 Once on the HOME PAGE, tap "MENU".
 What will come up, is a way to have all of your weather questions answered.
 Select the specific area you want to visit, and select what info you want to know.
-It will take a while to see all the features this site offers, but once you get it, it’s a world of information.
+It will take a while to see all the features this site offers, but once you get it, it’s a world of
+information.
 
 Besides Windy.com, there is one other websites to sharpen your skills..
 Check out the following….
@@ -26,10 +31,14 @@ Check out the following….
 Weather.gov.
 When you get on Weather.gov, scroll down until you see the Hourly Weather Forecast graph.
 Click on it and what comes up is my number 1 place to go for weather conditions.
-I have found out over the last few years, that the times of snow fall are as accurate as they could be, but there are a lot of unforeseen factors that influence those times.
+I have found out over the last few years, that the times of snow fall are as accurate as they could be, but
+there are a
+lot of unforeseen factors that influence those times.
 The amounts of snow, rain, sleet, etc., vary substantially, and are harder to predict.
 
-But by using these three websites to educate yourself, they will at least tell you how you must dress or even go to the area you intended.
+But by using these three websites to educate yourself, they will at least tell you how you must dress or even
+go to the
+area you intended.
 
 For additional information on all aspects of weather, log onto…..
 <https://www.inlandnwroutes.com/weather-thunderstorms-and-lightning.html>

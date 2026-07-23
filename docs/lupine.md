@@ -72,13 +72,34 @@ notes:
 
 ## Description
 
-Although the silver (or silvery) lupine is found in most states west of the Mississippi River, the variety shown here is restricted to **the mountains of Idaho**, Montana and Wyoming.
-Lupine, as other legumes, enhances soil fertility by fixing atmospheric nitrogen into a useful form.  Nitrogen-fixing bacteria reside in nodules along the roots., converting atmospheric nitrogen into compounds the plants can use, thus they increase soil fertility in areas where nitrogen is limited.
-Any of numerous plants of the genus *Lupinus* of the pea family, having palmately compoundleaves and colorful flowers grouped in spikes or racemes. Some species are cultivated asornamentals and others for their edible seeds.
+Although the silver (or silvery) lupine is found in most states west of the Mississippi River, the variety
+shown here is
+restricted to **the mountains of Idaho**, Montana and Wyoming.
+Lupine, as other legumes, enhances soil fertility by fixing atmospheric nitrogen into a useful form.
+Nitrogen-fixing
+bacteria reside in nodules along the roots., converting atmospheric nitrogen into compounds the plants can
+use, thus
+they increase soil fertility in areas where nitrogen is limited.
+Any of numerous plants of the genus *Lupinus* of the pea family, having palmately compoundleaves and colorful
 
-The lupine gets its name from the Latin word for wolf - lupus. It was once thought that the lupine plant absorbed or "wolfed up" all the mineral content from the soil. We know know that the plant actually is a [nitrogen fixer](https://nhpbs.org/wild/nitrogen.asp). Its roots have nodes with colonies of nitrogen fixing bacteria that help it survive in nutrient poor soil. Lupine actually deposit nitrogen into the soil!
+flowers
 
-Habitat..Open sunny places on sandy loamy soil. In California plants generally occur below 7500 ft (2286 m) in moist sites. Prefers sun to partial shade in moist, cool soils. Native to Alaska, Colorado, Idaho, Montana, Nevada, Oregon, Washington, California and Wyoming, Big-leaf lupine was introduced in the Midwest and escaped cultivation.
+grouped in spikes or racemes. Some species are cultivated asornamentals and others for their edible seeds.
+
+The lupine gets its name from the Latin word for wolf - lupus. It was once thought that the lupine plant
+
+absorbed or
+
+"wolfed up" all the mineral content from the soil. We know know that the plant actually is a [nitrogen
+fixer](https://nhpbs.org/wild/nitrogen.asp). Its roots have nodes with colonies of nitrogen fixing bacteria
+that help it
+survive in nutrient poor soil. Lupine actually deposit nitrogen into the soil!
+
+Habitat..Open sunny places on sandy loamy soil. In California plants generally occur below 7500 ft (2286 m) in
+moist
+sites. Prefers sun to partial shade in moist, cool soils. Native to Alaska, Colorado, Idaho, Montana, Nevada,
+Oregon,
+Washington, California and Wyoming, Big-leaf lupine was introduced in the Midwest and escaped cultivation.
 
 ---
 

@@ -13,14 +13,22 @@ Staying fit durng snow season
 <!-- more -->
 
 The hardest time of the year for me, is late Autumn.
-The weather is usually bad, the day light shortens, the temps get cold, but I find places to go to and hike no matter what.
+The weather is usually bad, the day light shortens, the temps get cold, but I find places to go to and hike no
+matter
+what.
 The issue is, I don’t get to go high in the mountains, on long ridge line walks.
 
-What I’ve found thru life, is if I  fill the shoulder months with as much outdoor activities as possible, my outlook on life gets better.
+What I’ve found thru life, is if I  fill the shoulder months with as much outdoor activities as possible, my
+outlook on
+life gets better.
 
-Science says, that as little as 120 minutes a week, spent in Nature, can do wonders for our well being, stress levels, blood pressure, peace of mind, and more.
+Science says, that as little as 120 minutes a week, spent in Nature, can do wonders for our well being, stress
+levels,
+blood pressure, peace of mind, and more.
 
-But committing to 30 to 60 minutes a day is difficult to fit into our busy lives. So do several 15 to 20 minutes walks throughout the day.
+But committing to 30 to 60 minutes a day is difficult to fit into our busy lives. So do several 15 to 20
+minutes walks
+throughout the day.
 Shoot for 60 minutes, but if all you get is 30 minutes, that’s okay.
 Maybe the next day, we can go just a few more minutes to each day.
 On days we feel good and can stay out longer, do so.
@@ -32,12 +40,14 @@ An old adage I’ve enjoyed thru life is as follows….
 Neale Donald Walsch
 
 Obviously, the mountains are filling with fluff.
-So if you are unlikely to go to the mountains, below are some of the best places to experience Nature, and not necessarily be in snow.
+So if you are unlikely to go to the mountains, below are some of the best places to experience Nature, and not
+necessarily be in snow.
 
 Spokane area
 
 <https://www.inlandnwroutes.com/spokane-county-conservation-futures.html>
-This url will take you to more than a dozen locations in Spokane County to get out and enjoy Nature, year round.
+This url will take you to more than a dozen locations in Spokane County to get out and enjoy Nature, year
+round.
 
 Dig around a bit on the county parks website above to see the many trails in and around Spokane County.
 
@@ -78,7 +88,8 @@ Sleep
 Improves sleep.
 Allows for better sleep
 
-So, now that you are armed with WHY to go into Nature, and WHERE to go, don’t let the next 3 to 5 months get you down.
+So, now that you are armed with WHY to go into Nature, and WHERE to go, don’t let the next 3 to 5 months get
+you down.
 
 Get up and get outside and feel mother nature at her best.
 
@@ -99,7 +110,9 @@ InlandNWRoutes.com
 
 7/30/2025 12:17:04 am
 
-Sober living in San Luis Obispo can be a game-changer after treatment. The structure and community support really help with staying on track.
+Sober living in San Luis Obispo can be a game-changer after treatment. The structure and community support
+really help
+with staying on track.
 
 Reply
 
@@ -108,6 +121,9 @@ Reply
 
 7/31/2025 12:09:59 am
 
-bipolar treatment centers california, Bipolar disorder can be challenging, but California has many specialized treatment centers that offer mood stabilization programs, residential care, and holistic therapies for long-term recovery.
+bipolar treatment centers california, Bipolar disorder can be challenging, but California has many specialized
+treatment
+centers that offer mood stabilization programs, residential care, and holistic therapies for long-term
+recovery.
 
 Reply

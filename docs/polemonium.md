@@ -48,12 +48,27 @@ notes:
 
 ## Description
 
-*Polemonium reptans*is a sprawling rhizomatous perennial groundcover. Plants have a short vertical crown and many fibrous roots.
-The attractive leaves are alternately arranged on green or purplish stems.  They appear to be compound but are actually pinnately divided into inch long oval or oblong segments.  Each segment has a pointed tip and smooth edge.  The entire leaf averages 8-9" length.
-The fertile stems terminate in loose open flower corymbs.  The individual florets are bell shaped and about ½" across.  Each floret has 5 rounded blue-violet or pinkish petals.
+*Polemonium reptans*is a sprawling rhizomatous perennial groundcover. Plants have a short vertical crown and
+many
+fibrous roots.
+The attractive leaves are alternately arranged on green or purplish stems.  They appear to be compound but are
+actually
+pinnately divided into inch long oval or oblong segments.  Each segment has a pointed tip and smooth edge.
+The entire
+leaf averages 8-9" length.
+The fertile stems terminate in loose open flower corymbs.  The individual florets are bell shaped and about ½"
+across.
+Each floret has 5 rounded blue-violet or pinkish petals.
 Blooming occurs in late spring for 2-3 weeks.  Small oval tan colored seed capsules follow.
-Plants grow 12-18" tall with an equal spread.  Even though plants have short rhizomes, they spread mostly by reseeding.
-A low, weak-stemmed, often sprawling, herbaceous perennial. Flowers in loose terminal clusters, bell-shaped, ¾ inch long, 5-lobed, with short tubes, light blue to blue lavender. Stamens 5, with white anthers; style tip divided into three parts. Blooms April-June. Leaves alternate, pinnately ("feather") compound with smooth, ovate, opposite leaflets. The basal leaves are on long petioles.
+Plants grow 12-18" tall with an equal spread.  Even though plants have short rhizomes, they spread mostly by
+reseeding.
+A low, weak-stemmed, often sprawling, herbaceous perennial. Flowers in loose terminal clusters, bell-shaped, ¾
+inch
+long, 5-lobed, with short tubes, light blue to blue lavender. Stamens 5, with white anthers; style tip divided
+into
+three parts. Blooms April-June. Leaves alternate, pinnately ("feather") compound with smooth, ovate, opposite
+leaflets.
+The basal leaves are on long petioles.
 Size:
 Height: to 15 inches.
 

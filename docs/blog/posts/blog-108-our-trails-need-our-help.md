@@ -14,16 +14,25 @@ What we are finding is a huge number of downed trees on almost every trail.
 
 <!-- more -->
 
-I was up at Lone Lake a week ago, and came across a 3.5’ diameter tree that broke off about 12 feet above the trail, and fell across the trail.
+I was up at Lone Lake a week ago, and came across a 3.5’ diameter tree that broke off about 12 feet above the
+trail, and
+fell across the trail.
 This kind of a downed tree is very hazardous. Loggers call them "wisdom makers."
-The USFS Trails crew, and a few North Idaho Idaho Trails Association sawyers, went up and safely removed this hazard.
+The USFS Trails crew, and a few North Idaho Idaho Trails Association sawyers, went up and safely removed this
+hazard.
 Thank you!
 
-Usually when I go up with The Spokane Mountaineers, we rarely find downed trees. But this year there are 5 left to be cut out.
+Usually when I go up with The Spokane Mountaineers, we rarely find downed trees. But this year there are 5
+left to be
+cut out.
 
-Three weeks ago, I hiked into Lower Stevens Lake to assess the amount of downed trees and any trail work that will be needed.
+Three weeks ago, I hiked into Lower Stevens Lake to assess the amount of downed trees and any trail work that
+will be
+needed.
 I counted 63 trees of all sizes down across the trail.
- And until you get near the headwall, near the old miners camp the downed trees are 3 and 4 trees deep along about 200’ of the trail.
+ And until you get near the headwall, near the old miners camp the downed trees are 3 and 4 trees deep along
+about 200’
+of the trail.
 
 This is the same as I’m hearing from all over the I.P.N.F.
 
@@ -45,8 +54,10 @@ They also lead Wednesday hikes around Sandpoint, and Thursday hikes around Couer
 
 Washington Trails Associated
 [<https://www.wta.org](https://www.wta.org>/)
-The WTA has an Eastern Washington Trail representative in Spokane that has built and maintained our trails for years.
-Trails like FishTrap Lake west of Spokane are an example of their dedication to making our trails safe and scenic.
+The WTA has an Eastern Washington Trail representative in Spokane that has built and maintained our trails for
+years.
+Trails like FishTrap Lake west of Spokane are an example of their dedication to making our trails safe and
+scenic.
 
 The Spokane Mountaineers, Inc.
 <https://www.facebook.com/SpokaneMountaineers/>
@@ -57,7 +68,9 @@ We are dedicated to preserving and protecting our trails and forest, all over th
 One of the cool things about volunteering for the above organizations, is you get to dig in the dirt for fun.
 There’s nothing like hiking back down a freshly groomed trail, and thinking…"I had something to do with this".
 
-If you have ever done trail work, or if you are interested in helping our trails, please contact which ever organization above you wish.
+If you have ever done trail work, or if you are interested in helping our trails, please contact which ever
+organization
+above you wish.
 
 Our trails are our avenues to enjoy Nature, see the incredible sights, and to clear our minds.
 

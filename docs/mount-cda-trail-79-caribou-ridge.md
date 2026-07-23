@@ -42,8 +42,16 @@ notes:
 
 ## Description
 
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-The trailhead for Trail # 79, starts at a parking area at the Beauty Creek Campground. Hike due south across Beauty Creek and up the trail. After 15 switchbacks, you will come to a road that you turn right onto to the Mount CDA viewpoint and campgrounds
+We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
+info. if an
+emergency ocurrs, evaluate your circumstances and call only if needed.
+The trailhead for Trail # 79, starts at a parking area at the Beauty Creek Campground. Hike due south across
+
+Beauty
+
+Creek and up the trail. After 15 switchbacks, you will come to a road that you turn right onto to the Mount
+CDA
+viewpoint and campgrounds
 
 Some of the switchbacks are very technical for hikers, and scary for mt. bikers, so be careful.
 
@@ -53,11 +61,15 @@ You can extend your hike/bike by continuing up Trail #227 to the summit of Mount
 
 ## Option #2
 
-Mt. Bike up trail #257 to FR #439, turn right to the Mount CDA Overlook and Campground. Look for Trail #79 that drops down to the Beauty Bay Campground.
+Mt. Bike up trail #257 to FR #439, turn right to the Mount CDA Overlook and Campground. Look for Trail #79
+that drops
+down to the Beauty Bay Campground.
 
 ## Directions
 
-From the Mineral Ridge parking area, drive about .2 miles and turn left up the Beauty Creek Road #438. In about .6 miles notice the campground and parking area on the right.
+From the Mineral Ridge parking area, drive about .2 miles and turn left up the Beauty Creek Road #438. In
+about .6 miles
+notice the campground and parking area on the right.
 
 ## Cool things close by
 

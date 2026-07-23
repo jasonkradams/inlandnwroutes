@@ -22,4 +22,6 @@ She insisted that she only adds ice cold water to the flour in the jar.
 Cap it and shake thoroughly.
 Using a fork, slowly pour in the flour-water mixture, always mixing vigorously with a fork.
 
-When the gravy sets up, add salt, pepper, garlic powder and the fried mushrooms, onions and chicken or other meats, to taste.
+When the gravy sets up, add salt, pepper, garlic powder and the fried mushrooms, onions and chicken or other
+meats, to
+taste.

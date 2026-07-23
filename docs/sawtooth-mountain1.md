@@ -38,25 +38,47 @@ stats:
 
 ## Description
 
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-To get a preview of Sawtooth Peak, drive towards Heron, Mt. off Hwy 200, and turn around before the bridge. As you head back towards Hwy 200, Sawtooth Mountain sticks up high in the background. See landing page image above.
-Please note…there is no real trail. Use Topo maps and a compass, and go for Middle Mountain, then on to Sawtooth Mountain.
+We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
+info. if an
+emergency ocurrs, evaluate your circumstances and call only if needed.
+To get a preview of Sawtooth Peak, drive towards Heron, Mt. off Hwy 200, and turn around before the bridge. As
+you head
+back towards Hwy 200, Sawtooth Mountain sticks up high in the background. See landing page image above.
+Please note…there is no real trail. Use Topo maps and a compass, and go for Middle Mountain, then on to
+Sawtooth
+Mountain.
 The trail starts near an old mining operation where you can park your car, but not on their property.
-Over the years, the folks with the Proposed Scotchamn Peaks Wilderness group has led many hikes to Sawtooth Mountain, so look for a faint trail heading up near Blue Creek to the north. Middle Mountain stands to the west of Sawtooth. The "trail" skirts past Middle Mountain as you reach the ridge. You want to be at the low point between Middle Mt. and Sawtooth Mountain before you scramble up Sawtooth.
-As you head east, you will have to climb a very steep scree slope, then down along the ridge to the base of Sawtooth. From the ridge its about 600 verts  to the summit. It’s beautiful on the summit, and the views across the valley are spectacular. The scene from the summit is one that few have ever seen. Don’t miss this hike.
+Over the years, the folks with the Proposed Scotchamn Peaks Wilderness group has led many hikes to Sawtooth
+Mountain, so
+look for a faint trail heading up near Blue Creek to the north. Middle Mountain stands to the west of
+Sawtooth. The
+"trail" skirts past Middle Mountain as you reach the ridge. You want to be at the low point between Middle Mt.
+and
+Sawtooth Mountain before you scramble up Sawtooth.
+As you head east, you will have to climb a very steep scree slope, then down along the ridge to the base of
+Sawtooth.
+From the ridge its about 600 verts  to the summit. It’s beautiful on the summit, and the views across the
+valley are
+spectacular. The scene from the summit is one that few have ever seen. Don’t miss this hike.
 
 ## Directions
 
-From Clark Fork, head east on Hwy 200 into Montana. At about 1.5 miles from the boarder, turn left (north) up the Blue Creek Road 2625 to a junction with FR #2855 to the end of the road.
+From Clark Fork, head east on Hwy 200 into Montana. At about 1.5 miles from the boarder, turn left (north) up
+the Blue
+Creek Road 2625 to a junction with FR #2855 to the end of the road.
 
 ## Hazards
 
-Following this route can be a challenge. Look for a faint trail along the way. Your route is to achieve the ridge to the north of Middle Mountain.. Once on the ridge, hike NNE to the base of the Sawtooth Mountain.
+Following this route can be a challenge. Look for a faint trail along the way. Your route is to achieve the
+ridge to the
+north of Middle Mountain.. Once on the ridge, hike NNE to the base of the Sawtooth Mountain.
 We have seem bear tracks here, so use caution. yell "Hey Bear" often.
 
 ## Cool things close by
 
-Heron, Montana, Clark Fork River, Cabinet Gorge Dam, Sandpoint, Clark Fork, Pend Orielle Lake, the Proposed Scotchman Peaks Wilderness, Highway 56, and the Cabinet Mountain Wilderness
+Heron, Montana, Clark Fork River, Cabinet Gorge Dam, Sandpoint, Clark Fork, Pend Orielle Lake, the Proposed
+Scotchman
+Peaks Wilderness, Highway 56, and the Cabinet Mountain Wilderness
 
 ## R & P
 
@@ -114,4 +136,7 @@ Clark Fork Pantry& Squeeze In, in Clark Fork. Jalapeños, Mr. Sub, Burger  Expre
 
 ## Chris descending, with sawtooth mountain in back
 
-Where else but the summit can we see forever.      chic.  7.10.2016 It is on a summit that we find ourselves. The massive effort to get high, is a draw that few do. Yet with all the effort and beauty, we arrive in awe. chic.  7.10.2016
+Where else but the summit can we see forever.      chic.  7.10.2016 It is on a summit that we find ourselves.
+The
+massive effort to get high, is a draw that few do. Yet with all the effort and beauty, we arrive in awe. chic.
+7.10.2016

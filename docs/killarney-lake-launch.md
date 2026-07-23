@@ -26,9 +26,14 @@ stats:
 
 ## Description
 
-Killarney Lake is tucked away to the north of State Hwy 3 that starts up north at I-90 and heads down to Harrison, Idaho and beyond.
+Killarney Lake is tucked away to the north of State Hwy 3 that starts up north at I-90 and heads down to
+Harrison, Idaho
+and beyond.
 About 2 miles south on Hwy 3, look for the Killarney LakevRoad off to the right.
-One attraction is Popcorn Island. There are a few campsites, and at the summit is a view south of Killarney Lake. Because the island is isolated from the mainland, there is an outhouse on the dock on the north side of the island.
+One attraction is Popcorn Island. There are a few campsites, and at the summit is a view south of Killarney
+Lake.
+Because the island is isolated from the mainland, there is an outhouse on the dock on the north side of the
+island.
 Due south of the launch is a waterway to the CDA River. You can explore it as far as you’d like to paddle.
 
 ## Attractions
@@ -37,7 +42,9 @@ Popcorn Island, usually calm waters, and access to the CDA River.
 
 ## Directions
 
-Drive I-90 east of CDA, over the 4th of July Pass, and turn right (south) not Hwy 3 towards Harrison, Idaho. About two miles past the bridge over the CDA River, is the turn off to Killarney Lake.
+Drive I-90 east of CDA, over the 4th of July Pass, and turn right (south) not Hwy 3 towards Harrison, Idaho.
+About two
+miles past the bridge over the CDA River, is the turn off to Killarney Lake.
 
 ## Cool things close by
 
@@ -51,7 +58,8 @@ Trails End Brewery, Moon Time, Franklins, and Mexican Food Factory
 
 ## Plan your trip
 
-[Click for Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
+[Click for Current NOAA Weather
+Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
 
 ## Photo gallery
 

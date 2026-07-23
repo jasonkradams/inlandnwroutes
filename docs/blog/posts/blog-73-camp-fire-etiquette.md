@@ -22,9 +22,12 @@ But what I discovered at one of them, irked me no end.
 The above image is a Krummholz Form of a Sub-Alpine Fir.
 
 They are the unusual forms of the usual Sub-Alpine Fir you see all over our region.
-According to [<https://www.treespnw.com](https://www.treespnw.com>/), these small fir trees can be a few hundred years old when they are waist to chest high.
+According to [<https://www.treespnw.com](https://www.treespnw.com>/), these small fir trees can be a few
+hundred years
+old when they are waist to chest high.
 
-If you are a skier, and have ever snagged your jacket on a tree that does not give, you know this incredible tree.
+If you are a skier, and have ever snagged your jacket on a tree that does not give, you know this incredible
+tree.
 
 Not only did someone cut this tree for firewood, they massacred it with a hatchet.
 This behavior when you are in Nature, is unacceptable.

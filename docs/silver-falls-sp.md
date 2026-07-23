@@ -38,7 +38,9 @@ stats:
 
 ## Description
 
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
+We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
+info. if an
+emergency ocurrs, evaluate your circumstances and call only if needed.
 If you are ever near Salem, Oregon, make sure you spend a day at Silver Falls State Park.
 The "Trail of Ten Falls" is spectacular.
 You will feel the wonder of the area.
@@ -52,7 +54,8 @@ Its less than 2 miles RT
 
 The State Park has many other attractions to take advantage of.
 There are 12 other trails to visit, including a horse camp and trail.
-They also offer a Bike trail, Pet area, Campground, picnic area, several view points, an amphitheater, food is available, an the Historical South Falls Lodge.
+They also offer a Bike trail, Pet area, Campground, picnic area, several view points, an amphitheater, food is
+available, an the Historical South Falls Lodge.
 
 ---
 
@@ -140,35 +143,145 @@ South Falls Lodge
 
 Hike Silver Falls State Park
 A spectacular canyon with 10 waterfalls
-**About the Hike:** The popular trail through Silver Falls State Park's forested canyons visits 10 spectacular waterfalls, five more than 100 feet high. The path even leads through mossy caverns behind the falls' shimmering silver curtains.This loop is suitable for families with beginning hikers because side trails provide shortcuts back to the car. Dogs are not allowed on the trail.
-**Difficulty:** The full loop to see all 10 waterfalls (from South Falls to North Falls) is a moderate hike of 6.9 miles, gaining 700 feet of elevation, but the recommended shortcut (omitting Twin and North Falls) trims the loop to 5.1 miles.
+**About the Hike:** The popular trail through Silver Falls State Park's forested canyons visits 10 spectacular
 
-For a shorter, 2.8-mile loop, turn back after Lower South Falls. For an even shorter 0.7-mile tour, simply loop to the bridge at the base of South Falls.
-**Season:** Open all year. The park is usually snow-free even in mid-winter, but the falls are still quite full and the wildflowers are at their best from late March to May.
-**Getting There:** From Interstate 5 exit 253 in Salem, drive 10 miles east on North Santiam Highway 22, turn left at a sign for Silver Falls Park, and follow Highway 214 for 16 miles to the park entrance sign at South Falls.
+waterfalls, five more than 100 feet high. The path even leads through mossy caverns behind the falls'
+shimmering silver
+curtains.This loop is suitable for families with beginning hikers because side trails provide shortcuts back
+to the car.
+Dogs are not allowed on the trail.
+**Difficulty:** The full loop to see all 10 waterfalls (from South Falls to North Falls) is a moderate hike of 6.9
 
-Coming from the north, exit Interstate 5 at Woodburn and follow Highway 214 southeast through Silverton 30 miles.
+miles, gaining 700 feet of elevation, but the recommended shortcut (omitting Twin and North Falls) trims the
+loop to 5.1
+miles.
+
+For a shorter, 2.8-mile loop, turn back after Lower South Falls. For an even shorter 0.7-mile tour, simply
+loop to the
+bridge at the base of South Falls.
+**Season:** Open all year. The park is usually snow-free even in mid-winter, but the falls are still quite
+
+full and the
+
+wildflowers are at their best from late March to May.
+**Getting There:** From Interstate 5 exit 253 in Salem, drive 10 miles east on North Santiam Highway 22, turn
+
+left at a
+
+sign for Silver Falls Park, and follow Highway 214 for 16 miles to the park entrance sign at South Falls.
+
+Coming from the north, exit Interstate 5 at Woodburn and follow Highway 214 southeast through Silverton 30
+miles.
 In the South Falls parking complex, follow signs to Picnic Area C, and park at the far end of the lot.
 **Fees:** A special $3-per-car fee is charged to park anywhere in the state park.
-**Hiking Tips:** From the South Falls Picnic Area C parking lot, follow a broad path downstream a few hundred yards to historic Silver Falls Lodge, built by Civilian Conservation Corps crews in 1940. After inspecting this rustic stone-and-log building, continue a few hundred yards to an overlook of 177-foot South Falls. From here take a paved trail to the right. Then switchback down into the canyon and behind South Falls.
+**Hiking Tips:** From the South Falls Picnic Area C parking lot, follow a broad path downstream a few hundred
 
-A few hundred yards beyond South Falls is a junction at a scenic footbridge. Don't cross the bridge unless you're truly tired, because that route merely returns to the car. Instead take the unpaved path along the creek. This path eventually switchbacks down and behind Lower South Falls' broad, 93-foot cascade.
-Beyond Lower South Falls the trail forks again. If you're wearing down, you can turn right and climb the steepish ridge trail to the canyon rim and parking lot, for a total trip length of 2.8 miles.
-If you're ready for a longer hike continue straight, heading up the north fork of Silver Creek to 30-foot Lower North Falls. At a footbridge just above the falls, take a 250-yard side trail to admire tall, thin Double Falls. Then continue on the main trail past Drake and Middle North Falls to the Winter Falls trail junction.
-At this point, turn right for the recommended 5.1-mile loop. This path climbs to a parking area above Winter Falls. From there, keep right on a 1.6-mile return trail through the woods to the South Falls area, the lodge, and your car.
-**History:** Silver Falls City, platted here in 1888, was an early center for logging and some fairly unsuccessful homestead farming. Future US President Herbert Hoover surveyed some of the land here while serving as a young engineer.
+yards to
 
-By 1900, June Drake, a Silverton photographer, began pushing for park status. His early photographs of the falls have become classics. An inspector for the National Park Service rejected the area for national park status in 1926, however, because logging had scarred the area with "thousands of stumps that from a distance look like so many dark headstones."
-After that, the private owner of South Falls charged admission to let people watch as he floated derelict cars over the falls. In 1928 a paying audience watched daredevil Al Faussett canoe over 177-fout South Falls. He had to spend months afterward in a hospital, recovering from his injuries.
-In 1935 President Franklin D. Roosevelt announced that Silver Falls would be one of his largest Recreational Demonstration Projects. He bought private land and employed young men in the Civilian Conservation Corps to develop park facilities. Since then the forest has regrown so that most visitors do not even notice that the area was once logged.
-**Geology:** All waterfalls in the park spill over 15-million-year-old Columbia River basalt. At that time the Columbia River flowed through this area to the sea at what is now Newport. Repeated lava flows poured down the river channel from vents in Eastern Oregon, gradually pushing the river northward. As the lava slowly cooled, it sometimes fractured to form the honeycomb of columns visible on cliff edges. Circular indentations in the ceilings of the misty caverns behind the falls are tree wells, formed when the lava flows hardened around burning trees. The churning of Silver Creek gouged the soft soil from beneath the harder lava, leaving these caverns and casts.
+historic Silver Falls Lodge, built by Civilian Conservation Corps crews in 1940. After inspecting this rustic
+stone-and-log building, continue a few hundred yards to an overlook of 177-foot South Falls. From here take a
+paved
+trail to the right. Then switchback down into the canyon and behind South Falls.
+
+A few hundred yards beyond South Falls is a junction at a scenic footbridge. Don't cross the bridge unless
+you're truly
+tired, because that route merely returns to the car. Instead take the unpaved path along the creek. This path
+eventually
+switchbacks down and behind Lower South Falls' broad, 93-foot cascade.
+Beyond Lower South Falls the trail forks again. If you're wearing down, you can turn right and climb the
+steepish ridge
+trail to the canyon rim and parking lot, for a total trip length of 2.8 miles.
+If you're ready for a longer hike continue straight, heading up the north fork of Silver Creek to 30-foot
+Lower North
+Falls. At a footbridge just above the falls, take a 250-yard side trail to admire tall, thin Double Falls.
+Then continue
+on the main trail past Drake and Middle North Falls to the Winter Falls trail junction.
+At this point, turn right for the recommended 5.1-mile loop. This path climbs to a parking area above Winter
+Falls. From
+there, keep right on a 1.6-mile return trail through the woods to the South Falls area, the lodge, and your
+car.
+**History:** Silver Falls City, platted here in 1888, was an early center for logging and some fairly
+
+unsuccessful
+
+homestead farming. Future US President Herbert Hoover surveyed some of the land here while serving as a young
+engineer.
+
+By 1900, June Drake, a Silverton photographer, began pushing for park status. His early photographs of the
+falls have
+become classics. An inspector for the National Park Service rejected the area for national park status in
+1926, however,
+because logging had scarred the area with "thousands of stumps that from a distance look like so many dark
+headstones."
+After that, the private owner of South Falls charged admission to let people watch as he floated derelict cars
+over the
+falls. In 1928 a paying audience watched daredevil Al Faussett canoe over 177-fout South Falls. He had to
+spend months
+afterward in a hospital, recovering from his injuries.
+In 1935 President Franklin D. Roosevelt announced that Silver Falls would be one of his largest Recreational
+Demonstration Projects. He bought private land and employed young men in the Civilian Conservation Corps to
+develop park
+facilities. Since then the forest has regrown so that most visitors do not even notice that the area was once
+logged.
+**Geology:** All waterfalls in the park spill over 15-million-year-old Columbia River basalt. At that time the
+
+Columbia
+
+River flowed through this area to the sea at what is now Newport. Repeated lava flows poured down the river
+channel from
+vents in Eastern Oregon, gradually pushing the river northward. As the lava slowly cooled, it sometimes
+fractured to
+form the honeycomb of columns visible on cliff edges. Circular indentations in the ceilings of the misty
+caverns behind
+the falls are tree wells, formed when the lava flows hardened around burning trees. The churning of Silver
+Creek gouged
+the soft soil from beneath the harder lava, leaving these caverns and casts.
 
 ### By William Sullivan
 
-Silver Falls State ParkNestled in the foothills of the Cascade Mountains, just a short scenic drive from the Willamette Valley, is 9,000 acres of temperate rainforest waiting for you – to explore, play, or simply stop and recharge. Silver Falls State Park, Oregon’s largest State Park, is centrally located in Oregon just east of the State Capital, Salem, and an easy day’s drive from Portland, Eugene, or Bend.
-Silver Falls’ namesake comes from the 10 unforgettable waterfalls crashing into the canyon carved by the North and South Forks of Silver Creek – five of these waterfalls are over 100 feet and four you can walk behind! Hike through the mist on the Trail of Ten Falls, a National Recreation Trail, or explore miles of trails beyond the falls through quiet, old-growth forest on foot, bike, or horseback. The Silver Falls Historic District, a must for history-lovers, is filled with rustic-style buildings built by the young men of the 1930s Civilian Conservation Corp (CCC) camps which serve today as our South Falls Lodge, Nature Store, and Combination Picnic Shelter, all of which are listed on the National Registry of Historic Places. Many other visitors enjoy the cool waters of the day use area’s swimming area, lounge in the sun while kids play in one of the three playgrounds, or satisfy their curiosity about natural history through the many interpretative programs and special events offered throughout the year.
-Silver Falls State Park is overflowing with lodging and refreshments options to satisfy any visitor – from the full-service Silver Falls Lodge & Conference Center complete with cabins, meals, a swimming pool, and meeting facilities to the campgrounds with 100 tent/RV sites, cabins, and group camping facilities. Popular for family reunions and weddings, the two "ranches" offer another unique lodging option all under one roof – complete with bunks, full kitchens, and a center fire-pit you won’t soon forget on a chilly evening with your friends. The YMCA camp is reservable outside of the summer season and also has many CCC-era historical buildings along with a swimming pool and full commercial kitchen. Snacks and refreshments are conveniently located in the Silver Creek Grill next to the swimming area’s D Shelter and in the Café in the South Falls Lodge, while meals and seasonal buffets are found in the Silver Falls Lodge & Conference Center.
-The rangers at Silver Falls State Park have but one word of advice – it is very difficult to take in all that Silver Falls has to offer in one day so plan to stay awhile or come back and visit!
+Silver Falls State ParkNestled in the foothills of the Cascade Mountains, just a short scenic drive from the
+Willamette
+Valley, is 9,000 acres of temperate rainforest waiting for you – to explore, play, or simply stop and
+recharge. Silver
+Falls State Park, Oregon’s largest State Park, is centrally located in Oregon just east of the State Capital,
+Salem, and
+an easy day’s drive from Portland, Eugene, or Bend.
+Silver Falls’ namesake comes from the 10 unforgettable waterfalls crashing into the canyon carved by the North
+and South
+Forks of Silver Creek – five of these waterfalls are over 100 feet and four you can walk behind! Hike through
+the mist
+on the Trail of Ten Falls, a National Recreation Trail, or explore miles of trails beyond the falls through
+quiet,
+old-growth forest on foot, bike, or horseback. The Silver Falls Historic District, a must for history-lovers,
+is filled
+with rustic-style buildings built by the young men of the 1930s Civilian Conservation Corp (CCC) camps which
+serve today
+as our South Falls Lodge, Nature Store, and Combination Picnic Shelter, all of which are listed on the
+National Registry
+of Historic Places. Many other visitors enjoy the cool waters of the day use area’s swimming area, lounge in
+the sun
+while kids play in one of the three playgrounds, or satisfy their curiosity about natural history through the
+many
+interpretative programs and special events offered throughout the year.
+Silver Falls State Park is overflowing with lodging and refreshments options to satisfy any visitor – from the
+full-service Silver Falls Lodge & Conference Center complete with cabins, meals, a swimming pool, and meeting
+facilities
+to the campgrounds with 100 tent/RV sites, cabins, and group camping facilities. Popular for family reunions
+and
+weddings, the two "ranches" offer another unique lodging option all under one roof – complete with bunks, full
+kitchens,
+and a center fire-pit you won’t soon forget on a chilly evening with your friends. The YMCA camp is reservable
+outside
+of the summer season and also has many CCC-era historical buildings along with a swimming pool and full
+commercial
+kitchen. Snacks and refreshments are conveniently located in the Silver Creek Grill next to the swimming
+area’s D
+Shelter and in the Café in the South Falls Lodge, while meals and seasonal buffets are found in the Silver
+Falls Lodge &
+Conference Center.
+The rangers at Silver Falls State Park have but one word of advice – it is very difficult to take in all that
+Silver
+Falls has to offer in one day so plan to stay awhile or come back and visit!
 
 Silver Falls History: A Chronological Story  Silver Falls History: A Chronological Story
 Draft, July 2011)

@@ -44,7 +44,11 @@ notes:
 
 ## Description
 
-Stem 10–35 cm. Leaf blade 5–18 mm wide. Bracts 2 or more, 1–5 cm long. Flowers 1 to 3; sepals 15–25 mm long; petals white, drying yellowish with serrulate margins; inner surface often yellow basally, hairy with a small, dark circular gland near the base; anthers lanceolate, apiculate. Capsule nodding, ovoid 1–3 mm long.
+Stem 10–35 cm. Leaf blade 5–18 mm wide. Bracts 2 or more, 1–5 cm long. Flowers 1 to 3; sepals 15–25 mm long;
+petals
+white, drying yellowish with serrulate margins; inner surface often yellow basally, hairy with a small, dark
+circular
+gland near the base; anthers lanceolate, apiculate. Capsule nodding, ovoid 1–3 mm long.
 
 ---
 

@@ -11,15 +11,21 @@ categories:
 First let me state…if you go into Nature with only a phone, you are in danger.
 
 Be absolutely sure you carry a power stick.
-If you find yourself lost, only turn your phone on for 10 minutes on the hour. Or you can put your phone on "low power mode."
+If you find yourself lost, only turn your phone on for 10 minutes on the hour. Or you can put your phone on
+"low power
+mode."
 This way you can be assured you will have a battery when you need it.
 Batteries die.
 When that happens, you could miss info, like critical turns, faint routes, and your way.
-When I hike, I take screenshots of the DISTANCE & ELEVATION GAIN, DIRECTIONS, DESCRIPTION, and OPTIONS, from my own website, as well as Google Earth images
+When I hike, I take screenshots of the DISTANCE & ELEVATION GAIN, DIRECTIONS, DESCRIPTION, and OPTIONS, from
+my own
+website, as well as Google Earth images
 All of the above, is my safety net.
 I rely on Forest Maps, and Topo maps of the specific area visited, and a compass.
 But back to phones.
-I take overhead Google Earth images of the route, and horizontal images of the ridges. Then I "mark up" the image with my proposed route.
+I take overhead Google Earth images of the route, and horizontal images of the ridges. Then I "mark up" the
+image with
+my proposed route.
 
 <!-- more -->
 

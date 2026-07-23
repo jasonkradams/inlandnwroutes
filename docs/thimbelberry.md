@@ -78,9 +78,42 @@ notes:
 
 ## Description
 
-*Rubus parviflorus* is a dense [shrub](https://en.wikipedia.org/wiki/Shrub) up to 2.5 meters (8.2 ft) tall with canes no more than 1.5 centimeters (0.59 in) in diameter, often growing in large clumps which spread through the plant's underground [rhizome](https://en.wikipedia.org/wiki/Rhizome). Unlike many other members of the genus, it has no [prickles](https://en.wikipedia.org/wiki/Thorns,_spines,_and_prickles). The [leaves](https://en.wikipedia.org/wiki/Leaf) are [palmate](https://en.wikipedia.org/wiki/Leaf_shape), up to 20 centimeters (7.9 in) across (much larger than most other *Rubus* species), with five lobes; they are soft and fuzzy in texture.
+*Rubus parviflorus* is a dense [shrub](https://en.wikipedia.org/wiki/Shrub) up to 2.5 meters (8.2 ft) tall
 
-Thimbleberry is a favourite berry of children and adults as well as other wildlife. The common name describes its appearance, as it does resemble a thimble from the top, where the thimble has little indentations to push down upon the needle. Imagine a raspberry but smaller, with smaller but more numerous fruitlets. These berries are tart and may be eaten raw, or cooked and made into jam or jelly and other food items such as pemmican or fruit leather. It is red when ripe. Look for thimbleberries in the mountains, in places that are shady, moist, and cool. The leaf is fuzzy and five-lobed, and may grow larger than a person’s spread hand. It should have two small lanceolate stipules at the base, stipules being a common feature of the Rosaceae (Rose family) to which this, blackberries and raspberries belong. *Rubus* is actually the Latin name for blackberry plants (brambles), which are close relatives of the thimbleberry. *Parviflorus* means ‘small flowers.’ They are white (sometimes lavender), slightly crinkled, and five-petaled; like a strawberry, the centre of the flower looks rather like a flattened, yellow form of the fruit to be produced.
+with canes no
+
+more than 1.5 centimeters (0.59 in) in diameter, often growing in large clumps which spread through the
+plant's
+underground [rhizome](https://en.wikipedia.org/wiki/Rhizome). Unlike many other members of the genus, it has
+no
+[prickles](https://en.wikipedia.org/wiki/Thorns,_spines,_and_prickles). The
+[leaves](https://en.wikipedia.org/wiki/Leaf)
+are [palmate](https://en.wikipedia.org/wiki/Leaf_shape), up to 20 centimeters (7.9 in) across (much larger
+than most
+other *Rubus* species), with five lobes; they are soft and fuzzy in texture.
+
+Thimbleberry is a favourite berry of children and adults as well as other wildlife. The common name describes
+its
+appearance, as it does resemble a thimble from the top, where the thimble has little indentations to push down
+upon the
+needle. Imagine a raspberry but smaller, with smaller but more numerous fruitlets. These berries are tart and
+may be
+eaten raw, or cooked and made into jam or jelly and other food items such as pemmican or fruit leather. It is
+red when
+ripe. Look for thimbleberries in the mountains, in places that are shady, moist, and cool. The leaf is fuzzy
+and
+five-lobed, and may grow larger than a person’s spread hand. It should have two small lanceolate stipules at
+the base,
+stipules being a common feature of the Rosaceae (Rose family) to which this, blackberries and raspberries
+belong.
+*Rubus* is actually the Latin name for blackberry plants (brambles), which are close relatives of the
+
+thimbleberry.
+*Parviflorus* means ‘small flowers.’ They are white (sometimes lavender), slightly crinkled, and five-petaled;
+
+like a
+
+strawberry, the centre of the flower looks rather like a flattened, yellow form of the fruit to be produced.
 
 ---
 

@@ -27,7 +27,9 @@ stats:
 ## Description
 
 This off the P.O. River launch is at the confluence of the Priest River and the P.O. Rivers.
-Within the Priest River Recreation Area is the Priest River Park, with plenty of parking, restrooms, and a swimming area.
+Within the Priest River Recreation Area is the Priest River Park, with plenty of parking, restrooms, and a
+swimming
+area.
 
 ## Attractions
 
@@ -49,7 +51,8 @@ Burger Express
 
 ## Plan your trip
 
-[Click for Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
+[Click for Current NOAA Weather
+Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
 
 ## Photo gallery
 

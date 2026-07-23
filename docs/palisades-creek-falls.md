@@ -33,7 +33,9 @@ The falls are tucked back into an area that may make it hard to find.
 
 ## Directions
 
-From the intersection of Government Way and Sunset Blvd, drive north on Government Way to Greenwood Roa, and turn left (W). In a mile bear right at a fork with Indian Canyon Road. Then turn left on a gravel road to parking spots.
+From the intersection of Government Way and Sunset Blvd, drive north on Government Way to Greenwood Roa, and
+turn left
+(W). In a mile bear right at a fork with Indian Canyon Road. Then turn left on a gravel road to parking spots.
 While at the parking area, walk north for a great view of downtown Spokane.
 Hike Trail 101 to a junction with Trail 122 and go left. Trail 122.
 

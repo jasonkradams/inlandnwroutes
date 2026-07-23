@@ -17,9 +17,12 @@ There is just too much information, which made it harder to navigate thru.
 So, I have moved the section "DETERMINING AREAS ONFIRE, SMOKE PLUME DIRECTION,
 to RESOURCES……under WEATHER, THUNDERSTORMS, LIGHTNING & MORE.
 
-As you are planning your next outing, please refer to the above sections to get a better idea of what the weather and fire conditions are in the area you are planning to go to.
+As you are planning your next outing, please refer to the above sections to get a better idea of what the
+weather and
+fire conditions are in the area you are planning to go to.
 
-But most of all….PLEASE CALL THE RANGER DISTRICT of the area you are planning on visiting, at least 3 days before.
+But most of all….PLEASE CALL THE RANGER DISTRICT of the area you are planning on visiting, at least 3 days
+before.
 Their phone numbers are listed on each trip write up, and under MANAGING AGENCIES in RESOURCES.
 Things change and happen without our knowledge.
 Hence, we offer ways to determine fires, smoke plumes, and closures of all kinds.

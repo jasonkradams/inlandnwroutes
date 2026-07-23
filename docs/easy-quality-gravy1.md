@@ -24,8 +24,12 @@ Way back in the 60’s, my grandmother taught me how to make gravy.
 She insisted on making it precisely as follows.
 Add ice cold water from the refrigerator to the flour.
 Cap the jar, and shake vigorously.
-With a fork, slowly pour in the flour mix, and stir well with a fork, making sure it doesn’t clot. After it thickens, add chopped chicken, and what ever veggies, you desire.
+With a fork, slowly pour in the flour mix, and stir well with a fork, making sure it doesn’t clot. After it
+thickens,
+add chopped chicken, and what ever veggies, you desire.
 
 Enjoy
 
-At my grandparent house during feasts, I would save plenty of room for desserts. My dessert of choice was gravy over fresh soft bread.
+At my grandparent house during feasts, I would save plenty of room for desserts. My dessert of choice was
+gravy over
+fresh soft bread.

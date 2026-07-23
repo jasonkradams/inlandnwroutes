@@ -58,7 +58,17 @@ notes:
 
 ## Description
 
-Tansy ragwort is a biennial, perennial, or winter annual herb. Typically, it remains a rosette the first year of growth, bolting into a single flowering stalk in the second year to flower, fruit, and die. The rigid flowering stems branch near the top and usually grow 8 to 36 inches tall. Tansy ragwort has a short taproot that produces many spreading, fleshy roots. The roots and crown readily develop new shoot and root buds after injury. Root fragments can also produce new shoots. Besides reproducing vegetatively, tansy ragwort also reproduces by seed. The seeds, which can remain viable in the soil for about six years, disperse via wind, water, machinery, animals, shoes, and clothing.
+Tansy ragwort is a biennial, perennial, or winter annual herb. Typically, it remains a rosette the first year
+of growth,
+bolting into a single flowering stalk in the second year to flower, fruit, and die. The rigid flowering stems
+branch
+near the top and usually grow 8 to 36 inches tall. Tansy ragwort has a short taproot that produces many
+spreading,
+fleshy roots. The roots and crown readily develop new shoot and root buds after injury. Root fragments can
+also produce
+new shoots. Besides reproducing vegetatively, tansy ragwort also reproduces by seed. The seeds, which can
+remain viable
+in the soil for about six years, disperse via wind, water, machinery, animals, shoes, and clothing.
 
 ---
 

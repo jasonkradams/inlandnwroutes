@@ -22,7 +22,9 @@ This url is the Eastern Washington Orienteering Club.
 [<https://www.ewoc.org](https://www.ewoc.org>/)
 Also the Spokane Mountaineers has formed classes on orienteering.
 I know that learning a new sport is a lot of work.
-But when your life, or the life of family, friends, or fellow hikers are on the line, you must know what to do, and how to get out.
+But when your life, or the life of family, friends, or fellow hikers are on the line, you must know what to
+do, and how
+to get out.
 Other options
 AirFlare app.  [<https://airflare.com](https://airflare.com>/)
 The AirFlare app, loads to your phone, and weight nothing, and could save your life.
@@ -33,7 +35,9 @@ Below are online stores for buying maps.
 [<https://caltopo.com](https://caltopo.com>/)
 Google earth
 I use Google Earth to explore my desired route and do screenshots for my phone.
-I’m sure there are many other resources to utilize, so do your own research, and arm yourself with what you need, especially knowledge.
+I’m sure there are many other resources to utilize, so do your own research, and arm yourself with what you
+need,
+especially knowledge.
 Knowledge is the most important item you can take into the mountains.
 Please be safe, and educate yourself with all the knowledge you can find.
 A resource I’ve used is…

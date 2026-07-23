@@ -49,9 +49,14 @@ stats:
 
 ## Description
 
-Several erect, branching stems rise 1 1/2-3 ft. from a woody crown. From the axils of pinnately compound leaves rise long, straight, dense clusters of pinkish-lavender, pea-like flowers.
-Like other members of the pea family, this plant needs the presence of microorganisms that inhabit nodules on the plant's root system and produce nitrogen compounds necessary for the plant's survival.
-Special Value to Native Bees (Recognized by pollination ecologists as attracting large numbers of native bees.)
+Several erect, branching stems rise 1 1/2-3 ft. from a woody crown. From the axils of pinnately compound
+leaves rise
+long, straight, dense clusters of pinkish-lavender, pea-like flowers.
+Like other members of the pea family, this plant needs the presence of microorganisms that inhabit nodules on
+the
+plant's root system and produce nitrogen compounds necessary for the plant's survival.
+Special Value to Native Bees (Recognized by pollination ecologists as attracting large numbers of native
+bees.)
 Black bears consume the aboveground portions of alpine sweetvetch, and roots are consumed by grizzly bears.
 
 ---

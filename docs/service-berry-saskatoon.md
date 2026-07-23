@@ -50,8 +50,16 @@ stats:
 
 ## Description
 
-This species can be rooted from early spring hardwood cuttings or softwood cutting taken in the summer. Layering or separation of suckers from parent plants is another means of increase. Sow untreated seeds in fall or cold-stratified seed in spring.
-This is typically an erect shrub, 3-18 ft. tall. In rich soils, a single trunk may develop and attain 30 ft. in height. Compact clusters of fragrant, white flowers emerge just before small, light-green, oval leaves appear. The small, sweet, blue berries ripen by early summer. Fall color is orange to red and takes place for long periods.
+This species can be rooted from early spring hardwood cuttings or softwood cutting taken in the summer.
+Layering or
+separation of suckers from parent plants is another means of increase. Sow untreated seeds in fall or
+cold-stratified
+seed in spring.
+This is typically an erect shrub, 3-18 ft. tall. In rich soils, a single trunk may develop and attain 30 ft.
+in height.
+Compact clusters of fragrant, white flowers emerge just before small, light-green, oval leaves appear. The
+small, sweet,
+blue berries ripen by early summer. Fall color is orange to red and takes place for long periods.
 
 ---
 

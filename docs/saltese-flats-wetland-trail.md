@@ -37,11 +37,17 @@ stats:
 
 ## Description
 
-Spokane county partially opened the trail in May 2020. It is a raised bed of crush rock so it is high and dry. It meanders through the wetlands with remarkable views of Mica Peak and the Saltese Uplands. Many species of migratory birds stop here to refuel. The trail is dead flat so it does not get any easier than that.
+Spokane county partially opened the trail in May 2020. It is a raised bed of crush rock so it is high and dry.
+It
+meanders through the wetlands with remarkable views of Mica Peak and the Saltese Uplands. Many species of
+migratory
+birds stop here to refuel. The trail is dead flat so it does not get any easier than that.
 
 ## Directions
 
-Access to the trail is from Henry Road at the northeast corner of the site. The best parking is about a half mile north at the Saltese Upland Conservation Area Trailhead.
+Access to the trail is from Henry Road at the northeast corner of the site. The best parking is about a half
+mile north
+at the Saltese Upland Conservation Area Trailhead.
 
 ## Cool things close by
 

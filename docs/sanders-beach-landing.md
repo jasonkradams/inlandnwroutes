@@ -20,8 +20,11 @@ stats:
 
 ## Description
 
-Sanders Beach is a private beach with two public access points at 11th  Street and 15th Street. If the west put in is crowded, drive a few blocks east to the 15th Street access.
-From Sanders Beach, you can paddle east towards the CDA Resort's floating green and on east end of the north shore.
+Sanders Beach is a private beach with two public access points at 11th  Street and 15th Street. If the west
+put in is
+crowded, drive a few blocks east to the 15th Street access.
+From Sanders Beach, you can paddle east towards the CDA Resort's floating green and on east end of the north
+shore.
 Or you can paddle west along Tubbs Hill and around to the south shore and CDA.
 
 ## Attractions
@@ -44,7 +47,8 @@ Trails End Brewery, Franklins, Mexican Food Factory, and Moon Time.
 
 ## Plan your trip
 
-[Click for Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
+[Click for Current NOAA Weather
+Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
 
 ## Please everyone...heed this health alert
 

@@ -37,14 +37,24 @@ notes:
 
 ## Description
 
-The William Brambauer Mountain sits on the northern edge of the wilderness, and towers over 5300’ above the Kootenai River.
+The William Brambauer Mountain sits on the northern edge of the wilderness, and towers over 5300’ above the
+Kootenai
+River.
 Although the trailhead is on private property, the USFS has an easement so the trail can cross private land.
-At about a mile up the trail, there are rock ledges that offer views all around. The trail switchbacks dozens of times on its relentless climb of 3000’ to a ridge that levels out for almost two miles, until the summit comes into view to the south. From here, the trail edges along side a forest burn that occurred in 1994.
-Once on top, the views are spectacular all around. One of the advantages to summiting this mountain is the view south down the 35 miles of the Cabinet Mountain Wilderness.
+At about a mile up the trail, there are rock ledges that offer views all around. The trail switchbacks dozens
+of times
+on its relentless climb of 3000’ to a ridge that levels out for almost two miles, until the summit comes into
+view to
+the south. From here, the trail edges along side a forest burn that occurred in 1994.
+Once on top, the views are spectacular all around. One of the advantages to summiting this mountain is the
+view south
+down the 35 miles of the Cabinet Mountain Wilderness.
 
 ## Directions
 
-About 4 miles southeast of Troy near milepost 35 is a turnoff northeast on a gravel road marked "Old Highway 2". Drive about 1.5 miles to the trailhead.
+About 4 miles southeast of Troy near milepost 35 is a turnoff northeast on a gravel road marked "Old Highway
+2". Drive
+about 1.5 miles to the trailhead.
 
 ## Hazards
 
@@ -59,7 +69,9 @@ Cedar Lakes, Kootenai Falls, Ross Creek Cedars, and Scenery Mountain.
 
 ## R & P
 
-Henry’s, Rosauers, & Pizza Hut in Libby. Squeeze Inn, Clark Fork Pantry in Clark Fork. Eicharts, Mr. Sub & Jalapeño in Sandpoint
+Henry’s, Rosauers, & Pizza Hut in Libby. Squeeze Inn, Clark Fork Pantry in Clark Fork. Eicharts, Mr. Sub &
+Jalapeño in
+Sandpoint
 
 ## Plan your trip
 

@@ -37,16 +37,23 @@ notes:
 
 ## Description
 
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
+We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
+info. if an
+emergency ocurrs, evaluate your circumstances and call only if needed.
 Trail #291 starts near Beaver Creek CG, on the northwest corner of of the Lower Lake.
 
 The trail is mostly flat with about  200+ gain that you do again on the return hike.
 
 We were there on June 2nd, 2022 and found the Lake to be mirror smooth with only two fishing boats.
-The first place you come to along the south end, is the Plowboy CG. It has a nice view of the northern section of the Selkirks, and a few campsites.
-The forest around the south half of Upper Priest Lake, Navigation Trail is suffering from excessive fuel loading.
+The first place you come to along the south end, is the Plowboy CG. It has a nice view of the northern section
+of the
+Selkirks, and a few campsites.
+The forest around the south half of Upper Priest Lake, Navigation Trail is suffering from excessive fuel
+loading.
 Further along the trail, the mushrooms and fungi were on  displayed. See photos below.
-Part of the trail is close to the shore line for views. But as you get to the Navigation CG.,  the views explode all around you.
+Part of the trail is close to the shore line for views. But as you get to the Navigation CG.,  the views
+explode all
+around you.
 The picnic table at Navigation CG was damaged, so take along sit pads.
 The remainder of the trail north is thru a thick forest, with two creeks to cross.
 Trail #291 terminates at F.R. 1013, about 3.5  miles NW of Upper Priest Lake
@@ -55,14 +62,22 @@ Trail #291 terminates at F.R. 1013, about 3.5  miles NW of Upper Priest Lake
 
 ## Directions
 
-At Nordman turn east onto Reeder Bay Road. Stay on the main road approx. 14 miles to [Beaver Creek Campground](https://www.fs.usda.gov/recarea/ipnf/recreation/recarea/?recid=6770). Turn right toward the campground then left uphill to the trailhead. Pull-through park available for trailers.
-North on Hwy 57, Hwy 57 turns into graveled Forest Service Rd #302 approx. 4 miles past Nordman. Travel north on Rd. #302 approx. 14 miles until it turns into Rd. #1013 at the Granite Pass junction. The road to the trailhead is on the right side, located 5.5 miles up Rd. #1013. (1 mile past the Hughes Meadows turnoff.) Stock trailer parking available.
+At Nordman turn east onto Reeder Bay Road. Stay on the main road approx. 14 miles to [Beaver Creek
+Campground](https://www.fs.usda.gov/recarea/ipnf/recreation/recarea/?recid=6770). Turn right toward the
+campground then
+left uphill to the trailhead. Pull-through park available for trailers.
+North on Hwy 57, Hwy 57 turns into graveled Forest Service Rd #302 approx. 4 miles past Nordman. Travel north
+on Rd.
+#302 approx. 14 miles until it turns into Rd. #1013 at the Granite Pass junction. The road to the trailhead is on the
+right side, located 5.5 miles up Rd. #1013. (1 mile past the Hughes Meadows turnoff.) Stock trailer parking
+available.
 
 ---
 
 ## Option #1
 
-From the Navigation Campground, you can extend your hike a little over 6 miles or a totaling 12.1 miles , one way.
+From the Navigation Campground, you can extend your hike a little over 6 miles or a totaling 12.1 miles , one
+way.
 Trail #291 ends at F.R. 1013.
 
 This route would be great for a kids backpack. Lots of places to swim,  play, and fish.
@@ -71,7 +86,9 @@ This route would be great for a kids backpack. Lots of places to swim,  play, an
 
 ## Cool things close by
 
-Trapper Creek CG, Hughes Meadows & ridge, American Falls, Snowy Top and Little Snowy Top peaks, Salmo-Priest Wilderness, Gypsy Peak, The Mollies, Granite Falls & CG, Roosevelt Grove of Ancient Cedars, BLACKTAIL MOUNTAIN.
+Trapper Creek CG, Hughes Meadows & ridge, American Falls, Snowy Top and Little Snowy Top peaks, Salmo-Priest
+Wilderness,
+Gypsy Peak, The Mollies, Granite Falls & CG, Roosevelt Grove of Ancient Cedars, BLACKTAIL MOUNTAIN.
 
 ## Hazards
 

@@ -43,9 +43,25 @@ notes:
 
 ## Description
 
-**Kalmia microphylla** grows mainly in the Sierra Nevada and states to the north, and the northern Rocky Mountains - in the subalpine and alpine zone for southerly locations, towards sea level for the northwestern region. Leaves are either broadly ovate, up to 2.5 times as long as wide (the widespread **var microphylla**), or lanceolate, up to 4 times as long as wide (**var occidentalis**, found in Alaska, Oregon and Washington). Leaf margins may be rolled under, while surfaces are hairless to sparsely puberulent.
+**Kalmia microphylla** grows mainly in the Sierra Nevada and states to the north, and the northern Rocky
 
-Flowers are attached by curving, reddish pedicels, up to one inch long; they may be solitary, from the upper leaf nodes, or terminal, part of clusters of up to 12. Flowers are formed of five green or pinkish sepals and five longer (up to 0.7 inches) purple-pink petals, fused for about half their length. Occasionally petals are all-white. The ten stamens have white filaments and purple anthers, and are a little shorter than the petals.
+Mountains - in
+
+the subalpine and alpine zone for southerly locations, towards sea level for the northwestern region. Leaves
+are either
+broadly ovate, up to 2.5 times as long as wide (the widespread **var microphylla**), or lanceolate, up to 4
+times as
+long as wide (**var occidentalis**, found in Alaska, Oregon and Washington). Leaf margins may be rolled under,
+while
+surfaces are hairless to sparsely puberulent.
+
+Flowers are attached by curving, reddish pedicels, up to one inch long; they may be solitary, from the upper
+leaf nodes,
+or terminal, part of clusters of up to 12. Flowers are formed of five green or pinkish sepals and five longer
+(up to 0.7
+inches) purple-pink petals, fused for about half their length. Occasionally petals are all-white. The ten
+stamens have
+white filaments and purple anthers, and are a little shorter than the petals.
 
 ---
 

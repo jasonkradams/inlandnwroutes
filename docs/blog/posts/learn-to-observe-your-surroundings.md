@@ -8,20 +8,28 @@ categories:
   - Trail Safety & Gear
 ---
 
-As you walk into an area, lake or onto a ridge top, notice the terrain you are waking in, along the way. As well as mid and far off terrain features., like mountains, mesas, power lines, etc.
+As you walk into an area, lake or onto a ridge top, notice the terrain you are waking in, along the way. As
+
+well as mid
+
+and far off terrain features., like mountains, mesas, power lines, etc.
 
 These observations can help you if you get misplaced.
-And if you get to a summit, you can ask your hiking partners if they see any features they pointed out on the hike in.
+And if you get to a summit, you can ask your hiking partners if they see any features they pointed out on the
+hike in.
 
 <!-- more -->
 
 I always have fun identifying far off peaks.
 Once on a summit I pointed out all the peaks I’d been on in the past.
-One of the hikers pulled out her phone and brought up "Peak Finder" the app. Peak Finder is a free or very inexpensive app.
+One of the hikers pulled out her phone and brought up "Peak Finder" the app. Peak Finder is a free or very
+inexpensive
+app.
 
 She was amazed that I knew and had been on so many of the peaks.
 By doing this with your partner, you both can see "the lay of the land." It’s a real important thing to know.
-The next time you are on one of those far off peaks, you can get a greater perspective of the vast land before you.
+The next time you are on one of those far off peaks, you can get a greater perspective of the vast land before
+you.
 And ID the mountains you have been on.
 
 A few of the things you want to be able to identify are….
@@ -45,9 +53,15 @@ How do I stop bleeding?
 How do I treat a sprained ankle?
 How do I use a compass and a map?
 
-How fast is the wind blowing? And from what direction is it coming from.  (All weather reports only show from which directions the winds blows from. That because we know where it came from, but we can not be sure of which direction the wind will blow.)
+How fast is the wind blowing? And from what direction is it coming from.  (All weather reports only show from
+which
+directions the winds blows from. That because we know where it came from, but we can not be sure of which
+direction the
+wind will blow.)
 
-If you know your hiking partner is weak in an area, create a way to teach them what they need to know. It’s not hard, and can save a life.
+If you know your hiking partner is weak in an area, create a way to teach them what they need to know. It’s
+not hard,
+and can save a life.
 
 In mountaineering, we are taught from the first day….YOU are responsible for YOURSELF.
 Of course, you should always look out for your partners, because stuff happens in the mountains.

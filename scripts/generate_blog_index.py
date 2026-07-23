@@ -2,6 +2,7 @@ import os
 import glob
 import re
 import yaml
+import textwrap
 
 POSTS_DIR = 'docs/blog/posts'
 posts = []
@@ -38,24 +39,40 @@ for p in posts:
         cats_map[c] = []
     cats_map[c].append(p)
 
-md_content = """# Inland NW Routes Blog
+intro = "Welcome to the Inland NW Routes blog! Explore trail updates, safety guides, forest closure alerts, and wilderness reports from around the Inland Northwest."
+wrapped_intro = "\n".join(textwrap.wrap(intro, width=90))
 
-Welcome to the Inland NW Routes blog! Explore trail updates, safety guides, forest closure alerts, and wilderness reports from around the Inland Northwest.
+md_content = f"""# Inland NW Routes Blog
+
+{wrapped_intro}
 
 ---
 
 ## Recent Posts
 
-| Date | Title | Category |
-| :--- | :--- | :--- |
+| Date | Title |
+| :--- | :--- |
 """
 
 for p in posts[:15]:
     date_str = p['date']
     title_str = p['title']
     link_str = p['link']
-    cat_str = p['category']
-    md_content += f"| **{date_str}** | [{title_str}]({link_str}) | `{cat_str}` |\n"
+    
+    overhead = len(f"| **{date_str}** | []({link_str}) |")
+    max_title = 115 - overhead
+    if max_title < len(title_str):
+        if max_title > 6:
+            title_str = title_str[:max_title - 3] + '...'
+        else:
+            m_blog = re.match(r'^(Blog\s*#?\s*\d+)', title_str)
+            if m_blog:
+                title_str = m_blog.group(1)
+            else:
+                title_str = title_str[:max(3, max_title)]
+                
+    line_stub = f"| **{date_str}** | [{title_str}]({link_str}) |\n"
+    md_content += line_stub
 
 md_content += "\n---\n\n## Browse All Posts by Category\n\n"
 
@@ -65,7 +82,21 @@ for cat, cat_posts in sorted(cats_map.items()):
         date_str = p['date']
         title_str = p['title']
         link_str = p['link']
-        md_content += f"- **{date_str}**: [{title_str}]({link_str})\n"
+        
+        overhead = len(f"- **{date_str}**: []({link_str})")
+        max_title = 115 - overhead
+        if max_title < len(title_str):
+            if max_title > 6:
+                title_str = title_str[:max_title - 3] + '...'
+            else:
+                m_blog = re.match(r'^(Blog\s*#?\s*\d+)', title_str)
+                if m_blog:
+                    title_str = m_blog.group(1)
+                else:
+                    title_str = title_str[:max(3, max_title)]
+                    
+        line_stub = f"- **{date_str}**: [{title_str}]({link_str})\n"
+        md_content += line_stub
     md_content += "\n"
 
 with open("docs/blog/index.md", "w", encoding="utf-8") as fp:

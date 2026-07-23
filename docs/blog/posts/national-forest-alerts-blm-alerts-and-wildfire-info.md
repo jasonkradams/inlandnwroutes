@@ -15,12 +15,16 @@ This BLOG is to advise you on a matter that stopped one of my trips last year.
 <!-- more -->
 
 On our HOME PAGE , I have listed all the nearby National Forest Alerts webpages.
-PLEASE call the ranger district (phone numbers are listed in each hike wrote up), or refer to the ALERTS section at the bottom of our HOME PAGE, Before you head to the trailhead.
+PLEASE call the ranger district (phone numbers are listed in each hike wrote up), or refer to the ALERTS
+section at the
+bottom of our HOME PAGE, Before you head to the trailhead.
 Last year I was leading a trip to the Ward & Eagle Peaks area south of St Regis, Montana.
 I wanted to show my hikers a special place along the St. Joe River area,
 but was stopped in Avery due to a fire along the road.
 This cost us our planned trip.
-But as you may have noticed, on each write up, is a section that shows you hikes in the general area of our original trip. This can save a long drive, and gives you all an alternative place to play.
+But as you may have noticed, on each write up, is a section that shows you hikes in the general area of our
+original
+trip. This can save a long drive, and gives you all an alternative place to play.
 Always carry a u.s. forest service map and a topo map
 Of the specific area you wish to visit
 

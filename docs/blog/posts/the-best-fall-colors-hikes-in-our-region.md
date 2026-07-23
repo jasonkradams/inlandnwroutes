@@ -11,7 +11,9 @@ categories:
 fall colors hikes
 
 As summer is coming to an end, spring is turning the mountains into a beautiful color wheel.
-During the last two weeks of September, and the first two weeks of Roctober, we can enjoy incredible fall colors all around our region.
+During the last two weeks of September, and the first two weeks of Roctober, we can enjoy incredible fall
+colors all
+around our region.
 Below are a few of the best.
 
 <!-- more -->
@@ -39,7 +41,9 @@ Roman Nose Lakes & Peak
 <https://www.inlandnwroutes.com/roman-nose-lakes--peak-idaho.html>
 
 Great hike for the kids. Three lakes and an easy very scenic trail.
-If you have relatives that are disabled, there’s a board walk around the south shore line. They can fish, with an Idaho Fishing License.
+If you have relatives that are disabled, there’s a board walk around the south shore line. They can fish, with
+an Idaho
+Fishing License.
 There is a Nature Trail above the first lake.
 If you are adventurous, go for Roman Nose Peak.
 The views of the Seven Sisters across the Pack River are well worth the effort.

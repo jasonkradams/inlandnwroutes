@@ -22,7 +22,9 @@ I was a tad bit nervous, but my anxieties were brought under control.
 The attending nurse was very efficient and calmed me down.
 Then Doctor Orlando Nunez came in ready to start the procedure.
 Dr. Nunez was calm, and explained what was about to happen.
-Unlike any other doctors office I’ve ever visited, Dr. Nunez utilizes a GE OEC ELITE MINIVIEW X-RAY machine to see what he needs to know about the area being worked on.
+Unlike any other doctors office I’ve ever visited, Dr. Nunez utilizes a GE OEC ELITE MINIVIEW X-RAY machine to
+see what
+he needs to know about the area being worked on.
 
 <!-- more -->
 
@@ -30,14 +32,19 @@ Unlike any other doctors office I’ve ever visited, Dr. Nunez utilizes a GE OEC
 
 This x-ray machine has an articulated arm (L) that my foot was in.
 What’s so cool about this x-ray machine, was it was a live feed.
-As he moved my foot around to examine my Talus, I got to watch the the screen and see what he was seeing, live.
+As he moved my foot around to examine my Talus, I got to watch the the screen and see what he was seeing,
+live.
 Otherwise, it isn’t just a normal x-ray picture. It was a moving x-ray.
 He captured stills to be able refer to as he worked on my foot.
 
-The previous doctor said my surgery could take weeks before I could touch my foot to the ground, and months to fully recover.
+The previous doctor said my surgery could take weeks before I could touch my foot to the ground, and months to
+fully
+recover.
 
 As my surgery wrapped up, I ask for my crutches.
-Dr. Nunez stopped me and said with the new stabilizing boot, I could walk out of the office without the need for crutches.
+Dr. Nunez stopped me and said with the new stabilizing boot, I could walk out of the office without the need
+for
+crutches.
 
 I was amazed.
 

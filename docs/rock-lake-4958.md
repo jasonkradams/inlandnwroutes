@@ -47,17 +47,25 @@ Rock Peak 7583’ towers to the west, St. Paul Peak 7714’ is to the N.W., whil
 
 ## Option #1
 
-At the far end of Rock Lake is the St. Paul Pass at about 1.7 miles. Above the Pass are the three Libby Lakes to the right (N). One can continue N.W. from the pass to St. Paul Lake or St. Paul Peak.
+At the far end of Rock Lake is the St. Paul Pass at about 1.7 miles. Above the Pass are the three Libby Lakes
+to the
+right (N). One can continue N.W. from the pass to St. Paul Lake or St. Paul Peak.
 The scramble of Rock Peak, is best from Cliff Lake.
 
 ## Option #2
 
-If you are a hardy hiker, Ojibway Peak towers high above to the east. Ojibway Peak’s S.W. Face is a destination for climbing.
+If you are a hardy hiker, Ojibway Peak towers high above to the east. Ojibway Peak’s S.W. Face is a
+destination for
+climbing.
 It is a steep scramble for any but the best climbers/scramblers.
 
 ## Directions
 
-From Hwy 200 at two miles or milepost 17 past the Noxon turnoff is the Rock Creek Road #150. The turnoff is past a steel bridge and has a specialty lumber cutting operation on Road 150. In about 400 feet the road forks. Take the right fork and drive about 6 miles to a junction with Road #150A. Take 150A about 1.5 miles to the trail head.
+From Hwy 200 at two miles or milepost 17 past the Noxon turnoff is the Rock Creek Road #150. The turnoff is
+past a steel
+bridge and has a specialty lumber cutting operation on Road 150. In about 400 feet the road forks. Take the
+right fork
+and drive about 6 miles to a junction with Road #150A. Take 150A about 1.5 miles to the trail head.
 
 ---
 
@@ -72,7 +80,9 @@ Rock Peak, Ojibway Peak, St. Paul Pass, and Libby Lakes.
 
 ## R & P
 
-Henry’s & Pizza Hut, The Shed in Libby. Clark Fork Pantry & Squeeze Inn in Clark Fork. Eicharts, Mr Sub, Burger Express,  & Jalapeños in Sandpoint
+Henry’s & Pizza Hut, The Shed in Libby. Clark Fork Pantry & Squeeze Inn in Clark Fork. Eicharts, Mr Sub,
+Burger Express,
+& Jalapeños in Sandpoint
 
 ---
 
@@ -224,4 +234,6 @@ Henry’s & Pizza Hut, The Shed in Libby. Clark Fork Pantry & Squeeze Inn in Cla
 
 ## Last view of ojibway peak from the trail out
 
-What do you call a place so beautiful, so pristine, that you are in awe the whole time you visit it? What do you call a place without  houses, roads, people and traffic? I call it, a wilderness.                            6.16.2916
+What do you call a place so beautiful, so pristine, that you are in awe the whole time you visit it? What do
+you call a
+place without  houses, roads, people and traffic? I call it, a wilderness. 6.16.2916

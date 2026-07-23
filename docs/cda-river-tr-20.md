@@ -43,13 +43,19 @@ notes:
 
 ## Description
 
-Altho its only has an elevation gain of 527’ from the trailhead at F.R. 208 near Spion Kop Rock to the north trailhead at Martin Creek, the below graph shows that all those lines on the graph make it about 2000’ of gain. This trail is one of the most spectacular in the CDA River corridor.
+Altho its only has an elevation gain of 527’ from the trailhead at F.R. 208 near Spion Kop Rock to the north
+trailhead
+at Martin Creek, the below graph shows that all those lines on the graph make it about 2000’ of gain. This
+trail is one
+of the most spectacular in the CDA River corridor.
 It does have a lot of use, but most people don’t do the 15 mile long trail.
 Its an unusual trail that offers great catch and release fishing.
 
 ## Directions
 
-From Coeur d'Alene, Idaho drive east on I-90 taking the Kingston Exit #43. After exiting, travel north on Forest Highway 9 (FH9) 23 miles to Forest Road #208 (FR208). Continue on FR208 for 25 miles to the lower trailhead.
+From Coeur d'Alene, Idaho drive east on I-90 taking the Kingston Exit #43. After exiting, travel north on
+Forest Highway
+9 (FH9) 23 miles to Forest Road #208 (FR208). Continue on FR208 for 25 miles to the lower trailhead.
 
 From Wallace , drive north for 16.3 miles over Dobson Pass on FR 456 to the junction with FH#9.
 
@@ -64,12 +70,16 @@ A lot of ups and downs on a National Recreation Trail.
 
 ## Cool things close by
 
-Spion Kop Rock & Mountain, Cathedral Peak, Magee Historical Site, Independence Creek National Recreation Trail, and Little Guard Lookout rental.
+Spion Kop Rock & Mountain, Cathedral Peak, Magee Historical Site, Independence Creek National Recreation
+Trail, and
+Little Guard Lookout rental.
 Shadow, Fern and Centennial Falls, Little Guard Lookout Rental
 
 ## R & P
 
-Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ & Saloon, Wallace Brewing Co., Radio Brewing, the Snake Pit, and Moon Time.
+Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ &
+Saloon,
+Wallace Brewing Co., Radio Brewing, the Snake Pit, and Moon Time.
 
 ## Photo gallery
 

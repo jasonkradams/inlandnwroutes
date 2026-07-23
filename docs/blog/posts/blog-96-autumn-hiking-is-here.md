@@ -10,7 +10,9 @@ categories:
 
 Below I will list the hikes in our region that will cause oohs and ahs at every turn.
 
-When you plan for Autumn hikes, please be sure to have extra clothes, food and water, and traction devises for your boots.
+When you plan for Autumn hikes, please be sure to have extra clothes, food and water, and traction devises for
+your
+boots.
 
 <!-- more -->
 
@@ -28,9 +30,13 @@ All along the trail, the fall color will amaze you
 Marie Creek Trail # 241
 
 <https://www.inlandnwroutes.com/marie-creek.html>
-This hike is located north of Wolf Lodge Bay, and takes you along Marie Creek after you walk thru the forest for about a mile.
+This hike is located north of Wolf Lodge Bay, and takes you along Marie Creek after you walk thru the forest
+for about a
+mile.
 It is an easy hike to the washed out creek at about 2 miles.
-On your return hike, stop by the cliffs off to the right (north) of the open field, and look at the campsite built out of rocks from the near by cliffs.
+On your return hike, stop by the cliffs off to the right (north) of the open field, and look at the campsite
+built out
+of rocks from the near by cliffs.
 
 Spokane Conservation Future Properties
 
@@ -57,7 +63,9 @@ Way back in the NW corner is a small section of the famous Captain John Mullan R
 The John Finch Arboretum
 
 <https://my.spokanecity.org/urbanforestry/programs/finch-arboretum/>
-As you drive west on I-90, headed towards Seattle, on your right, next to the freeway, as you are on the longup hill road is the wonderful John A, Finch Arboretum, to enjoy.
+As you drive west on I-90, headed towards Seattle, on your right, next to the freeway, as you are on the
+longup hill
+road is the wonderful John A, Finch Arboretum, to enjoy.
 This arboretum has every tree, shrub and bush that is native to our region.
 If you call the arboretum soon, you can find when they start raking up the fallen leaves.
 If you go just before they rake, the entire area is covered in 6+ inches of fallen leaves.
@@ -82,7 +90,9 @@ Don't miss the Quarts Mountain fire lookout, that has excellent views of Spokane
 
 RSP is a very large area along the Spokane River.
 The Bowl and Pitcher hike crosses a bridge that spans the river.
-Once across, you will be hiking in a blackish basalt wonderland. When the colors are at their best, the contrast is amazing.
+Once across, you will be hiking in a blackish basalt wonderland. When the colors are at their best, the
+contrast is
+amazing.
 
 Strenuous hikes
 
@@ -115,12 +125,14 @@ The face of Stevens Peak in the fall is more than spectacular.
 Cool drives
 
 Hwy 20
-Drive north on Hwy 20 out of Newport, Wa. towards Boundary Dam. The entire drive, lights up in brilliant colors.
+Drive north on Hwy 20 out of Newport, Wa. towards Boundary Dam. The entire drive, lights up in brilliant
+colors.
 Along the way, by Ione, DO NOT MISS the waterfalls at the Sweat Water Rest area.
 
 Hwy 56
 Drive to Sandpoint, and take Hwy 200 into Montana. At about 17 miles turn north up Hwy 56.
-On the east side is the Cabinet Mountain Wilderness, while on the west side is the Proposed Scotchman Peaks Wilderness.
+On the east side is the Cabinet Mountain Wilderness, while on the west side is the Proposed Scotchman Peaks
+Wilderness.
 When you get to Hwy 20 in Montana, take a right (east) to Kootenai Falls.
 
 Autumn hiking safety

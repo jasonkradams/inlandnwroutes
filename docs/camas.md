@@ -59,11 +59,31 @@ notes:
 
 ## Description
 
-A bulbous plant with basal clusters of narrow, grass-like, bright green leaves. The flowering racemes are 1-3 ft. tall with dozens of showy, star-like, sky- to deep-blue flowers. Light to deep blue-violet, star-shaped flowers in a raceme; several narrow, grass-like leaves grow mostly near the base. The three sepals and three petals all share the blue color.
+A bulbous plant with basal clusters of narrow, grass-like, bright green leaves. The flowering racemes are 1-3
+ft. tall
+with dozens of showy, star-like, sky- to deep-blue flowers. Light to deep blue-violet, star-shaped flowers in
 
-This species is sometimes so frequent as to color entire meadows blue-violet. Indians pit-roasted the bland bulbs with other leaves, and also boiled them, which yielded a good syrup. Another similar species is Leichtlin's Camas (*C. leichtlinii*), which grows only west of the Cascade Mountains, from southern British Columbia to the southern portion of California's Sierra Nevada, and has radially symmetrical flowers.
+a raceme;
 
-This plant blooms in early to mid-spring and grows in moist meadows and on grassy slopes. The ones photographed here were in a marshy area along a stream at an elevation of around 5300 feet. The bulbs of the plant are edible and were used as a significant food source for native Americans. However, the bulbs look similar to those of Death Camas - the name of that plant is indicative of its poisonous nature - so beware!
+several narrow, grass-like leaves grow mostly near the base. The three sepals and three petals all share the
+blue color.
+
+This species is sometimes so frequent as to color entire meadows blue-violet. Indians pit-roasted the bland
+bulbs with
+other leaves, and also boiled them, which yielded a good syrup. Another similar species is Leichtlin's Camas
+(*C.
+leichtlinii*), which grows only west of the Cascade Mountains, from southern British Columbia to the southern
+portion of
+California's Sierra Nevada, and has radially symmetrical flowers.
+
+This plant blooms in early to mid-spring and grows in moist meadows and on grassy slopes. The ones
+photographed here
+were in a marshy area along a stream at an elevation of around 5300 feet. The bulbs of the plant are edible
+and were
+used as a significant food source for native Americans. However, the bulbs look similar to those of Death
+Camas - the
+
+name of that plant is indicative of its poisonous nature - so beware!
 
 Common camas is a stout, robust plant 12-28 inches (30-70 cm) tall with a dense inflorescence. It is a
 perennial herb that grows from an edible bulb. The leaves are long
@@ -75,7 +95,13 @@ like cluster borne on a leafless stem that is held above the leaves.
 
 Common camas is distinguished from great camas (Camassia
 leichtlinii ssp.suksdorfii) by the following: the flowers are slightly
-irregular, with the lowest tepal curving outward away from the stem; the anthers are bright yellow; the plant is relatively short and stout, with shorter flower stalks and smaller bulbs; and there is no waxy powder on the leaves. Common camas blooms from April through June. The fruits are barrel-shaped to three-angled capsules, splitting into three parts to release many black, angled seeds
+irregular, with the lowest tepal curving outward away from the stem; the anthers are bright yellow; the plant
+is
+relatively short and stout, with shorter flower stalks and smaller bulbs; and there is no waxy powder on the
+leaves.
+Common camas blooms from April through June. The fruits are barrel-shaped to three-angled capsules, splitting
+into three
+parts to release many black, angled seeds
 
 ---
 

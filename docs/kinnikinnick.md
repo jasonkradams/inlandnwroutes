@@ -52,17 +52,64 @@ notes:
 
 ## Description
 
-A mat-forming evergreen shrub which produces lovely pink flowers that later turn into red berries and grows along coastal bluffs, in prairies, rocky areas, dry subalpine meadows, and dry coniferous forest openings.
-Small pink bell- or urn-shaped flowers are produced in few-flowered drooping terminal clusters near the tips of the stems. The flowers are less than 1/4 of an inch (5 mm) in length.
+A mat-forming evergreen shrub which produces lovely pink flowers that later turn into red berries and grows
+along
+coastal bluffs, in prairies, rocky areas, dry subalpine meadows, and dry coniferous forest openings.
+Small pink bell- or urn-shaped flowers are produced in few-flowered drooping terminal clusters near the tips
 
-"Put that in your pipe and smoke it!" If you were an early pioneer, one of the Indian natives might have handed you some dried Kinnikinnick (*Arctosphylos uva-ursi*) leaves and bark for that very purpose. Kinnikinnick, also called Bearberry, is a wild-growing ground cover found in most of the Northwest and western Canada at a variety of elevations and soil types.
-Its name (*Arctosphylos uva-ursi*) is redundant: arctos and staphyle are Greek for "bear" and "bunch of grapes." And in case your Greek is a little rusty, we have it again in Latin: uva, "grape" and ursus,"bear." Its alternate common name "Bearberry" says it all. Algonquin tribes dubbed it Kinnikinnick, which means "smoking mixture."
-The glossy leaves of this broadleaf evergreen, are arranged alternately on branches and remain green for 1-3 years before falling. In fall, the leaves on plants growing in the sun may change from dark green to reddish-green becoming pale on the underside.
-In spring, white with pink urn-shaped flowers in terminal clusters bloom from March to June depending on elevation. The blooms attract large numbers of native bees, hummingbirds and butterflies.
-In late summer the flowers give way to round fruits called drupes, ranging from 1/4- to 1/2-inch in diameter. Each drupe contains five nutlets (seeds), and ripens to a bright red in the fall. "Tasteless and insipid" is how Meriwether Lewis described them in his 1806 journals. Edible, but mealy and bittersweet when raw, Kinnikinnick berries are sweeter when boiled and dried. The Okanogan-Colville tribe cooked them with venison or salmon, or dried them into cakes. Indigenous people in California prepared a cider-like beverage from the berries.
+of the
 
-We may turn up our noses at Kinnikinnick berries, but they are a favored staple for wildlife. They readily attract birds such as thrushes, wrens, grouse, robins and waxwings. Other animals using the fruit as a winter food source are bears, deer, elk, wild turkeys and small mammals. Kinnikinnick berries spoil slowly making them available long after other fruits are gone.
-This slow-growing, trailing ground cover reaches 6-8 inches tall, spreading from 2-15 feet. In a landscape it provides year-round interest and can form a weed-suppressing mat. Its deep roots help control erosion on hillsides, and, once established, it is tolerant of sun, dry conditions, and sandy soil. A popular ground cover choice in urban and naturalized areas, draped over walls or in rock gardens, Kinnikinnick has no serious disease or insect problems. Sprigs of green leaves with red berries (provided the native critters left some) make attractive natural fall and holiday decorations.
+stems. The flowers are less than 1/4 of an inch (5 mm) in length.
+
+"Put that in your pipe and smoke it!" If you were an early pioneer, one of the Indian natives might have
+handed you some
+dried Kinnikinnick (*Arctosphylos uva-ursi*) leaves and bark for that very purpose. Kinnikinnick, also called
+Bearberry,
+is a wild-growing ground cover found in most of the Northwest and western Canada at a variety of elevations
+and soil
+types.
+Its name (*Arctosphylos uva-ursi*) is redundant: arctos and staphyle are Greek for "bear" and "bunch of
+grapes." And in
+case your Greek is a little rusty, we have it again in Latin: uva, "grape" and ursus,"bear." Its alternate
+common name
+"Bearberry" says it all. Algonquin tribes dubbed it Kinnikinnick, which means "smoking mixture."
+The glossy leaves of this broadleaf evergreen, are arranged alternately on branches and remain green for 1-3
+years
+before falling. In fall, the leaves on plants growing in the sun may change from dark green to reddish-green
+becoming
+pale on the underside.
+In spring, white with pink urn-shaped flowers in terminal clusters bloom from March to June depending on
+elevation. The
+blooms attract large numbers of native bees, hummingbirds and butterflies.
+In late summer the flowers give way to round fruits called drupes, ranging from 1/4- to 1/2-inch in diameter.
+
+Each drupe
+
+contains five nutlets (seeds), and ripens to a bright red in the fall. "Tasteless and insipid" is how
+Meriwether Lewis
+described them in his 1806 journals. Edible, but mealy and bittersweet when raw, Kinnikinnick berries are
+sweeter when
+boiled and dried. The Okanogan-Colville tribe cooked them with venison or salmon, or dried them into cakes.
+Indigenous
+people in California prepared a cider-like beverage from the berries.
+
+We may turn up our noses at Kinnikinnick berries, but they are a favored staple for wildlife. They readily
+attract birds
+such as thrushes, wrens, grouse, robins and waxwings. Other animals using the fruit as a winter food source
+are bears,
+deer, elk, wild turkeys and small mammals. Kinnikinnick berries spoil slowly making them available long after
+other
+fruits are gone.
+This slow-growing, trailing ground cover reaches 6-8 inches tall, spreading from 2-15 feet. In a landscape it
+provides
+year-round interest and can form a weed-suppressing mat. Its deep roots help control erosion on hillsides,
+and, once
+established, it is tolerant of sun, dry conditions, and sandy soil. A popular ground cover choice in urban and
+naturalized areas, draped over walls or in rock gardens, Kinnikinnick has no serious disease or insect
+problems. Sprigs
+of green leaves with red berries (provided the native critters left some) make attractive natural fall and
+holiday
+decorations.
 
 ---
 

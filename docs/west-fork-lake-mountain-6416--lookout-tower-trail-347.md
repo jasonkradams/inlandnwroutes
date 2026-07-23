@@ -44,23 +44,33 @@ notes:
 ## Description
 
 The hardest part of this nice hike is the drive from Rathdrum.  it is a 2.5 hour drive.
-Begin this hike on Trail #21 for about a mile on an easy grade, and across 4 boardwalks  to the junction with Trail #347.
+Begin this hike on Trail #21 for about a mile on an easy grade, and across 4 boardwalks  to the junction with
+Trail
+#347.
 
 At the junction, turn left for 3 miles to West Fork Lake.
-Trail #347 has one bridge just after the junction. Along Trail #347 you will cross 15 boardwalks that protect the moist environments. There are many switchbacks on Trail #347.
+Trail #347 has one bridge just after the junction. Along Trail #347 you will cross 15 boardwalks that protect
+the moist
+environments. There are many switchbacks on Trail #347.
 
 Once at the lake, you will find it’s shoreline is to swampy to walk near. Stay on the dry paths at the lake.
 
 ## Option #1
 
-To gain the ridge that the old fire lookout stands on, walk back to the junction where you turned left to the lake, and turn left up the trail for about .5 miles.
+To gain the ridge that the old fire lookout stands on, walk back to the junction where you turned left to the
+lake, and
+turn left up the trail for about .5 miles.
 When you access the ridge, mark this point carefully. it will be your return route.
-If you turn left, the tower is a little over .2  miles. You can explore this INCREDIBLE ridge SSE for as long as you like.
+If you turn left, the tower is a little over .2  miles. You can explore this INCREDIBLE ridge SSE for as long
+as you
+like.
 Return to your trail marker and head back to the lake.
 
 ## Option #2
 
-To further extend your hike on this ridge, continue NNW past yourTRAIL  MARKER, and walk the ridge top out to a view of Middle and Upper Caribou Lakes.
+To further extend your hike on this ridge, continue NNW past yourTRAIL  MARKER, and walk the ridge top out to
+a view of
+Middle and Upper Caribou Lakes.
 Look for a descent route (no trail) down to Middle Lake, if you want to go there.
 Continue NNW enjoying easily one of the most magnificent ridge walks in our area.
 
@@ -70,9 +80,14 @@ Upper Caribou Lake sits right on the ridge, and is a good place for lunch.
 
 ## Directions
 
-From Bonners Ferry drive north on 95, 15 miles to Hwy #1. Turn left (west) onto Hwy #1 thru Copeland and on to the West Fork Road (417) across the KootenaI River. Once on West Side Road, head north for 9 miles on a paved road which becomes FR #281 Smith Creek.
+From Bonners Ferry drive north on 95, 15 miles to Hwy #1. Turn left (west) onto Hwy #1 thru Copeland and on to
+the West
+Fork Road (417) across the KootenaI River. Once on West Side Road, head north for 9 miles on a paved road
+which becomes
+FR #281 Smith Creek.
 
-Stay on FR #281 to a poorly marked junction with FR #2446, and bear right to the end of the road and its parking area.
+Stay on FR #281 to a poorly marked junction with FR #2446, and bear right to the end of the road and its
+parking area.
 
 ## Hazards
 
@@ -84,7 +99,9 @@ So much beauty you won’t want to leave.
 
 ## Cool things close by
 
-Hidden Lake, Red Top Mt., Shorty & Lone Tree Peak, Joe Lake, the Kootenai National Wildlife Refuge, Myrtle Falls, and Smith Creek Falls.
+Hidden Lake, Red Top Mt., Shorty & Lone Tree Peak, Joe Lake, the Kootenai National Wildlife Refuge, Myrtle
+Falls, and
+Smith Creek Falls.
 
 ## R & P
 
@@ -104,7 +121,11 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
 *Picture (Image missing)*
 
-Not too far up from the trail junction, The walk is thru 4' to 8' diameter giant western red cedars image by chris herath
+Not too far up from the trail junction, The walk is thru 4' to 8' diameter giant western red cedars image by
+
+chris
+
+herath
 
 ![Picture](assets/images/7302025627p.jpg)
 
@@ -196,4 +217,9 @@ Not too far up from the trail junction, The walk is thru 4' to 8' diameter giant
 
 ## West fork cabin
 
-The silence of the mountains include:         The roar of a stream,         The rustle of leaves in the wind,         The songs of birds,        The tumbling of water along it's path,         The crunch of foot step,         The soft warm light,       The experience of beauty,       The click of a shutter,         The capture of an image,         and the company of friends.                                                              chic.  7.29.11
+The silence of the mountains include:         The roar of a stream,         The rustle of leaves in the wind,
+The songs of birds,        The tumbling of water along it's path,         The crunch of foot step,         The
+soft warm
+light,       The experience of beauty,       The click of a shutter,         The capture of an image,
+and the
+company of friends.                                                              chic.  7.29.11

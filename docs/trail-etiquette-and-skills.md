@@ -310,7 +310,8 @@ eyes specifically).
 animal to your campsite.
 
 - *Frontcountry camping* (accessible by vehicle, usually with allocated sites, water, outhouses or
-  flush toilets, trash bins, and sometimes showers): think ["bare"](https://www.pc.gc.ca/en/pn-np/mtn/ours-bears/securite-safety/camping-propre-bare-camp)
+  flush toilets, trash bins, and sometimes showers): think
+["bare"](https://www.pc.gc.ca/en/pn-np/mtn/ours-bears/securite-safety/camping-propre-bare-camp)
   — your site should look almost empty when you're not there, with only camping furniture left.
   Research the campground first for wildlife restrictions or recommendations. Store all food,
   food-related items, and toiletries (cooking equipment, garbage, dishes, coolers, drink containers,

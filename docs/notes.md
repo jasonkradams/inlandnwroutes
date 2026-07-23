@@ -1,6 +1,8 @@
 # Notes
 
-Notes... we encourage you to send us your writing on human powered sports. please keep them clean and short. we do reserve the right to refuse any inappropriate content
+Notes... we encourage you to send us your writing on human powered sports. please keep them clean and short.
+we do
+reserve the right to refuse any inappropriate content
 
 ---
 
@@ -159,7 +161,8 @@ weather trivia (tm)
 
 Venus is the only planet that spins clockwise.
 
-The lead-acid battery, the type most commonly used n cars, was invented by Martha C. Weston, who patented it in 1859
+The lead-acid battery, the type most commonly used n cars, was invented by Martha C. Weston, who patented it
+in 1859
 when she was 17 years old.
 
 Life is all about giving up what you like to do or eat, before you kick the proverbial bucket.
@@ -292,7 +295,8 @@ it could power the world.
 
 Weather Trivia tm
 
-To determine the distance from you to lightning, count the seconds between when you see lightning and hear thunder.
+To determine the distance from you to lightning, count the seconds between when you see lightning and hear
+thunder.
 For every 5 seconds, the lightning is 1 mile away.
 
 One million snowflakes would fill a space about 2 cubic feet.

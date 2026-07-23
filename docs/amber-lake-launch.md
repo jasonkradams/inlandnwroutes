@@ -24,8 +24,12 @@ stats:
 
 ## Description
 
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-The public launch is located about midway along the lake, on its north side. To the west, the lake becomes narrow and eventually leads to a pool at its west end.
+We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
+info. if an
+emergency ocurrs, evaluate your circumstances and call only if needed.
+The public launch is located about midway along the lake, on its north side. To the west, the lake becomes
+narrow and
+eventually leads to a pool at its west end.
 
 ## Attractions
 
@@ -33,7 +37,9 @@ NA
 
 ## Directions
 
-Drive thru Cheney and turn left (south) on to S. Mullnix Road for 9.7 miles and turn Right (west) not W. Pines Springs Road to Amber. In Amber turn left (SE) Onto S. Houck Ave to the launch.
+Drive thru Cheney and turn left (south) on to S. Mullnix Road for 9.7 miles and turn Right (west) not W. Pines
+Springs
+Road to Amber. In Amber turn left (SE) Onto S. Houck Ave to the launch.
 
 ## Cool things close by
 
@@ -47,7 +53,8 @@ Harvest Restaurant, Lenny’s in Cheney
 
 ## Plan your trip
 
-[Click for Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
+[Click for Current NOAA Weather
+Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
 
 ## Photo gallery
 

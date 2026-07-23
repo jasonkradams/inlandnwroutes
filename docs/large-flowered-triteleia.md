@@ -46,10 +46,21 @@ stats:
 
 ## Description
 
-Scapose, glabrous perennials from fibrous-coated corms. Scapes erect, 30–70 cm. Leaves 1 or 2, basal, linear, 2–15 mm wide. Inflorescence a terminal umbel subtended by few scarious, lanceolate bracts; pedicels 8–25 mm long. Flowers funnelform, blue; tepals united below into a tube 9–15 mm long, the mouth nearly closed; lobes spreading 7–10 mm long; stamens attached to corolla at 2 levels; anthers blue; ovary stipitate; stigmas 3. Fruit an ovoid capsule 6–12 mm long.
+Scapose, glabrous perennials from fibrous-coated corms. Scapes erect, 30–70 cm. Leaves 1 or 2, basal, linear,
+2–15 mm
+wide. Inflorescence a terminal umbel subtended by few scarious, lanceolate bracts; pedicels 8–25 mm long.
+Flowers
+funnelform, blue; tepals united below into a tube 9–15 mm long, the mouth nearly closed; lobes spreading 7–10
+mm long;
+stamens attached to corolla at 2 levels; anthers blue; ovary stipitate; stigmas 3. Fruit an ovoid capsule 6–12
+mm long.
 Triteleia grandiflora is a BULB growing to 0.7 m (2ft 4in).
-It is hardy to zone (UK) 5 and is not frost tender. It is in flower from May to July. The species is hermaphrodite (has both male and female organs) and is pollinated by Insects.
-Suitable for: light (sandy) and medium (loamy) soils and prefers well-drained soil. Suitable pH: acid, neutral and basic (alkaline) soils. It cannot grow in the shade. It prefers dry or moist soil.
+It is hardy to zone (UK) 5 and is not frost tender. It is in flower from May to July. The species is
+hermaphrodite (has
+both male and female organs) and is pollinated by Insects.
+Suitable for: light (sandy) and medium (loamy) soils and prefers well-drained soil. Suitable pH: acid, neutral
+and basic
+(alkaline) soils. It cannot grow in the shade. It prefers dry or moist soil.
 
 ---
 

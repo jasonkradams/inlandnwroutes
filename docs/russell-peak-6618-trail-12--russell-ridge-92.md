@@ -40,13 +40,21 @@ notes:
 
 ## Description
 
-From the Trout Creek Trail #634, cross the creek and bear right, then forks left thru a forest of old growth Cedars. The trail switchbacks to just below the peak where it heads east to the junction with Trail #92. At the junction turn right (SW for about 1/2 a mile to the summit.
+From the Trout Creek Trail #634, cross the creek and bear right, then forks left thru a forest of old growth
+Cedars. The
+trail switchbacks to just below the peak where it heads east to the junction with Trail #92. At the junction
+turn right
+(SW for about 1/2 a mile to the summit.
 
-To access Russell Ridge, retrace your steps back to Trail 92, and continue ENE on 92 for about 5 miles. Retrace your steps back to Trail 12 and down to the trailhead.
+To access Russell Ridge, retrace your steps back to Trail 92, and continue ENE on 92 for about 5 miles.
+Retrace your
+steps back to Trail 12 and down to the trailhead.
 
 ## Directions
 
-From the Kootenai National Wildlife Refuge, head north on West Side Road #417 for 10 miles to the Trout Creek Road #634. Turn left (west) on 634 for 6.3 miles to an unmarked trailhead near a decommissioned road.
+From the Kootenai National Wildlife Refuge, head north on West Side Road #417 for 10 miles to the Trout Creek
+Road #634.
+Turn left (west) on 634 for 6.3 miles to an unmarked trailhead near a decommissioned road.
 
 ## Hazards
 
@@ -54,7 +62,9 @@ Many switchbacks to the peak. And a short scramble to the summit
 
 ## Cool things close by
 
-Pyramid Pass, Peak & Lakes, Long Mountain Lake, Fisher Peak, Long Canyon, Parker Peak, the Purcell Trench, and the Kootenai National Wildlife Refuge.
+Pyramid Pass, Peak & Lakes, Long Mountain Lake, Fisher Peak, Long Canyon, Parker Peak, the Purcell Trench, and
+the
+Kootenai National Wildlife Refuge.
 
 ## R & P
 

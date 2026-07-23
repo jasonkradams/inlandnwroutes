@@ -35,7 +35,10 @@ These side lakes are shallow and have very little power boat use.
 
 ## Directions
 
-from CDA drive east on I-90 over the 4th of July Pass, and turn right at the Rose Lake & Harrison exit. Hwy 3 continues south down the Chain Lakes. Turn right (S) onto S. Medimont Road, to E Rainy Hill Road to the launch and campgrounds.
+from CDA drive east on I-90 over the 4th of July Pass, and turn right at the Rose Lake & Harrison exit. Hwy 3
+continues
+south down the Chain Lakes. Turn right (S) onto S. Medimont Road, to E Rainy Hill Road to the launch and
+campgrounds.
 
 ## Cool things close by
 
@@ -49,7 +52,8 @@ Trails End Brewery, Mexican Food Factory, Franklins, and Moon Time
 
 ## Plan your trip
 
-[Click for Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
+[Click for Current NOAA Weather
+Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
 
 ## Photo gallery
 

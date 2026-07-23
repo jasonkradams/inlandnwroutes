@@ -12,7 +12,9 @@ Hi Readers,
 
 <!-- more -->
 
-Our trails are going to be an issue for all of us how love to hike, or even a casual stroll to places like Mount Spokane, or The Dishman Hills.
+Our trails are going to be an issue for all of us how love to hike, or even a casual stroll to places like
+Mount
+Spokane, or The Dishman Hills.
 PLEASE consider volunteering with the below Trail Organizations.
 
 The spokane mountaineers, inc.
@@ -22,7 +24,8 @@ We have been building, maintaining, trails all around us, for over 100 years.
 I’d would bet that local trails around Spokane, have had our work parties doing our thing maybe many times.
 Currently, we are building a new connection trail at Dishman Hills Conservancy.
 
-We are the major trails group that maintain The Lower & Upper Stevens Lakes and Lone Lake next door, by Mullan, Idaho.
+We are the major trails group that maintain The Lower & Upper Stevens Lakes and Lone Lake next door, by
+Mullan, Idaho.
 In 1991, I personally adopted The Stevens Lakes, and Lone Lake trails.
 I go up to both of these areas after all non snow holidays, and for whenever I want a good workout.
 If you are a gardener, you will love trail work parties.
@@ -66,11 +69,14 @@ Then there’s the advantage of being in Nature.
 As the USFS is going thru severe budget cuts, WE, the user of these trails, must step up.
 
 Whenever you go on a hike in the future, stuff a dozen plastic grocery bags in your pack.
-Picking up other trash is no fun at all, but when you pick up others trash, someone, unbeknownst to them, in the future will reap the benefits of your good work.
+Picking up other trash is no fun at all, but when you pick up others trash, someone, unbeknownst to them, in
+the future
+will reap the benefits of your good work.
 Not to mention the smile on your face as you head down the trail.
 
 But there’s even a more important reason to carry a dozen grocery bags.
-Three time, three different lakes in 2024, had campfires burning on a Wednesday left shouldering from the weekend.
+Three time, three different lakes in 2024, had campfires burning on a Wednesday left shouldering from the
+weekend.
 
 These bags only weight 6 grams. But those 6 grams could save an entire forests.
 Think of that.  WOW!

@@ -44,10 +44,24 @@ stats:
 ## Description
 
 Hemerocallis fulva is a PERENNIAL growing to 1 m (3ft 3in) by 1 m (3ft 3in) at a medium rate.
-It is hardy to zone (UK) 4 and is not frost tender. It is in flower from June to August. The species is hermaphrodite (has both male and female organs). The plant is not self-fertile.
-Suitable for: light (sandy), medium (loamy) and heavy (clay) soils and can grow in heavy clay soil. Suitable pH: acid, neutral and basic (alkaline) soils. It can grow in semi-shade (light woodland) or no shade. It prefers dry or moist soil.
-The flowers are basically tepals with midribs in all of them. The flowers have 3 petal and 3 sepals. The throat of the flower which is in the centre core is usually of a different color than rest of the flower. The flowers have 6 stamens with two-lobed anthers in each.
-Daylily HistoryThese edible flowers record to ages back. Their edible and medicinal usages have been noted since ancient days. This flower was mentioned n the Chinese book called Materia Medica for the first time in 656 A.D. it originated from East Asia. It is assumed that daylilies were first introduced to Europe in 1500 A.D.
+It is hardy to zone (UK) 4 and is not frost tender. It is in flower from June to August. The species is
+hermaphrodite
+(has both male and female organs). The plant is not self-fertile.
+Suitable for: light (sandy), medium (loamy) and heavy (clay) soils and can grow in heavy clay soil. Suitable
+pH: acid,
+neutral and basic (alkaline) soils. It can grow in semi-shade (light woodland) or no shade. It prefers dry or
+moist
+soil.
+The flowers are basically tepals with midribs in all of them. The flowers have 3 petal and 3 sepals. The
+throat of the
+flower which is in the centre core is usually of a different color than rest of the flower. The flowers have 6
+stamens
+with two-lobed anthers in each.
+Daylily HistoryThese edible flowers record to ages back. Their edible and medicinal usages have been noted
+since ancient
+days. This flower was mentioned n the Chinese book called Materia Medica for the first time in 656 A.D. it
+originated
+from East Asia. It is assumed that daylilies were first introduced to Europe in 1500 A.D.
 
 ---
 

@@ -37,13 +37,17 @@ notes:
 
 ## Description
 
-This trail is yet another steep and seemingly endless ascent. There are about 26 switchbacks before a short rock hop to the summit.
+This trail is yet another steep and seemingly endless ascent. There are about 26 switchbacks before a short
+rock hop to
+the summit.
 As you near Taylor Peak, a short off trail route will take you to Taylor’s summit.
 The views all around are spectacular, with the Bulk of the CMW laid out to the south.
 
 ## Directions
 
-Near milepost 30 along Hwy 56, look for the Taylor Peak Road #4621 off to the east. Drive about 1.5 miles to the trailhead. Parking is below the trailhead at a switchback.
+Near milepost 30 along Hwy 56, look for the Taylor Peak Road #4621 off to the east. Drive about 1.5 miles to
+the
+trailhead. Parking is below the trailhead at a switchback.
 
 ## Hazards
 
@@ -56,7 +60,9 @@ Ross Creek Cedars, Cedar Lakes, Dome Mountain, Kootenai Falls, and the Proposed 
 
 ## R & P
 
-Henry’s in Libby, Pizza Hut, Rosauers, Clark Fork Pantry & Squeeze Inn in Clark Fork. Eicharts, Mr Sub & Jalapeños in Sandpoint
+Henry’s in Libby, Pizza Hut, Rosauers, Clark Fork Pantry & Squeeze Inn in Clark Fork. Eicharts, Mr Sub &
+Jalapeños in
+Sandpoint
 
 ## Plan your trip
 

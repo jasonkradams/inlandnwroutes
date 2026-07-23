@@ -72,9 +72,24 @@ notes:
 
 ## Description
 
-A dense, rounded, terminal, head-like cluster of bright red, tubular flowers atop a square stem. Scarlet beebalm is a popular perennialwith scarlet-red flowers in terminal tufts. The 3 ft. stems are lined with large, oval, dark-green leaves. Individual flowers are narrowly tube-shaped, tightly clustered together in 2 in. heads. The leaves have a minty aroma.
-This species is coarser than true mints (Mentha) but is very showy and frequently cultivated in gardens. Hummingbirds are especially attracted to the red flowers. The alternate common name Oswego Tea refers to the use of the leaves for a tea by the Oswegos of New York. Early colonists also used the plant for this purpose when regular tea was scarce. A white-flowered variant is sometimes grown in gardens.
+A dense, rounded, terminal, head-like cluster of bright red, tubular flowers atop a square stem. Scarlet
+beebalm is a
+popular perennialwith scarlet-red flowers in terminal tufts. The 3 ft. stems are lined with large, oval,
+dark-green
+leaves. Individual flowers are narrowly tube-shaped, tightly clustered together in 2 in. heads. The leaves
+have a minty
+aroma.
+This species is coarser than true mints (Mentha) but is very showy and frequently cultivated in gardens.
+Hummingbirds
+are especially attracted to the red flowers. The alternate common name Oswego Tea refers to the use of the
+leaves for a
+tea by the Oswegos of New York. Early colonists also used the plant for this purpose when regular tea was
+scarce. A
+white-flowered variant is sometimes grown in gardens.
 It is susceptible to powdery mildew, but some cultivars, such as 'Jacob Cline', are mildew resistant.
-Linnaeus named the genus Monarda in honor of a 16th century Spanish physician and botanist, Nicolas Bautista Monardes (1493-1588). Monardes never went to the Americas but was able to study medicinal plants in Spain because Spain controlled navigation and commerce from the New World.
+Linnaeus named the genus Monarda in honor of a 16th century Spanish physician and botanist, Nicolas Bautista
+Monardes
+(1493-1588). Monardes never went to the Americas but was able to study medicinal plants in Spain because Spain
+controlled navigation and commerce from the New World.
 
 ---

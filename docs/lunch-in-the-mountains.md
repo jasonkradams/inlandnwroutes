@@ -6,7 +6,8 @@
 
 Ingredients:
 
-Each of the vegetable ingredients should be washed, and cut appropriately, and stored in individual leak proof containers.
+Each of the vegetable ingredients should be washed, and cut appropriately, and stored in individual leak proof
+containers.
 Hoagie Rolls. Pick the softest best bread you can find
 Lunch meat.  Prima Della is best
 Organic Romaine lettuce

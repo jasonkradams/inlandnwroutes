@@ -26,25 +26,37 @@ stats:
 
 ## Description
 
-Palouse Falls was designated as the Offical Washington State Waterfall on 3.18.2014. And rightly so. The falls sits amid the Washington Scablands near Washtucna.  It drops 185' in a single plunge.
-There is a fenced viewing  area, that overlooks the falls and the Stony Canyon that eventually leads to Lyons Ferry State Park about 7 miles down stream.
+Palouse Falls was designated as the Offical Washington State Waterfall on 3.18.2014. And rightly so. The falls
+sits amid
+the Washington Scablands near Washtucna.  It drops 185' in a single plunge.
+There is a fenced viewing  area, that overlooks the falls and the Stony Canyon that eventually leads to Lyons
+Ferry
+State Park about 7 miles down stream.
 Contact the park by calling 509.646.3229.
 
 FOR A SPECTACULAR FILM OF  TYLER BRADT, KAYAKING OVER PALOUSE FALLS, GOOGLE Palouse Falls KAYAKER.
 
 ## Option #1
 
-From the main view point, walk south to the Palouse Falls Fryxell Overlook. This view point offers a different view of the falls. It has a covered shelter to get out of the sun.
+From the main view point, walk south to the Palouse Falls Fryxell Overlook. This view point offers a different
+view of
+the falls. It has a covered shelter to get out of the sun.
 This area is fenced , and PLEASE do not climb over the fencing.
 
 Please read the "hazard" section below, for safety info.
 
 ## Option #2
 
-To view the Upper Palouse Falls, head north from the pit toilets. The trail skirts the railroad tracks, then drops down to the tracks before descending to the rivers level on a graveled slope.
-There is a rugged path that follows river to the SE, and eventually takes you to the "Castle", and the very top of the falls.
+To view the Upper Palouse Falls, head north from the pit toilets. The trail skirts the railroad tracks, then
+drops down
+to the tracks before descending to the rivers level on a graveled slope.
+There is a rugged path that follows river to the SE, and eventually takes you to the "Castle", and the very
+top of the
+falls.
 Please be very careful here.
- As you walk along the cliffs, notice the huge rock wall on your right. If you look real close, you maybe able to spot bolts used to provide protection for rock climbers.
+ As you walk along the cliffs, notice the huge rock wall on your right. If you look real close, you maybe able
+to spot
+bolts used to provide protection for rock climbers.
 
 Please read the "hazard" section below, for safety info.
 
@@ -52,7 +64,8 @@ Please read the "hazard" section below, for safety info.
 
 From Spokane, drive west on I-90 to Ritzville.
 At Ritzville turn S onto Hwy 261 to Washtucna.
-At Washtucna continue  SW on Hwy 261 for 7 miles to the Palouse Falls sign. From here its a gravel road to the falls.
+At Washtucna continue  SW on Hwy 261 for 7 miles to the Palouse Falls sign. From here its a gravel road to the
+falls.
 
 ---
 
@@ -116,8 +129,11 @@ Click for Current NOAA Weather Conditions
 
 ![Picture](assets/images/img-2545.jpg)
 
-The "castles" above the falls. Years ago, someone graffitied the "castles". the spokane mountaineers came out with a portable sand blaster  To clean the graffiti off
+The "castles" above the falls. Years ago, someone graffitied the "castles". the spokane mountaineers came out
+with a
+portable sand blaster  To clean the graffiti off
 
 ![Picture](assets/images/929431.jpg)
 
-The upper falls from above.  While the lower falls look the same year round, the upper falls changes due to river flow
+The upper falls from above.  While the lower falls look the same year round, the upper falls changes due to
+river flow

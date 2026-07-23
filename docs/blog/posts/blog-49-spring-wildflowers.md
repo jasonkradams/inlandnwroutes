@@ -52,7 +52,9 @@ Skip the "DETAILED FORECAST" words. They don’t tell the whole story.
 Then scroll down until you see the HOURLY WEATHER FORECAST.
 Click on the graph and study the data supplied.
 Basically it spells out the days hour by hour.
-I have notice over the years that the timing of a storm or sunshine is more accurate than the quantity of possible precipitation.
+I have notice over the years that the timing of a storm or sunshine is more accurate than the quantity of
+possible
+precipitation.
 
 It would be wise to call the area you wish to visit, to see when prime wildflowers are present.
 You can find the managing agencies phone numbers in each hikes write up.

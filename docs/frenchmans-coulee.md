@@ -40,33 +40,52 @@ stats:
 
 ## Description
 
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-From the parking area, the trail heads NE for about .2 miles to a "Y", and bear right. After about another .2 miles bear right (east) up into the coulee.
-About 2 miles up the coulee, take note of the waterfall along the north rim. As you pass beneath the power lines, walk towards the waterfall.
+We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
+info. if an
+emergency ocurrs, evaluate your circumstances and call only if needed.
+From the parking area, the trail heads NE for about .2 miles to a "Y", and bear right. After about another .2
+miles bear
+right (east) up into the coulee.
+About 2 miles up the coulee, take note of the waterfall along the north rim. As you pass beneath the power
+lines, walk
+towards the waterfall.
 This fall is intermittent run off from area farms. Do not drink or purify the water.
 In early spring the area is carpeted with wildflowers.
 Hiking in the Washington Scablands in the summer is very hot and dry.
 Take extra water with you, and protect yourself from the blistering sun.
-The Spokane Mountaineers were contributors to the pit toilets that are now in use near the Feathers and camping area.
+The Spokane Mountaineers were contributors to the pit toilets that are now in use near the Feathers and
+camping area.
 
 ## Option #1
 
 To extend your hike, walk the old road for about .4 miles above the falls and out of the coulee.
-You can either retrace your steps back to the cars, or you can walk along the high rim, west, back towards the Babcock Bench. The views of the mighty Columbia River stretch out before you.
+You can either retrace your steps back to the cars, or you can walk along the high rim, west, back towards the
+Babcock
+Bench. The views of the mighty Columbia River stretch out before you.
 
 ## Directions
 
-Drive I-90 west to exit #143, and turn right (north) on Silica Road. After about .8 miles turn left (west) onto the Vantage Road, which was the old Hwy 10. After about 3.6 miles you will drop back down into Frenchman Coulee. Stop by and watch the climbing community on the Feathers.
+Drive I-90 west to exit #143, and turn right (north) on Silica Road. After about .8 miles turn left (west)
+onto the
+Vantage Road, which was the old Hwy 10. After about 3.6 miles you will drop back down into Frenchman Coulee.
+Stop by and
+watch the climbing community on the Feathers.
 
 ## Hazards
 
 As in all the Scablands, DO NOT DRINK SURFACE WATER. TAKE ALL YOU WILL NEED. Filtering won't do the job
-And ALWAYS be on the lookout for rattlesnakes. They won’t strike unless you invade their space. There are ankle shields you can buy, to protect yourself.
-Keep in mind that snakes come out to warm up nine the sun. So be aware that south, south east & west sides of rocks and bushes, may be where they are at.
+And ALWAYS be on the lookout for rattlesnakes. They won’t strike unless you invade their space. There are
+ankle shields
+you can buy, to protect yourself.
+Keep in mind that snakes come out to warm up nine the sun. So be aware that south, south east & west sides of
+rocks and
+bushes, may be where they are at.
 
 A word of caution while hiking in the scabs
 Because the terrain you will be in while hiking, you must be aware of your surroundings.
-Note all high points and landmarks. Even those off in a distance. Take a picture of them to use if you need to orientate yourself.
+Note all high points and landmarks. Even those off in a distance. Take a picture of them to use if you need to
+orientate
+yourself.
 They can be use to gain perspective of your current location, as apposed to your entry route.
 Always make sure Each hiker is carrying a map of the area.
 And do not allow any hiker in your group to wonder off.

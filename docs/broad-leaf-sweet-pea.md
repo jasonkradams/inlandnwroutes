@@ -44,7 +44,21 @@ stats:
 
 ## Description
 
-Perennial Sweet Pea or Everlasting Pea is an old fashioned herbaceous perennial climbing vine with beautiful bright flowers that grows up 10' tall. This plant blooms in summer, and blooms are on long peduncles above the foliage. It climbs by tendrils and can be trellised or used to cover a fence or other structure. It makes a nicely mounded ground cover and will cover a bank. The stems have leafy wings which contribute to its ornamental appeal. Key identifiers include the winged stems and the ternately compound leaves with the 3rd leaf being a 3-branched tendril. This plant requires full sun and well-drained soil. Seeds are propagated by pre-soaking the seed in water for several days, then planting less than half an inch deep in the early spring.This plant dislikes being transplanted and has no serious pest problems.
+Perennial Sweet Pea or Everlasting Pea is an old fashioned herbaceous perennial climbing vine with beautiful
+bright
+flowers that grows up 10' tall. This plant blooms in summer, and blooms are on long peduncles above the
+foliage. It
+climbs by tendrils and can be trellised or used to cover a fence or other structure. It makes a nicely mounded
+ground
+cover and will cover a bank. The stems have leafy wings which contribute to its ornamental appeal. Key
+identifiers
+include the winged stems and the ternately compound leaves with the 3rd leaf being a 3-branched tendril. This
+plant
+requires full sun and well-drained soil. Seeds are propagated by pre-soaking the seed in water for several
+days, then
+planting less than half an inch deep in the early spring.This plant dislikes being transplanted and has no
+serious pest
+problems.
 3-part leaf with 3rd part being a 3-branched tendril
 Herbaceous vine with winged, green stems
 Pea-like flower clusters on long stems above foliage
