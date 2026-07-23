@@ -41,7 +41,7 @@ _ROCK FACE OF NORTH TWIN, A.S. IMAGE BY CHRIS H._
 ![Image](assets/images/3312022848p.jpg "THE \"CASTLES\" AT PALOUSE FALLS. WA. SCABS")
 
 ![Image](assets/images/3312022850p.jpg "THE FIN BETWEEN L.HARRISON LAKE (L)
-AND BEEHIVE LAKE (R)  A. SELKIRKS")
+AND BEEHIVE LAKE (R) A. SELKIRKS")
 
 ![Image](assets/images/3312022849p.jpg)
 
@@ -56,11 +56,8 @@ AND BEEHIVE LAKE (R)  A. SELKIRKS")
 ![Picture](assets/images/img-1729.jpg)
 
 On an exploratory hike i lead in the american selkirks, above ball lakes, fellow hiker darcy verona came
-across a rock
-that none of us had ever seen before. i took these images and did research on them. It turns out this is an
-orbicular
-rock or orbiculite.it is a rare rock formation, found in slightly more then 100 places world wide. I CONTACTED
-THE
-U.S.G.S. IN SPOKANE, AND A STEVEN BOX, PhD RESEARCH GEOLOGIST, VERIFIED THAT THIS IS ORBICULAR ROCK. STEVE
-SENT ME SOME
-TECHNICAL PAPERS ON THE ROCK, AND SAID IT IS VERY RARE. THE CLOSEST PLACE TO SEE THIS ROCK IS IN NEVADA
+across a rock that none of us had ever seen before. i took these images and did research on them. It turns
+out this is an orbicular rock or orbiculite.it is a rare rock formation, found in slightly more then 100
+places world wide. I CONTACTED THE U.S.G.S. IN SPOKANE, AND A STEVEN BOX, PhD RESEARCH GEOLOGIST, VERIFIED
+THAT THIS IS ORBICULAR ROCK. STEVE SENT ME SOME TECHNICAL PAPERS ON THE ROCK, AND SAID IT IS VERY RARE. THE
+CLOSEST PLACE TO SEE THIS ROCK IS IN NEVADA

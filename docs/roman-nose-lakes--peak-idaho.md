@@ -51,35 +51,24 @@ Lake #3 is mostly encased in granite and has a good spot to swim and sunbath on 
 
 ## Option #1
 
-Roman Nose Peak.
-The scramble to Roman Nose Peak, via Whisker Ridge is about 4.3 miles and gains 1588verts.
-In 1978, I hiked to the peak along the south side of Lake #3 for the first time. It is accessed by going cross
-country
-up to the ridge above the lake and the campgrounds. . There is no real trail to the ridge, but it's easy to
-ascend. Once
-on the ridge, that I named Whisker Ridge, turn right (WSW) and hike the high meadows to the peak. Along the
-way, there
-are hearty small plants that light up the landscape. Large granite boulders dot the ridge and afford
-tremendous photo
-ops. Most of the ridge is covered with sparsely spaced white snags (hence Whisker Ridge). Higher up the trail
-before the
-final long ascent to the summit, there is some minor scrambling above the dip, or you can walk an old trail
-for the Fire
-Lookout, off to the south, way up high. Scrambling is way more fun and you can walk right on the edge of the
-cliff for
-optimum views.
+Roman Nose Peak. The scramble to Roman Nose Peak, via Whisker Ridge is about 4.3 miles and gains 1588verts.
+In 1978, I hiked to the peak along the south side of Lake #3 for the first time. It is accessed by going
+cross country up to the ridge above the lake and the campgrounds. . There is no real trail to the ridge, but
+it's easy to ascend. Once on the ridge, that I named Whisker Ridge, turn right (WSW) and hike the high
+meadows to the peak. Along the way, there are hearty small plants that light up the landscape. Large granite
+boulders dot the ridge and afford tremendous photo ops. Most of the ridge is covered with sparsely spaced
+white snags (hence Whisker Ridge). Higher up the trail before the final long ascent to the summit, there is
+some minor scrambling above the dip, or you can walk an old trail for the Fire Lookout, off to the south,
+way up high. Scrambling is way more fun and you can walk right on the edge of the cliff for optimum views.
 
-Years ago a friend and I went to the wall SW of the peak and climbed the face, in winter. We had lunch in the
-old wood
-lookout, but left because it swayed about 5' back and forth, in the winds.
-Three months later, I learned that the tower blew over in a winter storm..
-From the top you can retrace your steps, or you can hike around the peak to the NW and work your way over
-towards Peak
+Years ago a friend and I went to the wall SW of the peak and climbed the face, in winter. We had lunch in
+the old wood lookout, but left because it swayed about 5' back and forth, in the winds. Three months later,
+I learned that the tower blew over in a winter storm.. From the top you can retrace your steps, or you can
+hike around the peak to the NW and work your way over towards Peak
 
 6821. see leading image above.
 When we are above Lake #2, we will work our way down a chute to the west end of the lake, because there's a
-nice
-cascading waterfall to view.
+nice cascading waterfall to view.
 
 This loop is one of our regions great scrambles.
 
@@ -88,12 +77,11 @@ This loop is one of our regions great scrambles.
 Roman Nose Lake #2
 
 As you hike over the trails summit, you will notice a directional disk that points the direction to Lake #2.
-As you walk
-along this trail, step off the trail onto granite slabs that allows for views of Lake's exit stream.
+As you walk along this trail, step off the trail onto granite slabs that allows for views of Lake's exit
+stream.
 
-In the spring, it becomes a beautiful raging waterfall.
-The trail to Lake #2 descends almost 300verts down to the lake, but is an easy hike, with a surprise
-waterfall.
+In the spring, it becomes a beautiful raging waterfall. The trail to Lake #2 descends almost 300verts down
+to the lake, but is an easy hike, with a surprise waterfall.
 
 Once at the lake, hike the left (S) shore line back to a 50+ foot waterfall tucked back in the trees. The
 
@@ -107,13 +95,12 @@ There are several dispersed campsites along this primitive path.
 
 After visiting Lake #2, continue west on the main trail.
 
-Here you will come to the Nature Trail marked as LOOP off to your left.
-Pass by it for now, and hike west to Lake #3. It's a short walk to the NE end of the upper lake.
+Here you will come to the Nature Trail marked as LOOP off to your left. Pass by it for now, and hike west to
+Lake #3. It's a short walk to the NE end of the upper lake.
 
-Walk the left SE shore back to the far end of the lake.
-Along the trail are more campsites.
-Directly SW of the lake is Roman Nose's summit 7260'
-Lake #3 is encased in a glacial cirque, with steep walls on three sides.
+Walk the left SE shore back to the far end of the lake. Along the trail are more campsites. Directly SW of
+the lake is Roman Nose's summit 7260' Lake #3 is encased in a glacial cirque, with steep walls on three
+sides.
 
 ### **Option #4**
 
@@ -122,24 +109,22 @@ As you leave the upper lake to head down, be sure to notice the metal plates tha
 Trail.
 
 This loop trail climbs a bit before the first lake (Lake #3) comes into view. The entire area you will walk
-down thru is
-also encased in a glacial cirque.
+down thru is also encased in a glacial cirque.
 
-There are many options to find a seat with a view, and have a snack.
-The trail continues downhill via switchbacks, thru a cool Sub-Alpine Fir forest.
-It meets up with the original trail.
+There are many options to find a seat with a view, and have a snack. The trail continues downhill via
+switchbacks, thru a cool Sub-Alpine Fir forest. It meets up with the original trail.
 
 Directions:
 
-Drive thru Bonners Ferry and turn left onto Riverside Street just before the Kootenai River bridge. Head west
-for about
-5 miles to the frontage road 417 (aka F.R. 18). As it veers to the right, turn left (south) for 2.5 miles, and
-turn
-sharply to the right onto FR # 402 just before the Lion's Club Picnic Area. Drive 1.1 miles to a sign for the
+Drive thru Bonners Ferry and turn left onto Riverside Street just before the Kootenai River bridge. Head
+west for about 5 miles to the frontage road 417 (aka F.R. 18). As it veers to the right, turn left (south)
+for 2.5 miles, and turn sharply to the right onto FR # 402 just before the Lion's Club Picnic Area.
+Drive 1.1 miles to a sign for the
 
 Upper &
 
-Lower Snow Creek Falls. After the falls continue up 402 for 16.8 miles and turn right (SW) onto FR # 2667. In
+Lower Snow Creek Falls. After the falls continue up 402 for 16.8 miles and turn right (SW) onto FR # 2667.
+In
 
 .5 miles
 
@@ -149,14 +134,13 @@ If you have a high clearance truck, you can drive down the famous Ruby a Ridge t
 
 ## Hazards
 
-On the normal hike to the lakes and/or Nature Trail, there are no notable hazards.
-On the Whisker Ridge hike however, you must be careful and sure footed.
+On the normal hike to the lakes and/or Nature Trail, there are no notable hazards. On the Whisker Ridge hike
+however, you must be careful and sure footed.
 
 ## Cool things close by
 
 Ruby Ridge, Snow Creek Falls, Bottleneck Lake & Peak, Kootenai National Wildlife Refuge, Myrtle Falls, Pend
-Orielle Lake
-and Sandpoint.
+Orielle Lake and Sandpoint.
 
 ## R & P
 
@@ -309,14 +293,12 @@ Jalapeños, Eichard’s, Burger Express, Mr. Sub, Sandpoint
 ![Picture](assets/images/11062021316p.jpg)
 
 Roman nose peak & fire lookout tower. three months after climbing the right ridge, and having lunch in the
-tower, it
-blew down in 2007
+tower, it blew down in 2007
 
 ## The walk thru a foggy forest, allows us to see forever.    chic     2012
 
-The following newspaper article is from a 1981 accident Can you imagine what was going thru this snowmobiler's
-head as
-he flew 650 feet
+The following newspaper article is from a 1981 accident Can you imagine what was going thru this
+snowmobiler's head as he flew 650 feet
 
 ![Picture](assets/images/11102023430p.jpg)
 
@@ -328,40 +310,25 @@ he flew 650 feet
 
 History - The Sundance Fire in the Selkirk Mountains
 
-by Bob Gunter
-The Selkirk Mountains still show scars from the devastating effects of the Sundance fire. The fire started on
-August 23,
-1967 with a lightning strike on Sundance Mountain near the Sundance lookout tower in Bonner County.
-The mountain is 6,298' high and is located four miles east north east of Coolin on Priest Lake. The initial
-blaze was
-contained after burning 35 acres but it was not completely extinguished. One week after the initial blaze the
-winds
-increased and fanned the smoldering flames into action. The fire jumped the lines and burned two thousand
-acres by
-August 30.
-When things looked as bad as they could get the worst possible thing happened. The summer had been
-particularly hot and
-dry and there had been little or no rain. High winds hit the area and some observers said that it was as if
-the forest
-exploded in front of the wind driven flames. The fire moved with such force that on September 1 it traveled
-approximately sixteen miles in nine hours, destroying over 55 thousand acres of land and about 10 million
-board feet of
-lumber. In the Pack River Valley the fire created its own winds causing an inferno known as a "fire storm."
-The winds
-were strong enough to snap large trees and enough heat was generated to split large granite boulders.
-Two thousand men fought the fire with shovels, bulldozers, and planes. Two firefighters died while trying to
-save a
-bulldozer and many others had narrow escapes. On September 2 the fire began to slow and the winds changed for
-the
-better. Eventually the rains came and the fire was controlled in mid September, but not before it had burned
-nearly
-fifty-six thousand acres of land and caused tremendous loss to cattle and wildlife.
-At the time the Sundance fire was called the most destructive fire in Idaho in 50 years. There were reports
-that an even
-more dangerous fire had been avoided. At the same time the Sundance fire was burning there was a second fire
-burning out
-of control about 30 miles north of Trapper Peak. There was also a third blaze on Caribou Creek that had been
-confined to
-30 acres. If the Caribou Creek fire had gotten out of control the three fires would most likely have merged
-and much of
-North Idaho would not be the place of beauty it is today.
+by Bob Gunter The Selkirk Mountains still show scars from the devastating effects of the Sundance fire. The
+fire started on August 23, 1967 with a lightning strike on Sundance Mountain near the Sundance lookout tower
+in Bonner County. The mountain is 6,298' high and is located four miles east north east of Coolin on Priest
+Lake. The initial blaze was contained after burning 35 acres but it was not completely extinguished. One
+week after the initial blaze the winds increased and fanned the smoldering flames into action. The fire
+jumped the lines and burned two thousand acres by August 30. When things looked as bad as they could get the
+worst possible thing happened. The summer had been particularly hot and dry and there had been little or no
+rain. High winds hit the area and some observers said that it was as if the forest exploded in front of the
+wind driven flames. The fire moved with such force that on September 1 it traveled approximately sixteen
+miles in nine hours, destroying over 55 thousand acres of land and about 10 million board feet of lumber. In
+the Pack River Valley the fire created its own winds causing an inferno known as a "fire storm." The winds
+were strong enough to snap large trees and enough heat was generated to split large granite boulders. Two
+thousand men fought the fire with shovels, bulldozers, and planes. Two firefighters died while trying to
+save a bulldozer and many others had narrow escapes. On September 2 the fire began to slow and the winds
+changed for the better. Eventually the rains came and the fire was controlled in mid September, but not
+before it had burned nearly fifty-six thousand acres of land and caused tremendous loss to cattle and
+wildlife. At the time the Sundance fire was called the most destructive fire in Idaho in 50 years. There
+were reports that an even more dangerous fire had been avoided. At the same time the Sundance fire was
+burning there was a second fire burning out of control about 30 miles north of Trapper Peak. There was also
+a third blaze on Caribou Creek that had been confined to 30 acres. If the Caribou Creek fire had gotten out
+of control the three fires would most likely have merged and much of North Idaho would not be the place of
+beauty it is today.

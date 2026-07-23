@@ -40,49 +40,34 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an
-emergency ocurrs, evaluate your circumstances and call only if needed.
-St.Regis Lakes are located in Montana SW of the Lookout Pass Ski Area. The trail starts at the old railroad's
-hairpin
-turn up the south side of the ski resort. If you don’t have a high clearance vehicle or 4 wheel drive, park
-near the
+info. if an emergency ocurrs, evaluate your circumstances and call only if needed. St.Regis Lakes are
+located in Montana SW of the Lookout Pass Ski Area. The trail starts at the old railroad's hairpin turn up
+the south side of the ski resort. If you don’t have a high clearance vehicle or 4 wheel drive, park near the
 south chairlift base. Walk the road west for about a mile to the official trailhead. Take Trail #267 south
-west up thru
-a canyon crossing the river three times before heading up to the lakes. At the second river crossing, the
-trail
-continues for a short distance, then bear right (west). At the trails third crossing of the river, the trail
-cuts up
-hill for about 400' to the lakes basin. The first lake you come to is actually the Upper St. Regis Lakes at
-5990' while
-the second lake is the lower lake at 5559'. There are several campsite around the lake. Follow the trail thru
-the woods
-to the right (west), and you will find the lower lake. To the west is the very scenic ridge between St. Regis
-Lakes and
-U & L Stevens Lakes, and also is the Idaho Montana boarder and the State Line Ridge
+west up thru a canyon crossing the river three times before heading up to the lakes. At the second river
+crossing, the trail continues for a short distance, then bear right (west). At the trails third crossing of
+the river, the trail cuts up hill for about 400' to the lakes basin. The first lake you come to is actually
+the Upper St. Regis Lakes at 5990' while the second lake is the lower lake at 5559'. There are several
+campsite around the lake. Follow the trail thru the woods to the right (west), and you will find the lower
+lake. To the west is the very scenic ridge between St. Regis Lakes and U & L Stevens Lakes, and also is the
+Idaho Montana boarder and the State Line Ridge
 
 ## Option #1
 
 From the top of Lookout Pass Ski Area, head SW along the treed ridge until it breaks out of the woods and
-becomes open
-and rocky. Up near the south wall, the ridge gets dicy. You may have to drop off the ridge to the east to get
-past some
-intense jagged rocks. Once at the back wall, you can drop down to the Lower St. Regis Lake and make this a
-loop hike of
-about a 9 miles.
-Be aware, the section on top of the ridge is very rugged and demands caution.
+becomes open and rocky. Up near the south wall, the ridge gets dicy. You may have to drop off the ridge to
+the east to get past some intense jagged rocks. Once at the back wall, you can drop down to the Lower St.
+Regis Lake and make this a loop hike of about a 9 miles. Be aware, the section on top of the ridge is very
+rugged and demands caution.
 
 ---
 
 ## Directions
 
-Drive I-90 east to the Idaho Montana boarder at Lookout Pass. Turn right (west) to the stop sign and turn left
-(south)
-onto a paved road (old railroad) downhill for .9 of a mile to a hairpin turn and turn right (west) for 1/10th
-of a mile
-to the trailhead.
-About .1 of a mile further is a primitive area for camping. From the upper campsite, there is a short steep
-climb to the
-road and to the chairlifts.
+Drive I-90 east to the Idaho Montana boarder at Lookout Pass. Turn right (west) to the stop sign and turn
+left (south) onto a paved road (old railroad) downhill for .9 of a mile to a hairpin turn and turn right
+(west) for 1/10th of a mile to the trailhead. About .1 of a mile further is a primitive area for camping.
+From the upper campsite, there is a short steep climb to the road and to the chairlifts.
 
 ## Hazards
 
@@ -127,5 +112,4 @@ stevens lakes
 ![Picture](assets/images/p304.png)
 
 Upper st. regis lake. the first lake you come to is the upper lake. stevens peak & just the corner of upper
-stevens lake
-on the right
+stevens lake on the right

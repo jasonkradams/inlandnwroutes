@@ -26,14 +26,13 @@ notes:
 
 # Anthony Lakes Mt Resort
 
-*Anthony lakes mountain resort   n. powder, or*
+*Anthony lakes mountain resort n. powder, or*
 
 ## of named runs: 21
 
 ## of lifts: 3
 
-Miles from spokane: 300 miles
-Other amenities: ???
+Miles from spokane: 300 miles Other amenities: ???
 
 ---
 

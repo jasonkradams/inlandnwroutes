@@ -32,20 +32,15 @@ stats:
 
 ## Description
 
-One of the most easily recognized native groundcovers in the Pacific Northwest, Stream Violets herald the end
-of spring
-with their yellow flowers. They are also known as Pioneer Violets in the native plant world.
+One of the most easily recognized native groundcovers in the Pacific Northwest, Stream Violets herald the
+end of spring with their yellow flowers. They are also known as Pioneer Violets in the native plant world.
 This native Northwest herbaceous groundcover spreads by scaly, fleshy rhizomes. The new foliage emerges each
-year very
-early (late March to early April) in the Pacific Northwest. Leaves are bright green, round or ovate and
-slightly
-toothed.
+year very early (late March to early April) in the Pacific Northwest. Leaves are bright green, round or
+ovate and slightly toothed.
 
 During the spring tiny (1/2" wide) bright yellow flowers emerge, which are held on short spurs above the
-foliage.
-Flowers feature form with distinctive black/purple whiskers on the lower petals. The lower petal forms a
-landing
-platform for insects seeking nectar within the spur.
+foliage. Flowers feature form with distinctive black/purple whiskers on the lower petals. The lower petal
+forms a landing platform for insects seeking nectar within the spur.
 
 The seeds of this plant are very fecund and one can end up with many plants in a short time
 

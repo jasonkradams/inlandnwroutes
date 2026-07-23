@@ -42,57 +42,50 @@ stats:
 ## Description
 
 Trail #262 starts on Road 889 and wondered up thru an old growth cedar forest for a little lees then a mile.
-Along the
-trail, you will hear 60' Dipper Falls below the trail on Ward Creek. When the flow is low, the falls take on
-the look of
-its name sake. Each column splashes off water to the next column, hence looking like a mass of ladles. See our
-WATERFALL
-section.
+Along the trail, you will hear 60' Dipper Falls below the trail on Ward Creek. When the flow is low, the
+falls take on the look of its name sake. Each column splashes off water to the next column, hence looking
+like a mass of ladles. See our WATERFALL section.
 
-Trail# 280 climbs for the last mile to Hub Lake. There is a good place to rest and have lunch at the west end
+Trail# 280 climbs for the last mile to Hub Lake. There is a good place to rest and have lunch at the west
+end
 
 (upper)of
 
 the lake. However, if you go in the Fall, the sun goes behind the mountains, and shades the NW shore.
 
 After lunch there is an old mine shaft (blocked) that you can go into for about 20 feet. If it’s a hot day,
-the shaft
-offers a cool place to chillout.
-Along the trail to the mine is the trail to the saddle between Ward and Eagle Peaks.
+the shaft offers a cool place to chillout. Along the trail to the mine is the trail to the saddle between
+Ward and Eagle Peaks.
 
 ## Option #1
 
 From the west shore line, there is an obvious trail that leads part way up Eagle Peak. Just off the lake, is
-an abandon
-mine shaft you can walk back into about 20’. If you continue up, this trail bears left and summits the trail
-saddle
-between Eagle and Ward Peaks. Which way you turn, you are sure to be pleased. Eagle Peak is on your right,
-while Ward
-Peak is on your left.
+an abandon mine shaft you can walk back into about 20’. If you continue up, this trail bears left and
+summits the trail saddle between Eagle and Ward Peaks. Which way you turn, you are sure to be pleased. Eagle
+Peak is on your right, while Ward Peak is on your left.
 
 ## Option #2
 
-As you head back down from Hub Lake, you can bear right to Hazel Lake. There is a short hikes to lakes rarely
-visited.
+As you head back down from Hub Lake, you can bear right to Hazel Lake. There is a short hikes to lakes
+rarely visited.
 
 ## Directions
 
-Head east on I-90 into Montana and exit on 26, Ward Creek Road. Head south up the Ward Creek Road #889 for 6.5
-miles to
-a trailhead just before Ward Creek and a left turn.
+Head east on I-90 into Montana and exit on 26, Ward Creek Road. Head south up the Ward Creek Road #889
+for 6.5 miles to a trailhead just before Ward Creek and a left turn.
 
-There is no west bound on ramp, so you have to drive east on I-90 to St. Regis to regain the west bound lane.
+There is no west bound on ramp, so you have to drive east on I-90 to St. Regis to regain the west bound
+lane.
 
 ## Hazards
 
-This trail is moderate with few hazards to speak of. Take care walking on the tree roots.
-The trail above Hub Lake is steep as it gets close to Hub Lake
+This trail is moderate with few hazards to speak of. Take care walking on the tree roots. The trail above
+Hub Lake is steep as it gets close to Hub Lake
 
 ## Cool things close by
 
 Ward & Eagle Peaks, Lookout Pass Ski Area, historic Wallace, The Pulaski Tunnel Trail, the Route of the
-Hiawatha,
-Glacier N.P. And the Cabinet Mountain Wilderness.
+Hiawatha, Glacier N.P. And the Cabinet Mountain Wilderness.
 
 ## R & P
 
@@ -108,9 +101,8 @@ Pizza Factory, 1313 Club, and Muchacho’s Tacos in Wallace, and the Radio Brewi
 
 ![Picture](assets/images/p524.png)
 
-Dipper falls along the trail to hub lake. in late summer and fall, the falls cascade off of each other. hence
-there are
-dozens of ladles, or dippers
+Dipper falls along the trail to hub lake. in late summer and fall, the falls cascade off of each other.
+hence there are dozens of ladles, or dippers
 
 ![Picture](assets/images/1082025752p.jpg)
 
@@ -156,5 +148,4 @@ herath
 ![Picture](assets/images/1082025820p.jpg)
 
 On the way down, the western red cedars are a delight. This is the largest, hence oldest cedar along the
-trail. This
-cedar was over 6' wide. image by chris herath
+trail. This cedar was over 6' wide. image by chris herath

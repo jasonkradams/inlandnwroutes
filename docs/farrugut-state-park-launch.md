@@ -26,24 +26,21 @@ stats:
 
 ## Description
 
-The Farragut State Park launch puts you out on the main body of the lake instantly. There are two lanes to the
-launch
-and ample parking above the launch, restrooms, and beaches on both sides of the launch for swimming.
-Because it’s a state park, there is a small fee to enter and use all the parks facilities. Including a
-swimming area,
-trails for hiking & Mt. Biking, and camping.
+The Farragut State Park launch puts you out on the main body of the lake instantly. There are two lanes to
+the launch and ample parking above the launch, restrooms, and beaches on both sides of the launch for
+swimming. Because it’s a state park, there is a small fee to enter and use all the parks facilities.
+Including a swimming area, trails for hiking & Mt. Biking, and camping.
 
 ## Attractions
 
-For more info on where to paddle, see the bayview launch write up.
-Outstanding paddling to Blackwell Point and Echo Bay. Idlewilde Bay, Buttonhook Bay, swimming area, and hiking
+For more info on where to paddle, see the bayview launch write up. Outstanding paddling to Blackwell Point
+and Echo Bay. Idlewilde Bay, Buttonhook Bay, swimming area, and hiking
 
 ## Directions
 
 From CDA drive north on 95 to Hwy 54 in Athol. Turn right (East) on 54 for 4 miles to the pay station. Once
-back on 54,
-in about 1/4 a mile turn right (East) onto the South Road. Continue past the swimming area turn off to the
-launch road.
+back on 54, in about 1/4 a mile turn right (East) onto the South Road. Continue past the swimming area turn
+off to the launch road.
 
 ## Cool things close by
 

@@ -27,11 +27,8 @@ stats:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an
-emergency ocurrs, evaluate your circumstances and call only if needed.
-Loon Lake is a heavily populated lake in Stevens County, next to the town of Loon Lake. Hence power boat
-traffic is also
-heavy.
+info. if an emergency ocurrs, evaluate your circumstances and call only if needed. Loon Lake is a heavily
+populated lake in Stevens County, next to the town of Loon Lake. Hence power boat traffic is also heavy.
 
 ## Attractions
 
@@ -40,10 +37,8 @@ NA
 ## Directions
 
 From Spokane, drive north on U.S.395 just over 5 miles from the town of Clayton, and turn left (W) onto Hwy
-292 for less
-then a mile and turn left onto Loon Lake-McVay Pit Road to McVay Road and turn right (W) rot where McVay
-becomes Shore
-Acres Road, then watch for the Loon Lake Public Access on your left (E).
+292 for less then a mile and turn left onto Loon Lake-McVay Pit Road to McVay Road and turn right (W) rot
+where McVay becomes Shore Acres Road, then watch for the Loon Lake Public Access on your left (E).
 
 ## Cool things close by
 

@@ -27,11 +27,8 @@ stats:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an
-emergency ocurrs, evaluate your circumstances and call only if needed.
-The Spokane River from the Nine Mile Falls Dam  to the Long Lake Dam, is about 21 miles, wonders thru some
-unique and
-scenic areas.
+info. if an emergency ocurrs, evaluate your circumstances and call only if needed. The Spokane River from
+the Nine Mile Falls Dam to the Long Lake Dam, is about 21 miles, wonders thru some unique and scenic areas.
 Near Tumtum are some climbing/scrambling rock to play on.
 
 ## Attractions
@@ -45,8 +42,7 @@ From the Nine Mile Falls Dam, drive north on Hwy 291 thru Suncrest towards Tumtu
 ## Cool things close by
 
 Nine Mile Falls Dam, the Spokane River, town of Tumtum, the McLellan Conservation Area, the Fisk State park,
-and
-climbing near Lake Spokane Campground.
+and climbing near Lake Spokane Campground.
 
 ## R & P
 

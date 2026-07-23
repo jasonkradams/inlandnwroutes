@@ -26,9 +26,8 @@ stats:
 
 ## Description
 
-The Garfield Bay Launch is located near the Garfield Bay Camp Ground.
-Once out of Garfield Bay, to the left is Mineral Point (Trail).
-To the right is Talache Landing.
+The Garfield Bay Launch is located near the Garfield Bay Camp Ground. Once out of Garfield Bay, to the left
+is Mineral Point (Trail). To the right is Talache Landing.
 
 ## Attractions
 
@@ -37,13 +36,12 @@ BIG water paddling, Mineral Point Hiking Trail, and Green Bay Boat Camp.
 ## Directions
 
 Drive north on 95 to Sagle and turn right (East) onto the Sagle Road, and drive about 7.5 miles, staying on
-Garfield Bay
-Road, to the launch
+Garfield Bay Road, to the launch
 
 ## Cool things close by
 
-Talache Landing, Shepherd Lake, and Mirror Lake. If the winds are up on P.O.Lake, these two small lakes are an
-option
+Talache Landing, Shepherd Lake, and Mirror Lake. If the winds are up on P.O.Lake, these two small lakes are
+an option
 
 ## R & P
 

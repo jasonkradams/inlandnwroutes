@@ -26,12 +26,9 @@ stats:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an
-emergency ocurrs, evaluate your circumstances and call only if needed.
-Booth Park is next to a private marina. As you drive over Lake CDA Drive’s road summit, look for an outhouse
-and road
-that drops down steeply with twisting turns to the launch. There is very limited parking here. And your truck
-& trailer
+info. if an emergency ocurrs, evaluate your circumstances and call only if needed. Booth Park is next to a
+private marina. As you drive over Lake CDA Drive’s road summit, look for an outhouse and road that drops
+down steeply with twisting turns to the launch. There is very limited parking here. And your truck & trailer
 should be short in able to turn around.
 
 ## Attractions
@@ -40,9 +37,8 @@ This boat launch faces SW and is open water to the entire north end of Lake CDA
 
 ## Directions
 
-From I-90 and The Sherman Street exit, continue straight thru the stoplight onto  Lake Coeur d'Alene scenic
-byway, past
-Yellowstone Road. The Boothe Park boat launch is about 6 miles on the right.
+From I-90 and The Sherman Street exit, continue straight thru the stoplight onto Lake Coeur d'Alene scenic
+byway, past Yellowstone Road. The Boothe Park boat launch is about 6 miles on the right.
 
 ## Cool things close by
 
@@ -61,7 +57,7 @@ Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&pol
 
 ## Photo gallery
 
-## Please everyone...heed this health alert
+## Please everyone... heed this health alert
 
 ![Picture](assets/images/5132025306p-2.jpg)
 

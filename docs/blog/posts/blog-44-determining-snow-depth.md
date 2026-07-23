@@ -17,18 +17,17 @@ This NOAA website shows the snow depth of any area you are interested in skiing 
 I haven’t done a lot of research on this website yet, but it promises to have more additional features to
 explore.
 
-For backcountry skiers, this website has a great deal of value.
-Now we can see the depth of snow at a given area, to make planning much easier and accurate.
+For backcountry skiers, this website has a great deal of value. Now we can see the depth of snow at a given
+area, to make planning much easier and accurate.
 
-If you use this NOAA website this winter in planning a trip, please let me know what features you used and how
-accurate
-you found this information.
+If you use this NOAA website this winter in planning a trip, please let me know what features you used and
+how accurate you found this information.
 
 I can be reached directly at info@inlandnwroutes.com
 
 Thank You for reading our local website on places all over our region to play in Nature.
 
-Chic Burge          David Crafton
+Chic Burge David Crafton
 
 InlandNWRoutes.com
 

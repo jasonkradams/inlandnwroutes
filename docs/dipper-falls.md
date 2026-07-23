@@ -26,23 +26,22 @@ stats:
 
 ## Description
 
-Trail #262 starts on Road 889 and wondered up thru an old growth cedar forest for a little over a mile to the
-junction
-with Hazel Lake. Just before the junction look for 60' Dipper Falls below the trail on Ward Creek.
+Trail #262 starts on Road 889 and wondered up thru an old growth cedar forest for a little over a mile to
+the junction with Hazel Lake. Just before the junction look for 60' Dipper Falls below the trail on Ward
+Creek.
 
 When the creek flow is low, the falls look like hundreds of Ladles (Dippers), one on top of another. Others
-times it
-roars down the ravine in a nice displaying trail side sound.
+times it roars down the ravine in a nice displaying trail side sound.
 
 ---
 
 ## Directions
 
-Head east on I-90 into Montana and exit on 26, Ward Creek Road. Head south up the Ward Creek Road #889 for 6.5
-miles to
-a trailhead just before Ward Creek and a left turn.
+Head east on I-90 into Montana and exit on 26, Ward Creek Road. Head south up the Ward Creek Road #889
+for 6.5 miles to a trailhead just before Ward Creek and a left turn.
 
-There is no west bound on ramp, so you have to drive east on I-90 to St. Regis to regain the west bound lane.
+There is no west bound on ramp, so you have to drive east on I-90 to St. Regis to regain the west bound
+lane.
 
 ---
 

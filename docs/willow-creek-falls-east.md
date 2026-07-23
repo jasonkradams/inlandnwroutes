@@ -29,45 +29,34 @@ stats:
 
 ## Description
 
-The description of these waterfalls are very complicated, but I'll do my best.
-In the Gallery below the falls will match the number in the description here.
-Starting at the trailhead and heading up stream towards L. & U. Stevens Lakes.
-The 1st falls up the trail are about 40' off the trail and are about a 3' Block type falls.
-The 2nd falls are a ways past the first and are only 40' off the trial.
-The 3rd falls are the best of the lower falls
-The 4rd falls are up in the clearing below the headwall, and drops about 20' in a Plunge type. On your hike to
-the
-lakes, you have to cross the falls to continue.
-The 5th falls is up past the first large switchback. It is actually two falls that descend thru a split in a
-huge rock.
-They are both Plunge types.
-The 6th and 7th falls are real close to each other and can be seen by dropping down to the 4th falls. They are
-Plunge
-type falls.
-Please be very careful here.
+The description of these waterfalls are very complicated, but I'll do my best. In the Gallery below the
+falls will match the number in the description here. Starting at the trailhead and heading up stream towards
+L. & U. Stevens Lakes. The 1st falls up the trail are about 40' off the trail and are about a 3' Block type
+falls. The 2nd falls are a ways past the first and are only 40' off the trial. The 3rd falls are the best of
+the lower falls The 4rd falls are up in the clearing below the headwall, and drops about 20' in a Plunge
+type. On your hike to the lakes, you have to cross the falls to continue. The 5th falls is up past the first
+large switchback. It is actually two falls that descend thru a split in a huge rock. They are both Plunge
+types. The 6th and 7th falls are real close to each other and can be seen by dropping down to the 4th falls.
+They are Plunge type falls. Please be very careful here.
 
 Below the trailhead are 3 more falls, but the area around them is too overgrown to get good images of.
 
 ## Directions
 
 Drive east on I-90 to Exit #69. At the stop sign turn left (N) over the freeway to the next stop sign, and
-turn right
-(E) onto
+turn right (E) onto
 
 Friday Ave. Continue past the Lucky Friday mine site to a "Y", and bear right. In a short distance, you will
-cross back
-over the freeway where you will be on Willow Creek Road. In a little over a  1 miles , the trailhead will be
-on your
-left. There is a pit toilet and picnic bench at the trailhead.
-The Stevens Lakes Trail #165, is on the left (E( side of the creek.
+cross back over the freeway where you will be on Willow Creek Road. In a little over a 1 miles , the
+trailhead will be on your left. There is a pit toilet and picnic bench at the trailhead. The Stevens Lakes
+Trail #165, is on the left (E( side of the creek.
 
 ---
 
 ## Cool things close by
 
 Lower & Upper Stevens Lakes, Stevens Peak 6838', Lone Lake & the Upper Sanctuary, St. Regis Lakes, Lookout
-Pass Ski
-Area, Route of the Hiawatha, Trail of the CDA, and the Shoshone County Park,
+Pass Ski Area, Route of the Hiawatha, Trail of the CDA, and the Shoshone County Park,
 
 ## Hazards
 
@@ -75,7 +64,7 @@ All waterfalls are a hazard, due to their slippery nature. always be extra caref
 
 ## R & P
 
-Muchackos Tacos Pizza Factory in Wallace.  Radio Brewery in Keellogg
+Muchackos Tacos Pizza Factory in Wallace. Radio Brewery in Keellogg
 
 ---
 

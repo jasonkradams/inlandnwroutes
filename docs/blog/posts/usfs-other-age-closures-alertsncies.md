@@ -11,36 +11,28 @@ categories:
 So you plan a hike to your favorite area.
 
 Once at the trailhead, you find the USFS has closed the area or restricted specific activities within the
-area.
-Do not blow this warning off.
-This is an excerpt from a current closure notice, listed in that Ranger District’s website ALERTS
+area. Do not blow this warning off. This is an excerpt from a current closure notice, listed in that Ranger
+District’s website ALERTS
 
 <!-- more -->
 
 ![Picture](../../assets/images/710202322.jpg)
 
-The USFS and other government agencies, post their closures and are serious about enforcement.
-However, a recent closure did not explain the reason for the closure.
-This may lead visitors to violate the closure.
-Do not take any chances when you see these closures.
-For this reason, David and I have created a section in each write up that shows you places near by that are
-good
-alternatives to your original hike/outing.
-It’s called "COOL THINGS CLOSE BY:"
-Please refer to this section if you find yourself unable to hike as planned.
-Which illustrates the need to call each Ranger District, several days before your trip.
-Ask about closures, fires, road conditions, so you can plan your trip accordingly.
-Current closures are listed below, on our HOME PAGE.
-And to be sure our readers get the message, I’ve listed any closures orders under the events opening image.
-This all came about a few years ago when we drove 2.5 hours north, only to find that Boundary County was
-replacing a
-bridge a mere 400’ from the turn off.
-We had to get back to 95 and access the frontage road via Copeland, which is near the U.S.- Canadian boarder.
+The USFS and other government agencies, post their closures and are serious about enforcement. However, a
+recent closure did not explain the reason for the closure. This may lead visitors to violate the closure. Do
+not take any chances when you see these closures. For this reason, David and I have created a section in
+each write up that shows you places near by that are good alternatives to your original hike/outing. It’s
+called "COOL THINGS CLOSE BY:" Please refer to this section if you find yourself unable to hike as planned.
+Which illustrates the need to call each Ranger District, several days before your trip. Ask about closures,
+fires, road conditions, so you can plan your trip accordingly. Current closures are listed below, on our
+HOME PAGE. And to be sure our readers get the message, I’ve listed any closures orders under the events
+opening image. This all came about a few years ago when we drove 2.5 hours north, only to find that Boundary
+County was replacing a bridge a mere 400’ from the turn off. We had to get back to 95 and access the
+frontage road via Copeland, which is near the U.S.- Canadian boarder.
 
-It set our hike back 1.5 hours.
-Please plan your trip days in advance, then check InlandNWRoutes.com, and the USFS for any Forest ALERTS.
-Thank you, for being our readers,
+It set our hike back 1.5 hours. Please plan your trip days in advance, then check InlandNWRoutes.com, and
+the USFS for any Forest ALERTS. Thank you, for being our readers,
 
 InlandNWRoutes.com
 
-Chic Burge       David Crafton
+Chic Burge David Crafton

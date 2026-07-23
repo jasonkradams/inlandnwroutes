@@ -4,10 +4,10 @@
 
 ### When starting a hike there often are kiosks with hiking info and a registration box
 
-BE SURE to register at each trailhead.
-The information is used to calculate the allotment of funds for trail preservation, building and maintenance.
-And just maybe by registering in case of a emergency it may be helpful to emergency personnel.
-Be sure to log onto appropriate agency listed below for forest alerts & notices.
+BE SURE to register at each trailhead. The information is used to calculate the allotment of funds for trail
+preservation, building and maintenance. And just maybe by registering in case of a emergency it may be
+helpful to emergency personnel. Be sure to log onto appropriate agency listed below for forest alerts &
+notices.
 
 ## Inland northwest national forest alerts & notices
 
@@ -19,7 +19,7 @@ Be sure to log onto appropriate agency listed below for forest alerts & notices.
 
 - Lolo national forest <https://www.fs.usda.gov/alerts/lolo/alerts-notices>.   406.329.3750
 
-- Nez perce-clearwater n.f.<https://www.fs.usda.gov/alerts/nezperceclearwater/alerts-notices>.   208.983.1950
+- Nez perce-clearwater n.f.<https://www.fs.usda.gov/alerts/nezperceclearwater/alerts-notices>. 208.983.1950
 
 - Flathead national forest <https://www.fs.usda.gov/alerts/flathead/alerts-notices>.   406.758.5208
 
@@ -90,13 +90,13 @@ Be sure to log onto appropriate agency listed below for forest alerts & notices.
 - Dishman Hills Conservancy — 509.926.7949, [dishmanhills.org](https://dishmanhills.org)
 
 - Mount Spokane State Park — 509.456.3964,
-  [parks.state.wa.us/549/mountspokane](https://parks.state.wa.us/549/mountspokane)
+[parks.state.wa.us/549/mountspokane](https://parks.state.wa.us/549/mountspokane)
 
 - Spokane County Parks — 509.456.4730,
-  [spokanecounty.org/1130/parks-recreation-golf](https://spokanecounty.org/1130/parks-recreation-golf)
+[spokanecounty.org/1130/parks-recreation-golf](https://spokanecounty.org/1130/parks-recreation-golf)
 
 - Riverside State Park — 509.456.5064,
-  [parks.state.wa.us/573/riverside](https://parks.state.wa.us/573/riverside)
+[parks.state.wa.us/573/riverside](https://parks.state.wa.us/573/riverside)
 
 **Idaho Department of Lands**
 
@@ -211,7 +211,7 @@ Be sure to log onto appropriate agency listed below for forest alerts & notices.
 - Montana Road Conditions — 800.226.7623, [mdt.mt.gov](https://mdt.mt.gov)
 
 - Washington Road Conditions — 800.695.7623,
-  [wsdot.com/traffic/trafficalerts](https://wsdot.com/traffic/trafficalerts)
+[wsdot.com/traffic/trafficalerts](https://wsdot.com/traffic/trafficalerts)
 
 ### Emergency & Support Lines
 

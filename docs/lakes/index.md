@@ -269,7 +269,7 @@
 - ![Image](../assets/images/img-0826.jpg)
 
 - ![Image](../assets/images/3312022852p-copy.jpg "LONE LAKE (L), WILLOW RIDGE (M), LOWER & UPPER STEVENS
-  LAKES")
+LAKES")
 
 </div>
 

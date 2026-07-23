@@ -24,26 +24,22 @@ stats:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an
-emergency ocurrs, evaluate your circumstances and call only if needed.
-The Blackwell Island launch has two launch lanes and plenty of parking.
-If paddling on the main body of the river during heavy boat use isn’t your thing, there is channel where the
-launch is.
-This channel allows you to access Cougar Bay and Lake CDA without power boats.
+info. if an emergency ocurrs, evaluate your circumstances and call only if needed. The Blackwell Island
+launch has two launch lanes and plenty of parking. If paddling on the main body of the river during heavy
+boat use isn’t your thing, there is channel where the launch is. This channel allows you to access Cougar
+Bay and Lake CDA without power boats.
 
 ## Attractions
 
-Cougar Bay, Casco Bay, The Nature Conservancy’s Cougar Bay and it’s hiking trail.
-Cougar Bay is the home to many Osprey and there young. Bring your binoculars to watch them up close.
-Cougar Bay is very shallow and fishing is really good there.
+Cougar Bay, Casco Bay, The Nature Conservancy’s Cougar Bay and it’s hiking trail. Cougar Bay is the home to
+many Osprey and there young. Bring your binoculars to watch them up close. Cougar Bay is very shallow and
+fishing is really good there.
 
 ## Directions
 
 Drive I-90 east to the CDA’s first exit, Northwest Boulevard. Head SW down Northwest Blvd for about a mile,
-and take the
-Hwy 95 exit. At the stop sign, turn right (west) over the Spokane River, and take the first right (NW) into
-the launch
-past the bridge.
+and take the Hwy 95 exit. At the stop sign, turn right (west) over the Spokane River, and take the first
+right (NW) into the launch past the bridge.
 
 ## Cool things close by
 
@@ -63,6 +59,6 @@ Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&pol
 
 ## Photo gallery
 
-## Please everyone...heed this health alert
+## Please everyone... heed this health alert
 
 ![Picture](assets/images/5132025306p-2.jpg)

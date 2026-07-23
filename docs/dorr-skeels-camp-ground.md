@@ -26,10 +26,8 @@ stats:
 
 ## Description
 
-The Dorr Skeel Camp Ground is located at the north end of Bull Lake. The Dorr Skeel C. G. is large, with many
-camp site,
-some on the shore line.
-The C. G. launch is located on the south end of the C.G.
+The Dorr Skeel Camp Ground is located at the north end of Bull Lake. The Dorr Skeel C. G. is large, with
+many camp site, some on the shore line. The C. G. launch is located on the south end of the C.G.
 
 ## Attractions
 

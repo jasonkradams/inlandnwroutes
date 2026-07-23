@@ -18,8 +18,7 @@ stats:
 ## Description
 
 Sayulita is a small fishing/surfing village just north of Puerto Vallarta. There is a fair number of expats
-living on
-Gringo Hill and along the coast so English is pretty well understood by most residents.
+living on Gringo Hill and along the coast so English is pretty well understood by most residents.
 
 ## Attractions
 
@@ -34,39 +33,33 @@ Surfing, Fishing, Trail Running, Hiking, Mountain/Fat Tire Biking, Birding
 - Craft Brewery to the west of the baseball field
 
 - Beer Pub across the creek from the sewer plant and discharge pipe has the best beer in town (Note: the
-  semi-treated
-  sewage discharges into the creek a hundred feet before it dumps onto the beach and into the ocean. I would
-not walk
-  through it)
+semi-treated sewage discharges into the creek a hundred feet before it dumps onto the beach and into the
+ocean. I would not walk through it)
 
 ## Directions
 
 From the PV airport take the pedestrian overpass east across the highway to the city bus stop and catch the
-city buss to
-Sayulita. It is entertaining to ride with the locals.
+city buss to Sayulita. It is entertaining to ride with the locals.
 
-In the upper left hand corner of the map below click on the right arrow -> to expand the clickable legend for
-waypoints
-to points of interest.
+In the upper left hand corner of the map below click on the right arrow -> to expand the clickable legend
+for waypoints to points of interest.
 
 ## Cool things close by
 
-Take the water taxi from PV to Jelapa for a short hike to a  water fall with a full bar, trail run through the
-jungle to
-San Poncho, take the bus north to Chacala
+Take the water taxi from PV to Jelapa for a short hike to a water fall with a full bar, trail run through
+the jungle to San Poncho, take the bus north to Chacala
 
 ## R & P
 
 - Eric's Bar Mirimar - He releases the turtles with you
 
 - Odette's "Chiles" and Margarita is pretty darn cool. She has an outdoor court yard and musicians regularly
-  play there.
+play there.
 
 - Sayulita Public House - Best beer in town that I could find
 
 - Villa Amor for a romantic lunch. You sit outdoors across the road from the establishment on the rock head
-  wall over
-  looking the bay and across the Pacific.
+wall over looking the bay and across the Pacific.
 
 ## Photo gallery
 
@@ -156,7 +149,8 @@ San Poncho, take the bus north to Chacala
 
 *Picture (Image missing)*
 
-San pancho is nicer than sayulita in some ways. plaza del sol was built as a vision that never came to reality
+San pancho is nicer than sayulita in some ways. plaza del sol was built as a vision that never came to
+reality
 
 ---
 

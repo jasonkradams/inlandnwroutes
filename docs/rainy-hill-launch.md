@@ -40,6 +40,6 @@ Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&pol
 
 ## Photo gallery
 
-## Please everyone...heed this health alert
+## Please everyone... heed this health alert
 
 ![Picture](assets/images/5132025306p-2.jpg)

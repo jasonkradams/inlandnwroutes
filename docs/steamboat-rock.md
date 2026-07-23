@@ -35,42 +35,35 @@ stats:
 
 ## Description
 
-When you turn off SH155 and drive about 12 miles, Steamboat Rock sticks up high and fills the horizon.
-The Rock has an area of about one square mile, and raises about 700 verts off the water.
-There is a parking area near the campgrounds.
-The hike up onto the Rock goes thru a gap in the east wall. Once on top follow the trail around the perimeter
-for
-maximum views. On the very north end, look for a Ponderosa Pine with the top lightninged off, below the rocks
-rim. From
-spring to late fall, there is an eagle family that lives on it.
+When you turn off SH155 and drive about 12 miles, Steamboat Rock sticks up high and fills the horizon. The
+Rock has an area of about one square mile, and raises about 700 verts off the water. There is a parking area
+near the campgrounds. The hike up onto the Rock goes thru a gap in the east wall. Once on top follow the
+trail around the perimeter for maximum views. On the very north end, look for a Ponderosa Pine with the top
+lightninged off, below the rocks rim. From spring to late fall, there is an eagle family that lives on it.
 Along the west shore line, observe the waters below you. A steam comes in below and colors the waters. Make
-your way
-back to the trail out, or continue off trail to the south around the rim, before heading back to the cars.
+your way back to the trail out, or continue off trail to the south around the rim, before heading back to
+the cars.
 
 ## Directions
 
-From Spokane drive west on Highway 2 to the junction with SH #155. Turn right (north) and drive about 14 miles
-to the
-state park.
+From Spokane drive west on Highway 2 to the junction with SH #155. Turn right (north) and drive about 14
+miles to the state park.
 
 ## Hazards
 
-The trail up onto the Rock is rough, as is the loop trail above.
-The obvious 800' side walls can be hazardous.
-Keep close eye on your kids and pets, near the edge.
+The trail up onto the Rock is rough, as is the loop trail above. The obvious 800' side walls can be
+hazardous. Keep close eye on your kids and pets, near the edge.
 
 There are safety shin guards you can buy to protect from snake bites.
 
 ## Cool things close by
 
 Northrup Canyon, Summer Falls, Lake Lenore Caves, and the Sun Lakes-Dry Falls State Park, Banks Lake, Banks
-Lake Trail
-NW.
+Lake Trail NW.
 
 ## R & P
 
-Harvest Restaurant,
-Lenny’s in Cheney
+Harvest Restaurant, Lenny’s in Cheney
 
 ---
 

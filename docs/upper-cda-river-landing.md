@@ -26,12 +26,10 @@ stats:
 
 ## Description
 
-Cda river. see map below for below locations.
-THESE LOCATIONS ARE IN SEQUENCE ACCORDING TO THE I.P.N.F BROCHURE CALLED, "FLOATING THE UPPER COEUR d’ALENE
-RIVER."
-The hour(s) after the landing are how long it takes to get to the next
-Access point, while paddling.
-At the end of each landing are words on parking & auto approximate drive miles between landings.
+Cda river. see map below for below locations. THESE LOCATIONS ARE IN SEQUENCE ACCORDING TO THE I.P.N.F
+BROCHURE CALLED, "FLOATING THE UPPER COEUR d’ALENE RIVER." The hour(s) after the landing are how long it
+takes to get to the next Access point, while paddling. At the end of each landing are words on parking &
+auto approximate drive miles between landings.
 
 ## 1. stone creek-swift creek bridge 1-1 1/2 hours. unimproved roadside parking. 3.5 miles drive
 
@@ -68,8 +66,7 @@ Rustic river float, swift but calmish waters. Solitude.
 ## Directions
 
 From Kingston, turn left over the freeway and up the CDA River Road to several put ins. Contact CDA River
-Ranger
-District in CDA or Smelterville
+Ranger District in CDA or Smelterville
 
 ## Cool things close by
 
@@ -86,7 +83,7 @@ Radio Brewery and Noah’s at Silver Mountain in Kellogg
 [Click for Current NOAA Weather
 Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
 
-## Please everyone...heed this health alert
+## Please everyone... heed this health alert
 
 ![Picture](assets/images/5132025306p-2.jpg)
 

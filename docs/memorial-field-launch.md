@@ -28,25 +28,20 @@ stats:
 
 ## Description
 
-The War Memorial Field is also named The Lakeview Park.
-There is a two lane ramp, with restrooms and plenty of parking.
-The views of the Long Bridge are to the SE
+The War Memorial Field is also named The Lakeview Park. There is a two lane ramp, with restrooms and plenty
+of parking. The views of the Long Bridge are to the SE
 
 ## Attractions
 
-Located between Sandpoint and Dover, this launch is in the Western end of Sandpoint.
-Easy access your the Long Bridge and Pend Orielle Lake just past the Long Bridge.
+Located between Sandpoint and Dover, this launch is in the Western end of Sandpoint. Easy access your the
+Long Bridge and Pend Orielle Lake just past the Long Bridge.
 
 ## Directions
 
 From Dover, drive east on Hwy 2 for about 2 miles and turn east onto Ontario Street. In .7 miles is the
-Lakeview Park.
-The launch is on the SE side of the park.
-From the Sandpoint exit off of 95, you will be on Superior. In a block, turn right (north) onto S. 1st Street.
-At Lake
-Street, turn left (west), and drive to Hwy 2. Turn left on Hwy 2 to S. Boyer Ave, where you turn left down to
-Lakeview
-Parkland
+Lakeview Park. The launch is on the SE side of the park. From the Sandpoint exit off of 95, you will be on
+Superior. In a block, turn right (north) onto S. 1st Street. At Lake Street, turn left (west), and drive to
+Hwy 2. Turn left on Hwy 2 to S. Boyer Ave, where you turn left down to Lakeview Parkland
 
 ## Cool things close by
 

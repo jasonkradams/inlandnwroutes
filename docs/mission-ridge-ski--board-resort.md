@@ -26,14 +26,13 @@ notes:
 
 # Mission Ridge Ski  Board Resort
 
-*Mission ridge ski & board resort    wenatchee, wa*
+*Mission ridge ski & board resort wenatchee, wa*
 
 ## of named runs: 36
 
 ## of lifts: 6
 
-Miles from spokane: 180 miles
-Other amenities: ???
+Miles from spokane: 180 miles Other amenities: ???
 
 ---
 

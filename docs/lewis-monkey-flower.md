@@ -45,57 +45,45 @@ stats:
 ## Description
 
 When Meriwether Lewis and William Clark’s Corps of Discovery started on their western trek to the Pacific
-Ocean in 1804,
-most of the plant species of western North America were still unknown to the scientific world. Although not
-formally
-trained as a botanist, Lewis had received some training from Dr. Benjamin Barton, the most prominent American
-botanist
-of the time. Lewis dutifully catalogued, collected, and dried hundreds of plant specimens along the route from
-St. Louis
-to Oregon and back. Sadly, a large number of collections from 1805 were destroyed when the cache they were
-buried in was
-flooded by the Missouri River. Other specimens that made it back to Washington and Philadelphia were
-apparently lost.
-Remarkably, at least 239 specimens have survived to the present day. Botanical historian Wayne Phillips
-believes these
-represent 175 plant species, most of which proved to be new to science.
-Among the species, Lewis and Clark first documented, was the brilliant pink, or reddish-purple flower Lewis’s
-monkeyflower (*Mimulus lewisii*). Frederick Pursh, the 19th Century botanist who identified most of the
-expedition’s
-collections, named the species in Lewis’s honor in an 1814 publication and included a handsome color print of
-the
-species, taken presumably from material gathered by Lewis (but apparently the actual specimen was among those
-that were
+Ocean in 1804, most of the plant species of western North America were still unknown to the scientific
+world. Although not formally trained as a botanist, Lewis had received some training from Dr. Benjamin
+Barton, the most prominent American botanist of the time. Lewis dutifully catalogued, collected, and dried
+hundreds of plant specimens along the route from St. Louis to Oregon and back. Sadly, a large number of
+collections from 1805 were destroyed when the cache they were buried in was flooded by the Missouri River.
+Other specimens that made it back to Washington and Philadelphia were apparently lost. Remarkably, at least
+239 specimens have survived to the present day. Botanical historian Wayne Phillips believes these represent
+175 plant species, most of which proved to be new to science. Among the species, Lewis and Clark first
+documented, was the brilliant pink, or reddish-purple flower Lewis’s monkeyflower (*Mimulus lewisii*).
+Frederick Pursh, the 19th Century botanist who identified most of the expedition’s collections, named the
+species in Lewis’s honor in an 1814 publication and included a handsome color print of the species, taken
+presumably from material gathered by Lewis (but apparently the actual specimen was among those that were
 lost). Based on their journals, the explorers encountered *Mimulus lewisii* "on the head springs of the
 
 Missouri
 
 [River], at the foot of Portage hill" a site that is interpreted by Phillips as the head of Trail Creek,
-Montana, just
-below Lemhi Pass.
+Montana, just below Lemhi Pass.
 
-Lewis’s monkeyflower is a tall perennial forb, reaching a height of 3½ feet. It occurs commonly along mountain
-streamsides, often among rocks and boulders, from southeastern Alaska to Alberta and south to California,
-Utah, and
-Colorado. The opposite leaves are distinctive in being sessile, coarsely toothed, and having prominent palmate
-veins.
-The flowers have 5 petals fused at the base into a short tube and flaring at the mouth into two weakly-defined
-lips. To
-Linnaeus, these lips had the appearance of a smile or grin, earning the genus its name *Mimulus* after *mimus*
+Lewis’s monkeyflower is a tall perennial forb, reaching a height of 3½ feet. It occurs commonly along
+mountain streamsides, often among rocks and boulders, from southeastern Alaska to Alberta and south to
+California, Utah, and Colorado. The opposite leaves are distinctive in being sessile, coarsely toothed, and
+having prominent palmate veins. The flowers have 5 petals fused at the base into a short tube and flaring at
+the mouth into two weakly-defined lips. To Linnaeus, these lips had the appearance of a smile or grin,
+earning the genus its name *Mimulus* after *mimus*
 
 for a
 
 grinning comic actor. The "smiling corolla" may also account for the common name of monkeyflower, for its
-fanciful
-resemblance to a grinning simian.
+fanciful resemblance to a grinning simian.
 
-Over 100 species of *Mimulus* occur worldwide, with nearly 70% native to California and even more centered in
+Over 100 species of *Mimulus* occur worldwide, with nearly 70% native to California and even more centered
+in
 
 the
 
 western United States. Most of these species are delicate annuals or have bright yellow flowers. Lewis’s
-monkeyflower is
-one of the easiest *Mimulus* species to recognize due to the combination of large, pink flowers and perennial
+monkeyflower is one of the easiest *Mimulus* species to recognize due to the combination of large, pink
+flowers and perennial
 
 growth
 

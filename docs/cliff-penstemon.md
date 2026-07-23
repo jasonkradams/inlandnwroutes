@@ -46,23 +46,18 @@ notes:
 location on
 
 rocky cliffs and ledges, often quite exposed and windy. The plant is a creeper, staying close to the ground,
-and its
-flower stalks rise just a few inches. Blooms are especially large and showy; each flower is 1.5 inches long -
-bigger
+and its flower stalks rise just a few inches. Blooms are especially large and showy; each flower is 1.5
+inches long - bigger
 
-than the leaves, tubular, with five lobes at the tip, two bent back upwards and three angled downwards. Inside
-are five
-white stamens, four of which have woolly anthers.
+than the leaves, tubular, with five lobes at the tip, two bent back upwards and three angled downwards.
+Inside are five white stamens, four of which have woolly anthers.
 
 Penstemon rupicola is a species of penstemon known by the common name cliff beardtongue. It is native to the
-west coast
-of the United States from Washington to the Klamath Mountains of far northern California, where it grows in
-rocky
-mountainous habitat. It is a clumpy, mat-forming subshrub growing no more than 14 centimeters high. The thick,
-waxy,
-oppositely arranged leaves are round or oval and up to 2 centimeters long. The showy wide-mouthed tubular
-flowers
-emerging from the mat may be nearly 4 centimeters in length and are shades of light purple to bright pink.
+west coast of the United States from Washington to the Klamath Mountains of far northern California, where
+it grows in rocky mountainous habitat. It is a clumpy, mat-forming subshrub growing no more than 14
+centimeters high. The thick, waxy, oppositely arranged leaves are round or oval and up to 2 centimeters
+long. The showy wide-mouthed tubular flowers emerging from the mat may be nearly 4 centimeters in length and
+are shades of light purple to bright pink.
 
 ---
 

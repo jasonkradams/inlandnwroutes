@@ -24,39 +24,28 @@ stats:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an
-emergency ocurrs, evaluate your circumstances and call only if needed.
-This "launch" is very primitive, but gets you into Cougar Bay fast and usually away from other boaters. From
-Hwy 95, the
-trail is about 300 feet down to the water. There are zero amenities, and okay to use for light kayaks and
-canoes.
-Once in the water, Cougar Bay is mostly on your right and due south. The bay is shallow, and has many very old
-pillings
-once used to hold log booms.
-One minus is the Hwy 95 that runs the entire north shore.
+info. if an emergency ocurrs, evaluate your circumstances and call only if needed. This "launch" is very
+primitive, but gets you into Cougar Bay fast and usually away from other boaters. From Hwy 95, the trail is
+about 300 feet down to the water. There are zero amenities, and okay to use for light kayaks and canoes.
+Once in the water, Cougar Bay is mostly on your right and due south. The bay is shallow, and has many very
+old pillings once used to hold log booms. One minus is the Hwy 95 that runs the entire north shore.
 
 ## Attractions
 
 One real cool thing about Cougar Bay, is there are few power boats that can float the shallow waters
 Another, extra cool thing about Cougar Bay, is the seasonal Osprey population. While paddling, you can see
-there raised
-nests, and the birds as they dive to hunt for fish. Cougar Bay is also a great spot for small boaters to fish.
-Along the southern shore is a trail built by the Cougar Bay Conservancy, that offers some places to fish and
-swim.
+there raised nests, and the birds as they dive to hunt for fish. Cougar Bay is also a great spot for small
+boaters to fish. Along the southern shore is a trail built by the Cougar Bay Conservancy, that offers some
+places to fish and swim.
 
 ## Directions
 
 From Northwest Blvd, take a right (westish) over the CDA River bridge on Hwy 95. It’s the same highway that
-leads to
-Moscow and Heyburn S.P.
-A little over 1.5 miles from the Hwy 95 bridge, there is a non descript pull off on the south side of the
-highway.
-PLEASE BE VERY CAREFUL CROSSING OVER TO THE PARKING AREA.
-Look for a simple gate to get you to the water. If you drive the W. cougar Bay Road, you have gone to far.
-However, if
-you continue about 1.3 miles on 95, the Cougar Bay Conservancy entrance is on your left (south). The shore
-line
-trailhead is located at the end of this turn off.
+leads to Moscow and Heyburn S.P. A little over 1.5 miles from the Hwy 95 bridge, there is a non descript
+pull off on the south side of the highway. PLEASE BE VERY CAREFUL CROSSING OVER TO THE PARKING AREA. Look
+for a simple gate to get you to the water. If you drive the W. cougar Bay Road, you have gone to far.
+However, if you continue about 1.3 miles on 95, the Cougar Bay Conservancy entrance is on your left (south).
+The shore line trailhead is located at the end of this turn off.
 
 ## Cool things close by
 
@@ -75,7 +64,7 @@ Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&pol
 
 ## Photo gallery
 
-## Please everyone...heed this health alert
+## Please everyone... heed this health alert
 
 ![Picture](assets/images/5132025306p-2.jpg)
 

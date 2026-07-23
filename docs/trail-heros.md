@@ -4,17 +4,14 @@
 
 ## Trail heros
 
-Below are a few of the trail heros in and around spokane & cda. The next time you see one of them, buy them a
-beer, then
-give them a hug. most of the heros you see here are members of the spokane mountaineers
+Below are a few of the trail heros in and around spokane & cda. The next time you see one of them, buy them
+a beer, then give them a hug. most of the heros you see here are members of the spokane mountaineers
 
-We as trail workers, would like to ask you to help us in our efforts to keep the wonderful places we play in,
-clean and
-hikeable. I carry many plastic grocery bags with me. Some i use to pick up the trash/litter and the others to
-collect
-and remove the trash, so i don’t have to touch the stuff. They also can be used to drown campfires. they have
-built in
-sprinklers. They only weigh 6 grams each. We thank you for your efforts in helping us
+We as trail workers, would like to ask you to help us in our efforts to keep the wonderful places we play
+in, clean and hikeable. I carry many plastic grocery bags with me. Some i use to pick up the trash/litter
+and the others to collect and remove the trash, so i don’t have to touch the stuff. They also can be used to
+drown campfires. they have built in sprinklers. They only weigh 6 grams each. We thank you for your efforts
+in helping us
 
 ---
 
@@ -91,26 +88,23 @@ _AFTER BUILDING A NEW TRAIL AT THE NEWMAN LAKE CONSERVATION FUTURES PROPERTY. TH
 
 ![Image](assets/images/dsc-0162-copy.jpg)
 
-Below are three of the  "most valuable players" In trail building, maintenance, and awareness in our region.
-From all of
-us here at inlandnwroutes, thank you all, very much
+Below are three of the "most valuable players" In trail building, maintenance, and awareness in our region.
+From all of us here at inlandnwroutes, thank you all, very much
 
 ![Picture](assets/images/232022905p.jpg)
 
-Rich landers is thee super trail hero extrodanaire. for decades, rich has enriched all of our lives by showing
-us the
-many places to play in our region. rich was the outdoor editor at the spokaesman-review for decades thank you,
-rich
+Rich landers is thee super trail hero extrodanaire. for decades, rich has enriched all of our lives by
+showing us the many places to play in our region. rich was the outdoor editor at the spokaesman-review for
+decades thank you, rich
 
 ![Picture](assets/images/122222021431p.jpg)
 
 In our region, there has never been a person more involved in trail building and maintenance, then holly
-weiler. Holly
-is the super trail hero for the spokane mountaineers, And the washington trails association. thank you, holly
+weiler. Holly is the super trail hero for the spokane mountaineers, And the washington trails association.
+thank you, holly
 
 ![Picture](assets/images/2320221000p.jpg)
 
-Super trail hero, lynn smith, at lone lake after a trail maintenance day. Lynn's work building, rebuilding and
-maintaining trails all over our region, has made him an icon both in the spokane mountaineers, wta, and to all
-of us
-that use our trails thank you, lynn
+Super trail hero, lynn smith, at lone lake after a trail maintenance day. Lynn's work building, rebuilding
+and maintaining trails all over our region, has made him an icon both in the spokane mountaineers, wta, and
+to all of us that use our trails thank you, lynn

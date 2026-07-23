@@ -54,8 +54,7 @@ stats:
 ## Description
 
 This pretty yellow flower was spotted along side Lower Stevens Lake. Its an early spring bloomer in May thru
-July.
-Notice the plants meaty leaves. Later in the season, they are all you see.
+July. Notice the plants meaty leaves. Later in the season, they are all you see.
 
 ---
 

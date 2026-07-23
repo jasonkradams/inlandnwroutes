@@ -40,40 +40,31 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an
-emergency ocurrs, evaluate your circumstances and call only if needed.
-The trail starts out in a forest of old growth Larch, younger Lodgepole Pine and Douglas Fir. As you climb
-higher, the
-views of the Myrtle Creek drainage is to the SW. After the switchbacks the trail leads you back to the ridge
-where the
+info. if an emergency ocurrs, evaluate your circumstances and call only if needed. The trail starts out in a
+forest of old growth Larch, younger Lodgepole Pine and Douglas Fir. As you climb higher, the views of the
+Myrtle Creek drainage is to the SW. After the switchbacks the trail leads you back to the ridge where the
 trail opens up. As the trail opens up, there are views of the old lookout cabin high above. In the fall, the
-grasses
-that grow around the trail turn yellow and frame the path to the old lookout cabin above. Once at the cabin,
-walk around
-it and check out the different weathering of the wood on all 4 sides. If you are looking for a good lunch spot
-out of
-the wind, continue further up the Cascade Ridge to the next summit. Off to the right (north) and down off the
-summit is
-a bench for lunch, out of the wind.
+grasses that grow around the trail turn yellow and frame the path to the old lookout cabin above. Once at
+the cabin, walk around it and check out the different weathering of the wood on all 4 sides. If you are
+looking for a good lunch spot out of the wind, continue further up the Cascade Ridge to the next summit. Off
+to the right (north) and down off the summit is a bench for lunch, out of the wind.
 
 ## Options #1
 
-From the old lookout cabin, there are two more summits further west up the Cascade Range. If the winds are up,
-there is
-a place on the north side of the second summit on the ridge to eat.
-Further west is another summit that is a good spot to view the Selkirks from the east.
+From the old lookout cabin, there are two more summits further west up the Cascade Range. If the winds are
+up, there is a place on the north side of the second summit on the ridge to eat. Further west is another
+summit that is a good spot to view the Selkirks from the east.
 
 ## Directions
 
 From the Kootenai National Wildlife Refuge, drive 1.3 miles to the Myrtle Creek Road #633, and turn left
-(west) for 2
-miles to the junction with FR #2411. Turn right for 6.3 miles to another junction . Turn left (SW) onto FR
+(west) for 2 miles to the junction with FR #2411. Turn right for 6.3 miles to another junction . Turn left
+(SW) onto FR
 #2692 for 1.5
 miles to the trailhead.
 
 Along the roads up, pull over to each sharp switchback for incredible views of the Purcell Trench, the
-Kootenai National
-Wildlife Refuge, and the Northwest Peaks Scenic Area, across the historic Purcell Trench.
+Kootenai National Wildlife Refuge, and the Northwest Peaks Scenic Area, across the historic Purcell Trench.
 
 ## Hazards
 
@@ -82,8 +73,7 @@ None of note.
 ## Cool things close by
 
 Kootenai National Wildlife Refuge, Myrtle Falls, Snow Creek Falls, the Myrtle Creek Preserve, and Bonners
-Ferry, Idaho &
-the Purcell Trench.
+Ferry, Idaho & the Purcell Trench.
 
 ## R & P
 
@@ -127,4 +117,4 @@ Jalapeños, Eichardts, Burger Express, Mr. Sub! All in Sandpoint
 
 ## Cascade ridge from pyramid peak trail
 
-Live simply. Love carefully. Exist lightly. Speak well of others. Play often.          chic    2012
+Live simply. Love carefully. Exist lightly. Speak well of others. Play often. chic 2012

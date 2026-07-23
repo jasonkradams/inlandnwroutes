@@ -39,72 +39,51 @@ notes:
 
 !!! warning "Before you go"
 
-    Fyi.....the bunco road to north chilco is closed to all visitors until roctober 9, 2025. a logging
-operation is
-scheduled, but can be rescinded early. Check out the usfs alerts below for additional info. this closure does
-not affect
-south chilco via forest road #406
+Fyi.....the bunco road to north chilco is closed to all visitors until roctober 9, 2025. a logging operation
+is scheduled, but can be rescinded early. Check out the usfs alerts below for additional info. this closure
+does not affect south chilco via forest road #406
 
 *north and south chilco peak national recreation trail #14*
 
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an
-emergency ocurrs, evaluate your circumstances and call only if needed.
-No matter which route you choose, in the fall when the Larch are turning bright yellow, don’t miss the golden
-views from
-either summit.
+info. if an emergency ocurrs, evaluate your circumstances and call only if needed. No matter which route you
+choose, in the fall when the Larch are turning bright yellow, don’t miss the golden views from either
+summit.
 
-North Trail
-The trail heads SW from the intersection of FR 332 & FR 385, hike the switchbacks for about 1.8 miles to along
-the ridge
-north of the summit. Bear left and take in the views to the west. Once back on the trail you will come to a
-sign
-indicating the south trail to the right. Stay left to the summit of N. Chilco. On top is the remains of an old
-fire
-lookout from late 40's to the late 50's.
-From here if you wish to extend your hike over to South Chilco, head due south from N. Chilco summit and look
-for a
-faint trail that eventually meets up with Trail 14 on the Chilco Saddle.
-From here, Trail #14 meanders along the saddle thru a nice forest before climbing to South Chilco 5661'.
+North Trail The trail heads SW from the intersection of FR 332 & FR 385, hike the switchbacks for about 1.8
+miles to along the ridge north of the summit. Bear left and take in the views to the west. Once back on the
+trail you will come to a sign indicating the south trail to the right. Stay left to the summit of N. Chilco.
+On top is the remains of an old fire lookout from late 40's to the late 50's. From here if you wish to
+extend your hike over to South Chilco, head due south from N. Chilco summit and look for a faint trail that
+eventually meets up with Trail 14 on the Chilco Saddle. From here, Trail #14 meanders along the saddle thru
+a nice forest before climbing to South Chilco 5661'.
 
-On the main trail to South Chilco bear right at the sign before the N. Chilco spur trail. It is about another 3.6 miles
-to S. Chilco.
+On the main trail to South Chilco bear right at the sign before the N. Chilco spur trail. It is about
+another 3.6 miles to S. Chilco.
 
-South Trail
-From the trailhead on FR #406, hike north about 1.5 miles to S. Chilco. You can extend your hike to N. Chilco
-by staying
-on trail 14 for about 3.6 miles
+South Trail From the trailhead on FR #406, hike north about 1.5 miles to S. Chilco. You can extend your hike
+to N. Chilco by staying on trail 14 for about 3.6 miles
 
 ## Option #1
 
-As you leave the summit of N. Chilco heading north back to your car, stay on the west side of the trail along
-the ridge.
-It will afford you views to the west for about .25 miles. As the ridge starts to drop, take a right off the
-ridge and
-chicwack down to Trail #14, back to the cars.
+As you leave the summit of N. Chilco heading north back to your car, stay on the west side of the trail
+along the ridge. It will afford you views to the west for about .25 miles. As the ridge starts to drop, take
+a right off the ridge and chicwack down to Trail #14, back to the cars.
 
 ## Directions
 
-North
-Drive north on 95 to the Silverwood exit and go right (east) on Bunco Road. From 95 drive for about 2.3 miles
-to a sharp
-left (north) turn for 1 mile. The road turns right (east) for about 3.5 miles to the ORV parking area. (There
-is an
-outhouse here)
-FR 332 heads east for about 7.5 miles to the junction with FR 385. The trailhead S on the SW corner of this
-junction.
-The trail has a concrete barrier a short way up the trail.
+North Drive north on 95 to the Silverwood exit and go right (east) on Bunco Road. From 95 drive for
+about 2.3 miles to a sharp left (north) turn for 1 mile. The road turns right (east) for about 3.5 miles to the
+ORV parking area. (There is an outhouse here) FR 332 heads east for about 7.5 miles to the junction with
+FR 385. The trailhead S on the SW corner of this junction. The trail has a concrete barrier a short way up the
+trail.
 
-South
-From I-90 drive north on 95 for 10 miles to Ohio Match Road. Turn right (east) and drive 3 miles and bear left
-at the
-junction with Tree Farm Lane and continue on FR #206. In 4 miles turn left ( north) at a "T" onto FR #437 next
-to East
-Fork Hayden Creek. In 7 more miles look for FR #406 near a transmitting tower. Turn left onto 406 for about 1
-mile to
-the trailhead.
+South From I-90 drive north on 95 for 10 miles to Ohio Match Road. Turn right (east) and drive 3 miles and
+bear left at the junction with Tree Farm Lane and continue on FR #206. In 4 miles turn left ( north) at a
+"T" onto FR #437 next to East Fork Hayden Creek. In 7 more miles look for FR #406 near a transmitting tower.
+Turn left onto 406 for about 1 mile to the trailhead.
 
 ---
 
@@ -180,7 +159,8 @@ from the spokane mountaineers archive
 
 *Picture (Image missing)*
 
-Consider walking the ridge north of n. chilco. its trail skirts the west side of the ridge for about .5 miles.
+Consider walking the ridge north of n. chilco. its trail skirts the west side of the ridge for about .5
+miles.
 
 silverwood sit near the water tower left of center
 
@@ -197,8 +177,7 @@ silverwood sit near the water tower left of center
 ![Picture](assets/images/1202022308p.jpg)
 
 From chair 5 at silver mt., the chilco's are directly above the lift tower on the horizon. I never realized
-that south
-chilco was so massive
+that south chilco was so massive
 
-Wondering the mountains takes us on a path thru our soul. While a path thru our soul takes us to new heights.
-New heights expand our love of wandering.                                                                chic. 7.29.11
+Wondering the mountains takes us on a path thru our soul. While a path thru our soul takes us to new
+heights. New heights expand our love of wandering. chic. 7.29.11

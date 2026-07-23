@@ -46,50 +46,33 @@ stats:
 ## Description
 
 Phlox speciosa is a species of phlox known by the common name showy phlox. It is native to western North
-America from
-British Columbia to Arizona and New Mexico, where it occurs in sagebrush, pine woodlands, and mountain
-forests. It is an
-erect perennial herb with a shrubby base growing up to about 40 centimeters tall. The leaves are linear or
-lance-shaped,
-oppositely arranged, and generally glandular. The inflorescence bears one or more white to pink flowers with
-elongated
-tubular throats each up to about 1. 5 centimeters long. The corolla has five double-lobed, notched, or
-heart-shaped
-lobes. There are several subspecies, most being limited to certain sections of the plant's overall
-distribution. Phlox
-speciosahas an erect stem. Leaves are between 1-5 cm and lance-linear. Terminal inflorescence with leaf like
-bracts
-below; pedicel 3-20 mm and slender. The calyx is 7-10 mm, membrane not keeled; corolla bright pink to white,
-tube 10-15
-mm, lobes obcordate to deeply 2-lobed; stamens short, anthers in corolla tube; style 0. 4-2 mm, stigmas >
-style. Rocky,
-wooded slopes, sagebrush scrub; 500-2400 m. Several subspecies named, study needed. Flowers Apr- Jun.
+America from British Columbia to Arizona and New Mexico, where it occurs in sagebrush, pine woodlands, and
+mountain forests. It is an erect perennial herb with a shrubby base growing up to about 40 centimeters tall.
+The leaves are linear or lance-shaped, oppositely arranged, and generally glandular. The inflorescence bears
+one or more white to pink flowers with elongated tubular throats each up to about 1. 5 centimeters long. The
+corolla has five double-lobed, notched, or heart-shaped lobes. There are several subspecies, most being
+limited to certain sections of the plant's overall distribution. Phlox speciosahas an erect stem. Leaves are
+between 1-5 cm and lance-linear. Terminal inflorescence with leaf like bracts below; pedicel 3-20 mm and
+slender. The calyx is 7-10 mm, membrane not keeled; corolla bright pink to white, tube 10-15 mm, lobes
+obcordate to deeply 2-lobed; stamens short, anthers in corolla tube; style 0. 4-2 mm, stigmas > style.
+Rocky, wooded slopes, sagebrush scrub; 500-2400 m. Several subspecies named, study needed. Flowers Apr- Jun.
 
 Occurrences in
 
 Oregon. Phlox speciosa is a widely distributed plant which occurs at many Serpentine sites throughout the
-western United
-States. In southern Oregon specifically, P. speciosa has been known to co-occur with Darlingtonia californica
-the Eight
-Dollar Mountain Botanical Wayside, managed by the BLM (Medford District. ) Additionally, this plant is known
-to occur in
-the Deer Creek Center near Selma, Oregon.
+western United States. In southern Oregon specifically, P. speciosa has been known to co-occur with
+Darlingtonia californica the Eight Dollar Mountain Botanical Wayside, managed by the BLM (Medford District.
+) Additionally, this plant is known to occur in the Deer Creek Center near Selma, Oregon.
 
 Erect branched stems. Leaves opposite, linear, with pointed tip, few hairs and glands on top surface, smooth
-below.
-Flower head at top, loose, flowers solitary, with 1/2–2 in. stalks. Flowers pink or sometimes white, with
-lighter or
-darker central rings; tube about twice as long as deeply notched heart-shaped petals. Grows in open rocky
-soils,
-shrub-steppe, grasslands, lightly wooded areas, at low to mid elevations.
+below. Flower head at top, loose, flowers solitary, with 1/2–2 in. stalks. Flowers pink or sometimes white,
+with lighter or darker central rings; tube about twice as long as deeply notched heart-shaped petals. Grows
+in open rocky soils, shrub-steppe, grasslands, lightly wooded areas, at low to mid elevations.
 
 Purple, bright pink, or white, with white throats and 5 notched petals with 2 rounded lobes at each tip,
-corolla tubes
-10-15 mm long, the lobes obcordate to deeply 2-lobed, calyx 7-10 mm long, (membrane not keeled), stamens
-short, anthers
-within the corolla tube, styles to 2 mm long, stigmas larger than the styles, inflorescences dense, terminal,
-with
-leaf-like bracts below, pedicels slender, 3-20 mm long.
+corolla tubes 10-15 mm long, the lobes obcordate to deeply 2-lobed, calyx 7-10 mm long, (membrane not
+keeled), stamens short, anthers within the corolla tube, styles to 2 mm long, stigmas larger than the
+styles, inflorescences dense, terminal, with leaf-like bracts below, pedicels slender, 3-20 mm long.
 
 ---
 

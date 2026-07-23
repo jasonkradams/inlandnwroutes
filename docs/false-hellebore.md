@@ -43,23 +43,16 @@ stats:
 
 ## Description
 
-False hellebore, or veratrum (sometimes called wild corn or cow cabbage), is a range plant that causes severe
-poisoning
-in sheep. It also affects cattle and goats. If ewes, nanny goats, and cows eat it during early pregnancy,
-false
-hellebore causes deformities in the offspring. Sheep and goats readily eat leaves and plant tops. Cattle may
-eat it if
-other forage is scarce.
-False hellebore is poisonous from the time it starts to grow until after it is killed by freezing, but
-toxicity
-decreases as plants mature. The roots are 5 to 10 times as poisonous as leaves or stems. The poisonous
-substances in
-false hellebore are steroidal alkaloids. False hellebore grows in damp or seepage areas, on meadows, and on
-hillsides.
-The plant reaches a height of 1.5 to 2 meters. It is a robust perennial of the lily family.
-Leaves of false hellebore may measure 20 to 30 cm long and 7 to 15 cm broad. Cream-colored flowers grow in
-clusters at
-the top of a single unbranched stalk in a way that resembles corn. Seed pods turn black as they ripen.
+False hellebore, or veratrum (sometimes called wild corn or cow cabbage), is a range plant that causes
+severe poisoning in sheep. It also affects cattle and goats. If ewes, nanny goats, and cows eat it during
+early pregnancy, false hellebore causes deformities in the offspring. Sheep and goats readily eat leaves and
+plant tops. Cattle may eat it if other forage is scarce. False hellebore is poisonous from the time it
+starts to grow until after it is killed by freezing, but toxicity decreases as plants mature. The roots are
+5 to 10 times as poisonous as leaves or stems. The poisonous substances in false hellebore are steroidal
+alkaloids. False hellebore grows in damp or seepage areas, on meadows, and on hillsides. The plant reaches a
+height of 1.5 to 2 meters. It is a robust perennial of the lily family. Leaves of false hellebore may
+measure 20 to 30 cm long and 7 to 15 cm broad. Cream-colored flowers grow in clusters at the top of a single
+unbranched stalk in a way that resembles corn. Seed pods turn black as they ripen.
 
 ---
 

@@ -6,7 +6,7 @@
 
 ---
 
-Winter hiking around spokane Click on hike.....washington....spokane county parks...then go to spokane
+Winter hiking around spokane Click on hike.....washington....spokane county parks... then go to spokane
 
 conservation
 
@@ -16,9 +16,8 @@ winter, get out
 
 and enjoy the season. Check out our "resources" for ways to stay safe & warm
 
-If you are planning to launch at the clark fork delta or near it, please call 208.769.1414 before you drive up
-there.
-they are doing restoration work. and some areas are closed. only johnson creek launch is open
+If you are planning to launch at the clark fork delta or near it, please call 208.769.1414 before you drive
+up there. they are doing restoration work. and some areas are closed. only johnson creek launch is open
 
 ## For a great read, go to "writings" Then to "essay" And read the first entry
 
@@ -26,8 +25,7 @@ they are doing restoration work. and some areas are closed. only johnson creek l
 
 ## Alerts & notices
 
-Please, if you get anything from this website,
-Call the appropriate ranger district
-before you go, for road and fire closures.
+Please, if you get anything from this website, Call the appropriate ranger district before you go, for road
+and fire closures.
 
 ---

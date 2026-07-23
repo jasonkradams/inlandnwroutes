@@ -56,22 +56,21 @@ stats:
 
 flowering
 
-plants in the [daisy family](https://en.wikipedia.org/wiki/Asteraceae)known by the common name **dwarf yellow
-fleabane.** It is found in the [western United States](https://en.wikipedia.org/wiki/Western_United_States):
+plants in the [daisy family](https://en.wikipedia.org/wiki/Asteraceae)known by the common name **dwarf
+yellow fleabane.** It is found in the [western United
+States](https://en.wikipedia.org/wiki/Western_United_States):
 
 southeastern [Washington](https://en.wikipedia.org/wiki/Washington_(state)),
 [Oregon](https://en.wikipedia.org/wiki/Oregon), extreme northern
-[California](https://en.wikipedia.org/wiki/California),
-northern [Nevada](https://en.wikipedia.org/wiki/Nevada), [Idaho](https://en.wikipedia.org/wiki/Idaho).
-*Erigeron chrysopsidis* is a very small [perennial](https://en.wikipedia.org/wiki/Perennial_plant) herb up to
+[California](https://en.wikipedia.org/wiki/California), northern
+[Nevada](https://en.wikipedia.org/wiki/Nevada), [Idaho](https://en.wikipedia.org/wiki/Idaho). *Erigeron
+chrysopsidis* is a very small [perennial](https://en.wikipedia.org/wiki/Perennial_plant) herb up to
 
 15 cm (8
 
-inches) tall, forming a [taproot](https://en.wikipedia.org/wiki/Taproot). Most of the leaves are low and close
-to the
-ground. Each stem produces only one [flower head](https://en.wikipedia.org/wiki/Flower_head), with 20-60
-yellow [ray
-florets](https://en.wikipedia.org/wiki/Ray_florets) plus numerous yellow [disc
+inches) tall, forming a [taproot](https://en.wikipedia.org/wiki/Taproot). Most of the leaves are low and
+close to the ground. Each stem produces only one [flower head](https://en.wikipedia.org/wiki/Flower_head),
+with 20-60 yellow [ray florets](https://en.wikipedia.org/wiki/Ray_florets) plus numerous yellow [disc
 florets](https://en.wikipedia.org/wiki/Disc_floret).
 
 ---

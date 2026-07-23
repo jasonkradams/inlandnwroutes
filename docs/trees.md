@@ -6,12 +6,10 @@
 
 ### Treespnw
 
-I have spent my life trying, unsuccessfully to identify trees I see on my hikes.
-A year or so ago, I stumbled on a resource that makes identification easy.
-TREESPNW is not an app, but rather a download to your phone that is accessible anywhere you hike.
- Even without cell coverage.
-It is the only method of identification that I've found, that works for me.
-Search the App Store to download this free service.
+I have spent my life trying, unsuccessfully to identify trees I see on my hikes. A year or so ago, I
+stumbled on a resource that makes identification easy. TREESPNW is not an app, but rather a download to your
+phone that is accessible anywhere you hike. Even without cell coverage. It is the only method of
+identification that I've found, that works for me. Search the App Store to download this free service.
 
 ## Click on the image to enlarge
 

@@ -41,19 +41,19 @@ notes:
 
 ## Description
 
-Hanging valley
-From the Sky Lakes- Hanging Valley trailhead # 137 on F.R.128, hike SW for about 1.5 miles and cross into the
+Hanging valley From the Sky Lakes- Hanging Valley trailhead # 137 on F.R.128, hike SW for about 1.5 miles
+and cross into the
 
 wilderness. In about .3 of a mile, Trail #135 splits off to the left (south) to Hanging Valley.
 
 Hike another 1.8 miles and notice Treasure Mountain towering above. The lakes of Hanging Valley sit below to
 the west.
 
-Sky lakes
-From the Sky Lakes- Hanging Valley trailhead # 137 on F.R.128, hike SW for about 1.5 miles and cross into the
+Sky lakes From the Sky Lakes- Hanging Valley trailhead # 137 on F.R.128, hike SW for about 1.5 miles and
+cross into the
 
-wilderness. In about .3 of a mile Trail #137 continues to the right. In 3 miles you will come to the junction
-with Trail
+wilderness. In about .3 of a mile Trail #137 continues to the right. In 3 miles you will come to the
+junction with Trail
 #360. Bear left (south) for about a mile, You are at the Lower Sky Lake.
 
 ---
@@ -61,33 +61,29 @@ with Trail
 ## Option #1
 
 To extend your trip, you can access the ridge to the south of Sky Lakes and walk east and drop down to the
-Hanging
-Valley Lake, where there is a very primitive Trail #135 back to Trial #137, and to the parking area.
+Hanging Valley Lake, where there is a very primitive Trail #135 back to Trial #137, and to the parking area.
 
-PLEASE BE AWARE...this route above Sky Lake to Hanging Valley, is rugged, off trail, and Trail #135 is tough.
+PLEASE BE AWARE... this route above Sky Lake to Hanging Valley, is rugged, off trail, and Trail #135 is
+tough.
 
 ## Directions
 
 A half a mile south of Libby, turn right (west) off of Hwy 2 onto Shaughnessy Hill Road. At the top of the
-hill go south
-.5 miles to Flower Creek Road #128 and turn west. Drive 6 miles to the trailhead
+hill go south .5 miles to Flower Creek Road #128 and turn west. Drive 6 miles to the trailhead
 
 ## Hazards
 
-Many creek crossings.
-Trail #135 is steep and rugged, with a poorly maintained trail.
+Many creek crossings. Trail #135 is steep and rugged, with a poorly maintained trail.
 
 ## Cool things close by
 
 Ross Creek Cedars, Cedar Lakes, Dome Mountain, Kootenai Falls, the Proposed Scotchman Peaks Wilderness,
-Granite Lake,
-and Leigh Lake.
+Granite Lake, and Leigh Lake.
 
 ## R & P
 
 Henry’s, Pizza Hut, The Shed, Rosaeurs in Libby. Clark Fork Pantry & Squeeze Inn in Clark Fork. Eicharts, Mr
-Sub, Burger
-Express, Jalapeños in Sandpoint
+Sub, Burger Express, Jalapeños in Sandpoint
 
 *Picture (Image missing)*
 

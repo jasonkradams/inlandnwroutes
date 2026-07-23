@@ -29,8 +29,7 @@ stats:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an
-emergency ocurrs, evaluate your circumstances and call only if needed.
+info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
 
 ## Attractions
 

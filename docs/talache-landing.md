@@ -25,10 +25,8 @@ stats:
 ## Description
 
 Talache Landing is located on the west side of P.O. Lake east of a Sagle, Idaho. The beach is about 200 feet
-long and
-offers swimming and non trailer boat launching.
-The launch area is located past some houses, so please be quiet and respectful.
-All property around the beach are privately owned, so please be respectful.
+long and offers swimming and non trailer boat launching. The launch area is located past some houses, so
+please be quiet and respectful. All property around the beach are privately owned, so please be respectful.
 there are no restrooms, so please bring pee bottles and blue bags for everyone.
 
 ## Attractions
@@ -38,24 +36,18 @@ Swimming and launch beach.
 ## Directions
 
 From CDA, drive north on 95, past Algoma for .5 miles, and turn right (east) onto Sagle Road. There is a
-Conoco gas
-station on the left side of the highway. This is your last chance for goodies. Once on Sagle Road continue
-east to the
-RR tracks. From the RR tracks, stay on Sagle Road for less then .5 miles, and bear right onto Talache Road. In
-about .4
-miles bear left past Shepherd Lake and Mirror Lake. The Talache Road is also F.R. 2233.
-Talache Road drops down hill to a hairpin turn to the left. Then down hill past the houses to the launch
-beach. This
-beach is not fancy, and does not have a restroom. Please plan ahead. Bring pee bottles and blue bags for each
-beach
-goer.
-Please, do not litter or leave any human waste. and please be resectful.
+Conoco gas station on the left side of the highway. This is your last chance for goodies. Once on Sagle Road
+continue east to the RR tracks. From the RR tracks, stay on Sagle Road for less then .5 miles, and bear
+right onto Talache Road. In about .4 miles bear left past Shepherd Lake and Mirror Lake. The Talache Road is
+also F.R. 2233. Talache Road drops down hill to a hairpin turn to the left. Then down hill past the houses
+to the launch beach. This beach is not fancy, and does not have a restroom. Please plan ahead. Bring pee
+bottles and blue bags for each beach goer. Please, do not litter or leave any human waste. and please be
+resectful.
 
 ## Cool things close by
 
 To the north is Umbrella Point and Garfield Bay. To the south is Maiden Rock Boat Camp, and Evans Landing.
-Evans
-Landingbis foot and boat access only, no roads.
+Evans Landingbis foot and boat access only, no roads.
 
 ## R & P
 

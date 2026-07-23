@@ -27,10 +27,8 @@ stats:
 ## Description
 
 The Big Eddy Camp Grounds & Boat Launch is at the west end of the camp grounds. There’s one ramp with plenty
-of parking.
-Trees dampen the noise of Hwy 200. Down stream is the city of Heron, while up stream is, Bull River extends
-north from
-the Clark Fork.
+of parking. Trees dampen the noise of Hwy 200. Down stream is the city of Heron, while up stream is, Bull
+River extends north from the Clark Fork.
 
 ## Attractions
 
@@ -39,8 +37,7 @@ You will be paddling on the Cabinet Gorge Reservoir, between the Cabinet Gorge D
 ## Directions
 
 From Clark Fork, Idaho, drive east on Hwy 200 into Montana. In about 7 miles from the boarder is the camp
-ground and
-launch.
+ground and launch.
 
 ## Cool things close by
 

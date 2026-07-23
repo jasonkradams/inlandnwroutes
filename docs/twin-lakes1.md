@@ -40,20 +40,16 @@ stats:
 ## Description
 
 From the footbridge between the upper and lower lakes, turn left (east) and follow the trail thru a total of
-ten gates.
-Please be sure to close all gates after you walk thru them. Pay attention to stay on the main trail, as there
-are
-several connecting trails. If you decide to use another trail, please carry the BLM brochure to find your way.
-In the
-far NE corner of the area is Wall Lake, that can be accessed from the Rock Ranch trail.
+ten gates. Please be sure to close all gates after you walk thru them. Pay attention to stay on the main
+trail, as there are several connecting trails. If you decide to use another trail, please carry the BLM
+brochure to find your way. In the far NE corner of the area is Wall Lake, that can be accessed from the Rock
+Ranch trail.
 
 ## Directions
 
 From Davenport on Highway 2, turn left (south) on SR 28 for nearly 13 miles to Harrington, and turn right
-(west) onto
-Coffeepot Road. Drive 13.5 miles and turn right (north) onto Highline Road. In 1.3 miles turn right (east)
-onto the BLM
-Twin Lakes Road for 2 miles past the campgrounds and the boat launch.
+(west) onto Coffeepot Road. Drive 13.5 miles and turn right (north) onto Highline Road. In 1.3 miles turn
+right (east) onto the BLM Twin Lakes Road for 2 miles past the campgrounds and the boat launch.
 
 ## Hazards
 

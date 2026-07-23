@@ -30,12 +30,9 @@ stats:
 ## Description
 
 On a hike with my co-author David, from Frosty Baldy to Latour Baldy, I stumbled upon this wildflower that I
-had never
-seen before.
-When I got home, I searched the web to see what I had found.
-It turned out to be a Mountain Kittentail.
-Although they aren't rare, In have not been able to fill in all the blanks above.
-The leaf on its right is from this plant.
+had never seen before. When I got home, I searched the web to see what I had found. It turned out to be a
+Mountain Kittentail. Although they aren't rare, In have not been able to fill in all the blanks above. The
+leaf on its right is from this plant.
 
 I willful in the blanks as I find them.
 

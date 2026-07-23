@@ -53,48 +53,40 @@ notes:
 ## Description
 
 This plant is native to western North America as far south as [New
-Mexico](https://en.wikipedia.org/wiki/New_Mexico)
-where it grows in foothills up to alpine slopes. It thrives in the rocky soil of [alpine
-climates](https://en.wikipedia.org/wiki/Alpine_climate) where the snow never melts. It is a
-[perennial](https://en.wikipedia.org/wiki/Perennial_plant)
-[herb](https://en.wikipedia.org/wiki/Herbaceous_plant)
-growing from a [tuber](https://en.wikipedia.org/wiki/Tuber) one to three centimeters wide. It produces a
-short, erect
-stem reaching a maximum height of 15 centimeters. At its smallest the plant bears only its first two rounded
-leaves
-before flowering and dying back. Its thick leaves are helpful for storing water. If it continues to grow it
-produces
-thick, lance-shaped leaves further up the stem. The star-shaped flowers come in
+Mexico](https://en.wikipedia.org/wiki/New_Mexico) where it grows in foothills up to alpine slopes. It
+thrives in the rocky soil of [alpine climates](https://en.wikipedia.org/wiki/Alpine_climate) where the snow
+never melts. It is a [perennial](https://en.wikipedia.org/wiki/Perennial_plant)
+[herb](https://en.wikipedia.org/wiki/Herbaceous_plant) growing from a
+[tuber](https://en.wikipedia.org/wiki/Tuber) one to three centimeters wide. It produces a short, erect stem
+reaching a maximum height of 15 centimeters. At its smallest the plant bears only its first two rounded
+leaves before flowering and dying back. Its thick leaves are helpful for storing water. If it continues to
+grow it produces thick, lance-shaped leaves further up the stem. The star-shaped flowers come in
 [inflorescences](https://en.wikipedia.org/wiki/Inflorescence) of three to 15 blooms and they are white or
-pink, often
-with veiny stripes and yellow blotches near the base of each petal. The fruit is a small capsule containing 2
-seeds,
-which are black and shiny.
-The species is considered somewhat rare.
-Basal leaves sometimes absent; stem leaves a single pair clasping the stem partway from ground. Leaves
-wedge-shaped
+pink, often with veiny stripes and yellow blotches near the base of each petal. The fruit is a small capsule
+containing 2 seeds, which are black and shiny. The species is considered somewhat rare. Basal leaves
+sometimes absent; stem leaves a single pair clasping the stem partway from ground. Leaves wedge-shaped
 tapering to sharp tips. Flowers 3–15 with short stalks or sessile above leaves in loose, sometimes 1-sided
-cluster.
-Flower petals white or pink with pink veins or occasionally yellow or orange. Found in moist meadows, slopes,
-woodlands,
-at mid to alpine elevations. Grows from corms that taste like potato when cooked; sometimes called Indian
-potato.
-*Claytonia lanceolata* - Lanceleaf Spring Beauty, Western Spring Beauty.
-*Claytonia* is a relatively small genus of 26 species, with all but one of those species found in North
+cluster. Flower petals white or pink with pink veins or occasionally yellow or orange. Found in moist
+meadows, slopes, woodlands, at mid to alpine elevations. Grows from corms that taste like potato when
+cooked; sometimes called Indian potato. *Claytonia lanceolata* - Lanceleaf Spring Beauty, Western Spring
+Beauty. *Claytonia* is a relatively small genus of 26 species, with all but one of those species found in
+North
 
 America. Most of
 
 those species are in the western half of the United States, but a few are found in the east as well.
 
-*Claytonia lanceolata* is a small, pretty white, pink, or even orange or yellow wildflower of early spring in
+*Claytonia lanceolata* is a small, pretty white, pink, or even orange or yellow wildflower of early spring
+in
 
 the
 
-western United States, especially in somewhat higher elevations. A similar species is *Claytonia multiscapa* -
+western United States, especially in somewhat higher elevations. A similar species is *Claytonia multiscapa*
+-
 
 also
 
-known as Lanceleaf Spring Beauty.  *C. multiscapa* is not as widely distributed, and is a slightly larger
+known as Lanceleaf Spring Beauty. *C. multiscapa* is not as widely distributed, and is a slightly larger
 
 plant with
 
@@ -106,8 +98,8 @@ multiscapa* will have multiple bracts in the inflorescence, while *C. lanceolata
 
 bract;
 
-sometimes 2. Some authorities have considered *C. multiscapa* to be part of *C. lanceolata* and others part of
-*C.
+sometimes 2. Some authorities have considered *C. multiscapa* to be part of *C. lanceolata* and others part
+of *C.
 
 flava* rather than a separate species. If part of *C. flava* it would expand the range of that species
 

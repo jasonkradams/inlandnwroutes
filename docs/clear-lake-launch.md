@@ -35,11 +35,8 @@ Clear Lake has several coves and bays to explore along your paddle.
 ## Directions
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an
-emergency ocurrs, evaluate your circumstances and call only if needed.
-Take I-90 west to Hwy 902 exit. Turn right (west) for 140’ and turn right onto S. Clear Lake to S. Clear Lake
-South Road
-to the launch
+info. if an emergency ocurrs, evaluate your circumstances and call only if needed. Take I-90 west to Hwy 902
+exit. Turn right (west) for 140’ and turn right onto S. Clear Lake to S. Clear Lake South Road to the launch
 
 ## Cool things close by
 

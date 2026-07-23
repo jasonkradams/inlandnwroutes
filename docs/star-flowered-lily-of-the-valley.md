@@ -56,12 +56,10 @@ notes:
 **false
 
 Solomon's seal**; **starry false lily-of-the-valley**; syn. *Smilacina stellata*) is a species of flowering
-plant,
-native across North America generally from Alaska to California in the west and from Newfoundland to the
-central
-Appalachian Mountains in the east. An everchanging seasonal plant with little white buds in the spring,
-followed by
-delicate starry flowers, then green-and-black striped berries (see image gallery) and finally deep red...
+plant, native across North America generally from Alaska to California in the west and from Newfoundland to
+the central Appalachian Mountains in the east. An everchanging seasonal plant with little white buds in the
+spring, followed by delicate starry flowers, then green-and-black striped berries (see image gallery) and
+finally deep red...
 
 ---
 

@@ -43,44 +43,34 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an
-emergency ocurrs, evaluate your circumstances and call only if needed.
-The first part of this trail is on an old roadbed for about .5 miles, then picks up Trail #17 for about 2.5
-miles to
-Cutoff Peak. Along this section of the trail, it climbs steeply to a ridge top, with views of Cutoff Peak in
-the
+info. if an emergency ocurrs, evaluate your circumstances and call only if needed. The first part of this
+trail is on an old roadbed for about .5 miles, then picks up Trail #17 for about 2.5 miles to Cutoff Peak.
+Along this section of the trail, it climbs steeply to a ridge top, with views of Cutoff Peak in the
 distance. A short distance on the ridge, Trail #17 meets up with Trail #18. As the trail continues south, it
-skirts
-Cutoff Peak and summits on the south flank. Once on the ridge, head north a short distance to a dilapidated
-old cabin.
-Wander about this area to the east for views of the Long Canyon drainage. Once back on Trail #18, the trial
-undulates to
-a higher point, where there is an excellent camp site. Although there is no trail to Smith Peak 4 miles one
-way, the
-ridge is wide and spectacular. There are several bumps along the ridge before a taller one closer to Smith
-Peak. About
-half way up this bump, there is a route to skirt the bump towards Smith Peak. As you access the saddle below
-Smith Peak
-and start climbing, you should skirt the NW side of Smith Peak to the west side. From here it's just a
-scramble up thru
-the trees and scree to the summit.
+skirts Cutoff Peak and summits on the south flank. Once on the ridge, head north a short distance to a
+dilapidated old cabin. Wander about this area to the east for views of the Long Canyon drainage. Once back
+on Trail #18, the trial undulates to a higher point, where there is an excellent camp site. Although there
+is no trail to Smith Peak 4 miles one way, the ridge is wide and spectacular. There are several bumps along
+the ridge before a taller one closer to Smith Peak. About half way up this bump, there is a route to skirt
+the bump towards Smith Peak. As you access the saddle below Smith Peak and start climbing, you should skirt
+the NW side of Smith Peak to the west side. From here it's just a scramble up thru the trees and scree to
+the summit.
 
 ## Directions
 
-Drive north past Bonners Ferry to State Highway 1 and follow it for about a mile to the Copeland turn off onto
-SH #45.
-In another mile bear left (west) across the Kootenai River to the West Side Road # 417. Turn right (NW) for 9
+Drive north past Bonners Ferry to State Highway 1 and follow it for about a mile to the Copeland turn off
+onto SH #45. In another mile bear left (west) across the Kootenai River to the West Side Road # 417. Turn
+right (NW) for 9
 
 miles and
 
-stay to the left that switchbacks onto the Smith Creek Road #281. Road 281 is paved for about 6.5 miles, where
-you will
-turn left ( east) onto FR # 2443. Continue for 6.6 miles to the trailhead.
+stay to the left that switchbacks onto the Smith Creek Road #281. Road 281 is paved for about 6.5 miles,
+where you will turn left ( east) onto FR # 2443. Continue for 6.6 miles to the trailhead.
 
 ## Hazards
 
-Once past Cutoff Peak, there is no real "trail", just a wide ridge line to stay centered on.
-There is no water source along this route. Carry more then you will need.
+Once past Cutoff Peak, there is no real "trail", just a wide ridge line to stay centered on. There is no
+water source along this route. Carry more then you will need.
 
 ## Cool things close by
 
@@ -153,6 +143,5 @@ Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=8000&pol
 
 ## One last look back at the summit of smith peak Image by chris herath
 
-Wondering the mountains takes us on a path thru our soul. While a path thru our soul takes us to new heights.
-New
-heights expand our love of wandering.                                                                chic. 7.29.11
+Wondering the mountains takes us on a path thru our soul. While a path thru our soul takes us to new
+heights. New heights expand our love of wandering. chic. 7.29.11

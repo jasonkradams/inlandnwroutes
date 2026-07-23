@@ -46,32 +46,22 @@ notes:
 
 ## Description
 
-Dark-throat shooting star is an attractive perennial which should be fairly easy to grow in the garden meadow
-or rock
-garden. The erect stem rises 5-40 cm from a basal rosette of pale green, oblong to spoon-shaped leaves from
-3-20 cm
-long. The leaves taper to winged petioles. The herbage of the leaves and stems is usually smooth-surfaced.
-The 3-12 flowers have 5 floral parts. The corolla is 15-25 mm across with deep magenta to lavender petals 1-2
-cm long
-and reflexed sharply backwards.. The tube at the base of the petals is white or yellow-ringed with a thin,
-wavy
-reddish-purple ring at the very base. The filaments are united to form a tube of yellow or purple anthers
-projecting to
-1 cm from the mouth of the corolla tube. The anther connectives are smooth and and the stigma is not enlarged
-at the end
-of the style.
-The low-growing shooting stars are [perennial](https://www.merriam-webster.com/dictionary/perennial) herbs
-with
+Dark-throat shooting star is an attractive perennial which should be fairly easy to grow in the garden
+meadow or rock garden. The erect stem rises 5-40 cm from a basal rosette of pale green, oblong to
+spoon-shaped leaves from 3-20 cm long. The leaves taper to winged petioles. The herbage of the leaves and
+stems is usually smooth-surfaced. The 3-12 flowers have 5 floral parts. The corolla is 15-25 mm across with
+deep magenta to lavender petals 1-2 cm long and reflexed sharply backwards.. The tube at the base of the
+petals is white or yellow-ringed with a thin, wavy reddish-purple ring at the very base. The filaments are
+united to form a tube of yellow or purple anthers projecting to 1 cm from the mouth of the corolla tube. The
+anther connectives are smooth and and the stigma is not enlarged at the end of the style. The low-growing
+shooting stars are [perennial](https://www.merriam-webster.com/dictionary/perennial) herbs with
 wavy-margined [leaves](https://www.britannica.com/science/leaf-plant-anatomy) growing in a rosette. The
 [flowers](https://www.britannica.com/science/flower), which are commonly reddish, purple,
 [lilac](https://www.britannica.com/plant/lilac), [pink](https://www.britannica.com/plant/pink-plant), or
-white, grow in
-a small cluster at the end of a leafless stalk (scape). The five lobes of the corolla (the structure formed by
-the
-petals) are turned backward, and the flowers point downward. The flowers are "buzz pollinated," meaning that
-they
-require a certain frequency of vibration from [bees](https://www.britannica.com/animal/bee) in order to
-release their
+white, grow in a small cluster at the end of a leafless stalk (scape). The five lobes of the corolla (the
+structure formed by the petals) are turned backward, and the flowers point downward. The flowers are "buzz
+pollinated," meaning that they require a certain frequency of vibration from
+[bees](https://www.britannica.com/animal/bee) in order to release their
 [pollen](https://www.britannica.com/science/pollen).
 
 ---
@@ -83,5 +73,4 @@ release their
 ![Picture](assets/images/11202021902.jpg)
 
 If you ever get the chance to see shooting stars in the wild, spend some time, photograph them, and revel in
-their
-beauty
+their beauty

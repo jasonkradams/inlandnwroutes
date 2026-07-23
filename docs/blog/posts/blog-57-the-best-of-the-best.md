@@ -12,60 +12,41 @@ the cabinet mountain wilderness
 
 <!-- more -->
 
-Below are in my opinion, the best of the best hikes shown on our website.
-One of my criteria is hiking in places where there aren’t many, if any other people. To achieve this, we
-provide
-OPTIONS.
-OPTIONS are hikes that take skills and off trail navigation.
-They should only be done by knowledgeable and capable  enthusiasts.
-Click on the associated url’s to see my write ups on each hike.
-If you have specific questions about an area here or on our website, please feel free to contact me. At the
-bottom of
-every page is my email envelope. But do remember, I am often out doing research or enjoying these wonderful
-places.
-Contact me 2-3 days ahead of your hike, or call the Ranger district 3 days before every hike for more info.
-The Cabinet Mountain Wilderness is so cool, it was one of the areas designated as Wilderness in The 1964
-Wilderness Act.
-Think of it as a mini Glacier National Park, but without the hoarders of people.
-The drive up Hwy 56, between  the CMW and the PSPW, os me of my favorite drives.
-Rock Lake
+Below are in my opinion, the best of the best hikes shown on our website. One of my criteria is hiking in
+places where there aren’t many, if any other people. To achieve this, we provide OPTIONS. OPTIONS are hikes
+that take skills and off trail navigation. They should only be done by knowledgeable and capable
+enthusiasts. Click on the associated url’s to see my write ups on each hike. If you have specific questions
+about an area here or on our website, please feel free to contact me. At the bottom of every page is my
+email envelope. But do remember, I am often out doing research or enjoying these wonderful places. Contact
+me 2-3 days ahead of your hike, or call the Ranger district 3 days before every hike for more info. The
+Cabinet Mountain Wilderness is so cool, it was one of the areas designated as Wilderness in The 1964
+Wilderness Act. Think of it as a mini Glacier National Park, but without the hoarders of people. The drive
+up Hwy 56, between the CMW and the PSPW, os me of my favorite drives. Rock Lake
 <https://www.inlandnwroutes.com/rock-lake-4958.html>
 
-This easy to access lake offers views different from a lot of places in the CMW.
-Rock Lake sits at the base of two very steep mountain.
-The famed Ojibway Peak towers to the NE of Rock Lake camp site
+This easy to access lake offers views different from a lot of places in the CMW. Rock Lake sits at the base
+of two very steep mountain. The famed Ojibway Peak towers to the NE of Rock Lake camp site
 
-Leigh Lake.  Don’t miss this hike, but take it serious.
-<https://www.inlandnwroutes.com/leigh-lake.html>
-There are a couple of lakes as nice as Leigh Lake in the Wilderness, but access is more difficult.
-Leigh Lake is 1.52 miles, but gains over 1100verts
-There are ice bergs in June, waterfalls galore, and 3,000 foot headwall below Snowshoe Peak.
+Leigh Lake. Don’t miss this hike, but take it serious. <https://www.inlandnwroutes.com/leigh-lake.html>
+There are a couple of lakes as nice as Leigh Lake in the Wilderness, but access is more difficult. Leigh
+Lake is 1.52 miles, but gains over 1100verts There are ice bergs in June, waterfalls galore, and 3,000 foot
+headwall below Snowshoe Peak.
 
-Granite Lake
-<https://www.inlandnwroutes.com/granite-lake-4629.html>
-Granite Lake sits below A Peak, and frames the lake in outstanding scenery.
-The hike is thru a thick forest, and you will have to cross Granite Creek once. Be aware…it is a big creek, so
-look for
-the safest place to crossing.
+Granite Lake <https://www.inlandnwroutes.com/granite-lake-4629.html> Granite Lake sits below A Peak, and
+frames the lake in outstanding scenery. The hike is thru a thick forest, and you will have to cross Granite
+Creek once. Be aware… it is a big creek, so look for the safest place to crossing.
 
-Cliff Lake, Chicago Peak, St. Paul Peak
-<https://www.inlandnwroutes.com/cliffst-p-rock-p.html>
-Be aware…if you dont have very high clearance vehicle, you wont make it to the trailhead
-But along this road are spectacular views of the east face of the Proposed Scotchman Peaks Wilderness.
-From the trailhead to the Wilderness boundary is only 30 minute walk.
-As you walk along side Chicago Peak to get to Cliff Lake, the big mountain in front of you is St. Paul Peak.
-Look for Mountain Goats when you get to the lake.
-Then you skirt around the south side of St Paul Peak, steadily climbing to the summit. The view is from the
-middle of
+Cliff Lake, Chicago Peak, St. Paul Peak <https://www.inlandnwroutes.com/cliffst-p-rock-p.html> Be aware… if
+you dont have very high clearance vehicle, you wont make it to the trailhead But along this road are
+spectacular views of the east face of the Proposed Scotchman Peaks Wilderness. From the trailhead to the
+Wilderness boundary is only 30 minute walk. As you walk along side Chicago Peak to get to Cliff Lake, the
+big mountain in front of you is St. Paul Peak. Look for Mountain Goats when you get to the lake. Then you
+skirt around the south side of St Paul Peak, steadily climbing to the summit. The view is from the middle of
 the Wilderness, so every direction is breathtaking.
 
-St. Paul Lake
-<https://www.inlandnwroutes.com/st-paul-lake.html>
-If you are a remote waterfall "FREAK", this hike is for you.
-The Forest you ascend thru is worth the effort. Watch for gnomes.
-The lake is small, but is dwarfed by St. Paul Peak to the SSW.
-South of the lake are at least a dozen waterfalls scattered over a large area. Don’t forget you tripod. And be
-very
-careful walking around the shoreline.
-An interesting fact of this lake, is that it has no outlet creek.
-Eventually, the creek surfaces and becomes the East Fork Bull River
+St. Paul Lake <https://www.inlandnwroutes.com/st-paul-lake.html> If you are a remote waterfall "FREAK", this
+hike is for you. The Forest you ascend thru is worth the effort. Watch for gnomes. The lake is small, but is
+dwarfed by St. Paul Peak to the SSW. South of the lake are at least a dozen waterfalls scattered over a
+large area. Don’t forget you tripod. And be very careful walking around the shoreline. An interesting fact
+of this lake, is that it has no outlet creek. Eventually, the creek surfaces and becomes the East Fork Bull
+River

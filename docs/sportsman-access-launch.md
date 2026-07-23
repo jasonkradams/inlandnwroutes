@@ -26,10 +26,9 @@ stats:
 
 ## Description
 
-The Sportsman Access Launch has adequate parking, but the launch itself is complicated to maneuver.
-From this launch, accessing the north and east shore lines is easier then paddling from Honeysuckle, and less
-boat
-traffic.
+The Sportsman Access Launch has adequate parking, but the launch itself is complicated to maneuver. From
+this launch, accessing the north and east shore lines is easier then paddling from Honeysuckle, and less
+boat traffic.
 
 ## Attractions
 
@@ -38,10 +37,9 @@ Less crowded. Out of the way access, and a more peaceful paddling.
 ## Directions
 
 From CDA, drive north on Hwy 95 to Lancaster. Turn right (East) for 3.6 miles, passing the English Point
-Recreation
-Area, where the road turns north and becomes E. Hayden Lake Road, about 3.8 miles that bears left staying on
-E. Hayden
-Lake Road at about 6.2 miles, turn right (south) onto N. Sportsman Park Road for about .1 of a miles.
+Recreation Area, where the road turns north and becomes E. Hayden Lake Road, about 3.8 miles that bears left
+staying on E. Hayden Lake Road at about 6.2 miles, turn right (south) onto N. Sportsman Park Road for about
+.1 of a miles.
 
 ## Cool things close by
 
@@ -49,9 +47,8 @@ Canfield Mountain, Spades Lookout, Mokins Slough and camp ground.
 
 ## R & P
 
-Rustler’s Roost for breakfast, and the Porch in Hayden. In CDA is the Mexican Food Factory, Franklins Hoagies,
-and the
-Trails End Brewery.,
+Rustler’s Roost for breakfast, and the Porch in Hayden. In CDA is the Mexican Food Factory, Franklins
+Hoagies, and the Trails End Brewery.,
 
 ---
 

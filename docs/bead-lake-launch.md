@@ -27,22 +27,16 @@ stats:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an
-emergency ocurrs, evaluate your circumstances and call only if needed.
-Located in the Colville National Forest, enjoy paddling and fishing for kokanee and trout. Amenities:FS boat
-launch.
-Bead Lake is the largest lake in Pend Orielle County at 720 acres.
- The lake has four dispersed campsites located along the lakeshore which are accessed by either boat or hiking
-trail.
-One hundred (100) feet NO WAKE zone along lakeshore. All watercraft needs to be cleaned before launching to
-prevent the
-spread of invasive species.
+info. if an emergency ocurrs, evaluate your circumstances and call only if needed. Located in the Colville
+National Forest, enjoy paddling and fishing for kokanee and trout. Amenities:FS boat launch. Bead Lake is
+the largest lake in Pend Orielle County at 720 acres. The lake has four dispersed campsites located along
+the lakeshore which are accessed by either boat or hiking trail. One hundred (100) feet NO WAKE zone along
+lakeshore. All watercraft needs to be cleaned before launching to prevent the spread of invasive species.
 
 ## Directions
 
 Turn east onto US-2 E/Walnut St, contunue to follow US-2 E for 1/2 mile. Turn left onto Le Clerc Rd continue
-on Le Clerc
-Rd for 2.7 miles. Turn right onto Bead Lake Rd contuine on Bead Lake Rd for 7.5 miles.
+on Le Clerc Rd for 2.7 miles. Turn right onto Bead Lake Rd contuine on Bead Lake Rd for 7.5 miles.
 
 Click for Goggle Maps driving directions:
 [goo.gl/maps/EechMppboixAYxaw8](https://goo.gl/maps/EechMppboixAYxaw8)

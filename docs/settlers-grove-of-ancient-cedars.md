@@ -117,7 +117,4 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 ## Eagle creek
 
 I walked amongst giants today. Some were growing along streams. Some were so old they turned white decades
-ago, among
-the high ridges.                           These giant trees, no matter their age, are monarchs.
-chic.
-9.14.11
+ago, among the high ridges. These giant trees, no matter their age, are monarchs. chic. 9.14.11

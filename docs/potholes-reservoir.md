@@ -28,11 +28,9 @@ stats:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an
-emergency ocurrs, evaluate your circumstances and call only if needed.
-The Potholes Reservoir has dozens of paddle routes to wonder thru. This area shows the incredible effect that
-Glacier
-Lake Missoula Floods has on the landscape.
+info. if an emergency ocurrs, evaluate your circumstances and call only if needed. The Potholes Reservoir
+has dozens of paddle routes to wonder thru. This area shows the incredible effect that Glacier Lake Missoula
+Floods has on the landscape.
 
 ## Attractions
 
@@ -42,8 +40,7 @@ mass.
 ## Directions
 
 Drive west on I-90 to Moses Lake and turn left (SE) onto Hwy 17 to Hwy 262. Turn right (West) and drive past
-Mar Don
-R.V. Resort for about 1 mile to the Blythe Public Access Launch.
+Mar Don R.V. Resort for about 1 mile to the Blythe Public Access Launch.
 
 ## Cool things close by
 

@@ -6,14 +6,7 @@
 
 Genesis name:
 
-Distribution:
-Season:
-Medical use:
-Poisonous:
-Edibility:
-Features:
-Leaves:
-Fruits:
+Distribution: Season: Medical use: Poisonous: Edibility: Features: Leaves: Fruits:
 
 ---
 

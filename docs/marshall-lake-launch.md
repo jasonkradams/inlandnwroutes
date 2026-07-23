@@ -27,9 +27,8 @@ stats:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an
-emergency ocurrs, evaluate your circumstances and call only if needed.
-From the launch there are two bays to explore.
+info. if an emergency ocurrs, evaluate your circumstances and call only if needed. From the launch there are
+two bays to explore.
 
 ## Attractions
 
@@ -38,10 +37,8 @@ A nice peaceful tree lined lake
 ## Directions
 
 **From Newport, WA**: Travel south on US-2 for 0.5 miles. Turn left onto Le Clerc Rd (9305) for 2.7 miles.
-Turn right
-onto Bead Lake Rd (3029) continue for 2.5 miles. Turn right onto Marshall Lake Rd continue for 1.4 miles. Turn
-left onto
-Marshall Lake Dr continue for 0.6 miles to Marshall Lake.
+Turn right onto Bead Lake Rd (3029) continue for 2.5 miles. Turn right onto Marshall Lake Rd continue
+for 1.4 miles. Turn left onto Marshall Lake Dr continue for 0.6 miles to Marshall Lake.
 
 ## Cool things close by
 

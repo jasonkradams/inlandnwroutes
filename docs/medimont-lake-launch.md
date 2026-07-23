@@ -26,8 +26,8 @@ stats:
 
 ## Description
 
-The Medimont Launch services the Cave Lake, and Medicine Lake.
-To paddle to Cave Lake, paddle west to the bridge to Cave Lake.
+The Medimont Launch services the Cave Lake, and Medicine Lake. To paddle to Cave Lake, paddle west to the
+bridge to Cave Lake.
 
 ## Attractions
 
@@ -35,10 +35,9 @@ These side lakes are shallow and have very little power boat use.
 
 ## Directions
 
-from CDA drive east on I-90 over the 4th of July Pass, and turn right at the Rose Lake & Harrison exit. Hwy 3
-continues
-south down the Chain Lakes. Turn right (S) onto S. Medimont Road, to E Rainy Hill Road to the launch and
-campgrounds.
+from CDA drive east on I-90 over the 4th of July Pass, and turn right at the Rose Lake & Harrison exit. Hwy
+3 continues south down the Chain Lakes. Turn right (S) onto S. Medimont Road, to E Rainy Hill Road to the
+launch and campgrounds.
 
 ## Cool things close by
 
@@ -57,6 +56,6 @@ Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&pol
 
 ## Photo gallery
 
-## Please everyone...heed this health alert
+## Please everyone... heed this health alert
 
 ![Picture](assets/images/5132025306p-2.jpg)

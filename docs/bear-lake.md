@@ -38,10 +38,8 @@ notes:
 ## Description
 
 In a little less the 3 miles, the trail enters the wilderness. Near this boundary, look for an obscure trail
-heading
-north to Bear Lake. There are 3 lakes in the Bear Lakes group. A small lake is located NE of Bear Lake, and
-NNW is a
-faint trail to the Upper Bear Lake.
+heading north to Bear Lake. There are 3 lakes in the Bear Lakes group. A small lake is located NE of Bear
+Lake, and NNW is a faint trail to the Upper Bear Lake.
 
 ## Option #1
 
@@ -55,15 +53,13 @@ miles to the trailhead.
 
 ## Hazards
 
-Trail #531 actually goes to the Cabinet Divide Trail 360. At the CMW boundary, look for a faint path north to
-Bear Lake.
-There is no water along the trail until you get to the lake.
+Trail #531 actually goes to the Cabinet Divide Trail 360. At the CMW boundary, look for a faint path north
+to Bear Lake. There is no water along the trail until you get to the lake.
 
 ## Cool things close by
 
 Cabinet Divide Trail, Geiger Lakes, Baree Mountain, Noxon, Mt., the Clark Fork River, Bull Lake & River, and
-the Ross
-Creek Cedars.
+the Ross Creek Cedars.
 
 ## R & P
 

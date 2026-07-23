@@ -50,27 +50,20 @@ stats:
 
 # Baneberry
 
-*Baneberry.    aka    red baneberry*
+*Baneberry. aka red baneberry*
 
 ## Description
 
-A bushy plant with large, highly divided leaves and a short, thick, rounded cluster of small white flowers in
-leaf axils
-or at stem ends. The branched, 1-3 ft. stems of this perennial bear two or three large compound leaves, each
-thrice
-divided. Leaflets are deeply saw-toothed. Above the foliage are dense, globular clusters of small white
-flowers. The
-fruit is an attractive, but poisonous, red berry.
-In flower, the stamens give each cluster a feathery appearance.
-Erect to upright. Stems may be branched near top. Leaves on lower stem 1–4, about 2 ft. long including long
-petiole,
-divided into 3 delicate maple-like sections lobed again, toothed; upper leaves smaller. Inflorescence at stem
-end a
-bottlebrush head of small white flowers. Flower petals fall shortly after opening. Berries glossy red, in
-clusters
-appearing in July. Occasional plant with white berries. Grows in deep soil pockets in conifer or mixed
-forests,
-streambanks, below timberline. Berries toxic, not eaten by any animals.
+A bushy plant with large, highly divided leaves and a short, thick, rounded cluster of small white flowers
+in leaf axils or at stem ends. The branched, 1-3 ft. stems of this perennial bear two or three large
+compound leaves, each thrice divided. Leaflets are deeply saw-toothed. Above the foliage are dense, globular
+clusters of small white flowers. The fruit is an attractive, but poisonous, red berry. In flower, the
+stamens give each cluster a feathery appearance. Erect to upright. Stems may be branched near top. Leaves on
+lower stem 1–4, about 2 ft. long including long petiole, divided into 3 delicate maple-like sections lobed
+again, toothed; upper leaves smaller. Inflorescence at stem end a bottlebrush head of small white flowers.
+Flower petals fall shortly after opening. Berries glossy red, in clusters appearing in July. Occasional
+plant with white berries. Grows in deep soil pockets in conifer or mixed forests, streambanks, below
+timberline. Berries toxic, not eaten by any animals.
 
 ---
 

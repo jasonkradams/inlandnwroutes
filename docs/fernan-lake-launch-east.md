@@ -27,32 +27,25 @@ stats:
 ## Description
 
 WEST END LAUNCH: The west end has an unusual designation. It's outlet flows in both directions, depending on
-what time
-of the year it is.
-There are only a few streams in the U.S. that do that.
-This is a very busy fishing spot for those without a boat.
-Please do not block the launch area.
+what time of the year it is. There are only a few streams in the U.S. that do that. This is a very busy
+fishing spot for those without a boat. Please do not block the launch area.
 
 ## Attractions
 
-Nice southern shore line to paddle. There are several bays and points to visit.
-Fernan is a lake I go to if the winds are up on CDA.
+Nice southern shore line to paddle. There are several bays and points to visit. Fernan is a lake I go to if
+the winds are up on CDA.
 
 ## Directions
 
 From downtown CDA, drive east on Sherman Street (Main Street thru downtown), under the I-90 overpass east of
-Lake CDA
-Drive.
-On your right is the IPNF CDA River Ranger District, Fernan Ranger District office. Turn right (S) onto Theis
-Dr to the
-launch.
-Parking is limited, so stay between the lines, do not park on the sides, grass, or neighborhood.
+Lake CDA Drive. On your right is the IPNF CDA River Ranger District, Fernan Ranger District office. Turn
+right (S) onto Theis Dr to the launch. Parking is limited, so stay between the lines, do not park on the
+sides, grass, or neighborhood.
 
 ## Cool things close by
 
-The NEW Fernan  Lake Natural Area, Lake CDA Drive to Higgins Point, the Fernan Saddle, Mineral Ridge, and the
-Wallace L.
-Forest Conservation Area.
+The NEW Fernan Lake Natural Area, Lake CDA Drive to Higgins Point, the Fernan Saddle, Mineral Ridge, and the
+Wallace L. Forest Conservation Area.
 
 ## R & P
 

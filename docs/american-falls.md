@@ -24,17 +24,15 @@ stats:
 
 # American Falls
 
-*Ameri. aka u. priest river  falls trail #308*
+*Ameri. aka u. priest river falls trail #308*
 
 ## Description
 
-Trail #308 hikes up the Upper Priest River for about 8 miles one way.   the trail only gain 640 feet, making
-it a great
-backpack, mountain bike, or long day hike.
+Trail #308 hikes up the Upper Priest River for about 8 miles one way. the trail only gain 640 feet, making
+it a great backpack, mountain bike, or long day hike.
 
 Most the trail wonders up thru cedar forests. On the hottest day of the summer, this walk is around 20°
-cooler.
-The plant life, large or small, is worth the effort.
+cooler. The plant life, large or small, is worth the effort.
 
 ## Option #1
 
@@ -56,26 +54,24 @@ This bike is great for beginners and able kids.
 
 ## Directions
 
-From Priest River, drive north on Hwy 57 for about 37 miles to Nordman. Continue up F.R. # 302 to the Stagger
+From Priest River, drive north on Hwy 57 for about 37 miles to Nordman. Continue up F.R. # 302 to the
+Stagger
 
 Inn
 
-Campground. Take the middle fork for 1.6 miles at the junction onto F.R. #1013. Drive about 12 miles and look
-for the
-trail sign and parking area on the left.
+Campground. Take the middle fork for 1.6 miles at the junction onto F.R. #1013. Drive about 12 miles and
+look for the trail sign and parking area on the left.
 
 ---
 
 ## Cool things close by
 
-Salmo-Priest Wilderness, Gypsy Peak, Hughes Meadows & Ridge, Upper Priest Lake, Trapper Falls, Granite Falls,
-and the
-Roosevelt Grove of Ancient Cedars
+Salmo-Priest Wilderness, Gypsy Peak, Hughes Meadows & Ridge, Upper Priest Lake, Trapper Falls, Granite
+Falls, and the Roosevelt Grove of Ancient Cedars
 
 ## Hazards
 
-Its a long day hike, so start very early.
-Do not forget your First Aid Kit.
+Its a long day hike, so start very early. Do not forget your First Aid Kit.
 
 ## R & P
 

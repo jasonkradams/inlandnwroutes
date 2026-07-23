@@ -23,11 +23,9 @@ stats:
 
 ## Description
 
-After putting in at the landing, you can choose your route and destination.
-On your right as you paddle out of the slough, is the David Thomson Wildlife Preserve. On the south end of
-this
-peninsula is a pictograph you can view from your boat.
-Due south just over 3 miles is the Johnson Creek Recreation Area.
+After putting in at the landing, you can choose your route and destination. On your right as you paddle out
+of the slough, is the David Thomson Wildlife Preserve. On the south end of this peninsula is a pictograph
+you can view from your boat. Due south just over 3 miles is the Johnson Creek Recreation Area.
 
 ## Attractions
 
@@ -36,14 +34,12 @@ Peaceful paddling out to the main body of the lake, Johnson Creek Recreation Are
 ## Directions
 
 As you drive through Sandpoint, turn right (East) onto Hwy 200, which is known as the Pend Orielle Scenic
-Byway. Once
-you pass the Samowen Camp Ground, drive 1 mile to a pullout with a landing on it’s NE end.
+Byway. Once you pass the Samowen Camp Ground, drive 1 mile to a pullout with a landing on it’s NE end.
 
 ## Cool things close by
 
 Hope Boat Launch, Samowen Camp Ground, Pend Orielle Wildlife Area, Clark Fork, the Clark Fork River, Johnson
-Creek
-Recreation Area, and Scotchman’s Peak
+Creek Recreation Area, and Scotchman’s Peak
 
 ## R & P
 

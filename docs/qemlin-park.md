@@ -39,46 +39,39 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an
-emergency ocurrs, evaluate your circumstances and call only if needed.The Q’emiln Park is noted for its
-outstanding
-climbing. There are several trails thru the climbing rocks, that eventually leads you to the new Community
-Forest 500+
-acres. At one point, the trail follows the Spokane River just after the Post Falls Dam. It’s quit spectacular
+info. if an emergency ocurrs, evaluate your circumstances and call only if needed.The Q’emiln Park is noted
+for its outstanding climbing. There are several trails thru the climbing rocks, that eventually leads you to
+the new Community Forest 500+ acres. At one point, the trail follows the Spokane River just after the Post
+Falls Dam. It’s quit spectacular
 
 to see the
 
 river rage down thru a narrow gorge. This river side route leads you out onto the area west of the Avista
-Generating
-Station and on to the Community Forest. You can stay along the river for about 2.5 miles to the west end of
-the park.
+Generating Station and on to the Community Forest. You can stay along the river for about 2.5 miles to the
+west end of the park.
 
 From the south parking lot on W. Riverview Drive, the trail drops down a bit to where it splits and does a
-loop, back up
-to the W. Riverview lot.
-Your best bet is to stop by the Post Falls City Fall on Spokane Street to pick up a map. Or
+loop, back up to the W. Riverview lot. Your best bet is to stop by the Post Falls City Fall on Spokane
+Street to pick up a map. Or
 [<https://www.postfallsidaho.org/departments/parks-recreation/parks/community-forest>](https://www.postfallsidaho.org/departments/parks-recreation/parks/community-forest/)
 
 ## Directions
 
 From Spokane, drive I-90 east to the Spokane Street exit. Turn right (south) at the light. Drive over the
-Spokane River
-Bridge, and take the first right (west) into the park.
-To reach the W. Riverview Drive trailhead, continue past the Q’emiln Park and drive up W. Riverview Drive for
-less then
-2 miles. Watch closely for the parking area across from S. Marion Ct.
+Spokane River Bridge, and take the first right (west) into the park. To reach the W. Riverview Drive
+trailhead, continue past the Q’emiln Park and drive up W. Riverview Drive for less then 2 miles. Watch
+closely for the parking area across from S. Marion Ct.
 
 ## Cool things close by
 
-Corbin Park, Mica Peak, Idaho, and along the Signal Point Road, is the Dept of Lands Blossom Endowment Lands.
+Corbin Park, Mica Peak, Idaho, and along the Signal Point Road, is the Dept of Lands Blossom Endowment
+Lands.
 
 ## Hazards
 
-Because Q’emiln Park is dotted with cliffs, extra caution should be use.
-Anywhere along the Spoken River, is another place to practice extra caution.
-In the Community Forest, some trails are steep, and or rocky. Pay attention to the parks colored dot system to
-navigate
-the area.
+Because Q’emiln Park is dotted with cliffs, extra caution should be use. Anywhere along the Spoken River, is
+another place to practice extra caution. In the Community Forest, some trails are steep, and or rocky. Pay
+attention to the parks colored dot system to navigate the area.
 
 ## R & P
 

@@ -53,30 +53,20 @@ notes:
 ## Description
 
 The plant spreads aggressively by producing seeds and underground through spreading rhizomes, eventually
-finding its way
-into unwanted areas such as crop fields, pastures, and lawns. The average plant produces 1,300 to 4,000 seeds
-annually
-and a particularly vigorous plant can produce as many as 26,000 seeds that germinate rapidly when they land on
-bare
-soil. Historically, there have been several attempts to legislate control of oxeye daisies. The Scotts, who
-called them
-"gools," made the unfortunate farmer whose wheat fields had the most oxeye daisies pay an extra tax. Even so,
-the weed
-spread throughout the European continent and eventually found its way to the U.S., probably in bags of forage
-grass and
-legume seeds. It now grows in every state in the U.S. Several states have made it illegal to sell oxeye daisy
-seeds and
+finding its way into unwanted areas such as crop fields, pastures, and lawns. The average plant produces
+1,300 to 4,000 seeds annually and a particularly vigorous plant can produce as many as 26,000 seeds that
+germinate rapidly when they land on bare soil. Historically, there have been several attempts to legislate
+control of oxeye daisies. The Scotts, who called them "gools," made the unfortunate farmer whose wheat
+fields had the most oxeye daisies pay an extra tax. Even so, the weed spread throughout the European
+continent and eventually found its way to the U.S., probably in bags of forage grass and legume seeds. It
+now grows in every state in the U.S. Several states have made it illegal to sell oxeye daisy seeds and
 plants, but both are available on the internet and are sometimes included in wildflower mixes.
 
 How to Control Oxeye Daisy An important part of oxeye daisy control is pulling up or cutting down the plant
-before it
-flowers and produces seeds. The plants have shallow root systems and are easy to pull. Mow lawns that are
-infested with
-oxeye daisy perennials regularly so they never have a chance to flower. Mowing causes the leaves to spread
-outward and
-flatten, so that if you later apply an herbicide, the leaves have a broader surface area over which to absorb
-the
-chemical.
+before it flowers and produces seeds. The plants have shallow root systems and are easy to pull. Mow lawns
+that are infested with oxeye daisy perennials regularly so they never have a chance to flower. Mowing causes
+the leaves to spread outward and flatten, so that if you later apply an herbicide, the leaves have a broader
+surface area over which to absorb the chemical.
 
 Read more at Gardening Know How: Oxeye Daisies In The Landscape – How To Control Oxeye Daisy Plants
 <https://www.gardeningknowhow.com/plant-problems/weeds/controlling-oxeye-daisies.htm>

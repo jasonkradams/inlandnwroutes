@@ -39,41 +39,28 @@ stats:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an
-emergency ocurrs, evaluate your circumstances and call only if needed.
-As with many drives west of Spokane, the terrain looks dry and desolate. But with a little exploring, you find
-great
-opportunities for hiking and other activities. The Fishtrap Lake area consists of 9,000 acres to explore.
-As you get closer to the lake, well maintained trailheads and trails appear. Fishtrap Lake sit about 30 or 40
-feet below
-the lay of the land. On the north end of the lakes is the Fishtrap Lake Resort and a public boat launch.
-In 2016 thru 2018, the Spokane Mountaineers and the Washington Trails Association, have built new trails and
-redone
-sections to enhance visitors experiences. On the west side of the lake, the trail runs from Farmers Landing in
-the south
-to beyond the north shore line, and the Fishtrap Lake Resort. Stop by a kiosk for a brochure with current
-trail routes.
+info. if an emergency ocurrs, evaluate your circumstances and call only if needed. As with many drives west
+of Spokane, the terrain looks dry and desolate. But with a little exploring, you find great opportunities
+for hiking and other activities. The Fishtrap Lake area consists of 9,000 acres to explore. As you get
+closer to the lake, well maintained trailheads and trails appear. Fishtrap Lake sit about 30 or 40 feet
+below the lay of the land. On the north end of the lakes is the Fishtrap Lake Resort and a public boat
+launch. In 2016 thru 2018, the Spokane Mountaineers and the Washington Trails Association, have built new
+trails and redone sections to enhance visitors experiences. On the west side of the lake, the trail runs
+from Farmers Landing in the south to beyond the north shore line, and the Fishtrap Lake Resort. Stop by a
+kiosk for a brochure with current trail routes.
 
-For paddlers, put in at the public launch near the Fishtrap Resort, and paddle SW to see the entire lake about
-3 miles
-long. At about 2 miles down lake, look for a protected cove on the west side of the lake. Find a place to
-beach your
-boat and climb up onto the high shore line.
-Here the views of the unique cove are great. Just north about 200' is a deep pothole created during the
-Glacier Lake
-Missoula Floods.
+For paddlers, put in at the public launch near the Fishtrap Resort, and paddle SW to see the entire lake
+about 3 miles long. At about 2 miles down lake, look for a protected cove on the west side of the lake. Find
+a place to beach your boat and climb up onto the high shore line. Here the views of the unique cove are
+great. Just north about 200' is a deep pothole created during the Glacier Lake Missoula Floods.
 
 ## Directions
 
-North trailhead
-Drive west on I-90 to about 25 miles to the Fishtrap exit #254, and turn left over the freeway on the Sprague
-Highway.
-At 2.5 miles turn left onto Fishtrap Road to a trailhead for several trails.
+North trailhead Drive west on I-90 to about 25 miles to the Fishtrap exit #254, and turn left over the
+freeway on the Sprague Highway. At 2.5 miles turn left onto Fishtrap Road to a trailhead for several trails.
 
-South trailhead
-After exiting I-90, drive south on the Sprague Highway for about a mile past the Fishtrap Road, and turn left
-to the BLM
-Ranch House, and turn right for less than a mile to the trailhead.
+South trailhead After exiting I-90, drive south on the Sprague Highway for about a mile past the Fishtrap
+Road, and turn left to the BLM Ranch House, and turn right for less than a mile to the trailhead.
 
 ## Hazards
 

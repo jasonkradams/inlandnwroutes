@@ -27,22 +27,17 @@ stats:
 ## Description
 
 Along the north side of the river, in the city of Priest River, is Bonner Park West. The launch is located
-just east of
-the P.O.River bridge.
-There are restrooms, docks, a swimming area, and plenty of parking
+just east of the P.O.River bridge. There are restrooms, docks, a swimming area, and plenty of parking
 
 ## Attractions
 
-Paddle from Priest River east or west on the river.
-Just east of the city launch is where the where the Priest River flows into the P.O River. Take a paddle up
-stream as
-far as you like
+Paddle from Priest River east or west on the river. Just east of the city launch is where the where the
+Priest River flows into the P.O River. Take a paddle up stream as far as you like
 
 ## Directions
 
 Once in Priest River, drive east on Hwy 2 to, and turn right (south) onto Wisconsin Street. Just before the
-bridge
-across P.O. River, turn left (East) onto Railroad Ave to the Bonner Park West.
+bridge across P.O. River, turn left (East) onto Railroad Ave to the Bonner Park West.
 
 ## Cool things close by
 

@@ -40,18 +40,13 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an
-emergency ocurrs, evaluate your circumstances and call only if needed.The trail is very well signed for the
-first 2.5
-miles. In the logged area (a blight on the timber industry) the aforementioned flagging is pretty scarce; just
-continue
-eastbound along the southern periphery of the logged area and you'll find the trail without too much problem.
-Don't take
-any of the southbound roads. Once past the logged area the trail is very well maintained and easy to follow.
-This summit
-does not offer the spectacular views that my other four Lake Pend Oreille summits offered, but it is an
-outstanding hike
-nonetheless. The silence up here is deafening!
+info. if an emergency ocurrs, evaluate your circumstances and call only if needed.The trail is very well
+signed for the first 2.5 miles. In the logged area (a blight on the timber industry) the aforementioned
+flagging is pretty scarce; just continue eastbound along the southern periphery of the logged area and
+you'll find the trail without too much problem. Don't take any of the southbound roads. Once past the logged
+area the trail is very well maintained and easy to follow. This summit does not offer the spectacular views
+that my other four Lake Pend Oreille summits offered, but it is an outstanding hike nonetheless. The silence
+up here is deafening!
 
 ## Option #1
 

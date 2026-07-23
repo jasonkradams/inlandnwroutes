@@ -26,8 +26,7 @@ stats:
 ## Description
 
 The Hope Boat Launch is located just west of Hope on Hwy 200, on the north shore. From the Hope Launch, most
-of the
-north shore is accessible
+of the north shore is accessible
 
 ## Attractions
 
@@ -36,14 +35,12 @@ Easy off Hwy 200 access. North shore paddling on BIG water.
 ## Directions
 
 From Sandpoint, turn right (East) onto Hwy 200, and drive towards Hope. As Hwy 200 swings out over the lake,
-the launch
-is off to the left (north).
+the launch is off to the left (north).
 
 ## Cool things close by
 
 Samowen Camp Ground, Warren Island, Pearl Island, Ellisport Bay, Memaloose Island, and David Thompson State
-Wildlife
-Preserve.
+Wildlife Preserve.
 
 ## R & P
 

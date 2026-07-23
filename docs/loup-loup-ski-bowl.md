@@ -26,14 +26,13 @@ notes:
 
 # Loup Loup Ski Bowl
 
-*Loup loup ski bowl     okanogan, wa*
+*Loup loup ski bowl okanogan, wa*
 
 ## of named runs: 10
 
 ## of lifts: 3
 
-Miles from spokane: 163 miles
-Other amenities:
+Miles from spokane: 163 miles Other amenities:
 
 ---
 

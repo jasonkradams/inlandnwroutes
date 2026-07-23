@@ -6,12 +6,7 @@
 
 Type:
 
-Website:
-Phone:
-Pools:
-Hours:
-Amenities:
-miles from spokane:
+Website: Phone: Pools: Hours: Amenities: miles from spokane:
 
 ---
 

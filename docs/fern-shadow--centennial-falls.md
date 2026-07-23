@@ -29,36 +29,29 @@ stats:
 
 ## Description
 
-The road to these falls are in poor condition and require a high clearance vehicle.
-As you approach Fern Falls is first falls you see. Stop here and photograph the falls from all around.
-Including the
-creek below with the falls in the background, offers some great shots.
-To reach Shadow Falls, follow the path on the left up to Shadow. This falls is taller and and you can walk
-behind it .
-On a hot day, its a nice shower to cool off.
+The road to these falls are in poor condition and require a high clearance vehicle. As you approach Fern
+Falls is first falls you see. Stop here and photograph the falls from all around. Including the creek below
+with the falls in the background, offers some great shots. To reach Shadow Falls, follow the path on the
+left up to Shadow. This falls is taller and and you can walk behind it . On a hot day, its a nice shower to
+cool off.
 
 ## Option #1
 
-Centennial Falls is really only real cool during heavy runoff.
-But as long as you are at Fern & Shadow Falls, Centennial Falls is in the vicinity.
+Centennial Falls is really only real cool during heavy runoff. But as long as you are at Fern & Shadow
+Falls, Centennial Falls is in the vicinity.
 
 ## Directions
 
 The riad to these falls are in poor condition, and require a high clearance vehicle.
 
 From Coeur d¿Alene, Idaho drive east on I-90 taking Kingston Exit #43. After exiting, travel north on Forest
-Highway 9
-(FH9) 23.1 miles to Forest Road #208 (FR208). Continue on FR208 for 14.4 miles to FR2367 Beetle Creek Road.
-From the
-turn-off on FR2367 follow the signs to Shadow Falls. It is approximately 4.5 miles to the 7-car parking lot
-located at
-the trailhead.
+Highway 9 (FH9) 23.1 miles to Forest Road #208 (FR208). Continue on FR208 for 14.4 miles to FR2367 Beetle
+Creek Road. From the turn-off on FR2367 follow the signs to Shadow Falls. It is approximately 4.5 miles to
+the 7-car parking lot located at the trailhead.
 
-Centennial Falls Trail #400...Heading East on I-90 take the Kingston Exit and drive for 39 miles on the CDA
-River Road.
-Immediately after the 39 mile marker you will take a left onto the Flat Creek Road #400. Stay on this bumpy
-road and
-follow it over two bridges. You will find the trailhead on a corner with a sign posted.
+Centennial Falls Trail #400... Heading East on I-90 take the Kingston Exit and drive for 39 miles on the CDA
+River Road. Immediately after the 39 mile marker you will take a left onto the Flat Creek Road #400. Stay on
+this bumpy road and follow it over two bridges. You will find the trailhead on a corner with a sign posted.
 
 ## Cool things close by
 

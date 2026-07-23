@@ -20,15 +20,13 @@ stats:
 
 ## Directions
 
-From Priest River, Idaho, take Hwy 57 north to Nordman, then turn right on Reeder Bay Road and continue for 12
-miles not
-the camp grounds.
+From Priest River, Idaho, take Hwy 57 north to Nordman, then turn right on Reeder Bay Road and continue for
+12 miles not the camp grounds.
 
 ## Cool things close by
 
-Indian Creek Camp Grounds, Upper Priest Lake, the Thorough Fare to Upper Priest Lake, Priest Lakes State Park
-Lionshead
-Unit, Granite Falls, and Blacktail Mountain
+Indian Creek Camp Grounds, Upper Priest Lake, the Thorough Fare to Upper Priest Lake, Priest Lakes State
+Park Lionshead Unit, Granite Falls, and Blacktail Mountain
 
 ## R & P
 

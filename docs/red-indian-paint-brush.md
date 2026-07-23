@@ -49,10 +49,9 @@ notes:
 
 ## Description
 
-Indian Paint Brush grows through our region, and lights up the high elevation.
-As they start growing, they are a light green, until the red takes over.
-They usually grow in clumps that can have many stems with one flower per stem.
-In different climates they can range in colors
+Indian Paint Brush grows through our region, and lights up the high elevation. As they start growing, they
+are a light green, until the red takes over. They usually grow in clumps that can have many stems with one
+flower per stem. In different climates they can range in colors
 
 ---
 

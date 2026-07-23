@@ -27,10 +27,8 @@ stats:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an
-emergency ocurrs, evaluate your circumstances and call only if needed.
-West Medical Lake is located next to Medical Lake, and has few houses.
-And there is the Eastern State Hospital close by
+info. if an emergency ocurrs, evaluate your circumstances and call only if needed. West Medical Lake is
+located next to Medical Lake, and has few houses. And there is the Eastern State Hospital close by
 
 ## Attractions
 
@@ -38,9 +36,8 @@ West Medical Lake is close to Cheney with few houses along its shore line.
 
 ## Directions
 
-Drive west on I-90 to the Hwy 902 turnoff. Stay on Hwy 902 as it turns thru Medical Lake. At the south end of
-town, turn
-onto Fancher Road to West Fancher Road, and right into the launch.
+Drive west on I-90 to the Hwy 902 turnoff. Stay on Hwy 902 as it turns thru Medical Lake. At the south end
+of town, turn onto Fancher Road to West Fancher Road, and right into the launch.
 
 ## Cool things close by
 

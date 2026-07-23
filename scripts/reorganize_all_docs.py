@@ -7,10 +7,10 @@ import textwrap
 DOCS_DIR = 'docs'
 all_md_files = sorted(glob.glob(os.path.join(DOCS_DIR, '**/*.md'), recursive=True))
 
-def smart_wrap_paragraph(line, max_len=120):
+def smart_wrap_paragraph(line, max_len=108):
     if len(line) <= max_len:
         return [line]
-    # Do not wrap headings, table rows, horizontal rules, or admonitions
+    # Do not wrap headings, table rows, horizontal rules, or admonition headers
     if line.startswith('#') or line.startswith('|') or line.startswith('---') or line.startswith('!!!'):
         return [line]
     if re.search(r'^\s*!\[.*\]\(.*\)\s*$', line):
@@ -42,15 +42,83 @@ def smart_wrap_paragraph(line, max_len=120):
         return [line]
     wrapped[0] = prefix + wrapped[0]
     
-    # Prevent wrapped lines from starting with numbers like '1903.' to avoid MD029 false positives
+    # Prevent wrapped lines from starting with numbers like '1903.' or '1991.' by shifting preceding word
     cleaned_wrapped = []
     for i, w in enumerate(wrapped):
         if i > 0 and re.match(r'^\s*\d+\.', w):
-            cleaned_wrapped[-1] = cleaned_wrapped[-1] + ' ' + w.lstrip()
-        else:
-            cleaned_wrapped.append(w)
+            if cleaned_wrapped:
+                prev_words = cleaned_wrapped[-1].split(' ')
+                if len(prev_words) > 1:
+                    last_word = prev_words.pop()
+                    cleaned_wrapped[-1] = ' '.join(prev_words)
+                    w = last_word + ' ' + w.lstrip()
+        cleaned_wrapped.append(w)
             
     return cleaned_wrapped
+
+def process_body_lines(lines, max_len=108):
+    in_code = False
+    blocks = []
+    curr_block = []
+    curr_type = None  # 'para', 'list'
+
+    def flush_block():
+        nonlocal curr_block, curr_type
+        if not curr_block:
+            return
+        if curr_type == 'para':
+            joined = ' '.join(l.strip() for l in curr_block if l.strip())
+            joined = re.sub(r'\s+', ' ', joined)
+            wrapped = smart_wrap_paragraph(joined, max_len=max_len)
+            blocks.extend(wrapped)
+        elif curr_type == 'list':
+            for item in curr_block:
+                item = re.sub(r'^(\s*)\*\s+', r'\1- ', item)
+                blocks.extend(smart_wrap_paragraph(item, max_len=max_len))
+        else:
+            blocks.extend(curr_block)
+        curr_block = []
+        curr_type = None
+
+    for line in lines:
+        if line.strip().startswith('```'):
+            flush_block()
+            in_code = not in_code
+            blocks.append(line)
+            continue
+            
+        if in_code:
+            blocks.append(line)
+            continue
+
+        stripped = line.strip()
+        if not stripped:
+            flush_block()
+            blocks.append('')
+            continue
+
+        is_special = (stripped.startswith('#') or stripped.startswith('|') or 
+                      stripped.startswith('---') or stripped.startswith('!!!') or
+                      re.search(r'^\s*!\[.*\]\(.*\)\s*$', stripped))
+        
+        is_list = (stripped.startswith('- ') or stripped.startswith('* ') or re.match(r'^\d+\.\s+', stripped))
+
+        if is_special:
+            flush_block()
+            blocks.append(line.rstrip())
+        elif is_list:
+            if curr_type != 'list':
+                flush_block()
+                curr_type = 'list'
+            curr_block.append(line.rstrip())
+        else:
+            if curr_type != 'para':
+                flush_block()
+                curr_type = 'para'
+            curr_block.append(line.rstrip())
+
+    flush_block()
+    return blocks
 
 def process_file(filepath):
     with open(filepath, 'r', encoding='utf-8', errors='ignore') as fp:
@@ -68,7 +136,6 @@ def process_file(filepath):
                 end_fm = i
                 break
         if end_fm > 1:
-            # Strip blank lines inside frontmatter
             clean_fm = [l for l in lines[1:end_fm] if l.strip() != '']
             fm_lines = ['---'] + clean_fm + ['---']
             body_lines = lines[end_fm + 1:]
@@ -76,8 +143,10 @@ def process_file(filepath):
     # Clean body content
     body_str = '\n'.join(body_lines)
     
-    # 1. Clean zero-width spaces and non-breaking spaces
+    # 1. Clean zero-width spaces, non-breaking spaces, and un-spaced ellipses
     body_str = body_str.replace('\u200b', '').replace('\xa0', ' ')
+    body_str = re.sub(r'(\w)…(\w)', r'\1… \2', body_str)
+    body_str = re.sub(r'(\w)\.\.\.(\w)', r'\1... \2', body_str)
     
     # 2. Normalize image paths relative to filepath
     rel_dir = os.path.relpath(os.path.dirname(filepath), DOCS_DIR)
@@ -118,23 +187,9 @@ def process_file(filepath):
     body_str = re.sub(r'\[\"\]\(\"\)', '', body_str)
     body_str = re.sub(r'\[\"\]\(\)', '', body_str)
     
-    # 4. Process body lines: trim trailing spaces and smart wrap
+    # 4. Process body lines with block joining & smart wrapping
     raw_body = [l.rstrip() for l in body_str.splitlines()]
-    in_code = False
-    new_body = []
-    
-    for line in raw_body:
-        if line.strip().startswith('```'):
-            in_code = not in_code
-            new_body.append(line)
-            continue
-            
-        if not in_code:
-            # Replace bullet point '*' with '-' if it starts a list item
-            line = re.sub(r'^(\s*)\*\s+', r'\1- ', line)
-            new_body.extend(smart_wrap_paragraph(line, max_len=120))
-        else:
-            new_body.append(line)
+    new_body = process_body_lines(raw_body, max_len=108)
             
     # Combine frontmatter and body
     final_lines = []

@@ -5,9 +5,8 @@
 ## Chris herath
 
 Chris is a semi retired architect who lives in otis orchard, with his wife shea and daughters tia and sarah.
-I first met chris in 1980 and have been skiing and hiking together ever since.
-Chris led our 2005 trip to patagonia. see...
-<https://www.inlandnwroutes.com/patagonia.html>
+I first met chris in 1980 and have been skiing and hiking together ever since. Chris led our 2005 trip to
+patagonia. see... <https://www.inlandnwroutes.com/patagonia.html>
 
 ---
 

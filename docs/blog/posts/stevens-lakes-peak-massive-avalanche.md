@@ -10,7 +10,8 @@ categories:
 
 Hi Hikers,
 
-I recently came across an article on a GIGANTIC AVALANCHE that occurred in the Willow Creek area below Stevens Peak in 1903.
+I recently came across an article on a GIGANTIC AVALANCHE that occurred in the Willow Creek area below
+Stevens Peak in 1903.
 
 <!-- more -->
 

@@ -26,18 +26,17 @@ stats:
 
 ## Description
 
-The Palisades Falls are located in the Chief Garry Park.
-The falls are tucked back into an area that may make it hard to find.
+The Palisades Falls are located in the Chief Garry Park. The falls are tucked back into an area that may
+make it hard to find.
 
 ---
 
 ## Directions
 
 From the intersection of Government Way and Sunset Blvd, drive north on Government Way to Greenwood Roa, and
-turn left
-(W). In a mile bear right at a fork with Indian Canyon Road. Then turn left on a gravel road to parking spots.
-While at the parking area, walk north for a great view of downtown Spokane.
-Hike Trail 101 to a junction with Trail 122 and go left. Trail 122.
+turn left (W). In a mile bear right at a fork with Indian Canyon Road. Then turn left on a gravel road to
+parking spots. While at the parking area, walk north for a great view of downtown Spokane. Hike Trail 101 to
+a junction with Trail 122 and go left. Trail 122.
 
 ---
 
@@ -47,8 +46,8 @@ Indian Canyon Golf Course, John A. Finch Arboretum, Riverside State Park, and th
 
 ## Hazards
 
-All waterfalls are a hazard, due to their slippery nature. always be extra careful near any waterfall.
- From Priest Lake Ranger District travel 4 miles north to Nordman, then 14 miles north of Nordman, Idaho
+All waterfalls are a hazard, due to their slippery nature. always be extra careful near any waterfall. From
+Priest Lake Ranger District travel 4 miles north to Nordman, then 14 miles north of Nordman, Idaho
 
 ## R & P
 

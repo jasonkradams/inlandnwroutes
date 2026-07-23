@@ -40,29 +40,23 @@ notes:
 
 ## Description
 
-Because most of the first 6 miles is on Lost Girl Road #2278, approaching via a mt bike will make for an easy
-descent
-back to the cars.
+Because most of the first 6 miles is on Lost Girl Road #2278, approaching via a mt bike will make for an
+easy descent back to the cars.
 
-The first section, about 6 miles is on an old road, but is still used on occasions. The next section, about 5
-miles is
-on the same old road, but has not been used as a road lately. After a gazillion long switchbacks, the over
-grown road
-become as trail. From here the trail ascends to the ridge, then drops to the two lakes.
+The first section, about 6 miles is on an old road, but is still used on occasions. The next section, about
+5 miles is on the same old road, but has not been used as a road lately. After a gazillion long switchbacks,
+the over grown road become as trail. From here the trail ascends to the ridge, then drops to the two lakes.
 
 ## Option #1
 
-The Trail/Road #993, can be mountain biked for about 6 miles. The remaining 5 miles to the CMW  boundary, was
-the old
-road, but is now a poorly maintained trail to the Basin.
+The Trail/Road #993, can be mountain biked for about 6 miles. The remaining 5 miles to the CMW boundary, was
+the old road, but is now a poorly maintained trail to the Basin.
 
 ## Directions
 
 Drive north on Hwy 56, look for milepost 8. Turn right (east) on F.R. #407. and drive past The St. Paul Lake
-turn off.
-Continue about .4 of a mile, on F.R. 2278 and pass the Historic Ranger Station. Just a ways past the Ranger
-Station,
-turn left (NE) to the gate.
+turn off. Continue about .4 of a mile, on F.R. 2278 and pass the Historic Ranger Station. Just a ways past
+the Ranger Station, turn left (NE) to the gate.
 
 ## Hazards
 
@@ -70,13 +64,13 @@ Many long switchbacks. A descent into the Moran Basin.
 
 ## Cool things close by
 
-A Peak, Snowshoe Peak, Vimy Ridge, Bull River, Ross Creek Cedars, and the Proposed Scotchman Peaks Wilderness.
+A Peak, Snowshoe Peak, Vimy Ridge, Bull River, Ross Creek Cedars, and the Proposed Scotchman Peaks
+Wilderness.
 
 ## R & P
 
 Henry’s, Pizza Hut, Clark Fork Pantry & Squeeze Inn in Clark Fork. Eicharts, Burger Express, Mr Sub &
-Jalapeños in
-Sandpoint
+Jalapeños in Sandpoint
 
 ## Plan your trip
 

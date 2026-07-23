@@ -32,34 +32,25 @@ stats:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an
-emergency ocurrs, evaluate your circumstances and call only if needed.
-This paddle starts at Lions Ferry S.P. and heads north up to Palouse Falls. There are several class 1 or 2
-rapids, with
-a class 3 up near Palouse Falls.
-When we attempted this paddle, In early summer, the rapids above our camp site were more then I wanted to
-chance. If you
-make it past these rapids, you may have to walk your boat u past others. You can tie your boat to your paddle
-and hold
-it off the shore line, to get it over the sometimes shallow rapids.
-All along this paddle, the walls on each side are very tall.
+info. if an emergency ocurrs, evaluate your circumstances and call only if needed. This paddle starts at
+Lions Ferry S.P. and heads north up to Palouse Falls. There are several class 1 or 2 rapids, with a class 3
+up near Palouse Falls. When we attempted this paddle, In early summer, the rapids above our camp site were
+more then I wanted to chance. If you make it past these rapids, you may have to walk your boat u past
+others. You can tie your boat to your paddle and hold it off the shore line, to get it over the sometimes
+shallow rapids. All along this paddle, the walls on each side are very tall.
 
 ## Attractions
 
 About 4.4 miles up stream is a good place to camp. When I was last there, we ate dinner on a knoll about 25
-feet above
-the river. We were delighted in what we saw next. Below us, I noticed some movement near the water. After
-spending some
-time tracking this movement, we realized that the stream of Bats were in the tens of thousands.
-In the same area, the side walls are hundreds of feet tall right out of the water. It was here that I
-experienced
-another odd sensation. As I paddled, some very large fish hit on my paddles end.
+feet above the river. We were delighted in what we saw next. Below us, I noticed some movement near the
+water. After spending some time tracking this movement, we realized that the stream of Bats were in the tens
+of thousands. In the same area, the side walls are hundreds of feet tall right out of the water. It was here
+that I experienced another odd sensation. As I paddled, some very large fish hit on my paddles end.
 
 ## Directions
 
 Drive west on I-90 to Ritzville. At Ritzville turn left (S) onto Hwy 261. Continue past Washtucna on Hwy 261
-for 6.4
-miles, and stay on Hwy 261 for another 13.8 miles to the Lions Ferry S.P.
+for 6.4 miles, and stay on Hwy 261 for another 13.8 miles to the Lions Ferry S.P.
 
 ## Cool things close by
 

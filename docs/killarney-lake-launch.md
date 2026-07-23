@@ -27,14 +27,11 @@ stats:
 ## Description
 
 Killarney Lake is tucked away to the north of State Hwy 3 that starts up north at I-90 and heads down to
-Harrison, Idaho
-and beyond.
-About 2 miles south on Hwy 3, look for the Killarney LakevRoad off to the right.
+Harrison, Idaho and beyond. About 2 miles south on Hwy 3, look for the Killarney LakevRoad off to the right.
 One attraction is Popcorn Island. There are a few campsites, and at the summit is a view south of Killarney
-Lake.
-Because the island is isolated from the mainland, there is an outhouse on the dock on the north side of the
-island.
-Due south of the launch is a waterway to the CDA River. You can explore it as far as you’d like to paddle.
+Lake. Because the island is isolated from the mainland, there is an outhouse on the dock on the north side
+of the island. Due south of the launch is a waterway to the CDA River. You can explore it as far as you’d
+like to paddle.
 
 ## Attractions
 
@@ -43,8 +40,7 @@ Popcorn Island, usually calm waters, and access to the CDA River.
 ## Directions
 
 Drive I-90 east of CDA, over the 4th of July Pass, and turn right (south) not Hwy 3 towards Harrison, Idaho.
-About two
-miles past the bridge over the CDA River, is the turn off to Killarney Lake.
+About two miles past the bridge over the CDA River, is the turn off to Killarney Lake.
 
 ## Cool things close by
 
@@ -63,7 +59,7 @@ Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&pol
 
 ## Photo gallery
 
-## Please everyone...heed this health alert
+## Please everyone... heed this health alert
 
 ![Picture](assets/images/5132025306p-2.jpg)
 

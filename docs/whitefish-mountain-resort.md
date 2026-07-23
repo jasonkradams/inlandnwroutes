@@ -26,14 +26,13 @@ notes:
 
 # Whitefish Mountain Resort
 
-*Whitefish mountain resort    whitefish, mt*
+*Whitefish mountain resort whitefish, mt*
 
 ## of named runs: 111
 
 ## of lifts: 14
 
-Miles from spokane: ???
-Other amenities: ???
+Miles from spokane: ??? Other amenities: ???
 
 ---
 

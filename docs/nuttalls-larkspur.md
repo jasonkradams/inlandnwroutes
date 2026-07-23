@@ -41,26 +41,17 @@ stats:
 ## Description
 
 Nuttall’s larkspur is one of more than 60 native species of larkspur in the United States. It is among the
-more
-wide-ranging species, occurring from British Columbia and Alberta south to California, Arizona and New Mexico,
-and as
-far east as South Dakota and Nebraska. It grows in sagebrush desert, grassy shrublands, open conifer forests
-(especially
-ponderosa pine), at the edges of meadows, and along streams. It prefers well-drained gravelly soils, in moist
-but not
-wet sites. Soils can vary from acid to neutral or basic. It can be found from about 1,000 to 10,000 feet in
-elevation,
-and needs a sunny location.Nuttall’s larkspur is one of more than 60 native species of larkspur in the United
-States. It
-is among the more wide-ranging species, occurring from British Columbia and Alberta south to California,
-Arizona and New
+more wide-ranging species, occurring from British Columbia and Alberta south to California, Arizona and New
 Mexico, and as far east as South Dakota and Nebraska. It grows in sagebrush desert, grassy shrublands, open
-conifer
-forests (especially ponderosa pine), at the edges of meadows, and along streams. It prefers well-drained
-gravelly soils,
-in moist but not wet sites. Soils can vary from acid to neutral or basic. It can be found from about 1,000 to
-10,000
-feet in elevation, and needs a sunny location.
+conifer forests (especially ponderosa pine), at the edges of meadows, and along streams. It prefers
+well-drained gravelly soils, in moist but not wet sites. Soils can vary from acid to neutral or basic. It
+can be found from about 1,000 to 10,000 feet in elevation, and needs a sunny location.Nuttall’s larkspur is
+one of more than 60 native species of larkspur in the United States. It is among the more wide-ranging
+species, occurring from British Columbia and Alberta south to California, Arizona and New Mexico, and as far
+east as South Dakota and Nebraska. It grows in sagebrush desert, grassy shrublands, open conifer forests
+(especially ponderosa pine), at the edges of meadows, and along streams. It prefers well-drained gravelly
+soils, in moist but not wet sites. Soils can vary from acid to neutral or basic. It can be found from about
+1,000 to 10,000 feet in elevation, and needs a sunny location.
 
 ---
 

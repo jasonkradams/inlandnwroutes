@@ -26,9 +26,8 @@ stats:
 
 ## Description
 
-This off the P.O. River launch is at the confluence of the Priest River and the P.O. Rivers.
-Within the Priest River Recreation Area is the Priest River Park, with plenty of parking, restrooms, and a
-swimming
+This off the P.O. River launch is at the confluence of the Priest River and the P.O. Rivers. Within the
+Priest River Recreation Area is the Priest River Park, with plenty of parking, restrooms, and a swimming
 area.
 
 ## Attractions
@@ -37,7 +36,8 @@ Off the P.O. River at the confluence of the Priest River.
 
 ## Directions
 
-From the stop light in Priest River, drive east on Hwy 2 for 1.3 miles to the entrance, next to the saw mill.
+From the stop light in Priest River, drive east on Hwy 2 for 1.3 miles to the entrance, next to the saw
+mill.
 
 ## Cool things close by
 

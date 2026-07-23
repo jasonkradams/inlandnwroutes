@@ -42,21 +42,17 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an
-emergency ocurrs, evaluate your circumstances and call only if needed.
-This trail starts out on the CDA River Road and heads south for 6.5 miles. It skirts Coal Creek and passes by
-several
-old mines on its way thru old growth cedars. This trail seems relentless as it climbs the same slant to the
-top, without
+info. if an emergency ocurrs, evaluate your circumstances and call only if needed. This trail starts out on
+the CDA River Road and heads south for 6.5 miles. It skirts Coal Creek and passes by several old mines on
+its way thru old growth cedars. This trail seems relentless as it climbs the same slant to the top, without
 switchbacks. At about 5.5 miles the trail junctions with Trail # 18. Turn right (SW) for about a mile to the
 
 summit.
 
 ## Directions
 
-Drive east on I-90 to exit 43 at Kingston, and head north up the CDA River Road #9 for 12.5 miles to the Coal
-Creek
-trailhead.
+Drive east on I-90 to exit 43 at Kingston, and head north up the CDA River Road #9 for 12.5 miles to the
+Coal Creek trailhead.
 
 ## Hazards
 
@@ -69,10 +65,8 @@ The CDA River, the Snake Pit, views across to Silver Mountain, and Shadow & Fern
 ## R & P
 
 Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ &
-Saloon,
-Wallace Brewing Co. and Muchacho’s Tacos in Wallace. Radio Brewing in Kellogg. The Snake Pit north of
-Kingston. The Moon
-Time & The Mexican Food Factory in CDA.
+Saloon, Wallace Brewing Co. and Muchacho’s Tacos in Wallace. Radio Brewing in Kellogg. The Snake Pit north
+of Kingston. The Moon Time & The Mexican Food Factory in CDA.
 
 ## Photo gallery
 

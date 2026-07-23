@@ -24,8 +24,8 @@ stats:
 
 ## Description
 
-The Sunnyside Launch is located south of the Pack River Flats just west of the Pack River take out.
-The launch is located on the SE corner of the Sunnyside Peninsula.
+The Sunnyside Launch is located south of the Pack River Flats just west of the Pack River take out. The
+launch is located on the SE corner of the Sunnyside Peninsula.
 
 ## Attractions
 
@@ -34,8 +34,7 @@ P.O. Wildlife Management Area, the Pack River & Delta, Trestle Creek, the north 
 ## Directions
 
 After crossing the Long Bridge, take the Hwy 200, Clark Fork exit to Hwy 200. Drive 7.1 miles from the
-Sunnyside Exit.
-Stay on he Sunnyside Road towards Hawkins Point. The launch is just east oh Hawkins Point.
+Sunnyside Exit. Stay on he Sunnyside Road towards Hawkins Point. The launch is just east oh Hawkins Point.
 
 ## Cool things close by
 

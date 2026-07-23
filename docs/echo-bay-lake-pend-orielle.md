@@ -37,42 +37,31 @@ stats:
 ## Paddling instructions
 
 The paddle to Echo Bay starts at Bayview public launch, or the Farragut S. P. Eagle Boat Launch. From either
-site,
-paddle due East across Idlewilde Bay to Bernard Point at about 2.5 to 1.3 miles, respectfully.
-Paddle the shore line below Bernard Peak, under the massive near vertical wall. From Bernard Point to Echo
-Bay, keep an
-eye out for Mountain Goats high above.
-As you paddle NE along the shore line, a mile long Echo Bay has a beach worth visiting. Because of the lay of
-the land,
-it’s mostly shaded. But has several sunny areas to catch the rays.
-A major attraction to Echo Bay, is the massive amount of near perfect skipping rocks. But be careful, I’ve
-skipped so
-many, paddling back became an issue.
+site, paddle due East across Idlewilde Bay to Bernard Point at about 2.5 to 1.3 miles, respectfully. Paddle
+the shore line below Bernard Peak, under the massive near vertical wall. From Bernard Point to Echo Bay,
+keep an eye out for Mountain Goats high above. As you paddle NE along the shore line, a mile long Echo Bay
+has a beach worth visiting. Because of the lay of the land, it’s mostly shaded. But has several sunny areas
+to catch the rays. A major attraction to Echo Bay, is the massive amount of near perfect skipping rocks. But
+be careful, I’ve skipped so many, paddling back became an issue.
 
 ## Items of interest
 
 A major attraction to Echo Bay, is the massive amount of near perfect skipping rocks. But be careful, I’ve
-skipped so
-many, paddling back became an issue.
-You may want to paddle further around the shore towards Lakeview.
-From here you can retrace your strokes back, or if the lake is calm, you can paddle the 2.25 miles straight
-across to
-Cape Hope, and south to Bayview.
+skipped so many, paddling back became an issue. You may want to paddle further around the shore towards
+Lakeview. From here you can retrace your strokes back, or if the lake is calm, you can paddle the 2.25 miles
+straight across to Cape Hope, and south to Bayview.
 
 ## Directions
 
 From CDA drive north on 95 toward Sandpoint. At Athol, exit right (East) onto S. H. 54. In 4 miles, do the
-roundabout to
-the pay station.
-1/4 of a mile along 54, is the South Road, turn right and continue to the Eagle Boat Launch.
+roundabout to the pay station. 1/4 of a mile along 54, is the South Road, turn right and continue to the
+Eagle Boat Launch.
 
 ## Hazards
 
-If the winds are up, pull your boat up on shore. do not attempt to paddle in high winds.
-If you are out, and the winds pick up, secure you cockpit cover, put all loose items below, and paddle
-carefully and
-fast to the nearest shore line.
-Do not let the winds hit your boat broadside, It can blow you over.
+If the winds are up, pull your boat up on shore. do not attempt to paddle in high winds. If you are out, and
+the winds pick up, secure you cockpit cover, put all loose items below, and paddle carefully and fast to the
+nearest shore line. Do not let the winds hit your boat broadside, It can blow you over.
 
 ---
 
@@ -95,7 +84,8 @@ Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&pol
 
 *Picture (Image missing)*
 
-Just past steamboat rock are the cliffs above echo bay As soon as you get to steamboat rock, look for mountain
+Just past steamboat rock are the cliffs above echo bay As soon as you get to steamboat rock, look for
+mountain
 
 goats up
 

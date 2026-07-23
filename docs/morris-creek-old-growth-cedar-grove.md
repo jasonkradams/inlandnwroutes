@@ -38,12 +38,10 @@ notes:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an
-emergency ocurrs, evaluate your circumstances and call only if needed.
-Altho this is a short hike, it is filled with 500 year old cedars. At only 80 acres, its walk is .75 miles.
-Take the
-time on your way to the Giant Western Red Cedars, to visit this grove.
-In the spring and summer, take mosquito head nets, and cover up.
+info. if an emergency ocurrs, evaluate your circumstances and call only if needed. Altho this is a short
+hike, it is filled with 500 year old cedars. At only 80 acres, its walk is .75 miles. Take the time on your
+way to the Giant Western Red Cedars, to visit this grove. In the spring and summer, take mosquito head nets,
+and cover up.
 
 ## Directions
 

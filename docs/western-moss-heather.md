@@ -64,26 +64,18 @@ only a few
 
 millimeters long. From between the layers of scale leaves emerge reddish
 [pedicels](https://en.wikipedia.org/wiki/Pedicel_(botany)) each bearing a petite, hanging, down-facing,
-bell-shaped
-flower. The [bractlets](https://en.wikipedia.org/wiki/Bract)are red and the contrasting flower is white.
+bell-shaped flower. The [bractlets](https://en.wikipedia.org/wiki/Bract)are red and the contrasting flower
+is white.
 
-The white flower contrasts with the red bractlets.
-Although the shrub tends to grow in areas where there is a lot of accumulation of snow, adequate rain
-precipitation is
-needed for the continued growth of Cassiope Mertensiana. The shrub must be exposed to enough sunlight and
-warmer
-conditions for proper growth during the growing season.
-Cassiope mertensiana is a species of flowering plant known by the common names western moss heather and white
-mountain
-heather. This heather is native to subalpine areas of western North America, from Alaska to the mountains of
-California.
-It is a small, branching shrub which forms patches along the ground and in rocky crevices. The short, erect,
-snakelike
-stems are covered in tiny leathery scalelike leaves only a few millimeters long. >From between the layers of
-scale
-leaves emerge reddish pedicels each bearing a petite, hanging, down-facing, bell-shaped flower. The leaflets
-are red and
-the contrasting flower is white.
+The white flower contrasts with the red bractlets. Although the shrub tends to grow in areas where there is
+a lot of accumulation of snow, adequate rain precipitation is needed for the continued growth of Cassiope
+Mertensiana. The shrub must be exposed to enough sunlight and warmer conditions for proper growth during the
+growing season. Cassiope mertensiana is a species of flowering plant known by the common names western moss
+heather and white mountain heather. This heather is native to subalpine areas of western North America, from
+Alaska to the mountains of California. It is a small, branching shrub which forms patches along the ground
+and in rocky crevices. The short, erect, snakelike stems are covered in tiny leathery scalelike leaves only
+a few millimeters long. >From between the layers of scale leaves emerge reddish pedicels each bearing a
+petite, hanging, down-facing, bell-shaped flower. The leaflets are red and the contrasting flower is white.
 
 ---
 

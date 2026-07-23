@@ -49,17 +49,12 @@ notes:
 ## Description
 
 The flowers of this plant can only be described as stunning! Bob emailed us recently wondering about the
-plants. He and
-his family were enchanted with the bloom, found during a family vacation at the Steamboat Rock State Park in
-Eastern
-Washington State. This brought a bit of nostalgia for us, along with the delight in a beautiful flower. We
-enjoyed a
-family gathering some years back at that same park. This species was one of many collected on the Lewis and
-Clark
-expedition. The perennial herb is one of about 70 species in the genus, part of whose name means beautiful
-grass in
-Greek. Mariposa, in Spanish, means butterfly. Bob did a good job in showing two differing blossoms from this
-plant.
+plants. He and his family were enchanted with the bloom, found during a family vacation at the Steamboat
+Rock State Park in Eastern Washington State. This brought a bit of nostalgia for us, along with the delight
+in a beautiful flower. We enjoyed a family gathering some years back at that same park. This species was one
+of many collected on the Lewis and Clark expedition. The perennial herb is one of about 70 species in the
+genus, part of whose name means beautiful grass in Greek. Mariposa, in Spanish, means butterfly. Bob did a
+good job in showing two differing blossoms from this plant.
 
 ---
 

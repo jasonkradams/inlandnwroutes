@@ -24,8 +24,7 @@ stats:
 ## Description
 
 The Springy Point Camp Grounds have all the amenities a good camp ground should have, including a good
-swimming area,
-restrooms and many camp sites
+swimming area, restrooms and many camp sites
 
 ## Attractions
 
@@ -34,8 +33,7 @@ Close to Sandpoint on the south side of the Pend Orielle River. The Long Bridge,
 ## Directions
 
 As you drive up towards Sandpoint, turn left (west) onto Lakeshore Drive, just before crossing the long
-Bridge.
-Stay on Lakeshore Drive for just over 3 miles to the Springy Point Camp Grounds.
+Bridge. Stay on Lakeshore Drive for just over 3 miles to the Springy Point Camp Grounds.
 
 ## Cool things close by
 

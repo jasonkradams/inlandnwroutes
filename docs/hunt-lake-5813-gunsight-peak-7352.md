@@ -45,37 +45,30 @@ _Hunt Lake 5,813' | Peak 6,976' | Gunsight Peak 7,352' | Trail #1_
 ## Overview & Trail Description
 
 !!! info "Emergency Contact Information"
-    In case of emergency, evaluate your circumstances and contact local authorities if needed:
+In case of emergency, evaluate your circumstances and contact local authorities if needed:
 
     - **Bonner County Sheriff:** Call **911** first, or `208-263-8417`.
 
     - **Sandpoint Ranger District:** `208-263-5111`.
 
 Look for a wooden sign post marking the trailhead starting point. The trail quickly drops about 20 vertical
-feet before
-ascending into the boulder field that characterizes the main climb.
+feet before ascending into the boulder field that characterizes the main climb.
 
 Historically, route-finding relied on following painted dots on the rocks. Today, heavy foot traffic has
-established a
-distinct trail alongside the boulders:
+established a distinct trail alongside the boulders:
 
-- **Ascent Strategy:** Stay along the tundra on the right side until reaching a path across the scree field on
-  the first
-  shelf.
+- **Ascent Strategy:** Stay along the tundra on the right side until reaching a path across the scree field
+on the first shelf.
 
-- **Boulder Crossing:** The path crosses the scree field here and ascends along the left side of the old trail
-  toward
-  the lake. This newer trail offers a faster and less arduous ascent.
+- **Boulder Crossing:** The path crosses the scree field here and ascends along the left side of the old
+trail toward the lake. This newer trail offers a faster and less arduous ascent.
 
 - **Trail Markers:** Follow pale green and orange surveyor ribbon along the left side of the giant scree
-  slopes. In
-  places where the trail weaves through the forest away from the scree, you will occasionally scramble back
-out onto
-  the rocks.
+slopes. In places where the trail weaves through the forest away from the scree, you will occasionally
+scramble back out onto the rocks.
 
-When reaching the first bench on the ascent, turn around to note where the trail exits the scree slopes to the
-left back
-toward the trailhead.
+When reaching the first bench on the ascent, turn around to note where the trail exits the scree slopes to
+the left back toward the trailhead.
 
 ---
 
@@ -86,11 +79,10 @@ toward the trailhead.
 2. Turn right (east) onto **Hunt Creek Road #24**. Stay on #24, bearing left at the first "Y".
 
 3. Continue to the junction marked with an old #24 / #241 sign ("Y"). Note that a wooden **#243** sign has
-   been bolted
-   over the 241 marker, and a wooden board labeled **HUNT LAKE** leans against the #24 post.
+been bolted over the 241 marker, and a wooden board labeled **HUNT LAKE** leans against the #24 post.
 
 !!! warning "High Clearance Vehicle Required"
-    High-clearance trucks or SUVs are **strictly required** for the final 2 miles of the access road due to
+High-clearance trucks or SUVs are **strictly required** for the final 2 miles of the access road due to
 
 severe
 
@@ -102,14 +94,13 @@ rutting and rocky terrain. Low-clearance passenger cars should not attempt this 
 
 ### Option 1: Hunt Lake to Gunsight Peak
 
-Hike around the west side of Hunt Lake to the southeast corner. Look for a low saddle on the east ridge above
-the lake.
+Hike around the west side of Hunt Lake to the southeast corner. Look for a low saddle on the east ridge
+above the lake.
 
 - **Elevation Gain:** 927 feet up to the saddle.
 
 - **Summit Push:** Turn left (north) at the saddle and ascend 612 feet further to the summit of **Gunsight
-  Peak**
-  (7,352').
+Peak** (7,352').
 
 ### Option 2: Hunt Lake to Fault Lake Traverse
 
@@ -117,24 +108,23 @@ From Hunt Lake, scramble to the ridge above as described in Option 1.
 
 - **Ridge Traverse:** Head due south along the high crest for approximately 1 mile to **Peak 6,514'**.
 
-- **Descent to Fault Lake:** Locate a notch along the ridge to descend to **Fault Lake**, then follow **Trail
+- **Descent to Fault Lake:** Locate a notch along the ridge to descend to **Fault Lake**, then follow
+**Trail
   #59** down
-  to the Fault Lake trailhead.
+to the Fault Lake trailhead.
 
 ### Option 3: Extension to Hunt Peak
 
 From Peak 6,514' (reached in Option 2), continue south along the ridge for approximately 1/2 mile to reach
-**Hunt Peak**
-(7,058').
+**Hunt Peak** (7,058').
 
 ---
 
 ## Safety & Local Information
 
 !!! caution "Hazards & Safety Precautions"
-    Off-trail scrambling across high-alpine boulder fields, scree slopes, and sharp granite ridges presents
-numerous
-hazards. Exercise extreme caution, monitor changing weather, and bring proper navigation tools.
+Off-trail scrambling across high-alpine boulder fields, scree slopes, and sharp granite ridges presents
+numerous hazards. Exercise extreme caution, monitor changing weather, and bring proper navigation tools.
 
 ### Nearby Attractions
 
@@ -159,7 +149,7 @@ Refuel in nearby **Sandpoint, ID**:
 ### Weather & Planning
 
 - [Current NOAA Weather Forecast for Hunt Lake / Sandpoint
-  Area](http://www.nws.noaa.gov/wtf/udaf/area/?site=otx){:target="_blank"}
+Area](http://www.nws.noaa.gov/wtf/udaf/area/?site=otx){:target="_blank"}
 
 ---
 
@@ -190,5 +180,5 @@ _Nearing the 6,740' saddle on the ridge below Gunsight Peak._
 _Looking down at Hunt Lake from the high summits near Mt. Roothaan and Chimney Rock._
 
 !!! quote "Backcountry Reflection"
-    > *"Wandering is a state of mind, while bushwhackin' is a state of pleasure."*
-    > — **Chic** (August 29, 2012)
+> *"Wandering is a state of mind, while bushwhackin' is a state of pleasure."* > — **Chic** (August 29,
+2012)

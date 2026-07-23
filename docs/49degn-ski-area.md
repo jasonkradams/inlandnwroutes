@@ -26,14 +26,13 @@ notes:
 
 # 49Degn Ski Area
 
-*49°n ski area    chewelah, wa*
+*49°n ski area chewelah, wa*
 
 ## of named runs: 86
 
 ## of lifts: 8
 
-Miles from spokane: 59 miles
-Other amenities: xc skiing
+Miles from spokane: 59 miles Other amenities: xc skiing
 
 ---
 

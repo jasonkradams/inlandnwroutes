@@ -34,19 +34,15 @@ stats:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an
-emergency ocurrs, evaluate your circumstances and call only if needed.
-The best time of year to come here is in the spring before it gets too hot and the ticks come out. There are
-numerous
-natural wonders including the Great Floods and the Columbia River Basalt Group lava flows.
+info. if an emergency ocurrs, evaluate your circumstances and call only if needed. The best time of year to
+come here is in the spring before it gets too hot and the ticks come out. There are numerous natural wonders
+including the Great Floods and the Columbia River Basalt Group lava flows.
 
 ## Directions
 
 From Spokane take I-90 west about two hours and 15 minutes going past the Wild Horse Monument and across the
-Columbia
-River to the Vantage exit 136. We hiked cross country on the north side of town from the Rocky Coulee
-Recreation Area
-trail head.
+Columbia River to the Vantage exit 136. We hiked cross country on the north side of town from the Rocky
+Coulee Recreation Area trail head.
 
 ---
 
@@ -57,11 +53,9 @@ Gorge Amphitheater, Wild Horse Monument, Climbing at Frenchman Coulee
 ## Hazards
 
 There are sections of the trail where you have to side hill for a mile or so. Short sections have some
-exposure. This is
-a sunny and windy place, so bring lots of water. I hydrate 24 hours prior to any hot dry long day and I carry
-two liters
-of water if there is no water source along the route.
-Do not filter the scabs open water. the lakes and streams are full of agriculture runoff.
+exposure. This is a sunny and windy place, so bring lots of water. I hydrate 24 hours prior to any hot dry
+long day and I carry two liters of water if there is no water source along the route. Do not filter the
+scabs open water. the lakes and streams are full of agriculture runoff.
 
 ## R & P
 

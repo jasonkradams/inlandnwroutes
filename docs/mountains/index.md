@@ -86,9 +86,7 @@
 
 </div>
 
-ALASKA PEAK 7006'(M)
-DAD PEAK 6790’ (R)
-CABINET MOUNTAIN WILDERNESS, MT.")
+ALASKA PEAK 7006'(M) DAD PEAK 6790’ (R) CABINET MOUNTAIN WILDERNESS, MT.")
 
 <div class="grid cards" markdown>
 
@@ -146,9 +144,8 @@ CABINET MOUNTAIN WILDERNESS, MT.")
 
 - ![Image](../assets/images/122220211139a.jpg)
 
-- ![Image](../assets/images/122220211155a.jpg "I CALL THIS HIGH RIDGE \"CIRQUE OF SPIRES\" ON A CLIMBERS TRAIL
-  TO THE
-  LION HEAD. A.S. IMAGE BY CHRIS H.")
+- ![Image](../assets/images/122220211155a.jpg "I CALL THIS HIGH RIDGE \"CIRQUE OF SPIRES\" ON A CLIMBERS
+TRAIL TO THE LION HEAD. A.S. IMAGE BY CHRIS H.")
 
 - ![Image](../assets/images/122220211157a.jpg)
 
@@ -214,10 +211,6 @@ CABINET MOUNTAIN WILDERNESS, MT.")
 
 </div>
 
-The fitzroy massive,
-patagonia, argentina
-image by david crafton
-my co-founder in this
-website
+The fitzroy massive, patagonia, argentina image by david crafton my co-founder in this website
 
 ---

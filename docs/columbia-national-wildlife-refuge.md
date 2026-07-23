@@ -41,9 +41,7 @@ stats:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an
-emergency ocurrs, evaluate your circumstances and call only if needed.
-**Facts**
+info. if an emergency ocurrs, evaluate your circumstances and call only if needed. **Facts**
 
 - 75,000 individual waterfowl roost and loaf here
 
@@ -52,38 +50,32 @@ emergency ocurrs, evaluate your circumstances and call only if needed.
 - In places the basalt is nearly three miles thick
 
 - Lake Missoula covered 3,000 square miles, and contained an estimated 500 cubic miles of water at a maximum
-  depth of
-  2,000
+depth of 2,000
 
 - The flow rate of the flood is estimated at 600 million cubic feet per second
 
 - There may have been as many as 100 separate flood events
 
-- The Drumheller Channels National Natural Landmark area is one of the most spectacularly eroded areas of its
-  size in
-  the world
+- The Drumheller Channels National Natural Landmark area is one of the most spectacularly eroded areas of
+its size in the world
 
 - Moses Lake 15 miles to the north was one of the largest permanent Indian encampments. Upto 6,000 people
-  lived or
-  traded here including tribes from the Dakotas, Montana and the Pacific coast.
+lived or traded here including tribes from the Dakotas, Montana and the Pacific coast.
 
 - The local Sinkiuse-Columbia Tribe exchanged Columbia River salmon, camas roots and fiber from dogbane with
-  the other
-  tribes
+the other tribes
 
 ### Hiking
 
 - The areas including Marsh Loop, Crab Creek, Frog Lake and Upper/Lower Hampton Lake are closed for hiking
-  October 1 to
-  March 1
+October 1 to March 1
 
 - The area around Royal Lake is closed year round
 
 - Marsh Unit #1 and Corfu Road fields are closed February 1 to April 30
 
 - The Mesa  west of Marsh Unit #2 is open year round and is adjacent to Washington Department of Fish and
-  Wildlife areas
-  that appear to be open to the public use
+Wildlife areas that appear to be open to the public use
 
 ### Birding
 
@@ -122,8 +114,7 @@ Hike north cross country from the Hampton Lake boat launch
 ## Directions
 
 Take I-90 to exit 182, turn left onto Rd O NE, turn right onto Rd 2 SE, turn left onto Rd M SE, turn right
-onto WA-262
-W, follow that for 2.5 miles and just before the dam turn left into the Refuge.
+onto WA-262 W, follow that for 2.5 miles and just before the dam turn left into the Refuge.
 
 ## Click on the right arrow in the upper left hand corner of the map below to reveal the map legend
 
@@ -131,10 +122,9 @@ W, follow that for 2.5 miles and just before the dam turn left into the Refuge.
 
 ## Cool things close by
 
-Othello hosts a three day  Sandhill Crane Festival. Info is available here:
+Othello hosts a three day Sandhill Crane Festival. Info is available here:
 [www.othellosandhillcranefestival.org](https://www.othellosandhillcranefestival.org). Othello Mesas and Dry
-Creek Trail,
-Hanford Reach, Potholes Reservoir S.P.
+Creek Trail, Hanford Reach, Potholes Reservoir S.P.
 
 ## Hazards
 
@@ -142,9 +132,8 @@ Rattlesnakes
 
 ## R & P
 
-If you like Mexican food Chuy’s Mi Carniceria will have just about anything you want including desserts, fresh
-fruits
-and hot food to go.
+If you like Mexican food Chuy’s Mi Carniceria will have just about anything you want including desserts,
+fresh fruits and hot food to go.
 
 ---
 

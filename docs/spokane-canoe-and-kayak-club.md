@@ -8,7 +8,8 @@ Spokane Canoe
 
 and Kayak Club is the perfect way to experience them.
 
-Dedicated to promoting safe and fun paddling of all types - canoes, kayaks (whitewater, sea and recreational),
+Dedicated to promoting safe and fun paddling of all types - canoes, kayaks (whitewater, sea and
+recreational),
 
 rafts and
 

@@ -40,24 +40,20 @@ stats:
 
 ## Description
 
-Odessa area
-From the Odessa trailhead, just west of town, you can hike or pedal up Lake Creek trail to Pacific Lake area.
-Along the
-way are the Odessa Towers, Bob Lakes, Waukesha Springs, Delores Falls, Walter Lake, and Pacific Lake.
-The winds in the scabs can be brutal, so dress appropriately, and stay off the lakes when the wind is up.
-When the trail gets close to Bob Lakes, you are about 1/2 the way to Pacific Lake.
-Along the way, there are several craters up near Pacific Lake to visit.
-They won’t be volcano type of craters, but ones left from the big floods.
+Odessa area From the Odessa trailhead, just west of town, you can hike or pedal up Lake Creek trail to
+Pacific Lake area. Along the way are the Odessa Towers, Bob Lakes, Waukesha Springs, Delores Falls, Walter
+Lake, and Pacific Lake. The winds in the scabs can be brutal, so dress appropriately, and stay off the lakes
+when the wind is up. When the trail gets close to Bob Lakes, you are about 1/2 the way to Pacific Lake.
+Along the way, there are several craters up near Pacific Lake to visit. They won’t be volcano type of
+craters, but ones left from the big floods.
 
-Pacific lake area (dry)
-Hiking, horse rentals, fishing, and sight seeing are the main activities on the north end of the area.
+Pacific lake area (dry) Hiking, horse rentals, fishing, and sight seeing are the main activities on the
+north end of the area.
 
 ## Directions
 
-Lakeview Ranch
-Head west on I-90 to exit 245 near Sprague. On S. R. 23, drive about 13 miles, and turn left onto Mohler Road.
-Drive
-about 10 miles to S. R. 28, and turn left for 16 miles to Odessa.
+Lakeview Ranch Head west on I-90 to exit 245 near Sprague. On S. R. 23, drive about 13 miles, and turn left
+onto Mohler Road. Drive about 10 miles to S. R. 28, and turn left for 16 miles to Odessa.
 
 ## Hazards
 
@@ -67,9 +63,8 @@ Rattlesnakes, sunburns, and do not drink or filter any ground water in the scabs
 
 ## Cool things close by
 
-Hog Canyon, Fishtrap  Lake, Z Lake, Twin Lakes, Palouse Falls S. P., Steamboat Rock, Northrup Canyon & Lake,
-and Fort
-Spokane.
+Hog Canyon, Fishtrap Lake, Z Lake, Twin Lakes, Palouse Falls S. P., Steamboat Rock, Northrup Canyon & Lake,
+and Fort Spokane.
 
 ## R & P
 

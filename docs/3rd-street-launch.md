@@ -26,13 +26,10 @@ stats:
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an
-emergency ocurrs, evaluate your circumstances and call only if needed.
-Liberty Lake is a largish nearly round lake nestled between and north of both Mica Peaks.
-The launch is located on the north shore in a dense housing area. Parking and access to the launch can be
-difficult
-during busy periods.
-At the south end of the lake is the Liberty Lake Regional Park with all its amenities.
+info. if an emergency ocurrs, evaluate your circumstances and call only if needed. Liberty Lake is a largish
+nearly round lake nestled between and north of both Mica Peaks. The launch is located on the north shore in
+a dense housing area. Parking and access to the launch can be difficult during busy periods. At the south
+end of the lake is the Liberty Lake Regional Park with all its amenities.
 
 ## Attractions
 
@@ -40,9 +37,8 @@ A nice lake near Spokane for easy afternoon paddles.
 
 ## Directions
 
-Take the Liberty Lake exit off the freeway, and drive south on N. Liberty Lake Road to E.Sprague Ave. and turn
-left (E)
-to S. Molter Road and turn right (S). Head south to E. 3rd Ave. and turn left to the launch.
+Take the Liberty Lake exit off the freeway, and drive south on N. Liberty Lake Road to E.Sprague Ave. and
+turn left (E) to S. Molter Road and turn right (S). Head south to E. 3rd Ave. and turn left to the launch.
 
 ## Cool things close by
 

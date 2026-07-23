@@ -26,10 +26,9 @@ stats:
 
 ## Description
 
-The launch is located on the north end of the lake, just off of Hwy 95.
-If you paddle to the right, there is less highway noise, but the west shore has lots of houses.
-If you paddle to the left, you will have more highway noise, but no houses r people. And maybe a place to
-swim.
+The launch is located on the north end of the lake, just off of Hwy 95. If you paddle to the right, there is
+less highway noise, but the west shore has lots of houses. If you paddle to the left, you will have more
+highway noise, but no houses r people. And maybe a place to swim.
 
 ## Attractions
 
@@ -38,10 +37,8 @@ Close to the highway for easy access.
 ## Directions
 
 Drive north of Coeur d’Alene for nearly 30 miles. You can’t miss the lake as you drive along side for a mile
-or so. Turn
-left (west) onto Cocolalla Loop Road, then left at the first road, Sportsman’s Access Road, which jogs right,
-then left
-to the launch.
+or so. Turn left (west) onto Cocolalla Loop Road, then left at the first road, Sportsman’s Access Road,
+which jogs right, then left to the launch.
 
 ## Cool things close by
 

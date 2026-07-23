@@ -30,19 +30,13 @@ We have added the areas sheriff’s emergency phone numbers for each trip write 
 ## Directions
 
 This 4.8 mile single track secondary trail follows a steep ridge from the Moon Pass Road 456 to Ward Creek
-Road 327 near
-Shefoot Mountain. After the unrelenting initial climb up to Big Dick Point, the trail drops 300 feet where it
-meets up
-with Trail 501 before again climbing steeply to Shefoot Mountain. The views aboard Shefoot are outstanding,
-though the
-experience is diminished a bit by the easy road access available at the top. No water is found along the
-trail, so bring
-plenty. This provides a nice loop with Long Liz Trail 190 and the best way is to go up Long Liz and down Big
-Dick since
-Big Dick is the steeper trail. This is a favorite trail among motorcyclists.
-Be aware, there is a road to the top of Shefoot, but you miss the spectacular views above Big Dick Point, on
-your way to
-Shefoot Mountain.
+Road 327 near Shefoot Mountain. After the unrelenting initial climb up to Big Dick Point, the trail drops
+300 feet where it meets up with Trail 501 before again climbing steeply to Shefoot Mountain. The views
+aboard Shefoot are outstanding, though the experience is diminished a bit by the easy road access available
+at the top. No water is found along the trail, so bring plenty. This provides a nice loop with Long Liz
+Trail 190 and the best way is to go up Long Liz and down Big Dick since Big Dick is the steeper trail. This
+is a favorite trail among motorcyclists. Be aware, there is a road to the top of Shefoot, but you miss the
+spectacular views above Big Dick Point, on your way to Shefoot Mountain.
 
 ---
 
