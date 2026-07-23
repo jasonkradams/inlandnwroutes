@@ -3,6 +3,7 @@ site_name: INLAND NW ROUTES
 site_description: A comprehensive guide to hiking and scrambling in the American Selkirks, Cabinet Mountain Wilderness, the Bitterroots and more.
 theme:
   name: material
+  custom_dir: overrides
   palette:
     # Scheme 1: Inland Emerald (Nature Light)
     - scheme: default

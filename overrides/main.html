@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+{% block content %}
+  {% if page.meta.tags %}
+    <div class="md-tags" style="margin-bottom: 1rem;">
+      {% for tag in page.meta.tags %}
+        <span class="md-tag">{{ tag }}</span>
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  {% if page.meta.stats %}
+    <div class="admonition info" style="margin-bottom: 1.5rem;">
+      <p class="admonition-title">Quick Facts & Trip Stats</p>
+      <ul>
+        {% for item in page.meta.stats %}
+          <li><strong>{{ item.label }}:</strong> {{ item.value }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endif %}
+
+  {% if page.meta.notes %}
+    <div class="admonition warning" style="margin-bottom: 1.5rem;">
+      <p class="admonition-title">Forest Alerts & Important Notes</p>
+      <ul>
+        {% for note in page.meta.notes %}
+          <li>{{ note }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endif %}
+
+  {{ super() }}
+{% endblock %}
