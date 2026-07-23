@@ -101,326 +101,115 @@ scenic water accesses.
 
 ## Photo Gallery
 
-![Beehive Lake nestled under the granite walls of the Selkirk Crest](../assets/images/12192021802p.jpg)
-_Beehive Lake nestled under the granite walls of the Selkirk Crest._
-
-![Granite slabs and pine timber surrounding an alpine lake](../assets/images/20201028557p.jpg)
-_Granite slabs and pine timber surrounding an alpine lake._
-
-![Reflections across a tranquil mountain tarn](../assets/images/121920218091p.jpg)
-_Reflections across a tranquil mountain tarn._
-
-![Alpine lake shore in early morning light](../assets/images/12192021809p.jpg)
-_Alpine lake shore in early morning light._
-
-![Clear mountain waters overlooking dense evergreen canopy](../assets/images/12192021806p.jpg)
-_Clear mountain waters overlooking dense evergreen canopy._
-
-![Glacial granite boulders along the lake shoreline](../assets/images/img-0023.jpg)
-_Glacial granite boulders along the lake shoreline._
-
-![Subalpine meadow and serene alpine water](../assets/images/12082021856p.jpg)
-_Subalpine meadow and serene alpine water._
-
-![High altitude tarn reflecting rugged Selkirk spires](../assets/images/12192021811p.jpg)
-_High altitude tarn reflecting rugged Selkirk spires._
-
-![Rocky shore and crystalline mountain lake](../assets/images/12192021812p.jpg)
-_Rocky shore and crystalline mountain lake._
-
-![Pristine mountain basin in the Cabinet Wilderness](../assets/images/12192021813p.jpg)
-_Pristine mountain basin in the Cabinet Wilderness._
-
-![Granite ridge overlooking a secluded mountain lake](../assets/images/12192021814p.jpg)
-_Granite ridge overlooking a secluded mountain lake._
-
-![Deep blue waters of a glacial lake in late summer](../assets/images/12192021815p.jpg)
-_Deep blue waters of a glacial lake in late summer._
-
-![Hikers pausing at the edge of an alpine tarn](../assets/images/12192021817p.jpg)
-_Hikers pausing at the edge of an alpine tarn._
-
-![Panoramic vista of the Selkirk Crest surrounding Beehive Lake](../assets/images/12192021818p.jpg)
-_Panoramic vista of the Selkirk Crest surrounding Beehive Lake._
-
-![Early autumn colors framing an alpine shoreline](../assets/images/12192021820p.jpg)
-_Early autumn colors framing an alpine shoreline._
-
-![Mirror reflection on a calm wilderness lake](../assets/images/12192021823p.jpg)
-_Mirror reflection on a calm wilderness lake._
-
-![High mountain pass looking down into the lake basin](../assets/images/12192021821p.jpg)
-_High mountain pass looking down into the lake basin._
-
-![Wide panorama of Harrison Lake basin](../assets/images/12192021825p_orig.jpeg)
-_Wide panorama of Harrison Lake basin._
-
-![Clear mountain waters in the Cabinet Mountains Wilderness](../assets/images/12192021826p.jpg)
-_Clear mountain waters in the Cabinet Mountains Wilderness._
-
-![Granite spires rising above a remote backcountry lake](../assets/images/12192021827p.jpg)
-_Granite spires rising above a remote backcountry lake._
-
-![Backcountry camp spot near the alpine shore](../assets/images/12192021828p.jpg)
-_Backcountry camp spot near the alpine shore._
-
-![Sunlight illuminating high-elevation granite peaks](../assets/images/12192021829p.jpg)
-_Sunlight illuminating high-elevation granite peaks._
-
-![High altitude tarn tucked beneath rugged cliffs](../assets/images/12192021830p.jpg)
-_High altitude tarn tucked beneath rugged cliffs._
-
-![Trail winding along the lake ridge](../assets/images/12192021831p.jpg)
-_Trail winding along the lake ridge._
-
-![Spectacular reflections on a pristine mountain lake](../assets/images/12192021833p.jpg)
-_Spectacular reflections on a pristine mountain lake._
-
-![Subalpine firs along the rocky shoreline](../assets/images/121920218331p.jpg)
-_Subalpine firs along the rocky shoreline._
-
-![Dramatic granite face framing the lake basin](../assets/images/12192021834p.jpg)
-_Dramatic granite face framing the lake basin._
-
-![Climbers ascending granite slabs above the lake](../assets/images/121920218341p.jpg)
-_Climbers ascending granite slabs above the lake._
-
-![Wilderness lake reflections in the Cabinet Mountains](../assets/images/12192021835p.jpg)
-_Wilderness lake reflections in the Cabinet Mountains._
-
-![Wide landscape view of Wanless Lake basin](../assets/images/121920218351p_orig.jpeg)
-_Wide landscape view of Wanless Lake basin._
-
-![Sunbreak over the Selkirk alpine lakes](../assets/images/12192021836p.jpg)
-_Sunbreak over the Selkirk alpine lakes._
-
-![Crystal-clear alpine outlet stream](../assets/images/121920218371p.jpg)
-_Crystal-clear alpine outlet stream._
-
-![Looking back down into the timbered lake valley](../assets/images/12192021837p.jpg)
-_Looking back down into the timbered lake valley._
-
-![Strenuous granite boulder scramble near the crest](../assets/images/12192021838p.jpg)
-_Strenuous granite boulder scramble near the crest._
-
-![Glacial cirque headwall towering above the lake](../assets/images/img-0301.jpg)
-_Glacial cirque headwall towering above the lake._
-
-![High-resolution panorama of the Selkirk Crest alpine lake chain](../assets/images/12192021841p_orig.jpeg)
-_High-resolution panorama of the Selkirk Crest alpine lake chain._
-
-![Evening light over Upper Stevens Lake in the Silver Valley](../assets/images/12192021842p.jpg)
-_Evening light over Upper Stevens Lake in the Silver Valley._
-
-![Reflections of Willow Ridge across Lone Lake](../assets/images/12192021843p.jpg)
-_Reflections of Willow Ridge across Lone Lake._
-
-![Early summer snowpack lingering around the tarn](../assets/images/12192021845p.jpg)
-_Early summer snowpack lingering around the tarn._
-
-![Pine forest surrounding a tranquil mountain lake](../assets/images/12192021846p.jpg)
-_Pine forest surrounding a tranquil mountain lake._
-
-![Wide view of Revett Lake in the Coeur d'Alenes](../assets/images/12192021847p_orig.jpeg)
-_Wide view of Revett Lake in the Coeur d'Alenes._
-
-![Rocky overlook pointing toward the distant mountain range](../assets/images/12192021848p.jpg)
-_Rocky overlook pointing toward the distant mountain range._
-
-![View of Fault Lake basin looking west](../assets/images/12192021849p_orig.jpeg)
-_View of Fault Lake basin looking west._
-
-![Clear mountain waters under summer skies](../assets/images/12192021854p.jpg)
-_Clear mountain waters under summer skies._
-
-![Subalpine meadow near the lake inlet](../assets/images/12192021856p.jpg)
-_Subalpine meadow near the lake inlet._
-
-![High-resolution panorama of Fault Lake and Hunt Peak](../assets/images/121920218561p_orig.jpeg)
-_High-resolution panorama of Fault Lake and Hunt Peak._
-
-![High-resolution panorama of Hunt Lake basin](../assets/images/12192021858p_orig.jpeg)
-_High-resolution panorama of Hunt Lake basin._
-
-![Clear mountain waters overlooking pristine forest](../assets/images/12202021737p.jpg)
-_Clear mountain waters overlooking pristine forest._
-
-![Rock outcropping near the lake shore](../assets/images/12202021734p.jpg)
-_Rock outcropping near the lake shore._
-
-![Subalpine fir timber along the lake basin](../assets/images/12202021735p.jpg)
-_Subalpine fir timber along the lake basin._
-
-![High mountain ridge reflecting in the water](../assets/images/12202021736p.jpg)
-_High mountain ridge reflecting in the water._
-
-![Hikers resting along the alpine trail](../assets/images/12202021738p.jpg)
-_Hikers resting along the alpine trail._
-
-![Granite ridge top view of the lake basin](../assets/images/12202021740p.jpg)
-_Granite ridge top view of the lake basin._
-
-![Wide landscape of Two Mouth Lakes](../assets/images/12202021739p_orig.jpeg)
-_Wide landscape of Two Mouth Lakes._
-
-![Granite talus field above the lake](../assets/images/12202021745p.jpg)
-_Granite talus field above the lake._
-
-![View across the water to distant mountain ridges](../assets/images/12202021741p.jpg)
-_View across the water to distant mountain ridges._
-
-![Quiet morning light on an alpine lake](../assets/images/12202021743p.jpg)
-_Quiet morning light on an alpine lake._
-
-![Shadows stretching across the lake basin](../assets/images/12202021746p.jpg)
-_Shadows stretching across the lake basin._
-
-![Lush greenery surrounding the lake shore](../assets/images/12202021747p.jpg)
-_Lush greenery surrounding the lake shore._
-
-![Alpine wildflowers blooming near the water](../assets/images/12202021749p.jpg)
-_Alpine wildflowers blooming near the water._
-
-![Clear waters of a remote Cabinet Wilderness lake](../assets/images/12202021750p.jpg)
-_Clear waters of a remote Cabinet Wilderness lake._
-
-![Climbers looking down at the lake from the ridge](../assets/images/12202021751p.jpg)
-_Climbers looking down at the lake from the ridge._
-
-![Reflections of subalpine timber on calm water](../assets/images/12202021753p.jpg)
-_Reflections of subalpine timber on calm water._
-
-![Rocky shoreline of an alpine tarn](../assets/images/12202021754p.jpg)
-_Rocky shoreline of an alpine tarn._
-
-![Clear mountain basin in late summer](../assets/images/12202021755p.jpg)
-_Clear mountain basin in late summer._
-
-![Scrambler navigating granite boulders near the summit](../assets/images/12202021756p.jpg)
-_Scrambler navigating granite boulders near the summit._
-
-![Glacial basin nestled below steep cliffs](../assets/images/12202021757p.jpg)
-_Glacial basin nestled below steep cliffs._
-
-![Timber line overlooking the mountain lake](../assets/images/12202021758p.jpg)
-_Timber line overlooking the mountain lake._
-
-![Sunlight over the Selkirk Mountains](../assets/images/12202021760p.jpg)
-_Sunlight over the Selkirk Mountains._
-
-![Quiet alpine shoreline in early morning](../assets/images/12202021761p.jpg)
-_Quiet alpine shoreline in early morning._
-
-![Glacial tarn reflecting granite walls](../assets/images/12202021762p.jpg)
-_Glacial tarn reflecting granite walls._
-
-![Clear mountain water in the Bitterroots](../assets/images/12202021928p.jpg)
-_Clear mountain water in the Bitterroots._
-
-![Wildflower meadow along the alpine trail](../assets/images/122020219281p.jpg)
-_Wildflower meadow along the alpine trail._
-
-![High altitude tarn in the Cabinet Wilderness](../assets/images/12202021933p.jpg)
-_High altitude tarn in the Cabinet Wilderness._
-
-![Subalpine forest surrounding the shore](../assets/images/12202021934p.jpg)
-_Subalpine forest surrounding the shore._
-
-![Granite boulders at the lake inlet](../assets/images/12202021935p.jpg)
-_Granite boulders at the lake inlet._
-
-![View from the ridge overlooking the lake chain](../assets/images/12202021936p.jpg)
-_View from the ridge overlooking the lake chain._
-
-![Serene wilderness lake reflection](../assets/images/12202021937p.jpg)
-_Serene wilderness lake reflection._
-
-![Deep blue waters of an alpine cirque](../assets/images/12202021938p.jpg)
-_Deep blue waters of an alpine cirque._
-
-![Granite spires behind the alpine tarn](../assets/images/12202021939p.jpg)
-_Granite spires behind the alpine tarn._
-
-![Looking across the clear waters of Beehive Lake](../assets/images/12202021940p.jpg)
-_Looking across the clear waters of Beehive Lake._
-
-![Hikers on the Selkirk Crest overlooking the lake](../assets/images/12202021941p.jpg)
-_Hikers on the Selkirk Crest overlooking the lake._
-
-![Rocky shore of a mountain tarn](../assets/images/12202021942p.jpg)
-_Rocky shore of a mountain tarn._
-
-![Pine forest near the water's edge](../assets/images/12202021943p.jpg)
-_Pine forest near the water's edge._
-
-![High elevation ridge trail above the lake](../assets/images/12202021944p.jpg)
-_High elevation ridge trail above the lake._
-
-![Sunset over an alpine wilderness basin](../assets/images/12202021947p.jpg)
-_Sunset over an alpine wilderness basin._
-
-![Glacial boulders framing the alpine water](../assets/images/12262021257p.jpg)
-_Glacial boulders framing the alpine water._
-
-![High altitude alpine tarn in late summer](../assets/images/122220211121a.jpg)
-_High altitude alpine tarn in late summer._
-
-![Granite spires and reflection on the water](../assets/images/12262021255p.jpg)
-_Granite spires and reflection on the water._
-
-![Subalpine firs bordering the lake](../assets/images/12262021258p.jpg)
-_Subalpine firs bordering the lake._
-
-![Clear mountain basin in the Selkirks](../assets/images/12262021259p.jpg)
-_Clear mountain basin in the Selkirks._
-
-![Looking up toward the Selkirk Crest from the lake shore](../assets/images/3312022851p.jpg)
-_Looking up toward the Selkirk Crest from the lake shore._
-
-![Granite talus slope above the water](../assets/images/3312022850p.jpg)
-_Granite talus slope above the water._
-
-![Quiet mountain tarn in the morning light](../assets/images/3312022854p.jpg)
-_Quiet mountain tarn in the morning light._
-
-![Wildflower trail leading to the lake](../assets/images/3312022904p.jpg)
-_Wildflower trail leading to the lake._
-
-![Subalpine forest surrounding the cirque](../assets/images/3312022853p.jpg)
-_Subalpine forest surrounding the cirque._
-
-![Wide panorama of Lone Lake and Stevens Lakes](../assets/images/6172022743p_orig.jpeg)
-_Wide panorama of Lone Lake and Stevens Lakes._
-
-![Looking across Lone Lake to Willow Ridge](../assets/images/6172022750p.jpg)
-_Looking across Lone Lake to Willow Ridge._
-
-![Panorama of Upper Stevens Lake](../assets/images/6172022751p_orig.jpeg)
-_Panorama of Upper Stevens Lake._
-
-![Pristine water of Revett Lake](../assets/images/6172022753p.jpg)
-_Pristine water of Revett Lake._
-
-![Wide landscape of the Cabinet Wilderness lake chain](../assets/images/81520223338p_orig.jpeg)
-_Wide landscape of the Cabinet Wilderness lake chain._
-
-![Clear water reflecting the high peaks](../assets/images/8152022340p.jpg)
-_Clear water reflecting the high peaks._
-
-![High resolution panorama of Leigh Lake](../assets/images/8152022341p_orig.jpeg)
-_High resolution panorama of Leigh Lake._
-
-![High resolution panorama of Wanless Lake](../assets/images/8152022349p_orig.jpeg)
-_High resolution panorama of Wanless Lake._
-
-![Subalpine firs along the stream outlet](../assets/images/dscn0435.jpg)
-_Subalpine firs along the stream outlet._
-
-![Alpine lake tucked below granite cliffs](../assets/images/img-0826.jpg)
-_Alpine lake tucked below granite cliffs._
-
-![Lone Lake (left), Willow Ridge (center), Lower & Upper Stevens Lakes](../assets/images/3312022852p-copy.jpg)
-_Lone Lake (left), Willow Ridge (center), Lower & Upper Stevens Lakes._
-
-![Unnamed double lake in the upper basin](../assets/images/8152025439p.jpg)
-_Unnamed double lake in the upper basin._
+<div class="gallery-grid" markdown>
+
+- ![Beehive Lake nestled under the granite walls of the Selkirk Crest](../assets/images/12192021802p.jpg)
+- ![Granite slabs and pine timber surrounding an alpine lake](../assets/images/20201028557p.jpg)
+- ![Reflections across a tranquil mountain tarn](../assets/images/121920218091p.jpg)
+- ![Alpine lake shore in early morning light](../assets/images/12192021809p.jpg)
+- ![Clear mountain waters overlooking dense evergreen canopy](../assets/images/12192021806p.jpg)
+- ![Glacial granite boulders along the lake shoreline](../assets/images/img-0023.jpg)
+- ![Subalpine meadow and serene alpine water](../assets/images/12082021856p.jpg)
+- ![High altitude tarn reflecting rugged Selkirk spires](../assets/images/12192021811p.jpg)
+- ![Rocky shore and crystalline mountain lake](../assets/images/12192021812p.jpg)
+- ![Pristine mountain basin in the Cabinet Wilderness](../assets/images/12192021813p.jpg)
+- ![Granite ridge overlooking a secluded mountain lake](../assets/images/12192021814p.jpg)
+- ![Deep blue waters of a glacial lake in late summer](../assets/images/12192021815p.jpg)
+- ![Hikers pausing at the edge of an alpine tarn](../assets/images/12192021817p.jpg)
+- ![Panoramic vista of the Selkirk Crest surrounding Beehive Lake](../assets/images/12192021818p.jpg)
+- ![Early autumn colors framing an alpine shoreline](../assets/images/12192021820p.jpg)
+- ![Mirror reflection on a calm wilderness lake](../assets/images/12192021823p.jpg)
+- ![High mountain pass looking down into the lake basin](../assets/images/12192021821p.jpg)
+- ![Wide panorama of Harrison Lake basin](../assets/images/12192021825p_orig.jpeg)
+- ![Clear mountain waters in the Cabinet Mountains Wilderness](../assets/images/12192021826p.jpg)
+- ![Granite spires rising above a remote backcountry lake](../assets/images/12192021827p.jpg)
+- ![Backcountry camp spot near the alpine shore](../assets/images/12192021828p.jpg)
+- ![Sunlight illuminating high-elevation granite peaks](../assets/images/12192021829p.jpg)
+- ![High altitude tarn tucked beneath rugged cliffs](../assets/images/12192021830p.jpg)
+- ![Trail winding along the lake ridge](../assets/images/12192021831p.jpg)
+- ![Spectacular reflections on a pristine mountain lake](../assets/images/12192021833p.jpg)
+- ![Subalpine firs along the rocky shoreline](../assets/images/121920218331p.jpg)
+- ![Dramatic granite face framing the lake basin](../assets/images/12192021834p.jpg)
+- ![Climbers ascending granite slabs above the lake](../assets/images/121920218341p.jpg)
+- ![Wilderness lake reflections in the Cabinet Mountains](../assets/images/12192021835p.jpg)
+- ![Wide landscape view of Wanless Lake basin](../assets/images/121920218351p_orig.jpeg)
+- ![Sunbreak over the Selkirk alpine lakes](../assets/images/12192021836p.jpg)
+- ![Crystal-clear alpine outlet stream](../assets/images/121920218371p.jpg)
+- ![Looking back down into the timbered lake valley](../assets/images/12192021837p.jpg)
+- ![Strenuous granite boulder scramble near the crest](../assets/images/12192021838p.jpg)
+- ![Glacial cirque headwall towering above the lake](../assets/images/img-0301.jpg)
+- ![High-resolution panorama of the Selkirk Crest alpine lake chain](../assets/images/12192021841p_orig.jpeg)
+- ![Evening light over Upper Stevens Lake in the Silver Valley](../assets/images/12192021842p.jpg)
+- ![Reflections of Willow Ridge across Lone Lake](../assets/images/12192021843p.jpg)
+- ![Early summer snowpack lingering around the tarn](../assets/images/12192021845p.jpg)
+- ![Pine forest surrounding a tranquil mountain lake](../assets/images/12192021846p.jpg)
+- ![Wide view of Revett Lake in the Coeur d'Alenes](../assets/images/12192021847p_orig.jpeg)
+- ![Rocky overlook pointing toward the distant mountain range](../assets/images/12192021848p.jpg)
+- ![View of Fault Lake basin looking west](../assets/images/12192021849p_orig.jpeg)
+- ![Clear mountain waters under summer skies](../assets/images/12192021854p.jpg)
+- ![Subalpine meadow near the lake inlet](../assets/images/12192021856p.jpg)
+- ![High-resolution panorama of Fault Lake and Hunt Peak](../assets/images/121920218561p_orig.jpeg)
+- ![High-resolution panorama of Hunt Lake basin](../assets/images/12192021858p_orig.jpeg)
+- ![Clear mountain waters overlooking pristine forest](../assets/images/12202021737p.jpg)
+- ![Rock outcropping near the lake shore](../assets/images/12202021734p.jpg)
+- ![Subalpine fir timber along the lake basin](../assets/images/12202021735p.jpg)
+- ![High mountain ridge reflecting in the water](../assets/images/12202021736p.jpg)
+- ![Hikers resting along the alpine trail](../assets/images/12202021738p.jpg)
+- ![Granite ridge top view of the lake basin](../assets/images/12202021740p.jpg)
+- ![Wide landscape of Two Mouth Lakes](../assets/images/12202021739p_orig.jpeg)
+- ![Granite talus field above the lake](../assets/images/12202021745p.jpg)
+- ![View across the water to distant mountain ridges](../assets/images/12202021741p.jpg)
+- ![Quiet morning light on an alpine lake](../assets/images/12202021743p.jpg)
+- ![Shadows stretching across the lake basin](../assets/images/12202021746p.jpg)
+- ![Lush greenery surrounding the lake shore](../assets/images/12202021747p.jpg)
+- ![Alpine wildflowers blooming near the water](../assets/images/12202021749p.jpg)
+- ![Clear waters of a remote Cabinet Wilderness lake](../assets/images/12202021750p.jpg)
+- ![Climbers looking down at the lake from the ridge](../assets/images/12202021751p.jpg)
+- ![Reflections of subalpine timber on calm water](../assets/images/12202021753p.jpg)
+- ![Rocky shoreline of an alpine tarn](../assets/images/12202021754p.jpg)
+- ![Clear mountain basin in late summer](../assets/images/12202021755p.jpg)
+- ![Scrambler navigating granite boulders near the summit](../assets/images/12202021756p.jpg)
+- ![Glacial basin nestled below steep cliffs](../assets/images/12202021757p.jpg)
+- ![Timber line overlooking the mountain lake](../assets/images/12202021758p.jpg)
+- ![Sunlight over the Selkirk Mountains](../assets/images/12202021760p.jpg)
+- ![Quiet alpine shoreline in early morning](../assets/images/12202021761p.jpg)
+- ![Glacial tarn reflecting granite walls](../assets/images/12202021762p.jpg)
+- ![Clear mountain water in the Bitterroots](../assets/images/12202021928p.jpg)
+- ![Wildflower meadow along the alpine trail](../assets/images/122020219281p.jpg)
+- ![High altitude tarn in the Cabinet Wilderness](../assets/images/12202021933p.jpg)
+- ![Subalpine forest surrounding the shore](../assets/images/12202021934p.jpg)
+- ![Granite boulders at the lake inlet](../assets/images/12202021935p.jpg)
+- ![View from the ridge overlooking the lake chain](../assets/images/12202021936p.jpg)
+- ![Serene wilderness lake reflection](../assets/images/12202021937p.jpg)
+- ![Deep blue waters of an alpine cirque](../assets/images/12202021938p.jpg)
+- ![Granite spires behind the alpine tarn](../assets/images/12202021939p.jpg)
+- ![Looking across the clear waters of Beehive Lake](../assets/images/12202021940p.jpg)
+- ![Hikers on the Selkirk Crest overlooking the lake](../assets/images/12202021941p.jpg)
+- ![Rocky shore of a mountain tarn](../assets/images/12202021942p.jpg)
+- ![Pine forest near the water's edge](../assets/images/12202021943p.jpg)
+- ![High elevation ridge trail above the lake](../assets/images/12202021944p.jpg)
+- ![Sunset over an alpine wilderness basin](../assets/images/12202021947p.jpg)
+- ![Glacial boulders framing the alpine water](../assets/images/12262021257p.jpg)
+- ![High altitude alpine tarn in late summer](../assets/images/122220211121a.jpg)
+- ![Granite spires and reflection on the water](../assets/images/12262021255p.jpg)
+- ![Subalpine firs bordering the lake](../assets/images/12262021258p.jpg)
+- ![Clear mountain basin in the Selkirks](../assets/images/12262021259p.jpg)
+- ![Looking up toward the Selkirk Crest from the lake shore](../assets/images/3312022851p.jpg)
+- ![Granite talus slope above the water](../assets/images/3312022850p.jpg)
+- ![Quiet mountain tarn in the morning light](../assets/images/3312022854p.jpg)
+- ![Wildflower trail leading to the lake](../assets/images/3312022904p.jpg)
+- ![Subalpine forest surrounding the cirque](../assets/images/3312022853p.jpg)
+- ![Wide panorama of Lone Lake and Stevens Lakes](../assets/images/6172022743p_orig.jpeg)
+- ![Looking across Lone Lake to Willow Ridge](../assets/images/6172022750p.jpg)
+- ![Panorama of Upper Stevens Lake](../assets/images/6172022751p_orig.jpeg)
+- ![Pristine water of Revett Lake](../assets/images/6172022753p.jpg)
+- ![Wide landscape of the Cabinet Wilderness lake chain](../assets/images/81520223338p_orig.jpeg)
+- ![Clear water reflecting the high peaks](../assets/images/8152022340p.jpg)
+- ![High resolution panorama of Leigh Lake](../assets/images/8152022341p_orig.jpeg)
+- ![High resolution panorama of Wanless Lake](../assets/images/8152022349p_orig.jpeg)
+- ![Subalpine firs along the stream outlet](../assets/images/dscn0435.jpg)
+- ![Alpine lake tucked below granite cliffs](../assets/images/img-0826.jpg)
+- ![Lone Lake (left), Willow Ridge (center), Lower & Upper Stevens Lakes](../assets/images/3312022852p-copy.jpg)
+- ![Unnamed double lake in the upper basin](../assets/images/8152025439p.jpg)
+
+</div>

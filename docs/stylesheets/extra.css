@@ -189,7 +189,10 @@ body,
 .photo-grid>a,
 .atmosphere-grid>div,
 .atmosphere-grid>p,
-.atmosphere-grid>a {
+.atmosphere-grid>a,
+.gallery-grid>div,
+.gallery-grid>p,
+.gallery-grid>a {
   display: flex;
   flex-direction: column;
   background-color: var(--inw-card-bg);
@@ -204,11 +207,43 @@ body,
   margin-bottom: 0 !important;
 }
 
+.gallery-grid > ul {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  grid-column: 1 / -1;
+}
+
+.gallery-grid > ul > li {
+  margin: 0 !important;
+  padding: 0 !important;
+  list-style: none !important;
+}
+
+@media (max-width: 960px) {
+  .gallery-grid > ul {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.2rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .gallery-grid > ul {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+}
+
 .photo-card:hover,
 .photo-grid>p:hover,
 .photo-grid>a:hover,
 .atmosphere-grid>p:hover,
-.atmosphere-grid>a:hover {
+.atmosphere-grid>a:hover,
+.gallery-grid>p:hover,
+.gallery-grid>a:hover {
   transform: translateY(-6px) scale(1.02);
   box-shadow: 0 20px 35px -8px rgba(0, 0, 0, 0.2);
   border-color: var(--md-accent-fg-color);
@@ -216,21 +251,24 @@ body,
 
 .photo-card img,
 .photo-grid img,
-.atmosphere-grid img {
+.atmosphere-grid img,
+.gallery-grid img {
   width: 100%;
   height: 240px;
   object-fit: cover;
   display: block;
-  transition: transform 0.5s ease, filter 0.3s ease;
+  border-radius: 12px;
+  transition: transform 0.5s ease, filter 0.3s ease, box-shadow 0.3s ease;
 }
 
 .photo-card:hover img,
 .photo-grid>p:hover img,
 .photo-grid>a:hover img,
 .atmosphere-grid>p:hover img,
-.atmosphere-grid>a:hover img {
-  transform: scale(1.06);
-  filter: brightness(1.05);
+.atmosphere-grid>a:hover img,
+.gallery-grid img:hover {
+  transform: scale(1.04);
+  filter: brightness(1.04);
 }
 
 /* Photo Card Caption */
