@@ -1,16 +1,13 @@
+---
+tags:
+- Paddling & Rivers
+stats:
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+---
+
 # Cary Launch
-
-## Cary launch
-
----
-
-Paddle distance: 
-Elevation: 
-Length and acreage: 
-Maps:
-Launch gps: ??° ??’ ??.?”n ???° ??’ ??.?”w
-
----
 
 ## Description
 

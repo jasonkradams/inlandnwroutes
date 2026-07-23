@@ -1,16 +1,30 @@
-# Silver Star Mountain Resort
-
-## Silver star mountain resort
-
+---
+tags:
+- Peaks & Mountains
+stats:
+- label: Phone
+  icon: phone
+  value: 800.663.4431
+- label: Acres
+  icon: vector-square
+  value: '3282'
+- label: Average Snow Fall
+  icon: weather-snowy-heavy
+  value: 267"
+- label: Summit Elevation
+  icon: terrain
+  value: 6283'
+- label: Base Elevation
+  icon: terrain
+  value: 3783'
+- label: Verts
+  icon: arrow-expand-vertical
+  value: 2500'
+notes:
+- Skisilverstar.com
 ---
 
-Skisilverstar.com
-Phone: 800.663.4431
-Acres: 3282
-​average snow fall: 267"
-Summit elevation:  6283'
-Base elevation: 3783'
-Verts: 2500'
+# Silver Star Mountain Resort
 
 ## of named runs: 132
 

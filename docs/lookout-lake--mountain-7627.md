@@ -1,27 +1,50 @@
+---
+tags:
+- Lakes
+- Easy
+- Day Hiking
+- Backpacking
+- Scrambling
+- Scenery
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, scrambling & Scenery
+- label: Distance
+  icon: map-marker-distance
+  value: 5 mile RT
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 1523’
+- label: Difficulty
+  icon: speedometer
+  value: easy
+- label: Maps
+  icon: map
+  value: IPNF, Kootenai National Forest, Caribou Creek
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°47’17"n 116° 47’ 41"w
+- label: Ranger District
+  icon: pine-tree
+  value: Idaho Dept. of Lands, Priest River. 208.448.2302
+- label: Boundary County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.267.3151
+notes:
+- Idaho panhandle national forest/alerts
+- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Lookout Lake  Mountain 7627
 
-## Lookout lake, mountain 6727’ & two lookout towers
-
----
-
-EVENT TYPE: Day hiking, backpacking, scrambling & Scenery
-DISTANCE: 5 mile RT
-Elevation gain: 1523’
-DIFFICULTY: easy
-MAPS:IPNF, Kootenai National Forest, Caribou Creek
-Gps: 48°47’17”n 116° 47’ 41”w
-RANGER DISTRICT:  Idaho Dept. of Lands, Priest River.   208.448.2302
-​BOUNDARY COUNTY SHERIFF: CALL 911 FIRST or 208.267.3151
-Idaho panhandle national forest/alerts
-<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
+*Lookout lake, mountain 6727’ & two lookout towers*
 
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
 ​Lookout Mountain stands tall on the west side of the Selkirk Range, above Upper Priest Lake. One cool thing about this hike, is how easy it is.
-From the trailhead, hike Trail #36 for about a mile to Lookout Lake. After enjoying the lake, continue on Trail #36, and watch for a “trail,” Trail #37 off to the left (East) that leads you to the summit and it’s two lookout towers. Wonder the summit plateau, and enjoy the magnificent views.
+From the trailhead, hike Trail #36 for about a mile to Lookout Lake. After enjoying the lake, continue on Trail #36, and watch for a "trail," Trail #37 off to the left (East) that leads you to the summit and it’s two lookout towers. Wonder the summit plateau, and enjoy the magnificent views.
 
 Please do not disturb the fire lookout person, unless they invite you up.
 The old lookout has been restored, but survived a fire in 2001.

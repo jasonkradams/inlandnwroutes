@@ -1,17 +1,28 @@
+---
+tags:
+- Lakes
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: 8.5 mile loop
+- label: Elevation
+  icon: terrain
+  value: 2385’
+- label: Length and Acreage
+  icon: vector-square
+  value: 2.6 miles long and 1100 acres
+- label: Maps
+  icon: map
+  value: Stevens County, Deer Lake topo
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 48°03’20" n 117038’17" w
+- label: Stevens County Sheriff
+  icon: shield-account
+  value: 509.684.5296
+---
+
 # Loon Lake Launch
-
-## Loon lake launch​
-
----
-
-PADDLE DISTANCE: 8.5 mile loop
-Elevation: 2385’
-LENGTH AND ACREAGE: 2.6 miles long and 1100 acres
-MAPS:Stevens County, Deer Lake topo
-Launch gps: 48°03’20” n 117038’17” w
-​stevens county sheriff: 509.684.5296
-
----
 
 ## Description
 

@@ -1,20 +1,39 @@
+---
+tags:
+- Trails & Scrambles
+stats:
+- label: Genesis Name
+  icon: book-open-variant
+  value: Clarkia pulchella
+- label: Distribution
+  icon: earth
+  value: WA, OR, ID, MT Canada..BC
+- label: Season
+  icon: calendar
+  value: June thru Roctober
+- label: Medical Use
+  icon: medical-bag
+  value: none
+- label: Poisonous
+  icon: skull-crossbones
+  value: 'no'
+- label: Edibility
+  icon: food-apple
+  value: 'no'
+- label: Features
+  icon: information-outline
+  value: An [herbaceous](https://en.wikipedia.org/wiki/Herbaceous_plant) [perennial
+    plant](https://en.wikipedia.org/wiki/Perennial_plant), it is the [type species](https://en.wikipedia.org/wiki/Type_species)
+    of *Clarkia*. This plant is 10–50 cm (3.9–19.7 in), erect, branched or not, and
+    covered with short hairs. The leaves alternate along the stalk and are lance to
+    spoon-shaped, about 2–7 cm (0.79–2.76 in) long and sometimes finely toothed. The
+    distinctive lavender to light purple flowers are four-lobed and fused at the base.
+    Each lobe is in turn three-lobed with the middle lobe widest.
+---
+
 # Large Flower Clarkia
 
-## Large-flower clarkia.  aka pinkfairies
-
----
-
-GENESIS NAME:  Clarkia pulchella
-DISTRIBUTION:  WA, OR, ID, MT   Canada..BC
-SEASON:  June thru Roctober
-Medical use:  none
-Poisonous:  no
-Edibility:no
-FEATURES:  An [herbaceous](https://en.wikipedia.org/wiki/Herbaceous_plant) [perennial plant](https://en.wikipedia.org/wiki/Perennial_plant), it is the [type species](https://en.wikipedia.org/wiki/Type_species) of *Clarkia*. This plant is 10–50 cm (3.9–19.7 in), erect, branched or not, and covered with short hairs. The leaves alternate along the stalk and are lance to spoon-shaped, about 2–7 cm (0.79–2.76 in) long and sometimes finely toothed. The distinctive lavender to light purple flowers are four-lobed and fused at the base. Each lobe is in turn three-lobed with the middle lobe widest.
-​leaves:
-Fruits:
-
----
+*Large-flower clarkia.  aka pinkfairies*
 
 ## Description
 

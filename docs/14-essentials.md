@@ -6,9 +6,7 @@
 
 ## The 13 essentials has grown to 14
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  |  | These item are to be carried by EVERY INDIVIDUAL, whether hiking solo or in a group. Couples are especially encouraged to carry their own 14 essentials, as well as their own food, water, and first aid supplies, just in case one or the other gets separated from their spouse or group. Please, error on the side of caution. ​NEVER rely on others. And know your equipment inside and out, before venturing into nature. KNOWLEDGE is the most important thing you can take into the mountains. |  |
+These items are to be carried by EVERY INDIVIDUAL, whether hiking solo or in a group. Couples are especially encouraged to carry their own 14 essentials, as well as their own food, water, and first aid supplies, just in case one or the other gets separated from their spouse or group. Please, error on the side of caution. NEVER rely on others. And know your equipment inside and out, before venturing into nature. KNOWLEDGE is the most important thing you can take into the mountains.
 
 1. fire starter.
 
@@ -17,7 +15,7 @@ There are commercial pastes, matches, and other types of fire starters on the ma
 
 When in nature, you may notice the stringy lichen hanging from tree limbs. Beard lichen is an excellent fire starter, and can be used as a sponge for collecting water. 
 
-Another use for something we all have around the house is dryer lint. Wrap it in paper like a tube, in a ziplock baggie, or stuff into an extra light container. Keep them in your 13 essentials for emergency use. See “HINTS”
+Another use for something we all have around the house is dryer lint. Wrap it in paper like a tube, in a ziplock baggie, or stuff into an extra light container. Keep them in your 13 essentials for emergency use. See "HINTS"
 
 1. plastic grocery bags
 
@@ -74,10 +72,10 @@ You can also look for the two stars farthest from the handle, of the Big Dipper.
 ### My choice is a MET RX bar. They are available in the pharmacy at Walmart and at Winco. They have 32 grams of protein and 19 vitamins and minerals
 
 1. extra water or water purifier
- Because water is not always available along some trails, carrying enough water is paramount. I often drop water bottles along an out and back route, so I don’t have to carry so much water the full distance. Mark location carefully. See “HINTS”
+ Because water is not always available along some trails, carrying enough water is paramount. I often drop water bottles along an out and back route, so I don’t have to carry so much water the full distance. Mark location carefully. See "HINTS"
 
 1. extra clothing
-Socks come to mind as an important item to have in case your feet get wet. A micro-fiber cloth works well and dries quickly. Other items may include polar fleece jacket and/or pants, spare wool or fleece gloves, stocking caps, and face masks. See “HINTS”
+Socks come to mind as an important item to have in case your feet get wet. A micro-fiber cloth works well and dries quickly. Other items may include polar fleece jacket and/or pants, spare wool or fleece gloves, stocking caps, and face masks. See "HINTS"
 
 1. paper towels & trowel
 I suggest paper towels over toilet paper, because a blow is very messy. The USFS suggests that all human waste be buried at least 6 inches deep, AND AT LEAST 200 FEET FROM ANY WATER SOURCE. THAT INCLUDES PEE.
@@ -89,10 +87,10 @@ A piece of plastic sheeting and twine will suffice for a shelter if needed. Howe
 
 1. headlight & extra batteries
 I date my batteries when I install them in my headlight. Modern LED/LCD/COB headlights don’t need spare bulbs, so a second headlight is advised. Check the batteries before every trip to make sure you will have light when needed.
-A COB type of headlight floods the view with way more lumens , hence I've noticed that depth of field and obstacles awareness is improved substantially. See “HINTS”
+A COB type of headlight floods the view with way more lumens , hence I've noticed that depth of field and obstacles awareness is improved substantially. See "HINTS"
 
 1. knife
-I carry several sizes of knives. One for small work like cutting up apples, but a large one if I’m on a potential difficult hike. A large Bowie type knife can be used to make kindling. See “HINTS”
+I carry several sizes of knives. One for small work like cutting up apples, but a large one if I’m on a potential difficult hike. A large Bowie type knife can be used to make kindling. See "HINTS"
 
 1. first aid kit
 You must decide what you take with you. Be extra careful in your selection of proper First Aid supplies.
@@ -101,7 +99,7 @@ You must decide what you take with you. Be extra careful in your selection of pr
 
 Carry what you may need, and add as necessary. Feminine pads are great items to have in your first aid kit.
 
-Once on a week long ski trip in Kokanee Glacier National Park, one of the women started her period early. She was two weeks early, so she was in a bad way. We made a game of creating pads from the very sparse inventory of materials. It worked. And think of this...you could be a savior in case of a normal emergency. See “HINTS”
+Once on a week long ski trip in Kokanee Glacier National Park, one of the women started her period early. She was two weeks early, so she was in a bad way. We made a game of creating pads from the very sparse inventory of materials. It worked. And think of this...you could be a savior in case of a normal emergency. See "HINTS"
 
 1. ​
 
@@ -109,7 +107,7 @@ Once on a week long ski trip in Kokanee Glacier National Park, one of the women 
 A whistle, canned air horn, or a mirror work well.​
  
 ​14. sun tan lotion & sun protection
- Make sure your sun tan lotion is always fresh, and close at hand. I prefer a large sun hat like Sunday Afternoon, Solaris, or Sun Blocker. 100% UVA/UVB/IRA sun glasses are wise. If you spend time on snow, side and nose shades on sun glasses will protect your eyes and nose from reflected rays. Snow blindness is a very serious affliction while out. See”HINTS”. ​​
+ Make sure your sun tan lotion is always fresh, and close at hand. I prefer a large sun hat like Sunday Afternoon, Solaris, or Sun Blocker. 100% UVA/UVB/IRA sun glasses are wise. If you spend time on snow, side and nose shades on sun glasses will protect your eyes and nose from reflected rays. Snow blindness is a very serious affliction while out. See"HINTS". ​​
 
 ### S.t.o.p
 
@@ -126,7 +124,7 @@ If one or more terrain features looks familiar, observe what it looks like now, 
 **P**…..PLAN form a plan for the immediate future, and for the up coming darkness.
 Think this thru very carefully. What you decide, may save or cost you your life.
 Well before you head out to hike, be sure to you pack your 14 ESSENTIALS pouch.
-And if you have to spend the night out, start preparing your “camp” early. Creating a place to spend the night can be difficult the darker and colder it gets.
+And if you have to spend the night out, start preparing your "camp" early. Creating a place to spend the night can be difficult the darker and colder it gets.
 Gather wood for a fire, but only if it’s safe to lite one.  If you are in a forest with light or dark colored stringy Lichen, hanging from tree branches, they are very good fire starter.
 Pine bowls can be used for making a soft place to rest/sleep, and can act as a blanket.
 Something I’ve done both in a group or solo, is mark the trail with a distinguishing mark. Put an X or arrow pointing in the direction you are walking.
@@ -165,11 +163,11 @@ Like cotton clothing, a macho attitude can get you in danger very quickly.
 -A ziplock baggie with instructions on how to properly use your more complicated items like your compass, stove, water purifier, etc. is great assurance and in case they are needed. Cool or hot temps can play games with your head.
 
 -An Emergency Locater Beacon or Personal Location Devise is a wise choice for off trail hiking and long, complicated, or dangerous terrain. There are beacons that do not use a subscription service to operate.
-There is a new iPhone 14 that has a satellite SOS capability “See HINTS”
+There is a new iPhone 14 that has a satellite SOS capability "See HINTS"
 The app…AirFlare is an app for your phone.
 It weights nothing and has a cost $4.99 A YEAR
 
--I carry a pen and a small tablet of paper to write notes on such things as “Y’s” in trails, notes to hikers behind me, essays, etc.
+-I carry a pen and a small tablet of paper to write notes on such things as "Y’s" in trails, notes to hikers behind me, essays, etc.
 
 -Surveyors tape to mark off route or trail Y’s. But be sure the last person retrieves the tape. The next hiking party may not be going your way.
 By looping the once folded tape over a twig, and pulling the loose ends thru the loop, they are easy to retrieve.
@@ -191,9 +189,9 @@ You may have other items you feel are necessary. But be aware of the additional 
 
 ---
 
-|  |  |
-| --- | --- |
-| Picture [Wta.org](https://www.wta.org) [Picture](https://www.wta.org)  Washington Trails Association mobilizes hikers and everyone who loves the outdoors to explore, steward and champion trails and public lands. WTA protects trails through lobbying and grassroots advocacy on issues that impact hikers, like trail funding, limited access and wilderness protection.   WTA's advocacy voice is strengthened by the year-round work of our volunteers to keep trails open and accessible, from urban areas to remote wilderness and everything in between. More than 3,800 people come out annually to provide the more than 120,000 hours of volunteer trail work. Working with our land management partners WTA is striving to create a safe and sustainable trail system.  <https://www.wta.org> | Picture [Idahotrailsassociation.org](http://www.idahotrailsassociation.org) [Picture](http://www.idahotrailsassociation.org)  ​Idaho Trails Association's mission is "keeping Idaho's hiking trails open for all". As a voice for hikers, Idaho Trails Association promotes and advocates for the conservation and enjoyment of Idaho’s incredible backcountry on foot or horseback. ITA mobilizes volunteers and organizes one day to weeklong trail maintenance projects, working in coordination with other organizations and Federal land management agency partners. We seek to educate hikers and other trail users in Leave No Trace principles, safe and responsible trail use, and traditional tool use in trail maintenance. ​  For more information or to become a member, please visit our website, or email    [Email Protected]  ​<https://www.idahotrailsassociation.org> |
+[Washington Trails Association (WTA)](https://www.wta.org) — WTA mobilizes hikers and everyone who loves the outdoors to explore, steward and champion trails and public lands. WTA protects trails through lobbying and grassroots advocacy on issues that impact hikers, like trail funding, limited access and wilderness protection. WTA's advocacy voice is strengthened by the year-round work of our volunteers to keep trails open and accessible, from urban areas to remote wilderness and everything in between. More than 3,800 people come out annually to provide the more than 120,000 hours of volunteer trail work. Working with our land management partners WTA is striving to create a safe and sustainable trail system.
+
+[Idaho Trails Association](http://www.idahotrailsassociation.org) — Idaho Trails Association's mission is "keeping Idaho's hiking trails open for all". As a voice for hikers, Idaho Trails Association promotes and advocates for the conservation and enjoyment of Idaho's incredible backcountry on foot or horseback. ITA mobilizes volunteers and organizes one day to weeklong trail maintenance projects, working in coordination with other organizations and Federal land management agency partners. We seek to educate hikers and other trail users in Leave No Trace principles, safe and responsible trail use, and traditional tool use in trail maintenance. For more information or to become a member, please visit their website.
 
 ## [Spokane mountaineers](https://www.spokanemountaineers.org)
 

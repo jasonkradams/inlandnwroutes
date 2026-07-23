@@ -1,23 +1,47 @@
+---
+tags:
+- Lakes
+- Easy to Moderate
+- Day Hiking
+- Backpacking
+- Scrambling
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, scrambling
+- label: Distance
+  icon: map-marker-distance
+  value: 9 miles RT to Upper Two Mouth Lake
+- label: Elevation
+  icon: terrain
+  value: 1790 verts
+- label: Difficulty
+  icon: speedometer
+  value: Easy to moderate
+- label: Maps
+  icon: map
+  value: I.P.N.F., Kaniksu N.F., The Wigwams topo
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°42’36" n 116°39’13" w
+- label: Ranger District
+  icon: pine-tree
+  value: Bonners Ferry R.D. 208.267.5561
+- label: Boundary County Sheriff
+  icon: shield-account
+  value: 911 or 208.267.3151
+notes:
+- Idaho panhandle national forest/alerts
+- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Two Mouth Lakes 5785
 
-## A friend told me that this hike has a new trailhead,  .25 miles beyond the old trailhead
+!!! warning "Before you go"
 
-## Two mouth lakes 5785'.  trail #268
+    A friend told me that this hike has a new trailhead,  .25 miles beyond the old trailhead
 
----
-
-EVENT TYPE: Day hiking, backpacking, scrambling
-DISTANCE: 9 miles RT to Upper Two Mouth Lake
-ELEVATION: 1790 verts
-DIFFICULTY: Easy to moderate
-MAPS: I.P.N.F., Kaniksu N.F., The Wigwams topo
-Gps: 48°42’36” n 116°39’13” w
-​RANGER DISTRICT:  Bonners Ferry R.D.   208.267.5561
-​BOUNDARY COUNTY SHERIFF: 911 or 208.267.3151
-Idaho panhandle national forest/alerts
-<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
+*Two mouth lakes 5785'.  trail #268*
 
 ## Description
 

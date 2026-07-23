@@ -1,17 +1,40 @@
-# Turnbull Nwr
-
-## Turnbull national wildlife reguge
-
+---
+tags:
+- Trails & Scrambles
+- Easy
+- Day Hiking
+- Nature Walks
+- An Auto Tour
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, nature walks, and an auto tour
+- label: Distance
+  icon: map-marker-distance
+  value: varies depending n which trail you choose
+- label: Elevation
+  icon: terrain
+  value: 110 verts
+- label: Difficulty
+  icon: speedometer
+  value: Easy
+- label: Maps
+  icon: map
+  value: T.N.W.R. Brochure , Cheney topo
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°26’32" n 117°32’05" w
+- label: Managing Agency
+  icon: domain
+  value: u.s.f.&w service. 509.235.4723
+- label: Spokane County Sheriff
+  icon: shield-account
+  value: CALL 912 FIRST or 509.477.2240
 ---
 
-EVENT TYPE: Day hiking, nature walks, and an auto tour
-DISTANCE: varies depending n which trail you choose
-ELEVATION: 110 verts
-DIFFICULTY: Easy
-MAPS: T.N.W.R. Brochure , Cheney topo
-Gps: 48°26’32” n 117°32’05” w
-Managing agency:  u.s.f.&w service.  509.235.4723
-​SPOKANE COUNTY SHERIFF: CALL 912 FIRST or 509.477.2240
+# Turnbull Nwr
+
+*Turnbull national wildlife reguge*
 
 ## Description
 

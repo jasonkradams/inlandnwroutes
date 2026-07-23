@@ -20,7 +20,7 @@ Hi InlandNWRoutes.com readers, When the temperatures get over 70°, we all must 
 What we are finding is a huge number of downed trees on almost every trail.
 
 I was up at Lone Lake a week ago, and came across a 3.5’ diameter tree that broke off about 12 feet above the trail, and fell across the trail.
-This kind of a downed tree is very hazardous. Loggers call them “wisdom makers.”
+This kind of a downed tree is very hazardous. Loggers call them "wisdom makers."
 The USFS Trails crew, and a few North Idaho Idaho Trails Association sawyers, went up and safely removed this hazard.
 Thank you!
 
@@ -60,7 +60,7 @@ Our members volunteer for a number of projects with the above groups or on our o
 We are dedicated to preserving and protecting our trails and forest, all over the Inland Northwest.
 
 One of the cool things about volunteering for the above organizations, is you get to dig in the dirt for fun.
-There’s nothing like hiking back down a freshly groomed trail, and thinking…”I had something to do with this”.
+There’s nothing like hiking back down a freshly groomed trail, and thinking…"I had something to do with this".
 
 If you have ever done trail work, or if you are interested in helping our trails, please contact which ever organization above you wish.
 
@@ -81,7 +81,7 @@ Chic        David   
 
 [0 Comments](https://www.inlandnwroutes.com/blog/blog-107-forest-alerts-and-closures#comments)
 
-Remember back to December 17th., for a moment. The wind storm that brought 70+ mph winds, devastated many swaths of forest. Because of these winds, many trees have been knocked down, and a lot are crossing trails. East Fork Willow Creek has suffered hundreds of downed trees. Making your hike to the lakes take longer and more difficult now. I have heard from other trail groups that this is not an isolated incident. Forests and trails everywhere in our region are more difficult and time consuming than normal. BE SURE….to tap on the Forest Alert url’s  of the area you want to visit, and find out if that area is closed. If you find a closed area, DO NOT IGNORE THE CLOSURE. The finds are up to $5,000 and/or 6 months in jail, or both. This information can be found below the opening image for each hike write up. There is also, the Ranger Districts , and the Supervisors  phone numbers. PLEASE CALL THEM IN YOUR PLANNING STAGE. There’s nothing more aggravating than driving to a trailhead, and finding it closed. But remember, down towards the bottom of the write ups are ……..COOL THINGS CLOSE BY. Choose from them and alter your trip. Remember what Ben Franklin once said….. “If you fail to plan, you are planning to fail”. Be safe out there, and obey all closures. Chic       David InlandNWRoutes.com
+Remember back to December 17th., for a moment. The wind storm that brought 70+ mph winds, devastated many swaths of forest. Because of these winds, many trees have been knocked down, and a lot are crossing trails. East Fork Willow Creek has suffered hundreds of downed trees. Making your hike to the lakes take longer and more difficult now. I have heard from other trail groups that this is not an isolated incident. Forests and trails everywhere in our region are more difficult and time consuming than normal. BE SURE….to tap on the Forest Alert url’s  of the area you want to visit, and find out if that area is closed. If you find a closed area, DO NOT IGNORE THE CLOSURE. The finds are up to $5,000 and/or 6 months in jail, or both. This information can be found below the opening image for each hike write up. There is also, the Ranger Districts , and the Supervisors  phone numbers. PLEASE CALL THEM IN YOUR PLANNING STAGE. There’s nothing more aggravating than driving to a trailhead, and finding it closed. But remember, down towards the bottom of the write ups are ……..COOL THINGS CLOSE BY. Choose from them and alter your trip. Remember what Ben Franklin once said….. "If you fail to plan, you are planning to fail". Be safe out there, and obey all closures. Chic       David InlandNWRoutes.com
 
 [0 Comments](https://www.inlandnwroutes.com/blog/blog-107-forest-alerts-and-closures#comments)
 
@@ -141,7 +141,7 @@ All this takes a huge amount of time and planning. And as all planning goes, it 
 The other thing that really struck a note with me, about my friends accident.
 When the Sheriff Officer got to us, I thank them for their time and trouble to come to our assistance.
 After the victim was off to the ambulance, the Officer told me that in dozens and dozens of rescues he has led, we were the very first group that didn’t ask him the following question…..
-“What took you so long?
+"What took you so long?
 These men and women are dropping what they were doing and rushing to help you.
 Please be kind. 
 
@@ -168,7 +168,7 @@ The very best and most vital thing you can take with you on any kind of outing, 
 Please plan well, have what you need to survive overnight, and protect yourself from stupid decisions.
 
 Ben Franklin once said……
-“If you fail to plan…you are planning to fail”
+"If you fail to plan…you are planning to fail"
 
 Our goal is to show you the cool places to play in our region.
 But our responsibility is to provide our readers with accurate and useful information.
@@ -270,7 +270,7 @@ The actual trailhead is about 1 miles SW of the Thompson Pass parking area, up a
 It’s a relatively easy and short hike to a nice high country lake.
 To extend your hike, walk the left or SE shore to the back of the lake.
 But I would suggest returning on the same side of the lake. 
-The NW “trail” is poor at best and not a good choice this time of the year.
+The NW "trail" is poor at best and not a good choice this time of the year.
 
 Lowe & Upper Blossom Lakes
 <https://www.inlandnwroutes.com/blossom-lake.html>
@@ -498,8 +498,8 @@ Something I do, is put on a plastic food grade glove and work the sprayed DWR in
 Always treat the areas that collect snow, like top of your arms and legs, back, and seat, again after about 15 minutes.
 
 Once you are satisfied with the coverage, put your gear in the dryer on medium heat, for 30 to 45 minutes.
-This “cures” the DWR into the material.
-For reference, you can hang it in a warm room for 24 hours to “cure” it.
+This "cures" the DWR into the material.
+For reference, you can hang it in a warm room for 24 hours to "cure" it.
 Once dry, your gear won’t need to be retreated until you feel wetness, or rain or snow doesn’t run off your clothes like it did in your first use.
 If that occurs, take your gear to the shower and get it wet on the outside only.
 Respray and dry it or let it hang for 24 hours.

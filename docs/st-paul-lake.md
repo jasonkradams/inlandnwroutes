@@ -1,22 +1,47 @@
+---
+tags:
+- Lakes
+- Moderate +
+- Day Hiking
+- Backpacking
+- Fishing
+- Photography
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, fishing, and photography
+- label: Distance
+  icon: map-marker-distance
+  value: 7.8 miles RT
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 1720v
+- label: Acres
+  icon: vector-square
+  value: '14.8'
+- label: Difficulty
+  icon: speedometer
+  value: Moderate +
+- label: Maps
+  icon: map
+  value: Kootenai N.F., Cabinet Ranger District C.M.W. , Elephant Peak. 406.827.3533
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°05’24" w 115°39’32" n
+- label: Ranger District
+  icon: pine-tree
+  value: 'Cabinet Ranger District: 406.827.3533'
+- label: Sanders County Sheriff
+  icon: shield-account
+  value: 911 or 406.827.3584
+notes:
+- Kootenai national forest/alerts
+- <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+---
+
 # St Paul Lake
 
-## St. paul lake & waterfalls
-
----
-
-EVENT TYPE: Day hiking, backpacking, fishing, and photography
-DISTANCE: 7.8 miles RT
-Elevation gain:  1720v
-​acres: 14.8
-DIFFICULTY: Moderate +
-Maps:  Kootenai N.F., Cabinet Ranger District  C.M.W. , Elephant Peak.  406.827.3533
-Gps: 48°05’24” w 115°39’32” n
-RANGER DISTRICT: Cabinet Ranger District: 406.827.3533
-SANDERS COUNTY SHERIFF: 911 or 406.827.3584
-Kootenai national forest/alerts
-<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
-
----
+*St. paul lake & waterfalls*
 
 ## Description
 

@@ -1,17 +1,30 @@
+---
+tags:
+- Peaks & Mountains
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: varies
+- label: Elevation
+  icon: terrain
+  value: 2128’
+- label: Length and Acreage
+  icon: vector-square
+  value: varies
+- label: Maps
+  icon: map
+  value: IPNF, Mt. CDA topo
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 47°37’07" n 116°39’37" w
+- label: Kootenai County Sheriff
+  icon: shield-account
+  value: 208.446.1300
+---
+
 # Mineral Ridge Launch
 
-## Mineral ridge blm launch
-
----
-
-PADDLE DISTANCE: varies
-Elevation: 2128’
-LENGTH AND ACREAGE: varies
-MAPS: IPNF, Mt. CDA topo
-Launch gps: 47°37’07” n 116°39’37” w
-Kootenai county sheriff: 208.446.1300
-
----
+*Mineral ridge blm launch*
 
 ## Description
 

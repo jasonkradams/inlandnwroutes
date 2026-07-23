@@ -1,16 +1,32 @@
-# Apex Mountain Resort
-
-## Apex mountain resort, pentictin, b.c., canada
-
+---
+tags:
+- Peaks & Mountains
+stats:
+- label: Phone
+  icon: phone
+  value: 250.292.8222
+- label: Acres
+  icon: vector-square
+  value: '960'
+- label: Average Snow Fall
+  icon: weather-snowy-heavy
+  value: 300"
+- label: Summit Elevation
+  icon: terrain
+  value: 5027'
+- label: Base Elevation
+  icon: terrain
+  value: 3650'
+- label: Verts
+  icon: arrow-expand-vertical
+  value: 1377'
+notes:
+- Apexresort.com
 ---
 
-Apexresort.com
-Phone: 250.292.8222
-Acres: 960
-​average snow fall: 300"
-Summit elewvation:  5027'
-Base elevation: 3650'
-Verts: 1377'
+# Apex Mountain Resort
+
+*Apex mountain resort, pentictin, b.c., canada*
 
 ## of named runs: 69/36 night skiing
 

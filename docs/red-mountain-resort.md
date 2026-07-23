@@ -1,23 +1,41 @@
+---
+tags:
+- Peaks & Mountains
+stats:
+- label: Acres
+  icon: vector-square
+  value: '3850'
+- label: Summit Elevation
+  icon: terrain
+  value: 6807'
+- label: Base Elevation
+  icon: terrain
+  value: 3887'
+- label: Verts
+  icon: arrow-expand-vertical
+  value: 2920'
+- label: Runs
+  icon: ski
+  value: '119'
+- label: Lifts
+  icon: gondola
+  value: '8'
+- label: Distance from Spokane
+  icon: map-marker-distance
+  value: 124 miles
+- label: Amenities
+  icon: star-outline
+  value: xc, ns, cat s,
+notes:
+- Redresort.com
+- 800.663.0105
+---
+
 # Red Mountain Resort
 
-![Picture](/assets/images/123120211112a.jpg)
+!!! warning "Before you go"
 
-## Red mountain resort
-
----
-
-Redresort.com
-800.663.0105
-Acres: 3850
-Summit elevation: 6807'
-Base elevation: 3887'
-Verts: 2920'
-Runs: 119
-Lifts: 8
-​distance from spokane:  124 miles
-Amenities: xc, ns, cat s,
-
----
+    ![Picture](/assets/images/123120211112a.jpg)
 
 ## Description
 
@@ -48,7 +66,7 @@ Red Mountain is the most significant landmark in Rossland. Its striking conical 
 lodge. Spectacular vistas of the City and surrounding areas are seen from the top of both Red, Granite and Grey Mountains and their ski runs and lift lines, cut in the naturally forested slopes are seen from many miles away.
 The historic significance of Red Mountain itself, predates the creation of the Ski Area. It was the primary site of extensive gold mining operations that spawned the City of Rossland and there is evidence of this industrial past in the abandoned mining sites and the ore dumps in the Ski Area today. The original Black Bear compressor building, moved and refitted to its present site in 1947 became the Red Mountain lodge and the names of many ski runs reflect the area’s mining history.
 The Ski Area’s reputation of excellence is well established in the ski world today and is a source of pride for locals. Red is known for its challenging terrain, very successful ski racing programs and its ability to successfully host regional, national and international races. It is a major attraction in the winter months and is the reason why some visitors have decided to take up seasonal and permanent residency in Rossland.
-The Red Mountain Ski Area is emblematic of the “mountain culture” that exists in Rossland today. Many individuals and families value and pursue an active lifestyle, enjoying the variety of outdoor activities available in the immediate area of our small, alpine city.
+The Red Mountain Ski Area is emblematic of the "mountain culture" that exists in Rossland today. Many individuals and families value and pursue an active lifestyle, enjoying the variety of outdoor activities available in the immediate area of our small, alpine city.
 
 ---
 

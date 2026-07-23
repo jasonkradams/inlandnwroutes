@@ -1,19 +1,39 @@
-# Elk Creek Falls National Recreation Area
-
-## Elk creek falls national recreation area
-
-EVENT TYPE: Day hiking only
-DISTANCE: varies, but about 2.5 miles
-ELEVATION VARIES: in total about 652’
-DIFFICULTY: easy with one semi steep trail and some hazards
-MAPS: Clearwater N.F./ Palouse Ranger District, and the Elk Creek Falls National Recreation Area brochure.
-GPS: Trailhead 46°44’39” N 116°10’ 52” W
-RANGER DISTRICT:  Palouse R.D.   208.875.1131
-CLEARWATER COUNTY SHERIFF: CALL 911 FIRST or 208.476.4521
-[Clearwater national forest/ alerts](https://www.fs.usda.gov/alerts/lolo/alerts-notices)
-<https://www.fs.usda.gov/alerts/nezperceclearwater/alerts-notices>​
-
 ---
+tags:
+- Waterfalls
+- Day Hiking Only
+stats:
+- label: Event Type
+  icon: waterfall
+  value: Day hiking only
+- label: Distance
+  icon: map-marker-distance
+  value: varies, but about 2.5 miles
+- label: Elevation Varies
+  icon: terrain
+  value: in total about 652’
+- label: Difficulty
+  icon: speedometer
+  value: easy with one semi steep trail and some hazards
+- label: Maps
+  icon: map
+  value: Clearwater N.F./ Palouse Ranger District, and the Elk Creek Falls National
+    Recreation Area brochure.
+- label: GPS
+  icon: crosshairs-gps
+  value: Trailhead 46°44’39" N 116°10’ 52" W
+- label: Ranger District
+  icon: pine-tree
+  value: Palouse R.D. 208.875.1131
+- label: Clearwater County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.476.4521
+notes:
+- '[Clearwater national forest/ alerts](https://www.fs.usda.gov/alerts/lolo/alerts-notices)'
+- <https://www.fs.usda.gov/alerts/nezperceclearwater/alerts-notices>
+---
+
+# Elk Creek Falls National Recreation Area
 
 ---
 
@@ -22,7 +42,7 @@ CLEARWATER COUNTY SHERIFF: CALL 911 FIRST or 208.476.4521
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
 ​The Elk Creek Falls area is a National Recreation Trail, located about 50 miles east of Moscow, Idaho. Altho it’s open year round, in the winter it’s about a 2 mile ski or snowshoe to the trailhead from Hwy 8.
 At the trailhead, there is a pit toilet and ample parking. There are no fees to use the area.
-From the parking area, hike Trail #740 for about a mile to a “Y” and a trail sign. First, go right at the Y, for about 1.25 miles down a semi steep trail to a viewpoint that looks at the areas Lower Elk Falls (pictured above).
+From the parking area, hike Trail #740 for about a mile to a "Y" and a trail sign. First, go right at the Y, for about 1.25 miles down a semi steep trail to a viewpoint that looks at the areas Lower Elk Falls (pictured above).
 
 For safety, stay inside the viewpoint structure.
 ​The Lower Elk Falls gushes around a basalt wall and is about 50’ tall. Return back up to the trail sign, for access to the Middle and Upper Fall. About half way up to the sign is Trail #742 that takes you out to a viewpoint for great views of the Middle Falls, which are about 70’ drop down thru a narrow basalt gorge. The Middle Falls are by far the most beautiful. Continue up Trail #742 to a short spur trail to the viewpoint for the Upper Falls, which are about 20’ tall and 30+ feet wide. On a hot day, this is a good spot to go for a swim below the falls. But if you plan on swimming to cool off, take sandals or water shoes. That basalt is hard to walk on.

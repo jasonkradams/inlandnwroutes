@@ -1,17 +1,36 @@
-# Banks Lake North Trail
-
-## Banks lake north trail
-
-EVENT TYPE: Day hiking
-DISTANCE: 12 mile loop
-ELEVATION: Less then 500 verts
-DIFFICULTY: Moderate
-MAPS: Monument Hills, Ephrata SW
-Gps: 47°35’21” n 119°09’ 54” w
-​managing agency:  509.754.0214 
-​GRANT COUNTY SHERIFF: CALL 911 FIRST or 509.754.2011
-
 ---
+tags:
+- Lakes
+- Moderate
+- Day Hiking
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking
+- label: Distance
+  icon: map-marker-distance
+  value: 12 mile loop
+- label: Elevation
+  icon: terrain
+  value: Less then 500 verts
+- label: Difficulty
+  icon: speedometer
+  value: Moderate
+- label: Maps
+  icon: map
+  value: Monument Hills, Ephrata SW
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°35’21" n 119°09’ 54" w
+- label: Managing Agency
+  icon: domain
+  value: 509.754.0214
+- label: Grant County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 509.754.2011
+---
+
+# Banks Lake North Trail
 
 ## Description
 

@@ -1,17 +1,16 @@
+---
+tags:
+- Lakes
+stats:
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+- label: Kootenai County Sheriff
+  icon: shield-account
+  value: 208.446.1300
+---
+
 # Upper Twin Lakes Launch
-
-## Upper twin lakes launch
-
----
-
-Paddle distance: 
-Elevation: 
-Length and acreage: 
-Maps:
-Launch gps: ??° ??’ ??.?”n ???° ??’ ??.?”w
-​kootenai county sheriff: 208.446.1300
-
----
 
 ## Description
 

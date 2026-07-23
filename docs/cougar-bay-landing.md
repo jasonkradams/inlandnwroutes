@@ -1,21 +1,30 @@
+---
+tags:
+- Paddling & Rivers
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: varies
+- label: Elevation
+  icon: terrain
+  value: 2128’
+- label: Length and Acreage
+  icon: vector-square
+  value: varies
+- label: Maps
+  icon: map
+  value: IPNF, Mica Bay topo
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 47°40’31" n 116°49’15" w
+---
+
 # Cougar Bay Landing
-
-## Cougar bay landing
-
----
-
-PADDLE DISTANCE: varies
-Elevation: 2128’
-LENGTH AND ACREAGE: varies
-MAPS: IPNF, Mica Bay topo
-Launch gps: 47°40’31” n 116°49’15” w
-
----
 
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​This “launch” is very primitive, but gets you into Cougar Bay fast and usually away from other boaters. From Hwy 95, the trail is about 300 feet down to the water. There are zero amenities, and okay to use for light kayaks and canoes.
+​This "launch" is very primitive, but gets you into Cougar Bay fast and usually away from other boaters. From Hwy 95, the trail is about 300 feet down to the water. There are zero amenities, and okay to use for light kayaks and canoes.
 Once in the water, Cougar Bay is mostly on your right and due south. The bay is shallow, and has many very old pillings once used to hold log booms.
 One minus is the Hwy 95 that runs the entire north shore.
 

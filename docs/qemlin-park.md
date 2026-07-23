@@ -1,21 +1,40 @@
+---
+tags:
+- Trails & Scrambles
+- Easy to Moderate
+- Day Hiking
+- Climbing
+- Photography
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, climbing, and photography
+- label: Distance
+  icon: map-marker-distance
+  value: varies
+- label: Elevation
+  icon: terrain
+  value: varies depending on where you start
+- label: Difficulty
+  icon: speedometer
+  value: easy to moderate
+- label: Maps
+  icon: map
+  value: IPNF, Post Falls Park & Recreation Map, Post Falls Topo
+- label: Ranger District
+  icon: pine-tree
+  value: CDA River R.D. 208.769.3000. Post Falls Parks. 208.773.3511
+- label: Kootenai County Sheriff
+  icon: shield-account
+  value: 911 or 208.446.1300
+notes:
+- Spokane Street Bridge 47°42’08" N 116°57’15" W
+- West Riverview Drive. 47°41’45" N 116°58’23" W
+---
+
 # Qemlin Park
 
-## Q'emiln park
-
----
-
-EVENT TYPE: Day hiking, climbing, and photography
-DISTANCE: varies
-ELEVATION: varies depending on where you start
-DIFFICULTY: easy to moderate
-MAPS: IPNF, Post Falls Park & Recreation Map, Post Falls Topo
-Gps:
-Spokane Street Bridge 47°42’08” N 116°57’15” W
-​West Riverview Drive. 47°41’45” N 116°58’23” W
-RANGER DISTRICT:   CDA River R.D.   208.769.3000.     Post Falls Parks. 208.773.3511
-​KOOTENAI COUNTY SHERIFF: 911 or 208.446.1300
-
----
+*Q'emiln park*
 
 ## Description
 

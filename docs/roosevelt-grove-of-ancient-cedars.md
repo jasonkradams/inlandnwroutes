@@ -1,19 +1,37 @@
+---
+tags:
+- Trails & Scrambles
+- Easy
+- Day Hiking
+- Photography
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, and photography
+- label: Distance
+  icon: map-marker-distance
+  value: 2.5 Miles RT
+- label: Elevation
+  icon: terrain
+  value: 300 verts
+- label: Difficulty
+  icon: speedometer
+  value: easy
+- label: Maps
+  icon: map
+  value: Kanicsu N.F.
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°45;99"n 1117°03"74"w
+- label: Managing Agency
+  icon: domain
+  value: Priest River R.D. 208.443.2512
+- label: Bonner County Sheriff
+  icon: shield-account
+  value: 208.263.8417
+---
+
 # Roosevelt Grove Of Ancient Cedars
-
-## Roosevelt grove of ancient cedars
-
----
-
-EVENT TYPE: Day hiking, and photography
-DISTANCE: 2.5 Miles RT
-Elevation:  300 verts
-DIFFICULTY:  easy
-MAPS: Kanicsu N.F.  
-Gps: 48°45;99"n 1117°03"74"w
-AMANGING AGENCY:  Priest River R.D.  208.443.2512
-​bonner county sheriff:  208.263.8417
-
----
 
 ## Description
 

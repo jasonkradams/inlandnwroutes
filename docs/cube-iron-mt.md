@@ -1,21 +1,44 @@
+---
+tags:
+- Trails & Scrambles
+- Moderate
+- Day Hiking
+- Backpacking
+- Fishing
+- Scrambling
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, fishing, scrambling
+- label: Distance
+  icon: map-marker-distance
+  value: 8.5 miles RT
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 2950’
+- label: Difficulty
+  icon: speedometer
+  value: Moderate
+- label: Maps
+  icon: map
+  value: Lolo N. F., Plains-Thompson Falls
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°68’72" n 115°29’07" w
+- label: Plains/thompson Falls Ranger District
+  icon: pine-tree
+  value: 406.826.3821
+- label: Sanders County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 406.827.3584
+notes:
+- Lolo national forest/alerts
+- https[://www.fs.usda.gov/alerts/lolo/alerts-notices](https://www.fs.usda.gov/alerts/lolo/alerts-notices)
+---
+
 # Cube Iron Mt
 
-## Cube iron mountain 7110’. trail #459 & 450
-
----
-
-EVENT TYPE: Day hiking, backpacking, fishing, scrambling
-DISTANCE: 8.5 miles RT
-Elevation gain: 2950’
-DIFFICULTY: Moderate
-MAPS: Lolo N. F., Plains-Thompson Falls
-Gps: 47°68’72” n 115°29’07” w
-Plains/Thompson Falls Ranger District: 406.826.3821
-SANDERS COUNTY SHERIFF: CALL 911 FIRST or 406.827.3584
-Lolo national forest/alerts
-https[://www.fs.usda.gov/alerts/lolo/alerts-notices](https://www.fs.usda.gov/alerts/lolo/alerts-notices)
-
----
+*Cube iron mountain 7110’. trail #459 & 450*
 
 ## Description
 

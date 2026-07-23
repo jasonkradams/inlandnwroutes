@@ -1,16 +1,32 @@
-# Timberline Lodge Ski Area
-
-## Timberline lodge ski area    government camp, or
-
+---
+tags:
+- Winter & Skiing
+stats:
+- label: Phone
+  icon: phone
+  value: 503.272.3311
+- label: Acres
+  icon: vector-square
+  value: '1685'
+- label: Average Snow Fall
+  icon: weather-snowy-heavy
+  value: 190"
+- label: Summit Elevation
+  icon: terrain
+  value: 8540'
+- label: Base Elevation
+  icon: terrain
+  value: 4000'
+- label: Verts
+  icon: arrow-expand-vertical
+  value: 4540 +2616
+notes:
+- Timberlinelodge.com
 ---
 
-Timberlinelodge.com
-Phone: 503.272.3311
-Acres: 1685
-​average snow fall: 190"
-Summit elevation: 8540'
-Base elevation: 4000'
-Verts: 4540 +2616
+# Timberline Lodge Ski Area
+
+*Timberline lodge ski area    government camp, or*
 
 ## of named runs: 36
 
@@ -54,7 +70,7 @@ Emerson J. Griffith became Oregon’s WPA administrator and obtained funding fro
 *Picture (Image missing)*
 
 creating a lodge design
-​Gilbert Stanley Underwood, referred to as the “Parkitect,” is famously well known for designing several prominent National Park Service Lodges including Bryce Canyon Lodge, Zion Lodge, and Yosemite’s Ahwahnee Lodge. Described as “the standard for architecture on public lands,” 
+​Gilbert Stanley Underwood, referred to as the "Parkitect," is famously well known for designing several prominent National Park Service Lodges including Bryce Canyon Lodge, Zion Lodge, and Yosemite’s Ahwahnee Lodge. Described as "the standard for architecture on public lands," 
 his rustic style was characterized by natural local materials and a design that blended into the landscape. His original design for the lodge focused on a central headhouse, which holds the 800,000 pound great stone chimney. The headhouse is flanked by two uneven wings where the dining room, guestrooms, and other facilities are located.
 
 ![Picture](/assets/images/12122021442p.jpg)
@@ -83,7 +99,7 @@ Kubrick was asked not to depict Room 217 (featured in the book) in The Shining, 
 
 ![Picture](/assets/images/12122021453p.jpg)
 
-STEWARDSHIP OF THE LODGER.L.K. and Company, the U.S. Forest Service, Friends of Timberline, and the State Historic Preservation Office provides collaborative stewardship of this special place, and so does your patronage. Timberline Lodge is rare in that it is one of the few National Historic Landmarks that is still operated for the same purpose for which it was originally built. It is not a museum, but rather a mountain lodge; a place for the business of hospitality to provide comfortable accommodations and amenities while you enjoy recreating in the great outdoors close to nature, skiing, snowboarding, hiking, climbing, and more. Therefore, while you may get the red carpet treatment here, you’ll never get the velvet rope treatment. Look around, explore our public spaces, view the artworks, and enjoy your visit. That’s what we call “preservation through use” and together, we are proud to be your host.
+STEWARDSHIP OF THE LODGER.L.K. and Company, the U.S. Forest Service, Friends of Timberline, and the State Historic Preservation Office provides collaborative stewardship of this special place, and so does your patronage. Timberline Lodge is rare in that it is one of the few National Historic Landmarks that is still operated for the same purpose for which it was originally built. It is not a museum, but rather a mountain lodge; a place for the business of hospitality to provide comfortable accommodations and amenities while you enjoy recreating in the great outdoors close to nature, skiing, snowboarding, hiking, climbing, and more. Therefore, while you may get the red carpet treatment here, you’ll never get the velvet rope treatment. Look around, explore our public spaces, view the artworks, and enjoy your visit. That’s what we call "preservation through use" and together, we are proud to be your host.
 
 ---
 

@@ -1,19 +1,54 @@
+---
+tags:
+- Trails & Scrambles
+stats:
+- label: Genesis Name
+  icon: book-open-variant
+  value: Hypericum preforatum
+- label: Medical Use
+  icon: medical-bag
+  value: The red, oily extract of *H. perforatum* has been used in the treatment of
+    wounds, including by the Knights Hospitaller, the Order of St John Both hypericin
+    and hyperforin are under study for their potential [antibiotic](https://en.wikipedia.org/wiki/Antibiotic)
+    properties.
+- label: Poisonous
+  icon: skull-crossbones
+  value: St John's wort may cause [allergic reactions](https://en.wikipedia.org/wiki/Allergic_reaction)
+    and can interact in dangerous, sometimes life-threatening ways with a variety
+    of prescribed medicines. St John's wort is generally well tolerated, but it may
+    cause [gastrointestinal](https://en.wikipedia.org/wiki/Gastrointestinal) discomfort
+    (such as nausea, abdominal pain, loss of appetite, and diarrhea), dizziness, confusion,
+    fatigue, sedation, dry mouth, [restlessness](https://en.wikipedia.org/wiki/Psychomotor_agitation),
+    and headache.
+- label: Edibility
+  icon: food-apple
+  value: 'no'
+- label: Features
+  icon: information-outline
+  value: 'St John''s wort is named as such because it commonly flowers, blossoms and
+    is harvested at the time of the summer solstice in late June, around [St John''s
+    Feast Day](https://en.wikipedia.org/wiki/Midsummer) on 24 June. The herb would
+    be hung on house and stall doors on St John''s Feast day to ward off evil spirits
+    and to safeguard against harm and sickness to people and live-stock. Alternatively,
+    there may be a connection with the [Knights Hospitaller](https://en.wikipedia.org/wiki/Knights_Hospitaller).
+    The [genus](https://en.wikipedia.org/wiki/Genus) name *Hypericum* is possibly
+    derived from the [Greek](https://en.wikipedia.org/wiki/Greek_language) words *hyper*
+    (above) and *eikon* (picture), in reference to the tradition of hanging plants
+    over religious [icons](https://en.wikipedia.org/wiki/Icon) in the home during
+    St John''s Day.Leaves: When foraging for St John''s wort, look for its opposite-patterned
+    leaves and branches. The leaves and sepals are oblong in shape and three times
+    longer than they are wide. The **leaves are stalkless**, and if held to the sky,
+    light will shine through the small dots.'
+- label: Fruits
+  icon: fruit-cherries
+  value: St. Johnswort flowers June through September. The fruit is a **sticky, three-chambered
+    capsule** (a dry fruit composed of more than one carpel that opens at maturity).
+    The seeds inside are shiny black to brown and densely pitted.
+---
+
 # Saint Johns Wort
 
-## Common st. johnswort
-
----
-
-GENESIS NAME:  Hypericum preforatum
-Distribution:
-Season:
-MEDICAL USE:  The red, oily extract of *H. perforatum* has been used in the treatment of wounds, including by the Knights Hospitaller, the Order of St John Both hypericin and hyperforin are under study for their potential [antibiotic](https://en.wikipedia.org/wiki/Antibiotic) properties.
-POISONOUS:   St John's wort may cause [allergic reactions](https://en.wikipedia.org/wiki/Allergic_reaction) and can interact in dangerous, sometimes life-threatening ways with a variety of prescribed medicines. St John's wort is generally well tolerated, but it may cause [gastrointestinal](https://en.wikipedia.org/wiki/Gastrointestinal) discomfort (such as nausea, abdominal pain, loss of appetite, and diarrhea), dizziness, confusion, fatigue, sedation, dry mouth, [restlessness](https://en.wikipedia.org/wiki/Psychomotor_agitation), and headache.
-Edibility: no
-FEATURES:  St John's wort is named as such because it commonly flowers, blossoms and is harvested at the time of the summer solstice in late June, around [St John's Feast Day](https://en.wikipedia.org/wiki/Midsummer) on 24 June. The herb would be hung on house and stall doors on St John's Feast day to ward off evil spirits and to safeguard against harm and sickness to people and live-stock. Alternatively, there may be a connection with the [Knights Hospitaller](https://en.wikipedia.org/wiki/Knights_Hospitaller). The [genus](https://en.wikipedia.org/wiki/Genus) name *Hypericum* is possibly derived from the [Greek](https://en.wikipedia.org/wiki/Greek_language) words *hyper* (above) and *eikon* (picture), in reference to the tradition of hanging plants over religious [icons](https://en.wikipedia.org/wiki/Icon) in the home during St John's Day.Leaves:   When foraging for St John's wort, look for its opposite-patterned leaves and branches. The leaves and sepals are oblong in shape and three times longer than they are wide. The **leaves are stalkless**, and if held to the sky, light will shine through the small dots.
-Fruits: ​St. Johnswort flowers June through September. The fruit is a **sticky, three-chambered capsule** (a dry fruit composed of more than one carpel that opens at maturity). The seeds inside are shiny black to brown and densely pitted.
-
----
+*Common st. johnswort*
 
 ## Description
 

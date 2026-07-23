@@ -1,21 +1,41 @@
+---
+tags:
+- Peaks & Mountains
+- Moderate to Both Summits
+- Hike
+- Backpack
+- Fire Lookout Rental
+stats:
+- label: Event Type
+  icon: hiking
+  value: Hike, backpack, Fire Lookout Rental
+- label: Distance
+  icon: map-marker-distance
+  value: 5 miles RT
+- label: Elevation
+  icon: terrain
+  value: 1275' gain to Shorty, about 250' loss and 263' gain to Lone Tree Peak
+- label: Difficulty
+  icon: speedometer
+  value: Moderate to both Summits
+- label: Maps
+  icon: map
+  value: IPNF-Kaniksu N. F., Shorty Peak
+- label: GPS
+  icon: crosshairs-gps
+  value: n48° 57’ 12"w116° 39’ 02"
+- label: Ranger District
+  icon: pine-tree
+  value: Bonners Ferry R.D. 208.267.5561
+- label: Bonners Ferry County Sheriff
+  icon: shield-account
+  value: 911 or 208.267.3151
+notes:
+- Idaho panhandle national forest/alerts
+- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Shorty Peak Trail 95 6515  Lone Tree Peak 6732
-
-## Shorty peak 6515' trail #95 & lone tree peak 6732'
-
----
-
-EVENT TYPE: Hike, backpack, Fire Lookout Rental
-DISTANCE: 5 miles RT
-ELEVATION: 1275' gain to Shorty, about 250' loss and 263' gain to Lone Tree Peak
-DIFFICULTY: Moderate to both Summits
-MAPS: IPNF-Kaniksu N. F., Shorty Peak
-Gps: n48° 57’ 12”w116° 39’ 02“
-RANGER DISTRICT:   Bonners Ferry R.D.   208.267.5561
-BONNERS FERRY COUNTY SHERIFF:  911 or 208.267.3151
-Idaho panhandle national forest/alerts
-<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
 
 ## Description
 

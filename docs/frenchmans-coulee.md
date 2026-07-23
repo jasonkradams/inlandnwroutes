@@ -1,24 +1,47 @@
+---
+tags:
+- Trails & Scrambles
+- Day Hiking
+- Backpacking
+- Equestrian
+- Mt Biking
+- Climbing
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, equestrian, mt biking, climbing
+- label: Distance
+  icon: map-marker-distance
+  value: 4 miles RT
+- label: Elevation
+  icon: terrain
+  value: 100’ to the falls. 400-500 ‘ to the rim
+- label: Difficulty
+  icon: speedometer
+  value: easy to the falls. Moderate to the rim
+- label: Maps
+  icon: map
+  value: Washington Dept. Fish & Wildlife, Columbia Basin Wildlife Area, Bancock Ridge
+    topo
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°08’38" n 119°59’52" w
+- label: Managing Agency
+  icon: domain
+  value: w. d.f.& w. 509.765.6641
+- label: Grant County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 509.754.2011
+---
+
 # Frenchmans Coulee
 
-## Frenchman coulee, washington scablands
-
----
-
-EVENT TYPE: Day hiking, backpacking, equestrian, mt biking, climbing
-DISTANCE: 4 miles RT
-Elevation: 100’ to the falls. 400-500 ‘ to the rim
-DIFFICULTY: easy to the falls. Moderate to the rim
-MAPS: Washington Dept. Fish & Wildlife, Columbia Basin Wildlife Area, Bancock Ridge topo
-Gps: 47°08’38” n 119°59’52” w
-Managing agency:  w. d.f.& w. 509.765.6641 
-​GRANT COUNTY SHERIFF: CALL 911 FIRST or 509.754.2011
-
----
+*Frenchman coulee, washington scablands*
 
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​From the parking area, the trail heads NE for about .2 miles to a “Y”, and bear right. After about another .2 miles bear right (east) up into the coulee.
+​From the parking area, the trail heads NE for about .2 miles to a "Y", and bear right. After about another .2 miles bear right (east) up into the coulee.
 About 2 miles up the coulee, take note of the waterfall along the north rim. As you pass beneath the power lines, walk towards the waterfall.
 This fall is intermittent run off from area farms. Do not drink or purify the water.
 In early spring the area is carpeted with wildflowers.

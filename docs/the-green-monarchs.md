@@ -1,20 +1,40 @@
+---
+tags:
+- Trails & Scrambles
+- Moderately Difficult
+- Day Hiking
+- Backpacking
+- Equestrian
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, and equestrian
+- label: Distance
+  icon: map-marker-distance
+  value: 6+ miles RT
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 1600’
+- label: Difficulty
+  icon: speedometer
+  value: Moderately difficult
+- label: Maps
+  icon: map
+  value: IPNF, Kaniksu N. F., Packsaddle Mountain Topo
+- label: GPS
+  icon: crosshairs-gps
+  value: Trailhead. 48°05’ 53"N 116°17’ 28" W
+- label: Ranger District
+  icon: pine-tree
+  value: Sandpoint R.D. 208.263.5111
+- label: Bonner County Sheriff
+  icon: shield-account
+  value: 911 or 208.263.8417
+notes:
+- '[Clearwater national forest/ alerts](https://www.fs.usda.gov/alerts/lolo/alerts-notices)<https://www.fs.usda.gov/alerts/nezperceclearwater/alerts-notices>'
+---
+
 # The Green Monarchs
-
-## The green monarchs
-
----
-
-EVENT TYPE: Day hiking, backpacking, and equestrian
-DISTANCE: 6+ miles RT
-Elevation gain: 1600’
-DIFFICULTY: Moderately difficult
-MAPS: IPNF, Kaniksu N. F., Packsaddle Mountain Topo
-GPS: Trailhead. 48°05’ 53”N 116°17’ 28” W
-RANGER DISTRICT: Sandpoint R.D.  208.263.5111
-BONNER COUNTY SHERIFF: 911 or 208.263.8417
-[Clearwater national forest/ alerts](https://www.fs.usda.gov/alerts/lolo/alerts-notices)<https://www.fs.usda.gov/alerts/nezperceclearwater/alerts-notices>
-
----
 
 ## Description
 

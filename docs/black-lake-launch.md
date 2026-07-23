@@ -1,18 +1,32 @@
+---
+tags:
+- Lakes
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: varies
+- label: Elevation
+  icon: terrain
+  value: 2130’
+- label: Length and Acreage
+  icon: vector-square
+  value: 1.6 miles & 401 acres
+- label: Maps
+  icon: map
+  value: IPNF, Medimont topo
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: Rainy Hill Launch 47°28’23" N 116°35’17" W
+- label: Shoshone County Sheriff
+  icon: shield-account
+  value: 208.556.1114
+notes:
+- Thompson Lake Launch 47°29;'8" N 116°43'29" W
+---
+
 # Black Lake Launch
 
-## Black lake & rainy hill launch
-
----
-
-PADDLE DISTANCE: varies
-Elevation: 2130’
-LENGTH AND ACREAGE: 1.6 miles & 401 acres
-MAPS: IPNF, Medimont topo
-LAUNCH GPS:Rainy Hill Launch  47°28’23” N 116°35’17” W   
-​                                 Thompson Lake Launch  47°29;'8" N 116°43'29" W
-​shoshone county sheriff: 208.556.1114
-
----
+*Black lake & rainy hill launch*
 
 ## Description
 

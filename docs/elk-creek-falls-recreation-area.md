@@ -1,18 +1,31 @@
+---
+tags:
+- Waterfalls
+stats:
+- label: Waterfall
+  icon: waterfall
+  value: 'elk creek falls national recreation area trail #740'
+- label: Drop
+  icon: arrow-collapse-down
+  value: VARIES FROM 20' TO ABOUT 70', with a total of 140 '
+- label: Waterfall Type
+  icon: waterfall
+  value: Slide, tiered, plunge
+- label: Distance Car to Falls
+  icon: map-marker-distance
+  value: Lower 4 Falls are about a mile. Middle Falls is about .3 of a mile, and the
+    upper falls is about .4 miles
+- label: Maps
+  icon: map
+  value: Clearwater National Forest, and the Palouse Ranger District. 208.875.1131
+- label: GPS
+  icon: crosshairs-gps
+  value: 46°76’62" n 116°1820" w
+---
+
 # Elk Creek Falls Recreation Area
 
-## Elk creek falls national recreation area trail #740, 745, 742, & 740a
-
----
-
-Waterfall : elk creek falls national recreation area trail #740
-
-DROP: VARIES FROM 20' TO ABOUT 70', with a total of 140 '
-WATERFALL TYPE: Slide, tiered, plunge
-​DISTANCE CAR TO FALLS: Lower 4 Falls are about a mile. Middle Falls is about .3 of a mile, and the upper falls is about .4 miles 
-MAPS: Clearwater National Forest, and the Palouse Ranger District. 208.875.1131
-Gps: 46°76’62” n 116°1820” w
-
----
+*Elk creek falls national recreation area trail #740, 745, 742, & 740a*
 
 ## Description
 
@@ -117,7 +130,3 @@ The giant redcedar. It is 3,000 years old, stands 177' tall and is 18' in diamet
 ![Picture](/assets/images/11052021948.jpg)
 
 ## Of course, i had to take a group shot of the gang
-
-|  |  |
-| --- | --- |
-|  |  |

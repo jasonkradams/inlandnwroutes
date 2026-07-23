@@ -1,18 +1,34 @@
+---
+tags:
+- Peaks & Mountains
+- Extremely Strenuous
+- Scrambling
+stats:
+- label: Event Type
+  icon: hiking
+  value: Scrambling
+- label: Distance
+  icon: map-marker-distance
+  value: 11.1 miles RT
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 5208’
+- label: Difficulty
+  icon: speedometer
+  value: Extremely strenuous
+- label: Maps
+  icon: map
+  value: Cranbrook. 82 G/NE-NW
+- label: GPS
+  icon: crosshairs-gps
+  value: Trailhead. 49°38’01"N 115°30’42"W
+notes:
+- Summit. 49°38’47"N 115°29’04"W
+---
+
 # Fisher Peak
 
-## Fisher peak 9336’, b.c., canada
-
----
-
-EVENT TYPE: Scrambling
-DISTANCE: 11.1 miles RT
-Elevation gain: 5208’
-DIFFICULTY: Extremely strenuous
-MAPS: Cranbrook. 82 G/NE-NW
-GPS: Trailhead. 49°38’01”N 115°30’42”W
-Summit. 49°38’47”N 115°29’04”W
-
----
+*Fisher peak 9336’, b.c., canada*
 
 ## Description
 

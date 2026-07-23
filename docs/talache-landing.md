@@ -1,16 +1,26 @@
+---
+tags:
+- Trails & Scrambles
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: varies
+- label: Elevation
+  icon: terrain
+  value: 2067’
+- label: Length and Acreage
+  icon: vector-square
+  value: 65 miles long, 125 miles if shore line, 148 square miles or 88,008 acres
+    and 1150’ deep
+- label: Maps
+  icon: map
+  value: Packsaddle Mountain Topo
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 48°07’43" n 116°28’ 4" w
+---
+
 # Talache Landing
-
-## Talache landing
-
----
-
-PADDLE DISTANCE: varies
-Elevation: 2067’
-LENGTH AND ACREAGE: 65 miles long, 125 miles if shore line, 148 square miles or 88,008 acres and 1150’ deep
-MAPS: Packsaddle Mountain Topo
-Launch gps: 48°07’43” n 116°28’ 4” w
-
----
 
 ## Description
 
@@ -52,10 +62,6 @@ In Sandpoint is Mr. Sub, Eichardt’s, Jalapeños, and Burger Express in Dover.
 ![Picture](/assets/images/11062021231p.jpg)
 
 ## Maiden rock boat camp beach along the west side of prnd orielle lake
-
-|  |  |
-| --- | --- |
-|  |  |
 
 ![Picture](/assets/images/11062021232p.jpg)
 

@@ -1,16 +1,30 @@
-# Alta Ski Area
-
-## Alta ski area
-
+---
+tags:
+- Winter & Skiing
+stats:
+- label: Phone
+  icon: phone
+  value: 801.359.1078
+- label: Acres
+  icon: vector-square
+  value: '2614'
+- label: Average Snow Fall
+  icon: weather-snowy-heavy
+  value: 547"
+- label: Summit Elevation
+  icon: terrain
+  value: 10068'
+- label: Base Elevation
+  icon: terrain
+  value: 8536'
+- label: Verts
+  icon: arrow-expand-vertical
+  value: 2538'
+notes:
+- Alta.com
 ---
 
-Alta.com
-Phone: 801.359.1078
-Acres: 2614
-​average snow fall: 547"
-Summit elevation: 10068'
-Base elevation: 8536'
-Verts: 2538'
+# Alta Ski Area
 
 ## of named runs: 119
 
@@ -33,7 +47,7 @@ Unique Character: Alta installed the second chairlift in the western United Stat
 Terrain Info
 With iconic zones like the Devil’s Castle, The Ballroom, Catherine’s Area, Baldy Chutes and the High T (High Traverse), Alta is flush with glittering slopes and perfectly pitched fall-lines for powder skiing. In fact, many effective powder skiing techniques were developed by skiing pioneers right here at Alta. The craggy granite terrain, the steep shots and its location at the top of Little Cottonwood Canyon position Alta to consistently receive some of the deepest snow totals in Utah. A prime microclimate churns out a huge volume of low-moisture snowfall each winter. 
 What’s in a Name: Alta
-Established in the autumn of 1871, the residents of the town of Alta eked out an existence at the top of Little Cottonwood Canyon along the widest and flattest part of the area’s topography. Alta was located just 850 yards east of Central City, another tiny mining boom town with a population just over 200 residents. The two towns soon merged and the name Central City was abandoned. The word Alta is Spanish for “upper” or “higher,” though the origin of the town’s name is lost to history. By 1872 there were over 180 structures and miners flocked to the area, hoping to strike it rich on a silver vein. 
+Established in the autumn of 1871, the residents of the town of Alta eked out an existence at the top of Little Cottonwood Canyon along the widest and flattest part of the area’s topography. Alta was located just 850 yards east of Central City, another tiny mining boom town with a population just over 200 residents. The two towns soon merged and the name Central City was abandoned. The word Alta is Spanish for "upper" or "higher," though the origin of the town’s name is lost to history. By 1872 there were over 180 structures and miners flocked to the area, hoping to strike it rich on a silver vein. 
 Though [Brighton](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-alta-ski/@@storylink/1072141064?_ct=Story) had a few rag-tag tow ropes prior to Alta’s creation, [Alta Ski Area](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-alta-ski/@@storylink/1072139158?_ct=Story) was the first resort in Utah to install a chairlift. The tradition, history and character of the resort can be discerned the moment you step atop its hallowed slopes. Alta has been spinning lifts for more than eight decades and is considered by many as the Holy Grail of powder skiing. 
 
 The Silver Ages

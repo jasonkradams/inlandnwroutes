@@ -1,16 +1,27 @@
-# Red Lodge Mountain
-
-## Red lodge mountain
-
+---
+tags:
+- Peaks & Mountains
+stats:
+- label: Phone
+  icon: phone
+  value: 406.446.2610 or 800.444.8977
+- label: Acres
+  icon: vector-square
+  value: '1635'
+- label: Summit Elevation
+  icon: terrain
+  value: 9416'
+- label: Base Elevation
+  icon: terrain
+  value: 7016'
+- label: Verts
+  icon: arrow-expand-vertical
+  value: 2400'
+notes:
+- Redlodgemountain.com
 ---
 
-Redlodgemountain.com
-Phone: 406.446.2610  or 800.444.8977
-Acres: 1635
-​average snow fall: 
-Summit elevation:  9416'
-Base elevation: 7016'
-Verts: 2400'
+# Red Lodge Mountain
 
 ## of named runs: 70
 

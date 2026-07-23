@@ -1,16 +1,29 @@
-# Mount Baldy Ski Resort
-
-## Mount baldy ski resort    oliver, b.c., canada
-
+---
+tags:
+- Winter & Skiing
+stats:
+- label: Phone
+  icon: phone
+  value: 250.498.4086
+- label: Acres
+  icon: vector-square
+  value: 360+240 glades
+- label: Summit Elevation
+  icon: terrain
+  value: 6995'
+- label: Base Elevation
+  icon: terrain
+  value: 5665'
+- label: Verts
+  icon: arrow-expand-vertical
+  value: 1300'
+notes:
+- Baldyresort.com
 ---
 
-Baldyresort.com
-Phone: 250.498.4086
-Acres: 360+240 glades
-​average snow fall: 
-Summit elevation:  6995'
-Base elevation: 5665'
-Verts: 1300'
+# Mount Baldy Ski Resort
+
+*Mount baldy ski resort    oliver, b.c., canada*
 
 ## of named runs: 36
 

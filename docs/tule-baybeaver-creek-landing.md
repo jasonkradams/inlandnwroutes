@@ -1,16 +1,18 @@
+---
+tags:
+- Paddling & Rivers
+stats:
+- label: Length and Acreage
+  icon: vector-square
+  value: '1339.9'
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+---
+
 # Tule Baybeaver Creek Landing
 
-## Tule bay/beaver creek landing​
-
----
-
-Paddle distance: 
-Elevation: 
-Length and acreage: 1339.9
-Maps:
-Launch gps: ??° ??’ ??.?”n ???° ??’ ??.?”w
-
----
+*Tule bay/beaver creek landing​*
 
 ## Description
 

@@ -1,20 +1,46 @@
-# Lone Long Lake Lakes
-
+---
+tags:
+- Lakes
+- Moderately Difficult
+- Hiking
+- Backpacking
+- Fishing
+- Backcountry Skiing
+stats:
+- label: Event Type
+  icon: hiking
+  value: Hiking, backpacking, fishing, backcountry skiing and the awe inspiring "Upper
+    Sanctuary."
+- label: Distance
+  icon: map-marker-distance
+  value: Lone Lake 4 miles RT, Upper Sanctuary about 6+ miles RT
+- label: Elevation
+  icon: terrain
+  value: Lone Lake 1637 gain. Upper Sanctuary About another 250' gain
+- label: Acres
+  icon: vector-square
+  value: '15.2'
+- label: Difficulty
+  icon: speedometer
+  value: Moderately difficult
+- label: Maps
+  icon: map
+  value: IPNF, LOLO N.F. Mullan topo
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°43’38" n -115°77’44" w
+- label: Ranger District
+  icon: pine-tree
+  value: CDA River R.D. 208.769.3000
+- label: Shoshone County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.556.1114
+notes:
+- Idaho panhandle national forest/alerts
+- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
-## Lone (& long lake) lakes
-
-EVENT TYPE: Hiking, backpacking, fishing, backcountry skiing and the awe inspiring "Upper Sanctuary."
-Distance:  Lone Lake 4 miles RT,  Upper Sanctuary about 6+ miles RT
-Elevation:  Lone Lake  1637 gain.  Upper Sanctuary  About another 250' gain
-​acres: 15.2
-Difficulty:  Moderately difficult
-Maps:  IPNF, LOLO N.F. Mullan topo
-Gps: 47°43’38” n -115°77’44” w
-​RANGER DISTRICT:  CDA River R.D.  208.769.3000
-SHOSHONE COUNTY SHERIFF: CALL 911 FIRST or 208.556.1114
-​Idaho panhandle national forest/alerts
-<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+# Lone Long Lake Lakes
 
 ## Description
 
@@ -33,7 +59,7 @@ This path braids a bit, but eventually leads you to the north end of Long Lake. 
 When you head back down from the Sanctuary, walk the Long Lake's shoreline to its north end. The path follows the stream back to the waterfall.
 This route may not be as easy in the early spring, due to high water flow.
 
-Once at the waterfall, cross over the stream and look for a faint trail that head south up thru the woods. As it breaks out of the woods, wonder along the upper "Long Lake" and head up to one of the two humps into what I call the “Upper Sanctuary” in about .5 of a mile. The hump on the right (west) has the best views and a spot for lunch. Before you, looking left (east), is the Willow Peak and Ridge.
+Once at the waterfall, cross over the stream and look for a faint trail that head south up thru the woods. As it breaks out of the woods, wonder along the upper "Long Lake" and head up to one of the two humps into what I call the "Upper Sanctuary" in about .5 of a mile. The hump on the right (west) has the best views and a spot for lunch. Before you, looking left (east), is the Willow Peak and Ridge.
 To the south and SE is the back ridge with 6838' Stevens Peak dominating your view.
 In the SANCTUARY to your left (east) is the ridge between Lone Lake and Stevens Lakes, called Willow Ridge. Look carefully for a large rock band running diagonally from the bottom right to the top left. This rock band ends up high near a dominate  Willow Peak 6449’. The "climbers trail' heads up just under this rock band to the ridge.
 
@@ -44,7 +70,7 @@ As you round Lone Lake, and get near the waterfall, the path is steep over a roc
 
 ## Directions
 
-Drive east on I-90 to exit #69, and turn left (north) over the freeway to the stop. Turn right (east) past Lucky Friday Mine on SH 10 for about .75 miles and bear right at the “Y” until the road crosses over the freeway. Continue up Willow Creek Road for about a mile to the trailhead.
+Drive east on I-90 to exit #69, and turn left (north) over the freeway to the stop. Turn right (east) past Lucky Friday Mine on SH 10 for about .75 miles and bear right at the "Y" until the road crosses over the freeway. Continue up Willow Creek Road for about a mile to the trailhead.
 
 You can park at the area parking lot, or drive the road by the large boulder up about a half a mile to where, by an opening, the road takes a sharp right turn. Park here. DO NOT DRIVE OR WALK UP THE DOMINANT ROAD.
 ​You will see a trail sign in a tree due south. Not up the sharp turn.
@@ -165,7 +191,7 @@ I tried a new technic and below are the results. ​by doing this, i can take ti
 
 ---
 
-## Below are images from what i call “the upper sanctuary”
+## Below are images from what i call "the upper sanctuary"
 
 ![Picture](/assets/images/p85.png)
 
@@ -205,7 +231,7 @@ I tried a new technic and below are the results. ​by doing this, i can take ti
 
 *Picture (Image missing)*
 
-## Unusual folded rocks east of “long lake”
+## Unusual folded rocks east of "long lake"
 
 *Picture (Image missing)*
 

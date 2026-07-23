@@ -1,23 +1,49 @@
+---
+tags:
+- Peaks & Mountains
+- Day Hike
+- Backpacking
+- Climbing
+- Scrambling
+- Wildlife Viewing
+- Photography
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hike, backpacking, climbing, scrambling, wildlife viewing, and photography
+- label: Distance
+  icon: map-marker-distance
+  value: about .5 of a mile
+- label: Elevation
+  icon: terrain
+  value: Almost 650verts
+- label: Difficulty
+  icon: speedometer
+  value: Easy to get to, moderate to scale
+- label: Maps
+  icon: map
+  value: Kootenai National Forest, Elephant Peak topo
+- label: GPS
+  icon: crosshairs-gps
+  value: 48° 04’ 26' n" 115° ?41’12" w
+- label: Ranger District
+  icon: pine-tree
+  value: cabinet r.d. 406.827.3533
+- label: Sanders County Sheriff
+  icon: shield-account
+  value: call 911 first or 406.827.3584
+notes:
+- Kootenai national forest/alerts
+- <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+---
+
 # Chicago Peak
 
-## Chicago peak 7018'
+!!! warning "Before you go"
 
-A warning about the road to the cliff lake, St paul peak and  rock peak road. After visiting the area wednesday 8.4.22, I want to tell you about the road. From f.r. 150, f.r. 2741 up to the trailhead, Is extremely rough' ​ and cars wont make it to the trailhead. The walk up the road to the trailhead Is about 2.4 miles. and will save your vehicles from damage. Please use caution
+    A warning about the road to the cliff lake, St paul peak and  rock peak road. After visiting the area wednesday 8.4.22, I want to tell you about the road. From f.r. 150, f.r. 2741 up to the trailhead, Is extremely rough' ​ and cars wont make it to the trailhead. The walk up the road to the trailhead Is about 2.4 miles. and will save your vehicles from damage. Please use caution
 
----
-
-EVENT TYPE: Day hike, backpacking, climbing, scrambling, wildlife viewing, and photography
-DISTANCE: about .5 of a mile
-ELEVATION: Almost 650verts
-Difficulty: Easy to get to, moderate to scale
-Maps: Kootenai National Forest, Elephant Peak topo
-​Gps: 48° 04’ 26' n”  115° ?41’12” w
-Ranger district: cabinet r.d. 406.827.3533
-Sanders county sheriff:  call 911 first or 406.827.3584
-Kootenai national forest/alerts
-<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
-
----
+*Chicago peak 7018'*
 
 ## Description
 

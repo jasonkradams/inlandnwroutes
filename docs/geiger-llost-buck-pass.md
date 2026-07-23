@@ -1,22 +1,49 @@
+---
+tags:
+- Trails & Scrambles
+- Moderate
+- Hiking
+- Backpacking
+- Fishing
+- Scenery
+- Photography
+stats:
+- label: Event Type
+  icon: hiking
+  value: Hiking, backpacking, fishing, scenery, and photography.
+- label: Distance
+  icon: map-marker-distance
+  value: To Lower Lake 4 miles RT, Upper Lake 6 miles RT, L.B.P. & Cabinet Divide
+    Trail 8+RT miles.
+- label: Elevation Gain
+  icon: elevation-rise
+  value: Lower Lake 1000 verts, Upper Lake 1600 verts
+- label: Acres
+  icon: vector-square
+  value: lower 34.4…..upper 12.5
+- label: Difficulty
+  icon: speedometer
+  value: Moderate
+- label: Maps
+  icon: map
+  value: Kaniksu N.F., Goat Peak Topo
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°00’58" n 115°32’08" w
+- label: Ranger District
+  icon: pine-tree
+  value: Libby R.D. 406.293.7773
+- label: Lincoln County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 406.293.4112
+notes:
+- Kootenai national forest/alerts
+- <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+---
+
 # Geiger Llost Buck Pass
 
-## Lower 4749’ & upper 5333’ geiger lakes
-
----
-
-EVENT TYPE: Hiking, backpacking, fishing, scenery, and photography.
-DISTANCE: To Lower Lake 4 miles RT, Upper Lake 6 miles RT, L.B.P. & Cabinet Divide Trail 8+RT miles.
-ELEVATION GAIN: Lower Lake 1000 verts, Upper Lake 1600 verts
-Acres: lower 34.4…..upper 12.5
-DIFFICULTY: Moderate
-MAPS: Kaniksu N.F., Goat Peak Topo
-Gps: 48°00’58” n 115°32’08” w
-​RANGER DISTRICT:   Libby R.D.   406.293.7773
-​LINCOLN COUNTY SHERIFF: CALL 911 FIRST or 406.293.4112
-Kootenai national forest/alerts
-<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
-
----
+*Lower 4749’ & upper 5333’ geiger lakes*
 
 ![Picture](/assets/images/61420251141a.jpg)
 

@@ -4,13 +4,7 @@ Stories... we encourage you to send us your writing on human powered sports. ple
 
 ## Stories
 
-##
-
 ## This article is from the Spokane Mountaineers Kinnikinnick archives
-
-|  |  |
-| --- | --- |
-| --- | Picture |
 
 ## From the archives of the spokane mountaineers and more
 
@@ -41,9 +35,9 @@ U
 ​anonymous 
 
 2011
-“Wondering the mountains takes us on a path thru our soul.
+"Wondering the mountains takes us on a path thru our soul.
 While a path thru our soul takes us to new heights.
-New heights expand our love of wandering”.
+New heights expand our love of wandering".
 
                        chic     7.29.11
 

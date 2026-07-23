@@ -1,20 +1,45 @@
+---
+tags:
+- Lakes
+- Easy
+- Day Hiking
+- Backpacking
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking
+- label: Distance
+  icon: map-marker-distance
+  value: 3 miles RT
+- label: Elevation
+  icon: terrain
+  value: 800 verts
+- label: Acres
+  icon: vector-square
+  value: '9.4'
+- label: Difficulty
+  icon: speedometer
+  value: Easy
+- label: Maps
+  icon: map
+  value: Howard Lake
+- label: GPS
+  icon: crosshairs-gps
+  value: Lower 48°01’47" N 115°33’09" N UPPER48°01’37" N 115°33’44" W
+- label: Ranger District
+  icon: pine-tree
+  value: libby ranger district
+- label: Lincoln County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 406.293.4112
+notes:
+- Kootenai national forest/alerts
+- <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+---
+
 # Bramlet Lake
 
-## Lower & upper bramlet lake l.5597’ w 6019’
-
-EVENT TYPE: Day hiking, backpacking
-DISTANCE: 3 miles RT
-ELEVATION: 800 verts
-Acres: 9.4
-DIFFICULTY: Easy
-MAPS: Howard Lake
-GPS: Lower 48°01’47” N 115°33’09” N UPPER48°01’37” N 115°33’44” W
-Ranger district: libby ranger district 
-LINCOLN COUNTY SHERIFF: CALL 911 FIRST or 406.293.4112
-Kootenai national forest/alerts
-<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
-
----
+*Lower & upper bramlet lake l.5597’ w 6019’*
 
 ## Description
 

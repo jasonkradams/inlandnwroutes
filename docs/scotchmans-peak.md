@@ -1,23 +1,47 @@
+---
+tags:
+- Peaks & Mountains
+- Moderately Difficult to Difficult
+- Day Hiking
+- Backpacking
+- Sshoeing
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, sshoeing
+- label: Distance
+  icon: map-marker-distance
+  value: 8 miles RT
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 3700 verts
+- label: Difficulty
+  icon: speedometer
+  value: Moderately difficult to difficult
+- label: Maps
+  icon: map
+  value: IPNF, Scotchmans Peak & Clark Fork topos
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°11’18" n 116°69’16" w
+- label: Ranger District
+  icon: pine-tree
+  value: Sandpoint R.D. 208.263.5111
+- label: Bonner County Sheriff
+  icon: shield-account
+  value: 911 or 208.263.8417
+notes:
+- Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Scotchmans Peak
 
-## Scotchmans peak 7009’
-
-EVENT TYPE: Day hiking, backpacking, sshoeing
-DISTANCE: 8 miles RT
-ELEVATION GAIN: 3700 verts
-DIFFICULTY: Moderately difficult to difficult
-MAPS: IPNF, Scotchmans Peak & Clark Fork topos
-Gps: 48°11’18” n 116°69’16” w
-RANGER DISTRICT:  Sandpoint R.D. 208.263.5111
-BONNER COUNTY SHERIFF: 911 or 208.263.8417
-Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
+*Scotchmans peak 7009’*
 
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-​This is the “grand-daddy” of hikes in the Proposed Scotchman Peak Wilderness, and an annual pilgrimage for many local hikers. The trail is a little over 4 miles one-way, with an elevation gain is 3,700 feet. This is a short climb, but strenuous because it is steep. The well worn tread is usually in good shape and leads to the highest point in Bonner County, the top of Scotchmans Peak. Stunning panoramas of Lake Pend Oreille begin at “the meadows”, about two thirds of the way up and they continue to unfold as you reach the summit. The peak looks over, and deep into, the rugged valleys and ridges of the Scotchman Peaks area. Mountain goats are frequently encountered on the surrounding ridges and near the summit. Snow lingers late into the summer of most years.
+​This is the "grand-daddy" of hikes in the Proposed Scotchman Peak Wilderness, and an annual pilgrimage for many local hikers. The trail is a little over 4 miles one-way, with an elevation gain is 3,700 feet. This is a short climb, but strenuous because it is steep. The well worn tread is usually in good shape and leads to the highest point in Bonner County, the top of Scotchmans Peak. Stunning panoramas of Lake Pend Oreille begin at "the meadows", about two thirds of the way up and they continue to unfold as you reach the summit. The peak looks over, and deep into, the rugged valleys and ridges of the Scotchman Peaks area. Mountain goats are frequently encountered on the surrounding ridges and near the summit. Snow lingers late into the summer of most years.
 There are some very aggressive mountain goats that frequent the upper trail and the summit area.
 ​please, do not approach the goats.
 And if they come close to you or others, gently use your hiking poles to hold them away.

@@ -30,10 +30,10 @@ Be sure to not allow the water to boil off. Occasionally stir and add lots of wa
 Do not use store bought chicken broths.
 Cut the sweet peppers into thirds lengthwise and remove seeds and white veins. Keep the veins if you like a spicy soup. Brush with olive oil, salt, pepper and garlic powder, and broil until the skins are charred. Broil insides first, but don’t burn.
 Let cool, and peel off the burned skins. 
-Then cut into 1/2 x 2” pieces.
+Then cut into 1/2 x 2" pieces.
 If you want spicy soups, don’t broil.
 
-Cut all vegetables into 1/2 x 2” pieces, and store in plastic bag in the refrigerator.
+Cut all vegetables into 1/2 x 2" pieces, and store in plastic bag in the refrigerator.
 ​After many hours of boiling the bones, remove all solid parts, and strain thru cheese cloth to remove semi solids.
 
 Add vegetables and chicken, and cook. A short time here will produce veggies that are semi crispy. A long time, like an hour will cause all veggies to be mushier. 

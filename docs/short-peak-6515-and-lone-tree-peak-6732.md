@@ -1,20 +1,43 @@
+---
+tags:
+- Peaks & Mountains
+- Moderately Easy
+- Hiking
+- Backpacking
+- Equestrian
+- Lookout Tower Rental
+stats:
+- label: Event Type
+  icon: hiking
+  value: Hiking, backpacking, equestrian, Lookout Tower Rental
+- label: Distance
+  icon: map-marker-distance
+  value: 2.5 miles RT
+- label: Elevation
+  icon: terrain
+  value: 1300 verts
+- label: Difficulty
+  icon: speedometer
+  value: moderately easy
+- label: Maps
+  icon: map
+  value: IPNF Forest map, Shorty Peak Topo
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°56'25" n 116°41;21" w
+- label: Ranger District
+  icon: pine-tree
+  value: Priest River R.D. 208.443.2512
+- label: Boundary County Sheriff
+  icon: shield-account
+  value: 911 or 208.267.3151
+notes:
+- Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Short Peak 6515 And Lone Tree Peak 6732
 
-## Short peak 6515' and lone tree peak 6732' #95
-
----
-
-EVENT TYPE: Hiking, backpacking, equestrian, Lookout Tower Rental
-Distance:  2.5 miles RT
-​ELEVATION: 1300 verts
-DIFFICULTY: moderately easy
-MAPS: IPNF Forest map, Shorty Peak Topo
-Gps: 48°56'25" n  116°41;21" w
-RANGER DISTRICT: Priest River R.D.  208.443.2512
-BOUNDARY COUNTY SHERIFF: 911 or 208.267.3151
-Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
+*Short peak 6515' and lone tree peak 6732' #95*
 
 ## Description
 
@@ -90,10 +113,6 @@ Click for Current NOAA Weather Conditions
 ![Picture](/assets/images/8220251235p.jpg)
 
 ## Shorty peak and lookout from near the top of lone tree peak
-
-|  |  |
-| --- | --- |
-|  |  |
 
 ![Picture](/assets/images/8220251238p.jpg)
 

@@ -1,16 +1,32 @@
-# Turner Mountain Ski Area
-
-## Turner mountain ski area     libby, mt
-
+---
+tags:
+- Peaks & Mountains
+stats:
+- label: Phone
+  icon: phone
+  value: 406.293.2468
+- label: Acres
+  icon: vector-square
+  value: 400+-
+- label: Average Snow Fall
+  icon: weather-snowy-heavy
+  value: 200"
+- label: Summit Elevation
+  icon: terrain
+  value: 5952'
+- label: Base Elevation
+  icon: terrain
+  value: 3842'
+- label: Verts
+  icon: arrow-expand-vertical
+  value: 2110'
+notes:
+- Skiturner.com
 ---
 
-Skiturner.com
-Phone: 406.293.2468
-Acres: 400+-
-​average snow fall: 200"
-Summit elevation: 5952'
-Base elevation: 3842'
-Verts: 2110'
+# Turner Mountain Ski Area
+
+*Turner mountain ski area     libby, mt*
 
 ## of named runs: 22
 
@@ -29,7 +45,7 @@ To contribute images, contact chic via this website
 
 ## Photo gallery
 
-In the late 1950s, a dedicated group of skiers dreamed of a ski area in Libby.  That dream was realized in 1960 with the development of Turner Mountain Ski Area.  That fall, a rope tow and 20’x40’ warming shelter and snack bar  were constructed for use during that first season of operation.  Turner Mountain Ski Area has operated each winter since then, mostly run by volunteers.  The following summer of 1961 saw the construction of a mile long T-Bar to the summit of Turner Mountain.  The T-Bar was often referred to as:  “The longest T-Bar in North America”.  In the late 1990s another dedicated group of skiers envisioned replacing the T-Bar, which had been in operation nearly 40 years.  This vision was realized during the summer and fall of 2001 with the construction of a double chairlift to the summit.  The original warming shelter remained in service until 2005 at which time a 4000 sq ft. lodge was constructed.  Turner Mountain Ski Area continues to operate as the quintessential small town ski area, based on the same spirit of camaraderie, volunteerism, and desire for great alpine skiing on which it was started in the late ‘50s.  
+In the late 1950s, a dedicated group of skiers dreamed of a ski area in Libby.  That dream was realized in 1960 with the development of Turner Mountain Ski Area.  That fall, a rope tow and 20’x40’ warming shelter and snack bar  were constructed for use during that first season of operation.  Turner Mountain Ski Area has operated each winter since then, mostly run by volunteers.  The following summer of 1961 saw the construction of a mile long T-Bar to the summit of Turner Mountain.  The T-Bar was often referred to as:  "The longest T-Bar in North America".  In the late 1990s another dedicated group of skiers envisioned replacing the T-Bar, which had been in operation nearly 40 years.  This vision was realized during the summer and fall of 2001 with the construction of a double chairlift to the summit.  The original warming shelter remained in service until 2005 at which time a 4000 sq ft. lodge was constructed.  Turner Mountain Ski Area continues to operate as the quintessential small town ski area, based on the same spirit of camaraderie, volunteerism, and desire for great alpine skiing on which it was started in the late ‘50s.  
 
 Jake and Jini Jeresek, ca. 1980s.Kootenai Winter Sports
 Ski Education Foundation, Inc.

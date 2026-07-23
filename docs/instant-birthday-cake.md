@@ -8,7 +8,7 @@ Out of necessity one trip, a birthday just happened to one of the participants. 
 I looked around the kitchen, and improvised. The results are below.   C.
 
 Prep
-Cut bread into 1.5” French cut slices.
+Cut bread into 1.5" French cut slices.
 ​Spread milk chocolate frosting onto bread.
 Instant birthday cake.
 

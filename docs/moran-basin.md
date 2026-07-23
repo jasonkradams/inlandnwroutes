@@ -1,20 +1,42 @@
+---
+tags:
+- Trails & Scrambles
+- Difficult
+- Day Hiking
+- Backpacking
+- Mt. Biking Approach
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, Mt. Biking approach
+- label: Distance
+  icon: map-marker-distance
+  value: 26 miles RT
+- label: Elevation
+  icon: terrain
+  value: 3800’
+- label: Difficulty
+  icon: speedometer
+  value: Difficult
+- label: Maps
+  icon: map
+  value: Kaniksu N.F., Elephant Peak topo.
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°5’49" n 115°41’40" w
+- label: Ranger District
+  icon: pine-tree
+  value: Cabinet Ranger District. 406.827.3533
+- label: Lincoln County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 406.293.4112
+notes:
+- Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+---
+
 # Moran Basin
 
-## Moran basin trail #993
-
----
-
-EVENT TYPE: Day hiking, backpacking, Mt. Biking approach
-DISTANCE: 26 miles RT
-Elevation: 3800’
-DIFFICULTY: Difficult
-MAPS: Kaniksu N.F., Elephant Peak topo. 
-Gps: 48°5’49” n 115°41’40” w
-Ranger district:  Cabinet Ranger District. 406.827.3533
-​LINCOLN COUNTY SHERIFF: CALL 911 FIRST or 406.293.4112
-Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
-
----
+*Moran basin trail #993*
 
 ## Description
 

@@ -1,15 +1,28 @@
-# Killarney Lake Launch
-
-## Killarney lake launch
-
-PADDLE DISTANCE: 5.3 mile loop
-Elevation: 2133’
-LENGTH AND ACREAGE: 1.5 miles. & 498 acres
-MAPS: IPNF, Lane Topo
-Launch gps: 47°30’54” n 116°33’21” w
-​shoshone county sheriff: 208.556.1114
-
 ---
+tags:
+- Lakes
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: 5.3 mile loop
+- label: Elevation
+  icon: terrain
+  value: 2133’
+- label: Length and Acreage
+  icon: vector-square
+  value: 1.5 miles. & 498 acres
+- label: Maps
+  icon: map
+  value: IPNF, Lane Topo
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 47°30’54" n 116°33’21" w
+- label: Shoshone County Sheriff
+  icon: shield-account
+  value: 208.556.1114
+---
+
+# Killarney Lake Launch
 
 ## Description
 

@@ -1,21 +1,54 @@
+---
+tags:
+- Trails & Scrambles
+stats:
+- label: Genesis Name
+  icon: book-open-variant
+  value: Claytomia lanceolata
+- label: Distribution
+  icon: earth
+  value: ca, co, id, mt nm, or, ut, wa, wy
+- label: Season
+  icon: calendar
+  value: Blooms JAN, FEB, MAR, APR, MAY
+- label: Medical Use
+  icon: medical-bag
+  value: Past medicinal uses have included using **powdered corms to treat convulsions
+    and as a contraception**. Other species of spring beauty have been used by various
+    Indian tribes to make poultices to treat eye problems and as an infusion to treat
+    sore throats, dandruff, and urinary tract problems.
+- label: Poisonous
+  icon: skull-crossbones
+  value: 'no'
+- label: Edibility
+  icon: food-apple
+  value: The Spring Beauty is an **edible plant**. Both man and beast may eat the
+    leaves and the tubers (or corms). ... The starchy tubers can be eaten raw or cooked.
+    If eaten raw, they will taste like radishes. The entire plant is edible raw or
+    cooked, including the potato-like [corm](https://en.wikipedia.org/wiki/Corm) from
+    which it grows.
+- label: Features
+  icon: information-outline
+  value: Spring beauty is an herbaceous perennial in the Montiaceae family. This plant
+    is a woodland perennial that produces small flowers in spring. The petals are
+    pink or white, with darker pink veins. The plant disappears from above the ground
+    soon after the seed capsules have ripened.
+- label: Leaves
+  icon: leaf
+  value: One or two basal leaves may be present early in the season. Western Spring
+    Beauty grows from **a spherical, edible, underground tuber** which tastes like
+    a potato. Native Americans used the tuber for food and for animal fodder.
+- label: Fruits
+  icon: fruit-cherries
+  value: Claytonia lanceolata is a species of wildflower in the family Montiaceae,
+    known by the common names lanceleaf springbeauty and western springbeauty. ...
+    Claytonia lanceolata (Lanceleaf springbeauty,
+notes:
+- Native Americans ate the roots and [pods](https://en.wikipedia.org/wiki/Pod_(fruit)),
+  which can be cooked and eaten like potatoes. The leaves can be eaten raw or cooked.
+---
+
 # Spring Beauties
-
-## Spring beauties
-
----
-
-GENESIS NAME:  Claytomia lanceolata
-Distribution:  ca, co, id, mt nm, or, ut, wa, wy
-SEASON:  Blooms JAN, FEB, MAR, APR, MAY
-Medical use:  Past medicinal uses have included using **powdered corms to treat convulsions and as a contraception**. Other species of spring beauty have been used by various Indian tribes to make poultices to treat eye problems and as an infusion to treat sore throats, dandruff, and urinary tract problems.
-Poisonous:  no
-Edibility:  The Spring Beauty is an **edible plant**. Both man and beast may eat the leaves and the tubers (or corms). ... The starchy tubers can be eaten raw or cooked. If eaten raw, they will taste like radishes. The entire plant is edible raw or cooked,  including the potato-like [corm](https://en.wikipedia.org/wiki/Corm) from which it grows.
-Native Americans ate the roots and [pods](https://en.wikipedia.org/wiki/Pod_(fruit)), which can be cooked and eaten like potatoes. The leaves can be eaten raw or cooked.
-Features:  Spring beauty is an herbaceous perennial in the Montiaceae family. This plant is a woodland perennial that produces small flowers in spring. The petals are pink or white, with darker pink veins. The plant disappears from above the ground soon after the seed capsules have ripened.
-​Leaves:   One or two basal leaves may be present early in the season. Western Spring Beauty grows from **a spherical, edible, underground tuber** which tastes like a potato. Native Americans used the tuber for food and for animal fodder.
-FRUITS:  Claytonia lanceolata is a species of wildflower in the family Montiaceae, known by the common names lanceleaf springbeauty and western springbeauty. ... Claytonia lanceolata (Lanceleaf springbeauty,
-
----
 
 ## Description
 

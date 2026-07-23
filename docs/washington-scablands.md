@@ -20,14 +20,14 @@ Look at a color photo of Washington from space. From the Clark Fork valley, to t
 But it wasn’t always evident. 
 
 A geologist named J Harlan Bretz had been studying the geology around Seattle, but soon became enamored with east central portions of Washington. He and his students spent summers walking the land, recording their findings, and creating a theory. 
-At 41 years old in 1923, J (his first name is simply “J” with no period) presented his first paper at the annual meeting of the Geological Society of America. “Having presented that great mass of evidence, he interpreted the scablands as a result of glacial erosion and of torrential flows of water from melting glacial ice.”
+At 41 years old in 1923, J (his first name is simply "J" with no period) presented his first paper at the annual meeting of the Geological Society of America. "Having presented that great mass of evidence, he interpreted the scablands as a result of glacial erosion and of torrential flows of water from melting glacial ice."
 
 After his presentation, several emanate geologists congratulated him for his splendid contribution to knowledge. 
 At other meetings, months later, he gave his second paper, but by then he had drawn radically different conclusions. In this paper he boldly proposed that an enormous flood eroded the scablands in a very brief time, perhaps in a few days. But this time, the audience denounced his conclusions and the thinking that had led to them.
 
 Geologists at this meeting were shocked to hear him explain the idea of a catastrophic explanation for a geologic event. This second paper made him a pariah among geologists. 
 
-“If scientific controversies were settled by a vote, J would have lost immediately, crushed under a land slide of outraged opinion. But being crushed was not part of his personal style. He would continue to defend his ideas for almost sixty more years.”
+"If scientific controversies were settled by a vote, J would have lost immediately, crushed under a land slide of outraged opinion. But being crushed was not part of his personal style. He would continue to defend his ideas for almost sixty more years."
 
 His mountains of evidence, and many different kinds of evidence, did not deter his beliefs. The neigh sayers were quite certain that J was wrong, and did not feel a need to consider the evidence. These people knew the answers before they heard the question. J was invited to present another paper about the scablands in 1927 to the Geological Society of Washington, D.C. it was described as a lynching. But most of the scientific audience had never visited, and had no knowledge of the extraordinary landscape. The meeting took on a feel of a debate in Washington, D.C.
 
@@ -35,7 +35,7 @@ In the mean time, J investigated the limestone caverns in the Ozark Mountains of
 
 In 1952, J returned to the scablands with several geologists who were sympathetic to his ideas. They found new evidence that persuaded J to argue that more then one great flood had scoured the region—at least seven and perhaps as many as nine.
 ​
-“Satellite imagery in the 1970s provided the final vindication. J had the satisfaction of living long enough to see his once heretical ideas become the new orthodoxy. In 1979, at age 96, he received the Penrose Medal, geology's highest honor.  He later reportedly told his son: "All my enemies are dead, so I have no one to gloat over.”​
+"Satellite imagery in the 1970s provided the final vindication. J had the satisfaction of living long enough to see his once heretical ideas become the new orthodoxy. In 1979, at age 96, he received the Penrose Medal, geology's highest honor.  He later reportedly told his son: "All my enemies are dead, so I have no one to gloat over."​
 
 Glacier Lake Missoula formed several time over thousands of years, but it was perhaps the last lake that caused the most catastrophic event.
 Glacier Lake Missoula was in volume the same size as Lakes Erie and Ontario combined.
@@ -54,7 +54,7 @@ So I would encourage everyone to stop by the Visitors Center on Hwy 17 at Dry Fa
 Dry Falls is 3.5 miles, or 5.5 km in width. And you can walk beneath it.
 
 Most of the above info was from several books I’ve read, including
-“Glacier Lake Missoula and its Humongous Floods, by David Alt.
+"Glacier Lake Missoula and its Humongous Floods, by David Alt.
 
 As you are hiking the trails and coulees listed below, stop and think about a man who saw it all 60 years before the Geological Societies
 even celebrated his most important discovery in 1979.

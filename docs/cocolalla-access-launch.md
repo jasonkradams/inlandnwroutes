@@ -1,17 +1,28 @@
+---
+tags:
+- Paddling & Rivers
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: 5.3 mile loop
+- label: Elevation
+  icon: terrain
+  value: 2212’
+- label: Length and Acreage
+  icon: vector-square
+  value: 2.3 miles long & 803.7 acres
+- label: Maps
+  icon: map
+  value: Cocolalla & Sage Topos
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 48°08’18" n 116°36’1" w
+- label: Kootenai County Sheriff
+  icon: shield-account
+  value: 208.446.1300
+---
+
 # Cocolalla Access Launch
-
-## Cocolalla access launch
-
----
-
-PADDLE DISTANCE: 5.3 mile loop
-Elevation: 2212’
-LENGTH AND ACREAGE: 2.3 miles long & 803.7 acres
-MAPS: Cocolalla & Sage Topos
-Launch gps: 48°08’18” n 116°36’1” w
-​kootenai county sheriff: 208.446.1300
-
----
 
 ## Description
 

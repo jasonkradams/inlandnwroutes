@@ -1,25 +1,44 @@
+---
+tags:
+- Peaks & Mountains
+- Extremely Difficult
+- Scrambling
+- Climbing
+stats:
+- label: Event Type
+  icon: hiking
+  value: Scrambling, climbing
+- label: Distance
+  icon: map-marker-distance
+  value: From Leigh Lake about 13.4 miles to Middle Fork Bull River
+- label: Elevation
+  icon: terrain
+  value: 3594 verts. Descent to Bull River trailhead is about 5785verts Down
+- label: Difficulty
+  icon: speedometer
+  value: Extremely difficult
+- label: Maps
+  icon: map
+  value: Kootenai N.F., Libby District, Snowshoe Peak topo. 406.293.8861
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°13’22"n 115°41’20"w
+- label: Ranger District
+  icon: pine-tree
+  value: 'Libby R.D.: 406.293.7773'
+- label: Sanders County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 406.827.3584
+notes:
+- Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+---
+
 # Snowshoe Peak 8738
-
-## Snowshoe peak 8738’
-
----
-
-EVENT TYPE: Scrambling, climbing
-DISTANCE: From Leigh Lake about 13.4 miles to Middle Fork Bull River
-ELEVATION: 3594 verts. Descent to Bull River trailhead is about 5785verts Down
-DIFFICULTY: Extremely difficult
-MAPS: Kootenai N.F., Libby District, Snowshoe Peak topo.   406.293.8861
-Gps: 48°13’22”n 115°41’20”w
-RANGER NDISTRICT: Libby R.D.: 406.293.7773
-SANDERS COUNTY SHERIFF: CALL 911 FIRST or 406.827.3584
-Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
-
----
 
 ## Description
 
 Climbing Snowshoe from any direction is a very challenging endeavor.
-The easiest, if you can call it that, is to hike the 1.52 miles into Leigh Lake. Once at Leigh Lake, head around the right (N) side of the lake on a well beaten path for about .5 miles to a rocky beach, and an avalanche terminus. From here, head up the intermittent creek about 1/3 the way up to a “shelf”.
+The easiest, if you can call it that, is to hike the 1.52 miles into Leigh Lake. Once at Leigh Lake, head around the right (N) side of the lake on a well beaten path for about .5 miles to a rocky beach, and an avalanche terminus. From here, head up the intermittent creek about 1/3 the way up to a "shelf".
 ​be sure to mark this spot for the descent, if you are foolish enough to descend to leigh lake..
 Locate a relatively level bench to cross to the left (W), to the first intermittent creek. MARK THIS SPOT. From here, start your ascent up this dry waterfall to a "Y" in the creek. Veer left to the high ridge. BE SURE TO MARK THIS SPOT FOR YOUR DESCENT. This will be your descent route, back to Leigh Lake. Once on the high ridge, head left (W) up above the only glacier in our region, Blackwell Glacier. The route ascends loose scree to the summit of Snowshoe Peak 8738’.
 ​Once on the summit, retrace your steps to the marker at the Intermittent creek. Because the descending the route is down the dry creek bed is very difficult, and dangerous, I WOULD STRONGLY SUGGEST, TAKING A 75’ LENGHT OF GLACIER ROPE FOR THE DESCENT. Down climbing the dry waterfall is too dangerous, and very time consuming. Use the rope to do body belays down the hard descents.
@@ -36,7 +55,7 @@ The elevation gain via this route is 5785 verts.
 
 ## Option #2
 
-Another route to Snowshoe is via the North Fork Bull River, but makes an up hill turn in about 3 miles. This non de-script route takes you to a very cool ridge to A Peak. Once up on the “level” look for a rock ridge line that does a slow arch up to A Peak’s summit.
+Another route to Snowshoe is via the North Fork Bull River, but makes an up hill turn in about 3 miles. This non de-script route takes you to a very cool ridge to A Peak. Once up on the "level" look for a rock ridge line that does a slow arch up to A Peak’s summit.
 From A Peak, head SE along a scary ridge to just below Snowshoe Peak. Choose your route above this point, carefully.
 
 ## Directions
@@ -47,7 +66,7 @@ From Libby, drive south on Highway 2 towards Glacier National Park for about 8 m
 
 West side route via n.fork bull river
 
-On Hwy 56, look for milepost 16. Turn right (east) up the South Fork Bull River Road #410 for about 2 miles, where the road “Y’s”. Bear right (east) onto F.R. # 2722 for about 2 miles to the trailhead.
+On Hwy 56, look for milepost 16. Turn right (east) up the South Fork Bull River Road #410 for about 2 miles, where the road "Y’s". Bear right (east) onto F.R. # 2722 for about 2 miles to the trailhead.
 
 ## Hazards
 

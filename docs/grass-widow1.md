@@ -1,20 +1,43 @@
+---
+tags:
+- Trails & Scrambles
+stats:
+- label: Genesis Name
+  icon: book-open-variant
+  value: Olsynium douglasii
+- label: Distribution
+  icon: earth
+  value: Washington, Idaho,Oregon, and some of Canada
+- label: Season
+  icon: calendar
+  value: Early Spring
+- label: Medical Use
+  icon: medical-bag
+  value: na
+- label: Poisonous
+  icon: skull-crossbones
+  value: Considered poisonous
+- label: Edibility
+  icon: food-apple
+  value: na
+- label: Features
+  icon: information-outline
+  value: Single stems with six purple pedals, with a yellow elevated center and white
+    split end protrusion.
+- label: Leaves
+  icon: leaf
+  value: Grass like leaves that are often taller then the flower. Slender, flattened
+    leaves grow with sheathing at the base. The leaves are 4 to 12 inches (10 to 30
+    cm) in length and approximately 1/8 of an inch (3 mm) in width.
+- label: Fruits
+  icon: fruit-cherries
+  value: Capsules containing 3 cells are produced. The capsules are approximately
+    1/2 of an inch (1 cm) in length.
+---
+
 # Grass Widow1
 
-## Grass widow
-
----
-
-GENESIS NAME: Olsynium douglasii
-DISTRIBUTION: Washington, Idaho,Oregon, and some of Canada
-SEASON: Early Spring
-Medical use: na
-POISONOUS: Considered poisonous
-Edibility: na
-FEATURES: Single stems with six purple  pedals, with a yellow elevated center and white split end protrusion.
-LEAVES: Grass like leaves that are often taller then the flower.  Slender, flattened leaves grow with sheathing at the base. The leaves are 4 to 12 inches (10 to 30 cm) in length and approximately 1/8 of an inch (3 mm) in width.
-FRUITS: Capsules containing 3 cells are produced. The capsules are approximately 1/2 of an inch (1 cm) in length.
-
----
+*Grass widow*
 
 ## Description
 

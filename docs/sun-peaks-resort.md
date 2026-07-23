@@ -1,16 +1,32 @@
-# Sun Peaks Resort
-
-## Sun peaks ski area
-
+---
+tags:
+- Peaks & Mountains
+stats:
+- label: Phone
+  icon: phone
+  value: 250.578.5474
+- label: Acres
+  icon: vector-square
+  value: '4270'
+- label: Average Snow Fall
+  icon: weather-snowy-heavy
+  value: 236'
+- label: Summit Elevation
+  icon: terrain
+  value: 7060'
+- label: Base Elevation
+  icon: terrain
+  value: 4116'
+- label: Verts
+  icon: arrow-expand-vertical
+  value: 2894'
+notes:
+- Sunpeaksresort.com
 ---
 
-Sunpeaksresort.com
-Phone: 250.578.5474
-Acres: 4270
-​average snow fall: 236'
-Summit elevation:  7060'
-Base elevation: 4116'
-Verts: 2894'
+# Sun Peaks Resort
+
+*Sun peaks ski area*
 
 ## of named runs: 138
 

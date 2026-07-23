@@ -1,19 +1,42 @@
+---
+tags:
+- Trails & Scrambles
+- Easy
+- Day Hiking
+- Backpacking
+- Fishing
+- Paddling
+- Hunting
+- Mt Biking
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, fishing, paddling, hunting, mt biking, picnicking,
+    and camping.
+- label: Distance
+  icon: map-marker-distance
+  value: up to 25 miles, depending on your activity
+- label: Elevation
+  icon: terrain
+  value: 600 verts depending on your activity.
+- label: Difficulty
+  icon: speedometer
+  value: easy
+- label: Maps
+  icon: map
+  value: BLM website, Pacific Lake & Sullivan Lake topos.
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°42’83" n 118°44’47" w
+- label: Managing Agency
+  icon: domain
+  value: blm. 509.536.1200
+- label: Lincoln County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 509.725.3501
+---
+
 # Odessa Area
-
-## Odessa area​
-
----
-
-EVENT TYPE: Day hiking, backpacking, fishing, paddling, hunting, mt biking, picnicking, and camping.
-DISTANCE: up to 25 miles, depending on your activity
-ELEVATION: 600 verts depending on your activity.
-DIFFICULTY: easy
-MAPS: BLM website, Pacific Lake & Sullivan Lake topos.
-Gps: 47°42’83” n 118°44’47” w
-Managing agency:  blm.  509.536.1200
-​LINCOLN COUNTY SHERIFF: CALL 911 FIRST or 509.725.3501
-
----
 
 ## Description
 

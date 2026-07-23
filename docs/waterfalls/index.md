@@ -54,7 +54,7 @@ Before shooting a regular pano, do several dry runs of the path you want to reco
 
 As you are shooting the many waterfalls in our region, if you notice  a small, slate gray, fat little bird, with yellow feet, in or around the falls. Be still, don’t talk or move around.
 And if you are luck, you may spot a Water Ouzel, also called an American Dipper.
-They make a sharp sound like “zeet.
+They make a sharp sound like "zeet.
 With even more luck, you might see them walking on gravel.
 They are known to dive under water for water insects.
 As they stop walking, they have a distinctively dipping motion.

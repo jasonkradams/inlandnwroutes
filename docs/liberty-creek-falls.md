@@ -1,17 +1,28 @@
+---
+tags:
+- Waterfalls
+stats:
+- label: Waterfall
+  icon: waterfall
+  value: U. & L. Liberty Creek Falls
+- label: Drop
+  icon: arrow-collapse-down
+  value: Both about 30'
+- label: Waterfall Type
+  icon: waterfall
+  value: Both are Slide falls
+- label: Distance Car to Falls
+  icon: map-marker-distance
+  value: 7 miles loop
+- label: Maps
+  icon: map
+  value: Liberty Lake Regional Park
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°35’?59" n 117°02’36" w
+---
+
 # Liberty Creek Falls
-
-## Liberty creek falls
-
----
-
-WATERFALL : U. & L. Liberty Creek Falls
-DROP: Both about 30'
-WATERFALL TYPE: Both are Slide falls
-​DISTANCE CAR TO FALLS: 7 miles loop
-MAPS: Liberty Lake Regional Park
-Gps: 47°35’?59” n 117°02’36” w
-
----
 
 ## Description
 

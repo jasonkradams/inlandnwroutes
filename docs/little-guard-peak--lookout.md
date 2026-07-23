@@ -1,21 +1,43 @@
-# Little Guard Peak  Lookout
-
-## Little guard peak 6031’ & lookout trail #81
-
+---
+tags:
+- Peaks & Mountains
+- Day Hiking
+- Lookout Rental
+- Equestrian
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, lookout rental, equestrian
+- label: Distance
+  icon: map-marker-distance
+  value: '1.4 mile from the gate, plus Trail #81, up the Shoshone Ridge'
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 540 verts
+- label: Difficulty
+  icon: speedometer
+  value: easy to lookout & moderate on the Shoshone Ridge trail
+- label: Maps
+  icon: map
+  value: IPNF, Mount Pend Orielle Topo
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°48’ 34" n 116°01’25 w
+- label: Ranger District
+  icon: pine-tree
+  value: cda river r.d. 208.769.3000
+- label: Shoshone County Sherrif
+  icon: information-outline
+  value: 911 or 208.556.1114
+notes:
+- Idaho panhandle national forest/alerts[https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)
+- Idaho panhandle national forest/alerts
+- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
-EVENT TYPE: Day hiking, lookout rental, equestrian
-DISTANCE: 1.4 mile from the gate, plus Trail #81, up the Shoshone Ridge
+# Little Guard Peak  Lookout
 
-ELEVATION GAIN: 540 verts
-DIFFICULTY: easy to lookout & moderate on the Shoshone Ridge trail
-MAPS: IPNF, Mount Pend Orielle Topo
-Gps: 47°48’ 34” n 116°01’25 w
-Ranger district:  cda river r.d.  208.769.3000
-SHOSHONE COUNTY SHERRIF: 911 or 208.556.1114
-Idaho panhandle national forest/alerts[<https://www.fs.usda.gov/alerts/ipnf/alerts-notice>](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)
-Idaho panhandle national forest/alerts
-<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+*Little guard peak 6031’ & lookout trail #81*
 
 ## Description
 
@@ -98,7 +120,7 @@ Restrictions:Capacity of 4 people. No tent or RV camping allowed; all visitors m
 Closest Towns:Kingston, Idaho 
 Water:None.
 Restroom:Pit Toilet
-Information Center:A combination is needed to access the lookout Propane is provided for the stove and refrigerator. Propane is not provided for the propane heater that is located in the kitchen area. If you wish to use this propane heater you’ll need to bring a 5 or 7.5 gallon propane tank (such as those typically used for BBQs). You will also need to bring small propane bottles to use in the propane lanterns for lighting, as these are not provided. A wood stove has been installed for heat on the top floor. Some firewood is available for your use. Not knowing how long this supply of wood will last, it is advisable to bring extra firewood (the stove burns 15” long firewood). General InformationDirections: GPS Info. (Latitude, Longitude):
+Information Center:A combination is needed to access the lookout Propane is provided for the stove and refrigerator. Propane is not provided for the propane heater that is located in the kitchen area. If you wish to use this propane heater you’ll need to bring a 5 or 7.5 gallon propane tank (such as those typically used for BBQs). You will also need to bring small propane bottles to use in the propane lanterns for lighting, as these are not provided. A wood stove has been installed for heat on the top floor. Some firewood is available for your use. Not knowing how long this supply of wood will last, it is advisable to bring extra firewood (the stove burns 15" long firewood). General InformationDirections: GPS Info. (Latitude, Longitude):
 47.80278, -116.00944
 47°48'10"n, 116°0'34"w
 

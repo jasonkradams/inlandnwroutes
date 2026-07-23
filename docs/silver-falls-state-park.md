@@ -1,17 +1,25 @@
+---
+tags:
+- Waterfalls
+stats:
+- label: Waterfall
+  icon: waterfall
+  value: Silver Falls State park
+- label: Drop
+  icon: arrow-collapse-down
+  value: 31 feet to 178 feet
+- label: Waterfall Type
+  icon: waterfall
+  value: All types of falls
+- label: Maps
+  icon: map
+  value: ???
+- label: GPS
+  icon: crosshairs-gps
+  value: ??°??’??" n ???°??’??" w
+---
+
 # Silver Falls State Park
-
-## Silver falls state park
-
----
-
-WATERFALL : Silver Falls State park
-DROP: 31 feet to 178 feet
-WATERFALL TYPE: All types of falls
-​distance car to falls: 
-Maps: ???
-Gps: ??°??’??” n ???°??’??” w
-
----
 
 ## History provided by oregon state parks
 

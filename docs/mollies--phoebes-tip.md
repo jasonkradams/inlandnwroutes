@@ -1,21 +1,43 @@
+---
+tags:
+- Trails & Scrambles
+- Moderate to the Mollies
+- Day Hiking
+- Backpacking
+- Scrambling
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, scrambling
+- label: Distance
+  icon: map-marker-distance
+  value: 3 miles RT to The Mollies Lake. 5 miles RT to The Mollies summit
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 1651 verts to The Mollies. To Pheobe’s Tip is NA
+- label: Difficulty
+  icon: speedometer
+  value: moderate to The Mollies
+- label: Maps
+  icon: map
+  value: Kaniksu N.F., Caribou Creek & Grass Mountain topos
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°50’43" n 116°50’19" w
+- label: Ranger District
+  icon: pine-tree
+  value: Priest River R.D. 208.443.2512
+- label: Boundary County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.267.3151
+notes:
+- Idaho panhandle national forest/alerts
+- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Mollies  Phoebes Tip
 
-## The mollies 6512’ and phoebes tip 6658’
-
----
-
-EVENT TYPE: Day hiking, backpacking, scrambling
-DISTANCE: 3 miles RT to The Mollies Lake. 5 miles RT to The Mollies summit
-ELEVATION GAIN: 1651 verts to The Mollies. To Pheobe’s Tip is NA
-DIFFICULTY: moderate to The Mollies
-MAPS:Kaniksu N.F., Caribou Creek & Grass Mountain topos
-Gps: 48°50’43” n 116°50’19” w
-RANGER DISTRICT:  Priest River R.D.  208.443.2512
-​BOUNDARY COUNTY SHERIFF: CALL 911 FIRST or 208.267.3151
-Idaho panhandle national forest/alerts
-<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
+*The mollies 6512’ and phoebes tip 6658’*
 
 ## Description
 

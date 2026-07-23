@@ -1,15 +1,30 @@
-# Powder Mountain Resort
-
-## Powder mountain ski resort
-
+---
+tags:
+- Peaks & Mountains
+stats:
+- label: Phone
+  icon: phone
+  value: 801.745.3772
+- label: Acres
+  icon: vector-square
+  value: '8464'
+- label: Average Snow Fall
+  icon: weather-snowy-heavy
+  value: 500"
+- label: Summit Elevation
+  icon: terrain
+  value: 8900'
+- label: Base Elevation
+  icon: terrain
+  value: 5554'
+- label: Verts
+  icon: arrow-expand-vertical
+  value: 3346'
 ---
 
-Phone: 801.745.3772
-Acres: 8464
-​average snow fall: 500"
-summit elevation:  8900'
-Base elevation: 5554'
-Verts: 3346'
+# Powder Mountain Resort
+
+*Powder mountain ski resort*
 
 ## of named runs: 154
 

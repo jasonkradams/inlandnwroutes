@@ -1,20 +1,40 @@
+---
+tags:
+- Lakes
+- Moderate
+- Day Hiking
+- Backpacking
+- Equestrian
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, and equestrian
+- label: Distance
+  icon: map-marker-distance
+  value: 6.4 miles RT to Five Lakes Butte.
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 1563’ to the Butte
+- label: Difficulty
+  icon: speedometer
+  value: moderate
+- label: Maps
+  icon: map
+  value: Clearwater N.F., North Fork District, Bacon Peak & Chamberlain Mountain topos
+- label: GPS
+  icon: crosshairs-gps
+  value: 46°56’06" n 115°14’44" w
+- label: Ranger District
+  icon: pine-tree
+  value: North Fork R.D. 208.476.4541
+- label: Butte County Sheriff
+  icon: shield-account
+  value: 911 or 208.527.8553
+notes:
+- '[Clearwater national forest/ alerts](https://www.fs.usda.gov/alerts/lolo/alerts-notices)<https://www.fs.usda.gov/alerts/nezperceclearwater/alerts-notices>'
+---
+
 # Five Lakes Butte
-
-## Five lakes butte
-
----
-
-EVENT TYPE: Day hiking, backpacking, and equestrian
-DISTANCE: 6.4 miles RT to Five Lakes Butte.
-ELEVATION GAIN: 1563’ to the Butte
-DIFFICULTY: moderate
-MAPS: Clearwater N.F., North Fork District, Bacon Peak & Chamberlain Mountain topos
-Gps: 46°56’06” n 115°14’44” w
-RANGER DISTRICT:   North Fork R.D.   208.476.4541
-​BUTTE COUNTY SHERIFF: 911 or 208.527.8553
-[Clearwater national forest/ alerts](https://www.fs.usda.gov/alerts/lolo/alerts-notices)<https://www.fs.usda.gov/alerts/nezperceclearwater/alerts-notices>
-
----
 
 ## Description
 
@@ -29,7 +49,7 @@ From Silver Lake the trail to Five Lakes Butte is off to the west.
 But it is Gold Lake that sits below the craggy south face of Five Lakes Butte, that should not be missed.
 The reflection of the cliffs off a calm Gold Lake, could only be better, if you had a chaise lounges to lay on.
 There is a campsite on the NE end of the lake.
-Once back on Trail #233, it hikes the ridge line above Gold Lake on its way to The Butte. This “trail” is the kind of trail, off trail hikers will appreciate.
+Once back on Trail #233, it hikes the ridge line above Gold Lake on its way to The Butte. This "trail" is the kind of trail, off trail hikers will appreciate.
 
 Instead of following the trail which leads away from the Butte, stay along the edge of the ridge for views.
 Above the west end of Gold Lake, the ridge splits. Stay right up towards the summit. You will know you have arrived, because your view will be 360°.

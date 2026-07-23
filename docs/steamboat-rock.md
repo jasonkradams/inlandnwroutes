@@ -1,19 +1,37 @@
+---
+tags:
+- Paddling & Rivers
+- Day Hiking
+stats:
+- label: Event Type
+  icon: kayaking
+  value: Day hiking
+- label: Distance
+  icon: map-marker-distance
+  value: 4 miles RT, unless you wander a lot
+- label: Elevation
+  icon: terrain
+  value: 700’
+- label: Difficulty
+  icon: speedometer
+  value: The ascent to the Rock is difficult. Once on top it’s easy.
+- label: Maps
+  icon: map
+  value: Barker Canyon, Electric City, Steamboat Rock SE & SW
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°51’83" n 119°07’39" w
+- label: Managing Agency
+  icon: domain
+  value: w.s.p. & r. 509.663.1304
+- label: Grant County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 509.754.2011
+---
+
 # Steamboat Rock
 
-## Steamboat rock state park
-
----
-
-EVENT TYPE: Day hiking
-DISTANCE: 4 miles RT, unless you wander a lot
-Elevation: 700’
-DIFFICULTY: The ascent to the Rock is difficult. Once on top it’s easy.
-MAPS: Barker Canyon, Electric City, Steamboat Rock SE & SW
-Gps: 47°51’83” n 119°07’39” w
-Managing aghency: w.s.p. &  r.   509.663.1304
-GRANT COUNTY SHERIFF: CALL 911 FIRST or 509.754.2011
-
----
+*Steamboat rock state park*
 
 ## Description
 

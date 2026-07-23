@@ -82,7 +82,7 @@ We as trail workers, would like to ask you to help us in our efforts to keep the
 
 ![Image](/assets/images/dsc-0162-copy.jpg){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/dsc-0162-copy_orig.jpg" data-title="A LINE UP OF THE TOOLS USED TO CREATE THE FISHTRAP LAKE TRAIL" }
 
-Below are three of the  “most valuable players" In trail building, maintenance, and awareness in our region. From all of us here at inlandnwroutes, ​thank you all, very much
+Below are three of the  "most valuable players" In trail building, maintenance, and awareness in our region. From all of us here at inlandnwroutes, ​thank you all, very much
 
 ![Picture](/assets/images/232022905p.jpg)
 

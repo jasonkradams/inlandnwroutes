@@ -1,23 +1,49 @@
+---
+tags:
+- Lakes
+- Easy
+- Camping
+- Day Hiking
+- Equestrian
+- Golf
+- Mt Biking
+- Paddling
+stats:
+- label: Event Type
+  icon: hiking
+  value: Camping, day hiking, equestrian, golf, mt biking, paddling, fishing, and
+    relaxation.
+- label: Distance
+  icon: map-marker-distance
+  value: varies depending on your route.
+- label: Elevation
+  icon: terrain
+  value: varies depending on where you go. Except for hiking the rim, elevation change
+    is minimal
+- label: Difficulty
+  icon: speedometer
+  value: easy
+- label: Maps
+  icon: map
+  value: Sun Lakes-Dry Falls State Park brochure and website
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°35’21" n 119°23’ 28" w
+- label: Managing Agency
+  icon: domain
+  value: w.s.p. & r. 509.632.5583
+- label: Grant County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 509.754.2011
+---
+
 # Sun Lakes S P Dry Falls Area
 
-## Sun lakes-dry falls state park
-
----
-
-EVENT TYPE: Camping, day hiking, equestrian, golf, mt biking, paddling, fishing, and relaxation.
-DISTANCE: varies depending on your route.
-Elevation: varies depending on where you go. Except for hiking the rim, elevation change is minimal
-DIFFICULTY: easy
-MAPS: Sun Lakes-Dry Falls State Park brochure and website
-Gps: 47°35’21” n 119°23’ 28” w
-​managing agency:  w.s.p. & r.  509.632.5583
-GRANT COUNTY SHERIFF: CALL 911 FIRST or 509.754.2011
-
----
+*Sun lakes-dry falls state park*
 
 ## Description
 
-I be sure to read “hazards” below.
+I be sure to read "hazards" below.
 Sun Lakes is a very diverse park, with golf, hiking, Mt biking, swimming, bird watching, play grounds, fishing, and boating.
 As you drive down into the main body of the park, you will be in awe of the desert-steepe terrain. And in the middle of all this, are a number of lakes, Sun Lake being the largest attraction.
 However, having said that, Dry Falls is so spectacular, it may over shadow the rest of the park.
@@ -88,10 +114,6 @@ Click for Current NOAA Weather Conditions
 ---
 
 ![Picture](/assets/images/662022311p.jpg)
-
-|  |  |
-| --- | --- |
-| Dry falls at sun lakes state park |  |
 
 ![Picture](/assets/images/662022313p.jpg)
 

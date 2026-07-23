@@ -56,7 +56,7 @@ There is no other feeling like it.
 
 1. When in nature, you may notice the stringy lichen hanging from tree limbs. Beard lichen is an excellent fire starter, and can be used as a sponge for collecting water.
 
-1. Another use for something we all have around the house is dryer lint. Wrap it in paper like a tube, in a ziplock baggie, or stuff into an extra light container. Keep them in your 14 essentials for emergency use. See “HINTS”
+1. Another use for something we all have around the house is dryer lint. Wrap it in paper like a tube, in a ziplock baggie, or stuff into an extra light container. Keep them in your 14 essentials for emergency use. See "HINTS"
 
 1. **Rain gear, umbrella, poncho.**
 
@@ -86,11 +86,11 @@ There is no other feeling like it.
 
 1. **Extra water or water purifier**
 
-1. Because water is not always available along some trails, carrying enough water is paramount. I often drop water bottles along an out and back route, so I don’t have to carry so much water the full distance. Mark location carefully. See “HINTS”
+1. Because water is not always available along some trails, carrying enough water is paramount. I often drop water bottles along an out and back route, so I don’t have to carry so much water the full distance. Mark location carefully. See "HINTS"
 
 1. **Extra clothing**
 
-1. Socks come to mind as an important item to have in case your feet get wet. A micro-fiber cloth works well and dries quickly. Other items may include polar fleece jacket and/or pants, spare wool or fleece gloves, stocking caps, and face masks. See “HINTS”
+1. Socks come to mind as an important item to have in case your feet get wet. A micro-fiber cloth works well and dries quickly. Other items may include polar fleece jacket and/or pants, spare wool or fleece gloves, stocking caps, and face masks. See "HINTS"
 
 1. In the winter, I carry a Road Flare. They burn at 1500+°, and can start wet wood.
 
@@ -107,11 +107,11 @@ There is no other feeling like it.
 1. **Headlight & extra batteries**
 
 1. I date my batteries when I install them in my headlight. Modern LED/LCD/COB headlights don’t need spare bulbs, so a second headlight is advised. Check the batteries before every trip to make sure you will have light when needed.
-    A COB type of headlight floods the view with way more lumens , hence I've noticed that depth of field and obstacles awareness is improved substantially. See “HINTS”
+    A COB type of headlight floods the view with way more lumens , hence I've noticed that depth of field and obstacles awareness is improved substantially. See "HINTS"
 
 1. **Knife**
 
-1. I carry several sizes of knives. One for small work like cutting up apples, but a large one if I’m on a potential difficult hike. A large Bowie type knife can be used to make kindling. See “HINTS”
+1. I carry several sizes of knives. One for small work like cutting up apples, but a large one if I’m on a potential difficult hike. A large Bowie type knife can be used to make kindling. See "HINTS"
 
 1. **First aid kit**
 
@@ -121,7 +121,7 @@ There is no other feeling like it.
 
 1. Carry what you may need, and add as necessary. Feminine pads are great items to have in your first aid kit.
 
-1. Once on a week long ski trip in Kokanee Glacier National Park, one of the women started her period early. She was two weeks early, so she was in a bad way. We made a game of creating pads from the very sparse inventory of materials. It worked. And think of this...you could be a savior in case of a normal emergency. See “HINTS”
+1. Once on a week long ski trip in Kokanee Glacier National Park, one of the women started her period early. She was two weeks early, so she was in a bad way. We made a game of creating pads from the very sparse inventory of materials. It worked. And think of this...you could be a savior in case of a normal emergency. See "HINTS"
 
 1. ​
 
@@ -131,14 +131,14 @@ There is no other feeling like it.
 
 1. **Sun tan lotion & sun protection**
 
-1. Make sure your sun tan lotion is always fresh, and close at hand. I prefer a large sun hat like Sunday Afternoon, Solaris, or Sun Blocker. 100% UVA/UVB/IRA sun glasses are wise. If you spend time on snow, side and nose shades on sun glasses will protect your eyes and nose from reflected rays. Snow blindness is a very serious affliction while out. See”HINTS”. ​​
+1. Make sure your sun tan lotion is always fresh, and close at hand. I prefer a large sun hat like Sunday Afternoon, Solaris, or Sun Blocker. 100% UVA/UVB/IRA sun glasses are wise. If you spend time on snow, side and nose shades on sun glasses will protect your eyes and nose from reflected rays. Snow blindness is a very serious affliction while out. See"HINTS". ​​
 
 ### ​
 
                                                                                                  Benefits Franklin once said…
 ​
 
-### “if you fail to plan, you are planning to fail”
+### "if you fail to plan, you are planning to fail"
 
 ### Ways to tell directions
 
@@ -192,7 +192,7 @@ The more info and maps ***each person*** has, increases the odds on surviving a 
 
 Clothing is a critical issue for anyone going into nature. If you don’t dress appropriately, you will pay a price. The following information is meant to show you the best, least expensive way of dressing yourself for success on the trail.
 
-First and MOST IMPORTANT...”COTTON KILLS” in the mountains. I love my soft cotton shirts and other clothing while around the house or town, but I never wear cotton in the mountains. Cotton tends to soak up sweat as you work thru tough hikes. Then you are wet. If the weather changes or you go deep into the woods, your bodies core temps can drop to dangerous levels.
+First and MOST IMPORTANT..."COTTON KILLS" in the mountains. I love my soft cotton shirts and other clothing while around the house or town, but I never wear cotton in the mountains. Cotton tends to soak up sweat as you work thru tough hikes. Then you are wet. If the weather changes or you go deep into the woods, your bodies core temps can drop to dangerous levels.
 Below are some suggestions that have worked for me over the last many decades. They may or may not work for you. And that’s okay.
 
 ### Base layers
@@ -230,7 +230,7 @@ On lower angle slopes, you don't need to restrict your exhale as much as on stee
 
 ***Camera***
 A camera with fully charged batteries and lots of memory, can be a useful tool. I have used my camera to shoot back at trail intersections or Y’s to make sure I don’t miss key turn offs, upon returning.
-​I also carry a dozen 18” lengths of bright pink surveyors tape. I loop the tape over a branch, then pull the ends thru th loop. This allows me to easily retrieve the tape as I walk past it. Do not tie the tape. Future hikers may think its the way to go. and it may not apply to them.
+​I also carry a dozen 18" lengths of bright pink surveyors tape. I loop the tape over a branch, then pull the ends thru th loop. This allows me to easily retrieve the tape as I walk past it. Do not tie the tape. Future hikers may think its the way to go. and it may not apply to them.
 
 Also, if you are going off trail, take an image of the direction and area you are headed. Once you get way over there, it just doesn’t look like it did from way back there. An image may be useful in choosing the route you need to go.
 I use screen shots of goggle maps. I draw the proposed route, and use them to understand my surroundings in the field.
@@ -268,7 +268,7 @@ I know a lot of you are younger hikers, and use electronics in the woods. 
 ### First aid
 
 First Aid Kit are a must for EVERY participant. If you get separated from your group and gouge you leg, you will need your own FIRST AID KIT. They should include a variety of band-aids, compression bandages, antiseptic creams, butterfly bandages, alcohol wipes, gauze wraps, Conan wraps, hand sanitizer, and feminine hygiene pads (even if you are a guy), to name a few, are a must.
-“SPENCO 2nd SKINS BURN PADS” by Spenco are a must. If a heel feels hot, STOP Immediately, clean the area with an alcohol wipe and apply a Second Skin Burn Pad. I prefer the type you have to cut to size, as apposed to the patches. After cleaning the area, cut to size and apply as directed. I carry athletic tape to secure the 2nd Skins. You will be amazed at how well this product works, and your ability to get up and walk away without pain. I also carry several different types of Coban’s self adhesive wraps for a verity of needs. I found a long version at the Dollar Tree store fir $1.25.
+"SPENCO 2nd SKINS BURN PADS" by Spenco are a must. If a heel feels hot, STOP Immediately, clean the area with an alcohol wipe and apply a Second Skin Burn Pad. I prefer the type you have to cut to size, as apposed to the patches. After cleaning the area, cut to size and apply as directed. I carry athletic tape to secure the 2nd Skins. You will be amazed at how well this product works, and your ability to get up and walk away without pain. I also carry several different types of Coban’s self adhesive wraps for a verity of needs. I found a long version at the Dollar Tree store fir $1.25.
 Whatever you decide to carry, practice placement and proper cleanliness, so you know how to properly treat an injury.
 Im not a fan of Ace bandages. If they are applied too tight, you could restrict blood flow.
 PLEASE don’t stab yourself at home to make it real!
@@ -435,9 +435,9 @@ Fire Starter Pastes are another option.
 
 ***Pack it in- pack it out***.
 The USFS does not have the staff or time to clean up the many trails and campsites within their districts. Please clean up after yourself and others if needed. And please remember, aluminum foil and glass DO NOT BURN. Please pack them out.
--An old saying goes...”if you can carry it in full, you can certainly carry it out empty.”
+-An old saying goes..."if you can carry it in full, you can certainly carry it out empty."
 ​
-***Leave no trace***.     or…***”If it ain’t growing there, it doesn’t belong there.”*** Quote from Louisiana Law, Cpl.Michael Cook
+***Leave no trace***.     or…***"If it ain’t growing there, it doesn’t belong there."*** Quote from Louisiana Law, Cpl.Michael Cook
 As states and the USFS don’t have the staff to clean up after you. Please clean up your, and others messes.
 Leave No Trace principles can be learned from any Forest Ranger Station.
 
@@ -742,7 +742,7 @@ Carry hand sanitizer then rinse with water.
 Be sure to check out our wildflower section, under ACTIVITYIES.
 Buy a Audubon Society wildflower book and carry it on hikes to identify flowers and eventually wow fellow hikers on your wildflower knowledge. Tree books are another wow factor. 
 It also acts as reading material of fire starter if needed.
-Recently, Amy, a hiking partner showed me her “SEEK” app by iNaturalist.
+Recently, Amy, a hiking partner showed me her "SEEK" app by iNaturalist.
 It’s a free app that identifies most living things. Very cool app.
 
 ### Water conservation

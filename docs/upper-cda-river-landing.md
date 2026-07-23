@@ -1,22 +1,33 @@
+---
+tags:
+- Paddling & Rivers
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: varies
+- label: Elevation
+  icon: terrain
+  value: 2182’
+- label: Length and Acreage
+  icon: vector-square
+  value: varies
+- label: Maps
+  icon: map
+  value: varies
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: varies
+- label: Shoshone County Sheriff
+  icon: shield-account
+  value: 208.556.1114
+---
+
 # Upper Cda River Landing
-
-## Upper cda river landing
-
----
-
-PADDLE DISTANCE: varies
-Elevation: 2182’
-LENGTH AND ACREAGE: varies
-MAPS: varies
-LAUNCH GPS: varies
-​shoshone county sheriff: 208.556.1114
-
----
 
 ## Description
 
 Cda river. see map below for below locations.
-THESE LOCATIONS ARE IN SEQUENCE ACCORDING TO THE I.P.N.F BROCHURE CALLED, “FLOATING THE UPPER COEUR d’ALENE RIVER.”
+THESE LOCATIONS ARE IN SEQUENCE ACCORDING TO THE I.P.N.F BROCHURE CALLED, "FLOATING THE UPPER COEUR d’ALENE RIVER."
 The hour(s) after the landing are how long it takes to get to the next
 Access point, while paddling.
 At the end of each landing are words on parking & auto approximate drive miles between landings.

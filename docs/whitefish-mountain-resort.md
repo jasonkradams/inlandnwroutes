@@ -1,16 +1,32 @@
-# Whitefish Mountain Resort
-
-## Whitefish mountain resort    whitefish, mt
-
+---
+tags:
+- Peaks & Mountains
+stats:
+- label: Phone
+  icon: phone
+  value: 406.862.2900 or 877.754.3474
+- label: Acres
+  icon: vector-square
+  value: '3000'
+- label: Average Snow Fall
+  icon: weather-snowy-heavy
+  value: '320'
+- label: Summit Elevation
+  icon: terrain
+  value: 6817'
+- label: Base Elevation
+  icon: terrain
+  value: 4464'
+- label: Verts
+  icon: arrow-expand-vertical
+  value: 2353'
+notes:
+- Skiwhitefish.com
 ---
 
-Skiwhitefish.com
-Phone: 406.862.2900 or 877.754.3474
-Acres: 3000
-​average snow fall: 320
-Summit elevation:  6817'
-Base elevation: 4464'
-Verts: 2353'
+# Whitefish Mountain Resort
+
+*Whitefish mountain resort    whitefish, mt*
 
 ## of named runs: 111
 

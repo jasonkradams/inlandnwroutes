@@ -1,17 +1,28 @@
+---
+tags:
+- Lakes
+stats:
+- label: Waterfall
+  icon: waterfall
+  value: little harrison lake falls
+- label: Drop
+  icon: arrow-collapse-down
+  value: 40'
+- label: Waterfall Type
+  icon: hiking
+  value: Cascading tiered falls
+- label: Distance Car to Falls
+  icon: map-marker-distance
+  value: 4.6 miles one way
+- label: Maps
+  icon: map
+  value: IPNF-Kaniksu N.F., The Wigwams
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°39’41"n 116°39’18"w
+---
+
 # Little Harrison Lake Falls
-
-## Little harrison lake falls
-
----
-
-Waterfall :  little harrison lake falls
-Drop:   40'
-WATERFALL TYPE: Cascading tiered falls
-​DISTANCE CAR TO FALLS: 4.6 miles one way
-Maps: IPNF-Kaniksu N.F., The Wigwams
-Gps:  48°39’41”n 116°39’18”w
-
----
 
 ## Description
 

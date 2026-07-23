@@ -1,16 +1,30 @@
-# Whistler Blackcomb
-
-## Whistler blackcomb
-
+---
+tags:
+- Trails & Scrambles
+stats:
+- label: Phone
+  icon: phone
+  value: 604.932.4020
+- label: Acres
+  icon: vector-square
+  value: '4657'
+- label: Average Snow Fall
+  icon: weather-snowy-heavy
+  value: 426"
+- label: Summit Elevation
+  icon: terrain
+  value: 7160'
+- label: Base Elevation
+  icon: terrain
+  value: 214-'
+- label: Verts
+  icon: arrow-expand-vertical
+  value: 5020'
+notes:
+- Whistlerblackcomb.com
 ---
 
-Whistlerblackcomb.com
-Phone: 604.932.4020
-Acres: 4657
-​average snow fall: 426"
-Summit elevation:  7160'
-Base elevation: 214-'
-Verts: 5020'
+# Whistler Blackcomb
 
 ## of named runs: 100+
 

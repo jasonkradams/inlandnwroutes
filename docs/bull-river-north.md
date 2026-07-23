@@ -1,17 +1,16 @@
+---
+tags:
+- Paddling & Rivers
+stats:
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+- label: Lincoln County Sheriff
+  icon: shield-account
+  value: 406.293.4112
+---
+
 # Bull River North
-
-## Bull river north
-
----
-
-Paddle distance: 
-Elevation: 
-Length and acreage: 
-Maps:
-Launch gps: ??° ??’ ??.?”n ???° ??’ ??.?”w
-​lincoln county sheriff: 406.293.4112
-
----
 
 ## Description
 

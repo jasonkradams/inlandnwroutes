@@ -1,16 +1,26 @@
+---
+tags:
+- Lakes
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: 3.7 miles
+- label: Elevation
+  icon: terrain
+  value: 2157’
+- label: Length and Acreage
+  icon: vector-square
+  value: 1.8 miles and 1.87 up the SW creek, and 117 acres
+- label: Maps
+  icon: map
+  value: Amber Lake Topo
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: '[47°20’56" n 117°42’52" w](https://goo.gl/maps/Mmzdi3YwCv7dyzcM6)Spokane
+    county sheriff: 509.477.224o'
+---
+
 # Amber Lake Launch
-
-## Amber lake launch​
-
----
-
-PADDLE DISTANCE: 3.7 miles
-Elevation: 2157’
-Length and acreage: 1.8 miles and 1.87 up the SW creek, and 117 acres
-MAPS: Amber Lake Topo
-Launch gps: [47°20’56” n 117°42’52” w](https://goo.gl/maps/Mmzdi3YwCv7dyzcM6)Spokane county sheriff: 509.477.224o
-
----
 
 ## Description
 

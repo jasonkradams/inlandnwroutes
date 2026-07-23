@@ -1,20 +1,29 @@
+---
+tags:
+- Paddling & Rivers
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: varies
+- label: Elevation
+  icon: terrain
+  value: 2439’
+- label: Length and Acreage
+  icon: vector-square
+  value: 19 miles long & 26,000 acres
+- label: Maps
+  icon: map
+  value: IPNF, Priest Lake NE TopO
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 48°44’32" n 116°50’00" w
+---
+
 # Indian Creek Camp Ground Launch
-
-## Indian creek camp ground launch​
-
----
-
-PADDLE DISTANCE:varies
-Elevation: 2439’
-LENGTH AND ACREAGE: 19 miles long & 26,000 acres
-MAPS: IPNF, Priest Lake NE TopO
-Launch gps: 48°44’32” n 116°50’00” w
-
----
 
 ## Description
 
-Priest Lake has been described as the “GEM” of Idaho. After your first visit, you will agree. The lower lake is inhabited by thousands of people in the summer, and a virtual desert in the winter. The lower lake is 369’ deep. There are four islands on the lake, with one that is public, with 11 designated camp sites, and a few pit toilets scattered among them. PLEASE USE THE PIT TOILETS WHEN YOU NEED TO DO YOUR BUSINESS. WE ALL WILL APPRECIATE IT.
+Priest Lake has been described as the "GEM" of Idaho. After your first visit, you will agree. The lower lake is inhabited by thousands of people in the summer, and a virtual desert in the winter. The lower lake is 369’ deep. There are four islands on the lake, with one that is public, with 11 designated camp sites, and a few pit toilets scattered among them. PLEASE USE THE PIT TOILETS WHEN YOU NEED TO DO YOUR BUSINESS. WE ALL WILL APPRECIATE IT.
 Kalispell Island Trail #49 is 2.5 miles long, and circumnavigated the island. On the SW side of the island is a host cabin.
 
 ## Attractions

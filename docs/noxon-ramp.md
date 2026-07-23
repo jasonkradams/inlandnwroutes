@@ -1,17 +1,16 @@
+---
+tags:
+- Trails & Scrambles
+stats:
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+- label: Sanders County Sheriff
+  icon: shield-account
+  value: 406.827.3584
+---
+
 # Noxon Ramp
-
-## Noxon ramp
-
----
-
-Paddle distance: 
-Elevation: 
-Length and acreage: 
-Maps:
-Launch gps: ??° ??’ ??.?”n ???° ??’ ??.?”w
-Sanders county sheriff: 406.827.3584
-
----
 
 ## Description
 

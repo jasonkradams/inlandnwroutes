@@ -1,19 +1,39 @@
+---
+tags:
+- Trails & Scrambles
+- Easy
+- Walking
+- Birding
+- Cross-country Skiing
+- Snow-shoeing
+stats:
+- label: Event Type
+  icon: hiking
+  value: Walking, Birding, Cross-country skiing and Snow-shoeing
+- label: Distance
+  icon: map-marker-distance
+  value: 1.5 miles
+- label: Elevation
+  icon: terrain
+  value: Minimal gain at 2032’ elevation.
+- label: Difficulty
+  icon: speedometer
+  value: Easy
+- label: Maps
+  icon: map
+  value: '[Saltese Flats Open Trails](https://www.spokanecounty.org/DocumentCenter/View/33110/May2020_OpenTrail)'
+- label: GPS
+  icon: crosshairs-gps
+  value: 47° 38’ 26.2"n 117° 07’ 34.3"w
+- label: Spokane County Parks
+  icon: information-outline
+  value: 509.456.4730
+- label: Spokane County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 509.477.2240
+---
+
 # Saltese Flats Wetland Trail
-
-## Saltese flats wetland trail​
-
----
-
-EVENT TYPE: Walking, Birding, Cross-country skiing and Snow-shoeing
-DISTANCE: 1.5 miles
-ELEVATION: Minimal gain at 2032’ elevation.
-DIFFICULTY: Easy
-Maps: [Saltese Flats Open Trails](https://www.spokanecounty.org/DocumentCenter/View/33110/May2020_OpenTrail)
-Gps: 47° 38’ 26.2”n 117° 07’ 34.3”w
-Spokane county parks: 509.456.4730
-​SPOKANE COUNTY SHERIFF: CALL 911 FIRST or 509.477.2240
-
----
 
 ## Description
 

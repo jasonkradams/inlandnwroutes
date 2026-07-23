@@ -27,7 +27,7 @@ Shoshone County is commonly referred to as the Silver Valley, due to its century
 
 In 1885, a gold prospector named Noah Kellogg borrowed a burro, named Bill, and started down the great north fork of the Coeur d’Alene River. After weeks of searching with no luck, he ended up about 1,000 yards above the present city of Wardner where he made camp one last time before heading back to Murray to report. In what turned out to be a fortunate stroke of luck, Bill broke free of his rope and wandered off in search of food.
 
-When Noah caught up with the jackass the next morning, he found Bill standing on a large outcropping of galena (lead ore), leading to the formation of the Bunker Hill and Sullivan mines on September 4, 1885. The Bunker Hill lode turned out to be Idaho’s largest mining operation, and today it is home to some of the finest skiing and riding found in the Northwest. Bill lived to the rip old age of 21 and was forever known as “the $12,000,000 burro.”
+When Noah caught up with the jackass the next morning, he found Bill standing on a large outcropping of galena (lead ore), leading to the formation of the Bunker Hill and Sullivan mines on September 4, 1885. The Bunker Hill lode turned out to be Idaho’s largest mining operation, and today it is home to some of the finest skiing and riding found in the Northwest. Bill lived to the rip old age of 21 and was forever known as "the $12,000,000 burro."
 
 ---
 
@@ -35,7 +35,7 @@ When Noah caught up with the jackass the next morning, he found Bill standing on
 
 ![Picture](/assets/images/20201115112245.jpg)
 
-The Jackass Ski Bowl, named in honor of Bill the burro, opened on December 16, 1967 after a group of 12 sole proprietors formed the “Fabulous Valley Development Corporation,” and sold shares of stock to fund the construction of their new ski area. Valley residents traded work and cash for stock. Opening day at the resort saw many recognizable names including, Rep. James McClure, Governor Don Samuelson, Sen. Len Jordan, and Idaho Department of Commerce head, Louise Shadduck.
+The Jackass Ski Bowl, named in honor of Bill the burro, opened on December 16, 1967 after a group of 12 sole proprietors formed the "Fabulous Valley Development Corporation," and sold shares of stock to fund the construction of their new ski area. Valley residents traded work and cash for stock. Opening day at the resort saw many recognizable names including, Rep. James McClure, Governor Don Samuelson, Sen. Len Jordan, and Idaho Department of Commerce head, Louise Shadduck.
 
 The first general manager, Gosta (Jonny) Johnson was a transplant from Big Boulder, PA and founder of the Gosta Johnson Ski School. He oversaw the completion of the original ski area, which consisted of one Riblet chairlift and the Tamarack Lodge, designed by local Coeur d’Alene architect, Robert Nelson. This construction took place on lands owned by the Bunker Hill Mining Company, and in 1973, the Jackass Ski Bowl fell into bankruptcy and was taken over by the Bunker Hill Mining Company.
 
@@ -83,7 +83,7 @@ Following the financial crisis, Silver Mountain continued operating year-round. 
 
 ![Picture](/assets/images/20201115112326.jpg)
 
-In October of 2016 Silver Mountain was purchased by Tryg Fortun, a passionate skier and customer of Silver Mountain. Tryg decided that he wanted to use his “stoke” for Silver Mountain to help the resort reach its true potential. With a fresh leader and a new outlook on life, Silver Mountain has undertaken massive amounts of infrastructure improvements, and behind the scenes work that is setting the stage for the next chapter of improvement.
+In October of 2016 Silver Mountain was purchased by Tryg Fortun, a passionate skier and customer of Silver Mountain. Tryg decided that he wanted to use his "stoke" for Silver Mountain to help the resort reach its true potential. With a fresh leader and a new outlook on life, Silver Mountain has undertaken massive amounts of infrastructure improvements, and behind the scenes work that is setting the stage for the next chapter of improvement.
 
 Since 2016 Silver Mountain, has reopened the Jackass Snack Shack, added Mo’s Froyo & Jo and The Donut Hole to the village and is getting ready to embark on a Mountain House remodel. The resort has come a long way since it first opened but still maintains a piece of its history with a Jackass Day celebration every year commemorating the original Jackass Resort and offering $12 lift tickets.
 

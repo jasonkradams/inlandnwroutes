@@ -1,22 +1,44 @@
+---
+tags:
+- Lakes
+- Moderately Difficult
+- Hike
+- Backpack
+- Mt Biking
+stats:
+- label: Event Type
+  icon: hiking
+  value: Hike, backpack, mt biking
+- label: Distance
+  icon: map-marker-distance
+  value: 6 miles RT to the peak and 9.6 miles RT to the lake
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 1682' gain to the peak 1172' loss to the lake
+- label: Acres
+  icon: vector-square
+  value: '19.8'
+- label: Difficulty
+  icon: speedometer
+  value: Moderately difficult
+- label: Maps
+  icon: map
+  value: IPNF-Kaniksu N. F., USGS-Roman Nose, The Wigwams, Smith Peak
+- label: GPS
+  icon: crosshairs-gps
+  value: n48° 44’ 12.4" w116° 36’ 19.0"
+- label: Ranger District
+  icon: pine-tree
+  value: Bonners Ferry R.D. 208.267.5561
+- label: Boundary County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.267.3151
+notes:
+- Idaho panhandle national forest/alerts
+- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Myrtle Lake 5950  Myrtle Peak 7122 Trail 286
-
-## MYRTLE LAKE 5950' & MYRTLE PEAK 7122' Trail #286
-
----
-
-EVENT TYPE: Hike, backpack, mt biking
-DISTANCE: 6 miles RT to the peak and 9.6 miles RT to the lake
-ELEVATION GAIN: 1682' gain to the peak 1172' loss to the lake
-Acres: 19.8
-DIFFICULTY: Moderately difficult
-MAPS: IPNF-Kaniksu N. F., USGS-Roman Nose, The Wigwams, Smith Peak
-Gps: n48° 44’ 12.4” w116° 36’ 19.0”
-RANGER DISTRICT:  Bonners Ferry R.D.   208.267.5561
-​BOUNDARY COUNTY SHERIFF: CALL 911 FIRST or 208.267.3151
-Idaho panhandle national forest/alerts
-<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
 
 ## Description
 

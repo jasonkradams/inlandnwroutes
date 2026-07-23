@@ -1,20 +1,41 @@
+---
+tags:
+- Trails & Scrambles
+- Day Hiking
+- Backpacking
+- Equestrian
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, and equestrian
+- label: Distance
+  icon: map-marker-distance
+  value: up to 7 miles RT, 14 mile loop
+- label: Elevation
+  icon: terrain
+  value: About 300 verts verts, about 700 verts to do the loop.
+- label: Difficulty
+  icon: speedometer
+  value: along the creek it’s easy. Beyond the creek it’s moderate
+- label: Maps
+  icon: map
+  value: ipnf,
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°40’37" n 116°35’08" w
+- label: Ranger District
+  icon: pine-tree
+  value: CDA River R.D. 208.769.3000
+- label: Kootenai County Sheriff
+  icon: shield-account
+  value: 911 or 208.446.1300
+notes:
+- Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Marie Creek
 
-## Marie creek trail #241
-
----
-
-EVENT TYPE: Day hiking, backpacking, and equestrian
-DISTANCE: up to 7 miles RT, 14 mile loop 
-ELEVATION: About 300 verts verts, about 700 verts to do the loop.
-DIFFICULTY: along the creek it’s easy. Beyond the creek it’s moderate
-Maps: ipnf,
-Gps: 47°40’37” n 116°35’08” w
-​RANGER DISTRICT:  CDA River R.D.   208.769.3000
-​KOOTENAI COUNTY SHERIFF: 911 or 208.446.1300
-Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
+*Marie creek trail #241*
 
 ## Description
 
@@ -28,7 +49,7 @@ For a nice easy walk on an over grown grassy green road, continue up F.R. #202 f
 ## Directions
 
 From CDA, drive east on I-90 to the Harrison and Hwy 97 exit at the north end of Wolf Lodge Bay. At the stop sign, turn left over the freeway.
-Turn right (East)at the dumpsters onto E. Frontage Road, and drive to S. Wolf Lodge Creek Road. Drive up S. Wolf Lodge Creek Road to a ‘Y” and bear left up past a bunch of houses to a right turn onto E. Marie Creek Road. You will pass a large home with a blue roof, that has a tepee in the yard.
+Turn right (East)at the dumpsters onto E. Frontage Road, and drive to S. Wolf Lodge Creek Road. Drive up S. Wolf Lodge Creek Road to a ‘Y" and bear left up past a bunch of houses to a right turn onto E. Marie Creek Road. You will pass a large home with a blue roof, that has a tepee in the yard.
 Continue for about .5 Mike’s to a road that angles off to the right. The parking area is a short distance further.
 
 ## Cool things close by

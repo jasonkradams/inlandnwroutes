@@ -1,18 +1,45 @@
+---
+tags:
+- Lakes
+- Strenuous to Very Strenuous
+- Hiking
+- Backpacking
+- Scrambling
+- Mt Biking
+stats:
+- label: Event Type
+  icon: hiking
+  value: Hiking, backpacking, scrambling and Mt Biking
+- label: Distance
+  icon: map-marker-distance
+  value: Lake 12 miles RT, Peak about 14 miles RT
+- label: Elevation Gain
+  icon: elevation-rise
+  value: Lake 2785' gain, Peak 3776' gain
+- label: Acres
+  icon: vector-square
+  value: '6'
+- label: Difficulty
+  icon: speedometer
+  value: Strenuous to Very Strenuous
+- label: Maps
+  icon: map
+  value: IPNF-Kaniksu N.F., Mt Roothaan, Dodge Peak
+- label: GPS
+  icon: crosshairs-gps
+  value: 48° 34’ 37.3"n 116° 37’ 17.8"w
+- label: Ranger District
+  icon: pine-tree
+  value: Sandpoint R.D. 208.263.5111
+- label: Bonner County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.263.8417
+notes:
+- Idaho panhandle national forest/alerts
+- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Fault Lake 5980  Hunt Peak 7058 Trail 59
-
-## Fault lake 5980' & hunt peak 7058' trail #59
-
-EVENT  TYPE: Hiking, backpacking, scrambling and Mt Biking
-DISTANCE: Lake 12 miles RT, Peak about 14 miles RT
-ELEVATION GAIN: Lake 2785' gain, Peak 3776' gain
-​acres: 6
-DIFFICULTY: Strenuous to Very Strenuous
-MAPS: IPNF-Kaniksu N.F., Mt Roothaan, Dodge Peak
-Gps: 48° 34’ 37.3”n 116° 37’ 17.8”w
-​RANGER DISTRICT:  Sandpoint R.D.  208.263.5111
-BONNER COUNTY SHERIFF: CALL 911 FIRST or 208.263.8417
-Idaho panhandle national forest/alerts    
-​<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 
 ## Description
 

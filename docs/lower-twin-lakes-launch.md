@@ -1,17 +1,19 @@
+---
+tags:
+- Lakes
+stats:
+- label: Length and Acreage
+  icon: vector-square
+  value: (lower) 390……(upper) 525
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+- label: Kootenai County Sheriff
+  icon: shield-account
+  value: 208.446.1300
+---
+
 # Lower Twin Lakes Launch
-
-## Lower twin lakes launch
-
----
-
-Paddle distance: 
-Elevation: 
-Length and acreage:  (lower) 390……(upper) 525
-Maps:
-Launch gps: ??° ??’ ??.?”n ???° ??’ ??.?”w
-​kootenai county sheriff: 208.446.1300
-
----
 
 ## Description
 

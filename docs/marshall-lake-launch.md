@@ -1,17 +1,28 @@
+---
+tags:
+- Lakes
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: 3.5 miles
+- label: Elevation
+  icon: terrain
+  value: 1990’
+- label: Length and Acreage
+  icon: vector-square
+  value: about 1 .mile to North bay, and .75 to Northeast bay. 190 acres
+- label: Maps
+  icon: map
+  value: Bead Lake Topo
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 48°15’23" n 117°41’38"
+- label: Pend Orielle County Sheriff
+  icon: shield-account
+  value: 911 or 509.447.3151
+---
+
 # Marshall Lake Launch
-
-## Marshall lake launch
-
----
-
-PADDLE DISTANCE: 3.5 miles
-Elevation: 1990’
-LENGTH AND ACREAGE: about 1 .mile to North bay, and .75 to Northeast bay. 190 acres
-MAPS: Bead Lake Topo
-Launch gps: 48°15’23” n 117°41’38”
-​PEND ORIELLE COUNTY SHERIFF: 911 or 509.447.3151
-
----
 
 ## Description
 

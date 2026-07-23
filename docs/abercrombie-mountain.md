@@ -1,41 +1,40 @@
-# Abercrombie Mountain
-
-## Abercrombie mountain 7308’
-
+---
+tags:
+- Peaks & Mountains
+- Day Hiking
+- Backpacking
+- Equestrian
+stats:
+- label: Event Type
+  icon: hiking
+  value: day hiking, backpacking, and equestrian
+- label: Maps
+  icon: map
+  value: Colville N. F., Abercrombie Topo
+- label: Managing Agency
+  icon: domain
+  value: Three Rivers R.D. 509.738.6111
+- label: Stevens County Sheriff
+  icon: shield-account
+  value: 509.684.5296
+notes:
+- 'Trail #117...6.4 miles RT'
+- 'Trail #119...11.8 miles RT'
+- 'Trail #502...8 miles RT'
+- 'Trail #117... about 2310’'
+- 'Trail #119...about 3135’'
+- 'Trail #502...about 2247’'
+- 'Trail #117...moderate'
+- 'Trail #119...difficult'
+- 'Trail #502...moderate'
+- 'F.R. #300, Trail #117°48°55’48" N 117°29’04" W'
+- 'F.R. #070, Trail #119°48°54’20" N 117°31’ 05" W'
+- 'F.R. #350, Trail #502 48°55’23" N 117°25’ 03" W'
 ---
 
-EVENT TYPE: day hiking, backpacking, and equestrian
-Distance:
-Trail #117...6.4 miles RT
+# Abercrombie Mountain
 
-Trail #119...11.8 miles RT
-
-Trail #502...8 miles RT
-
-Elevation gain:
-Trail #117... about 2310’
-
-Trail #119...about 3135’
-
-Trail #502...about 2247’
-
-Difficulty:
-​Trail #117...moderate
-
-Trail #119...difficult
-
-Trail #502...moderate
-
-MAPS: Colville N. F., Abercrombie Topo
-Gps:
-F.R. #300, Trail #117°48°55’48” N 117°29’04” W
-
-F.R. #070, Trail #119°48°54’20” N 117°31’ 05” W
-
-F.R. #350, Trail #502 48°55’23” N 117°25’ 03” W
-
-​MANAGING AGENCY: Three Rivers R.D.  509.738.6111
-Stevens county sheriff: 509.684.5296
+*Abercrombie mountain 7308’*
 
 ## Description
 

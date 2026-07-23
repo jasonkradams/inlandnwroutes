@@ -1,16 +1,27 @@
+---
+tags:
+- Lakes
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: Around 3 miles RT
+- label: Lake Elevation
+  icon: terrain
+  value: 3020'
+- label: Maps
+  icon: map
+  value: Detroit National Forest, Forest Map
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 44°22;29" n 121°59'54'w
+- label: Linn County Sheriff
+  icon: shield-account
+  value: 541.967.3950
+---
+
 # Clear Lake
 
-## Clear lake, detroit n.f
-
----
-
-PADDLE DISTANCE: Around 3 miles RT
-Lake elevation: 3020'
-MAPS: Detroit National Forest, Forest Map
-Launch gps:  44°22;29" n 121°59'54'w
-Linn county sheriff: 541.967.3950
-
----
+*Clear lake, detroit n.f*
 
 ## Description
 

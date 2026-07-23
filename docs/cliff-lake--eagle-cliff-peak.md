@@ -1,23 +1,46 @@
+---
+tags:
+- Lakes
+- Day Hiking
+- Backpacking
+- Scrambling
+- Camping
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, scrambling, camping
+- label: Distance
+  icon: map-marker-distance
+  value: 2.4 miles RT to Cliff Lake
+- label: Elevation Gain
+  icon: elevation-rise
+  value: From McDonald Lake ( TH) to Cliff Lake is 533 verts. Cliff Lake to Eagle
+    Cliff Peak 1629 verts
+- label: Difficulty
+  icon: speedometer
+  value: Easy to Cliff Lake Strenuous to Eagle Cliff Peak
+- label: Maps
+  icon: map
+  value: Lolo N.F., Torino Peak topo
+- label: GPS
+  icon: crosshairs-gps
+  value: Trailhead...47°08’53" N 115°10’24" W
+- label: Superior Ranger District
+  icon: pine-tree
+  value: 406.822.4233
+- label: Mineral County Sheriff
+  icon: shield-account
+  value: CALL911 FIRST or 406.822.3555
+notes:
+- Cliff Lake..47°08’28" N 115°01’12" W
+- Eagle Cliff Peak...47°06’46" N 115°11’09" W
+- Lolo national forest/alerts
+- https[://www.fs.usda.gov/alerts/lolo/alerts-notices](https://www.fs.usda.gov/alerts/lolo/alerts-notices)
+---
+
 # Cliff Lake  Eagle Cliff Peak
 
-## Mcdonald lake, cliff lake, eagle cliff peak 7543
-
----
-
-EVENT TYPE: Day hiking, backpacking, scrambling, camping
-DISTANCE: 2.4 miles RT to Cliff Lake
-Elevation gain: From McDonald Lake ( TH) to Cliff Lake is 533 verts. Cliff Lake to Eagle Cliff Peak 1629 verts
-DIFFICULTY: Easy to Cliff Lake Strenuous to Eagle Cliff Peak
-MAPS: Lolo N.F., Torino Peak topo
-GPS: Trailhead...47°08’53” N 115°10’24” W
-Cliff Lake..47°08’28” N 115°01’12” W
-Eagle Cliff Peak...47°06’46” N 115°11’09” W
-Superior Ranger District: 406.822.4233
-MINERAL COUNTY SHERIFF: CALL911 FIRST or 406.822.3555
-Lolo national forest/alerts
-https[://www.fs.usda.gov/alerts/lolo/alerts-notices](https://www.fs.usda.gov/alerts/lolo/alerts-notices)
-
----
+*Mcdonald lake, cliff lake, eagle cliff peak 7543*
 
 ## Description
 
@@ -31,7 +54,7 @@ If you go here in the fall, you will enjoy the bright yellow colors of the Tamar
 
 ## Option #1
 
-After spending some time enjoying the lake, hike south to a gap to the SE of the peak. The peak is about 1629’ above the lake on a steep“trail" that you should not be miss. The views from atop Eagle Cliff are worth the climb.
+After spending some time enjoying the lake, hike south to a gap to the SE of the peak. The peak is about 1629’ above the lake on a steep"trail" that you should not be miss. The views from atop Eagle Cliff are worth the climb.
 
 ## Directions
 

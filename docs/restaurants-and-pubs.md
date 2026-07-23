@@ -13,12 +13,12 @@ Harvest Restaurant & Lounge
 401 W 1st
 Spangle, Wa509.245.3552
 
-Dick”s Drive Innn
+Dick"s Drive Innn
 10 E 3rd
 Spokane 509.747.2481
 Great fish & chips, Tartar sauce
 
-Pete”s pizza
+Pete"s pizza
 2328 W. Northwest Blvd.
 Spokane
 509.326.1900

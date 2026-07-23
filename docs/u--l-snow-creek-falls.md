@@ -1,17 +1,30 @@
+---
+tags:
+- Winter & Skiing
+stats:
+- label: Waterfall
+  icon: waterfall
+  value: L.& U. Snow Creek Falls
+- label: Drop
+  icon: arrow-collapse-down
+  value: Lower Falls about 20' Upper Falls about 30'
+- label: Waterfall Type
+  icon: ski
+  value: Lower is Chute Upper is a Fan
+- label: Distance Car to Falls
+  icon: map-marker-distance
+  value: T visit both falls its about 1 mile
+- label: Maps
+  icon: map
+  value: I.P.N.F. Bonners Ferry Ranger District 208.267.5561 Roman Nose topo
+- label: GPS
+  icon: crosshairs-gps
+  value: Trailhead. 48°??40’12" N 116°25’37" W. Falls 48°40'02" N 116°25'45" W
+---
+
 # U  L Snow Creek Falls
 
-## L. & u.  snow creek falls trail #189
-
----
-
-WATERFALL : L.& U. Snow Creek Falls
-DROP: Lower Falls  about 20'  Upper Falls about 30'
-WATERFALL TYPE: Lower is Chute Upper is a Fan
-​DISTANCE CAR TO FALLS: T visit both falls its about 1 mile
-MAPS: I.P.N.F. Bonners Ferry Ranger District  208.267.5561   Roman Nose topo
-GPS: Trailhead. 48°??40’12” N 116°25’37” W. Falls 48°40'02" N 116°25'45" W
-
----
+*L. & u.  snow creek falls trail #189*
 
 ## Description
 

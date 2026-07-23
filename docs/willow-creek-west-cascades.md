@@ -1,17 +1,28 @@
+---
+tags:
+- Trails & Scrambles
+stats:
+- label: Waterfall
+  icon: waterfall
+  value: west willow creek falls
+- label: Drop
+  icon: arrow-collapse-down
+  value: several falls, and 500’ steep cascades
+- label: Waterfall Type
+  icon: hiking
+  value: nearly every type
+- label: Distance Car to Falls
+  icon: map-marker-distance
+  value: headwall falls .9 miles. many more above & below
+- label: Maps
+  icon: map
+  value: ipnf, mullan topo
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°26’17" n 115°46’26" w
+---
+
 # Willow Creek West Cascades
-
-## Willow creek West Cascades
-
----
-
-Waterfall : west willow creek falls
-Drop: several falls, and 500’ steep cascades
-Waterfall type: nearly every type
-​distance car to falls: headwall falls .9 miles. many more above & below
-Maps: ipnf, mullan topo
-Gps: 47°26’17” n 115°46’26” w
-
----
 
 ## Description: caution statement
 
@@ -44,7 +55,7 @@ There are other cascades on the West Willow Creek, so search and see what you fi
 
 ## Directions
 
-Drive east on I-90 to Exit #69 East Mullan. Exit and turn left at the stop sign. Crossing over the freeway, turn right (East) past the Lucky Friday mine, to a “Y”, and bear right, eventually crossing back over the freeway. Continue south for about a mile to the joint Stevens Lakes & Lone Lake trailhead, with outhouse.
+Drive east on I-90 to Exit #69 East Mullan. Exit and turn left at the stop sign. Crossing over the freeway, turn right (East) past the Lucky Friday mine, to a "Y", and bear right, eventually crossing back over the freeway. Continue south for about a mile to the joint Stevens Lakes & Lone Lake trailhead, with outhouse.
 
 If you have a high clearance vehicle, you can head west across Willow Creek to a road heading south between the creek and a gigantic Boulder.
 It’s about .3 of a mile to the upper parking.

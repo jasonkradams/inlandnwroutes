@@ -1,16 +1,19 @@
-# Granite Creek Landing
-
-|  |  |
-| --- | --- |
-| Granite creek landing​ | --- |
-
-PADDLE DISTANCE: varies
-Elevation: 2067’
-LENGTH AND ACREAGE: varies
-Maps:
-Launch gps:
-
 ---
+tags:
+- Trails & Scrambles
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: varies
+- label: Elevation
+  icon: terrain
+  value: 2067’
+- label: Length and Acreage
+  icon: vector-square
+  value: varies
+---
+
+# Granite Creek Landing
 
 ## Description
 

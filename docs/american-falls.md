@@ -1,17 +1,30 @@
+---
+tags:
+- Waterfalls
+stats:
+- label: Waterfall
+  icon: waterfall
+  value: American Falls
+- label: Drop
+  icon: arrow-collapse-down
+  value: 40'
+- label: Waterfall Type
+  icon: waterfall
+  value: Slide
+- label: Distance Car to Falls
+  icon: map-marker-distance
+  value: 16.2 miles RT with 1400 verts
+- label: Maps
+  icon: map
+  value: Kanicsu N.F., Continental Mountain 208.443.7223
+- label: GPS
+  icon: crosshairs-gps
+  value: Trailhead 48°??53’??53" N 116°??5759" W
+---
+
 # American Falls
 
-## Ameri. aka u. priest river  falls trail #308
-
----
-
-WATERFALL : American Falls
-Drop: 40'
-WATERFALL TYPE: Slide
-​DISTANCE CAR TO FALLS: 16.2 miles RT with 1400 verts
-MAPS: Kanicsu N.F., Continental Mountain   208.443.7223
-GPS: Trailhead 48°??53’??53” N 116°??5759” W
-
----
+*Ameri. aka u. priest river  falls trail #308*
 
 ## Description
 

@@ -1,21 +1,42 @@
-# Silver Falls Sp
-
-## Silver falls state park, oregon
-
+---
+tags:
+- Waterfalls
+- Easy
+- Day Hiking
+- Camping
+- Photography
+stats:
+- label: Event Type
+  icon: waterfall
+  value: Day hiking, camping, and photography
+- label: Distance
+  icon: map-marker-distance
+  value: 6.9 mile loop.
+- label: Elevation
+  icon: terrain
+  value: 700 verts
+- label: Difficulty
+  icon: speedometer
+  value: easy
+- label: Maps
+  icon: map
+  value: Silver Falls State Park brochure
+- label: GPS
+  icon: crosshairs-gps
+  value: 44052'40" n 122039'22"
+- label: Wild Rivers Ranger District
+  icon: pine-tree
+  value: 541.592.4000
+- label: Marion County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 541.588.5094
 ---
 
-EVENT TYPE: Day hiking, camping, and photography
-DISTANCE: 6.9 mile loop.
-ELEVATION: 700 verts
-DIFFICULTY: easy
-MAPS: Silver Falls State Park brochure
-Gps: 44052'40" n 122039'22"
-Wild Rivers Ranger District: 541.592.4000
-​MARION COUNTY SHERIFF: CALL 911 FIRST or 541.588.5094
+# Silver Falls Sp
 
-|  |  |
-| --- | --- |
-| Description: | --- |
+*Silver falls state park, oregon*
+
+## Description
 
 ​We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
 If you are ever near Salem, Oregon, make sure you spend a day at Silver Falls State Park.
@@ -143,7 +164,7 @@ In 1935 President Franklin D. Roosevelt announced that Silver Falls would be one
 
 ​Silver Falls State ParkNestled in the foothills of the Cascade Mountains, just a short scenic drive from the Willamette Valley, is 9,000 acres of temperate rainforest waiting for you – to explore, play, or simply stop and recharge. Silver Falls State Park, Oregon’s largest State Park, is centrally located in Oregon just east of the State Capital, Salem, and an easy day’s drive from Portland, Eugene, or Bend.
 Silver Falls’ namesake comes from the 10 unforgettable waterfalls crashing into the canyon carved by the North and South Forks of Silver Creek – five of these waterfalls are over 100 feet and four you can walk behind! Hike through the mist on the Trail of Ten Falls, a National Recreation Trail, or explore miles of trails beyond the falls through quiet, old-growth forest on foot, bike, or horseback. The Silver Falls Historic District, a must for history-lovers, is filled with rustic-style buildings built by the young men of the 1930s Civilian Conservation Corp (CCC) camps which serve today as our South Falls Lodge, Nature Store, and Combination Picnic Shelter, all of which are listed on the National Registry of Historic Places. Many other visitors enjoy the cool waters of the day use area’s swimming area, lounge in the sun while kids play in one of the three playgrounds, or satisfy their curiosity about natural history through the many interpretative programs and special events offered throughout the year.
-Silver Falls State Park is overflowing with lodging and refreshments options to satisfy any visitor – from the full-service Silver Falls Lodge & Conference Center complete with cabins, meals, a swimming pool, and meeting facilities to the campgrounds with 100 tent/RV sites, cabins, and group camping facilities. Popular for family reunions and weddings, the two “ranches” offer another unique lodging option all under one roof – complete with bunks, full kitchens, and a center fire-pit you won’t soon forget on a chilly evening with your friends. The YMCA camp is reservable outside of the summer season and also has many CCC-era historical buildings along with a swimming pool and full commercial kitchen. Snacks and refreshments are conveniently located in the Silver Creek Grill next to the swimming area’s D Shelter and in the Café in the South Falls Lodge, while meals and seasonal buffets are found in the Silver Falls Lodge & Conference Center.
+Silver Falls State Park is overflowing with lodging and refreshments options to satisfy any visitor – from the full-service Silver Falls Lodge & Conference Center complete with cabins, meals, a swimming pool, and meeting facilities to the campgrounds with 100 tent/RV sites, cabins, and group camping facilities. Popular for family reunions and weddings, the two "ranches" offer another unique lodging option all under one roof – complete with bunks, full kitchens, and a center fire-pit you won’t soon forget on a chilly evening with your friends. The YMCA camp is reservable outside of the summer season and also has many CCC-era historical buildings along with a swimming pool and full commercial kitchen. Snacks and refreshments are conveniently located in the Silver Creek Grill next to the swimming area’s D Shelter and in the Café in the South Falls Lodge, while meals and seasonal buffets are found in the Silver Falls Lodge & Conference Center.
 The rangers at Silver Falls State Park have but one word of advice – it is very difficult to take in all that Silver Falls has to offer in one day so plan to stay awhile or come back and visit!
 
 ​Silver Falls History: A Chronological Story  Silver Falls History: A Chronological Story 
@@ -190,7 +211,7 @@ George and Anna Parkhurst at the cost of $2,000.
 1931: April 30: North Falls became park property.
 1931: October 19: South Falls became park property.
 1931: December 3: The Highway Commission named
-the area “Silver Creek Falls State Park”.
+the area "Silver Creek Falls State Park".
 1933: July 23: Silver Falls State Park was dedicated.
 More than 5,000 people attended. At this time,
 the park was comprised of 1,268 acres.
@@ -253,7 +274,7 @@ Boardman succeeded as State Park
 Superintendent by Chester Armstrong. (Langille,
 1953)
 1952: Attendance totaled 242,742 day visitors.
-1953: Davidsons’ barn was altered to “The Ranch.”
+1953: Davidsons’ barn was altered to "The Ranch."
 1955: Conservative Baptist Association agreed to
 construct a pool at North Falls. (Armstrong,
 1965)
@@ -305,7 +326,7 @@ opens the Nature Store in the South Falls Lodge.
 of National Recreation Trail in perpetuity. (Letter
 from Secretary of the Interior, July 15, 1994)
 1996: A one hundred-year flood early in the year takes
-out two bridges on the “Trail of Ten Falls.”
+out two bridges on the "Trail of Ten Falls."
 1998: Paver path project in South Falls Day use began.
 1998 – 99: Cabin Loop cabins constructed.
 1998 – 99: Lodge restoration.
@@ -386,7 +407,7 @@ George and Anna Parkhurst at the cost of $2,000.
 1931: April 30: North Falls became park property.
 1931: October 19: South Falls became park property.
 1931: December 3: The Highway Commission named
-the area “Silver Creek Falls State Park”.
+the area "Silver Creek Falls State Park".
 1933: July 23: Silver Falls State Park was dedicated.
 More than 5,000 people attended. At this time,
 the park was comprised of 1,268 acres.
@@ -449,7 +470,7 @@ Boardman succeeded as State Park
 Superintendent by Chester Armstrong. (Langille,
 1953)
 1952: Attendance totaled 242,742 day visitors.
-1953: Davidsons’ barn was altered to “The Ranch.”
+1953: Davidsons’ barn was altered to "The Ranch."
 1955: Conservative Baptist Association agreed to
 construct a pool at North Falls. (Armstrong,
 1965)
@@ -501,7 +522,7 @@ opens the Nature Store in the South Falls Lodge.
 of National Recreation Trail in perpetuity. (Letter
 from Secretary of the Interior, July 15, 1994)
 1996: A one hundred-year flood early in the year takes
-out two bridges on the “Trail of Ten Falls.”
+out two bridges on the "Trail of Ten Falls."
 1998: Paver path project in South Falls Day use began.
 1998 – 99: Cabin Loop cabins constructed.
 1998 – 99: Lodge restoration.

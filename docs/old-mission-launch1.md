@@ -1,16 +1,27 @@
+---
+tags:
+- Paddling & Rivers
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: varies
+- label: Elevation
+  icon: terrain
+  value: 2133’
+- label: Length and Acreage
+  icon: vector-square
+  value: varies
+- label: Maps
+  icon: map
+  value: IPNF., Kingston topo
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 47°33’08" nne 116°22’00" w
+---
+
 # Old Mission Launch1
 
-## Old mission launch
-
----
-
-PADDLE DISTANCE: varies
-Elevation: 2133’
-LENGTH AND ACREAGE: varies
-MAPS: IPNF., Kingston topo
-Launch gps: 47°33’08” nne 116°22’00” w
-
----
+*Old mission launch*
 
 ## Description
 

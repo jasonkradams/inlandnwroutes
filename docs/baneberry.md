@@ -1,21 +1,56 @@
+---
+tags:
+- Trails & Scrambles
+stats:
+- label: Genesis Name
+  icon: book-open-variant
+  value: Actaea rubra
+- label: Distribution
+  icon: earth
+  value: Most northern states in the U.S.A.. In Canada they are mostly present from
+    Alberta east to the Atlantic coast.
+- label: Season
+  icon: calendar
+  value: Blooms May to June
+- label: Poisonous
+  icon: skull-crossbones
+  value: '**Warning:** The berries of Red Baneberry (and White Baneberry) are very
+    poisonous if ingested and may affect the nervous system. European species have
+    fatally poisoned children, but baneberries are not reported to have caused death
+    to humans or livestock in the United States. Sensitivity to a toxin varies with
+    a person’s age, weight, physical condition, and individual susceptibility. Children
+    are most vulnerable because of their curiosity and small size. Toxicity can vary
+    in a plant according to season, the plant’s different parts, and its stage of
+    growth; and plants can absorb toxic substances, such as herbicides, pesticides,
+    and pollutants from the water, air, and soil.'
+- label: Poisonous Parts
+  icon: skull-crossbones
+  value: 'All parts, mainly showy berries and roots. Toxic if eaten in large quantities.
+    Symptoms include burning of mouth and throat, salivation, severe stomach cramps,
+    headache, diarrhea, dizziness and hallucinations. Toxic Principle: Unknown, glycoside
+    or essential oil, protoanemonin. (Poisonous Plants of N.C.)'
+- label: Edibility
+  icon: food-apple
+  value: 'Warning: The berries of Red Baneberry (and White Baneberry) are **very poisonous**
+    if ingested and may affect the nervous system. ... POISONOUS PARTS: All parts,
+    mainly showy berries and roots. Toxic if eaten in large quantities.'
+- label: Features
+  icon: information-outline
+  value: Red baneberry generally has **red berries** (white in A. rubra var. neglecta),
+    while those of white baneberry are generally white with a prominent black dot
+    (the persistent stigma) on each berry, giving rise to another common name, doll's
+    eyes
+- label: Leaves
+  icon: leaf
+  value: Green wrinkly looking leaves with sedated edges
+- label: Fruits
+  icon: fruit-cherries
+  value: Red berry but are poisonous
+---
+
 # Baneberry
 
-## Baneberry.    aka    red baneberry
-
----
-
-GENESIS NAME:  Actaea rubra
-DISTRIBUTION:  Most northern states in the U.S.A.. In Canada they are mostly present from Alberta east to the Atlantic coast.
-SEASON:  Blooms May to June
-Medical use:
-Poisonous:  **Warning:** The berries of Red Baneberry (and White Baneberry) are very poisonous if ingested and may affect the nervous system. European species have fatally poisoned children, but baneberries are not reported to have caused death to humans or livestock in the United States. Sensitivity to a toxin varies with a person’s age, weight, physical condition, and individual susceptibility. Children are most vulnerable because of their curiosity and small size. Toxicity can vary in a plant according to season, the plant’s different parts, and its stage of growth; and plants can absorb toxic substances, such as herbicides, pesticides, and pollutants from the water, air, and soil.
-​POISONOUS PARTS: All parts, mainly showy berries and roots. Toxic if eaten in large quantities. Symptoms include burning of mouth and throat, salivation, severe stomach cramps, headache, diarrhea, dizziness and hallucinations. Toxic Principle: Unknown, glycoside or essential oil, protoanemonin. (Poisonous Plants of N.C.)
-Edibility:  Warning: The berries of Red Baneberry (and White Baneberry) are **very poisonous** if ingested and may affect the nervous system. ... POISONOUS PARTS: All parts, mainly showy berries and roots. Toxic if eaten in large quantities.
-Features:  Red baneberry generally has **red berries** (white in A. rubra var. neglecta), while those of white baneberry are generally white with a prominent black dot (the persistent stigma) on each berry, giving rise to another common name, doll's eyes
-LEAVES:  Green wrinkly looking leaves with sedated edges
-FRUITS: Red berry but are poisonous
-
----
+*Baneberry.    aka    red baneberry*
 
 ## Description
 

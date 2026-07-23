@@ -1,20 +1,39 @@
+---
+tags:
+- Peaks & Mountains
+- Easy
+- Day Hiking
+- Snowshoeing
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, snowshoeing
+- label: Distance
+  icon: map-marker-distance
+  value: 3.3 mile loop to 5.3 mile loop
+- label: Elevation
+  icon: terrain
+  value: 630’
+- label: Difficulty
+  icon: speedometer
+  value: easy
+- label: Maps
+  icon: map
+  value: IPNF, Lane Topo
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°36’55" n 116°4’43" w
+- label: Managing Agency
+  icon: domain
+  value: blm spokane 509.536.1200
+- label: Kootenai County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.446.1300
+notes:
+- Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Mineral Ridge
-
-## Mineral ridge
-
----
-
-EVENT TYPE: Day hiking, snowshoeing
-DISTANCE: 3.3 mile loop to 5.3 mile loop
-Elevation: 630’
-DIFFICULTY: easy
-MAPS: IPNF, Lane Topo
-Gps: 47°36’55” n 116°4’43” w
-Managing agency:   blm spokane 509.536.1200
-​KOOTENAI COUNTY SHERIFF: CALL 911 FIRST or 208.446.1300
-Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
 
 ## Description
 

@@ -1,16 +1,32 @@
-# Blacktail Mountain Ski Area
-
-## Blacktail mountain ski area    elmo. mt
-
+---
+tags:
+- Peaks & Mountains
+stats:
+- label: Phone
+  icon: phone
+  value: 406.844.0999
+- label: Acres
+  icon: vector-square
+  value: 1000+
+- label: Average Snow Fall
+  icon: weather-snowy-heavy
+  value: 250"
+- label: Summit Elevation
+  icon: terrain
+  value: 6676'
+- label: Base Elevation
+  icon: terrain
+  value: 5236'
+- label: Verts
+  icon: arrow-expand-vertical
+  value: 1440'
+notes:
+- Blacktailmountain.com
 ---
 
-Blacktailmountain.com
-Phone: 406.844.0999
-Acres: 1000+
-​average snow fall: 250"
-Summit elevation:  6676'
-Base elevation: 5236'
-Verts: 1440'
+# Blacktail Mountain Ski Area
+
+*Blacktail mountain ski area    elmo. mt*
 
 ## of named runs: 17
 

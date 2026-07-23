@@ -1,17 +1,38 @@
+---
+tags:
+- Winter & Skiing
+- Easy
+- Track Ski
+- Skate
+- Hok Ski
+- Telemark
+- Bc X-contry
+- Snowshoe
+stats:
+- label: Event Type
+  icon: ski
+  value: Track Ski, Skate, Hok Ski, Telemark, BC X-Contry, Snowshoe
+- label: Distance
+  icon: map-marker-distance
+  value: Four miles RT
+- label: Elevation
+  icon: terrain
+  value: +/- ~200 ft
+- label: Difficulty
+  icon: speedometer
+  value: Easy
+- label: Maps
+  icon: map
+  value: '[Deer Creek Nordic Map](https://parks.state.wa.us/DocumentCenter/View/60)
+    - Washington State Parks, Mt. Leona - USGS,'
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°51'54.3"n 118°23'45.7"w
+---
+
 # Deer Creek Nordic Sno Park
 
-## Deer creek nordic sno-park 4,600'
-
----
-
-EVENT TYPE: Track Ski, Skate, Hok Ski, Telemark, BC X-Contry, Snowshoe
-DISTANCE: Four miles RT
-ELEVATION: +/- ~200 ft
-DIFFICULTY:  Easy
-Maps: [Deer Creek Nordic Map](https://parks.state.wa.us/DocumentCenter/View/60) - Washington State Parks, Mt. Leona - USGS, 
-Gps: 48°51'54.3"n 118°23'45.7"w
-
----
+*Deer creek nordic sno-park 4,600'*
 
 ## Description
 

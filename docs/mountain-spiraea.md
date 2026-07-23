@@ -1,19 +1,50 @@
+---
+tags:
+- Peaks & Mountains
+stats:
+- label: Genesis Name
+  icon: book-open-variant
+  value: Spiraea splendens
+- label: Distribution
+  icon: earth
+  value: u.s.a...ca, id, mt, nv, or, wa, wy
+- label: Season
+  icon: calendar
+  value: Blooms June rthru August
+- label: Medical Use
+  icon: medical-bag
+  value: The leaves and flowering stems are **alterative, anti-inflammatory, antiseptic,
+    aromatic, astringent, diaphoretic, diuretic, stomachic and tonic**[4, 9, 21, 165].
+    The plant is harvested in July when it is in flower and can be dried for later
+    use.
+- label: Poisonous
+  icon: skull-crossbones
+  value: The fact is that **they are not poisonous**. Nor are they edible, and it
+    can be expected that, when eaten in quantity, they may cause stomach upset with
+    possible vomiting.
+- label: Edibility
+  icon: food-apple
+  value: The fact is that **they are not poisonous**. Nor are they edible, and it
+    can be expected that, when eaten in quantity, they may cause stomach upset with
+    possible vomiting.
+- label: Features
+  icon: information-outline
+  value: 'Deciduous shrub, may grow to between 20 and 100 cm (~8 inches to 3+ ft)
+    tall, stems brown, glabrous to finely and sparsely hairy. Leaves alternate, simple,
+    ovoid, 1–5 cm long, margin toothed near tip and sides but not at the base, leaf
+    surface thin, light green, with or without hairs, turn yellow in fall; petiole
+    less than 3 mm long. Flowers small (~ 2 mm), rose-pink, in flat-topped, terminal
+    clusters (corymbs), very showy. Fruit is small, 5 valved follicle.LEAVES:'
+- label: Fruits
+  icon: fruit-cherries
+  value: The plant bears fragrant, fuzzy pom-poms of bright rosy pink flowers in the
+    summer. The fruit is a **tiny dry pod**, no more than one eighth of an inch in
+    length.
+---
+
 # Mountain Spiraea
 
-## Mountain spiraea. (in the fall)
-
----
-
-GENESIS NAME:   Spiraea splendens
-Distribution:  u.s.a...ca, id, mt, nv, or, wa, wy
-SEASON:  Blooms June rthru August
-Medical use:  The leaves and flowering stems are **alterative, anti-inflammatory, antiseptic, aromatic, astringent, diaphoretic, diuretic, stomachic and tonic**[4, 9, 21, 165]. The plant is harvested in July when it is in flower and can be dried for later use.
-​Poisonous:  The fact is that **they are not poisonous**. Nor are they edible, and it can be expected that, when eaten in quantity, they may cause stomach upset with possible vomiting.
-Edibility:  The fact is that **they are not poisonous**. Nor are they edible, and it can be expected that, when eaten in quantity, they may cause stomach upset with possible vomiting.
-FEATURES:  Deciduous shrub, may grow to between 20 and 100 cm (~8 inches to 3+ ft) tall, stems brown, glabrous to finely and sparsely hairy.  Leaves alternate, simple, ovoid, 1–5 cm long, margin toothed near tip and sides but not at the base, leaf surface thin, light green, with or without hairs, turn yellow in fall; petiole less than 3 mm long.  Flowers small (~ 2 mm), rose-pink, in flat-topped, terminal clusters (corymbs), very showy.  Fruit is small, 5 valved follicle.LEAVES:
-Fruits:  ​The plant bears fragrant, fuzzy pom-poms of bright rosy pink flowers in the summer. The fruit is a **tiny dry pod**, no more than one eighth of an inch in length.
-
----
+*Mountain spiraea. (in the fall)*
 
 ## Description
 

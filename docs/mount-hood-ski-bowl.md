@@ -1,16 +1,32 @@
-# Mount Hood Ski Bowl
-
-## Mount hood ski bowl     government camp, or
-
+---
+tags:
+- Winter & Skiing
+stats:
+- label: Phone
+  icon: phone
+  value: 503.272.3206
+- label: Acres
+  icon: vector-square
+  value: '960'
+- label: Average Snow Fall
+  icon: weather-snowy-heavy
+  value: 300"
+- label: Summit Elevation
+  icon: terrain
+  value: 5028'
+- label: Base Elevation
+  icon: terrain
+  value: 3650'
+- label: Verts
+  icon: arrow-expand-vertical
+  value: 1500'
+notes:
+- Skibowl.com
 ---
 
-Skibowl.com
-Phone: 503.272.3206
-Acres: 960
-​average snow fall: 300"
-Summit elevation:  5028'
-Base elevation: 3650'
-Verts: 1500'
+# Mount Hood Ski Bowl
+
+*Mount hood ski bowl     government camp, or*
 
 ## of named runs: 69/36
 
@@ -47,7 +63,7 @@ MT HOOD SKIBOWL HISTORYMt. Hood Skibowl’s origin dates back to 1928, making th
 
 1938 Raymond Hughes built Multorpor Mountain’s first rope tow. The tow was powered by a Dodge truck engine and operated on the run now called Raceway on Cascade Chair. The resort charged 5¢ per ride or $1 per day.
 
-1946 The first Lower Bowl chair was installed by “Sandy” Sandberg. Built with wooden lift towers, the single chair ran from what’s now the Rental Shop up the west side of Skibowl’s Lower Bowl.
+1946 The first Lower Bowl chair was installed by "Sandy" Sandberg. Built with wooden lift towers, the single chair ran from what’s now the Rental Shop up the west side of Skibowl’s Lower Bowl.
 
 1949 The current Multorpor Lodge was built by George Beutler, who operated Multorpor’s ropetow at the time. Upper Bowl Chair. This new Riblet double chair was the first chair to use steel towers.
 
@@ -63,7 +79,7 @@ MT HOOD SKIBOWL HISTORYMt. Hood Skibowl’s origin dates back to 1928, making th
 
 1980 Summer recreation began at Skibowl with the installation of the Alpine Slide.
 
-1987 Kirk Hanna purchased Skibowl out of bankruptcy and formed H-Ski Corporation. He then makes major improvements to the resort by adding the 300 acre outback, cutting the Olympic Certified Reynolds Run and expanding the night skiing to 34 lit runs making Skibowl “America’s Largest Night Ski Area”. He also remodeled and reopened the Historic Warming Hut.
+1987 Kirk Hanna purchased Skibowl out of bankruptcy and formed H-Ski Corporation. He then makes major improvements to the resort by adding the 300 acre outback, cutting the Olympic Certified Reynolds Run and expanding the night skiing to 34 lit runs making Skibowl "America’s Largest Night Ski Area". He also remodeled and reopened the Historic Warming Hut.
 
 1988 Hanna also built upon the summer activities, adding mountain biking, Indy Karts, Miniature Golf, group functions, and some inflatable summer recreation.
 

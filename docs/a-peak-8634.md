@@ -1,21 +1,44 @@
+---
+tags:
+- Peaks & Mountains
+- Very Difficult, Exposure
+- Long Day Hike
+- Backpack
+- Scramble
+stats:
+- label: Event Type
+  icon: hiking
+  value: Long day hike, backpack & scramble
+- label: Distance
+  icon: map-marker-distance
+  value: Trailhead 2446'. To high camp (approx. 3722')5.9 miles one way. Camp site
+    to A Peak summit approx. 1.3.miles one way
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 6188 verts
+- label: Difficulty
+  icon: speedometer
+  value: Very Difficult, exposure
+- label: Maps
+  icon: map
+  value: Kooternai National Forest, Snowshoe Peak topo.
+- label: Ranger District
+  icon: pine-tree
+  value: Libby R.D. 406.293.7773
+- label: Sanders County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 406.827.3584
+notes:
+- Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+---
+
 # A Peak 8634
 
-This hike is for the most Seasoned of scramblers If you haven't hiked ​this kind of terrain for decades. ​do not attempt
+!!! warning "Before you go"
 
-## A peak 8,634'
+    This hike is for the most Seasoned of scramblers If you haven't hiked ​this kind of terrain for decades. ​do not attempt
 
----
-
-EVENT TYPE: Long day hike,  backpack & scramble
-DISTANCE: Trailhead  2446'.   To high camp  (approx. 3722')5.9 miles one way.  Camp site to A Peak summit approx. 1.3.miles one way
-ELEVATION GAIN: 6188 verts
-DIFFICULTY: Very Difficult, exposure
-MAPS: Kooternai National Forest, Snowshoe Peak topo.    
-RANGER DISTRICT: Libby R.D.   406.293.7773
-​SANDERS COUNTY SHERIFF: CALL 911 FIRST or 406.827.3584
-Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
-
----
+*A peak 8,634'*
 
 ## Description
 
@@ -98,10 +121,6 @@ The upper camp is by the far end of the snow patches The ridge to the left off t
 *Picture (Image missing)*
 
 ## The upper camp area ​image by chris herath
-
-|  |  |
-| --- | --- |
-|  | --- |
 
 ![Picture](/assets/images/11082021940p.jpg)
 

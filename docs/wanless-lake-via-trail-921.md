@@ -1,18 +1,43 @@
+---
+tags:
+- Lakes
+- Difficult
+- Day Hiking
+- Backpacking
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking
+- label: Distance
+  icon: map-marker-distance
+  value: 18 miles RT
+- label: Elevation
+  icon: terrain
+  value: 3500’
+- label: Acres
+  icon: vector-square
+  value: '111.5'
+- label: Difficulty
+  icon: speedometer
+  value: Difficult
+- label: Maps
+  icon: map
+  value: Kootenai N.F., Noxon Rapids, Howard Lake, Goat Peak
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°00’45" n 45°34’53" w
+- label: Ranger District
+  icon: pine-tree
+  value: Cabinet Ranger District 406.827.3533
+- label: Lincoln County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 406.293.4112
+notes:
+- Kootenai national forest/alerts
+- <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+---
+
 # Wanless Lake Via Trail 921
-
-## Wanless lake trail #921
-
-EVENT TYPE: Day hiking, backpacking
-DISTANCE: 18 miles RT
-Elevation: 3500’
-​acres: 111.5
-DIFFICULTY: Difficult
-MAPS: Kootenai N.F., Noxon Rapids, Howard Lake, Goat Peak
-Gps: 48°00’45” n 45°34’53” w
-​Ranger district:  Cabinet Ranger District  406.827.3533
-​LINCOLN COUNTY SHERIFF: CALL 911 FIRST or 406.293.4112
-Kootenai national forest/alerts
-<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 
 ## Description
 
@@ -29,7 +54,7 @@ DISTANCE: 26 miles RT
 Elevation gain: 2500’
 DIFFICULTY: Strenuous
 MAPS: Kootenai N.F., Goat Peak topo
-​Gps: 47°55’02” n  115 57’00” w
+​Gps: 47°55’02" n  115 57’00" w
 ​
 Description:
 The 13 mile trail takes more then 6 hours to complete.

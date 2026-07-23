@@ -1,16 +1,32 @@
-# Grand Targhee Sku Resort
-
-## Grand targhee ski resort   alta, wyoming
-
+---
+tags:
+- Winter & Skiing
+stats:
+- label: Phone
+  icon: phone
+  value: 800.targhee
+- label: Acres
+  icon: vector-square
+  value: 3000 =1000 cat skiing
+- label: Average Snow Fall
+  icon: weather-snowy-heavy
+  value: 500+
+- label: Summit Elevation
+  icon: terrain
+  value: 9830'
+- label: Base Elevation
+  icon: terrain
+  value: 7851'
+- label: Verts
+  icon: arrow-expand-vertical
+  value: 2270'
+notes:
+- Grandtarghee.com
 ---
 
-Grandtarghee.com
-Phone: 800.targhee
-Acres: 3000 =1000 cat skiing
-​average snow fall: 500+
-Summit elevation:  9830'
-Base elevation: 7851'
-Verts: 2270'
+# Grand Targhee Sku Resort
+
+*Grand targhee ski resort   alta, wyoming*
 
 ## of named runs: 95
 
@@ -57,14 +73,14 @@ December 26, 1969 – Grand Targhee’s first-ever opening day. Over 2,000 skie
 1997 – Revised 40-year USFS Special Use Permit is issued to Grand Targhee Resort in March. 
 
 2000 – GTR purchased by George Gillett & family.  The Magic Carpet is installed.
-2000 – February 25, 2000, single-day snowfall record of 41” in 24 hours.
+2000 – February 25, 2000, single-day snowfall record of 41" in 24 hours.
 2001 – Sacajawea lift opens expanding terrain by 500 acres.
 2002  – Trick Town Terrain Park opens.
 2004 – The GTR-Squirrel Meadows Land Trade is completed. North Pole Terrain Park opens. The Steakhouse is remodeled.
 2005 – The 1st Annual Targhee Fest.
 
 implemented with the Idaho Transportation Department.
-2014 – For summer operations the resort purchased a “Mule” for trail building.  Two new cross-country biking trails are added, along with two downhill trails, a new flow trail, and the skills park aka Pinball.
+2014 – For summer operations the resort purchased a "Mule" for trail building.  Two new cross-country biking trails are added, along with two downhill trails, a new flow trail, and the skills park aka Pinball.
 2016 – The Blackfoot double is replaced with a fixed-grip quad Doppelmayr chair lift.
 2017 – Mountain Master Plan and Base Area Plan are revised and submitted to Forest Service and Teton County Wyoming
 2020 – Massive wind storm blows down thousands of trees in Middle Earth, Lot 5, and service road to Blackfoot. 

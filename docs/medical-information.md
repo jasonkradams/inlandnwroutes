@@ -2,25 +2,22 @@
 
 As you read this section, please understand that it is designed to inform you.  but more importantly, all these topics are things you should do your own research on to further your knowledge. The most important thing you can take with you on your outing is…… Knowledge
 
-##
+## Medical Information Card
 
-Medical information card The reason we suggest carrying this card is simple If you have an issue in the mountains, Medical personnel, As well as your hiking buddies, Need to know what to do and who to call. ***Everyone*** Should have this form in their packs
+The reason we suggest carrying this card is simple: if you have an issue in the mountains, medical personnel, as well as your hiking buddies, need to know what to do and who to call. ***Everyone*** should have this form in their packs.
 
 ![Image](/assets/images/pdf.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/medical_emergency_card.pdf" data-title="Download file: medical_emergency_card.pdf" }
 
-|  |  |
-| --- | --- |
-| **medical\_emergency\_card.pdf** | |
-| File Size: | 34 kb |
-| File Type: | pdf |
+| | |
+|---|---|
+| File Size | 34 kb |
+| File Type | pdf |
 
 [Download File](https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/medical_emergency_card.pdf "Download file: medical_emergency_card.pdf")
 
 ---
 
----
-
-## Medical information
+## Medical Information
 
 *Picture (Image missing)*
 
@@ -143,13 +140,13 @@ THE MORE YOU KNOW, MEANS EVERYTHING      c.
 ***Accidents***
 In my 13 essentials kit, is a notebook and pen. Among other reasons, I keep notes on all aspects of the accident.
 If you have to hurry out to get medical help, you might not remember exactly where the accident occurred.
-Something I carry, are dozens of  15” strips of surveyors tape.
+Something I carry, are dozens of  15" strips of surveyors tape.
 Also include the victims name, age, details on the injury, vital signs, and any medical conditions the victim may suffer.
 See medical information cards above.
 On your way out, mark the route you took to get out. Sometimes, the memory isn’t as exact as it needs to be.
 When you have a moment, sit quietly, and write details of the accident.
 Be very specific.
-Also, if the injured hiking partner has their “Medical Info Card”, take it with you when you go for help. The more info the search and rescue folks have, the better the chances they will have, in getting to the victim, and field treating any issues.
+Also, if the injured hiking partner has their "Medical Info Card", take it with you when you go for help. The more info the search and rescue folks have, the better the chances they will have, in getting to the victim, and field treating any issues.
 Whomever you send out for help, be sure to tell that person to be extra careful getting out. If they get injured while hurrying, the original victim may suffer, also.
 Preform a gentle injury evaluation of the victim. Assess the person carefully. And be sure not to cause any harm.
 Stop all bleeding by using pressure on the wound. Use clean snow if it’s available.
@@ -242,7 +239,7 @@ Physical (mineral) sunscreen ingredients (including the minerals titanium dioxid
 Chemical sunscreen ingredients (like avobenzone and octisalate) absorb UV rays before they can damage your skin.
 Are sunscreens safe?
 While physical sunscreens may be less likely to cause skin irritation than chemical sunscreens, both types have been tested as safe and effective. In fact, many sun protection products available today combine both types of ingredients.
-All active ingredients in sunscreen are chemically derived.  Some people may think of physical sunscreens as more “natural,” or even “organic,” but they’re actually inorganic mineral compounds. The sunscreens many people call “chemical” are actually “UV organic filters.”
+All active ingredients in sunscreen are chemically derived.  Some people may think of physical sunscreens as more "natural," or even "organic," but they’re actually inorganic mineral compounds. The sunscreens many people call "chemical" are actually "UV organic filters."
 What does SPF mean?
 SPF stands for Sun Protection Factor. The number tells you how long the sun’s UVB rays would take to redden your skin if you apply the sunscreen exactly as directed compared with the amount of time without sunscreen. So, if you use an SPF 30 product properly, it would take you 30 times longer to burn than if you used no sunscreen.
 What level of SPF do I need? If you’re inside most of the day with just short intervals in the sun, you can use a sunscreen or cosmetic product with an SPF of 15 or higher. If you spend a lot of time outdoors, especially when and where the sun is strongest, you need an SPF 30 or higher, water-resistant sunscreen. [More about SPF](https://www.skincancer.org/blog/ask-the-expert-does-a-high-spf-protect-my-skin-better/).

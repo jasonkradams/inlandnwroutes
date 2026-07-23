@@ -1,20 +1,45 @@
-# Cda River Tr 20
-
-## COEUR d’ALENE RIVER TRAIL #20
-
+---
+tags:
+- Paddling & Rivers
+- Day Hike
+- Backpacking
+- Fishing
+stats:
+- label: Event Type
+  icon: kayaking
+  value: Day Hike, backpacking, fishing
+- label: Distance
+  icon: map-marker-distance
+  value: 30.6 miles RT
+- label: Elevation
+  icon: terrain
+  value: Although there is 2,000 verts, it’s within 527 actual verts. See chart below
+- label: Difficulty
+  icon: speedometer
+  value: Moderate with lots of miles
+- label: Maps
+  icon: map
+  value: IPNF, LOLO N.F., Cathedral Peak, Jordan Creek
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°52’58" n 116°07’52" w
+- label: Ranger District
+  icon: pine-tree
+  value: Plains/Thompson Falls 406.826.3821
+- label: CdA River Ranger District
+  icon: pine-tree
+  value: 208.446.1300
+- label: Kootenai County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.556.1114
+notes:
+- Idaho panhandle national forest/alerts
+- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
-EVENT TYPE: Day Hike, backpacking, fishing
-DISTANCE: 30.6 miles RT
-Elevation:  Although there is 2,000 verts, it’s within 527 actual verts. See chart below
-DIFFICULTY: Moderate with lots of miles
-MAPS: IPNF, LOLO N.F., Cathedral Peak, Jordan Creek
-Gps: 47°52’58” n 116°07’52” w
-RANGER DISTRICT:  Plains/Thompson Falls 406.826.3821
-​                                               CDA River Ranger District: 208.446.1300
-​KOOTENAI COUNTY SHERIFF: CALL 911 FIRST or 208.556.1114
-​Idaho panhandle national forest/alerts
-<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+# Cda River Tr 20
+
+*COEUR d’ALENE RIVER TRAIL #20*
 
 ## Description
 

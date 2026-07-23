@@ -1,20 +1,43 @@
+---
+tags:
+- Lakes
+- Strenous
+- Day Hiking
+- Backpacking
+- Scrambling
+- Climbing
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, scrambling & climbing
+- label: Distance
+  icon: map-marker-distance
+  value: 11.4 miles RT
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 2982’ verts
+- label: Difficulty
+  icon: speedometer
+  value: Strenous
+- label: Maps
+  icon: map
+  value: Kootenai N.F., Ibex Peak & Snowshoe Peaktopo
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°12’02" n 115°44’29" w
+- label: Libby Ranger District
+  icon: pine-tree
+  value: 406.293.7333
+- label: Lincoln County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 406.293.4112
+notes:
+- Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+---
+
 # Little Ibex Lake
 
-## Little ibex lake, trails # 978 & 980
-
----
-
-EVENT TYPE: Day hiking, backpacking, scrambling & climbing
-DISTANCE: 11.4 miles RT
-​ELEVATION GAIN: 2982’ verts
-DIFFICULTY: Strenous
-MAPS: Kootenai N.F., Ibex Peak & Snowshoe Peaktopo
-Gps: 48°12’02” n 115°44’29” w
-Libby Ranger District: 406.293.7333
-LINCOLN COUNTY SHERIFF: CALL 911 FIRST or 406.293.4112
-Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
-
----
+*Little ibex lake, trails # 978 & 980*
 
 ## Description
 

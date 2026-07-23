@@ -1,16 +1,35 @@
+---
+tags:
+- Winter & Skiing
+stats:
+- label: Phone
+  icon: phone
+  value: 509.238.2220
+- label: Acres
+  icon: vector-square
+  value: '1704'
+- label: Average Snow Fall
+  icon: weather-snowy-heavy
+  value: 200"
+- label: Summit Elevation
+  icon: terrain
+  value: 5889'
+- label: Base Elevation
+  icon: terrain
+  value: 4400'
+- label: Verts
+  icon: arrow-expand-vertical
+  value: 1689'
+---
+
 # Mount Spokane Ski  Snowboard Park
 
-## Mount spokane ski & snowboard park
+!!! warning "Before you go"
 
-## Spokane, wa
+    Mount spokane ski & snowboard park
+    Mountspokane.com
 
-Mountspokane.com
-Phone: 509.238.2220
-Acres: 1704
-​average snow fall: 200"
-Summit elevation: 5889'
-Base elevation: 4400'
-Verts: 1689'
+*Spokane, wa*
 
 ## of named runs: 52
 

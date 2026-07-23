@@ -1,22 +1,43 @@
+---
+tags:
+- Lakes
+- Hiking
+- Backpacking
+- Scrambling
+stats:
+- label: Event Type
+  icon: hiking
+  value: Hiking, backpacking & scrambling
+- label: Distance
+  icon: map-marker-distance
+  value: About 9.2 miles RT
+- label: Elevation Gain
+  icon: elevation-rise
+  value: To Beehive L 2041’ + 264’ to ridge between. Drop 475’ to L.H.L.
+- label: Acres
+  icon: vector-square
+  value: '2.6'
+- label: Difficulty
+  icon: speedometer
+  value: Moderate to Beehive Lake, Difficult to Little Harrison Lake
+- label: Maps
+  icon: map
+  value: IPNF-Kaniksu N.F., The Wigwams
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°39’41"n 116°39’18"w
+- label: Ranger District
+  icon: pine-tree
+  value: Sandpoint R.D. 208.263.5111
+- label: Bonner County Sheriff
+  icon: shield-account
+  value: 911 or 208.263.8417
+notes:
+- Idaho panhandle national forest/alerts
+- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Little Harrison Lake 6271  Peak 7292
-
-## Little harrison lake 6271'
-
----
-
-EVENT TYPE: Hiking, backpacking & scrambling
-DISTANCE: About 9.2 miles RT
-ELEVATION GAIN: To Beehive L 2041’ + 264’ to ridge between. Drop 475’ to L.H.L.
-​acres: 2.6
-DIFFICULTY: Moderate to Beehive Lake, Difficult to Little Harrison Lake
-MAPS: IPNF-Kaniksu N.F., The Wigwams
-Gps: 48°39’41”n 116°39’18”w
-RANGER DISTRICT:  Sandpoint R.D.  208.263.5111
-BONNER COUNTY SHERIFF: 911 or 208.263.8417
-Idaho panhandle national forest/alerts
-<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
 
 ## Description
 

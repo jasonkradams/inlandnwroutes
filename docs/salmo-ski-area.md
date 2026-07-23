@@ -1,16 +1,32 @@
-# Salmo Ski Area
-
-## Salmo ski hill     salmo, b.c
-
+---
+tags:
+- Winter & Skiing
+stats:
+- label: Phone
+  icon: phone
+  value: 250.357.2323
+- label: Acres
+  icon: vector-square
+  value: na
+- label: Average Snow Fall
+  icon: weather-snowy-heavy
+  value: 120"
+- label: Summit Elevation
+  icon: terrain
+  value: 3100'
+- label: Base Elevation
+  icon: terrain
+  value: 2100'
+- label: Verts
+  icon: arrow-expand-vertical
+  value: 1120'
+notes:
+- Skisalmo.com
 ---
 
-Skisalmo.com
-Phone: 250.357.2323
-Acres: na
-​average snow fall: 120"
-Summit elevation:  3100'
-Base elevation: 2100'
-Verts: 1120'
+# Salmo Ski Area
+
+*Salmo ski hill     salmo, b.c*
 
 ## of named runs: 5
 

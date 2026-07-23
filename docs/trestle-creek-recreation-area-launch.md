@@ -1,16 +1,23 @@
+---
+tags:
+- Paddling & Rivers
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: varies
+- label: Elevation
+  icon: terrain
+  value: 2067’
+- label: Length and Acreage
+  icon: vector-square
+  value: 148 square miles or 88,008 acres, 65 miles long, with 125 miles of shore
+    line, & 1150’ deep
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 48°16’33" n 116°20’49" w
+---
+
 # Trestle Creek Recreation Area Launch
-
-## Trestle creek recreation area launch
-
----
-
-PADDLE DISTANCE: varies
-Elevation: 2067’
-LENGTH AND ACREAGE: 148 square miles or 88,008 acres, 65 miles long, with 125 miles of shore line, & 1150’ deep
-Maps:
-Launch gps: 48°16’33” n 116°20’49” w
-
----
 
 ## Description
 

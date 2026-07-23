@@ -1,20 +1,41 @@
+---
+tags:
+- Peaks & Mountains
+- Easy to Moderate
+- Day Hiking
+- Mt Biking
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking and mt biking.
+- label: Distance
+  icon: map-marker-distance
+  value: 3 Miles RT to overlook. 9.6 miles to peak
+- label: Elevation
+  icon: terrain
+  value: na
+- label: Difficulty
+  icon: speedometer
+  value: Easy to moderate
+- label: Maps
+  icon: map
+  value: Farragut State Park brochures
+- label: GPS
+  icon: crosshairs-gps
+  value: Visitors Center. 47°57’05" N 116°36’09" W
+- label: Ranger District
+  icon: pine-tree
+  value: CDA River R.D. 208.769.3000
+- label: Kootenai County Sheriff
+  icon: shield-account
+  value: 911 or 208.446.1300
+notes:
+- Idaho panhandle national forest/alerts [https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)
+---
+
 # Bernard Peak Overlook
 
-## Bernard peak overlook & trail #37
-
----
-
-EVENT TYPE: Day hiking and mt biking.
-DISTANCE: 3 Miles RT to overlook. 9.6 miles to peak
-Elevation: na
-DIFFICULTY: Easy to moderate
-MAPS: Farragut State Park brochures
-GPS: Visitors Center. 47°57’05” N 116°36’09” W
-RANGER DISTRICT:  CDA River R.D.   208.769.3000
-KOOTENAI COUNTY SHERIFF: 911 or 208.446.1300
-Idaho panhandle national forest/alerts [​<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)
-
----
+*Bernard peak overlook & trail #37*
 
 ## Description
 

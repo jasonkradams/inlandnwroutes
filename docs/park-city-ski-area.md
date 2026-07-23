@@ -1,16 +1,32 @@
-# Park City Ski Area
-
-## Park city   mountain resort     park city, ut
-
+---
+tags:
+- Winter & Skiing
+stats:
+- label: Phone
+  icon: phone
+  value: 435.649.8111
+- label: Acres
+  icon: vector-square
+  value: 7300+
+- label: Average Snow Fall
+  icon: weather-snowy-heavy
+  value: 355"
+- label: Summit Elevation
+  icon: terrain
+  value: 10026'
+- label: Base Elevation
+  icon: terrain
+  value: 6880'
+- label: Verts
+  icon: arrow-expand-vertical
+  value: 3226'
+notes:
+- Parkcitymountain.com
 ---
 
-Parkcitymountain.com
-Phone: 435.649.8111
-Acres: 7300+
-​average snow fall: 355"
-Summit elevation:  10026'
-Base elevation: 6880'
-Verts: 3226'
+# Park City Ski Area
+
+*Park city   mountain resort     park city, ut*
 
 ## of named runs: 330
 

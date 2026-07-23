@@ -1,20 +1,46 @@
-# Revett Lake1
-
-## Revett lake, id-mt boarder
-
+---
+tags:
+- Lakes
+- Easy
+- Day Hiking
+- Backpacking
+- Scrambling
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, scrambling
+- label: Distance
+  icon: map-marker-distance
+  value: 4 miles RT
+- label: Elevation
+  icon: terrain
+  value: 500 verts
+- label: Acres
+  icon: vector-square
+  value: '20.2'
+- label: Difficulty
+  icon: speedometer
+  value: Easy
+- label: Maps
+  icon: map
+  value: IPNF, LOLO N.F., Burke, Thompson Pass topos
+- label: GPS
+  icon: crosshairs-gps
+  value: 47 °56’09’ n 115°75’10" w
+- label: Ranger District
+  icon: pine-tree
+  value: CDA River R.D. 208.769.3000
+- label: Shoshone County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.556.1114
+notes:
+- Idaho panhandle national forest/alerts
+- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
-EVENT TYPE: Day hiking, backpacking, scrambling
-​DISTANCE: 4 miles RT
-ELEVATION: 500 verts
-​acres: 20.2
-DIFFICULTY: Easy
-MAPS: IPNF, LOLO N.F., Burke, Thompson Pass topos
-Gps: 47 °56’09’ n 115°75’10” w
-RANGER DISTRICT:  CDA River R.D.   208.769.3000
-SHOSHONE COUNTY SHERIFF: CALL 911 FIRST or 208.556.1114
-Idaho panhandle national forest/alerts
-<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+# Revett Lake1
+
+*Revett lake, id-mt boarder*
 
 ## Description
 

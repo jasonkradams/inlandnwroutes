@@ -1,17 +1,28 @@
+---
+tags:
+- Lakes
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: 8.4 mile RT
+- label: Elevation
+  icon: terrain
+  value: 2123’
+- label: Length and Acreage
+  icon: vector-square
+  value: 2.4 miles long and 1200 acres
+- label: Maps
+  icon: map
+  value: Newman Lake Topo
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 47°46’22"n 117°05’07" w
+- label: Spokane County Sheriff
+  icon: shield-account
+  value: 509.477.2240
+---
+
 # Newman Lake Road
-
-## Newman lake road
-
----
-
-PADDLE DISTANCE: 8.4 mile RT
-Elevation: 2123’
-LENGTH AND ACREAGE: 2.4 miles long and 1200 acres
-MAPS: Newman Lake Topo
-Launch gps: 47°46’22”n 117°05’07” w
-Spokane county sheriff: 509.477.2240
-
----
 
 ## Description
 

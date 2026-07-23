@@ -1,22 +1,46 @@
+---
+tags:
+- Lakes
+- Hiking
+- Backpacking
+- Scrambling
+- Climbing
+stats:
+- label: Event Type
+  icon: hiking
+  value: Hiking, backpacking, scrambling and climbing
+- label: Distance
+  icon: map-marker-distance
+  value: Lake 2 miles RT, Gunsight Peak about 6 miles RT
+- label: Elevation Gain
+  icon: elevation-rise
+  value: Hunt Lake 525', Gunsight Peak 2062'
+- label: Acres
+  icon: vector-square
+  value: '13.9'
+- label: Difficulty
+  icon: speedometer
+  value: Hunt Lake Moderate, Gunsight Peak Difficult, Hunt Lake to Hunt Peak Difficult
+- label: Maps
+  icon: map
+  value: IPNF - Kaniksu N.F., USGS - Mt Roothaan, Idaho
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°35’3.4"n 116°43’4.6"w
+- label: Ranger District
+  icon: pine-tree
+  value: Sandpoint R.D. 208.263.5111
+- label: Bonner County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.263.8417
+notes:
+- Idaho panhandle national forest/alerts
+- h[ttps://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)
+---
+
 # Hunt Lake 5813 Gunsight Peak 7352
 
-## Hunt lake 5813' peak 6976' gunsight peak 7352' trail #1
-
----
-
-EVENT TYPE: Hiking, backpacking, scrambling and climbing
-DISTANCE: Lake 2 miles RT, Gunsight Peak about 6 miles RT
-ELEVATION GAIN: Hunt Lake 525', Gunsight Peak 2062'
-​acres: 13.9
-DIFFICULTY: Hunt Lake Moderate, Gunsight Peak Difficult, Hunt Lake to Hunt Peak Difficult
-MAPS: IPNF - Kaniksu N.F., USGS - Mt Roothaan, Idaho
-Gps: 48°35’3.4”n 116°43’4.6”w
-RANGER DISTRICT: Sandpoint R.D. 208.263.5111
-BONNER COUNTY SHERIFF: CALL 911 FIRST or 208.263.8417
-Idaho panhandle national forest/alerts
-h[ttps://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)
-
----
+*Hunt lake 5813' peak 6976' gunsight peak 7352' trail #1*
 
 ## Description
 
@@ -28,7 +52,7 @@ When you reach the first bench going up, as mentioned above, turn around and sho
 
 ## Directions
 
-From the East Shore Road drive 7.3 miles past Cavanaugh Bay to the Hunt Creek Road #24. Turn right (east) onto #24. Stay on #24 bearing left at the first “Y”. You will come to the old #24 and 241 sign and a ”Y”
+From the East Shore Road drive 7.3 miles past Cavanaugh Bay to the Hunt Creek Road #24. Turn right (east) onto #24. Stay on #24 bearing left at the first "Y". You will come to the old #24 and 241 sign and a "Y"
 
 The #241 sign has been replaced with a #243 wooden sign bolted over 241.
 
@@ -72,7 +96,7 @@ Jalapeños, Eichardt's, Mr Sub, Burger Express,  Sandpoint
 
 ![Picture](/assets/images/p620.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/p620_orig.png" }
 
-## Hikers on the “ trail” to hunt lake. notice the yellow/orange dot that marks the “route”
+## Hikers on the " trail" to hunt lake. notice the yellow/orange dot that marks the "route"
 
 ---
 

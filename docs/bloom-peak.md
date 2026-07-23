@@ -1,21 +1,45 @@
+---
+tags:
+- Peaks & Mountains
+- Easy
+- Day Hiking
+- Backpacking
+- Mt Biking
+- Equestrian
+- Photography
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, mt biking, equestrian, and photography
+- label: Distance
+  icon: map-marker-distance
+  value: varies
+- label: Elevation
+  icon: terrain
+  value: 161 Verts
+- label: Difficulty
+  icon: speedometer
+  value: easy
+- label: Maps
+  icon: map
+  value: IPNF, Burke & Bloom Peak topos
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°45’17" n 115°49’48" w
+- label: Ranger District
+  icon: pine-tree
+  value: CDA River R.D. 208.769.3000
+- label: Shoshone County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.556.1114
+notes:
+- Idaho panhandle national forest/alerts
+- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Bloom Peak
 
-## Bloom peak and ridge 5863’
-
----
-
-EVENT TYPE: Day hiking, backpacking, mt biking, equestrian, and photography
-DISTANCE: varies
-ELEVATION:  161 Verts
-DIFFICULTY: easy
-MAPS:  IPNF, Burke & Bloom Peak topos
-Gps: 47°45’17” n 115°49’48” w
-​RANGER DISTRICT:  CDA River R.D.    208.769.3000
-SHOSHONE COUNTY SHERIFF: CALL 911 FIRST or 208.556.1114
-Idaho panhandle national forest/alerts
-<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
+*Bloom peak and ridge 5863’*
 
 ## Description
 

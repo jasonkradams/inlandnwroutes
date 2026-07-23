@@ -42,7 +42,7 @@
 
 1. As of the 2000 census, the state population was approximately 5.9 million and the state work force numbered about 3.1 million.
 
-1. Residents are called “Washingtonians” (emphasis on the third syllable, pronounced as tone).
+1. Residents are called "Washingtonians" (emphasis on the third syllable, pronounced as tone).
 
 1. Washington is bounded by the Pacific Ocean to the west; Oregon to the south (the Columbia River forming most of this border); Idaho to the east and British Columbia, Canada to the north.
 
@@ -62,7 +62,7 @@
 
 1. Early prominent industries in the state included agriculture, lumber, shipping, fishing, salmon canning and mining.
 
-1. By the turn of the 20th century, Aberdeen had the distinction of being “the roughest town west of the Mississippi” because of excessive gambling, violence, extreme drug use and prostitution (the city remained off-limits to military personnel into the early 1980s).
+1. By the turn of the 20th century, Aberdeen had the distinction of being "the roughest town west of the Mississippi" because of excessive gambling, violence, extreme drug use and prostitution (the city remained off-limits to military personnel into the early 1980s).
 
 1. The region around eastern Puget Sound developed heavy industry during World War I and World War II, and the Boeing company became an established icon in the area.
 

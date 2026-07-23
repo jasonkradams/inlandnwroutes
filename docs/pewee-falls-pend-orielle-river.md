@@ -1,17 +1,31 @@
+---
+tags:
+- Waterfalls
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: 17.5 miles
+- label: River Elevation
+  icon: terrain
+  value: 1990’
+- label: Length and Acreage
+  icon: vector-square
+  value: na
+- label: Maps
+  icon: map
+  value: BLM maps & brochures, Colville National Forest, Metaline Falls & Boundary
+    Dam topos.
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 48°58’58"n 117°21’02" w
+- label: Pend Oreille County Sheriff
+  icon: shield-account
+  value: 509.447.3151
+---
+
 # Pewee Falls Pend Orielle River
 
-## Pewee falls, pend oreille river
-
----
-
-PADDLE DISTANCE: 17.5 miles
-River elevation: 1990’
-Length and acreage: na
-MAPS: BLM maps & brochures, Colville National Forest, Metaline Falls & Boundary Dam topos.
-Launch gps: 48°58’58”n 117°21’02” w
-​pend oreille county sheriff: 509.447.3151
-
----
+*Pewee falls, pend oreille river*
 
 ## Description
 
@@ -64,11 +78,11 @@ NA
 
 *Picture (Image missing)*
 
-## Ratt island, pend oreille river during low “tide”
+## Ratt island, pend oreille river during low "tide"
 
 ![Picture](/assets/images/11062021206p.jpg)
 
-## Ratt island during “high tide”
+## Ratt island during "high tide"
 
 ![Picture](/assets/images/20216101015.jpg)
 

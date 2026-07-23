@@ -1,20 +1,40 @@
+---
+tags:
+- Trails & Scrambles
+stats:
+- label: Genesis Name
+  icon: book-open-variant
+  value: Corallorhixa mertensiana
+- label: Distribution
+  icon: earth
+  value: wa, id, mt, co, or, ca. canada...b.c., al
+- label: Season
+  icon: calendar
+  value: Blooms May to August
+- label: Medical Use
+  icon: medical-bag
+  value: Native American ethnobotanical uses for Corallorhiza include remedies for
+    colds, pneumonia, and skin irritation
+- label: Poisonous
+  icon: skull-crossbones
+  value: na
+- label: Edibility
+  icon: food-apple
+  value: na
+- label: Features
+  icon: information-outline
+  value: Pacific Coralroot has no leaves or roots, and exists on fungal association.
+- label: Leaves
+  icon: leaf
+  value: this plant is leafless
+- label: Fruits
+  icon: fruit-cherries
+  value: na
+---
+
 # Mertens Coralroot
 
-## Marten's coralroot  aka pacific coralroot
-
----
-
-GENESIS NAME: Corallorhixa mertensiana
-Distribution: wa, id, mt, co, or, ca.   canada...b.c., al
-SEASON:  Blooms May to August
-MEDICAL USE:  Native American ethnobotanical uses for Corallorhiza include remedies for colds, pneumonia, and skin irritation
-Poisonous: na
-Edibility:na
-FEATURES: Pacific Coralroot has no leaves or roots, and exists on fungal association.
-LEAVES:  this plant is leafless
-Fruits: na
-
----
+*Marten's coralroot  aka pacific coralroot*
 
 ## Description
 

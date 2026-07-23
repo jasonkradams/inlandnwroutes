@@ -1,16 +1,25 @@
+---
+tags:
+- Paddling & Rivers
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: varies
+- label: Elevation
+  icon: terrain
+  value: 2067’
+- label: Length and Acreage
+  icon: vector-square
+  value: varies
+- label: Maps
+  icon: map
+  value: IPNF, Packsaddle Mountain topo
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 48°14’20" n 116°17’36" w
+---
+
 # Pringle Park Launch
-
-## Pringle park launch
-
----
-
-PADDLE DISTANCE: varies
-Elevation: 2067’
-LENGTH AND ACREAGE: varies
-MAPS:IPNF, Packsaddle Mountain topo
-Launch gps: 48°14’20” n 116°17’36” w
-
----
 
 ## Description
 

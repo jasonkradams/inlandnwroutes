@@ -1,21 +1,44 @@
+---
+tags:
+- Trails & Scrambles
+- All Routes Are Easy
+- Hiking
+- Auto Tour
+- Bird
+- Animal Viewing
+stats:
+- label: Event Type
+  icon: hiking
+  value: Hiking, auto tour, bird and animal viewing,
+- label: Distance
+  icon: map-marker-distance
+  value: Longest trail is 2.2 miles. Auto Tour is a 4.5 mile drive with pullouts.
+- label: Elevation
+  icon: terrain
+  value: Level 1787’ base elevation
+- label: Difficulty
+  icon: speedometer
+  value: All routes are easy
+- label: Maps
+  icon: map
+  value: Stop by the refuge headquarters for a brochure, viewing guide and restrooms.
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°42’25"n 116°24’54"w
+- label: Ranger District
+  icon: pine-tree
+  value: Bonners Ferry R.D. 208.267.5561
+- label: Boundary County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.267.3151
+notes:
+- Idaho panhandle national forest/alerts
+- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Kootenai Wlr
 
-## Kootenai national wildlife refuge
-
----
-
-EVENT TYPE: Hiking, auto tour, bird and animal viewing,
-DISTANCE: Longest trail is 2.2 miles. Auto Tour is a 4.5 mile drive with pullouts.
-ELEVATION:Level 1787’ base elevation
-DIFFICULTY: All routes are easy
-MAPS: Stop by the refuge headquarters for a brochure, viewing guide and restrooms.
-Gps: 48°42’25”n 116°24’54”w
-​RANGER DISTRICT:  Bonners Ferry R.D.   208.267.5561
-​BOUNDARY COUNTY SHERIFF: CALL 911 FIRST or 208.267.3151
-Idaho panhandle national forest/alerts
-<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
+*Kootenai national wildlife refuge*
 
 ## Description
 
@@ -39,9 +62,7 @@ The Myrtle Falls Trail is across from the headquarters to the west. It has its o
 The Myrtle Creek is spectacular in the winter. Don't miss it.
 There is a hazard here you must pay attention to.  at the falls overlook is an unprotected viewing area. please watch your children very carefully here.
 
-|  |  |
-| --- | --- |
-| Option #4 | --- |
+## Option #4
 
 The Auto Tour starts just north of the refuge headquarters parking area. This car tour is 4.5 miles long and circles the main body of the refuge. Along the way are viewing points and restrooms. While on the east side of the tour, near the restroom, look up and west. High above the refuge is Burton Peak. An abandon USFS lookout cabin sits on the east point of the Cascade Ridge.
 Please don’t hurry on this tour. The slower you go, the higher the odds of seeing wildlife, and enjoying the refuge ponds.

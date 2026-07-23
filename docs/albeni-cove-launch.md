@@ -1,17 +1,27 @@
+---
+tags:
+- Paddling & Rivers
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: varies
+- label: Elevation
+  icon: terrain
+  value: 2066’
+- label: Length and Acreage
+  icon: vector-square
+  value: varies
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 48°10’35" n 116°59’49" w
+- label: Bonner County Sheriff
+  icon: shield-account
+  value: 208.263.8417
+---
+
 # Albeni Cove Launch
 
-## Albeni cove launch, p.o. river
-
----
-
-PADDLE DISTANCE: varies
-Elevation: 2066’
-LENGTH AND ACREAGE: varies
-Maps:
-Launch gps: 48°10’35” n 116°59’49” w
-​Bonner county sheriff: 208.263.8417
-
----
+*Albeni cove launch, p.o. river*
 
 ## Description
 

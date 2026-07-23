@@ -21,7 +21,7 @@ What is the coldest its ever been in the northern Hemisphere?
 -90° at Verkhoyansk in northern Asia
 
 What is the longest rainiest period for place in the U.S.?
-68.25” at Baghdad, California.
+68.25" at Baghdad, California.
 
            weather trivia  (tm)
 
@@ -30,7 +30,7 @@ A.  July 20th
          weather/trivia
 
 What is the U.S. snowfall record?
-390” at Tamarack, California on 1.1911
+390" at Tamarack, California on 1.1911
 
 What is the snowfall record for one season?
 1,140’ at Mount Baker Ski Area, in the 1998-99.
@@ -62,11 +62,11 @@ Nature is within us.
 ​         chic    12.9.2024
 
 What weather record was set at Silver Lake, Colorado on 4.14.1921?
-The greatest 24 hour snowfall of 75.8”.
+The greatest 24 hour snowfall of 75.8".
 
             PerPlexity, AI
 
-Silver Lake, Colorado had 75.8” of snow on 4.15.1921.
+Silver Lake, Colorado had 75.8" of snow on 4.15.1921.
 This was the most intense snowfall in U.S. history.
 
 ​             weather trivia (tm)
@@ -274,11 +274,11 @@ What is the U.S. snowfall record for a 24 hour period?
 
 What is the U.S. snowfall record for one season?
 
-1114” or 92.8’ at Mount Baker Ski Area 1998-9 season.
+1114" or 92.8’ at Mount Baker Ski Area 1998-9 season.
 
 What is the U.S. snowfall record for one month?
 
-​360” or 30’ at Tamarack, Calif., 1911
+​360" or 30’ at Tamarack, Calif., 1911
 
 Doubt kills more dreams than failure ever will.
 
@@ -290,13 +290,13 @@ Over 3 billion
 
 Weathertrivia   (tm) spokesman-review 11.8.23
 
-“You don’t own cats,
-you love them.”
+"You don’t own cats,
+you love them."
 
 Marjory     (MOM, the sitcom)
 Mimi Kennedy
 
-Mt. Waileal in Hawaii averages 472” of rain per year.
+Mt. Waileal in Hawaii averages 472" of rain per year.
 ​
 
 One inch of water on one acre of land weights 110 Tons.

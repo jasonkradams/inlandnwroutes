@@ -1,21 +1,43 @@
+---
+tags:
+- Trails & Scrambles
+- Easy
+- Day Hike
+- Backpack
+- Fire Lookout Rental
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hike, backpack, fire lookout rental
+- label: Distance
+  icon: map-marker-distance
+  value: 1.3 miles one way from gate. Check to see if you can get a key for the gate.
+- label: Elevation
+  icon: terrain
+  value: 500 verts from gate to lookout
+- label: Difficulty
+  icon: speedometer
+  value: Easy
+- label: Maps
+  icon: map
+  value: IPNF, Pond Peak topo
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°47’52" n 116°00’21" w
+- label: Ranger District
+  icon: pine-tree
+  value: CDA River vR.D. 208.769.3000
+- label: Shoshone County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.556.1114
+notes:
+- Idaho panhandle national forest/alerts
+- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Little Guard Lookout
 
-## Little guard lookout rental 6031’
-
----
-
-EVENT TYPE: Day hike, backpack, fire lookout rental
-DISTANCE: 1.3 miles one way from gate. Check to see if you can get a key for the gate.
-ELEVATION: 500 verts from gate to lookout
-DIFFICULTY: Easy
-MAPS: IPNF, Pond Peak topo
-Gps: 47°47’52” n 116°00’21” w
-RANGER DISTRICT:  CDA River vR.D.   208.769.3000
-SHOSHONE COUNTY SHERIFF: CALL 911 FIRST or 208.556.1114
-​Idaho panhandle national forest/alerts
-<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
+*Little guard lookout rental 6031’*
 
 ## Description
 

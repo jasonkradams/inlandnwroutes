@@ -1,19 +1,40 @@
+---
+tags:
+- Peaks & Mountains
+- Moderately Difficult from Abercrombie
+- Day Hiking
+- Backpacking
+- Equestrian
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, and equestrian.
+- label: Elevation
+  icon: terrain
+  value: 2000'
+- label: Distance
+  icon: map-marker-distance
+  value: 8.4 miles RT from Abercrombie.
+- label: Difficulty
+  icon: speedometer
+  value: moderately difficult from Abercrombie
+- label: Maps
+  icon: map
+  value: Colville N.F., Abercrombie Topo
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°56’36"n 117°25’49" w
+- label: Managing Agency
+  icon: domain
+  value: Three Rivers R.D. 509.738.6111
+- label: Pend Orielle County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 509.447.3151
+---
+
 # Hooknose Mountain
 
-## Hooknose mountain 7210’
-
----
-
-EVENT TYPE: Day hiking, backpacking, and equestrian.
-Elevation: 2000'
-DISTANCE: 8.4 miles RT from Abercrombie.
-DIFFICULTY: moderately difficult from Abercrombie
-MAPS: Colville N.F., Abercrombie Topo
-Gps: 48°56’36”n 117°25’49” w
-​MANAGING AGENCY:  Three Rivers R.D.  509.738.6111
-​PEND ORIELLE COUNTY SHERIFF: CALL 911 FIRST or 509.447.3151
-
----
+*Hooknose mountain 7210’*
 
 ## Description
 

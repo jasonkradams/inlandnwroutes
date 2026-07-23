@@ -1,20 +1,45 @@
+---
+tags:
+- Trails & Scrambles
+- Easy
+- Day Hiking
+- Backpacking
+- Equestrian
+- Photography
+- History
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, equestrian, photography, and history
+- label: Distance
+  icon: map-marker-distance
+  value: 6.4 miles RT
+- label: Elevation
+  icon: terrain
+  value: 530’
+- label: Difficulty
+  icon: speedometer
+  value: Easy
+- label: Maps
+  icon: map
+  value: BLM District Maps, Hoon Lake & Revere topos
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°00’85"n 117°56’61" w
+- label: Managing Agency
+  icon: domain
+  value: blm. 509.536.1200
+- label: Whitman County Sheriff
+  icon: shield-account
+  value: 509.397.6266
+- label: Adams County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 509.754.2011
+---
+
 # Escure Ranch
 
-## Escure ranch & towell falls
-
----
-
-EVENT TYPE: Day hiking, backpacking, equestrian, photography, and history
-DISTANCE: 6.4 miles RT
-Elevation: 530’
-DIFFICULTY: Easy
-MAPS: BLM District Maps, Hoon Lake & Revere topos
-Gps: 47°00’85”n 117°56’61” w
-​managing agency:  blm. 509.536.1200
-Whitman county sheriff: 509.397.6266
-​ADAMS COUNTY SHERIFF: CALL 911 FIRST or 509.754.2011
-
----
+*Escure ranch & towell falls*
 
 ## Description
 

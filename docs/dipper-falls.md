@@ -1,17 +1,28 @@
+---
+tags:
+- Waterfalls
+stats:
+- label: Waterfall
+  icon: waterfall
+  value: Dipper Falls & an unnamed falls next to Hub Lake
+- label: Drop
+  icon: arrow-collapse-down
+  value: 60'
+- label: Waterfall Type
+  icon: waterfall
+  value: Tiered
+- label: Distance Car to Falls
+  icon: map-marker-distance
+  value: 1.4 miles from trailhead
+- label: Maps
+  icon: map
+  value: Lolo N.F., DeBorgia topo
+- label: GPS
+  icon: crosshairs-gps
+  value: ??°??’??" n ???°??’??" w unknown
+---
+
 # Dipper Falls
-
-## Dipper falls
-
----
-
-WATERFALL : Dipper Falls & an unnamed falls next to Hub Lake
-Drop: 60'
-WATERFALL TYPE:  Tiered
-​DISTANCE CAR TO FALLS:  1.4 miles from trailhead
-MAPS: Lolo N.F., DeBorgia topo
-Gps: ??°??’??” n ???°??’??” w unknown
-
----
 
 ## Description
 

@@ -1,21 +1,43 @@
+---
+tags:
+- Peaks & Mountains
+- Difficult
+- Day Hiking
+- Backpacking
+- Scenery
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, scenery, and possibly mt biking for the hearty.
+- label: Distance
+  icon: map-marker-distance
+  value: 14 miles RT
+- label: Elevation
+  icon: terrain
+  value: Less then 3000’
+- label: Difficulty
+  icon: speedometer
+  value: Difficult
+- label: Maps
+  icon: map
+  value: IPNF, Pyramid Peak topo
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°9’8" n 116°31’31" w
+- label: Ranger District
+  icon: pine-tree
+  value: Bonners Ferry R.D. 208.267.5561
+- label: Boundary County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.267.3151
+notes:
+- Idaho panhandle national forest/alerts
+- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Fisher Peak Trail 27
 
-## Fisher peak 7580’ trail #27
-
----
-
-EVENT TYPE: Day hiking, backpacking, scenery, and possibly mt biking for the hearty.
-DISTANCE: 14 miles RT
-ELEVATION: Less then 3000’
-DIFFICULTY GAIN: Difficult
-MAPS: IPNF, Pyramid Peak topo
-Gps: 48°9’8” n 116°31’31” w
-RANGER DISTRICT: Bonners Ferry R.D. 208.267.5561
-​BOUNDARY COUNTY SHERIFF: CALL 911 FIRST or 208.267.3151
-Idaho panhandle national forest/alerts
-<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
+*Fisher peak 7580’ trail #27*
 
 ## Description
 

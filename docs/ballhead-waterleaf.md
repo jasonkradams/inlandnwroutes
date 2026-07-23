@@ -1,24 +1,42 @@
+---
+tags:
+- Trails & Scrambles
+stats:
+- label: Genesis Name
+  icon: book-open-variant
+  value: Hydrophylium capitatum
+- label: Distribution
+  icon: earth
+  value: u.s.a...wa, id, mt, or, wy, co, ca, nv, ut. canada...bc, al
+- label: Season
+  icon: calendar
+  value: Flowers May to July
+- label: Poisonous
+  icon: skull-crossbones
+  value: 'no'
+- label: Edibility
+  icon: food-apple
+  value: Ballhead waterleaf is **another edible plant**. It is shorter, found on the
+    Western Slope, and bears its ball-shaped flowers under its fuzzy foliage
+- label: Leaves
+  icon: leaf
+  value: All of the waterleaf species are fibrous-rooted perennials with bell-shaped
+    white to purple flowers and stamens that extend well beyond the rim of the corolla.
+    ... The flowers are usually clustered into a ball-like head borne amid or well
+    above the **pinnately lobed leaves**.
+- label: Fruits
+  icon: fruit-cherries
+  value: capsules with 1-3 seeds.
+notes:
+- '.FEATURES: A low plant with round heads of small, white or pale purple flowers
+  on short stalks among pinnately divided leaves.'
+---
+
 # Ballhead Waterleaf
-
-## Ballhead waterleaf
-
----
-
-GENESIS NAME:  Hydrophylium capitatum
-Distribution:  u.s.a...wa, id, mt, or, wy, co, ca, nv, ut.  canada...bc, al
-SEASON:  Flowers May to July
-Medical use:
-Poisonous:  no
-Edibility:  Ballhead waterleaf is **another edible plant**. It is shorter, found on the Western Slope, and bears its ball-shaped flowers under its fuzzy foliage
-.FEATURES:  A low plant with round heads of small, white or pale purple flowers on short stalks among pinnately divided leaves.
-​leaves:   All of the waterleaf species are fibrous-rooted perennials with bell-shaped white to purple flowers and stamens that extend well beyond the rim of the corolla. ... The flowers are usually clustered into a ball-like head borne amid or well above the **pinnately lobed leaves**.
-FRUITS: capsules with 1-3 seeds.
-
----
 
 ## Description
 
-The genus *Hydrophyllum* contains just eight species, all native to North America. Linnaeus came up with the name based on two Greek words meaning “waterleaf”, a term that has also persisted as the common name. One of the common eastern species, *H. virginianum*, can have water-like splotches on the leaves in early summer, a character that apparently inspired the name. All of the waterleaf species are fibrous-rooted perennials with bell-shaped white to purple flowers and stamens that extend well beyond the rim of the corolla. The flowers are usually clustered into a ball-like head borne amid or well above the pinnately lobed leaves. Waterleaf species might be confused with phacelias (genus *Phacelia*), which tend to have flowers in coiled clusters resembling the tail of a scorpion and are often either annual or have taproots.
+The genus *Hydrophyllum* contains just eight species, all native to North America. Linnaeus came up with the name based on two Greek words meaning "waterleaf", a term that has also persisted as the common name. One of the common eastern species, *H. virginianum*, can have water-like splotches on the leaves in early summer, a character that apparently inspired the name. All of the waterleaf species are fibrous-rooted perennials with bell-shaped white to purple flowers and stamens that extend well beyond the rim of the corolla. The flowers are usually clustered into a ball-like head borne amid or well above the pinnately lobed leaves. Waterleaf species might be confused with phacelias (genus *Phacelia*), which tend to have flowers in coiled clusters resembling the tail of a scorpion and are often either annual or have taproots.
 Ballhead waterleaf (*Hydrophyllum capitatum*) has short stems and a dense cluster of purple or whitish flowers that are typically much shorter than the basal leaves. These flowers open from May to July, depending on elevation. In bud, the sepals and petals appear coarsely fuzzy, prompting another common name of woollen-breeches. The cluster of flowers can occur along the short, leafy stem, or right at the ground surface, depending on the variety (taxonomists recognize three varieties). Having flowers and fruits at ground level is often correlated with distribution of seeds by ants.
 Ballhead waterleaf ranges across much of western North America, from British Columbia and Alberta to central California, Utah, and Colorado. It is often found in areas of bare soil or in thickets, forest openings, or moist slopes from the foothills up to nearly the upper tree line. In the past, Native Americans and pioneer settlers gathered the tender young shoots and fleshy-fibrous roots as a source of food.
 Traditionally, *Hydrophyllum*, *Phacelia*, and related genera have been placed in the Hydrophyllaceae family. The family has usually been considered closely allied with the phloxes (Polemoniaceae), nightshades (Solanaceae), and morning glories (Convolvulaceae) based on floral and fruit similarities. Recent studies emphasizing chemistry and genetics suggest that Hydrophyllaceae should be lumped with the borage family (Boraginaceae). This proposal remains controversial, as the two groups differ significantly in fruit anatomy. More research is needed to resolve the issue.

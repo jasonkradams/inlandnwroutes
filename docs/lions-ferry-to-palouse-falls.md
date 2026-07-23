@@ -1,19 +1,39 @@
+---
+tags:
+- Waterfalls
+- Moderate
+- Day Hiking
+- Equestrian
+stats:
+- label: Event Type
+  icon: waterfall
+  value: Day hiking, equestrian
+- label: Distance
+  icon: map-marker-distance
+  value: 6-8 miles one way
+- label: Elevation
+  icon: terrain
+  value: 354 verts
+- label: Difficulty
+  icon: speedometer
+  value: Moderate
+- label: Maps
+  icon: map
+  value: Starbuck West
+- label: GPS
+  icon: crosshairs-gps
+  value: 46°35’49" n 118°13’10" w
+- label: Managing Agency
+  icon: domain
+  value: w.s.p. & r 509.646.3229
+- label: Franklin County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 509.536.1200
+---
+
 # Lions Ferry To Palouse Falls
 
-## Lyons ferry s.p. to palouse falls s.p
-
----
-
-EVENT TYPE: Day hiking, equestrian
-DISTANCE: 6-8 miles one way
-ELEVATION: 354 verts
-DIFFICULTY: Moderate
-MAPS: Starbuck West
-Gps: 46°35’49” n 118°13’10” w
-​managing agency: w.s.p. & r   509.646.3229
-​FRANKLIN COUNTY SHERIFF: CALL 911 FIRST or 509.536.1200
-
----
+*Lyons ferry s.p. to palouse falls s.p*
 
 ## Description
 
@@ -23,7 +43,7 @@ Continue south on Hwy 261 past Palouse Falls to Lyons Ferry S.P., and look for t
 From the parking area, hike NE along the high bluffs overlooking the Palouse River.
 You must pay attention to the faint trail that follows the Palouse River all the way to Palouse Falls.
 Enjoy your lunch about mid way, with great views of the Palouse River.
-Remember, as long as you can see the river or it’s gorge, you are on the “trail”.
+Remember, as long as you can see the river or it’s gorge, you are on the "trail".
 Once at Palouse Falls, send the drivers of the cars at Lyons Ferry, down for the cars.
 
 ## Directions

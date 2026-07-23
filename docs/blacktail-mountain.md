@@ -1,20 +1,42 @@
+---
+tags:
+- Peaks & Mountains
+- Moderately Difficult
+- Day Hiking
+- Backpacking
+- Equestrian
+stats:
+- label: Event Type
+  icon: hiking
+  value: day hiking, backpacking, and equestrian.
+- label: Distance
+  icon: map-marker-distance
+  value: 3.6 miles RT
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 1295’
+- label: Difficulty
+  icon: speedometer
+  value: moderately difficult
+- label: Maps
+  icon: map
+  value: Priest Lake NW, Upper Priest Lake
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°42’43" n 116°55’05"
+- label: Ranger District
+  icon: pine-tree
+  value: Priest River R.D. 208.443.2512
+- label: Bonner County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.263.8417
+notes:
+- Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Blacktail Mountain
 
-## Blacktail mountain 5495' trail #292
-
----
-
-EVENT TYPE: day hiking, backpacking, and equestrian.
-DISTANCE: 3.6 miles RT
-Elevation gain: 1295’
-DIFFICULTY: moderately difficult
-MAPS: Priest Lake NW, Upper Priest Lake
-Gps: 48°42’43” n 116°55’05”
-RANGER DISTRICT: Priest River R.D. 208.443.2512
-BONNER COUNTY SHERIFF: CALL 911 FIRST or 208.263.8417
-Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
+*Blacktail mountain 5495' trail #292*
 
 ## Description
 
@@ -33,7 +55,7 @@ The trail may be a little steep, but it’s only 3.6 miles RT. Take your kids wi
 
 ## Directions
 
-From Priest River, drive north on Hwy 57 past Nordman where it merges with FR #302 at about 37 miles. After about 3  miles on 302 the pavement ends. Turn right (North) onto Tango Creek Road F.R. #638. At about a mile, there’s a “Y” in the road, bear left, staying on 638 up to the saddle in about 4.2 miles where you can park. If you get to a sharp right turn, you've gone .1 miles too far. The parking area is on the right as the road drops towards the hairpin turn.
+From Priest River, drive north on Hwy 57 past Nordman where it merges with FR #302 at about 37 miles. After about 3  miles on 302 the pavement ends. Turn right (North) onto Tango Creek Road F.R. #638. At about a mile, there’s a "Y" in the road, bear left, staying on 638 up to the saddle in about 4.2 miles where you can park. If you get to a sharp right turn, you've gone .1 miles too far. The parking area is on the right as the road drops towards the hairpin turn.
 
 There are two 638. its a loop road. Drive past the first 638 to a road sign says #638 to the right. 
 
@@ -117,4 +139,4 @@ When you drop your pack and turn east, the view is outstanding. ​the entire am
 
 ## The last view before you descend thru the forest
 
-We walk to the summits, not only “because it’s there”, but to see where else we want to go play next. ​ chic     1.2.2025
+We walk to the summits, not only "because it’s there", but to see where else we want to go play next. ​ chic     1.2.2025

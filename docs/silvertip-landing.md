@@ -1,17 +1,18 @@
+---
+tags:
+- Trails & Scrambles
+stats:
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+- label: Benewah County Sheriff
+  icon: shield-account
+  value: 208.245.2555
+---
+
 # Silvertip Landing
 
-## Silver tip landing
-
----
-
-Paddle distance: 
-Elevation: 
-Length and acreage: 
-Maps:
-Launch gps: ??° ??’ ??.?”n ???° ??’ ??.?”w
-​​benewah county sheriff: 208.245.2555
-
----
+*Silver tip landing*
 
 ## Description
 

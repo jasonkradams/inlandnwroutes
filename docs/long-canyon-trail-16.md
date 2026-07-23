@@ -1,21 +1,42 @@
+---
+tags:
+- Trails & Scrambles
+- Difficult+
+- Hike
+- Backpack
+- Mountain Bike
+stats:
+- label: Event Type
+  icon: hiking
+  value: Hike, Backpack and Mountain Bike
+- label: Distance
+  icon: map-marker-distance
+  value: 19 miles one way (seems like A LOT MORE). (Pyramid Pass 2.7 miles and 1300
+    vents
+- label: Elevation
+  icon: terrain
+  value: 4750'+ gain or loss
+- label: Difficulty
+  icon: speedometer
+  value: Difficult+
+- label: Maps
+  icon: map
+  value: 'IPNF-Kaniksu N. F., USGS: Smith Peak, Pyramid Peak, Shorty Peak'
+- label: GPS
+  icon: crosshairs-gps
+  value: n48° 57’ 20.7" w116° 32’ 43.3"
+- label: Ranger District
+  icon: pine-tree
+  value: Bonners Ferry R.D. 2-8.267.5561
+- label: Boundary County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.267.3151
+notes:
+- Idaho panhandle national forest/alerts
+- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Long Canyon Trail 16
-
-## Long canyon trail #16
-
----
-
-EVENT TYPE: Hike, Backpack and Mountain Bike
-DISTANCE: 19 miles one way (seems like A LOT MORE).  (Pyramid  Pass 2.7 miles and  1300 vents
-ELEVATION: 4750'+ gain or loss
-DIFFICULTY: Difficult+
-MAPS: IPNF-Kaniksu N. F., USGS: Smith Peak, Pyramid Peak, Shorty Peak
-Gps: n48° 57’ 20.7” w116° 32’ 43.3”
-Ranger district:  Bonners Ferry R.D.   2-8.267.5561
-​BOUNDARY COUNTY SHERIFF: CALL 911 FIRST or 208.267.3151
-Idaho panhandle national forest/alerts
-<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
 
 ## Description
 
@@ -29,7 +50,7 @@ From the Pyramid-Ball Lakes trailhead, head up Trail #13 for 1/2 a mile and bear
 ***Mountain Biking***
 Start at the Pyramid-Ball Lakes trailhead and ride/push/carry your bike to Pyramid Pass.
 
-Have a snack here, because there are 52 switchbacks to tackle before the trail “levels” out.
+Have a snack here, because there are 52 switchbacks to tackle before the trail "levels" out.
 
 ## Directions
 

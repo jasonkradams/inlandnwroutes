@@ -1,19 +1,40 @@
+---
+tags:
+- Peaks & Mountains
+- Moderately Difficult
+- Day Hiking
+- Backpacking
+- Equestrian
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, and equestrian
+- label: Distance
+  icon: map-marker-distance
+  value: 6.5 miles RT
+- label: Elevation
+  icon: terrain
+  value: 1750’
+- label: Difficulty
+  icon: speedometer
+  value: moderately difficult
+- label: Maps
+  icon: map
+  value: Colville N. F., Salmo-Priest Wilderness, Gypsy Peak Topo
+- label: GPS
+  icon: crosshairs-gps
+  value: Trailhead 48°55’ 04" N 117°08’ 37" W
+- label: Managing Agency
+  icon: domain
+  value: Sullivan Lake R.D. 509.446.7500
+- label: Pend Orielle County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 509.447.3151
+---
+
 # Gypsy Peak
 
-## Gypsy peak trail #435 ​salmo-priest wilderness
-
----
-
-EVENT TYPE: Day hiking, backpacking, and equestrian
-DISTANCE: 6.5 miles RT
-Elevation: 1750’
-DIFFICULTY: moderately difficult
-MAPS: Colville N. F., Salmo-Priest Wilderness, Gypsy Peak Topo
-GPS: Trailhead 48°55’ 04” N 117°08’ 37” W
-​MANAGING AGENCY:  Sullivan Lake R.D.  509.446.7500
-PEND ORIELLE COUNTY SHERIFF: CALL 911 FIRST or 509.447.3151
-
----
+*Gypsy peak trail #435 ​salmo-priest wilderness*
 
 ## Description
 
@@ -44,7 +65,7 @@ Crowell Ridge South, Sullivan Lake & the shore line trail, Elk Creek Falls, Hall
 
 There is no water on this hike from shortly after leaving the trailhead, except at Watch Lake. Be aware, it’s several hundred rugged feet down to the lake. I often take extra water on my, out and back hikes, and leave a bottle at key locations, so I don’t have to carry it all the way.
 However, mark your stash spot well.
-The “trail” along Crowell Ridge is faint in some areas, but knowing you stay on the ridge top all the way, with some prominences to skirt, it’s a straight forward hike.
+The "trail" along Crowell Ridge is faint in some areas, but knowing you stay on the ridge top all the way, with some prominences to skirt, it’s a straight forward hike.
 
 ## R & p
 

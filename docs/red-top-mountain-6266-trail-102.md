@@ -1,21 +1,39 @@
+---
+tags:
+- Peaks & Mountains
+- Hiking
+- Backpacking
+stats:
+- label: Event Type
+  icon: hiking
+  value: Hiking and Backpacking
+- label: Distance
+  icon: map-marker-distance
+  value: 1 mile to Hidden Lake one way and 7.5 miles RT to Red Top
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 1275'
+- label: Difficulty
+  icon: speedometer
+  value: Easy to the lake and moderate to the peak
+- label: Maps
+  icon: map
+  value: IPNF - Kaniksu N.F., USGS - Grass Mt. and Shorty Peak
+- label: GPS
+  icon: crosshairs-gps
+  value: 48° 54’ 49.0"n 116° 41’ 06.6"w
+- label: Ranger District
+  icon: pine-tree
+  value: Bonners Ferry R.D. 208.267.5561
+- label: Boundary County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.67.3151
+notes:
+- Idaho panhandle national forest/alerts
+- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Red Top Mountain 6266 Trail 102
-
-## Red top mountain 6266' trail #102
-
----
-
-EVENT TYPE: Hiking and Backpacking
-DISTANCE: 1 mile to Hidden Lake one way and 7.5 miles RT to Red Top
-Elevation gain: 1275'
-DIFFICULTY: Easy to the lake and moderate to the peak
-MAPS: IPNF - Kaniksu N.F., USGS - Grass Mt. and Shorty Peak
-Gps: 48° 54’ 49.0”n 116° 41’ 06.6”w
-RANGER DISTRICT:  Bonners Ferry R.D.   208.267.5561
-BOUNDARY COUNTY SHERIFF: CALL 911 FIRST or 208.67.3151
-Idaho panhandle national forest/alerts
-<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
 
 ## Description
 

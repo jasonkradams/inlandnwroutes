@@ -1,17 +1,28 @@
+---
+tags:
+- Trails & Scrambles
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: about 4.5 miles
+- label: Elevation
+  icon: terrain
+  value: 2320’
+- label: Length and Acreage
+  icon: vector-square
+  value: 4.5 miles and 1202 acres
+- label: Maps
+  icon: map
+  value: Kootenai N.F., Bull Lake Topo
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: ', 48°16’20" n 115°513". w'
+- label: Lincoln County Sheriff
+  icon: shield-account
+  value: 406.293.4112
+---
+
 # Dorr Skeels Camp Ground
-
-## Dorr skeels camp ground
-
----
-
-PADDLE DISTANCE: about 4.5 miles
-Elevation: 2320’
-LENGTH AND ACREAGE: 4.5 miles and 1202 acres
-MAPS:Kootenai N.F., Bull Lake Topo
-Launch gps:, 48°16’20” n 115°513”. w
-​Lincoln county sheriff: 406.293.4112
-
----
 
 ## Description
 

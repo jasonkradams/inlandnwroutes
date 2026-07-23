@@ -1,17 +1,27 @@
+---
+tags:
+- Paddling & Rivers
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: varies
+- label: Elevation
+  icon: terrain
+  value: 2067’
+- label: Length and Acreage
+  icon: vector-square
+  value: varies
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 48°15’02" n. 116°18’55" w
+- label: Bonner County Sheriff
+  icon: shield-account
+  value: 208.263.8417
+---
+
 # Hope Launch
 
-## Hope boat launch
-
----
-
-PADDLE DISTANCE: varies
-Elevation: 2067’
-LENGTH AND ACREAGE: varies
-Maps:
-Launch gps: 48°15’02” n. 116°18’55” w
-​Bonner county sheriff: 208.263.8417
-
----
+*Hope boat launch*
 
 ## Description
 

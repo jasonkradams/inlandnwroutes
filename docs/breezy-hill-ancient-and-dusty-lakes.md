@@ -1,19 +1,40 @@
+---
+tags:
+- Lakes
+- Moderately Easy
+- Day Hiking
+- Mt Biking
+- Wandering
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, mt biking, wandering
+- label: Distance
+  icon: map-marker-distance
+  value: About 2.2 miles RT
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 400’
+- label: Difficulty
+  icon: speedometer
+  value: Moderately easy
+- label: Maps
+  icon: map
+  value: Monument Hill, Ephrata SW, and at nature.com/Washington
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°09’36 N 119°58’50" W Trailhead
+- label: Managing Agency
+  icon: domain
+  value: Washington Nature Conservancy 206.343.4345
+- label: Grant County Sheriff
+  icon: shield-account
+  value: 911 or 509.754.2011
+---
+
 # Breezy Hill Ancient And Dusty Lakes
 
-## Breezy hill, ancient lake, dusty lake
-
----
-
-EVENT TYPE: Day hiking, mt biking, wandering
-DISTANCE: About 2.2 miles RT
-Elevation gain: 400’
-DIFFICULTY: Moderately easy
-MAPS: Monument Hill, Ephrata SW, and at nature.com/Washington
-GPS: 47°09’36 N 119°58’50” W Trailhead
-MANAGING AGENCY:  Washington Nature Conservancy  206.343.4345
-GRANT COUNTY SHERIFF: 911 or 509.754.2011
-
----
+*Breezy hill, ancient lake, dusty lake*
 
 ## Description
 

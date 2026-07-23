@@ -1,21 +1,41 @@
+---
+tags:
+- Peaks & Mountains
+- Difficult
+- Hiking
+- Backcountry Skiing
+- Snowshoeing
+stats:
+- label: Event Type
+  icon: hiking
+  value: Hiking, Backcountry Skiing, Snowshoeing
+- label: Distance
+  icon: map-marker-distance
+  value: 9.3 Miles RT
+- label: Elevation
+  icon: terrain
+  value: 2878 verts gain
+- label: Difficulty
+  icon: speedometer
+  value: Difficult
+- label: Maps
+  icon: map
+  value: USGS - IPNF, St. Joe N.F., & Mullan, Idaho topo
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°25'34.5"n 115°46'20.6"w
+- label: Ranger District
+  icon: pine-tree
+  value: CDA River R.D. 208.769.3000
+- label: Shoshone County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.556.1114
+notes:
+- Idaho panhandle national forest/alerts
+- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Stevens Peak Via West Willow Ridge 6838
-
-## Stevens peak 6838'
-
----
-
-EVENT TYPE: Hiking, Backcountry Skiing, Snowshoeing
-DISTANCE: 9.3 Miles RT
-ELEVATION: 2878 verts gain
-DIFFICULTY: Difficult
-MAPS: USGS - IPNF, St. Joe N.F., & Mullan, Idaho topo
-Gps: 47°25'34.5"n 115°46'20.6"w
-​RANGER DISTYRICT:  CDA River R.D.   208.769.3000
-SHOSHONE COUNTY SHERIFF: CALL 911 FIRST or 208.556.1114
-Idaho panhandle national forest/alerts
-<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
 
 ## Description
 
@@ -35,7 +55,7 @@ From Gold Hill to West Willow Ridge road it’s about 2.8 miles, and a total of 
 ## Option #2
 
 Boulder creek route:
-​Park at a small parking area above the top road to the Cemetery south of Mullan and follow Boulder Creek about 2 miles to a “basin”. ( Meaning no longer on the road up.)
+​Park at a small parking area above the top road to the Cemetery south of Mullan and follow Boulder Creek about 2 miles to a "basin". ( Meaning no longer on the road up.)
 Then work your way left (SE) before heading straight up hill to West Willow Ridge at about 2.6 miles. Turn right and walk about 1.6 miles to Stevens Peak.
 This route is best in the winter for hiking/snowshoeing and backcountry skiing. In the non snow season, it’s a difficult route to find up thru the woods.
 
@@ -48,7 +68,7 @@ Drop a car at the Cemetery south of Mullan and continue east to the St. Regis La
 
 ## Directions
 
-From Spokane take I-90 east to Mullan, Idaho exit #69. Turn left over the freeway to a stop sign. Turn right on Friday Road, past the Lucky Friday Mine and head east bearing right at the “Y” and follow to where it crosses over I-90 on the Willow Creek Overpass. Forest Road # 80008 heads south for .9 of a mile on a good dirt road to the Stevens Lakes/Lone Lake trailheads.. The Stevens and Lone Lake trail head is at a bend in the old rail road grade and it has a vault toilet. There is a smaller upper parking area at GPS: 47°27'03” N 115°46'06 W. Follow the road up West Willow Creek for approximately one mile and park there. DO NOT GO WEST UP A VERY OLD ROAD. Take the Lone Lake Trail DUE SOUTH for a little over .1 of a mile, until you reach the first road/trail off to the right with a cairn marker. Take that road until you gain the ridge line. As you walk up the faint trail, it will connect with a wider road to the right. Up near the top is an old blue skidder, abandoned on the road. In a short distance you will summit the ridge on an ORV trail. From there follow the ridge south over 5 steep bumps along the road to where the ridge steepness eases up.
+From Spokane take I-90 east to Mullan, Idaho exit #69. Turn left over the freeway to a stop sign. Turn right on Friday Road, past the Lucky Friday Mine and head east bearing right at the "Y" and follow to where it crosses over I-90 on the Willow Creek Overpass. Forest Road # 80008 heads south for .9 of a mile on a good dirt road to the Stevens Lakes/Lone Lake trailheads.. The Stevens and Lone Lake trail head is at a bend in the old rail road grade and it has a vault toilet. There is a smaller upper parking area at GPS: 47°27'03" N 115°46'06 W. Follow the road up West Willow Creek for approximately one mile and park there. DO NOT GO WEST UP A VERY OLD ROAD. Take the Lone Lake Trail DUE SOUTH for a little over .1 of a mile, until you reach the first road/trail off to the right with a cairn marker. Take that road until you gain the ridge line. As you walk up the faint trail, it will connect with a wider road to the right. Up near the top is an old blue skidder, abandoned on the road. In a short distance you will summit the ridge on an ORV trail. From there follow the ridge south over 5 steep bumps along the road to where the ridge steepness eases up.
 
 ---
 

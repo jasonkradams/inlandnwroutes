@@ -1,16 +1,30 @@
-# Kimberrly Alpine Resort
-
-## Kimberly alpine resort,  kimberly, b.c
-
+---
+tags:
+- Winter & Skiing
+stats:
+- label: Phone
+  icon: phone
+  value: 250.427.0788
+- label: Acres
+  icon: vector-square
+  value: 1800+
+- label: Average Snow Fall
+  icon: weather-snowy-heavy
+  value: 156"
+- label: Base Elevation
+  icon: terrain
+  value: 4035'
+- label: Verts
+  icon: arrow-expand-vertical
+  value: 2465'
+notes:
+- Ski kimberrly.com
+- Summit elevation" 6500'
 ---
 
-Ski kimberrly.com
-Phone: 250.427.0788
-Acres: 1800+
-​average snow fall: 156"
-Summit elevation"  6500'
-Base elevation: 4035'
-Verts: 2465'
+# Kimberrly Alpine Resort
+
+*Kimberly alpine resort,  kimberly, b.c*
 
 ## of named runs: 80
 
@@ -36,7 +50,7 @@ As people moved to the valley, the new town needed a name. In 1896, they decided
 Sullivan Mine however continued to extract ore for many years. The mine was the longest running underground mine in British Columbia, operating for more than 100 years and only shutting down in 2001. During that time, more than 65,000 people in the valley worked for the mine with tunnels snaking and criss-crossing about 500 kilometres under the slopes.
 With the North Star Mine shut down, the slopes were perfect for a ski hill and opened in 1930 to the delight of many of the miners and their families. At that time, it was just a community hill with only a few amenities. Located just three kilometres from the centre of town, it was accessible by everyone with skis or toboggans.
 Knowing that the mining industry would either run out of ore or demand for the product would fall off, Kimberley went about reinventing itself as a tourist destination in 1972. Jim Ogilvie, the mayor at the time thought there should be a gimmick to draw in the tourists.
-BAVARIAN-THEMED TOWN IS BORNBecoming the “Bavarian City of the Rockies,” enticed visitors away from the major highways to see this unique tourist attraction. Downtown Kimberley was transformed into a pedestrian-only street called the Platzl full of shops and restaurants with that European façade. The largest freestanding cuckoo clock in Canada was the centre of attention. That theme hung on for many years but much of it has been renovated.
+BAVARIAN-THEMED TOWN IS BORNBecoming the "Bavarian City of the Rockies," enticed visitors away from the major highways to see this unique tourist attraction. Downtown Kimberley was transformed into a pedestrian-only street called the Platzl full of shops and restaurants with that European façade. The largest freestanding cuckoo clock in Canada was the centre of attention. That theme hung on for many years but much of it has been renovated.
 It did the job. It put Kimberley on the roadside attraction map. The amusing clock is still on the Platzl and waits for coins to open the doors to let a comical yodeller out for a holler.
 Part of the reinvention plan was to bring in the skiers in the winter. In 1979, the city secured 165 acres of land at the ski resort, allowing the ski society to expand and build the first two condos on the mountain. The next winter Kimberley hosted the Canada Winter Games, a pretty impressive accomplishment considering the population of the city is roughly 8,000.
 Everyone knows, beer comes along with a good Bavarian reputation.
@@ -48,7 +62,7 @@ Photo by The Resorts of the Canadian Rockies
 DEVELOPMENT BOOMEDThe base of the resort filled in with chalets, lodges and homes while the Gerry Sorensen Way attracted development on the shoulder above the base. Many skiers don’t even notice the only accessible tunnel on the mountain as they tuck towards the North Star Express Chair. It’s not a mining tunnel, rather an access for cars and pedestrians linking to the accommodations on the north side of the slope. Eight golf courses and endless mountain trails keep people coming all year.
 Enjoy the apres ski in Kimberley.
 Photo by Kimberley Alpine Resort
-Today, skiers and boarders have five lifts to choose from to take them to 1,800 acres of terrain. On average, the resort gets five metres of “Purcell Powder” on more than 80 runs that include a nice mix of groomers, glades and slopes for beginners or experts. Après ski sees families comparing their days while gobbling baskets of fries at the Stemwinder Bar & Grill. Live music carries into the night.
+Today, skiers and boarders have five lifts to choose from to take them to 1,800 acres of terrain. On average, the resort gets five metres of "Purcell Powder" on more than 80 runs that include a nice mix of groomers, glades and slopes for beginners or experts. Après ski sees families comparing their days while gobbling baskets of fries at the Stemwinder Bar & Grill. Live music carries into the night.
 Dive into the iconic Purcell Powder
 Photo by Kimberley Alpine Resort
 From humble beginnings with lead zinc this ex-mining town, has turned into an award-winning ski town.

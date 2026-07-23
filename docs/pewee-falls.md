@@ -1,17 +1,27 @@
+---
+tags:
+- Waterfalls
+stats:
+- label: Waterfall
+  icon: waterfall
+  value: Pewee Falls on the Pend Orielle River
+- label: Drop
+  icon: arrow-collapse-down
+  value: 200'
+- label: Waterfall Type
+  icon: waterfall
+  value: Plunge
+- label: Maps
+  icon: map
+  value: Colville N. F., Sullivan Lake topo 509.447.7300
+- label: GPS
+  icon: crosshairs-gps
+  value: Boundary Dam Boat Launch. 48°??589’58" N 117°21’02" W
+notes:
+- 'DISTANCE CAR, BOAT TO FALLS: Less then 1 mile'
+---
+
 # Pewee Falls
-
-## Pewee falls
-
----
-
-WATERFALL : Pewee Falls on the Pend Orielle River
-Drop: 200'
-WATERFALL TYPE: Plunge
-​DISTANCE CAR, BOAT TO FALLS: Less then 1 mile
-MAPS: Colville N. F., Sullivan Lake topo  509.447.7300
-GPS: Boundary Dam Boat Launch. 48°??589’58” N 117°21’02” W
-
----
 
 ## Description
 

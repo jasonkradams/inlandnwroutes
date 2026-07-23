@@ -1,20 +1,39 @@
+---
+tags:
+- Trails & Scrambles
+- Easy
+stats:
+- label: Event Type
+  icon: hiking
+  value: Old Growth Forest walk
+- label: Distance
+  icon: map-marker-distance
+  value: short
+- label: Elevation
+  icon: terrain
+  value: minimal
+- label: Difficulty
+  icon: speedometer
+  value: easy
+- label: Maps
+  icon: map
+  value: Elk Creek Falls National Recreation Trail
+- label: GPS
+  icon: crosshairs-gps
+  value: 46°51’ 20" n 116°12’37" w
+- label: Ranger District
+  icon: pine-tree
+  value: Palouse R.D. 208.875.1131
+- label: Clearwater County Sheriff
+  icon: shield-account
+  value: 911 or 208.476.4521
+notes:
+- '[Clearwater national forest/ alerts](https://www.fs.usda.gov/alerts/lolo/alerts-notices)<https://www.fs.usda.gov/alerts/nezperceclearwater/alerts-notices>'
+---
+
 # Morris Creek Old Growth Cedar Grove
 
-## Morris creek old growth cedar grove trail 749
-
----
-
-EVENT TYPE: Old Growth Forest walk
-DISTANCE: short
-ELEVATION: minimal
-DIFFICULTY: easy
-MAPS: Elk Creek Falls National Recreation Trail
-Gps: 46°51’ 20” n 116°12’37” w
-​RANGER DISTRICT:  Palouse R.D.   208.875.1131
-​CLEARWATER COUNTY SHERIFF: 911 or 208.476.4521
-[Clearwater national forest/ alerts](https://www.fs.usda.gov/alerts/lolo/alerts-notices)<https://www.fs.usda.gov/alerts/nezperceclearwater/alerts-notices>
-
----
+*Morris creek old growth cedar grove trail 749*
 
 ## Description
 

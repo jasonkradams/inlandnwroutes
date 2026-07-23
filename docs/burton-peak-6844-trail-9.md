@@ -1,21 +1,41 @@
+---
+tags:
+- Peaks & Mountains
+- Moderate
+- Hiking
+- Backpacking
+- Ridge Walking
+stats:
+- label: Event Type
+  icon: hiking
+  value: Hiking, backpacking, ridge walking
+- label: Distance
+  icon: map-marker-distance
+  value: 5.2 miles RT with more up Cascade Ridge to the west
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 1724 verts
+- label: Difficulty
+  icon: speedometer
+  value: Moderate
+- label: Maps
+  icon: map
+  value: IPNF-Kaniksu N.F., Farnham, Moravia, Pyramid Peak
+- label: GPS
+  icon: crosshairs-gps
+  value: 48° 43’ 56.1"n 116° 28’ 22.5"w
+- label: Ranger District
+  icon: pine-tree
+  value: Bonners Ferry R.D. 208.267.5561
+- label: Boundary County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.267.3151
+notes:
+- Idaho panhandle national forest/alerts
+- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Burton Peak 6844 Trail 9
-
-## BURTON PEAK 6844' Trail #9
-
----
-
-EVENT TYPE: Hiking, backpacking, ridge walking
-DISTANCE: 5.2 miles RT with more up Cascade Ridge to the west
-ELEVATION GAIN: 1724 verts
-DIFFICULTY: Moderate
-MAPS: IPNF-Kaniksu N.F., Farnham, Moravia, Pyramid Peak
-Gps: 48° 43’ 56.1”n 116° 28’ 22.5”w
-RANGER DISTRICT: Bonners Ferry R.D. 208.267.5561
-​BOUNDARY COUNTY SHERIFF: CALL 911 FIRST or 208.267.3151
-Idaho panhandle national forest/alerts
-​<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
 
 ## Description
 

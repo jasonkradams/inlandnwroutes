@@ -1,20 +1,40 @@
+---
+tags:
+- Lakes
+- Hiking
+- Backpacking
+- Scrambling
+stats:
+- label: Event Type
+  icon: hiking
+  value: Hiking, backpacking, scrambling
+- label: Distance
+  icon: map-marker-distance
+  value: Lake 12 miles RT. Lake basin circuit about 5 miles RT
+- label: Elevation
+  icon: terrain
+  value: St Joe Lake 6472’, Unnamed Peak 7260’, Graves Peak 7235’, Illinois Peak 7690’,
+    Gold Crown Peak 7374’
+- label: Difficulty
+  icon: speedometer
+  value: St Joe Lake Moderate, Unnamed Peak 7260’ Difficult, Graves Peak Moderate,
+    Illinois Peak Moderate, Gold Crown Peak Difficult
+- label: Maps
+  icon: map
+  value: IPNF - St Joe N.F., Illinois Peak, MT-ID
+- label: GPS
+  icon: crosshairs-gps
+  value: n47° 1’ 3.71" w115° 4’ 51.49"
+- label: Shoshone County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.556.1114
+notes:
+- Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # St Joe Lake 6472Rsquo Illinois Peak 7690Rsquo
 
-## St joe lake 6472’ illinois peak 7690’
-
----
-
-EVENT TYPE: Hiking, backpacking, scrambling
-DISTANCE: Lake 12 miles RT. Lake basin circuit about 5 miles RT
-ELEVATION: St Joe Lake 6472’, Unnamed Peak 7260’, Graves Peak 7235’, Illinois Peak 7690’, Gold Crown Peak 7374’
-DIFFICULTY: St Joe Lake Moderate, Unnamed Peak 7260’ Difficult, Graves Peak Moderate, Illinois Peak Moderate, Gold Crown Peak Difficult
-MAPS: IPNF - St Joe N.F., Illinois Peak, MT-ID
-Gps: n47° 1’ 3.71” w115° 4’ 51.49”
-St joe river ranger district: 
-SHOSHONE COUNTY SHERIFF: CALL 911 FIRST or 208.556.1114
-Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
+*St joe lake 6472’ illinois peak 7690’*
 
 ## Description
 

@@ -1,21 +1,44 @@
+---
+tags:
+- Lakes
+- Moderate
+- Day Hiking
+- Backpacking
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking
+- label: Distance
+  icon: map-marker-distance
+  value: 7 miles RT to the peak
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 2543’
+- label: Acres
+  icon: vector-square
+  value: '10.6'
+- label: Difficulty
+  icon: speedometer
+  value: Moderate
+- label: Maps
+  icon: map
+  value: IPNF, KANIKSU N. F., Roman Nose topo
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°39’35" n 116°36’05" w
+- label: Ranger District
+  icon: pine-tree
+  value: Bonners Ferry R.D. 208.267.5561
+- label: Boundary County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.263.8417
+notes:
+- Idaho panhandle national forest/alerts <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Bottleneck Lake  Peak
 
-## Bottleneck lake & peak 6923’ trails #185-187
-
----
-
-htEVENT TYPE: Day hiking, backpacking
-DISTANCE: 7 miles RT to the peak
-Elevation gain: 2543’
-​acres: 10.6
-DIFFICULTY: Moderate
-MAPS:IPNF, KANIKSU N. F., Roman Nose topo
-Gps: 48°39’35” n 116°36’05” w
-RANGER DISTRICT:  Bonners Ferry R.D.  208.267.5561
-​BOUNDARY COUNTY SHERIFF: CALL 911 FIRST or 208.263.8417
-Idaho panhandle national forest/alerts     <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
+*Bottleneck lake & peak 6923’ trails #185-187*
 
 ## Description
 

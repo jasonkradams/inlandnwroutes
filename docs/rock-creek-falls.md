@@ -1,18 +1,29 @@
+---
+tags:
+- Waterfalls
+stats:
+- label: Waterfall
+  icon: waterfall
+  value: 'Rock Creek Falls Trail #935'
+- label: Drop
+  icon: arrow-collapse-down
+  value: About 40'
+- label: Waterfall Type
+  icon: waterfall
+  value: Slider
+- label: Distance Car to Falls
+  icon: map-marker-distance
+  value: 2.5 miles
+- label: Maps
+  icon: map
+  value: Kootenai N.F., Cabinet Ranger District 406.827.3533 Elephant Perak, Howard
+    Lake topos
+- label: GPS
+  icon: crosshairs-gps
+  value: Trailhead 48°02’?24" N 115°40’47" W. Rock Lake 48°03'33' N 115°37'41' W
+---
+
 # Rock Creek Falls
-
-## Rock creek  falls
-
----
-
-WATERFALL : Rock Creek Falls Trail #935
-
-DROP: About 40'
-WATERFALL TYPE: Slider
-​DISTANCE CAR TO FALLS: 2.5 miles
-MAPS: Kootenai N.F., Cabinet Ranger District 406.827.3533    Elephant Perak, Howard Lake topos
-GPS: Trailhead 48°02’?24” N 115°40’47” W. Rock Lake  48°03'33' N  115°37'41' W
-
----
 
 ## Description
 

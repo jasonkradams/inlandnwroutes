@@ -1,27 +1,46 @@
+---
+tags:
+- Winter & Skiing
+- Easy
+- Day Hiking
+- History
+stats:
+- label: Event Type
+  icon: ski
+  value: Day hiking, history
+- label: Distance
+  icon: map-marker-distance
+  value: 4 miles RT
+- label: Elevation
+  icon: terrain
+  value: 800’
+- label: Difficulty
+  icon: speedometer
+  value: easy
+- label: Maps
+  icon: map
+  value: IPNF, Pulaski Tunnel Trail Brochure, Wallace topo
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°45’87" n 115°93’57" w
+- label: Ranger District
+  icon: pine-tree
+  value: CDA River R.D. 208.769.3000
+- label: Shoshone County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.556.1114
+notes:
+- Idaho panhandle national forest/alerts
+- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Pulaski Tunnel Trail
-
-## Pulaski Tunnel trail
-
----
-
-EVENT TYPE: Day hiking, history
-​DISTANCE: 4 miles RT
-Elevation: 800’
-DIFFICULTY: easy
-MAPS: IPNF, Pulaski Tunnel Trail Brochure, Wallace topo
-Gps: 47°45’87” n 115°93’57” w
-RANGER DISTRICT:   CDA River R.D.   208.769.3000
-SHOSHONE COUNTY SHERIFF: CALL 911 FIRST or 208.556.1114
-Idaho panhandle national forest/alerts
-<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
 
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
 ​description:
-The Pulaski Tunnel Trail (five minutes from downtown Wallace, ID) traces part of the route that Edward Pulaski and his crew followed during their escape from the 1910 fires. The trails two-mile course brings hikers to an overlook across the creek from the Nicholson mine adit - better known as the Pulaski Tunnel - where “Big Ed” Pulaski saved all but six of his 45-man firefighting crew in August of 1910.
+The Pulaski Tunnel Trail (five minutes from downtown Wallace, ID) traces part of the route that Edward Pulaski and his crew followed during their escape from the 1910 fires. The trails two-mile course brings hikers to an overlook across the creek from the Nicholson mine adit - better known as the Pulaski Tunnel - where "Big Ed" Pulaski saved all but six of his 45-man firefighting crew in August of 1910.
 The site's harsh history is now buffered by a thick green cloak of spruce and fir; the West Fork of Placer Creek cascades down the ravine. Interpretive signs along the trail tell of the calamitous summer of fire and the people who suffered it’s scars.
 Allow two to four hours for the four-mile round trip to the Pulaski Tunnel overlook.
 One of the cool things about the lower 725 feet of the trail is that it is paved, for ADA accessibility. The remainder of the trail is not doable for wheelchairs.

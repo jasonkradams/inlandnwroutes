@@ -1,16 +1,27 @@
+---
+tags:
+- Paddling & Rivers
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: 4.7 mile loop
+- label: Elevation
+  icon: terrain
+  value: 2047’
+- label: Length and Acreage
+  icon: vector-square
+  value: 1.7 miles long and 708 acres
+- label: Maps
+  icon: map
+  value: Liberty Lake Regional Park,
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 47°39’14" n 117°05’02" w
+---
+
 # 3Rd Street Launch
 
-## LIBERTY LAKE 3rd STREET LAUNCH
-
----
-
-PADDLE DISTANCE: 4.7 mile loop
-Elevation: 2047’
-LENGTH AND ACREAGE: 1.7 miles long and 708 acres
-MAPS: Liberty Lake Regional Park, 
-Launch gps: 47°39’14” n 117°05’02” w
-
----
+*LIBERTY LAKE 3rd STREET LAUNCH*
 
 ## Description
 

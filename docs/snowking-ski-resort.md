@@ -1,16 +1,32 @@
-# Snowking Ski Resort
-
-## Snowking ski resort      jackson hole, wy
-
+---
+tags:
+- Winter & Skiing
+stats:
+- label: Phone
+  icon: phone
+  value: 307.201.5464
+- label: Acres
+  icon: vector-square
+  value: '450'
+- label: Average Snow Fall
+  icon: weather-snowy-heavy
+  value: 167"
+- label: Summit Elevation
+  icon: terrain
+  value: 7808'
+- label: Base Elevation
+  icon: terrain
+  value: 6237'
+- label: Verts
+  icon: arrow-expand-vertical
+  value: 1571'
+notes:
+- Snowkingmountain.com
 ---
 
-Snowkingmountain.com
-Phone: 307.201.5464
-Acres: 450
-​average snow fall: 167"
-Summit elevation:  7808'
-Base elevation: 6237'
-Verts: 1571'
+# Snowking Ski Resort
+
+*Snowking ski resort      jackson hole, wy*
 
 ## of named runs: 35
 
@@ -30,25 +46,25 @@ Snow King is a smaller family ski area, located just steps from downtown Jackson
 ## Photo gallery
 
 1920s
-Skiers began hiking up the mountain – sometimes called Kelly’s Hill or simply “the town hill” – and enjoying the steep downhill run.
+Skiers began hiking up the mountain – sometimes called Kelly’s Hill or simply "the town hill" – and enjoying the steep downhill run.
 
 1926
-Mike O’Neil builds a ski jump on Jackson’s “Town Hill.”
+Mike O’Neil builds a ski jump on Jackson’s "Town Hill."
 
 1932
-Town Hill named the “Ruth Hanna Simms Ski Hill” in honor of local resident who donated money to build a ski jump.
+Town Hill named the "Ruth Hanna Simms Ski Hill" in honor of local resident who donated money to build a ski jump.
 
 1936
-The Civilian Conservation Corps (CCC) constructs a horse and hiking trail to the top of Snow King for the Forest Service, making the first of many physical changes to the hill to facilitate recreational use. The CCC trail became the first “official” ski run on the mountain.
+The Civilian Conservation Corps (CCC) constructs a horse and hiking trail to the top of Snow King for the Forest Service, making the first of many physical changes to the hill to facilitate recreational use. The CCC trail became the first "official" ski run on the mountain.
 
 1937
 Mountaineer and skier Fred Brown helps begin the Jackson Hole Ski Association and becomes the first president of the Jackson Hole Ski Club.
 
 1938
-Ski area name changed to “Snow King.”
+Ski area name changed to "Snow King."
 
 1939
-Neil Rafferty competes for and wins a contract with the Jackson Hole Club, an early chamber of commerce, to build an “uphill” facility on Snow King. The cable, bought used from an oil drilling company in Casper, Wyoming, ran through a narrow cut in the forest up the west side of the ski area. It was powered by an old Ford tractor. In exchange for building the cable tow, Rafferty receives a lease on the town land and secures a permit from the Forest Service to run the lift.
+Neil Rafferty competes for and wins a contract with the Jackson Hole Club, an early chamber of commerce, to build an "uphill" facility on Snow King. The cable, bought used from an oil drilling company in Casper, Wyoming, ran through a narrow cut in the forest up the west side of the ski area. It was powered by an old Ford tractor. In exchange for building the cable tow, Rafferty receives a lease on the town land and secures a permit from the Forest Service to run the lift.
 
 1939
 The cable, used to power the uphill tow, was bought used from an oil drilling company in Casper, Wyoming. The work crew ran the cable through a narrow cut in the forest up the west side of the ski area, all powered by an old Ford tractor.

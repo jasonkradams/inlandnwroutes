@@ -1,19 +1,38 @@
+---
+tags:
+- Peaks & Mountains
+- Strenuous
+- Hiking
+- Backpacking
+- Equestrian
+stats:
+- label: Event Type
+  icon: hiking
+  value: Hiking, Backpacking and Equestrian
+- label: Distance
+  icon: map-marker-distance
+  value: 14.2 Miles RT
+- label: Elevation
+  icon: terrain
+  value: 3723' gain
+- label: Difficulty
+  icon: speedometer
+  value: Strenuous
+- label: Maps
+  icon: map
+  value: IPNF - Kaniksu N.F., USGS - Metaline Falls, and Pass Creek
+- label: GPS
+  icon: crosshairs-gps
+  value: 48° 48’ 00.5" w117° 13’ 49.4"
+- label: Ranger District
+  icon: pine-tree
+  value: Newport-Sullivan Ranger District 509.
+- label: Pend Orielle County Sheriff
+  icon: shield-account
+  value: 911 or 509.447.3151
+---
+
 # Hall Mountain 6233 Trail 588
-
-## Hall mountain 6233' trail #588
-
----
-
-EVENT TYPE: Hiking, Backpacking and Equestrian
-DISTANCE: 14.2 Miles RT
-ELEVATION: 3723' gain
-DIFFICULTY: Strenuous
-MAPS: IPNF - Kaniksu N.F., USGS - Metaline Falls, and Pass Creek
-Gps: 48° 48’ 00.5” w117° 13’ 49.4”
-RANGER DISTRICT: Newport-Sullivan Ranger District  509.
-PEND ORIELLE COUNTY SHERIFF: 911 or 509.447.3151
-
----
 
 ## Description
 

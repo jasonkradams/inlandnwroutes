@@ -1,21 +1,43 @@
+---
+tags:
+- Trails & Scrambles
+- Moderately Easy
+- Hiking
+- Backpacking
+- Climbing
+stats:
+- label: Event Type
+  icon: hiking
+  value: Hiking, backpacking, and Climbing
+- label: Distance
+  icon: map-marker-distance
+  value: 5+ miles RT Easy, to Roothaan Saddle moderate, SE Face Chimney Rock challenging
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 1235' gain
+- label: Difficulty
+  icon: speedometer
+  value: Moderately Easy
+- label: Maps
+  icon: map
+  value: IPNF - Kaniksu N.F., USGS - Mt. Roothaan
+- label: GPS
+  icon: crosshairs-gps
+  value: 48° 36’ 27.5"n 116° 44’ 08.7"w
+- label: Ranger District
+  icon: pine-tree
+  value: Sandpoint R. D. 208.263.5111
+- label: Bonner County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.263.8417
+notes:
+- Idaho panhandle national forest/alerts
+- h[ttps://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)
+---
+
 # Mount Roothaan 7326 And Chimney Rock 7124 Trail 256
 
-## Mt. roothaan 7326' and chimney rock 7124' trail #256
-
----
-
-EVENT TYPE: Hiking, backpacking, and Climbing
-DISTANCE: 5+ miles RT Easy, to Roothaan Saddle moderate, SE Face Chimney Rock challenging
-ELEVATION GAIN: 1235' gain
-DIFFICULTY: Moderately Easy
-MAPS: IPNF - Kaniksu N.F., USGS - Mt. Roothaan
-Gps: 48° 36’ 27.5”n 116° 44’ 08.7”w
-RANGER DISTRICT: Sandpoint R. D.   208.263.5111
-​BONNER COUNTY SHERIFF: CALL 911 FIRST or 208.263.8417
-Idaho panhandle national forest/alerts
-​h[ttps://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)
-
----
+*Mt. roothaan 7326' and chimney rock 7124' trail #256*
 
 ## Description
 
@@ -42,7 +64,7 @@ Also be aware, there are 9 creek crossing of note ( not related to the 9 switchb
 
 No matter which trail you come in on, there is a cool circumnavigation around Chimney Rock, that includes the summit of Mount Roothaan.
 East route:
-As you get close to Chimney Rock, walk right (north) to the north face of Chimney Rock. Carefully examine the route that circles around the north face. This route requires each hiker to pay close attention to their footings and hand holds. There are enough trees and shrubs to use for support and protection as you walk around the face. In no time, you will be on the west face, and the walking becomes easier for a while. Now the chore is to find a faint “trail” that leads you up to the saddle on the west side. Once at the saddle, look for another faint trail that leads you up to Mount Roothaan.
+As you get close to Chimney Rock, walk right (north) to the north face of Chimney Rock. Carefully examine the route that circles around the north face. This route requires each hiker to pay close attention to their footings and hand holds. There are enough trees and shrubs to use for support and protection as you walk around the face. In no time, you will be on the west face, and the walking becomes easier for a while. Now the chore is to find a faint "trail" that leads you up to the saddle on the west side. Once at the saddle, look for another faint trail that leads you up to Mount Roothaan.
 Enjoy the views from Mount  Roothaan. Your next route off of Mount Roothaan leads you south, then east around the base of  Mount Roothaan. From here you can hike cross country down towards the Pack River, keeping an eye out for the many trail cairns you came up on.
 
 ## Option #2

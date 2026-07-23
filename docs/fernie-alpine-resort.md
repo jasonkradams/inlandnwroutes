@@ -1,16 +1,32 @@
-# Fernie Alpine Resort
-
-## Fernie alpine resort,  fernie, b.c., canada
-
+---
+tags:
+- Winter & Skiing
+stats:
+- label: Phone
+  icon: phone
+  value: 800.258.7669
+- label: Acres
+  icon: vector-square
+  value: '2500'
+- label: Average Snow Fall
+  icon: weather-snowy-heavy
+  value: 360"
+- label: Summit Elevation
+  icon: terrain
+  value: 7000'
+- label: Base Elevation
+  icon: terrain
+  value: 3350’
+- label: Verts
+  icon: arrow-expand-vertical
+  value: 3550'
+notes:
+- Skifernie.com
 ---
 
-Skifernie.com
-Phone: 800.258.7669
-Acres: 2500
-​average snow fall: 360"
-Summit elevation:  7000'
-Base elevation: 3350’
-Verts: 3550'
+# Fernie Alpine Resort
+
+*Fernie alpine resort,  fernie, b.c., canada*
 
 ## of named runs: 142/36 night skiing
 

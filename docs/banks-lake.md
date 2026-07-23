@@ -1,17 +1,42 @@
-# Banks Lake
-
-## Banks lake
-
-EVENT TYPE: day hiking, backpacking, paddling, fishing, climbing, and more
-DISTANCE: varies on activity
-ELEVATION GAIN: Up to 700 verts depending on activity
-​acres: 26,890
-DIFFICULTY: easy+
-Maps: coulee dam area
-GPS: At the Steamboat Rock S.P. entrance road & Hwy 155. 47°49’45” N 119°08’01” W
-​GRANT COUNTY SHERIFF: CALL 911 FIRST or 509.754.2011
-
 ---
+tags:
+- Lakes
+- Easy+
+- Day Hiking
+- Backpacking
+- Paddling
+- Fishing
+- Climbing
+- More
+stats:
+- label: Event Type
+  icon: hiking
+  value: day hiking, backpacking, paddling, fishing, climbing, and more
+- label: Distance
+  icon: map-marker-distance
+  value: varies on activity
+- label: Elevation Gain
+  icon: elevation-rise
+  value: Up to 700 verts depending on activity
+- label: Acres
+  icon: vector-square
+  value: 26,890
+- label: Difficulty
+  icon: speedometer
+  value: easy+
+- label: Maps
+  icon: map
+  value: coulee dam area
+- label: GPS
+  icon: crosshairs-gps
+  value: At the Steamboat Rock S.P. entrance road & Hwy 155. 47°49’45" N 119°08’01"
+    W
+- label: Grant County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 509.754.2011
+---
+
+# Banks Lake
 
 ## Description
 

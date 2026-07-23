@@ -1,17 +1,19 @@
+---
+tags:
+- Peaks & Mountains
+- Day Hiking
+- Backpacking
+- Mt Biking
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, mt biking.
+- label: GPS
+  icon: crosshairs-gps
+  value: n??° ?’ ?.??" w???° ?’ ??.??"
+---
+
 # Trail 7 To Granite Peak
-
-## Trail #7 to granite peak
-
----
-
-EVENT TYPE: Day hiking, backpacking, mt biking.
-Distance:
-Elevation:
-Difficulty:
-Maps:
-Gps: n??° ?’ ?.??” w???° ?’ ??.??”
-
----
 
 ## Description
 

@@ -1,17 +1,32 @@
+---
+tags:
+- Peaks & Mountains
+- Difficult
+- Day Hiking
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day Hiking
+- label: Distance
+  icon: map-marker-distance
+  value: 6.4 Miles
+- label: Elevation
+  icon: terrain
+  value: 1,150 gain/loss
+- label: Difficulty
+  icon: speedometer
+  value: Difficult
+- label: Maps
+  icon: map
+  value: GaiaGPS.com USFS 2016
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°50'25.4"n 116°57'32.3"w
+---
+
 # Scenic Lodge Rathdrum Mountain
 
-## Scenic lodge rathdrum mountian 3,658’
-
----
-
-EVENT TYPE: Day Hiking
-DISTANCE: 6.4 Miles
-ELEVATION: 1,150 gain/loss
-DIFFICULTY: Difficult
-Maps: GaiaGPS.com USFS 2016 
-Gps: 47°50'25.4"n 116°57'32.3"w
-
----
+*Scenic lodge rathdrum mountian 3,658’*
 
 ## Description
 

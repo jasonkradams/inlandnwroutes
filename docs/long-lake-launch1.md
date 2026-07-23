@@ -1,17 +1,30 @@
+---
+tags:
+- Lakes
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: varies
+- label: Elevation
+  icon: terrain
+  value: 1539'
+- label: Length and Acreage
+  icon: vector-square
+  value: varies and 307.9 acres
+- label: Maps
+  icon: map
+  value: Spokane County Parks
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 47°48'51" n 117°46'56'w
+- label: Spokane County Sheriff
+  icon: shield-account
+  value: 509.477.2240
+---
+
 # Long Lake Launch1
 
-## Long lake launch
-
----
-
-PADDLE DISTANCE:  varies
-Elevation: 1539'
-LENGTH AND ACREAGE: varies and 307.9 acres
-MAPS: Spokane County Parks
-Launch gps: 47°48'51" n  117°46'56'w
-​spokane county sheriff: 509.477.2240
-
----
+*Long lake launch*
 
 ## Description
 

@@ -1,22 +1,44 @@
+---
+tags:
+- Peaks & Mountains
+- Difficult
+- Day Hiking
+- Backpacking
+- Mt. Biking
+- Equestrian
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, mt. biking, and equestrian.
+- label: Distance
+  icon: map-marker-distance
+  value: '10.6 miles RT. About a 14 mile loop with Trail #257'
+- label: Elevation
+  icon: terrain
+  value: 2112’
+- label: Difficulty
+  icon: speedometer
+  value: difficult
+- label: Maps
+  icon: map
+  value: IPNF, CDA River Ranger District, Mount CDA Topo
+- label: GPS
+  icon: crosshairs-gps
+  value: Beauty Bay CG. 47°36’27" N 116°40’ 08" W.
+- label: Ranger District
+  icon: pine-tree
+  value: CDA River R.D. 208.769.3000
+- label: Kootenai County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.446.1300
+notes:
+- Idaho panhandle national forest/alerts
+- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Mount Cda Trail 79 Caribou Ridge
 
-## Mount cda trail n.r.t.#79 caribou ridge
-
----
-
-EVENT TYPE: Day hiking, backpacking, mt. biking, and equestrian.
-DISTANCE: 10.6 miles RT. About a 14 mile loop with Trail #257
-
-Elevation: 2112’
-DIFFICULTY: difficult
-MAPS: IPNF, CDA River Ranger District, Mount CDA Topo
-GPS: Beauty Bay CG. 47°36’27” N 116°40’ 08” W.
-​RANGER DISTRICT:  CDA River R.D.   208.769.3000
-​KOOTENAI COUNTY SHERIFF: CALL 911 FIRST or 208.446.1300
-Idaho panhandle national forest/alerts
-<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
+*Mount cda trail n.r.t.#79 caribou ridge*
 
 ## Description
 

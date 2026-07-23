@@ -1,25 +1,47 @@
+---
+tags:
+- Peaks & Mountains
+- Moderate
+- Day Hiking
+- Backpacking
+- Equestrian
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, and equestrian
+- label: Distance
+  icon: map-marker-distance
+  value: 9.6 miles RT
+- label: Elevation
+  icon: terrain
+  value: 2660’
+- label: Difficulty
+  icon: speedometer
+  value: moderate
+- label: Maps
+  icon: map
+  value: IPNF-St Joe District at Avery, Bathtub Mountain, Montana Peak topos
+- label: GPS
+  icon: crosshairs-gps
+  value: Trailhead 47°04’40" N 115°34’41" W
+- label: Ranger District
+  icon: pine-tree
+  value: Avery R. D. 208.245.4517
+- label: Shoshone County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.556.1114
+notes:
+- Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Snow Peak
 
-## Snow peak 6760’wildlife management area ​trail # 55
-
----
-
-EVENT TYPE: Day hiking, backpacking, and equestrian
-DISTANCE: 9.6 miles RT
-Elevation: 2660’
-DIFFICULTY: moderate
-MAPS: IPNF-St Joe District at Avery, Bathtub Mountain, Montana Peak topos
-GPS: Trailhead 47°04’40” N 115°34’41” W
-​RANGER DISTRICT:  Avery R. D.   208.245.4517
-​SHOSHONE COUNTY SHERIFF: CALL 911 FIRST or 208.556.1114
-Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
+*Snow peak 6760’wildlife management area ​trail # 55*
 
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.​The Snow Wildlife Management Area was consists of 32,292 acres, in Shoshone County, Idaho. The area is co-owned and managed by the USFS, and the Idaho Department of Fish and Game, since 1990. The area has 50 miles of trails that are only open to hiking and equestrian modes of traffic.
-The trailhead starts near Bathtub Mountain, and after a mile, bears right at the “Y”. Most of the beginning of the trail is in a dense forest. After the Y, a clearing offers the first view of Snow Peak’s granite prominence off in the distance. At about 3.6 miles the trail breaks out of the woods on a saddle. At the saddle, Spotted Louis Trail #104 bears right. Stay left on Trail #55 for about .8 of a mile to Snow Peak. As you get close to the peak, you will notice the fire lookout tower about 1240 feet atop Snow Peak. The faces of Snow Peak are home to Mountain Goats. PLEASE be aware of their presents, and do not disturb them, or let them get near you or your children. But be kind to them. And PLEASE leave your dogs at home on this hike.
+The trailhead starts near Bathtub Mountain, and after a mile, bears right at the "Y". Most of the beginning of the trail is in a dense forest. After the Y, a clearing offers the first view of Snow Peak’s granite prominence off in the distance. At about 3.6 miles the trail breaks out of the woods on a saddle. At the saddle, Spotted Louis Trail #104 bears right. Stay left on Trail #55 for about .8 of a mile to Snow Peak. As you get close to the peak, you will notice the fire lookout tower about 1240 feet atop Snow Peak. The faces of Snow Peak are home to Mountain Goats. PLEASE be aware of their presents, and do not disturb them, or let them get near you or your children. But be kind to them. And PLEASE leave your dogs at home on this hike.
 
 Once on the summit, look to the south. The Mallard-Larkin Pioneer Area, butts up against the Snow Peak W.M.A.
 

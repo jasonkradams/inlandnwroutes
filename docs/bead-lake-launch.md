@@ -1,17 +1,28 @@
+---
+tags:
+- Lakes
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: 9 miles around the lake
+- label: Lake Elevation
+  icon: terrain
+  value: 2833’
+- label: Length and Acreage
+  icon: vector-square
+  value: about 9 miles around and 720 acres
+- label: Maps
+  icon: map
+  value: w.d.f. & g.,
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 48°17’53" n 117°07’25" w
+- label: Pend Orielle County Sheriff
+  icon: shield-account
+  value: 509.447.3151
+---
+
 # Bead Lake Launch
-
-## Bead lake launch
-
----
-
-PADDLE DISTANCE: 9 miles around the lake
-Lake elevation: 2833’
-LENGTH & ACREAGE : about 9 miles around and 720 acres
-Maps: w.d.f. & g., 
-Launch gps: 48°17’53” n 117°07’25” w
-​pend orielle county sheriff: 509.447.3151
-
----
 
 ## Description
 

@@ -1,16 +1,32 @@
-# Discovery Ski Area
-
-## Discovery ski area   philipsburg, mt
-
+---
+tags:
+- Winter & Skiing
+stats:
+- label: Phone
+  icon: phone
+  value: 406.563.2184
+- label: Acres
+  icon: vector-square
+  value: '2200'
+- label: Average Snow Fall
+  icon: weather-snowy-heavy
+  value: 215"
+- label: Summit Elevation
+  icon: terrain
+  value: 8158'
+- label: Base Elevation
+  icon: terrain
+  value: 5770'
+- label: Verts
+  icon: arrow-expand-vertical
+  value: 2388'
+notes:
+- Skidiscovery.com
 ---
 
-Skidiscovery.com
-Phone: 406.563.2184
-Acres: 2200
-​average snow fall: 215"
-Summit elevation: 8158'
-Base elevation: 5770'
-Verts: 2388'
+# Discovery Ski Area
+
+*Discovery ski area   philipsburg, mt*
 
 ## of named runs: 67
 

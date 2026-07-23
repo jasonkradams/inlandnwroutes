@@ -1,20 +1,20 @@
 # About
 
-|  |  |
-| --- | --- |
-| This is the reason we do what we do! |  |
+This is the reason we do what we do!
 
 ---
 
 ## Introduction
 
-|  |  |  |
-| --- | --- | --- |
-|  | We have created this website to show hikers, scramblers, skiers, kayakers, and more, the many possibilities for outdoor recreation in our region. Our goal is to not only highlight the many wonderful trails in the Inland Northwest, but to show the options for off trail activities. Purpose Our purpose is to show people where to hike, scramble, ski, paddle, and more in the Inland Northwest. By sharing our knowledge with other like minded people, we hope to get people to recreate outdoors. We also advocate for preservation of these special places. |  |
+We have created this website to show hikers, scramblers, skiers, kayakers, and more, the many possibilities for outdoor recreation in our region. Our goal is to not only highlight the many wonderful trails in the Inland Northwest, but to show the options for off trail activities.
 
-|  |  |
-| --- | --- |
-| Picture | **How to use this website**  Our goal is to get you outdoors, and into nature. If you are not familiar with an area, do your research thoroughly.   Use the [WTA.org](http://wta.org/), [IdahoTrailsAssociation.org](http://www.idahotrailsassociation.org) and The Spokane Mountaineers websites to do more research. They are great resources and all three organizations are dedicated to preserving, building and maintaining our trails.  When choosing an area to recreate in, refer to our hike write ups to give you a better picture of what to expect. Do not get in over your head.   All numbers are estimates at this time. Distances, elevation gain or loss can only be estimated, because any two GPS devises will show differing results on the same trip. For the purpose of this website, I use Google Earth.  We have included several options to make your outing more enjoyable. |
+**Purpose:** Our purpose is to show people where to hike, scramble, ski, paddle, and more in the Inland Northwest. By sharing our knowledge with other like minded people, we hope to get people to recreate outdoors. We also advocate for preservation of these special places.
+
+### How to Use This Website
+
+Our goal is to get you outdoors, and into nature. If you are not familiar with an area, do your research thoroughly. Use the [WTA.org](http://wta.org/), [IdahoTrailsAssociation.org](http://www.idahotrailsassociation.org) and The Spokane Mountaineers websites to do more research. They are great resources and all three organizations are dedicated to preserving, building and maintaining our trails. When choosing an area to recreate in, refer to our hike write ups to give you a better picture of what to expect. Do not get in over your head.
+
+All numbers are estimates at this time. Distances, elevation gain or loss can only be estimated, because any two GPS devises will show differing results on the same trip. For the purpose of this website, I use Google Earth. We have included several options to make your outing more enjoyable.
 
 ***Copyright on photography***
 All photography on this site are COPYRIGHTED cannot be used for any purpose without the photographers, written permission.
@@ -53,7 +53,7 @@ All trails have a down section going in, which relates to an up section on the w
 ***Distance***
 Don’t choose a hike that is too long for your physical ability. After wearing yourself out getting there, you still have to get back.
 
-In Mountaineering, a wise person is, “He who knows when to turn around”.
+In Mountaineering, a wise person is, "He who knows when to turn around".
 Do not hesitate to let the leader or a hiking partners know if you are having any kind of an issue.
 And deal with blisters when they are still hot spots. DO NOT ALLOW YOURSELF OR OTHERS TO PUSH ON. Getting back will be a huge chore.
 
@@ -64,7 +64,7 @@ Do not give in to pressure to continue.
 After all, your hiking partners won’t be able t carry you out.
 
 ***Peer pressure and being a macho character.***
-As Nancy Reagan once said, “JUST SAY NO".
+As Nancy Reagan once said, "JUST SAY NO".
 
 Only you are responsible for you. Others may help, but they can’t relieve the pain of over doing it.
 
@@ -111,14 +111,16 @@ Please do not drink or partake, and driving.
 
 ## Trail crews
 
-|  |  |
-| --- | --- |
-| [Wta.org](https://www.wta.org) Picture  [Picture](https://www.wta.org)  Washington Trails Association mobilizes hikers and everyone who loves the outdoors to explore, steward and champion trails and public lands. WTA protects trails through lobbying and grassroots advocacy on issues that impact hikers, like trail funding, limited access and wilderness protection.   WTA's advocacy voice is strengthened by the year-round work of our volunteers to keep trails open and accessible, from urban areas to remote wilderness and everything in between. More than 3,800 people come out annually to provide the more than 120,000 hours of volunteer trail work. Working with our land management partners WTA is striving to create a safe and sustainable trail system. | [Idahotrailsassociation.org](http://www.idahotrailsassociation.org) Picture  [Picture](http://www.idahotrailsassociation.org) |
+[Washington Trails Association (WTA)](https://www.wta.org) — WTA mobilizes hikers and everyone who loves the outdoors to explore, steward and champion trails and public lands. WTA protects trails through lobbying and grassroots advocacy on issues that impact hikers, like trail funding, limited access and wilderness protection. WTA's advocacy voice is strengthened by the year-round work of our volunteers to keep trails open and accessible, from urban areas to remote wilderness and everything in between. More than 3,800 people come out annually to provide the more than 120,000 hours of volunteer trail work. Working with our land management partners WTA is striving to create a safe and sustainable trail system.
+
+[Idaho Trails Association](http://www.idahotrailsassociation.org)
 
 ---
 
 ## Outdoor clubs
 
-|  |  |  |
-| --- | --- | --- |
-| Picture  [Picture](https://www.spokanemountaineers.org/pages/home)  The Spokane Mountaineers is an organization devoted to the conservation and enjoyment of the out-of-doors. By joining the Spokane Mountaineers, you have chosen to adopt these principles for your own and become a participant in some of the most exciting and enjoyable activities available in the Pacific Inland Northwest. Founded in 1915 by a group of librarians who loved to hike, the club has grown to incorporate an amazing range of activities for members of all ages and abilities, 15 y.o. and older Backpacking, day hiking, climbing, bicycling, skiing of all varieties - the Spokane Mountaineers have it! The annual schools and clinics are a wonderful testimony to the enthusiasm our club has for teaching others and to their firm belief that, although the dangers of mountaineering and the out-of-doors can never be ignored, good instruction can help minimize those dangers. | [Picture](https://www.sckc.ws) [Spokane canoe and kayak club](https://www.sckc.ws) Rushing whitewater, quiet mountain lakes, meandering rivers - the Inland Northwest has them all, and the Spokane Canoe and Kayak Club is the perfect way to experience them.  Dedicated to promoting safe and fun paddling of all types - canoes, kayaks (whitewater, sea and recreational), rafts and paddle boards - the SCKC welcomes all paddlers of non-motorized craft. | [Picture](https://www.meetup.com/Inland-Northwest-Hikers/) [Inland northwest hikers](https://www.meetup.com/Inland-Northwest-Hikers/) Inland NW Hikers is a group of hiking enthusiasts who love exploring our local area and sharing our experiences with others. There are hundreds of miles of trails within a few miles of Spokane, but our Organizers also lead day hikes within a few hundred-mile radii. We hit the trail year round, so that will include mainly hiking and snowshoeing, but can also include kayaking, bicycling and other human-powered outdoor recreation. |
+[Spokane Mountaineers](https://www.spokanemountaineers.org/pages/home) — The Spokane Mountaineers is an organization devoted to the conservation and enjoyment of the out-of-doors. By joining the Spokane Mountaineers, you have chosen to adopt these principles for your own and become a participant in some of the most exciting and enjoyable activities available in the Pacific Inland Northwest. Founded in 1915 by a group of librarians who loved to hike, the club has grown to incorporate an amazing range of activities for members of all ages and abilities, 15 y.o. and older. Backpacking, day hiking, climbing, bicycling, skiing of all varieties - the Spokane Mountaineers have it! The annual schools and clinics are a wonderful testimony to the enthusiasm our club has for teaching others and to their firm belief that, although the dangers of mountaineering and the out-of-doors can never be ignored, good instruction can help minimize those dangers.
+
+[Spokane Canoe and Kayak Club](https://www.sckc.ws) — Rushing whitewater, quiet mountain lakes, meandering rivers - the Inland Northwest has them all, and the Spokane Canoe and Kayak Club is the perfect way to experience them. Dedicated to promoting safe and fun paddling of all types - canoes, kayaks (whitewater, sea and recreational), rafts and paddle boards - the SCKC welcomes all paddlers of non-motorized craft.
+
+[Inland Northwest Hikers](https://www.meetup.com/Inland-Northwest-Hikers/) — Inland NW Hikers is a group of hiking enthusiasts who love exploring our local area and sharing our experiences with others. There are hundreds of miles of trails within a few miles of Spokane, but our Organizers also lead day hikes within a few hundred-mile radii. We hit the trail year round, so that will include mainly hiking and snowshoeing, but can also include kayaking, bicycling and other human-powered outdoor recreation.

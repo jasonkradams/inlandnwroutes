@@ -1,16 +1,32 @@
-# 49Degn Ski Area
-
-## 49°n ski area    chewelah, wa
-
+---
+tags:
+- Winter & Skiing
+stats:
+- label: Phone
+  icon: phone
+  value: 509.935.6649
+- label: Acres
+  icon: vector-square
+  value: '2325'
+- label: Average Snow Fall
+  icon: weather-snowy-heavy
+  value: 301'
+- label: Summit Elevation
+  icon: terrain
+  value: 5774'
+- label: Base Elevation
+  icon: terrain
+  value: 3923'
+- label: Verts
+  icon: arrow-expand-vertical
+  value: '1851'
+notes:
+- Ski49n.com
 ---
 
-Ski49n.com
-Phone: 509.935.6649
-Acres: 2325
-​average snow fall: 301'
-Summit elevation: 5774'
-Base elevation: 3923'
-Verts: 1851
+# 49Degn Ski Area
+
+*49°n ski area    chewelah, wa*
 
 ## of named runs: 86
 

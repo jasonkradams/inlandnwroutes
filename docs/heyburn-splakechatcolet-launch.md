@@ -1,17 +1,30 @@
+---
+tags:
+- Lakes
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: varies
+- label: Elevation
+  icon: terrain
+  value: 2128’
+- label: Length and Acreage
+  icon: vector-square
+  value: varies
+- label: Maps
+  icon: map
+  value: IPNF, Chatcolet topo
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 47°22’27" n 116°45’40" w
+- label: Benewah County Sheriff
+  icon: shield-account
+  value: 208.245.2555
+---
+
 # Heyburn Splakechatcolet Launch
 
-## Heyburn s.p./lake chatcolet launch
-
----
-
-PADDLE DISTANCE: varies
-Elevation: 2128’
-LENGTH AND ACREAGE: varies
-MAPS: IPNF, Chatcolet topo
-Launch gps: 47°22’27” n 116°45’40” w
-​benewah county sheriff: 208.245.2555
-
----
+*Heyburn s.p./lake chatcolet launch*
 
 ## Description
 

@@ -1,20 +1,44 @@
+---
+tags:
+- Lakes
+- Easy to Slightly Moderate
+- Day Hiking
+- Backpacking
+- Mt Biking
+- Wondering
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, mt biking, wondering
+- label: Distance
+  icon: map-marker-distance
+  value: 4.5 miles RT to Ancient Lake. 6 miles RT to Dusty Lake
+- label: Elevation
+  icon: terrain
+  value: 280’ to Ancient lake. 350’ to Dusty Lake
+- label: Acres
+  icon: vector-square
+  value: '54'
+- label: Difficulty
+  icon: speedometer
+  value: Easy to slightly moderate
+- label: Maps
+  icon: map
+  value: W.D.OF F. & W., Columbia Wildlife Area. Babcock Bench
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°01’38" n 119°59’52" w
+- label: Managing Agency
+  icon: domain
+  value: W.D.F.& W. & Columbia Basin Wildlife Area. 509.765.6641
+- label: Grant County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 509.754.2011
+---
+
 # Quincy Lakes
 
-## Quincy lakes, ancient lake & dusty lake
-
----
-
-EVENT TYPE: Day hiking, backpacking, mt biking, wondering
-DISTANCE: 4.5 miles RT to Ancient Lake. 6 miles RT to Dusty Lake
-ELEVATION: 280’ to Ancient lake. 350’ to Dusty Lake
-Acres: 54
-DIFFICULTY: Easy to slightly moderate
-MAPS: W.D.OF F. & W., Columbia Wildlife Area. Babcock Bench
-Gps: 47°01’38” n 119°59’52” w
-MANAGING AGENCY:   W.D.F.& W.  &  Columbia Basin Wildlife Area. 509.765.6641
-GRANT COUNTY SHERIFF: CALL 911 FIRST or 509.754.2011
-
----
+*Quincy lakes, ancient lake & dusty lake*
 
 ## Description
 
@@ -39,7 +63,7 @@ Please do not go out onto them.
 ## Directions
 
 The turnoff to the Ancient Lakes Trail is five miles south of Quincy on SR 281. Turn
-west off SR 281 onto White Trail Road and continue 3 miles. Turn left (south) at the “public fishing” sign onto a gravel road toward Quincy Lakes. The Ancient Lakes trailhead is located 0.7 mile south of the intersection with White Trail Road. There is no privy at this trailhead.
+west off SR 281 onto White Trail Road and continue 3 miles. Turn left (south) at the "public fishing" sign onto a gravel road toward Quincy Lakes. The Ancient Lakes trailhead is located 0.7 mile south of the intersection with White Trail Road. There is no privy at this trailhead.
 
 ## Hazards
 

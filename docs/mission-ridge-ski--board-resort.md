@@ -1,16 +1,32 @@
-# Mission Ridge Ski  Board Resort
-
-## Mission ridge ski & board resort    wenatchee, wa
-
+---
+tags:
+- Peaks & Mountains
+stats:
+- label: Phone
+  icon: phone
+  value: 509.663.
+- label: Acres
+  icon: vector-square
+  value: '2000'
+- label: Average Snow Fall
+  icon: weather-snowy-heavy
+  value: 200"
+- label: Summit Elevation
+  icon: terrain
+  value: 6820'
+- label: Base Elevation
+  icon: terrain
+  value: 4570'
+- label: Verts
+  icon: arrow-expand-vertical
+  value: 2250'
+notes:
+- Missionridge.com
 ---
 
-Missionridge.com
-Phone: 509.663.
-Acres: 2000
-​average snow fall: 200"
-Summit elevation:  6820'
-Base elevation: 4570'
-Verts: 2250'
+# Mission Ridge Ski  Board Resort
+
+*Mission ridge ski & board resort    wenatchee, wa*
 
 ## of named runs: 36
 

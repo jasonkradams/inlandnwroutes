@@ -1,16 +1,18 @@
+---
+tags:
+- Paddling & Rivers
+stats:
+- label: Length and Acreage
+  icon: vector-square
+  value: '1445'
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+---
+
 # Bronze Bay Launch1
 
-## Bronze bay launch
-
----
-
-Paddle distance: 
-Elevation: 
-Length and acreage:  1445
-Maps:
-Launch gps: ??° ??’ ??.?”n ???° ??’ ??.?”w
-
----
+*Bronze bay launch*
 
 ## Description
 

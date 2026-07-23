@@ -1,24 +1,46 @@
+---
+tags:
+- Trails & Scrambles
+- Easy to Moderate
+- Day Hiking
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, interpretive trail thru the Cedars.
+- label: Distance
+  icon: map-marker-distance
+  value: Less then a mile within the botanical area.
+- label: Elevation Gain
+  icon: elevation-rise
+  value: about 2400’ to Bloom Peak.
+- label: Difficulty
+  icon: speedometer
+  value: easy to moderate
+- label: Maps
+  icon: map
+  value: Idaho Panhandle N.F., Burke topo
+- label: GPS
+  icon: crosshairs-gps
+  value: Trailhead 47°42’34" N -115°49’36" W
+- label: Ranger District
+  icon: pine-tree
+  value: CDA River R.D. 208.769.3000
+- label: Shoshone County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.556.1114
+notes:
+- About 12 miles RT to Bloom Peak.
+- Idaho panhandle national forest/alerts
+- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Settlers Grove Of Ancient Cedars
 
-## Settlers grove of ancient cedars
+!!! warning "Before you go"
 
-## ​Forest road 805 to settlers grove of ancient cedars is closed due to being washed out
+    Settlers grove of ancient cedars
 
----
-
-EVENT TYPE: Day hiking, interpretive trail thru the Cedars.
-DISTANCE: Less then a mile within the botanical area.
-About 12 miles RT to Bloom Peak.
-ELEVATION GAIN: about 2400’ to Bloom Peak.
-DIFFICULTY: easy to moderate
-MAPS: Idaho Panhandle N.F., Burke topo
-GPS: Trailhead 47°42’34” N -115°49’36” W
-​RANGER DISTRICT:  CDA River R.D.  208.769.3000
-SHOSHONE COINTY SHERIFF: CALL 911 FIRST or 208.556.1114
-Idaho panhandle national forest/alerts
-<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
+*​Forest road 805 to settlers grove of ancient cedars is closed due to being washed out*
 
 ## Description
 
@@ -29,7 +51,7 @@ The West Fork Eagle Creek runs thru the grove, and crosses the trail on foot bri
 
 ## Option #1
 
-Trail #162 continues past the cedar grove for about another 4+ miles to the Idaho Montana Boarder. The trail is overgrown at the top of the grove, but clears at about 1.5 miles. Soon the boarder is in sight high above. Continue NE and then north to Bloom Peak 5863’. From Bloom Peak the boarder heads north over a mile to Lost Peak 6350”.
+Trail #162 continues past the cedar grove for about another 4+ miles to the Idaho Montana Boarder. The trail is overgrown at the top of the grove, but clears at about 1.5 miles. Soon the boarder is in sight high above. Continue NE and then north to Bloom Peak 5863’. From Bloom Peak the boarder heads north over a mile to Lost Peak 6350".
 
 The Cabinet Mountain Wilderness stands tall just 20 miles north east.
 

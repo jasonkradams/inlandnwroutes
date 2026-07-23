@@ -1,20 +1,43 @@
+---
+tags:
+- Trails & Scrambles
+- Moderate
+- Day Hiking
+- Beach Camping
+- Swimming
+- Diving
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, beach camping, swimming, diving
+- label: Distance
+  icon: map-marker-distance
+  value: 4 miles RT
+- label: Elevation Loss
+  icon: arrow-down-bold
+  value: 1107’
+- label: Difficulty
+  icon: speedometer
+  value: moderate
+- label: Maps
+  icon: map
+  value: IPNF, Kaniksu N.F., Mt. Pend Orielle topo
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°07’00" n 116°32’29" w
+- label: Ranger District
+  icon: pine-tree
+  value: Sandpoint R.D. 208.263.5111
+- label: Bonner County Sheriff
+  icon: shield-account
+  value: 911 or 208.263.8517
+notes:
+- Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Maiden Rock Trail
 
-## Maiden rock trail #321
-
----
-
-EVENT TYPE: Day hiking, beach camping, swimming, diving
-DISTANCE: 4 miles RT
-Elevation loss: 1107’
-DIFFICULTY: moderate
-MAPS: IPNF, Kaniksu N.F., Mt. Pend Orielle topo
-Gps: 48°07’00” n 116°32’29” w
-​RANGER DISTRICT:  Sandpoint R.D.   208.263.5111
-​BONNER COUNTY SHERIFF: 911 or 208.263.8517
-Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
+*Maiden rock trail #321*
 
 ## Description
 

@@ -1,12 +1,31 @@
+---
+tags:
+- Peaks & Mountains
+stats:
+- label: Genesis Name
+  icon: book-open-variant
+  value: Synthyris missurica
+- label: Distribution
+  icon: earth
+  value: Small areas in Washington, Oregon, California, and Idaho
+- label: Season
+  icon: calendar
+  value: Blooms May thru July, and is sometimes in the first few flowers to bloom
+    in the spring
+- label: Features
+  icon: information-outline
+  value: Clump of nearly round basal leaves, erect flower stem. Leaves shiny, hairless,
+    with long petioles, smooth, 1–3 in. across, cut to somewhat rounded lobes or teeth,
+    tips pointed. Inflorescence more or less hairy, with many mid to deep blue flowers
+    in 2–7 in. erect spike above leaves. Flowers small, upper lobe slightly larger
+    than other 3, bluish stamens exserted beyond the petals. Grows in moist to dry
+    shade, among rocks, in openings in forests, at mid to high elevations. Similar
+    subsp. *stellata* with larger flowers also has brown hairs on short flower stalks
+---
+
 # Mountain Kittentail
 
-## Common name
-
-|  |  |
-| --- | --- |
-| NAME: Synthyris missurica DISTRIBUTION: Small areas in Washington, Oregon, California, and Idaho SEASON:  Blooms May thru July, and is sometimes in the first few flowers to bloom in the spring Medical use: Poisonous: Edibility: Features:  Clump of nearly round basal leaves, erect flower stem. Leaves shiny, hairless, with long petioles, smooth, 1–3 in. across, cut to somewhat rounded lobes or teeth, tips pointed. Inflorescence more or less hairy, with many mid to deep blue flowers in 2–7 in. erect spike above leaves. Flowers small, upper lobe slightly larger than other 3, bluish stamens exserted beyond the petals. Grows in moist to dry shade, among rocks, in openings in forests, at mid to high elevations. Similar subsp. *stellata* with larger flowers also has brown hairs on short flower stalks ​Leaves: Fruits: ​ | --- |
-
----
+*Common name*
 
 ## Description
 

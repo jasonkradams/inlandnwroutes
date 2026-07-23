@@ -1,17 +1,28 @@
+---
+tags:
+- Waterfalls
+stats:
+- label: Waterfall
+  icon: waterfall
+  value: copper falls
+- label: Drop
+  icon: arrow-collapse-down
+  value: 160’
+- label: Waterfall Type
+  icon: waterfall
+  value: two tiers
+- label: Distance Car to Falls
+  icon: map-marker-distance
+  value: .6 miles
+- label: Maps
+  icon: map
+  value: Kanicsu N.F., Eastport topo Bonner Ranger District 267.5561
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°97’20" n 116°14’10" w
+---
+
 # Copper Falls
-
-## Copper falls
-
----
-
-Waterfall : copper falls
-Drop: 160’
-Waterfall type: two tiers
-​DISTANCE CAR TO FALLS: .6 miles
-MAPS: Kanicsu N.F., Eastport topo    Bonner Ranger District 267.5561
-Gps: 48°97’20” n 116°14’10” w
-
----
 
 ## Description
 

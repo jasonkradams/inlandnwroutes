@@ -1,21 +1,44 @@
+---
+tags:
+- Peaks & Mountains
+- Hiking
+- Backpacking
+- No Trail. Yahooo
+stats:
+- label: Event Type
+  icon: hiking
+  value: Hiking, backpacking and equestrian. Maybe some mt biking to Cutoff Peak,
+    but the very long ridge towards Smith Peak has many blow downs, and no trail.
+    Yahooo
+- label: Distance
+  icon: map-marker-distance
+  value: Cutoff Peak about 6 miles RT. Smith Peak from Cutoff Peak 8 miles RT
+- label: Elevation
+  icon: terrain
+  value: To Cutoff Peak 1440' gain To Smith Peak about 2700'+
+- label: Difficulty
+  icon: speedometer
+  value: Moderate to Cutoff Peak Difficult to Smith Peak
+- label: Maps
+  icon: map
+  value: IPNF - Kaniksu N.F., USGS - Shorty Peak & Smith Peak
+- label: GPS
+  icon: crosshairs-gps
+  value: 48° 53’ 46.0"n 116° 38’ 41.5"w
+- label: Ranger District
+  icon: pine-tree
+  value: Bonners Ferry R.D. 208.267.5561
+- label: Boundary County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.267.3151
+notes:
+- Idaho panhandle national forest/alerts
+- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Cutoff Peak 6844 And Smith Peaks North Ridge
 
-## Cutoff peak 6844' and smith peak's 7653’ north ridge​
-
----
-
-EVENT TYPE: Hiking, backpacking and equestrian. Maybe some mt biking to Cutoff Peak, but the very long ridge towards Smith Peak has many blow downs, and no trail. Yahooo
-DISTANCE: Cutoff Peak about 6 miles RT. Smith Peak from Cutoff Peak 8 miles RT
-ELEVATION: To Cutoff Peak 1440' gain To Smith Peak about 2700'+
-DIFFICULTY: Moderate to Cutoff Peak Difficult to Smith Peak
-MAPS: IPNF - Kaniksu N.F., USGS - Shorty Peak & Smith Peak
-Gps: 48° 53’ 46.0”n 116° 38’ 41.5”w
-EANGER DISTRICT:  Bonners Ferry R.D. 208.267.5561
-​BOUNDARY COUNTY SHERIFF: CALL 911 FIRST or 208.267.3151
-Idaho panhandle national forest/alerts
-<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
+*Cutoff peak 6844' and smith peak's 7653’ north ridge​*
 
 ## Description
 
@@ -28,7 +51,7 @@ Drive north past Bonners Ferry to State Highway 1 and follow it for about a mile
 
 ## Hazards
 
-Once past Cutoff Peak, there is no real “trail”, just a wide ridge line to stay centered on.
+Once past Cutoff Peak, there is no real "trail", just a wide ridge line to stay centered on.
 There is no water source along this route. Carry more then you will need.
 
 ## Cool things close by

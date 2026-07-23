@@ -1,23 +1,47 @@
+---
+tags:
+- Peaks & Mountains
+- Moderately Easy
+- Day Hiking
+- Backpacking
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking,
+- label: Distance
+  icon: map-marker-distance
+  value: N. Route 3.2 miles RT to N. Chilco. And 9.6 miles to S. Chilco.
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 1455’ to N Chilco. Then drops about 865’ to the saddle. Then rises 901’ to
+    S. Chilco
+- label: Difficulty
+  icon: speedometer
+  value: moderately easy
+- label: Maps
+  icon: map
+  value: IPNF, Bayview, Spades Mountain topos
+- label: GPS
+  icon: crosshairs-gps
+  value: South Chilco 47°51'59" N 116°33'15" W.
+- label: Ranger District
+  icon: pine-tree
+  value: CDA River R.D 208.769.3000
+- label: Kootenai County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.446.1300
+notes:
+- North Chilco 47°53'30" N 116°31;47" W
+- Idaho panhandle national forest/alerts [https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)
+---
+
 # North And South Chilco Peak
 
-Fyi.....the bunco road to north chilco is closed to all visitors until roctober 9, 2025. a logging operation is scheduled, but can be rescinded early. Check out the usfs alerts below for additional info. ​this closure does not affect south chilco via forest road #406
+!!! warning "Before you go"
 
-## ​north and south chilco peak ​national recreation trail #14
+    Fyi.....the bunco road to north chilco is closed to all visitors until roctober 9, 2025. a logging operation is scheduled, but can be rescinded early. Check out the usfs alerts below for additional info. ​this closure does not affect south chilco via forest road #406
 
----
-
-EVENT TYPE: Day hiking, backpacking,
-DISTANCE: N. Route 3.2 miles RT to N. Chilco. And 9.6 miles to S. Chilco.
-ELEVATION GAIN: 1455’ to N Chilco. Then drops about 865’ to the saddle. Then rises 901’ to S. Chilco
-DIFFICULTY: moderately easy
-MAPS: IPNF, Bayview, Spades Mountain topos
-GPS:  South Chilco   47°51'59" N 116°33'15" W.  
-             North  Chilco  47°53'30" N  116°31;47" W
-RANGER DISTRICT :  CDA River R.D  208.769.3000
-KOOTENAI COUNTY SHERIFF: CALL 911 FIRST or 208.446.1300
-Idaho panhandle national forest/alerts [​<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)
-
----
+*​north and south chilco peak ​national recreation trail #14*
 
 ## Description
 

@@ -1,20 +1,43 @@
+---
+tags:
+- Trails & Scrambles
+- Difficult
+- Hiking
+- Backpacking
+- Fishing
+- Scrambling
+- Camping
+stats:
+- label: Event Type
+  icon: hiking
+  value: Hiking, backpacking, fishing, scrambling, and camping.
+- label: Distance
+  icon: map-marker-distance
+  value: 12 miles RT
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 3700 verts
+- label: Difficulty
+  icon: speedometer
+  value: Difficult
+- label: Maps
+  icon: map
+  value: Kootenai N. F., Treasure Mountain
+- label: GPS
+  icon: crosshairs-gps
+  value: Upper Sky Lake. 48°19’12" N 115°42’55" W Hanging Valley. (Lake). 48°19’04"
+    N 115°41’18" w.
+- label: Lincoln County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST, or 406.293.4112
+notes:
+- libby ranger district 406.293.7773
+- Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+---
+
 # Skyhanging Valley
 
-## Sky lakes 6230’ & hanging valley upper lake 5966’
-
----
-
-EVENT TYPE: Hiking, backpacking, fishing, scrambling, and camping.
-DISTANCE: 12 miles RT
-ELEVATION GAIN: 3700 verts
-DIFFICULTY: Difficult
-MAPS: Kootenai N. F., Treasure Mountain
-GPS: Upper Sky Lake. 48°19’12” N 115°42’55” W  Hanging Valley. (Lake). 48°19’04” N  115°41’18” w.
-​libby ranger district 406.293.7773
-​LINCOLN COUNTY SHERIFF: CALL 911 FIRST, or 406.293.4112
-Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
-
----
+*Sky lakes 6230’ & hanging valley upper lake 5966’*
 
 ## Description
 

@@ -1,17 +1,28 @@
+---
+tags:
+- Paddling & Rivers
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: The Lower Clark Fork River
+- label: Elevation
+  icon: terrain
+  value: 2177’
+- label: Length and Acreage
+  icon: vector-square
+  value: na
+- label: Maps
+  icon: map
+  value: Kootenai National Forest
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 48°04’01 n 115°55’38" w
+- label: Sanders County Sheriff
+  icon: shield-account
+  value: 406.827.3584
+---
+
 # Big Eddy Camp Ground And Launch
-
-## Big eddy camp ground and launch
-
----
-
-PADDLE DISTANCE: The Lower Clark Fork River
-Elevation: 2177’
-Length and acreage: na
-MAPS: Kootenai National Forest
-Launch gps: 48°04’01 n 115°55’38” w
-Sanders county sheriff: 406.827.3584
-
----
 
 ## Description
 

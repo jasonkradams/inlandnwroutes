@@ -1,20 +1,44 @@
+---
+tags:
+- Peaks & Mountains
+- Very Difficult
+- Hiking
+- Backpacking
+- Scrambling
+- Climbing
+stats:
+- label: Event Type
+  icon: hiking
+  value: Hiking, backpacking, scrambling, climbing
+- label: Distance
+  icon: map-marker-distance
+  value: 11 miles RT
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 4900 verts
+- label: Difficulty
+  icon: speedometer
+  value: very difficult
+- label: Maps
+  icon: map
+  value: Descutes National Forest, South Sister topo
+- label: GPS
+  icon: crosshairs-gps
+  value: 41•10'38' n 121•76"96'w
+- label: Sisters Ranger District
+  icon: pine-tree
+  value: 541.549.7700
+- label: Lane County Sheriff
+  icon: shield-account
+  value: 541.682.4150
+- label: Deschutes County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 541.388.6655
+---
+
 # South Sister Mountain 10358
 
-## South sister mountain 10,358'
-
----
-
-EVENT TYPE: Hiking, backpacking, scrambling, climbing
-DISTANCE: 11 miles RT
-ELEVATION GAIN: 4900 verts
-DIFFICULTY: very difficult
-MAPS:  Descutes National Forest, South Sister topo
-Gps: 41•10'38' n  121•76"96'w
-Sisters Ranger District: 541.549.7700
-Lane county sheriff: 541.682.4150
-DESCHUTES COUNTY SHERIFF: CALL 911 FIRST or 541.388.6655
-
----
+*South sister mountain 10,358'*
 
 ## Description
 

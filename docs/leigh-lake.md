@@ -1,22 +1,50 @@
+---
+tags:
+- Lakes
+- Near Difficult
+- Hiking
+- Backpacking
+- Fishing
+- Skiing
+- Climbing
+- Paddling
+stats:
+- label: Event Type
+  icon: hiking
+  value: hiking, backpacking, fishing, skiing, climbing and paddling
+- label: Distance
+  icon: map-marker-distance
+  value: 3.04 miles RT to lake 6 miles RT with Amphitheater by raft.
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 1104' gain. The hike up thru the Amphitheater, to the center summit is 1875
+    verts
+- label: Acres
+  icon: vector-square
+  value: '129.2'
+- label: Difficulty
+  icon: speedometer
+  value: Near Difficult
+- label: Maps
+  icon: map
+  value: Cabinet Mountain Wilderness, Kootenai N.F., Snowshoe Peak
+- label: GPS
+  icon: crosshairs-gps
+  value: '[48°13’28"n](https://goo.gl/maps/GDAcZfwdD5ZRiU3h7) [115°39’39"w](https://goo.gl/maps/GDAcZfwdD5ZRiU3h7)'
+- label: Ranger District
+  icon: pine-tree
+  value: libby ranger district 406.293.7773
+- label: Sanders County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 406.827.3584
+notes:
+- Kootenai national forest/alerts
+- <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+---
+
 # Leigh Lake
 
-## Leigh lake 5144’, cabinet mountain wilderness
-
----
-
-EVENT TYPE: hiking, backpacking, fishing, skiing, climbing and paddling
-Distance:  3.04 miles RT to lake  6 miles RT with Amphitheater by raft.
-Elevation gain: 1104' gain. The hike up thru the  Amphitheater, to the center summit is 1875 verts
-​acres: 129.2
-DIFFICULTY: Near Difficult
-Maps:  Cabinet Mountain Wilderness, Kootenai N.F., Snowshoe Peak
-​Gps:  [48°13’28”n](https://goo.gl/maps/GDAcZfwdD5ZRiU3h7) [115°39’39”w](https://goo.gl/maps/GDAcZfwdD5ZRiU3h7)
-​ranger district: libby ranger district 406.293.7773
-SANDERS COUNTY SHERIFF: CALL 911 FIRST or 406.827.3584
-Kootenai national forest/alerts
-<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
-
----
+*Leigh lake 5144’, cabinet mountain wilderness*
 
 ## Description
 
@@ -54,7 +82,7 @@ the west wall, where waterfalls cascade down the face just feet from your raft.
 ​Continue again to the south shore and you will find a small beach to get out on.
 Be sure to secure your rafts..tie them down. the walk out is brutal.
 After a lunch, dive in to clear cold water to cool off. Then, walk the dry creek up into the "Amphitheater" above you. Each layer of rock has water running down. And where there's water there's wildflowers. Dozens of varieties occupy these seams and light up the grey rock.
-You can walk a moderate “trail” up thru the humongous rocks for about 1676 vertical feet above the lake for unbelievable views.
+You can walk a moderate "trail" up thru the humongous rocks for about 1676 vertical feet above the lake for unbelievable views.
 Once back at the rafts, paddle slowly back to the take out and enjoying the south shore's majestic rock formation. My favorite thing to do on the lake, is to spin. As you lay comfortably in your raft, paddle on one side of the raft. This causes you to spin. It’s like watching an IMAX movie, but you see it in your minds eye.
 
 ## Option #2

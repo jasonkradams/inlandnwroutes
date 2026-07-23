@@ -1,20 +1,42 @@
+---
+tags:
+- Peaks & Mountains
+- Strenuous
+- Day Hiking
+- Backpacking
+- Scrambling
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, scrambling
+- label: Distance
+  icon: map-marker-distance
+  value: 18 miles RT
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 2263 verts
+- label: Difficulty
+  icon: speedometer
+  value: Strenuous
+- label: Maps
+  icon: map
+  value: Kootenai N.F., Heron & Sawtooth topos
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°16’38"n 115°97’78"w
+- label: Ranger District
+  icon: pine-tree
+  value: Three Rivers R.D. 406.295.4693
+- label: Lincoln County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 406.293.4112
+notes:
+- Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+---
+
 # Sawtooth Mountain
 
----
-
-## Sawtooth mountain 6758’
-
----
-
-EVENT TYPE: Day hiking, backpacking, scrambling
-DISTANCE: 18 miles RT
-ELEVATION GAIN: 2263 verts
-DIFFICULTY: Strenuous
-MAPS: Kootenai N.F., Heron & Sawtooth topos
-Gps: 48°16’38”n 115°97’78”w
-RANGER DISTRICT:  Three Rivers R.D.  406.295.4693
-​LINCOLN COUNTY SHERIFF: CALL 911 FIRST or 406.293.4112
-Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+*Sawtooth mountain 6758’*
 
 ## Description
 
@@ -49,7 +71,7 @@ Click for Current NOAA Weather Conditions
 
 *Picture (Image missing)*
 
-## This is the view that said to me, “come climb me”, from heron, mt
+## This is the view that said to me, "come climb me", from heron, mt
 
 ![Picture](/assets/images/20200507185535.jpg)
 

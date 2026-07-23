@@ -1,20 +1,48 @@
+---
+tags:
+- Trails & Scrambles
+stats:
+- label: Genesis Name
+  icon: book-open-variant
+  value: Triteleia grandiflora
+- label: Distribution
+  icon: earth
+  value: wa, id, mt, or, ca, wy, ar. southern bc
+- label: Season
+  icon: calendar
+  value: Blooms April, May, June & July
+- label: Medical Use
+  icon: medical-bag
+  value: 'no'
+- label: Poisonous
+  icon: skull-crossbones
+  value: 'no'
+- label: Edibility
+  icon: food-apple
+  value: The bulb of wild hyacinth is edible, raw or cooked. Having a sweet nut-like
+    flavor, they can be used like potatoes. They are said by some people to be the
+    tastiest of the North American edible bulbs, and are at their best when slow roasted
+    for an hour when they become rather sweet. They were collected for food or medicine
+    by the Thompson tribes among others. They were dug in the spring, along with the
+    bulbs of yellowbells, just before the shoots appeared above ground. The young
+    seedpods can be cooked as a potherb, and is an excellent green.
+- label: Features
+  icon: information-outline
+  value: Pale or deep blue, narrowly bell-shaped flowers bloom in an umbel at the
+    top of a leafless stem that has one or two grass-like basal leaves. The ruffled,
+    petal-like segments make this flower unusual. Howell's Triteleia, (*T. howelii*),
+    from southern British Columbia to northern Oregon near the Cascade Mountains,
+    has much shorter flower stalks and only slightly ruffled petal-like segments that
+    vary from white to blue.
+- label: Leaves
+  icon: leaf
+  value: basal, linear, 1-2, flat but keeled beneath, 3-10 mm broad, mostly 25-50
+    cm long, not withered at flowering time.
+---
+
 # Large Flowered Triteleia
 
-## Large-floered triteleia. aka wild hyacinth
-
----
-
-GENESIS NAME:  Triteleia grandiflora
-Distribution:  wa, id, mt, or, ca, wy, ar.   southern bc
-SEASON:  Blooms April, May, June & July
-Medical use:  no
-Poisonous:  no
-Edibility:  The bulb of wild hyacinth is edible, raw or cooked. Having a sweet nut-like flavor, they can be used like potatoes. They are said by some people to be the tastiest of the North American edible bulbs, and are at their best when slow roasted for an hour when they become rather sweet. They were collected for food or medicine by the Thompson tribes among others. They were dug in the spring, along with the bulbs of yellowbells, just before the shoots appeared above ground. The young seedpods can be cooked as a potherb, and is an excellent green.
-FEATURES:  Pale or deep blue, narrowly bell-shaped flowers bloom in an umbel at the top of a leafless stem that has one or two grass-like basal leaves. The ruffled, petal-like segments make this flower unusual. Howell's Triteleia, (*T. howelii*), from southern British Columbia to northern Oregon near the Cascade Mountains, has much shorter flower stalks and only slightly ruffled petal-like segments that vary from white to blue.
-LEAVES:  basal, linear, 1-2, flat but keeled beneath, 3-10 mm broad, mostly 25-50 cm long, not withered at flowering time.
-​fruits:
-
----
+*Large-floered triteleia. aka wild hyacinth*
 
 ## Description
 

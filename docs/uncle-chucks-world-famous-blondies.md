@@ -20,7 +20,7 @@ Just make sure, it is not wet like a cake mix usually is.
 Add 1/3 of vanilla, and stir until it’s mixed well.
 Then add a third of the bag of chocolate chips, and stir in.
 Coat a 9x13 baking dish with non stick spray.
-Add each of the three mixes to the 9x13” baking dish, and level out.
+Add each of the three mixes to the 9x13" baking dish, and level out.
 t’s not necessary to pack it down. By doing so, it makes a thick blonde.
 Bake at 325° for 30 minutes. Make sure the top does not burn.
 When you take it out of the oven, it will not look done. TRUST ME, THEY ARE.

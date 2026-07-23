@@ -1,15 +1,28 @@
-# Myrtle Creek Falls
-
-## Myrtle creek falls
-
+---
+tags:
+- Waterfalls
+stats:
+- label: Waterfall
+  icon: waterfall
+  value: Myrtle Creek Falls
+- label: Drop
+  icon: arrow-collapse-down
+  value: 100' in two drops
+- label: Waterfall Type
+  icon: waterfall
+  value: Tiered
+- label: Distance Car to Falls
+  icon: map-marker-distance
+  value: .2 miles
+- label: Maps
+  icon: map
+  value: I.P.N.F., KOOTENAI National Wildlife Refuge, Moravia topo
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°’42"23" n 116°25’09" w
 ---
 
-WATERFALL : Myrtle Creek Falls
-DROP: 100' in two drops
-WATERFALL TYPE: Tiered
-​DISTANCE CAR TO FALLS: .2 miles
-MAPS: I.P.N.F., KOOTENAI National Wildlife Refuge, Moravia topo
-Gps: 48°’42”23" n 116°25’09” w
+# Myrtle Creek Falls
 
 ## Description
 

@@ -1,16 +1,26 @@
+---
+tags:
+- Paddling & Rivers
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: varies
+- label: Elevation
+  icon: terrain
+  value: 2067’
+- label: Length and Acreage
+  icon: vector-square
+  value: 65 mikes long, 148 square miles or 88,008 acres, 125 miles of shore line
+    & 1150 feet deep.
+- label: Maps
+  icon: map
+  value: IPNF, Elmira topo
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 48°16’46" n 126023’59" w
+---
+
 # Sunnyside Park Launch
-
-## Sunnyside launch
-
----
-
-PADDLE DISTANCE: varies
-Elevation: 2067’
-LENGTH AND ACREAGE: 65 mikes long, 148 square miles or 88,008 acres, 125 miles of shore line & 1150 feet deep.
-MAPS: IPNF, Elmira topo
-Launch gps: 48°16’46” n 126023’59” w
-
----
 
 ## Description
 

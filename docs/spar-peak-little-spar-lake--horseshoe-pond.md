@@ -1,34 +1,58 @@
+---
+tags:
+- Lakes
+- Day Hiking
+- Backpacking
+- Scrambling
+- Paddling
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, scrambling, paddling
+- label: Distance
+  icon: map-marker-distance
+  value: 7.4 miles RT to Little Spar Lake
+- label: Elevation
+  icon: terrain
+  value: '1852verts’ to Little Spar Lake #143'
+- label: Acres
+  icon: vector-square
+  value: spar 387…..little spar lake 37.3
+- label: Difficulty
+  icon: speedometer
+  value: Moderately Difficult to Little Spar Lake
+- label: Maps
+  icon: map
+  value: Kootenai N.F., Spar Lakes topo
+- label: GPS
+  icon: crosshairs-gps
+  value: Trailhead 34°15''48" N. 115°57'29" W
+- label: Maps
+  icon: map
+  value: Kootenai National Forest Map, Spar Lakes topo
+- label: Ranger District
+  icon: pine-tree
+  value: Three River R.D. 406.295.4693
+- label: Lincoln County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 406.293.4112
+notes:
+- 8 miles RT to Spar Peak
+- 9.4 miles RT to Horseshoe Lake
+- '2985verts to Spar Peak #324'
+- 500verts from Little Spar Lake to Horseshoe Pond, for a total of 2353 verts
+- Difficult to Spar Peak
+- Difficult to Horseshoe Pond
+- 'Spar Peak 48°13''25" N 115°59''14: W'
+- Little Spar Lake 48°12'56" N. 116°00'47"W
+- Horseshoe Pond. 48°122'49"N 116‚01;52" W
+- Kootenai national forest/alerts
+- <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+---
+
 # Spar Peak Little Spar Lake  Horseshoe Pond
 
-## spar peak #324,  Little spar lake #143  & horseshoe pond (chicwackin')
-
----
-
-EVENT TYPE: Day hiking, backpacking, scrambling, paddling
-DISTANCE:     7.4 miles RT to Little Spar Lake
-                               8 miles RT to Spar Peak
-                               9.4 miles RT to Horseshoe Lake
-Elevation:  1852verts’ to Little Spar Lake #143
-
-                                2985verts to Spar Peak #324
-
-                               500verts from Little Spar Lake to Horseshoe Pond, for a total of 2353 verts 
-​acres: spar 387…..little spar lake 37.3
-DIFFICULTY: Moderately Difficult to Little Spar Lake
-                               Difficult to Spar Peak
-                               Difficult to Horseshoe Pond
-MAPS: Kootenai N.F., Spar Lakes topo
-GPS:                    Trailhead 34°15''48" N. 115°57'29" W
-                               Spar Peak 48°13'25" N  115°59'14: W
-                               Little Spar Lake  48°12'56" N. 116°00'47"W
-​                               Horseshoe Pond. 48°122'49"N  116‚01;52" W
-MAPS: Kootenai National Forest Map, Spar Lakes topo
-RANGER DISTRICT:  Three River  R.D.   406.295.4693
-LINCOLN COUNTY SHERIFF: CALL 911 FIRST or 406.293.4112
-Kootenai national forest/alerts
-<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
-
----
+*spar peak #324,  Little spar lake #143  & horseshoe pond (chicwackin')*
 
 ## Description
 

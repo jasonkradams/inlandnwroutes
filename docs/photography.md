@@ -26,7 +26,7 @@ To see the difference, go to PICTURES and find your image. Tap the EDIT word  a
 
 ***Cameras***
 Whether you use a PnS or a DSLR, dust is your biggest enemy. DO NOT change lenses in a dusty environment. Strive to keep your equipment as clean as possible.
-When you get home or to your computer, download each day’s images and sort and store in appropriate files. Once they are safely stored on your computer, reinsert your card, and go into the menu on your camera and “Reformat” your card. This will erase all images from your card and give you full space for images.
+When you get home or to your computer, download each day’s images and sort and store in appropriate files. Once they are safely stored on your computer, reinsert your card, and go into the menu on your camera and "Reformat" your card. This will erase all images from your card and give you full space for images.
 
 **​*Smart phones***
 Have you ever noticed that your images are always too bright, or washed out?
@@ -47,13 +47,13 @@ The deletions cause a void on your card. If you get low on space, another image 
 Smart phones are an exception, on them you can delete unwanted images.
 
 ***White balance***
-No matter what camera you own, it is imperative to follow these instructions to the “T”.
+No matter what camera you own, it is imperative to follow these instructions to the "T".
 If you go into any of the menu or other settings, to shoot a particular scene or circumstance, in a certain way, be sure to cancel those settings out BEFORE changing or shooting in a different circumstance.
 For instance, if you set your camera’s White Balance (WB) for shooting indoors, and then go outside where the light is a different color temperature, your images will be incorrectly toned. Instead, go back into WB and reset for your new color temperatures. That’s why they put them in convenient places near your viewing screen.
 
 ***ASA* *or* *Iso settings***
 In everyday circumstances, your ISO, or the sensitivity of your sensor to light, should stay low, or around ISO 100. If you shoot in lower light settings, you could increase your ISO to 200 or even 400 and above.
-The higher the ISO is set, the grainier the image will appear. Settings over ISO 400, will cause more “noise” in your images. As in any camera settings, once you are done shooting in low light, for instance, change it back to a neutral setting for generic images.
+The higher the ISO is set, the grainier the image will appear. Settings over ISO 400, will cause more "noise" in your images. As in any camera settings, once you are done shooting in low light, for instance, change it back to a neutral setting for generic images.
  
 ***Exposure compensation***
 
@@ -90,7 +90,7 @@ Shoot as low of an ISO as possible. Use higher ISO’s for low light, or action 
 ***M, S, A, P.   (m= manual, s= shutter preferred, a= aperture preferred, and p= programed.*
 *​*P.**
 For the average shooter, P or Program will do everything you want, up to a point. On P you can actually change your shutter speeds or apertures, by using your command dial.
-Never use the “green camera” setting. It is for those who can’t or won’t learn their camera. Avoid at all costs.
+Never use the "green camera" setting. It is for those who can’t or won’t learn their camera. Avoid at all costs.
 
 ***S***
 If you are shooting sports or action images, the S setting, or Shutter Preferred setting, allows you to choose a high shutter speed to stop the action. Be sure to check your aperture settings, in the viewfinder, so that you know where your depth of field will be.

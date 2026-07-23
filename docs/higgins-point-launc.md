@@ -1,17 +1,30 @@
+---
+tags:
+- Trails & Scrambles
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: varies
+- label: Elevation
+  icon: terrain
+  value: 2128’
+- label: Length and Acreage
+  icon: vector-square
+  value: varies
+- label: Maps
+  icon: map
+  value: IPNF, Fernan topo
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 47°37’47" n 116041’28" w
+- label: Kootenai County Sheriff
+  icon: shield-account
+  value: 208.446.1300
+---
+
 # Higgins Point Launc
 
-## Higgins point launc​h
-
----
-
-PADDLE DISTANCE: varies
-Elevation: 2128’
-LENGTH AND ACREAGE: varies
-MAPS: IPNF, Fernan topo
-Launch gps: 47°37’47” n 116041’28” w
-​kootenai county sheriff: 208.446.1300
-
----
+*Higgins point launc​h*
 
 ## Description
 

@@ -1,20 +1,40 @@
+---
+tags:
+- Peaks & Mountains
+- Roped Snow
+- Ice Travel Training
+stats:
+- label: Event Type
+  icon: hiking
+  value: Roped snow and ice travel training
+- label: Distance
+  icon: map-marker-distance
+  value: 2.5 miles round trip to base camp
+- label: Elevation
+  icon: terrain
+  value: 1900' gain to base camp, 1500' gain from camp to summit
+- label: Difficulty
+  icon: speedometer
+  value: Difficult - This is a short but high intensity output activity
+- label: Maps
+  icon: map
+  value: '**IPNF, Stevens Lakes topo**'
+- label: GPS
+  icon: crosshairs-gps
+  value: '**Lower 47°43’36" N -115°75’96" W'
+- label: Ranger District
+  icon: pine-tree
+  value: CDA River R.D. 208.769.3000
+- label: Shoshone County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.556.1114**Idaho panhandle national forest/alerts
+notes:
+- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Stevens Peak Smi Mountain School
 
-## Stevens peak smi mountain school 6838’
-
----
-
-EVENT TYPE: Roped snow and ice travel training
-DISTANCE: 2.5 miles round trip to base camp
-ELEVATION: 1900' gain to base camp, 1500' gain from camp to summit
-DIFFICULTY: Difficult - This is a short but high intensity output activity 
-Maps: **IPNF, Stevens Lakes topo**
-Gps: **Lower 47°43’36” N -115°75’96” W
-RANGER DISTRICT:   CDA River R.D.  208.769.3000
-​SHOSHONE COUNTY SHERIFF: CALL 911 FIRST or 208.556.1114**Idaho panhandle national forest/alerts
-<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
+*Stevens peak smi mountain school 6838’*
 
 ## Description
 

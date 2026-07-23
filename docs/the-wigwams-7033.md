@@ -1,21 +1,42 @@
+---
+tags:
+- Trails & Scrambles
+- Hike
+- Scrambling
+- Backpack
+- Climb
+stats:
+- label: Event Type
+  icon: hiking
+  value: Hike, scrambling, backpack, and climb.
+- label: Distance
+  icon: map-marker-distance
+  value: 4 miles RT + 2 miles to the high ridge with views of the Two Mouth Lakes
+    area.
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 950' gain +
+- label: Difficulty
+  icon: speedometer
+  value: The trail to the Wigs is easy, but beyond is difficult +
+- label: Maps
+  icon: map
+  value: IPNF, Kaniksu N.F., The Wigwams
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°42’49" n -116°44’49" w
+- label: Ranger District
+  icon: pine-tree
+  value: Bonners Ferry R.D. 208.267.5561
+- label: Boundary County Sheriff
+  icon: shield-account
+  value: 911 or 208.267.3151
+notes:
+- Idaho panhandle national forest/alerts
+- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # The Wigwams 7033
-
-## The wigwams 7033’
-
----
-
-EVENT TYPE: Hike, scrambling, backpack, and climb.
-DISTANCE: 4 miles RT + 2 miles to the high ridge with views of the Two Mouth Lakes area.
-ELEVATION GAIN: 950' gain +
-DIFFICULTY: The trail to the Wigs is easy, but beyond is difficult +
-MAPS: IPNF, Kaniksu N.F., The Wigwams
-Gps: 48°42’49” n -116°44’49” w
-RANGER DISTRICT:  Bonners Ferry R.D.   208.267.5561
-BOUNDARY COUNTY SHERIFF: 911 or 208.267.3151
-Idaho panhandle national forest/alerts
-<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
 
 ## Description
 
@@ -34,7 +55,7 @@ You could park and walk, but it adds two miles RT. No lower clearance.
 Drive 23 miles past Priest River on SH #57 and turn east towards Coolin.  In about 5 1/4 miles turn east on the Cavanaugh Bay Road for 3.3 miles to the East Side Road. Its about 15 miles to the Two Mouth Lakes Road. On the Two Mouth Road, drive about 1/2 a mile and go left at the fork, crossing a creek and continue about 2 1/2 miles and go right. At about 2.9 miles near an Idaho Endowment Land sign go left and continue on FR #32 on a road with numerous switchbacks towards Klootch Mt.. In about 4.4 miles stay right onto Road 324 (not 325) and go up steeply to the trailhead.
 
 The last 1.2 mile require a four wheel vehicle with high clearance and good tires. Don’t ruin your car. Walk it instead.
-The “Trails of the Wild Selkirks” directions are wrong. Follow these.
+The "Trails of the Wild Selkirks" directions are wrong. Follow these.
 
 ## Cool things close by
 

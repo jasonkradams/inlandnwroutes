@@ -1,17 +1,28 @@
+---
+tags:
+- Waterfalls
+stats:
+- label: Waterfall
+  icon: waterfall
+  value: Palisades Creek Falls
+- label: Drop
+  icon: arrow-collapse-down
+  value: About 30'
+- label: Waterfall Type
+  icon: waterfall
+  value: Tiered
+- label: Distance Car to Falls
+  icon: map-marker-distance
+  value: 4.2 mile loop
+- label: Maps
+  icon: map
+  value: Spokane County, Spokane SW
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°39’28" n 117°29’?17" w
+---
+
 # Palisades Creek Falls
-
-## Palisades creek falls
-
----
-
-WATERFALL : Palisades Creek Falls
-DROP: About 30'
-WATERFALL TYPE: Tiered
-​DISTANCE CAR TO FALLS: 4.2 mile loop
-MAPS: Spokane County, Spokane SW
-Gps:  47°39’28” n 117°29’?17” w
-
----
 
 ## Description
 

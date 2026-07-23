@@ -1,21 +1,42 @@
+---
+tags:
+- Peaks & Mountains
+- Difficult
+- Hiking
+- Backpacking
+stats:
+- label: Event Type
+  icon: hiking
+  value: Hiking & Backpacking
+- label: Distance
+  icon: map-marker-distance
+  value: 35 Miles RT, (Pyramid Pass 2.7 & 1300 verts)
+- label: Elevation Gain
+  icon: elevation-rise
+  value: From the Canyon Creek TH 5280’ from Parker Creek TH 4570’
+- label: Difficulty
+  icon: speedometer
+  value: Difficult
+- label: Maps
+  icon: map
+  value: IPNF, Kaniksu N.F., Smith Peak, Pyramid Peak, Shorty Peak
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°52’25" n 116°35’16" w
+- label: Ranger District
+  icon: pine-tree
+  value: Bonners Ferry R.D. 208.267.5561
+- label: Boundary County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.267.3151
+notes:
+- Idaho panhandle national forest/alerts
+- '[https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)'
+---
+
 # Parker Peak 7670
 
-## Parker peak 7670' trail #’s 16, 7 & 221
-
----
-
-EVENT TYPE: Hiking & Backpacking
-DISTANCE: 35 Miles RT,     (Pyramid Pass 2.7  & 1300 verts)
-ELEVATION GAIN: From the Canyon Creek TH 5280’ from Parker Creek TH 4570’
-DIFFICULTY: Difficult
-MAPS: IPNF, Kaniksu N.F., Smith Peak, Pyramid Peak, Shorty Peak
-Gps: 48°52’25” n 116°35’16” w
-RANGER DISTRICT:  Bonners Ferry R.D.   208.267.5561
-BOUNDARY COUNTY SHERIFF: CALL 911 FIRST or 208.267.3151
-Idaho panhandle national forest/alerts
-[​<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)
-
----
+*Parker peak 7670' trail #’s 16, 7 & 221*
 
 ## Description
 

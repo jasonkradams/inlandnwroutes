@@ -58,7 +58,7 @@ From this info, you can see what the winds are doing on windy.com.
 
 <https://www.weather.gov>
 Whenever you log onto the above link, read the words explaining what the day will be like,
-then scroll down to the “Hourly Weather Forecast” graph, usually down the right side.
+then scroll down to the "Hourly Weather Forecast" graph, usually down the right side.
 Open the graph and examine each row to learn its value.
 It’s my go to weather info site.
 Please see the hourly weather forecast graph below​
@@ -136,7 +136,7 @@ First and foremost, check the weather reports. If thunder is predicted, don’t 
 
 To read a daily weather chart that explains all aspects of the weather report,
 Log onto [Nooa.gov](http://nooa.gov/). or [forecast.weather.gov](http://forecast.weather.gov/)
-Then scroll down the right side of the page to a graph called “Hourly Weather Forecast”
+Then scroll down the right side of the page to a graph called "Hourly Weather Forecast"
 
 This graph will explain aspects of what is predicted.
 Above the graph is an area to select the different features.
@@ -154,7 +154,7 @@ The below information was collected from the CDC website.
 Our earth receives about 8 million strikes per day.
 On average, 27 Americans die each year from lightning, and 300 are injured .
 10% who are struck, die from heart attacks.
-Florida and Texas are known as “Lightning Capitols”.
+Florida and Texas are known as "Lightning Capitols".
 Yet another reason to live in the opposite side of the U.S. But, DO NOT TELL ANYONE!
 
 ***Info you need to know***

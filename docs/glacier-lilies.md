@@ -1,23 +1,65 @@
+---
+tags:
+- Trails & Scrambles
+stats:
+- label: Genesis Name
+  icon: book-open-variant
+  value: Eyrthronium grandiflorum
+- label: Distribution
+  icon: earth
+  value: Western Canada and U.S.A. including California, Utah and Colorado
+- label: Season
+  icon: calendar
+  value: April thru June
+- label: Medical Use
+  icon: medical-bag
+  value: Medical applications include **reducing fever, swelling, infection**, and
+    they were used as a contraceptive. The glacier lily was collected during the Lewis
+    and Clark Expedition.
+- label: Poisonous
+  icon: skull-crossbones
+  value: 'No'
+- label: Edibility
+  icon: food-apple
+  value: Yes. Try them in sandwiches and salads.
+- label: Features
+  icon: information-outline
+  value: Gorgeous yellow pedals that curl up to expose their petals and sepals.
+- label: Leaves
+  icon: leaf
+  value: The leaves are green and can measure 3-5 inches long. The stem to the flower
+    can be around 6 inches tall.
+- label: Fruits
+  icon: fruit-cherries
+  value: The yellow leaves are edible as well as the bulbs. But the bulbs need to
+    be cooked or baked
+notes:
+- Glacier lily bulbs were a food source for some Native American tribes. These deep-rooted
+  bulbs were difficult to dig, which probably contributed to the fact that they were
+  used infrequently. Bulbs were eaten boiled or dried to eat during the winter months.
+  The bulbs can cause a burning sensation when eaten.
+- What I later found is that glacier lilies are ephemeral, living only 10 weeks between
+  first emergence and leaf fall. A perennial herb, the flower is also known as the
+  dogtooth violet, fawn lily or avalanche lily and is native to western North American
+  from southern British Columbia to northern California, and east to Alberta, Colorado
+  and Wyoming. It overwinters as a corm, lying dormant under the frozen ground, and
+  emerges soon after the snow melts on sagebrush slopes. In Montana, glacier lilies
+  also regenerate by dropping their seeds gradually and slowly as the wind or animals
+  disturb the flowers. In turn, the seeds require one hundred days of cold before
+  they can germinate. Some individuals of the flower take eight years to reach full
+  reproductive maturity.
+- The Shoshone ate the corms fresh or with soup, and the dried bulbs were a popular
+  trade item between tribes. The leaves are edible as well and the green seed pods
+  taste like green beans when cooked. Medical applications include reducing fever,
+  swelling, infection, and they were used as a contraceptive. The glacier lily was
+  collected during the Lewis and Clark Expedition. Meriwether Lewis mentioned this
+  species numerous times in his journal. This may be because he thought it could be
+  used as a "botanical calendar" to help track the onset of spring.
+---
+
 # Glacier Lilies
 
-## Glacier lilies.  aka fawn lilies, dogtooth violet
-
----
-
-GENESIS NAME: Eyrthronium grandiflorum
-DISTRIBUTION:  Western Canada and U.S.A. including California, Utah and Colorado
-SEASON: April thru June
-Medical use: Medical applications include **reducing fever, swelling, infection**, and they were used as a contraceptive. The glacier lily was collected during the Lewis and Clark Expedition.
-​POISONOUS: No
-EDIBILITY: Yes. Try them in sandwiches and  salads.  
-Glacier lily bulbs were a food source for some Native American tribes. These deep-rooted bulbs were difficult to dig, which probably contributed to the fact that they were used infrequently. Bulbs were eaten boiled or dried to eat during the winter months. The bulbs can cause a burning sensation when eaten.
-FEATURES: Gorgeous yellow pedals that curl up to expose their petals and sepals.
-What I later found is that glacier lilies are ephemeral, living only 10 weeks between first emergence and leaf fall. A perennial herb, the flower is also known as the dogtooth violet, fawn lily or avalanche lily and is native to western North American from southern British Columbia to northern California, and east to Alberta, Colorado and Wyoming. It overwinters as a corm, lying dormant under the frozen ground, and emerges soon after the snow melts on sagebrush slopes. In Montana, glacier lilies also regenerate by dropping their seeds gradually and slowly as the wind or animals disturb the flowers. In turn, the seeds require one hundred days of cold before they can germinate. Some individuals of the flower take eight years to reach full reproductive maturity.
-The Shoshone ate the corms fresh or with soup, and the dried bulbs were a popular trade item between tribes. The leaves are edible as well and the green seed pods taste like green beans when cooked. Medical applications include reducing fever, swelling, infection, and they were used as a contraceptive. The glacier lily was collected during the Lewis and Clark Expedition. Meriwether Lewis mentioned this species numerous times in his journal. This may be because he thought it could be used as a “botanical calendar” to help track the onset of spring.
-LEAVES: The leaves are green and can measure 3-5 inches long. The stem to the flower can be around 6 inches tall.
-FRUITS: The yellow leaves are edible as well as the bulbs. But the bulbs need to be cooked or baked
-
----
+*Glacier lilies.  aka fawn lilies, dogtooth violet*
 
 ## Description
 

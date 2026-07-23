@@ -1,17 +1,16 @@
+---
+tags:
+- Paddling & Rivers
+stats:
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+- label: Spokane County Sheriff
+  icon: shield-account
+  value: 509.447.2240
+---
+
 # 9 Mile Recreation Area Launch
-
-## 9 mile recreation area launch
-
----
-
-Paddle distance: 
-Elevation: 
-Length and acreage: 
-Maps:
-Launch gps: ??° ??’ ??.?”n ???° ??’ ??.?”w
-Spokane county sheriff: 509.447.2240
-
----
 
 ## Description
 

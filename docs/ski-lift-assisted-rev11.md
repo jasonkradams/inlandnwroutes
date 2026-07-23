@@ -1,15 +1,25 @@
-# Ski Lift Assisted Rev11
-
-## ????
-
+---
+stats:
+- label: Phone
+  icon: phone
+  value: ???
+- label: Acres
+  icon: vector-square
+  value: ???
+- label: Average Snow Fall
+  icon: weather-snowy-heavy
+  value: ???
+- label: Base Elevation
+  icon: terrain
+  value: ???
+- label: Verts
+  icon: arrow-expand-vertical
+  value: ???
+notes:
+- '.com: ????'
 ---
 
-.com: ????
-Phone: ???
-Acres: ???
-​average snow fall: ???
-Base elevation: ???
-Verts: ???
+# Ski Lift Assisted Rev11
 
 ## of named runs: ???
 

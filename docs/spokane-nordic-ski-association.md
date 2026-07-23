@@ -1,15 +1,28 @@
+---
+tags:
+- Winter & Skiing
+stats:
+- label: Resort Name
+  icon: domain
+  value: Spokane Nordic Ski Association
+- label: Type of Business
+  icon: ski
+  value: Nordic Ski Club (501c3 Non-Profit)
+- label: Website
+  icon: web
+  value: '[www.spokanenordic.org](https://www.spokanenordic.org)'
+- label: Address
+  icon: map-marker
+  value: PO BOX 501, Spokane, WA 99210
+- label: Phone
+  icon: phone
+  value: n/a
+- label: Email
+  icon: web
+  value: '[Email Protected](mailto:protected@example.com)'
+---
+
 # Spokane Nordic Ski Association
-
----
-
-RESORT NAME: Spokane Nordic Ski Association 
-TYPE OF BUSINESS: Nordic Ski Club (501c3 Non-Profit)
-Website:  [www.spokanenordic.org](https://www.spokanenordic.org)
-ADDRESS: PO BOX 501, Spokane, WA 99210 
-Phone: n/a 
-Email: [Email Protected](mailto:protected@example.com)
-
----
 
 ## Description
 

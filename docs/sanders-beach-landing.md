@@ -1,16 +1,22 @@
+---
+tags:
+- Trails & Scrambles
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: varies
+- label: Elevation
+  icon: terrain
+  value: 2128’
+- label: Length and Acreage
+  icon: vector-square
+  value: varies
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: west 47°39’58" n 116°46’10" w. east 47°39’57" n 116°45’53" w
+---
+
 # Sanders Beach Landing
-
-## Sanders beach landing
-
----
-
-PADDLE DISTANCE: varies
-Elevation: 2128’
-LENGTH AND ACREAGE: varies
-Maps:
-Launch gps: west 47°39’58” n 116°46’10” w. east 47°39’57” n 116°45’53” w
-
----
 
 ## Description
 

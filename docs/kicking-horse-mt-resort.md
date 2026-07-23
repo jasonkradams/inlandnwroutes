@@ -1,16 +1,32 @@
-# Kicking Horse Mt Resort
-
-## Kicking horse mountain resort. golden, b.c
-
+---
+tags:
+- Winter & Skiing
+stats:
+- label: Phone
+  icon: phone
+  value: 250.439.5425 or 866.754.5425
+- label: Acres
+  icon: vector-square
+  value: 3400+
+- label: Average Snow Fall
+  icon: weather-snowy-heavy
+  value: 288"
+- label: Summit Elevation
+  icon: terrain
+  value: 8218'
+- label: Base Elevation
+  icon: terrain
+  value: ???3904'
+- label: Verts
+  icon: arrow-expand-vertical
+  value: 4313'
+notes:
+- Kockinghorseresort.com
 ---
 
-Kockinghorseresort.com
-Phone: 250.439.5425 or 866.754.5425
-Acres: 3400+
-​average snow fall: 288"
-Summit elevation: 8218'
-Base elevation: ???3904'
-Verts: 4313'
+# Kicking Horse Mt Resort
+
+*Kicking horse mountain resort. golden, b.c*
 
 ## of named runs: 120+
 
@@ -42,7 +58,7 @@ Oberti’s vision was to create a skiing experience much like that in the Alps w
 
 [Kicking Horse](http://kickinghorseresort.com/) opened in 2000 to the sheer delight of skiers and boarders. Two hotels at the bottom were spitting distance to the gondola.
 It was instant nirvana. From the peak the views stole hearts and fanatics sighed in ecstasy when scanning the alpine bowls, steep chutes, pillowy glades and wide long trails that sprawled beneath their ski tips. But there was one itty-bitty problem - someone forget to notify the snow gods that they were open for business. The first few seasons saw some skiers curse the short seasons that ended on the last brown pitch to the base. Snow-making machines for the lower elevation would have to come in handy.
-The snow came back and [Kicking Horse](http://kickinghorseresort.com/) and the fanatics returned each year, converting more “Horse” lovers. It grew in popularity with the skiers who would drive that extra mile looking for fresh tracks, wide open spaces and kickass terrain. Private homes and boutique hotels filled in the slope to the west while more runs and a few more lifts were added.
+The snow came back and [Kicking Horse](http://kickinghorseresort.com/) and the fanatics returned each year, converting more "Horse" lovers. It grew in popularity with the skiers who would drive that extra mile looking for fresh tracks, wide open spaces and kickass terrain. Private homes and boutique hotels filled in the slope to the west while more runs and a few more lifts were added.
 In December 2011 there was big news. Resorts of the Canadian Rockies (RCR) was signing the dotted line on a sales agreement. Oberti had accomplished his goal of creating another successful resort and RCR wanted another resort on the Powder Highway in their portfolio.
 Today, [Kicking Horse](http://kickinghorseresort.com/) has four lifts taking guests to over 2,800 acres of skiable terrain with a stash of over 1,000 more acres waiting to be opened. There are 121 marked runs, four bowls, countless chutes and terrain to challenge everyone with 20 per cent perfect for beginners, 20 per cent for intermediates, 45 per cent for the advanced skier and 15 per cent ready to kick the experts into next week. Each winter the summit sees an annual snowfall of over seven metres while the mid-mountain runs are covered in almost four metres of that champagne powder.  
 

@@ -1,16 +1,32 @@
-# Jackson Hole Ski Resort
-
-## Jackson hole mountain  resort   teton village, wy
-
+---
+tags:
+- Winter & Skiing
+stats:
+- label: Phone
+  icon: phone
+  value: 307.733.2292
+- label: Acres
+  icon: vector-square
+  value: '2500'
+- label: Average Snow Fall
+  icon: weather-snowy-heavy
+  value: 459"
+- label: Summit Elevation
+  icon: terrain
+  value: 10450'
+- label: Base Elevation
+  icon: terrain
+  value: 6311'
+- label: Verts
+  icon: arrow-expand-vertical
+  value: 4139'
+notes:
+- Jacksonhole.com
 ---
 
-Jacksonhole.com
-Phone: 307.733.2292
-Acres: 2500
-​average snow fall: 459"
-Summit elevation:  10450'
-Base elevation: 6311'
-Verts: 4139'
+# Jackson Hole Ski Resort
+
+*Jackson hole mountain  resort   teton village, wy*
 
 ## of named runs: 130
 

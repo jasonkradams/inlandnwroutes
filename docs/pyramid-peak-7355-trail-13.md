@@ -1,22 +1,43 @@
+---
+tags:
+- Peaks & Mountains
+- Moderate Hike, Difficult Ascent.
+- Hiking
+- Scrambling
+stats:
+- label: Event Type
+  icon: hiking
+  value: Hiking & scrambling
+- label: Distance
+  icon: map-marker-distance
+  value: About 6 Miles RT. (P. Pass 2.7 & 1300')
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 2005' gain. 643’ from Pass to Summit.
+- label: Acres
+  icon: vector-square
+  value: '6.5'
+- label: Difficulty
+  icon: speedometer
+  value: Moderate hike, Difficult ascent.
+- label: Maps
+  icon: map
+  value: IPNF-Kaniksu N. F., USG-Pyramid Peak
+- label: GPS
+  icon: crosshairs-gps
+  value: 48° 48’ 19.7"n 116° 35’ 57.7"w
+- label: Ranger District
+  icon: pine-tree
+  value: Bonners Ferry R.D. 208.267.5561
+- label: Boundary County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.267.3151
+notes:
+- Idaho panhandle national forest/alerts
+- '[https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)'
+---
+
 # Pyramid Peak 7355 Trail 13
-
-## Pyramid peak 7355' trail #13
-
----
-
-EVENT TYPE: Hiking & scrambling
-DISTANCE: About 6 Miles RT.    (P. Pass 2.7  & 1300') 
-ELEVATION GAIN: 2005' gain. 643’ from Pass to Summit.
-​acres: 6.5
-DIFFICULTY: Moderate hike, Difficult ascent.
-MAPS: IPNF-Kaniksu N. F., USG-Pyramid Peak
-Gps: 48° 48’ 19.7”n 116° 35’ 57.7”w
-RANGER DISTRICT:  Bonners Ferry R.D.   208.267.5561
-​BOUNDARY COUNTY SHERIFF: CALL 911 FIRST or 208.267.3151
-Idaho panhandle national forest/alerts
-[​<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)
-
----
 
 ## Description
 
@@ -27,7 +48,7 @@ Once at Pyramid Pass, turn left (south) and look for a primitive trail leading t
 You have to pick your way up the steep terrain over and around boulders, often times scrambling. But when you see the summit just above you, and summit it, you will be amazed and astonished that you made it, and of the incredible views.
 From the summit, the views all around are spectacular, especially looking down Long Canyon. Nowhere else do you get such a great view of the canyon.
 And thats not all, the 360° views so worth the scramble.
-​please read “hazards”below
+​please read "hazards"below
 
 ## Option #1
 

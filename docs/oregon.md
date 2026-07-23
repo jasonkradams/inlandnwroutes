@@ -24,7 +24,7 @@ Fun facts about oregon
 
 1. Oregon’s state birthday is on February 14, Valentine’s Day.
 
-1. The “Oregon Pioneer” statue that tops the capitol building is a work by Ulric Ellerhusen. This heroic figure represents the spirit of Oregon’s early settlers.
+1. The "Oregon Pioneer" statue that tops the capitol building is a work by Ulric Ellerhusen. This heroic figure represents the spirit of Oregon’s early settlers.
 
 1. The state park system has 159 yurts located in 19 parks. Yurts are a circular domed tent suitable for camping.
 
@@ -50,7 +50,7 @@ Fun facts about oregon
 
 1. The H.J. Andrews Experimental Forest is one of the largest long-term ecological research sites in the United States.
 
-1. Eugene is rated by “Bicycling Magazine” as one of the top ten cycling communities in the United States.
+1. Eugene is rated by "Bicycling Magazine" as one of the top ten cycling communities in the United States.
 
 1. There are nine lighthouses standing along the coastline. Five are still being used; the others are designated historic monuments.
 

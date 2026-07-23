@@ -1,17 +1,30 @@
+---
+tags:
+- Trails & Scrambles
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: varies
+- label: Elevation
+  icon: terrain
+  value: 2128’
+- label: Length and Acreage
+  icon: vector-square
+  value: varies
+- label: Maps
+  icon: map
+  value: IPNF., Plummer & Chatcolet
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 47°21’13" n 116°46’22" w
+- label: Benewah County Sheriff
+  icon: shield-account
+  value: 208.245.2555
+---
+
 # Hawleys Landing
 
-## Hawley's landing in heyburn s.p
-
----
-
-PADDLE DISTANCE: varies
-Elevation: 2128’
-LENGTH AND ACREAGE: varies
-MAPS: IPNF., Plummer & Chatcolet
-Launch gps: 47°21’13” n 116°46’22” w
-​benewah county sheriff: 208.245.2555
-
----
+*Hawley's landing in heyburn s.p*
 
 ## Description
 

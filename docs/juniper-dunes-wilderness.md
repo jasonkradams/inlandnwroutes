@@ -1,19 +1,38 @@
+---
+tags:
+- Trails & Scrambles
+- Easy
+- Day Hiking
+- Backpacking
+- Photography
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, Backpacking, photography
+- label: Distance
+  icon: map-marker-distance
+  value: 4+ miles RT
+- label: Elevation
+  icon: terrain
+  value: 70 verts
+- label: Difficulty
+  icon: speedometer
+  value: Easy
+- label: Maps
+  icon: map
+  value: Rye Grass Coulee, Levy SW, Levy NE
+- label: GPS
+  icon: crosshairs-gps
+  value: 46°52’72" n 118°49’52" w
+- label: Managing Agency
+  icon: domain
+  value: blm. 509.536.1200
+- label: Franklin County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 509.536.1200
+---
+
 # Juniper Dunes Wilderness
-
-## Juniper dunes wilderness
-
----
-
-EVENT TYPE: Day hiking, Backpacking, photography
-DISTANCE: 4+ miles RT
-ELEVATION: 70 verts
-DIFFICULTY: Easy
-MAPS: Rye Grass Coulee, Levy SW, Levy NE
-Gps: 46°52’72” n 118°49’52” w
-Managing agency:  blm. 509.536.1200
-​FRANKLIN COUNTY SHERIFF: CALL 911 FIRST or 509.536.1200
-
----
 
 ## Description
 

@@ -1,20 +1,40 @@
+---
+tags:
+- Trails & Scrambles
+- Easy +
+- Day Hiking
+stats:
+- label: Event Type
+  icon: hiking
+  value: day hiking
+- label: Distance
+  icon: map-marker-distance
+  value: 7 miles RT
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 2150 verts
+- label: Difficulty
+  icon: speedometer
+  value: Easy +
+- label: Maps
+  icon: map
+  value: ipnf, kaniksu n. f.
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°18’39 n 116°34’05" w
+- label: Ranger District
+  icon: pine-tree
+  value: Sandpoint R.D. 208.263.5111
+- label: Bonner County Sheriff
+  icon: shield-account
+  value: 911 or 208.263.8417
+notes:
+- Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Mickinnick Trail
 
-## Mickinnick trail #13
-
----
-
-EVENT TYPE: day hiking
-DISTANCE: 7 miles RT
-ELEVATION GAIN: 2150 verts
-DIFFICULTY: Easy +
-Maps: ipnf, kaniksu n. f.
-Gps: 48°18’39 n 116°34’05” w
-RANGER DISTRICT:   Sandpoint R.D.   208.263.5111
-BONNER COUNTY SHERIFF: 911 or 208.263.8417
-Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
+*Mickinnick trail #13*
 
 ## Description
 

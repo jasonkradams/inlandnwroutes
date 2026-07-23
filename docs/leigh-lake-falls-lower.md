@@ -1,18 +1,28 @@
+---
+tags:
+- Lakes
+stats:
+- label: Waterfall
+  icon: waterfall
+  value: 'Leigh Creek Falls Trail #132'
+- label: Drop
+  icon: arrow-collapse-down
+  value: about 100'
+- label: Waterfall Type
+  icon: hiking
+  value: plunge, cascades, fans, blocks, horsetails, tiers, chutes and slides
+- label: Distance Car to Falls
+  icon: map-marker-distance
+  value: 1.2 miles
+- label: Maps
+  icon: map
+  value: Kootenai National Forest, Cabinet Mountain Wilderness, Snowshoe Peak topo
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°13’32" n 115°39’?17" w
+---
+
 # Leigh Lake Falls Lower
-
-## Leigh lake falls lower​
-
----
-
-WATERFALL : Leigh Creek Falls Trail #132
-
-Drop: about 100'
-WATERFALL TYPE: plunge, cascades, fans, blocks, horsetails, tiers, chutes and slides
-​DISTANCE CAR TO FALLS: 1.2 miles
-MAPS: Kootenai National Forest, Cabinet Mountain Wilderness, Snowshoe Peak topo
-Gps: 48°13’32” n 115°39’?17” w
-
----
 
 ## Description
 

@@ -1,19 +1,53 @@
+---
+tags:
+- Trails & Scrambles
+stats:
+- label: Genesis Name
+  icon: book-open-variant
+  value: Spiraea alba
+- label: Distribution
+  icon: earth
+  value: Northern and eastern states. Most of Canada
+- label: Season
+  icon: calendar
+  value: June thru September
+- label: Medical Use
+  icon: medical-bag
+  value: The plant is commonly used to treat childhood diarrhea. Because it contains
+    salicylates, there is a **risk of causing Reye's syndrome** when given to children
+    under 12 years.
+- label: Poisonous
+  icon: skull-crossbones
+  value: 'Because it contains salicylates, there is a risk of **causing Reye''s syndrome**
+    when given to children under 12 years.EDIBILITY: Young leaves are edible but are
+    commonly used in soups and to make tea. Meadowsweet is a perennial plant in the
+    Rosaceae family. Although **edible**, meadowsweet is more recognized as an herbal
+    medicine used to help with many maladies. In particular the flower head contains
+    salicylic acid.'
+- label: Features
+  icon: information-outline
+  value: Meadowsweet is considered a shrub rather than a wildflower and it tends to
+    grow in colonies. When in bloom it is very easy to identify. Meadowsweet is a
+    large, clump-forming, upright perennial that typically grows relatively tall.
+- label: Leaves
+  icon: leaf
+  value: Meadowsweet leaves are alternate (up to 3" long and 3/4" across) and occur
+    along the young branches. The leaves are narrowly ovate, sharply serrated, pinnately
+    veined, and glabrous (rarely sparsely hairy underneath); they have short petioles.
+    The upper side of each leaf is medium green, while its lower side is pale green.
+    The branches terminate in panicles of flowers.
+- label: Fruits
+  icon: fruit-cherries
+  value: The brown fruit, which persists after flowering, is a distinctive feature
+    of all Spiraea. Although less spectacular than the showy, introduced garden spiraeas,
+    this native species is most suitable for naturalistic landscaping. Virginia Spiraea
+    ([*S. virginiana*](https://www.wildflower.org/plants/result.php?id_plant=SPVI2)),
+    with a rounded, short, broad flower cluster and thin oblong leaves
+---
+
 # Meadowsweet
 
-## Meadowsweet  aka  white meadowsweet
-
----
-
-GENESIS NAME:  Spiraea alba
-DISTRIBUTION:  Northern and eastern states.  Most of Canada
-SEASON:  June thru September
-Medical use:  The plant is commonly used to treat childhood diarrhea. Because it contains salicylates, there is a **risk of causing Reye's syndrome** when given to children under 12 years.
-Poisonous:  Because it contains salicylates, there is a risk of **causing Reye's syndrome** when given to children under 12 years.EDIBILITY:  Young leaves are edible but are commonly used in soups and to make tea.  Meadowsweet is a perennial plant in the Rosaceae family. Although **edible**, meadowsweet is more recognized as an herbal medicine used to help with many maladies. In particular the flower head contains salicylic acid.
-F​EATURES:  Meadowsweet is considered a shrub rather than a wildflower and it tends to grow in colonies. When in bloom it is very easy to identify. Meadowsweet is a large, clump-forming, upright perennial that typically grows relatively tall.
-​LEAVES:  Meadowsweet leaves are alternate (up to 3" long and 3/4" across) and occur along the young branches. The leaves are narrowly ovate, sharply serrated, pinnately veined, and glabrous (rarely sparsely hairy underneath); they have short petioles. The upper side of each leaf is medium green, while its lower side is pale green. The branches terminate in panicles of flowers.
-FRUITS:  The brown fruit, which persists after flowering, is a distinctive feature of all Spiraea. Although less spectacular than the showy, introduced garden spiraeas, this native species is most suitable for naturalistic landscaping. Virginia Spiraea ([*S. virginiana*](https://www.wildflower.org/plants/result.php?id_plant=SPVI2)), with a rounded, short, broad flower cluster and thin oblong leaves
-
----
+*Meadowsweet  aka  white meadowsweet*
 
 ## Description
 

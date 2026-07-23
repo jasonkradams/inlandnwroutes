@@ -1,20 +1,41 @@
+---
+tags:
+- Waterfalls
+- Easy
+- Day Hike
+- Backpack
+- Mt. Biking
+- Swimming
+stats:
+- label: Event Type
+  icon: waterfall
+  value: Day hike, backpack, Mt. Biking, swimming
+- label: Distance
+  icon: map-marker-distance
+  value: 16.2 miles RT
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 640’
+- label: Difficulty
+  icon: speedometer
+  value: easy
+- label: Maps
+  icon: map
+  value: I.P.N.F., Kaniksu N.F., Continental Mountain
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°53’45" n 116°57’51" w
+- label: Ranger District
+  icon: pine-tree
+  value: Priest Lake r.d. 208.443.2512
+- label: Boundary County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208. 267.3151
+notes:
+- Idaho panhandle national forest/alerts [https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)
+---
+
 # American Falls Trail 308
-
-## American falls trail #308
-
----
-
-EVENT TYPE: Day hike, backpack, Mt. Biking, swimming
-DISTANCE: 16.2 miles RT
-Elevation Gain: 640’​
-DIFFICULTY: easy
-MAPS: I.P.N.F., Kaniksu N.F., Continental Mountain
-Gps: 48°53’45” n 116°57’51” w
-RANGER DISTRICT:  Priest Lake r.d.   208.443.2512
-BOUNDARY COUNTY SHERIFF: CALL 911 FIRST or  208. 267.3151
-Idaho panhandle national forest/alerts [​<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)
-
----
 
 ## Description
 

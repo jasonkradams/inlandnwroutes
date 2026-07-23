@@ -1,17 +1,28 @@
+---
+tags:
+- Paddling & Rivers
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: varies
+- label: Elevation
+  icon: terrain
+  value: 2128’
+- label: Length and Acreage
+  icon: vector-square
+  value: varies
+- label: Maps
+  icon: map
+  value: IPNF, Fernan lake, Mt. CDA topos
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 47°37’51" n 116°40’51" w
+- label: Kootenai County Sheriff
+  icon: shield-account
+  value: 208.446.1300
+---
+
 # Blue Bay Landing
-
-## Blue bay landing
-
----
-
-PADDLE DISTANCE: varies
-Elevation: 2128’
-LENGTH AND ACREAGE: varies
-MAPS: IPNF, Fernan lake, Mt. CDA topos
-Launch gps: 47°37’51” n 116°40’51” w
-​kootenai county sheriff: 208.446.1300
-
----
 
 ## Description
 

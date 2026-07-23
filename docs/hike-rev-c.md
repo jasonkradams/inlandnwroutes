@@ -1,17 +1,35 @@
+---
+tags:
+- Trails & Scrambles
+- Hiking
+- Backpacking
+- Scrambling
+stats:
+- label: Event Type
+  icon: hiking
+  value: Hiking, backpacking, scrambling
+- label: Distance
+  icon: map-marker-distance
+  value: Lake 12 miles RT. Lake basin circuit about 5 miles RT
+- label: Elevation
+  icon: terrain
+  value: St Joe Lake 6472’, Unnamed Peak 7260’, Graves Peak 7235’, Illinois Peak 7690’,
+    Gold Crown Peak 7374’
+- label: Difficulty
+  icon: speedometer
+  value: St Joe Lake Moderate, Unnamed Peak 7260’ Difficult, Graves Peak Moderate,
+    Illinois Peak Moderate, Gold Crown Peak Difficult
+- label: Maps
+  icon: map
+  value: IPNF - St Joe N.F., Illinois Peak, MT-ID
+- label: GPS
+  icon: crosshairs-gps
+  value: n47° 1’ 3.71" w115° 4’ 51.49"
+---
+
 # Hike Rev C
 
-## St joe lake 6472’ illinois peak 7690’
-
----
-
-EVENT TYPE: Hiking, backpacking, scrambling
-DISTANCE: Lake 12 miles RT. Lake basin circuit about 5 miles RT
-ELEVATION: St Joe Lake 6472’, Unnamed Peak 7260’, Graves Peak 7235’, Illinois Peak 7690’, Gold Crown Peak 7374’
-DIFFICULTY: St Joe Lake Moderate, Unnamed Peak 7260’ Difficult, Graves Peak Moderate, Illinois Peak Moderate, Gold Crown Peak Difficult
-MAPS: IPNF - St Joe N.F., Illinois Peak, MT-ID
-Gps: n47° 1’ 3.71” w115° 4’ 51.49”
-
----
+*St joe lake 6472’ illinois peak 7690’*
 
 ## Description
 
@@ -53,6 +71,14 @@ Radio Brewing in Kellogg, City Limits Pub in Wallace
 
 ## St Joe Lake
 
-|  |  |  |
-| --- | --- | --- |
-| [Picture](/assets/images/img-1826-1.jpg) | [Picture](/assets/images/img-1845-1.jpg)  [Picture](/assets/images/img-6082-1-1.jpg)  [Picture](/assets/images/img-1878-1-1.jpg) | [Picture](/assets/images/img-1865-1.jpg)  [Picture](/assets/images/img-1878-2.jpg) |
+![Picture](/assets/images/img-1826-1.jpg)
+
+![Picture](/assets/images/img-1845-1.jpg)
+
+![Picture](/assets/images/img-6082-1-1.jpg)
+
+![Picture](/assets/images/img-1878-1-1.jpg)
+
+![Picture](/assets/images/img-1865-1.jpg)
+
+![Picture](/assets/images/img-1878-2.jpg)

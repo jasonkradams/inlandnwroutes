@@ -1,17 +1,28 @@
+---
+tags:
+- Trails & Scrambles
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: varies
+- label: Elevation
+  icon: terrain
+  value: 2030'
+- label: Length and Acreage
+  icon: vector-square
+  value: varies
+- label: Maps
+  icon: map
+  value: Spokane County Conservation Futures
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 47°41'53" n 117°02'29" w
+- label: Spokane County Sheriff
+  icon: shield-account
+  value: 509.477.2240
+---
+
 # Gateway Regional Park
-
-## Gateway regional park
-
----
-
-PADDLE DISTANCE: varies
-Elevation: 2030'
-LENGTH AND ACREAGE: varies
-MAPS: Spokane County Conservation Futures
-Launch gps:  47°41'53" n   117°02'29" w
-Spokane county sheriff: 509.477.2240
-
----
 
 ## Description
 

@@ -1,17 +1,28 @@
+---
+tags:
+- Lakes
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: about 3.8 miles shore line paddle
+- label: Elevation
+  icon: terrain
+  value: 2186’
+- label: Length and Acreage
+  icon: vector-square
+  value: 1.2 miles and 539 acres
+- label: Maps
+  icon: map
+  value: Newman Lake & Mount Spokane topos
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 47°46’13" n. 117°01’04" w
+- label: Kootenai County Sheriff
+  icon: shield-account
+  value: 208.446.1300
+---
+
 # Hauser Lake Park Launch
-
-## Hauser lake park launch
-
----
-
-PADDLE DISTANCE: about 3.8 miles shore line paddle
-Elevation: 2186’
-LENGTH AND ACREAGE: 1.2 miles and 539 acres
-MAPS: Newman Lake & Mount Spokane topos
-Launch gps: 47°46’13” n. 117°01’04” w
-​​kootenai county sheriff: 208.446.1300
-
----
 
 ## Description
 

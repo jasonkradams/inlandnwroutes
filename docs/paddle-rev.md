@@ -1,17 +1,29 @@
+---
+tags:
+- Paddling & Rivers
+- Easy
+- Flat Water Paddling
+stats:
+- label: Event Type
+  icon: kayaking
+  value: Flat Water Paddling
+- label: Distance
+  icon: map-marker-distance
+  value: 5 miles RT
+- label: Elevation
+  icon: terrain
+  value: 2,067'
+- label: Difficulty
+  icon: speedometer
+  value: Easy
+- label: GPS
+  icon: crosshairs-gps
+  value: n??° ??’ ??.?" w???° ??’ ??.?"
+---
+
 # Paddle Rev
 
-## Echo Bay, Lake Pend Orielle, Idaho
-
----
-
-EVENT TYPE: Flat Water Paddling
-DISTANCE: 5 miles RT
-Elevation: 2,067'
-DIFFICULTY: Easy
-Maps:
-Gps: n??° ??’ ??.?” w???° ??’ ??.?”
-
----
+*Echo Bay, Lake Pend Orielle, Idaho*
 
 ## Paddling instructions
 

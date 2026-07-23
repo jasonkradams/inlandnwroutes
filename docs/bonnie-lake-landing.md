@@ -1,19 +1,32 @@
+---
+tags:
+- Lakes
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: 5.4 includes Rock Creek paddle
+- label: Elevation
+  icon: terrain
+  value: 1798’
+- label: Length and Acreage
+  icon: vector-square
+  value: 5.4 miles long. 327 acres
+- label: Maps
+  icon: map
+  value: Chapman Lake, Pine City, Rock Lake topos, Spokane & Whitman County Maps
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 47°14’22" n 117°35’45" w
+- label: Spokane County Sheriff
+  icon: shield-account
+  value: 911 or 509.477.2240
+---
+
 # Bonnie Lake Landing
 
-## Bonnie lake landing
+!!! warning "Before you go"
 
-![Picture](/assets/images/20201024165655.jpg)
-
----
-
-PADDLE DISTANCE: 5.4 includes Rock Creek paddle
-Elevation: 1798’
-LENGTH AND ACREAGE: 5.4 miles long. 327 acres
-MAPS: Chapman Lake, Pine City, Rock Lake topos, Spokane & Whitman County Maps
-Launch gps: 47°14’22” n 117°35’45” w
-​SPOKANE COUNTY SHERIFF: 911 or 509.477.2240
-
----
+    ![Picture](/assets/images/20201024165655.jpg)
 
 ## Description
 

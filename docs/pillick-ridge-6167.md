@@ -1,20 +1,40 @@
+---
+tags:
+- Peaks & Mountains
+- Strenuous
+- Day Hiking
+- Backpacking
+- Equestrian
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, equestrian
+- label: Distance
+  icon: map-marker-distance
+  value: up to 22 miles RT
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 3400+ verts
+- label: Difficulty
+  icon: speedometer
+  value: Strenuous
+- label: Maps
+  icon: map
+  value: Kootenai N.F., Sawtooth & Smeads Bench topos
+- label: GPS
+  icon: crosshairs-gps
+  value: Trailhead 48°06’18" N 115°47’26" W
+- label: Ranger District
+  icon: pine-tree
+  value: Cabinet R.D. 406.827.3533
+- label: Lincoln County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 406.293.4112
+notes:
+- Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+---
+
 # Pillick Ridge 6167
-
-## Pillick ridge 6167'
-
----
-
-EVENT TYPE: Day hiking, backpacking, equestrian
-DISTANCE: up to 22 miles RT
-ELEVATION Gain: 3400+ verts
-DIFFICULTY: Strenuous
-MAPS: Kootenai N.F., Sawtooth & Smeads Bench topos
-GPS: Trailhead 48°06’18” N 115°47’26” W
-RANGER DISTRICT:  Cabinet R.D.  406.827.3533
-​LINCOLN COUNTY SHERIFF: CALL 911 FIRST or 406.293.4112
-Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
-
----
 
 ## Description
 

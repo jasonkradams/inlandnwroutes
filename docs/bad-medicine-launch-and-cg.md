@@ -1,17 +1,28 @@
+---
+tags:
+- Paddling & Rivers
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: 4.5 miles
+- label: Elevation
+  icon: terrain
+  value: 2320’
+- label: Length and Acreage
+  icon: vector-square
+  value: 4.5 miles & 1202 acres
+- label: Maps
+  icon: map
+  value: Kootenai N. F., Bull Lake Topo
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 48°13’11" n 115°51’22" w
+- label: Lincoln County Sheriff
+  icon: shield-account
+  value: 406.293.4112
+---
+
 # Bad Medicine Launch And Cg
-
-## Bad medicine launch and cg
-
----
-
-PADDLE DISTANCE: 4.5 miles
-Elevation: 2320’
-LENGTH AND ACREAGE: 4.5 miles & 1202 acres
-MAPS:Kootenai N. F., Bull Lake Topo
-Launch gps: 48°13’11” n 115°51’22” w
-Lincoln county sheriff: 406.293.4112
-
----
 
 ## Description
 

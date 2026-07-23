@@ -1,6 +1,6 @@
 # Quotes
 
-Quotes... we encourage you to send us your writing on human powered sports. please keep them clean and short. we do reserve the right to refuse any inappropriate content. If a quote has the word “Unknown” below it, it is most likely from pinterest or other sites that dont identify the author
+Quotes... we encourage you to send us your writing on human powered sports. please keep them clean and short. we do reserve the right to refuse any inappropriate content. If a quote has the word "Unknown" below it, it is most likely from pinterest or other sites that dont identify the author
 
 ---
 
@@ -46,7 +46,7 @@ I can explain it to you, but I can’t understand it for you.
 
            Unknown 
 
-I look at people sometimes and think…”Really”, that’s the sperm that won.
+I look at people sometimes and think…"Really", that’s the sperm that won.
 
           Unknown 
 
@@ -1187,7 +1187,7 @@ The fact that jellyfish have survived for 660 million years despite not having a
 
           Unknown 
 
-A group of people are called a, “no thank you”.
+A group of people are called a, "no thank you".
 
          Unknown 
 
@@ -1849,13 +1849,13 @@ The people that need it most never use it.
 
            Unknown 
 
-A hen says, “I poop breakfast.”
-“What is your superpower?”
+A hen says, "I poop breakfast."
+"What is your superpower?"
 
           Unknown 
 
 One fish says to another while looking at a hook and worm,
-”Be careful, it could be an online scam.”
+"Be careful, it could be an online scam."
 
          Unknown 
 
@@ -2562,7 +2562,7 @@ Don’t grow up…..it’s a trap.
 
 A therapist told me:
 
-”Learn to calm your own storm,
+"Learn to calm your own storm,
 instead of venting to other people.
 It sounds therapeutic to let it all out,
 but you are reinforcing your negative thoughts.
@@ -2700,8 +2700,8 @@ Not thunder.
 
 Romi 
 
-I asked a wise man, “Tell me sir, in which field could I make a career?”
-He said with a smile, “ Be a good human being, there are a lot of opportunity in this area and very little competition.
+I asked a wise man, "Tell me sir, in which field could I make a career?"
+He said with a smile, " Be a good human being, there are a lot of opportunity in this area and very little competition.
 
 Unknown
 
@@ -2755,7 +2755,7 @@ Autumn is a second Spring when every leaf is a flower.
 
 Albert Camus
 
-“There is nothing more beautiful than a person who loves every step they take.”
+"There is nothing more beautiful than a person who loves every step they take."
 ​
 Arielle Johnson, past this along to me. It is a quote her father says.
 
@@ -2979,7 +2979,7 @@ have adventure.
                           Unknown
 
 Ben Franklin once said….
-”Some people are weatherwise,
+"Some people are weatherwise,
 some are otherwise".
 
 Don't worry when you are not recognized,
@@ -2987,8 +2987,8 @@ Don't worry when you are not recognized,
 
 ​                         Abe Lincoln
 
-“Great opportunities to help others seldom come,
-but small ones surround us every day”.
+"Great opportunities to help others seldom come,
+but small ones surround us every day".
 
                            Sally Koch
 ​
@@ -2997,9 +2997,9 @@ Choose only one master--Nature.
 
                            Rembrandt 
 
-“If you are working on something that you really care about,
+"If you are working on something that you really care about,
 ​you don’t have to be pushed.
-The vision pulls you”.
+The vision pulls you".
 
                             Steve Jobs
 
@@ -3030,16 +3030,16 @@ resisting a rest?
                         Unknown
 
 On 4.2.1973 Motorola employee Martin Cooper made the first public mobile telephone call on a Manhattan sidewalk, to Joel Engel of Bell Labs.
-Cooper later told the BBC that his first words were, “Joel, I’m calling you from a ‘real’ cellular telephone a portable hand held telephone”.
+Cooper later told the BBC that his first words were, "Joel, I’m calling you from a ‘real’ cellular telephone a portable hand held telephone".
 
                          Unknown
 
-“Challenges are gifts that force us to search for a new center of gravity.
-Don’t fight them. Just find a new way to stand.”
+"Challenges are gifts that force us to search for a new center of gravity.
+Don’t fight them. Just find a new way to stand."
 
 ​                          Oprah Winfrey
 
-“Go out on a limb….that’s where the fruit is”.
+"Go out on a limb….that’s where the fruit is".
 
 ​                         Will Rogers
 
@@ -3048,7 +3048,7 @@ There is no repose like that of the green deep woods.
 
 ​                          John Muir
 
-“Creativity is intelligence having fun.”
+"Creativity is intelligence having fun."
 
 ​                           Albert Einstein
 
@@ -3057,7 +3057,7 @@ for those who listen.
 
                            William Shakespeare 
 
-“To reconnect with Nature is key if we want to save the planet”.
+"To reconnect with Nature is key if we want to save the planet".
 
 ​                          Jane Goodall
 
@@ -3067,35 +3067,35 @@ of being wrong.
 
                           Joseph Clinton Pearce
 
-“So, if we lie to our government it’s a felony.
-But if they lie to us, it’s politics”.
+"So, if we lie to our government it’s a felony.
+But if they lie to us, it’s politics".
 
 ​                   Unknown
 
 ​
 
-“We learned from History,
-that we never learned from History”.
+"We learned from History,
+that we never learned from History".
 
 ​                         Georg Hegel
 
-“Challenges are a gift that forces us to search for a new center of gravity.
+"Challenges are a gift that forces us to search for a new center of gravity.
 Don’t fight them.
-Just find a new way to stand”.
+Just find a new way to stand".
 
                         Oprah Winfrey
 
-”Nature is too big for humans to influence.”
+"Nature is too big for humans to influence."
 
 This was stated by Colin N. Water in the 1920’s about our environment.
 
 Mark Twain said this about New England weather…..
 
-​”If you don’t like the weather, just wait a minute”.
+​"If you don’t like the weather, just wait a minute".
 
 ​
  
-​“In this odd business of mountaineering, a large number of unpleasant moments somehow combine to create an experience in which is wholly delightful”.
+​"In this odd business of mountaineering, a large number of unpleasant moments somehow combine to create an experience in which is wholly delightful".
 
                          Arnold Lunn
 
@@ -3116,7 +3116,7 @@ of being enjoyable.
                        Anita Jakob, age 11
 excerpt from the Spokane Mountaineers 1970 Peak and Valleys
 
-“Only where you have walked have you been”.
+"Only where you have walked have you been".
 
                         Purcell Wilderness Conservancy
 
@@ -3124,39 +3124,39 @@ excerpt from the Spokane Mountaineers 1970 Peak and Valleys
 
                         ​Dan Evans, Past Washington Governor 
 
-“If you can find a path
+"If you can find a path
 with no obstacles
-it probably doesn’t lead anywhere”.
+it probably doesn’t lead anywhere".
 
 ​                       Frank Clark
 
-“….the most luxuriant and most extravagantly beauty of all the alpine gardens I ever beheld in all my mountain top wandering.”
+"….the most luxuriant and most extravagantly beauty of all the alpine gardens I ever beheld in all my mountain top wandering."
 
                         John Muir, conservationist, 1889
 
 Cats always look like they’re
-“not mad just disappointed."
+"not mad just disappointed."
 
                        @ElllaZee5
 
-“If it is a shame to be the second man on Mount Everest,
-Then I will have to live with this shame”.
+"If it is a shame to be the second man on Mount Everest,
+Then I will have to live with this shame".
 
                        Tensing Norqay
 
-“Why are mountains always tired?
-Because they don’t ever-rest!”
+"Why are mountains always tired?
+Because they don’t ever-rest!"
 
-“The beauty of nature has been of the great inspiration of ones life.”
+"The beauty of nature has been of the great inspiration of ones life."
 
                         Jim Henson
 
-“Ambition is the path to success.
-Persistence is the vehicle you arrive on.”
+"Ambition is the path to success.
+Persistence is the vehicle you arrive on."
 
                       Bill Bradley
 
-“The man who doesn’t know what he wants is already there”.
+"The man who doesn’t know what he wants is already there".
 
                       Bernard Kopczynski, Chris Kopczynski’s father
 
@@ -3167,9 +3167,9 @@ Mark Twain
 
 ​
 
-“No one is more hated
+"No one is more hated
 then he who tells
-the truth.”
+the truth."
 
 Plato
 
@@ -3180,11 +3180,11 @@ so death wouldn’t be so disappointing.
 ​                   Two and a Half Men
 
 There are no bad people,
-just uneducated people”
+just uneducated people"
 
                   Unknown
 
-“In every walk with nature one receives far more than he seeks.” --
+"In every walk with nature one receives far more than he seeks." --
 
                   John Muir
 
@@ -3192,7 +3192,7 @@ There are no rules for a good picture, just good pictures.
 
                   Ansel Adams
 
-“Mountains help me navigate what is most important to me. They balance the chaos that is regular life. Balance is what I strive to accomplish with climbing a balance of life, love and the mountains. Alpine climbing is a life-long commitment. I live and breathe it.”
+"Mountains help me navigate what is most important to me. They balance the chaos that is regular life. Balance is what I strive to accomplish with climbing a balance of life, love and the mountains. Alpine climbing is a life-long commitment. I live and breathe it."
 
 Jess Roskelley
 
@@ -3241,21 +3241,21 @@ in the world.
 
 Paul Dudley White  A cartoon in the 2.28.2019 S.R
 
-Two large trees were talking, when one said, “ You have a bad rash on your back!”
-To which, the larger of the two replies, “I told you! Its not a rash!
-It’s a Trail Marker!”
+Two large trees were talking, when one said, " You have a bad rash on your back!"
+To which, the larger of the two replies, "I told you! Its not a rash!
+It’s a Trail Marker!"
 
 Mark Parisi
 
 My computer said I had to change my password.
-I entered “beef stew”
-My computer said “Sorry password not stroganoff.”
+I entered "beef stew"
+My computer said "Sorry password not stroganoff."
 
                        Unknown
 
 ​My wife has a really odd way of starting a conversation.
 She always begins by saying,
-“Hey, are you listening?”
+"Hey, are you listening?"
 
                        Unknown
 
@@ -3268,9 +3268,9 @@ I once tooted in an elevator. It was wrong on so many levels.
                       Unknown
 
 A young boy goes to his dad and says,
-“Dad did you know in some countries you don’t know who your wife is until you get married.”
+"Dad did you know in some countries you don’t know who your wife is until you get married."
 The dad replies,
-“its like that everywhere, son.”
+"its like that everywhere, son."
 
                          Unknown
 
@@ -3282,13 +3282,13 @@ Archilochus
 ​
 
 Carl Sandburg said,
-“Time is the coin of your life.”
-“It is the only coin you have,
+"Time is the coin of your life."
+"It is the only coin you have,
 and only you can determine
-how it is spent.”
-“Be careful
+how it is spent."
+"Be careful
 lest other people spend
-it for you.”
+it for you."
 
 Aug., 20, 2019 Spokesman- Review comics
 
@@ -3302,7 +3302,7 @@ Not all who wander, are lost.
 ​                       J.R.R. Tolkien
 ​
 
-“Somewhere in all of us is the power to change the world.”
+"Somewhere in all of us is the power to change the world."
 
                       Roald Dahl
 
@@ -3316,8 +3316,8 @@ but the silence of our friends.
 
 The famous photographer, Ansel Adams once said:
 
-“It is horrifying that we have to fight our own government
-to save our environment.”
+"It is horrifying that we have to fight our own government
+to save our environment."
 
 Part of the urge to explore is the desire to get lost.
 
@@ -3335,7 +3335,7 @@ The trees are flocked, as if they are new.
 ​
 
 ​
-“Few things are as satisfying than seeing your children have teenagers of their own.”
+"Few things are as satisfying than seeing your children have teenagers of their own."
 
                          Doug Larson
 
@@ -3590,19 +3590,19 @@ On Mother's Day, 2018 a commercial said this.
 
 If Motherhood was easy, men could do it.
 
-“Don’t sit around doing nothing.
-Get up and do something.”
+"Don’t sit around doing nothing.
+Get up and do something."
 
                     Ida Keeling
 103 Year Old Marathoner
-“ Can’t Nothing Bring  Me Down” Book
+" Can’t Nothing Bring  Me Down" Book
 
-As important as these opportunities are, it is also critical that we have places “to hear ourselves think,” away from the growing clamor of the planet. “In wildness is the preservation of the world,” wrote Henry Thoreau.
+As important as these opportunities are, it is also critical that we have places "to hear ourselves think," away from the growing clamor of the planet. "In wildness is the preservation of the world," wrote Henry Thoreau.
 It is just as true today as when he penned that nearly 200 years ago.
 
                      Henry David Thorea
 
-“Life begins at the edge of your comfort zone.”
+"Life begins at the edge of your comfort zone."
 
                     Neale Donald Walsch 
 
@@ -3735,18 +3735,18 @@ You grow old because you stop laughing.
 
 ​
 
-“Don’t sit around doing nothing.
-Get up and do something.”
+"Don’t sit around doing nothing.
+Get up and do something."
 
                        Ida Keeling
 103 Year Old Marathoner
-“ Can’t Nothing Bring  Me Down” Book
+" Can’t Nothing Bring  Me Down" Book
 
-As important as these opportunities are, it is also critical that we have places “to hear ourselves think,” away from the growing clamor of the planet. “In wildness is the preservation of the world,” wrote Henry Thoreau. It is just as true today as when he penned that nearly 200 years ago.
+As important as these opportunities are, it is also critical that we have places "to hear ourselves think," away from the growing clamor of the planet. "In wildness is the preservation of the world," wrote Henry Thoreau. It is just as true today as when he penned that nearly 200 years ago.
 
                       Henry David Thorea
 
-“Life begins at the edge of your comfort zone.”
+"Life begins at the edge of your comfort zone."
 
                       Unknown
 
@@ -3879,8 +3879,8 @@ chic           4.19.2017
 A New Years resolution is something that goes in one year and out the other.
 
 My computer said I had to change my password.
-I entered “beef stew”
-My computer said “Sorry password not stroganoff.”
+I entered "beef stew"
+My computer said "Sorry password not stroganoff."
 
 No one is more hated
 then he who tells
@@ -3888,8 +3888,8 @@ the truth.
 
 Plato
 
-“There are no bad people,
-just uneducated people”.
+"There are no bad people,
+just uneducated people".
 
 ​                     Jim Whitaker
 

@@ -43,10 +43,14 @@ markdown_extensions:
   - admonition
   - attr_list
   - md_in_html
+  - tables
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - zensical.extensions.glightbox:
       auto_caption: true
 
@@ -55,9 +59,14 @@ extra_css:
 
 plugins:
   - search
+  - tags
+
+hooks:
+  - hooks/stat_card.py
 
 nav:
 - Home: index.md
+- Browse by Tag: tags.md
 - Blog:
     - blog/index.md
     - Recent Posts: blog.md
@@ -342,7 +351,6 @@ nav:
   - 13 Mile Canyon Trail 23: 13-mile-canyon-trail-23.md
   - About: about.md
   - About Rev: about-rev.md
-  - About Us1: about-us1.md
   - Adages: adages.md
   - Alpine Laurel: alpine-laurel.md
   - Alpine Sweet Vetch: alpine-sweet-vetch.md
@@ -674,4 +682,3 @@ nav:
   - About Us: about-us.md
   - Contact: contact.md
   - Liability Release: liability-release.md
-

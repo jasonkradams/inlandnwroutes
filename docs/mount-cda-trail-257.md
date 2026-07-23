@@ -1,20 +1,41 @@
+---
+tags:
+- Trails & Scrambles
+- Moderate
+- Day Hiking
+- Backpacking
+- Equestrian
+- Mt Biking
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, equestrian, and mt biking
+- label: Distance
+  icon: map-marker-distance
+  value: 5.5 miles RT
+- label: Elevation
+  icon: terrain
+  value: 1100’
+- label: Difficulty
+  icon: speedometer
+  value: moderate
+- label: Maps
+  icon: map
+  value: IPNF, Lane Topo
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°35’06" n 116°38’05" w
+- label: Ranger District
+  icon: pine-tree
+  value: CDA River R.D. 208.769.3000
+- label: Kootenai County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST 0r 208.446.1300
+notes:
+- Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Mount Cda Trail 257
-
-## Mount cda trail #257
-
----
-
-EVENT TYPE: Day hiking, backpacking, equestrian, and mt biking
-DISTANCE: 5.5 miles RT
-Elevation: 1100’
-DIFFICULTY: moderate
-MAPS: IPNF, Lane Topo
-Gps: 47°35’06” n 116°38’05” w
-​RANGER DISTRICT:   CDA River R.D.   208.769.3000
-​KOOTENAI COUNTY SHERIFF: CALL 911 FIRST 0r 208.446.1300
-Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
 
 ## Description
 
@@ -49,7 +70,7 @@ Mineral Ridge, Mount CDA, Caribou Ridge Trail #79, Highway 97A around Lake CDA, 
 
 In the winter, this trail can be icy, use caution.
 Mt. Bikes use this trail also. Listen carefully and get out of their way.
-I’ve also seen bear on this trail, so yell “hey bear” occasionally, especially as you come up over ridges or by creeks.
+I’ve also seen bear on this trail, so yell "hey bear" occasionally, especially as you come up over ridges or by creeks.
 
 ## R & p
 

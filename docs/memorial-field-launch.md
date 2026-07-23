@@ -1,17 +1,30 @@
+---
+tags:
+- Paddling & Rivers
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: varies
+- label: Elevation
+  icon: terrain
+  value: 2066’
+- label: Length and Acreage
+  icon: vector-square
+  value: varies
+- label: Maps
+  icon: map
+  value: I.P.N.F., Sandpoint Topo
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 48°15’51" n 116°33’28" w
+- label: Bonner County Sheriff
+  icon: shield-account
+  value: 208.263.8417
+---
+
 # Memorial Field Launch
 
-## War memorial field launch, sandpoint
-
----
-
-PADDLE DISTANCE: varies
-Elevation: 2066’
-LENGTH AND ACREAGE: varies
-MAPS: I.P.N.F., Sandpoint Topo
-Launch gps: 48°15’51” n 116°33’28” w
-Bonner county sheriff: 208.263.8417
-
----
+*War memorial field launch, sandpoint*
 
 ## Description
 

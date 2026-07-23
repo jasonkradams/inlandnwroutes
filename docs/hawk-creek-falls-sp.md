@@ -1,17 +1,30 @@
+---
+tags:
+- Waterfalls
+stats:
+- label: Waterfall
+  icon: waterfall
+  value: Hawk Creek Falls State Park
+- label: Drop
+  icon: arrow-collapse-down
+  value: About 40 feet
+- label: Waterfall Type
+  icon: waterfall
+  value: chute
+- label: Distance Car to Falls
+  icon: map-marker-distance
+  value: 300 feet
+- label: Maps
+  icon: map
+  value: Washington State Parks
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°81'09' n 118°31'04"w
+---
+
 # Hawk Creek Falls Sp
 
-## Hawk creek falls state park
-
----
-
-WATERFALL : Hawk Creek Falls State Park
-DROP: About 40 feet
-WATERFALL TYPE: chute
-​DISTANCE CAR TO FALLS: 300 feet
-MAPS: Washington State Parks 
-Gps: 47°81'09' n 118°31'04"w
-
----
+*Hawk creek falls state park*
 
 ## Description
 
@@ -31,9 +44,7 @@ Most of the bay is lined in basalt columns, that give it an eerie feeling.
 Be aware that the land around Hawk Bay is private, and may require kayaking to beaches out on Lake Roosevelt.
 There is another attraction worth exploring north of the bay. There are dozens of caves etched out of the basalt cliffs. From the parking area, look North up hill at one of the larger caves in the area.
 
-|  |  |
-| --- | --- |
-| Option #2: | --- |
+## Option #2
 
 By hiking the north shore, you can reach the beaches of the Mighty Columbia River.
 

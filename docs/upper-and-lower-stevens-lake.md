@@ -1,23 +1,42 @@
+---
+tags:
+- Lakes
+- Moderate to Moderately Difficult
+stats:
+- label: Distance
+  icon: map-marker-distance
+  value: 4.7miles RT to Lower Stevens, 6.7 miles RT to Upper Stevens Lake.
+- label: Elevation
+  icon: terrain
+  value: 1580, gain to Lower, 1780 to Upper
+- label: Acres
+  icon: vector-square
+  value: (lower) 28….(upper) 12
+- label: Difficulty
+  icon: speedometer
+  value: Moderate to Moderately Difficult
+- label: Maps
+  icon: map
+  value: IPNF, LOLO N.F., IPNF, Stevens Lakes topo
+- label: GPS
+  icon: crosshairs-gps
+  value: Lower 47°43’36" N -115°75’96" W
+- label: Ranger District
+  icon: pine-tree
+  value: CDA River R.D. 208.769.3000
+- label: Shoshone County Sheriff
+  icon: shield-account
+  value: call** **208.556.1114 or****911 ONLY IN AN EMERGENCY or**
+notes:
+- '**EVENT TYPE: Hiking, backpacking, camping, scrambling, and photography'
+- Upper 47°42’80" N -115°76’25" W
+- Idaho panhandle national forest/alerts
+- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Upper And Lower Stevens Lake
 
-## Lower & upper stevens lakes, alpine lakes region, idaho
-
----
-
-**EVENT TYPE: Hiking, backpacking, camping, scrambling, and photography
-DISTANCE: 4.7miles RT to Lower Stevens, 6.7 miles RT to Upper Stevens Lake.
-ELEVATION: 1580, gain to Lower, 1780 to Upper
-​acres:  (lower) 28….(upper) 12
-DIFFICULTY: Moderate to Moderately Difficult
-MAPS: IPNF, LOLO N.F., IPNF, Stevens Lakes topo
-GPS: Lower 47°43’36” N -115°75’96” W
-Upper 47°42’80” N -115°76’25” W
-​RANGER DISTRICT:  CDA River R.D.  208.769.3000
-Shoshone county sheriff: call** **208.556.1114 or****911 ONLY IN AN EMERGENCY or**
-Idaho panhandle national forest/alerts
-<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
+*Lower & upper stevens lakes, alpine lakes region, idaho*
 
 ## Description
 
@@ -94,7 +113,7 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 
 ![Picture](/assets/images/p512.png)
 
-In the mid to late 80’s, the usfs designated the stevens peak area, the “alpine lakes region” but never followed thru with its possible wilderness designation
+In the mid to late 80’s, the usfs designated the stevens peak area, the "alpine lakes region" but never followed thru with its possible wilderness designation
 
 ## Stevens lakes from stevens peak 6838’
 
@@ -243,7 +262,7 @@ This image is from 1890 and illustrates the extent of the avalanches debris that
 
 ![Picture](/assets/images/8420231056a.jpg)
 
-The forest around the "s" bridge, was burned in 1893-4,  And the “s” shaped bridge completely burned in the great fire of 1910
+The forest around the "s" bridge, was burned in 1893-4,  And the "s" shaped bridge completely burned in the great fire of 1910
 
 *Picture (Image missing)*
 
@@ -256,10 +275,6 @@ The forest around the "s" bridge, was burned in 1893-4,  And the “s” shaped
 ![Picture](/assets/images/8420231102a.jpg)
 
 ## This image is the last passenger train to use this route
-
-|  |  |
-| --- | --- |
-|  |  |
 
 *Picture (Image missing)*
 
@@ -289,7 +304,7 @@ I first hiked into the Stevens Lakes area, back in the mid 60’s.
 Back then, the amount of trees were way less, and what was there were young Sub-Alpine Fir.
 This whole area was ravaged by wildfires in 1893-4,  The Great Burn in 1910, and again in 1928.
 
-Since then, I have always wondered what the pipe line was used for, but more importantly how they got the 24 foot long by 10” diameter pipe sections in place up Trail #165.
+Since then, I have always wondered what the pipe line was used for, but more importantly how they got the 24 foot long by 10" diameter pipe sections in place up Trail #165.
 
 If you’ve hiked it, you know what I mean. Keep in mind the current long switchback on the scree slope, wasn’t the trail back then.
 The old trail stayed close to the west side of East Willow Creek.
@@ -344,17 +359,13 @@ Nellie Stockbridge
 Her images of the Silver Valley back around 1900, are as good as they get.
 The images of the Great Avalanche of 1903 tells a story within itself.
 The images of the Stevens Lakes and Peak area, told me the story I was hoping to see.
-Nellie used large format cameras up to 8x10”, with glass negatives, in the field.
+Nellie used large format cameras up to 8x10", with glass negatives, in the field.
 Sometimes she would traveled with a portable darkroom, so she could see what she got, was what she wanted.
 Nellie had a staff that carried and set up her equipment.
 
-You can learn more about Nellie, and view her work at the below url. Find the “Timeline” button to see them in order of date.
+You can learn more about Nellie, and view her work at the below url. Find the "Timeline" button to see them in order of date.
 
 <https://www.lib.uidaho.edu/digital/barstock/about.html#:~:text=Nellie%20Stockbridge&text=Stockbridge%20was%20a%20dedicated%20photographer,became%20the%20mayor%20of%20Wallace.>
-
-|  |  |
-| --- | --- |
-|  |  |
 
 ## Story #2
 
@@ -365,9 +376,9 @@ It is closely related to the first story, in that it existed in the same drainag
 I spent hours examining Nellie Stockbridge’s images, and found the image below.
 It is this image that got me interested in the original pipe lines history.
 I first thought they were used together. But since, I have learned that they were used at different mines, and were from different reservoirs.
-The miners had installed an upper 800 foot section with the 10” diameter pipe all the way up to Lower Stevens Lake.
-The pipe in this image is vastly different than the 10” pipe in the first story.
-It is a 10” diameter pipe that weighs a lot less, making it easier to place the pipe all the way up East Willow Creek, to Lower Stevens Lake.
+The miners had installed an upper 800 foot section with the 10" diameter pipe all the way up to Lower Stevens Lake.
+The pipe in this image is vastly different than the 10" pipe in the first story.
+It is a 10" diameter pipe that weighs a lot less, making it easier to place the pipe all the way up East Willow Creek, to Lower Stevens Lake.
 
 *Picture (Image missing)*
 
@@ -378,7 +389,7 @@ Above the dump site in the above image, I notice the whitish pipe line that goes
 I walked it out past the Carney 1-3 Mine site. This old trail pictured below, fades into the Earth past these mines. So there is a possibility that the water pipe terminated at the Carney 1-3 mines.
 There was a hiking trail up from the Dorsey trestle , that was considered easier. But I haven’t found it yet. 
 This image was taken near the Silver Crest Group Mine, and heads north.
-I believe the miners transported the 10” pipe sections to the Silver Crest Mine on this gentle trail.
+I believe the miners transported the 10" pipe sections to the Silver Crest Mine on this gentle trail.
 
 *Picture (Image missing)*
 
@@ -421,7 +432,7 @@ It was made of timbers, and was washed away in the flood.
 After the washout, the Northern Pacific Railroad created an earthen railroad crossing above all the creeks on the Idaho side.
 This crossing leads to the Lone Lake Trail #138, on the west side of Willow Creek.
 
-The flood also caused the “S” shaped Bridge to be moved out of plum.
+The flood also caused the "S" shaped Bridge to be moved out of plum.
 The failure of the dam happened around 11am, and took until 4pm to reach Osburn and Kellogg, where low laying areas of the cities were flooded.
 
 I would like to thank the following people for their kind words of encouragement and guidance in creating this article.
@@ -445,7 +456,7 @@ Nellie Stockbridge
 Her images of the Silver Valley back around 1900, are as good as they get.
 Her images of the Great Avalanche of 1903 tells a story within itself.
 Her images of the Stevens Lakes and Peak area, told me the story I was hoping for.
-Nellie used an 8x10” large format camera with glass negatives
+Nellie used an 8x10" large format camera with glass negatives
 She traveled with a portable darkroom, so she could see what she got, was what she wanted.
 
 You can learn more about Nellie, and view her work at the below url.
@@ -459,7 +470,7 @@ You can learn more about Nellie, and view her work at the below url.
 As I was doing research for the above two stories, I came across old newspaper articles about the Mullan Fish & Game Club. (Association)
 In those articles I discovered that the club had started a program to stock the local lakes of the Silver Valley, in 1912.
 The club ordered as many as 200,000 fish fry, to be planted in the fall, to many lakes and streams in the Silver Valley.
-For “Twin Lakes” (Stevens Lakes), they had to haul the fish fry in, in containers on their backs.
+For "Twin Lakes" (Stevens Lakes), they had to haul the fish fry in, in containers on their backs.
 About the same time, the club proposed building a log bungalow at Lower Stevens Lake. 
 About the same time the United States Forestry Service (old name), proposed building a cabin between the two lakes, often referred to as Twin Lakes.
 In that proposal, the USFS suggested that they could make the Upper East Fork Willow Creek between the lakes, more inhabitable for fish to spawn. 
@@ -478,10 +489,6 @@ The United State Forestry Service eventually built a cabin/lookout on Stevens su
 The only evidence I have found is really weak, but knowing the summit as well as I do, I can see in the below image a rectangular structure on the summit.
 
 *Picture (Image missing)*
-
-|  |  |
-| --- | --- |
-|  |  |
 
 If you tap on the image, save it so you can expand your screen to see what little evidence I’ve come across so far in my research. 
 I will be visiting the Captain John Mullan Museum in the upcoming weeks to pour over the albums of newspaper articles.
@@ -505,7 +512,7 @@ Nellie Stockbridge
 Her images of the Silver Valley back around 1900, are as good as they get.
 Her images of the Great Avalanche of 1903 tells a story within itself.
 Her images of the Stevens Lakes and Peak area, told me the story I was hoping for.
-Nellie used an 8x10” large format camera, on   negative film.
+Nellie used an 8x10" large format camera, on   negative film.
 She traveled with a portable darkroom, so she could see what she got, was what she wanted.
 You can learn more about Nellie, and view her work at the below url.
 

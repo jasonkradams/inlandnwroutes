@@ -1,17 +1,25 @@
+---
+tags:
+- Paddling & Rivers
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: varies
+- label: Elevation
+  icon: terrain
+  value: 2066’
+- label: Length and Acreage
+  icon: vector-square
+  value: varies
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 48°09’40" n 116°45’15" w
+- label: Bonner County Sheriff
+  icon: shield-account
+  value: 208.263.8417
+---
+
 # Laclede Launch
-
-## Laclede launch
-
----
-
-PADDLE DISTANCE: varies
-Elevation: 2066’
-LENGTH AND ACREAGE: varies
-Maps:
-Launch gps: 48°09’40” n 116°45’15” w
-​Bonner county sheriff: 208.263.8417
-
----
 
 ## Description
 

@@ -1,17 +1,28 @@
+---
+tags:
+- Trails & Scrambles
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: varies
+- label: Elevation
+  icon: terrain
+  value: 1540'
+- label: Length and Acreage
+  icon: vector-square
+  value: varies
+- label: Maps
+  icon: map
+  value: Spokane County,
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 47°47'27" n 117°34'02" w
+- label: Spokane County Sheriff
+  icon: shield-account
+  value: 509.477.2240
+---
+
 # Nine Mile Recreation Area
-
-## Nine mile recreation area
-
----
-
-PADDLE DISTANCE: varies
-Elevation: 1540'
-LENGTH AND ACREAGE: varies
-MAPS:Spokane County, 
-Launch gps:  47°47'27" n  117°34'02" w
-Spokane county sheriff: 509.477.2240
-
----
 
 ## Description
 

@@ -1,16 +1,25 @@
+---
+tags:
+- Lakes
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: less then a mile around
+- label: Elevation
+  icon: terrain
+  value: 1867’
+- label: Length and Acreage
+  icon: vector-square
+  value: .5 miles long, and 35 acres.
+- label: Maps
+  icon: map
+  value: Spokane County, W.D.F. & G.
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 47°55’33" n 117°21’11" w
+---
+
 # Bear Lake Launch
-
-## Bear lake launch
-
----
-
-PADDLE DISTANCE: less then a mile around
-Elevation: 1867’
-LENGTH AND ACREAGE: .5 miles long, and 35 acres.
-MAPS: Spokane County, W.D.F. & G.
-Launch gps: 47°55’33” n 117°21’11” w
-
----
 
 ## Description
 

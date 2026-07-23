@@ -1,20 +1,43 @@
+---
+tags:
+- Trails & Scrambles
+- Moderate
+- Day Hiking
+- Backpacking
+- Equestrian
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, & equestrian.
+- label: Distance
+  icon: map-marker-distance
+  value: 7 miles RT
+- label: Elevation
+  icon: terrain
+  value: 510’
+- label: Acres
+  icon: vector-square
+  value: '2.5'
+- label: Difficulty
+  icon: speedometer
+  value: Moderate
+- label: Maps
+  icon: map
+  value: Steamboat Rock SE, Electric City topos
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°51’96’ n 119°04’95" w
+- label: Managing Agency
+  icon: domain
+  value: w.s.p.& r. 509.636.1304
+- label: Grant County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 509.536.1200
+---
+
 # Northrup Canyon
 
-## Northrup canyon & lake
-
----
-
-EVENT TYPE: Day hiking, backpacking, & equestrian.
-DISTANCE: 7 miles RT
-Elevation: 510’
-​acres: 2.5
-DIFFICULTY: Moderate
-MAPS: Steamboat Rock SE, Electric City topos
-Gps: 47°51’96’ n 119°04’95” w
-Managing agency:  w.s.p.& r.  509.636.1304
-​GRANT COUNTY SHERIFF: CALL 911 FIRST or 509.536.1200
-
----
+*Northrup canyon & lake*
 
 ## Description
 

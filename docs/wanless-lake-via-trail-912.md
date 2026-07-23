@@ -1,18 +1,45 @@
+---
+tags:
+- Lakes
+- Strenuous
+- Fast Day Hiking
+- Backpacking
+stats:
+- label: Event Type
+  icon: hiking
+  value: Fast day hiking, backpacking
+- label: Distance
+  icon: map-marker-distance
+  value: 26 miles RT
+- label: Elevation
+  icon: terrain
+  value: 2500’
+- label: Acres
+  icon: vector-square
+  value: '111.5'
+- label: Difficulty
+  icon: speedometer
+  value: Strenuous
+- label: Maps
+  icon: map
+  value: Kootenai N.F., Noxon Rapids, Howard Lake, Goat Peak
+- label: GPS
+  icon: crosshairs-gps
+  value: Swamp Creek Trailhead. 47°55’02" N 115°37’00" W
+- label: Ranger District
+  icon: pine-tree
+  value: Cabinet Ranger District 406.827.3533
+- label: Lincoln County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 406.293.4112
+notes:
+- Kootenai national forest/alerts
+- <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+---
+
 # Wanless Lake Via Trail 912
 
-## Wanless lake trail #912 & 912a
-
-EVENT TYPE: Fast day hiking, backpacking
-DISTANCE: 26 miles RT
-Elevation: 2500’
-Acres: 111.5
-DIFFICULTY: Strenuous
-MAPS: Kootenai N.F., Noxon Rapids, Howard Lake, Goat Peak
-GPS: Swamp Creek Trailhead. 47°55’02” N 115°37’00” W
-​Ranger district:  Cabinet Ranger District  406.827.3533
-​LINCOLN COUNTY SHERIFF: CALL 911 FIRST or 406.293.4112
-Kootenai national forest/alerts
-<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+*Wanless lake trail #912 & 912a*
 
 ## Description
 

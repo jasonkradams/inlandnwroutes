@@ -1,22 +1,45 @@
+---
+tags:
+- Peaks & Mountains
+- Moderately Easy
+- Day Hike
+- Backpacking
+- Astronomy
+- Backcountry Skiing
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day Hike, backpacking, astronomy and backcountry skiing
+- label: Distance
+  icon: map-marker-distance
+  value: 1.6 miles, to 10 miles RT.
+- label: Elevation
+  icon: terrain
+  value: from Frosty you drop 105 verts, then gain 528 verts to Latour Baldy
+- label: Difficulty
+  icon: speedometer
+  value: Moderately Easy
+- label: Maps
+  icon: map
+  value: IPNF, Latour Baldy topo
+- label: GPS
+  icon: crosshairs-gps
+  value: Frosty Peak 47°28’48" N 116°20’36" W
+- label: Ranger District
+  icon: pine-tree
+  value: CDA River R.D. 208.769.3000
+- label: Shoshone County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.556.1114
+notes:
+- Latour Baldy 47°28’12" N 116°20’49" W
+- Idaho panhandle national forest/alerts
+- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Latour Frosty Peaks
 
-## Latour baldy 6232’ & frosty peak
-
----
-
-EVENT TYPE: Day Hike, backpacking, astronomy and backcountry skiing
-DISTANCE: 1.6 miles, to 10 miles RT.
-ELEVATION: from Frosty you drop 105 verts, then gain 528 verts to Latour Baldy
-DIFFICULTY: Moderately Easy
-MAPS: IPNF, Latour Baldy topo
-GPS: Frosty Peak 47°28’48” N 116°20’36” W 
-Latour Baldy 47°28’12” N 116°20’49” W
-RANGER DISTRICT:  CDA River R.D.   208.769.3000
-SHOSHONE COUNTY SHERIFF: CALL 911 FIRST or 208.556.1114
-Idaho panhandle national forest/alerts
-<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
+*Latour baldy 6232’ & frosty peak*
 
 ## Description
 
@@ -80,7 +103,7 @@ Radio Brewing in Kellogg. The Snake Pit north of Kingston
 
 ![Picture](/assets/images/p32.png)
 
-## David coming up from the “trail” to the ridge crest
+## David coming up from the "trail" to the ridge crest
 
 ---
 

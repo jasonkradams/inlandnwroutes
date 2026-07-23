@@ -1,17 +1,31 @@
+---
+tags:
+- Lakes
+- Easy
+stats:
+- label: Event Type
+  icon: hiking
+  value: Bus into the campground and do world class day hikes from there
+- label: Distance
+  icon: map-marker-distance
+  value: 1.75 miles
+- label: Elevation
+  icon: terrain
+  value: Minor ups and downs
+- label: Difficulty
+  icon: speedometer
+  value: Easy
+- label: Maps
+  icon: map
+  value: Lake O'Hara Trail Map - Yoho National Parks, Canada
+- label: GPS
+  icon: crosshairs-gps
+  value: 51°21'23.7"n 116°20'03.0"w
+---
+
 # Lake Ohara
 
-## Lake o'hara 6,939'
-
----
-
-EVENT TYPE: Bus into the campground and do world class day hikes from there
-DISTANCE: 1.75 miles
-ELEVATION: Minor ups and downs
-DIFFICULTY: Easy
-MAPS: Lake O'Hara Trail Map - Yoho National Parks, Canada 
-Gps: 51°21'23.7"n 116°20'03.0"w
-
----
+*Lake o'hara 6,939'*
 
 ## Description
 
@@ -31,11 +45,10 @@ Take Highway 95 north across the border to Radium Hot Springs, named because the
 
 ![Image](/assets/images/pdf.png){: data-src="https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/2013-ohara-map.pdf" data-title="Download file: Lake O'Hara Trail Map" }
 
-|  |  |
-| --- | --- |
-| **Lake O'Hara Trail Map** | |
-| File Size: | 357 kb |
-| File Type: | pdf |
+| | |
+|---|---|
+| File Size | 357 kb |
+| File Type | pdf |
 
 [Download File](https://www.inlandnwroutes.com/uploads/7/9/2/5/79257998/2013-ohara-map.pdf "Download file: Lake O'Hara Trail Map")
 

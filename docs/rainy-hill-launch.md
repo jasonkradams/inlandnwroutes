@@ -1,17 +1,25 @@
+---
+tags:
+- Paddling & Rivers
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: varies
+- label: Elevation
+  icon: terrain
+  value: 2133’
+- label: Length and Acreage
+  icon: vector-square
+  value: varies
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 47°28’33" n 11635’18" w
+- label: Kootenai County Sheriff
+  icon: shield-account
+  value: 208.446.1300
+---
+
 # Rainy Hill Launch
-
-## Rainy hill launch
-
----
-
-PADDLE DISTANCE: varies
-Elevation: 2133’
-LENGTH AND ACREAGE: varies
-Maps:
-Launch gps: 47°28’33” n 11635’18” w
-​kootenai county sgeriff: 208.446.1300
-
----
 
 ## Description
 

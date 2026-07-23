@@ -1,17 +1,16 @@
+---
+tags:
+- Paddling & Rivers
+stats:
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+- label: Lincoln County Sheriff
+  icon: shield-account
+  value: 406.293.4112
+---
+
 # Bull River Middle
-
-## Bull river middle
-
----
-
-Paddle distance: 
-Elevation: 
-Length and acreage: 
-Maps:
-Launch gps: ??° ??’ ??.?”n ???° ??’ ??.?”w
-Lincoln county sheriff: 406.293.4112
-
----
 
 ## Description
 

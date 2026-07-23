@@ -1,21 +1,41 @@
+---
+tags:
+- Lakes
+- Easy, With Challenges
+- Day Hiking
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking
+- label: Distance
+  icon: map-marker-distance
+  value: Under 4 miles RT
+- label: Elevation
+  icon: terrain
+  value: slightly over 1100verts
+- label: Difficulty
+  icon: speedometer
+  value: Easy, with challenges
+- label: Maps
+  icon: map
+  value: Lolo National Forest, Vermillion Peak top
+- label: GPS
+  icon: crosshairs-gps
+  value: n47°77'00" w-115°25'71"
+- label: Ranger District
+  icon: pine-tree
+  value: thompson falls ranger district 406.826.3821
+- label: Sanders County Sheriff
+  icon: shield-account
+  value: call 911 first
+notes:
+- Lolo national forest/alertS
+- https[://www.fs.usda.gov/alerts/lolo/alerts-notices](https://www.fs.usda.gov/alerts/lolo/alerts-notices)
+---
+
 # Terrace Lake
 
-## Terrace lake   Stoney lake ​fishtrap lake & campground
-
----
-
-EVENT TYPE: Day hiking
-DISTANCE: Under 4 miles RT
-ELEVATION: slightly over 1100verts
-DIFFICULTY: Easy, with challenges
-MAPS: Lolo National Forest, Vermillion Peak top
-Gps: n47°77'00"  w-115°25'71"
-Ranger district: thompson falls ranger district 406.826.3821
-​sanders county sheriff: call 911 first
-Lolo national forest/alertS
-https[://www.fs.usda.gov/alerts/lolo/alerts-notices](https://www.fs.usda.gov/alerts/lolo/alerts-notices)
-
----
+*Terrace lake   Stoney lake ​fishtrap lake & campground*
 
 ## Description
 

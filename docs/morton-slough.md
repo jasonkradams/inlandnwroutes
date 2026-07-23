@@ -1,17 +1,30 @@
+---
+tags:
+- Trails & Scrambles
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: varies
+- label: Elevation
+  icon: terrain
+  value: 2066’
+- label: Length and Acreage
+  icon: vector-square
+  value: varies
+- label: Maps
+  icon: map
+  value: IPNF, Morton Topo
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 48°10’ 50" n 116°42’52" w
+- label: Bonner County Sheriff
+  icon: shield-account
+  value: 208.263.8417
+---
+
 # Morton Slough
 
-## Morton slough boat launch
-
----
-
-PADDLE DISTANCE: varies
-Elevation: 2066’
-LENGTH AND ACREAGE:varies
-MAPS: IPNF, Morton Topo
-Launch gps: 48°10’ 50” n 116°42’52” w
-Bonner county sheriff: 208.263.8417
-
----
+*Morton slough boat launch*
 
 ## Description
 
@@ -25,7 +38,7 @@ Off P.O.River paddling, and wildlife.
 
 ## Directions
 
-From Spirit Lake drive north on Hwy 41 to the Spirit Lake Cutoff Road, across from the Cedar Cabin business. From here you will stay on the Spirit Lake Cutoff Road to where it “T’s” at Duford Road.
+From Spirit Lake drive north on Hwy 41 to the Spirit Lake Cutoff Road, across from the Cedar Cabin business. From here you will stay on the Spirit Lake Cutoff Road to where it "T’s" at Duford Road.
 Please be aware....as you approach duford road, you will be going down hill, fast and steep.
 ​please drive slowly as you descend towards duford road.
 

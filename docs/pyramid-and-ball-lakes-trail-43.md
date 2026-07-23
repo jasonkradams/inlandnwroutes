@@ -1,18 +1,46 @@
+---
+tags:
+- Lakes
+- Easy to Moderate
+- Hike
+- Backpack
+- Mountain Bike
+stats:
+- label: Event Type
+  icon: hiking
+  value: Hike, Backpack and Mountain Bike
+- label: Distance
+  icon: map-marker-distance
+  value: Pyramid Lake 2.8 jmiles RT, Ball Lakes 5 miles RT. (P. Pass 2.7 m & 1300')
+- label: Elevation
+  icon: terrain
+  value: Trail Head 5920', 798' gain to Ball Lakes
+- label: Difficulty
+  icon: speedometer
+  value: Easy to Moderate
+- label: Maps
+  icon: map
+  value: IPNF-Kaniksu N. F., WSGS-Pyramid Lake
+- label: Acreage
+  icon: information-outline
+  value: Pyramid Lake 6.5. Ball Lake 6.4
+- label: GPS
+  icon: crosshairs-gps
+  value: '[48° 48’ 19.7"n 116° 35’ 57.7"w](https://goo.gl/maps/h1E7q3BbFNA2WiKeA)'
+- label: Ranger District
+  icon: pine-tree
+  value: Bonners Ferry R.D. 208.267.5561
+- label: Bonners Ferry County Sheriff
+  icon: shield-account
+  value: 911 or 208.267.3151
+notes:
+- Idaho panhandle national forest/alerts
+- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Pyramid And Ball Lakes Trail 43
 
-## Pyramid lake 6100' and ball lakes 6610' ​trials #13 & 43
-
-EVENT TYPE: Hike, Backpack and Mountain Bike
-DISTANCE: Pyramid Lake 2.8 jmiles RT, Ball Lakes 5 miles RT.  (P. Pass 2.7 m & 1300')
-ELEVATION: Trail Head 5920', 798' gain to Ball Lakes
-DIFFICULTY: Easy to Moderate
-MAPS: IPNF-Kaniksu N. F., WSGS-Pyramid Lake
-ACRAGE: Pyramid Lake 6.5.   Ball Lake 6.4
-Gps: [48° 48’ 19.7”n 116° 35’ 57.7”w](https://goo.gl/maps/h1E7q3BbFNA2WiKeA)
-Ranger district: Bonners Ferry R.D.  208.267.5561
-Bonners ferry county sheriff:  911 or 208.267.3151
-Idaho panhandle national forest/alerts
-<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+*Pyramid lake 6100' and ball lakes 6610' ​trials #13 & 43*
 
 ## Description
 
@@ -107,7 +135,7 @@ One day, after summiting pyramid peak, we raced down to pyramid lake to capture 
 
 ![Picture](/assets/images/p308.png)
 
-## Chris walking on what he calls “lunar landscape” on the ridge ​south of pyramid lakes
+## Chris walking on what he calls "lunar landscape" on the ridge ​south of pyramid lakes
 
 ![Picture](/assets/images/p309.png)
 

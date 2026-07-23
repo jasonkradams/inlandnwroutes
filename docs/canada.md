@@ -232,7 +232,7 @@ The Canadian dollar is sometimes described as a petrocurrency.
 The S&P/TSX is the fourth largest exchange by market cap in the developed world.
 On April 23, 1997, the TSX’s trading floor closed, making it the second-largest stock exchange in North America to choose a floor-less, electronic (or virtual trading) environment.
 At its peak in 2000, Nortel represented more than 36 percent of the Toronto TSE 300 index when their equipment carried 75% of internet traffic.
-The Hudson’s Bay Company or “The Bay” is the oldest commercial corporation in North America and one of the oldest in the world. The company was incorporated by English royal charter in 1670.
+The Hudson’s Bay Company or "The Bay" is the oldest commercial corporation in North America and one of the oldest in the world. The company was incorporated by English royal charter in 1670.
 You can’t miss the Canadian flag on the barn on a drive up to the Peace RiverJust plain weird, unusual or interesting facts about CanadaCanada has the world’s smallest jail – in Rodney, Ontario; it’s only 24.3 square meters (270 square feet).
 Canada has 198 jails.
 Daylight savings time does not occur in Saskatchewan.
@@ -250,7 +250,7 @@ View of the CN Tower from Toronto Island
 The license plate for cars, motorbikes and snowmobiles in Nunavut is in the shape of a polar bear.
 Canada is the largest producer of uranium in the world.
 The intersection of Portage and Main Street in Winnipeg has been called the windiest place in Canada.
-Newfoundland is nicknamed “The Rock.”
+Newfoundland is nicknamed "The Rock."
 Prince Edward Island, Canada’s smallest province is only 225 kilometers long and 56 kilometers wide. It’s a great [**island to bike**](https://hikebiketravel.com/how-to-spend-5-days-cycling-pei/).
 The Northwest Territories is called The Land of the Midnight Sun because the sun barely sets around the summer solstice.
 There are diamond mines in the Northwest Territories.

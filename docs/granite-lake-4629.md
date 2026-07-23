@@ -1,20 +1,46 @@
+---
+tags:
+- Lakes
+- Hiking
+- Backpacking
+- Scrambling
+- Ice Climbing
+stats:
+- label: Event Type
+  icon: hiking
+  value: Hiking, backpacking, scrambling, and ice climbing.
+- label: Distance
+  icon: map-marker-distance
+  value: 12 miles RT
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 1400' gain
+- label: Acres
+  icon: vector-square
+  value: '56.7'
+- label: Difficulty
+  icon: speedometer
+  value: Difficult, but harder during spring runoff.
+- label: Maps
+  icon: map
+  value: Kootenai N.F., Treasure Mt., Snowshoe Peak
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°15’10"n 115°41’20"w
+- label: Ranger District
+  icon: pine-tree
+  value: Libby R.D. 406.293.7333
+- label: Lincoln County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 406.293.4112
+notes:
+- Kootenai national forest/alerts
+- <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+---
+
 # Granite Lake 4629
 
-## Granite lake, c.m.w. 4629’
-
-EVENT TYPE: Hiking, backpacking, scrambling, and ice climbing.
-Distance:  12 miles RT
-Elevation gain:  1400' gain
-​acres: 56.7
-DIFFICULTY: Difficult, but harder during spring runoff.
-Maps:  Kootenai N.F., Treasure Mt., Snowshoe Peak
-Gps: 48°15’10”n 115°41’20”w
-RANGER DISTRICT:  Libby R.D. 406.293.7333
-​LINCOLN COUNTY SHERIFF: CALL 911 FIRST or 406.293.4112
-Kootenai national forest/alerts
-<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
-
----
+*Granite lake, c.m.w. 4629’*
 
 ## Description
 

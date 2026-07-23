@@ -79,7 +79,7 @@ Rule #2……..Never go on the water without wearing your PFD.
 
 Rule #3……..If your nose goes over/outside your cockpit rim, so you will go.
 
-Rule #4……..Always carry your “ESSENTIALS”
+Rule #4……..Always carry your "ESSENTIALS"
 
 Rule #5……..Always render aid to other paddlers in need.
 
@@ -129,7 +129,7 @@ Rule #  Have tooooo much fun!
 After the paddle, I thot of some things that I feel is pretty important.
 The items below are things I take on every paddle trip I do. Because you just never know when an accident or high winds will pin you down.
 
-In a medium large dry bag, I always have these items. Think of them as the”Essentials” for a safe paddling.
+In a medium large dry bag, I always have these items. Think of them as the"Essentials" for a safe paddling.
 Altho I’ve only gone over three times, each have been getting into the kayak after lunch, etc.  (Sullivan Lake has a very steep shore line below the water line.)
 
 Starting at the bottom of the dry bag…
@@ -170,7 +170,7 @@ There is a wax called 303 for boats. Don’t know the brand. Or Meguiar’s Ulti
 They both don’t show white scratches.
 
 ​For general reference, I am listing the accepted,
-“International Scale of Grading the Difficulty of River Cruising Routes.”
+"International Scale of Grading the Difficulty of River Cruising Routes."
 
 Grade i
 Easy
@@ -207,7 +207,7 @@ Scouting shore is necessary and rescue is difficult.
 Not for open canoes or kayaks.
 
 PLEASE, when you are paddling and need to relieve yourself, PLEASE make sure you are 200 feet from ANY WATER SOURCE.
-Please burry your human waste 6” or deeper, and if there are rocks around, stack them on your filled in dig.
+Please burry your human waste 6" or deeper, and if there are rocks around, stack them on your filled in dig.
 I carry an old Nalgene bottle to be able to pee on board. Women can use a Lady Jane devise to aid peeing on board.
 
 Pack it in- pack it out

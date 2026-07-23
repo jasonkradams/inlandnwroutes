@@ -1,19 +1,40 @@
+---
+tags:
+- Trails & Scrambles
+- Day Hiking
+- Backpacking
+- Camping
+- Paddling
+- Photography
+stats:
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, camping, paddling, and photography
+- label: Distance
+  icon: map-marker-distance
+  value: 3.6 miles with many variations
+- label: Elevation
+  icon: terrain
+  value: 300 + verts
+- label: Difficulty
+  icon: speedometer
+  value: mostly easy with some moderate routes
+- label: Maps
+  icon: map
+  value: Lake Roosevelt National Recreation Area
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°81’09" n 118°31’04" w
+- label: Managing Agency
+  icon: domain
+  value: w.s.p& r 509.754.7800
+notes:
+- 'LINCOLN COUNTY, Wash. SHERIFF: CALL 911 FIRST or 509.725.3501'
+---
+
 # Hawk Creek S P
 
-## Hawk creek falls state park
-
----
-
-EVENT TYPE: Day hiking, backpacking, camping, paddling, and photography
-DISTANCE: 3.6 miles with many variations
-ELEVATION: 300 + verts
-DIFFICULTY: mostly easy with some moderate routes
-MAPS: Lake Roosevelt National Recreation Area
-Gps: 47°81’09” n 118°31’04” w
-Managing agency:  w.s.p& r   509.754.7800
-​LINCOLN COUNTY, Wash. SHERIFF: CALL 911 FIRST or 509.725.3501
-
----
+*Hawk creek falls state park*
 
 ## Description
 

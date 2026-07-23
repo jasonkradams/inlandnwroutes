@@ -1,20 +1,29 @@
+---
+tags:
+- Paddling & Rivers
+stats:
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: varies
+- label: Elevation
+  icon: terrain
+  value: 2439’
+- label: Length and Acreage
+  icon: vector-square
+  value: 19 miles long and 26,000 acres
+- label: Maps
+  icon: map
+  value: IPNF, Outlet Bay, Coolin, Priest Lake SW Topo
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 48°44’32" n. 116°50’00" w
+---
+
 # Kalispell Bay Launch
-
-## Kalispell bay launch​
-
----
-
-PADDLE DISTANCE: varies
-Elevation: 2439’
-LENGTH AND ACREAGE: 19 miles long and 26,000 acres
-MAPS: IPNF, Outlet Bay, Coolin, Priest Lake SW Topo
-Launch gps: 48°44’32” n. 116°50’00” w
-
----
 
 ## Description
 
-Priest Lake has been described as the “GEM” of Idaho. After your first visit, you will agree. The lower lake is inhabited by thousands of people in the summer, and a virtual desert in the winter. The lower lake is 369’ deep. There are four islands on the lake, with one that is public, with 11 designated camp sites, and a few pit toilets scattered among them. PLEASE USE THE PIT TOILETS WHEN YOU NEED TO DO YOUR BUSINESS. WE ALL WILL APPRECIATE IT.
+Priest Lake has been described as the "GEM" of Idaho. After your first visit, you will agree. The lower lake is inhabited by thousands of people in the summer, and a virtual desert in the winter. The lower lake is 369’ deep. There are four islands on the lake, with one that is public, with 11 designated camp sites, and a few pit toilets scattered among them. PLEASE USE THE PIT TOILETS WHEN YOU NEED TO DO YOUR BUSINESS. WE ALL WILL APPRECIATE IT.
 Kalispell Island Trail #49 is 2.5 miles long, and circumnavigated the island. On the SW side of the island is a host **Kalispell Island Group Site** is located on the southeast side of Kalispell Island on Priest Lake. The rustic campsite is part of the Three Pines camping area at site #29. The island, reached only by boat, faces the beautiful Selkirk Mountains.**Other Camping:**
 
 * **West Shores** - 7 camp units, west side of island (vault toilet).

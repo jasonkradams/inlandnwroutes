@@ -16,7 +16,7 @@ for there is no quality in this world
 that is not what it is merely by contrast.
 Nothing exists in itself.
 
-a quote from “Moby Dick “.
+a quote from "Moby Dick ".
 ​via Eli Francovich, Spokesman Outdoor Editor. 6.2021
 
 The Wigs

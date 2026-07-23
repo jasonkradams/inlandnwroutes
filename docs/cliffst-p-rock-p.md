@@ -1,24 +1,53 @@
+---
+tags:
+- Trails & Scrambles
+- Hiking
+- Backpacking
+- Climbing
+- Fishing
+- Photography
+- Scrambling
+stats:
+- label: Event Type
+  icon: hiking
+  value: Hiking, backpacking, climbing, fishing, photography, and scrambling
+- label: Distance
+  icon: map-marker-distance
+  value: Cliff Lake 3 miles RT St. Paul Peak 6 miles RT. Rock Peak is about 10 miles
+    RT.
+- label: Elevation Gain
+  icon: elevation-rise
+  value: Cliff Lake 300 verts gain, with St. Paul Peak at 1970 verts.
+- label: Acres
+  icon: vector-square
+  value: '40.8'
+- label: Difficulty
+  icon: speedometer
+  value: Easy to Cliff Lake and Chicago Peak and difficult to St. Paul Peak
+- label: Maps
+  icon: map
+  value: Kootenai National Forest, Elephant Peak topo
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°04’21" n 115°40’42" w
+- label: Ranger District
+  icon: pine-tree
+  value: Cabinet R.D. 406.827.3533
+- label: Sanders County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 406.827.3584
+notes:
+- Kootenai national forest/alerts
+- <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+---
+
 # Cliffst P Rock P
 
-A warning about the road to the cliff lake, St paul peak and  rock peak road. After visiting the area wednesday 8.4.22, I want to tell you about the road. From f.r. 150, f.r. 2741 up to the trailhead, Is extremely rough' ​ and cars wont make it to the trailhead. The walk up the road to the trailhead Is about 2.4 miles. and will save your vehicles from damage. Please use caution
+!!! warning "Before you go"
 
-## ​cliff lake, chicago peak 7018’, ​st. paul peak 7714’
+    A warning about the road to the cliff lake, St paul peak and  rock peak road. After visiting the area wednesday 8.4.22, I want to tell you about the road. From f.r. 150, f.r. 2741 up to the trailhead, Is extremely rough' ​ and cars wont make it to the trailhead. The walk up the road to the trailhead Is about 2.4 miles. and will save your vehicles from damage. Please use caution
 
----
-
-EVENT TYPE: Hiking, backpacking, climbing, fishing, photography, and scrambling
-DISTANCE: Cliff Lake 3 miles RT St. Paul Peak 6 miles RT. Rock Peak is about 10 miles RT.
-ELEVATION GAIN: Cliff Lake 300 verts gain, with St. Paul Peak at 1970 verts.
-​acres: 40.8
-DIFFICULTY: Easy to Cliff Lake and Chicago Peak and difficult to St. Paul Peak
-MAPS: Kootenai National Forest, Elephant Peak topo
-Gps: 48°04’21” n 115°40’42” w
-​RANGER DISTRICT:   Cabinet R.D.  406.827.3533
-​SANDERS COUNTY SHERIFF: CALL 911 FIRST or 406.827.3584
-Kootenai national forest/alerts
-<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
-
----
+*​cliff lake, chicago peak 7018’, ​st. paul peak 7714’*
 
 ## Description
 
@@ -90,7 +119,7 @@ Henry’s & Pizza Hut, in Libby, Clark Fork Pantry, Eicharts, Mr Sub & Jalapeño
 
 Click for Current NOAA Weather Conditions
 
-(these subalpine firs, shown anove, are called “krummlolz.” they can be well over 100 years old at only 6’ tall
+(these subalpine firs, shown anove, are called "krummlolz." they can be well over 100 years old at only 6’ tall
 ​pnt trees)
 
 ## Photo gallery

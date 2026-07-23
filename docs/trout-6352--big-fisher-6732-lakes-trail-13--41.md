@@ -1,22 +1,43 @@
+---
+tags:
+- Lakes
+- Easy to Moderate
+- Hiking
+- Backpacking
+stats:
+- label: Event Type
+  icon: hiking
+  value: Hiking and Backpacking
+- label: Distance
+  icon: map-marker-distance
+  value: Trout 7 miles RT, Big Fisher 12 miles RT
+- label: Elevation
+  icon: terrain
+  value: 2343' gain 1032' loss
+- label: Acres
+  icon: vector-square
+  value: '6.1'
+- label: Difficulty
+  icon: speedometer
+  value: Easy to Moderate
+- label: Maps
+  icon: map
+  value: IPNF - Kaniksu N.F., USGS - Pyramid Peak, ID
+- label: GPS
+  icon: crosshairs-gps
+  value: 48° 48’ 19.7"n 116° 35’ 57.7"w
+- label: Ranger District
+  icon: pine-tree
+  value: Bonners Ferry R.D. 208.267.5561
+- label: Boundary County Sheriff
+  icon: shield-account
+  value: 911 or 208.267.3151
+notes:
+- Idaho panhandle national forest/alerts
+- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+---
+
 # Trout 6352  Big Fisher 6732 Lakes Trail 13  41
-
-## Trout 6352' & big fisher 6732' lakes trail #13 & 41
-
----
-
-EVENT TYPE: Hiking and Backpacking
-DISTANCE: Trout 7 miles RT, Big Fisher 12 miles RT
-ELEVATION: 2343' gain 1032' loss
-​acres: 6.1
-DIFFICULTY: Easy to Moderate
-MAPS: IPNF - Kaniksu N.F., USGS - Pyramid Peak, ID
-Gps: 48° 48’ 19.7”n 116° 35’ 57.7”w
-​RANGER DISTRICT: Bonners Ferry R.D.   208.267.5561
-BOUNDARY COUNTY SHERIFF:  911 or 208.267.3151
-Idaho panhandle national forest/alerts
-<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
-
----
 
 ## Description
 
