@@ -1,5 +1,5 @@
 ---
-name: zensical-section-reorganizer
+name: zensical-page-reorganizer
 description: Reorganizes, restructures, and enhances run-on Markdown documentation pages or sections in Zensical / Material for MkDocs projects with structured headings (h2/h3/h4), Material callouts (admonitions), summary tables, GLightbox asset path normalization, and strict pymarkdown lint verification.
 ---
 
