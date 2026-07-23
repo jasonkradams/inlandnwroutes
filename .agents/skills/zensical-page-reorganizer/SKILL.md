@@ -33,10 +33,15 @@ This skill provides a systematic workflow for refactoring unorganized, run-on, o
 
 ### 3. Visual & Rich Enhancements (Material for MkDocs / Zensical)
 
-- **Quick Facts & Callout Boxes**: Use standard Material admonition syntax for key highlights, historical quotes, warnings, or tips:
+- **Automatic Frontmatter Rendering vs. In-Body Duplication**:
+  `overrides/main.html` automatically extracts and renders `stats:`, `notes:`, and `tags:` from YAML frontmatter into top-of-page callout boxes ("Quick Facts & Trip Stats", "Forest Alerts & Important Notes"). **DO NOT hand-write redundant `!!! info "Quick Facts..."` boxes in the Markdown body if `stats:` is already defined in frontmatter**, as this causes the Quick Facts box to render twice.
+
+- **Admonition Box Indentation & Blank Lines**:
+  All content inside an admonition box (`!!! info ...`, `!!! warning ...`, `!!! quote ...`) MUST be indented by 4 spaces (`    `) on every line, and preceded by a blank line inside the callout block if it starts a list (to satisfy `MD032` linting).
 
   ```markdown
   !!! info "Quick Facts: [Subject]"
+
       - **Fact 1:** Details
       - **Fact 2:** Details
 
@@ -133,8 +138,9 @@ When reorganizing a page identified as a blog post (located in `docs/blog/`, `do
 
 ## Common Pitfalls
 
+- **Duplicate Quick Facts Boxes**: Do not duplicate `stats:` frontmatter inside the Markdown body as a `!!! info "Quick Facts..."` box, since `overrides/main.html` renders `stats:` automatically.
+- **Indentation & Line Formatting in Admonitions**: All content inside an admonition box (lists, text, blockquotes) must be indented by exactly 4 spaces (`    `) on every line, and preceded by a blank line inside the callout block if it starts a list.
+- **Markdown Link Protection**: Line-wrapping tools must protect Markdown link tags (`[Anchor](URL)`) using exact-length dummy tokens so link anchors or URLs are never split across line breaks.
 - **Destructive Pre-processors**: Avoid invoking file-rewriting scripts during lint checks. Use `scripts/reorganize_all_docs.py` for structured formatting and keep linting strictly read-only.
 - **Boundary Collisions & Duplicate Walls**: When editing full pages with multiple sections, replace large contiguous blocks carefully or perform a single coherent rewrite of the file content to prevent duplicating legacy text walls below the edited section.
-- **Indentation in Admonitions**: All content inside an admonition box (lists, text, blockquotes) must be indented by exactly 4 spaces and preceded by a blank line if it starts a list.
 - **Preserving Details**: Ensure no original numbers, dates, place names, species, or technical terms are lost during reorganization.
-- **Broken Markdown Link Syntax**: Watch for multi-line link targets or squished `[Link 1](a.md) [Link 2](b.md)` entries and format them into clean, separate list items or table rows.
