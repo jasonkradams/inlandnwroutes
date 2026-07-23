@@ -1,70 +1,76 @@
 ---
-title: "Blog #77: Home page clean up and more"
+title: "Blog #77: Home Page Clean Up & Safety Rules"
 date: 2024-10-28
 authors:
   - chic
   - david
 categories:
-  - Wildfire & Closures
+  - Trail Safety & Gear
 ---
 
 I visited David last week to discuss some ideas we both had for our website.
 
 <!-- more -->
 
-In the process of cleaning up our HOME PAGE, we decided to move our FOREST ALERTS to the individual trip
-write ups. The reason we decided to move this very important info to the write ups, is so you can check for
-any kind of issues, trying to get to the trailheads.
+## Moving Forest Alerts to Individual Trip Guides
+
+In the process of cleaning up our Home Page, we decided to move our Forest Alerts directly into individual
+trip write-ups. The reason we moved this important info to the specific guides is so you can check for any
+trailhead access issues or closures before heading out.
 
 Years ago, a friend and I were driving up to hike into Long Mountain Lake & Peak. As we drove the frontage
-road of the American Selkirks, we came up to a bridge that was being replaced. Our turnoff was about 300’
-past the bridge work, we intended to drive up. We eventually had to drive back to Bonners Ferry and drove up
-95 to near the Canadian border, to Copeland, and down to our forest road. All this took about an extra hour
-or so to reach the trailhead.
+road of the American Selkirks, we encountered a bridge replacement project about 300 feet before our planned
+forest road turnoff. We had to backtrack all the way to Bonners Ferry, drive north up Hwy 95 to Copeland,
+and then head back down to our forest road—adding over an hour to our drive just to reach the trailhead.
 
-It was on that trip that I decided to do two things to our website.
+## Two Critical Wilderness Rules
 
-1st… I always advise hikers planning a trip, to call or get online to see if their trip would be affected by
-any kind of forest closures or delays. 2nd… it is very important that you tell a responsible person your
-itinerary, your exact route of hiking, and when to notify the local sheriff’s office, if you are overdue or
-late. If you have to change your destination, you must call your responsible person to let them know of your
-changes. If you don’t, and are late or injured, the search parties may be looking in the wrong location for
-you.
+It was on that trip that I decided to emphasize two rules on our website:
 
-Both of these are critical in case of an unfortunate accident.
+!!! warning "Essential Pre-Hike Safety Rules"
 
-Two bear air rescue service
+1. **Check Forest Closures:** Always call the Forest Service or check online to verify if your route or
+   trailhead is affected by closures, bridge work, or fire restrictions.
+2. **File a Trip Itinerary:** Tell a responsible person your exact route, destination, and expected return
+   time, plus when to notify the local sheriff if you are overdue. If you change your destination, notify
+   your contact immediately so search and rescue teams search the correct location.
 
-We are very fortunate to have a rescue service close by to get us out of the woods and to an ambulance or
-hospital.
+Both rules are critical in case of an unforeseen emergency.
 
-Two years ago, I was leading a snowshoe (sshoe) next to Stevens Lakes. One of the participants, slipped and
-tore her Achilles Tendon off the behind. She could not walk or even stand up. I called 911, and the Shoshone
-County Sheriff, dispatched a three person rescue crew to us.
+## Two Bear Air Rescue Service
 
-Please keep in mind, it takes hours for a rescue crew to get to the accident site.
+We are very fortunate to have a dedicated air rescue service available in our region to evacuate injured
+hikers from the backcountry to an ambulance or hospital.
 
-Once the Shoshone County S&R leader got to us, the leader called TWO BEAR AIR.
+Two years ago, while leading a snowshoe trip near Stevens Lakes, one of our participants slipped and
+suffered a severe Achilles tendon tear. She could not walk or stand up. I called 911, and the Shoshone
+County Sheriff dispatched a three-person Search & Rescue team.
 
-They are stationed out of Kalispell, so it took time for them to get to us. But when they were hovering
-above us, I realized my friend was going to get out, without a difficult and complicated rescue.
+Please keep in mind that it takes hours for a ground rescue crew to reach an accident site in deep snow.
 
-Altho that was a great help in getting her out, the very best part, is….TWO BEAR AIR is a free rescue
-service. It cost my friend ZERO $. She was air lifted to Lookout Ski Areas parking lot, where an ambulance
-was waiting.
+Once the Shoshone County S&R leader arrived on scene, he called **Two Bear Air**. Stationed out of
+Kalispell, Montana, it took time for their helicopter to reach us, but once hovering overhead, I knew my
+friend would be evacuated safely without a complicated ground carryout.
 
-So the moral to ALL of this is simple. Stuff happen in the mountains. Please prepare for all unforeseen
+!!! info "Two Bear Air Rescue Facts"
+
+- **Base:** Kalispell, Montana (serving the Inland Northwest).
+- **Cost to Patient:** 100% Free search and rescue support ($0 cost to the patient).
+- **Evacuation:** The hiker was airlifted directly to Lookout Pass Ski Area parking lot, where an ambulance
+  was waiting.
+
+## Preparation & Resources
+
+The moral of this story is simple: stuff happens in the mountains. Please prepare for all unforeseen
 incidents.
 
-David and my goal is to provide you with the best knowledge we can. By doing this, you can plan your trip,
-or know what’s available to you, before you even put on your boots.
+David's and my goal is to provide you with the best knowledge we can so you can plan your trip before you
+even put on your boots.
 
-Please check out our RESOURCES, HINTS and MEDICAL INFO sections for more important information, that
-everyone NEEDS TO KNOW.
+Please check out our **Resources**, **Hints**, and **Medical Info** sections for more important information
+that everyone needs to know.
 
-Thank You for reading and using our local website. Please be safe and learn what we all need to know to have
-"too much fun in the mountains".
+Thank you for reading and using our local website. Please be safe and learn what we all need to know to have
+"too much fun in the mountains."
 
-Chic David
-
-InlandNWRoutes.com
+Chic Burge & David Crafton
