@@ -25,7 +25,11 @@
       <p class="admonition-title">Forest Alerts & Important Notes</p>
       <ul>
         {% for note in page.meta.notes %}
-          <li>{{ note }}</li>
+          {% if note.url %}
+            <li><a href="{{ note.url }}" target="_blank" rel="noopener">{{ note.label or note.url }}</a></li>
+          {% else %}
+            <li>{{ note }}</li>
+          {% endif %}
         {% endfor %}
       </ul>
     </div>

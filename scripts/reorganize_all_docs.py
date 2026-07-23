@@ -2,6 +2,7 @@
 import os
 import glob
 import re
+import yaml
 import textwrap
 
 DOCS_DIR = 'docs'
@@ -101,6 +102,8 @@ def process_body_lines(lines, max_len=108):
             wrapped = smart_wrap_paragraph(curr_indent + joined, max_len=max_len)
             blocks.extend(wrapped)
         elif curr_type == 'list':
+            if blocks and blocks[-1] != '':
+                blocks.append('')
             list_items = []
             curr_item = []
             for l in curr_block:
@@ -119,6 +122,7 @@ def process_body_lines(lines, max_len=108):
                 item = re.sub(r'\s+', ' ', item)
                 wrapped = smart_wrap_paragraph(curr_indent + item, max_len=max_len)
                 blocks.extend(wrapped)
+            blocks.append('')
         else:
             blocks.extend(curr_block)
         curr_block = []
@@ -288,13 +292,44 @@ def process_file(filepath):
     if len(lines) > 0 and lines[0].strip() == '---':
         end_fm = -1
         for i in range(1, len(lines)):
-            if lines[i].strip() == '---':
+            s_line = lines[i].strip()
+            if s_line == '---' or s_line.endswith('---'):
+                if s_line.endswith('---') and s_line != '---':
+                    lines[i] = s_line[:-3].rstrip()
+                    lines.insert(i + 1, '---')
                 end_fm = i
                 break
         if end_fm > 1:
-            clean_fm = [l for l in lines[1:end_fm] if l.strip() != '']
-            fm_lines = ['---'] + clean_fm + ['---']
-            body_lines = lines[end_fm + 1:]
+            try:
+                fm_raw = '\n'.join(lines[1:end_fm])
+                fm = yaml.safe_load(fm_raw)
+                if isinstance(fm, dict) and 'notes' in fm and fm['notes']:
+                    new_notes = []
+                    notes_list = fm['notes'] if isinstance(fm['notes'], list) else [fm['notes']]
+                    for n in notes_list:
+                        if isinstance(n, dict):
+                            new_notes.append(n)
+                        elif isinstance(n, str):
+                            s = n.strip()
+                            m_link = re.match(r'^\[([^\]]+)\]\(([^)]+)\)$', s)
+                            m_angle = re.match(r'^<(https?://[^>]+)>$', s)
+                            m_url = re.match(r'^(https?://\S+)$', s)
+                            if m_link:
+                                new_notes.append({'label': m_link.group(1), 'url': m_link.group(2)})
+                            elif m_angle:
+                                new_notes.append({'label': 'Forest Service Alerts', 'url': m_angle.group(1)})
+                            elif m_url:
+                                new_notes.append({'label': 'Forest Service Alerts', 'url': m_url.group(1)})
+                            else:
+                                new_notes.append(s)
+                    fm['notes'] = new_notes
+                    fm_yaml = yaml.dump(fm, sort_keys=False, allow_unicode=True).strip().splitlines()
+                    fm_lines = ['---'] + fm_yaml + ['---']
+                    body_lines = lines[end_fm + 1:]
+            except Exception:
+                clean_fm = [l for l in lines[1:end_fm] if l.strip() != '']
+                fm_lines = ['---'] + clean_fm + ['---']
+                body_lines = lines[end_fm + 1:]
 
     # Convert Setext headings (Line\n--- or Line\n===) to ATX headings (## Line)
     cleaned_body = []

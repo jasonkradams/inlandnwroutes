@@ -36,6 +36,15 @@ This skill provides a systematic workflow for refactoring unorganized, run-on, o
 - **Automatic Frontmatter Rendering vs. In-Body Duplication**:
   `overrides/main.html` automatically extracts and renders `stats:`, `notes:`, and `tags:` from YAML frontmatter into top-of-page callout boxes ("Quick Facts & Trip Stats", "Forest Alerts & Important Notes"). **DO NOT hand-write redundant `!!! info "Quick Facts..."` boxes in the Markdown body if `stats:` is already defined in frontmatter**, as this causes the Quick Facts box to render twice.
 
+- **Frontmatter Notes Link Objects**:
+  In YAML frontmatter, format `notes:` links as structured objects with `label` and `url` keys so Zensical / Minijinja template engine (`overrides/main.html`) can render active, accessible HTML `<a>` tags cleanly without raw Markdown string parsing failures:
+
+  ```yaml
+  notes:
+    - label: Cabinet Ranger District Alerts
+      url: https://www.fs.usda.gov/alerts/kootenai/alerts-notices
+  ```
+
 - **Admonition Box Indentation & Blank Lines**:
   All content inside an admonition box (`!!! info ...`, `!!! warning ...`, `!!! quote ...`) MUST be indented by 4 spaces (`    `) on every line, and preceded by a blank line inside the callout block if it starts a list (to satisfy `MD032` linting).
 

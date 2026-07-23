@@ -1,37 +1,38 @@
 ---
 tags:
-  - Lakes
-  - Moderate
-  - Paddling
-  - Backpacking
-  - Climbing
+- Lakes
+- Moderate
+- Paddling
+- Backpacking
+- Climbing
 stats:
-  - label: Event Type
-    icon: hiking
-    value: Day hiking, paddling, backpacking and climbing
-  - label: Distance
-    icon: map-marker-distance
-    value: 8.2 miles RT
-  - label: Elevation Gain
-    icon: elevation-rise
-    value: 1708’ gain
-  - label: Acres
-    icon: vector-square
-    value: '47.1'
-  - label: Difficulty
-    icon: speedometer
-    value: Moderate
-  - label: Maps
-    icon: map
-    value: Kootenai N.F., Cabinet Mountain Wilderness, Elephant Peak topo
-  - label: GPS
-    icon: crosshairs-gps
-    value: 48°04’00"N 115°68’00"W
-  - label: Sanders County Sheriff
-    icon: shield-account
-    value: CALL 911 FIRST or 406.827.3584
+- label: Event Type
+  icon: hiking
+  value: Day hiking, paddling, backpacking and climbing
+- label: Distance
+  icon: map-marker-distance
+  value: 8.2 miles RT
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 1708’ gain
+- label: Acres
+  icon: vector-square
+  value: '47.1'
+- label: Difficulty
+  icon: speedometer
+  value: Moderate
+- label: Maps
+  icon: map
+  value: Kootenai N.F., Cabinet Mountain Wilderness, Elephant Peak topo
+- label: GPS
+  icon: crosshairs-gps
+  value: 48°04’00"N 115°68’00"W
+- label: Sanders County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 406.827.3584
 notes:
-  - "[Cabinet Ranger District Alerts](https://www.fs.usda.gov/alerts/kootenai/alerts-notices)"
+- label: Cabinet Ranger District Alerts
+  url: https://www.fs.usda.gov/alerts/kootenai/alerts-notices
 ---
 
 # Rock Lake 4958
