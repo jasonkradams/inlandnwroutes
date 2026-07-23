@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Lakes
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: 3.7 miles RT
-
 - label: Elevation
   icon: terrain
   value: 2438’
-
 - label: Length and Acreage
   icon: vector-square
   value: 1.6 miles long and 205.8 acres
-
 - label: Maps
   icon: map
   value: Medical Lake Topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°33’49" n 117°42’15" w
-
 - label: Spokane County Sheriff
   icon: shield-account
   value: 509.447.2240

@@ -1,35 +1,26 @@
 ---
 tags:
-
 - Winter & Skiing
-
 stats:
-
 - label: Phone
   icon: phone
   value: 800.666.9420
-
 - label: Acres
   icon: vector-square
   value: '1184'
-
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 480'
-
 - label: Summit Elevation
   icon: terrain
   value: 5299'
-
 - label: Base Elevation
   icon: terrain
   value: 4665'
-
 - label: Verts
   icon: arrow-expand-vertical
   value: 634'
 notes:
-
 - Skiwhitewater.com
 ---
 

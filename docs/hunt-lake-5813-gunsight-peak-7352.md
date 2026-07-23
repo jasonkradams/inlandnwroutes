@@ -1,55 +1,39 @@
 ---
 tags:
-
 - Lakes
-
 - Hiking
-
 - Backpacking
-
 - Scrambling
-
 - Climbing
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Hiking, backpacking, scrambling and climbing
-
 - label: Distance
   icon: map-marker-distance
   value: Lake 2 miles RT, Gunsight Peak about 6 miles RT
-
 - label: Elevation Gain
   icon: elevation-rise
   value: Hunt Lake 525', Gunsight Peak 2062'
-
 - label: Acres
   icon: vector-square
   value: '13.9'
-
 - label: Difficulty
   icon: speedometer
   value: Hunt Lake Moderate, Gunsight Peak Difficult, Hunt Lake to Hunt Peak Difficult
-
 - label: Maps
   icon: map
   value: IPNF - Kaniksu N.F., USGS - Mt Roothaan, Idaho
-
 - label: GPS
   icon: crosshairs-gps
   value: 48°35’3.4"n 116°43’4.6"w
-
 - label: Ranger District
   icon: pine-tree
   value: Sandpoint R.D. 208.263.5111
-
 - label: Bonner County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.263.8417
 notes:
-
 - "[Idaho Panhandle National Forest Alerts](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)"
 ---
 

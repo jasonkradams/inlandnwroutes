@@ -1,23 +1,17 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 stats:
-
 - label: Genesis Name
   icon: book-open-variant
   value: Synthyris missurica
-
 - label: Distribution
   icon: earth
   value: Small areas in Washington, Oregon, California, and Idaho
-
 - label: Season
   icon: calendar
   value: Blooms May thru July, and is sometimes in the first few flowers to bloom
     in the spring
-
 - label: Features
   icon: information-outline
   value: Clump of nearly round basal leaves, erect flower stem. Leaves shiny, hairless,

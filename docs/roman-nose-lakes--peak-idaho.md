@@ -1,80 +1,52 @@
 ---
 tags:
-
 - Lakes
-
 - Easy to Both Lakes.
-
 - Hiking
-
 - Backpacking
-
 - Camping
-
 - Fishing
-
 - Scrambling
-
 - Ada Capable
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Hiking, Backpacking, camping, fishing, scrambling, ADA capable.
-
 - label: Distance
   icon: map-marker-distance
   value: 3rd lake is 4 miles RT
-
 - label: Elevation Gain
   icon: elevation-rise
   value: 'Lake # 3 to the high point 6410’, is 535'' gain, and drops 215'' to Lower
-
     Lake'
-
 - label: Difficulty
   icon: speedometer
   value: Easy to both lakes.
-
 - label: Maps
   icon: map
   value: IPNF, Kaniksu N.F., Roman Nose topo
-
 - label: GPS
   icon: crosshairs-gps
   value: Roman Nose Lake 48°38’07" N -116 35’ 14" W
-
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 911 or 208.267.5561
-
 - label: Boundary County Sheriff
   icon: shield-account
   value: call 911 first or 208.267.3151
 notes:
-
 - Roman Nose Peak. 48°37’39"N 116°35’37"W
-
 - Daho panhandle national forest/alerts
-
 - '[https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)'---
-
 # Roman Nose Lakes  Peak Idaho
-
 *Roman nose lakes & peak 7260’, idaho. trail #160 & 165*
-
 ## Description
-
 The views from the summit are some of the best in the american selkirks
 One of the cool things about Roman Nose Lakes is the trailhead is next to Lake #1, and there is an ADA wheelchair accessible boardwalks around part of the lake, as you drove in, there is a campground to the left.
-
 Along the trail to the upper lakes is an Interpretive Loop Trail just before the highpoint that is spectacular in every season, especially Spring & Fall.
 This Nature Trail is a 1 mile loop. If up hillwalking  is an issue with you, walk the main trail to near the regular trails summit, and hike down the trail to the trailhead. It's much easier that way.
 The trail up to the upper two lakes, starts at the lower lake. Because of the 1967 Sundance Fire that burned most of the area, the canopy is low and the views are high. The lower lake sits in a half bowl with tall walls on the south and west. As you approach the west wall, the trail skirts around it and drops down to the upper two lakes. At this high point on the trail, look for the waterfall dropping off the NE end of Lake #2 in the spring. A short distance below the high point, the main trial heads NW to Lake #3. If you continue on the main trail SW, it will take you to Lake #2.
-
 Lake #3 is mostly encased in granite and has a good spot to swim and sunbath on the SW end. Because the lakes are so close together, spend some time at each lake enjoying this spectacular area.
-
 ---
 
 ## Option #1

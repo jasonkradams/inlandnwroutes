@@ -1,18 +1,13 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2067’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies

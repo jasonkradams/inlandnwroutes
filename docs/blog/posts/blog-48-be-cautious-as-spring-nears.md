@@ -1,15 +1,10 @@
 ---
 title: "Blog #48: Be cautious as spring nears"
-
 date: 2024-03-06
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Trail Safety & Gear
 ---
 

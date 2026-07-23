@@ -1,57 +1,39 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 - Easy
-
 - Day Hiking
-
 - Backpacking
-
 - Mt Biking
-
 - Equestrian
-
 - Photography
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, mt biking, equestrian, and photography
-
 - label: Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 161 Verts
-
 - label: Difficulty
   icon: speedometer
   value: easy
-
 - label: Maps
   icon: map
   value: IPNF, Burke & Bloom Peak topos
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°45’17" n 115°49’48" w
-
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
-
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
 notes:
-
 - Idaho panhandle national forest/alerts
-
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 

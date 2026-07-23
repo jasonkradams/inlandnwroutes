@@ -1,15 +1,10 @@
 ---
 title: "Blog #27: Call 911 Only in an Emergency"
-
 date: 2023-08-14
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Trail Safety & Gear
 ---
 

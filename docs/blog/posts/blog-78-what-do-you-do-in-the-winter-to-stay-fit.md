@@ -1,15 +1,10 @@
 ---
 title: "Blog #78: What do you do in the winter to stay fit"
-
 date: 2024-11-28
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Winter Sports
 ---
 

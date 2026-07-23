@@ -1,15 +1,10 @@
 ---
 title: "Blog # 49: Spring wildflowers"
-
 date: 2024-03-06
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Winter Sports
 ---
 

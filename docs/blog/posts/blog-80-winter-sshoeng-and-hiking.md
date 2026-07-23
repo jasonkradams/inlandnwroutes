@@ -1,15 +1,10 @@
 ---
 title: "Blog #80: Winter sshoeng and hiking"
-
 date: 2025-01-02
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Trail Safety & Gear
 ---
 

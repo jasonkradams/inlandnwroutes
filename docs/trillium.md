@@ -1,52 +1,41 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Genesis Name
   icon: book-open-variant
   value: Trillium ovatum
-
 - label: Distribution
   icon: earth
   value: U.S....California, Colorado, Idaho, Montana, Oregon, Washington, Wyoming
     and British Columbia
-
 - label: Season
   icon: calendar
   value: Blooms February thru June
-
 - label: Medical Use
   icon: medical-bag
   value: Several species of Trillium contain chemical compounds called sapogenins
     that have been used medicinally though the ages as astringents, coagulants, expectorants,
     and uterine stimulants. This is evidenced in common names given to some trilliums
     such as birthwort and Indian balm.
-
 - label: Poisonous
   icon: skull-crossbones
   value: 'POISONOUS PARTS: Berries and roots. Only low toxicity if eaten. Toxic Principle:
     Toxicity unknown, but caution because of its relationship with known toxic plants'
-
 - label: Edibility
   icon: food-apple
   value: Young, unfolding leaves. Wash leaves in warm water to remove dirt and debris.
     Do not use dish detergent or any type of sanitizer. Cook in boiling, salted water
     for ten minutes and serve like greens.
-
 - label: Features
   icon: information-outline
   value: Rhizome (A horizontal underground stem.) division or seed. Seeds do best
     when planted outdoors soon after fruits have ripened. Seedlings take many years
     to bloom. Divide rhizomes in fall
-
 - label: Leaves
   icon: leaf
   value: Trilliums (they all have three petals and three sepals) they are actually
     a very complex group of plants that can confuse even the best of botanists
-
 - label: Fruits
   icon: fruit-cherries
   value: '**The trillium flower produces a fruit**, the seeds of which are spread

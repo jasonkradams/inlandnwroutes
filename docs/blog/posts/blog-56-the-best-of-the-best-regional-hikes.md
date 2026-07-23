@@ -1,15 +1,10 @@
 ---
 title: "Blog #56: The best of the best regional hikes"
-
 date: 2024-04-26
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Winter Sports
 ---
 

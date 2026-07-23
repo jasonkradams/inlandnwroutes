@@ -1,26 +1,19 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2066’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Maps
   icon: map
   value: IPNF, Priest River Topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°09’32" n 116°46’19" w

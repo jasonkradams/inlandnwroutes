@@ -1,15 +1,10 @@
 ---
 title: "Blog #108: Hydration"
-
 date: 2026-07-10
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Trail Safety & Gear
 ---
 

@@ -1,62 +1,43 @@
 ---
 tags:
-
 - Lakes
-
 - Easy to Moderately Easy
-
 - Day Hiking
-
 - Backpacking
-
 - Camping
-
 - Scrambling
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: day hiking, backpacking, camping, scrambling
-
 - label: Distance
   icon: map-marker-distance
   value: 6 miles RT to lower lake, 8 miles RT to upper lake, 10 miles RT to Pear Lake
-
 - label: Elevation Gain
   icon: elevation-rise
   value: the numbers are approximations for this hike
-
 - label: Difficulty
   icon: speedometer
   value: Easy to Moderately Easy
-
 - label: Maps
   icon: map
   value: IPNF, LOLO N.F., Thompson Pass
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°55’15"n 115°74’47"w
-
 - label: Mineral County Sheriff
   icon: shield-account
   value: 406.822.3555. 1st choice
-
 - label: CdA River Ranger District
   icon: pine-tree
   value: 208.752.1221
-
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
 notes:
-
 - TRAILHEAD 4840verts. to L.B.L.(5669v) or 829vets. TH. to U.B.L. (5897v) 0r 1050verts.
   TH. to Pear Lake(5899v) or 1341verts
-
 - 'Plains-thompson falls ranger district: 406.826.3821'
-
 - Because blossom lakes are right on the idaho/montana boarder, i have included the
   info below.
 ---

@@ -1,15 +1,10 @@
 ---
 title: "Blog #95: Crowded hikes and our new responsibilities"
-
 date: 2025-07-26
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Wildfire & Closures
 ---
 

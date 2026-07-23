@@ -1,18 +1,13 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Distance from Spokane
   icon: map-marker-distance
   value: 2,500 miles
-
 - label: Elevation
   icon: terrain
   value: 0 ft
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 20° 52’ 05.4"n 105° 26’ 20.4"w

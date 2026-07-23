@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2128’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Maps
   icon: map
   value: IPNF, Fernan topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°37’47" n 116041’28" w
-
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300

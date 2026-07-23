@@ -1,55 +1,38 @@
 ---
 tags:
-
 - Lakes
-
 - Day Hiking
-
 - Backpacking
-
 - Scrambling
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, scrambling
-
 - label: Distance
   icon: map-marker-distance
   value: 2.4 miles RT to Cliff Lake. 4.4 RT to Eagle Cliff Peak
-
 - label: Elevation
   icon: terrain
   value: to Cliff Lake 533 verts. To Eagle Cliff Peak it is 1629 verts
-
 - label: Acres
   icon: vector-square
   value: diamond 17.2…..cliff 42
-
 - label: Difficulty
   icon: speedometer
   value: Easy to Cliff Lake, & Moderately difficult to Eagle Cliff.
-
 - label: Maps
   icon: map
   value: Lolo N.F., Torino Peak topo
-
 - label: GPS
   icon: crosshairs-gps
   value: Trailhead 47°08’53" N 115°10’24" W
-
 - label: Ranger District
   icon: pine-tree
   value: SUPERIOR R.D. CALL 911 FIRST or 406.822.4233
 notes:
-
 - Cliff Lake. 47°08’28" N 115°01’19" W
-
 - Eagle Cliff Peak. 47°07’46" N 115°11’09" W
-
 - Lolo national forest/alerts
-
 - https[://www.fs.usda.gov/alerts/lolo/alerts-notices](https://www.fs.usda.gov/alerts/lolo/alerts-notices)
 ---
 

@@ -1,15 +1,10 @@
 ---
 title: "Blog #58: Proposed scotchman peak wilderness"
-
 date: 2024-05-11
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Winter Sports
 ---
 

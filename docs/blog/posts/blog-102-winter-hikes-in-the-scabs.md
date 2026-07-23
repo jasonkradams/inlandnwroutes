@@ -1,15 +1,10 @@
 ---
 title: "Blog #102: Winter hikes in the scabs"
-
 date: 2026-01-01
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Trail Safety & Gear
 ---
 

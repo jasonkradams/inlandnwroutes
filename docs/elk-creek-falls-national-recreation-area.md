@@ -1,48 +1,35 @@
 ---
 tags:
-
 - Waterfalls
-
 - Day Hiking Only
-
 stats:
-
 - label: Event Type
   icon: waterfall
   value: Day hiking only
-
 - label: Distance
   icon: map-marker-distance
   value: varies, but about 2.5 miles
-
 - label: Elevation Varies
   icon: terrain
   value: in total about 652’
-
 - label: Difficulty
   icon: speedometer
   value: easy with one semi steep trail and some hazards
-
 - label: Maps
   icon: map
   value: Clearwater N.F./ Palouse Ranger District, and the Elk Creek Falls National
     Recreation Area brochure.
-
 - label: GPS
   icon: crosshairs-gps
   value: Trailhead 46°44’39" N 116°10’ 52" W
-
 - label: Ranger District
   icon: pine-tree
   value: Palouse R.D. 208.875.1131
-
 - label: Clearwater County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.476.4521
 notes:
-
 - '[Clearwater national forest/ alerts](https://www.fs.usda.gov/alerts/lolo/alerts-notices)'
-
 - <https://www.fs.usda.gov/alerts/nezperceclearwater/alerts-notices>
 ---
 

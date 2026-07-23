@@ -1,15 +1,10 @@
 ---
 title: "Blog #59: The colors of auroras explained"
-
 date: 2024-05-12
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Wildfire & Closures
 ---
 

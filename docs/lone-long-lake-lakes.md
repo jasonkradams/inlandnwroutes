@@ -1,60 +1,42 @@
 ---
 tags:
-
 - Lakes
-
 - Moderately Difficult
-
 - Hiking
-
 - Backpacking
-
 - Fishing
-
 - Backcountry Skiing
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Hiking, backpacking, fishing, backcountry skiing and the awe inspiring "Upper
     Sanctuary."
-
 - label: Distance
   icon: map-marker-distance
   value: Lone Lake 4 miles RT, Upper Sanctuary about 6+ miles RT
-
 - label: Elevation
   icon: terrain
   value: Lone Lake 1637 gain. Upper Sanctuary About another 250' gain
-
 - label: Acres
   icon: vector-square
   value: '15.2'
-
 - label: Difficulty
   icon: speedometer
   value: Moderately difficult
-
 - label: Maps
   icon: map
   value: IPNF, LOLO N.F. Mullan topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°43’38" n -115°77’44" w
-
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
-
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
 notes:
-
 - Idaho panhandle national forest/alerts
-
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 

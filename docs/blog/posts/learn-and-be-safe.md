@@ -1,15 +1,10 @@
 ---
 title: "Blog # 8: Learn and be safe"
-
 date: 2023-05-05
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Wildfire & Closures
 ---
 

@@ -1,15 +1,10 @@
 ---
 title: "Blog #62: Be prepared...be safe"
-
 date: 2024-05-26
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Wildfire & Closures
 ---
 

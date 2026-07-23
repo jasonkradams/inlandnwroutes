@@ -1,45 +1,32 @@
 ---
 tags:
-
 - Lakes
-
 - Easy
-
 - Day Hiking
-
 - Paddling
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, paddling
-
 - label: Distance
   icon: map-marker-distance
   value: 9.2 miles RT
-
 - label: Elevation
   icon: terrain
   value: 650’
-
 - label: Difficulty
   icon: speedometer
   value: easy
-
 - label: Maps
   icon: map
   value: Colville N. F., Metaline Falls Topo
-
 - label: GPS
   icon: crosshairs-gps
   value: North shore beach 48°50’ 14" N 117°16’34" W
-
 - label: Pend Orielle County Sheriff
   icon: shield-account
   value: 509.447.3151
 notes:
-
 - 'M,ANGING AGENCY: C.N.F. & Sullivan Lake R.D. 509.446.7500'
 ---
 

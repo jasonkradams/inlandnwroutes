@@ -1,15 +1,10 @@
 ---
 title: "Blog #25: Stevens lakes & peak massive avalanche of 1903"
-
 date: 2023-08-04
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Winter Sports
 ---
 

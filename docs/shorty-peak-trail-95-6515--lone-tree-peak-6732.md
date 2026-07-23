@@ -1,53 +1,37 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 - Moderate to Both Summits
-
 - Hike
-
 - Backpack
-
 - Fire Lookout Rental
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Hike, backpack, Fire Lookout Rental
-
 - label: Distance
   icon: map-marker-distance
   value: 5 miles RT
-
 - label: Elevation
   icon: terrain
   value: 1275' gain to Shorty, about 250' loss and 263' gain to Lone Tree Peak
-
 - label: Difficulty
   icon: speedometer
   value: Moderate to both Summits
-
 - label: Maps
   icon: map
   value: IPNF-Kaniksu N. F., Shorty Peak
-
 - label: GPS
   icon: crosshairs-gps
   value: n48° 57’ 12"w116° 39’ 02"
-
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561
-
 - label: Bonners Ferry County Sheriff
   icon: shield-account
   value: 911 or 208.267.3151
 notes:
-
 - Idaho panhandle national forest/alerts
-
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 

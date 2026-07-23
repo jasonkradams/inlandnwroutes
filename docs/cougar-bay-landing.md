@@ -1,26 +1,19 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2128’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Maps
   icon: map
   value: IPNF, Mica Bay topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°40’31" n 116°49’15" w

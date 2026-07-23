@@ -1,49 +1,35 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 - Moderately Difficult
-
 - Day Hiking
-
 - Scenic Overlook
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: day hiking, scenic overlook.
-
 - label: Distance
   icon: map-marker-distance
   value: 6.2 miles RT
-
 - label: Elevation Gain
   icon: elevation-rise
   value: 1750 verts, Maiden Rock 2877 verts
-
 - label: Difficulty
   icon: speedometer
   value: moderately difficult
-
 - label: Maps
   icon: map
   value: IPNF, Cocolalla Lake topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 48°07’00"n 116°32’29"w
-
 - label: Ranger District
   icon: pine-tree
   value: cda river r.d. 208.769.3000
-
 - label: Kootenai County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.446.1300
 notes:
-
 - Idaho panhandle national forest/alerts [https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)
 ---
 

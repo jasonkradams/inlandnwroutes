@@ -1,35 +1,26 @@
 ---
 tags:
-
 - Winter & Skiing
-
 stats:
-
 - label: Phone
   icon: phone
   value: 208.744.1234
-
 - label: Acres
   icon: vector-square
   value: '1023'
-
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 400+
-
 - label: Summit Elevation
   icon: terrain
   value: 6150'
-
 - label: Base Elevation
   icon: terrain
   value: 4500'
-
 - label: Verts
   icon: arrow-expand-vertical
   value: 1650'
 notes:
-
 - Skilookout.com
 ---
 

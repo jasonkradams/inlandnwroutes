@@ -1,27 +1,20 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2067’
-
 - label: Length and Acreage
   icon: vector-square
   value: 65 miles long, 125 miles if shore line, 148 square miles or 88,008 acres
     and 1150’ deep
-
 - label: Maps
   icon: map
   value: Packsaddle Mountain Topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°07’43" n 116°28’ 4" w

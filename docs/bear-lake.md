@@ -1,49 +1,35 @@
 ---
 tags:
-
 - Lakes
-
 - Moderate
-
 - Day Hiking
-
 - Backpacking
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking
-
 - label: Distance
   icon: map-marker-distance
   value: 6 miles RT
-
 - label: Elevation Gain
   icon: elevation-rise
   value: 2000 verts
-
 - label: Difficulty
   icon: speedometer
   value: Moderate
-
 - label: Maps
   icon: map
   value: K.N.F., Silver Butte Pass, Goat Peak topos
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°49’35" n 115°22’46" w
-
 - label: Cabinet Ranger District
   icon: pine-tree
   value: 406.827.3533
-
 - label: Lincoln County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.293.4112
 notes:
-
 - Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 

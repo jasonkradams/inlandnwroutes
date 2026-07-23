@@ -1,35 +1,26 @@
 ---
 tags:
-
 - Winter & Skiing
-
 stats:
-
 - label: Phone
   icon: phone
   value: 307.201.5464
-
 - label: Acres
   icon: vector-square
   value: '450'
-
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 167"
-
 - label: Summit Elevation
   icon: terrain
   value: 7808'
-
 - label: Base Elevation
   icon: terrain
   value: 6237'
-
 - label: Verts
   icon: arrow-expand-vertical
   value: 1571'
 notes:
-
 - Snowkingmountain.com
 ---
 

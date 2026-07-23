@@ -1,51 +1,36 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 - Strenuous
-
 - Day Hiking
-
 - Backpacking
-
 - Equestrian
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, equestrian
-
 - label: Distance
   icon: map-marker-distance
   value: about 9.4 miles RT
-
 - label: Elevation Gain
   icon: elevation-rise
   value: 3910’
-
 - label: Difficulty
   icon: speedometer
   value: Strenuous
-
 - label: Maps
   icon: map
   value: Kootenai N.F., Heron topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 48°09’33" n 115°92’77" w
-
 - label: Ranger District
   icon: pine-tree
   value: Cabinet R.D. 406.827.3533
-
 - label: Sanders County Sheriff
   icon: shield-account
   value: 911 or 406.827.3584
 notes:
-
 - Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 

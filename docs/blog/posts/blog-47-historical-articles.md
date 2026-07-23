@@ -1,15 +1,10 @@
 ---
 title: "Blog #47: Historical articles"
-
 date: 2024-02-24
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Wildfire & Closures
 ---
 

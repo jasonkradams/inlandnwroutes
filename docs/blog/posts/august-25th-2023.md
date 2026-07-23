@@ -1,15 +1,10 @@
 ---
 title: "Blog #30: Recommendation for any foot or ankle issues."
-
 date: 2023-08-25
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Trail Safety & Gear
 ---
 

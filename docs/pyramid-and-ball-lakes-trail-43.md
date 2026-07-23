@@ -1,57 +1,40 @@
 ---
 tags:
-
 - Lakes
-
 - Easy to Moderate
-
 - Hike
-
 - Backpack
-
 - Mountain Bike
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Hike, Backpack and Mountain Bike
-
 - label: Distance
   icon: map-marker-distance
   value: Pyramid Lake 2.8 jmiles RT, Ball Lakes 5 miles RT. (P. Pass 2.7 m & 1300')
-
 - label: Elevation
   icon: terrain
   value: Trail Head 5920', 798' gain to Ball Lakes
-
 - label: Difficulty
   icon: speedometer
   value: Easy to Moderate
-
 - label: Maps
   icon: map
   value: IPNF-Kaniksu N. F., WSGS-Pyramid Lake
-
 - label: Acreage
   icon: information-outline
   value: Pyramid Lake 6.5. Ball Lake 6.4
-
 - label: GPS
   icon: crosshairs-gps
   value: '[48° 48’ 19.7"n 116° 35’ 57.7"w](https://goo.gl/maps/h1E7q3BbFNA2WiKeA)'
-
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561
-
 - label: Bonners Ferry County Sheriff
   icon: shield-account
   value: 911 or 208.267.3151
 notes:
-
 - Idaho panhandle national forest/alerts
-
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 

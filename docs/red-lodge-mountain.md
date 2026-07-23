@@ -1,31 +1,23 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 stats:
-
 - label: Phone
   icon: phone
   value: 406.446.2610 or 800.444.8977
-
 - label: Acres
   icon: vector-square
   value: '1635'
-
 - label: Summit Elevation
   icon: terrain
   value: 9416'
-
 - label: Base Elevation
   icon: terrain
   value: 7016'
-
 - label: Verts
   icon: arrow-expand-vertical
   value: 2400'
 notes:
-
 - Redlodgemountain.com
 ---
 

@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2067’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Maps
   icon: map
   value: Farrugut State Park, I.P.N.F., Bayview & Lakeview topos
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°57’54" n 116°32’44"
-
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300

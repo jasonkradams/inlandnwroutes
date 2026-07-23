@@ -1,47 +1,33 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 - Easy
-
 - Hiking
-
 - Backpacking
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Hiking & backpacking
-
 - label: Distance
   icon: map-marker-distance
   value: 6 miles RT to Plowboy CG, 12 miles RT too Navigation CG
-
 - label: Elevation
   icon: terrain
   value: Less then 1000 verts out and back.
-
 - label: Difficulty
   icon: speedometer
   value: Easy
-
 - label: GPS
   icon: crosshairs-gps
   value: N48° 47’42" W116° 54’ 38" Navigation Campground
-
 - label: Ranger District
   icon: pine-tree
   value: 'priest river ranger district: 208.443.2512'
-
 - label: Boundary County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.267.3151
 notes:
-
 - Idaho panhandle national forest/alerts
-
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 

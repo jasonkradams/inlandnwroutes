@@ -1,35 +1,27 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Genesis Name
   icon: book-open-variant
   value: Chrysanthemum leucanthemum
-
 - label: Distribution
   icon: earth
   value: The oxeye daisy is native to **Europe and Asia and has naturalized in the
     United States**. The plant grows about 60 cm (2 feet) high and has notched oblong
     leaves and long petioles (leafstalks).
-
 - label: Season
   icon: calendar
   value: May to Roctober
-
 - label: Medical Use
   icon: medical-bag
   value: The herb is used in the treatment of **whooping cough, asthma and nervous
     excitability**. The root is used successfully for stopping the night-sweats of
     pulmonary consumption. Externally, it is used as a medicinal lotion for wounds,
     bruises, and ulcers
-
 - label: Edibility
   icon: food-apple
   value: Not advised. Toxic to children
-
 - label: Features
   icon: information-outline
   value: Oxeye daisy (Chrysanthemum leucanthemum) is a pretty little perennial flower
@@ -37,26 +29,20 @@ stats:
     by 20 to 30 white petals. However, don’t let this similarity fool you. This plant
     can quickly invade areas of the landscape, making it necessary for some oxeye
     daisy control measures.
-
 - label: Leaves
   icon: leaf
   value: its leaves are **alternately arranged along the stems**, but form a basal
     rosette during the early stages of growth. the rosette leaves are stalked and
     have slightly toothed to lobed margins, while the upper stem leaves are smaller,
     narrower, and usually stalkless with toothed margins.
-
 - label: Fruits
   icon: fruit-cherries
   value: 'Fruits and Seeds: The seeds are brown to black and are usually 16th of an
     inch long. They have up to 10 white ridges down the side.'
 notes:
-
 - '.Poisonous:'
-
 - Look for a yellow disk with a dimple the center.
-
 - The name Daisy is said to come from "day's eye" because the flower closes at night.
-
 - the pedal like quality of the rays, distinguish these Daisies from Fleabanes.
 ---
 

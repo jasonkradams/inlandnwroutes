@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Waterfalls
-
 stats:
-
 - label: Waterfall
   icon: waterfall
   value: douglas falls grange park
-
 - label: Drop
   icon: arrow-collapse-down
   value: about 60 feet
-
 - label: Waterfall Type
   icon: waterfall
   value: Horsetail
-
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: 1.5 mile RT
-
 - label: Maps
   icon: map
   value: Colville N.F., Colville topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 48'36'49" n 117°53'57" w

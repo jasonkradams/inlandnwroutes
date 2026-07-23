@@ -1,61 +1,42 @@
 ---
 tags:
-
 - Lakes
-
 - Moderately Easy
-
 - Dayhiking
-
 - Backpacking
-
 - Fishing
-
 - Floating
-
 - Orving
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Dayhiking, backpacking, fishing, floating, ORVing
-
 - label: Distance
   icon: map-marker-distance
   value: From Elsie Lake to Striped Peak is about 6 miles RT
-
 - label: Elevation
   icon: terrain
   value: 1289 verts
-
 - label: Acres
   icon: vector-square
   value: '16.2'
-
 - label: Difficulty
   icon: speedometer
   value: Moderately easy
-
 - label: Maps
   icon: map
   value: IPNF, Wallace topo
-
 - label: GPS
   icon: crosshairs-gps
   value: Elsie Lake 47°25’42"N 116°01’24"W Striped Peak. 47°26’23"N 115°59’45"W
-
 - label: Ranger District
   icon: pine-tree
   value: cda river r.d. 208.769.3000
-
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
 notes:
-
 - Idaho panhandle national forest/alerts
-
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 

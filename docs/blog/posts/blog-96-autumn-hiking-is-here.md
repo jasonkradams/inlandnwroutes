@@ -1,15 +1,10 @@
 ---
 title: "Blog #96: Autumn hiking is here"
-
 date: 2025-09-22
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Wildfire & Closures
 ---
 

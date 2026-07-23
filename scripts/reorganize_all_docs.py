@@ -10,6 +10,21 @@ def process_file(filepath):
     with open(filepath, 'r', encoding='utf-8', errors='ignore') as fp:
         content = fp.read()
     
+    # 0. Clean blank lines inside YAML frontmatter
+    lines = content.splitlines()
+    if len(lines) > 0 and lines[0].strip() == '---':
+        end_fm = -1
+        for i in range(1, len(lines)):
+            if lines[i].strip() == '---':
+                end_fm = i
+                break
+        if end_fm > 1:
+            fm_lines = lines[1:end_fm]
+            clean_fm = [l for l in fm_lines if l.strip() != '']
+            rest_lines = lines[end_fm:]
+            lines = [lines[0]] + clean_fm + rest_lines
+            content = '\n'.join(lines)
+    
     # 1. Clean zero-width spaces and non-breaking spaces
     content = content.replace('\u200b', '').replace('\xa0', ' ')
     

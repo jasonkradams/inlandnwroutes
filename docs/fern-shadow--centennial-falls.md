@@ -1,31 +1,23 @@
 ---
 tags:
-
 - Waterfalls
-
 stats:
-
 - label: Waterfall
   icon: waterfall
   value: Fern & Shadow Falls
-
 - label: Drop
   icon: arrow-collapse-down
   value: Fern 15'. Shadow 25'
-
 - label: Waterfall Type
   icon: waterfall
   value: Both are Plunge types
-
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: .7 miles
-
 - label: Maps
   icon: map
   value: I.P.N.F., CDA River Ranger District 208.664.2388 or 208.783.2363, Pond Peak
     topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°45’32" n 116°06’17" w

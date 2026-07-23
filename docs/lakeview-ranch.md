@@ -1,53 +1,36 @@
 ---
 tags:
-
 - Lakes
-
 - Easy
-
 - Day Hiking
-
 - Backpacking
-
 - Camping
-
 - Fishing
-
 - Picnicking
-
 - Equestrian
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, camping, fishing, picnicking, equestrian and wondering
-
 - label: Distance
   icon: map-marker-distance
   value: Up to 2.5 miles depending on route
-
 - label: Elevation
   icon: terrain
   value: 600’
-
 - label: Difficulty
   icon: speedometer
   value: Easy
-
 - label: Maps
   icon: map
   value: BLM, Pacific Lake, Sullivan Lake topos
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°24’38" n 118°44’47" w
-
 - label: Lincoln County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 509.725.3501
 notes:
-
 - 'm,anaging agency: blm. 509.536.1200 509.920.1778'
 ---
 

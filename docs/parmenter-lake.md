@@ -1,51 +1,36 @@
 ---
 tags:
-
 - Lakes
-
 - Strenuous
-
 - Day Hiking
-
 - Backpacking
-
 - Loop
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, loop
-
 - label: Distance
   icon: map-marker-distance
   value: 17 miles RT
-
 - label: Elevation
   icon: terrain
   value: 3700 verts
-
 - label: Difficulty
   icon: speedometer
   value: Strenuous
-
 - label: Maps
   icon: map
   value: K.N.F., Treasure Mt. Topo.
-
 - label: GPS
   icon: crosshairs-gps
   value: 48°22’44" n 115°37’44" w
-
 - label: Ranger District
   icon: pine-tree
   value: Libby Ranger District 406.293.7773
-
 - label: Lincoln County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.293.4112
 notes:
-
 - Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 

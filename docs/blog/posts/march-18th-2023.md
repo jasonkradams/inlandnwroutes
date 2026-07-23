@@ -1,15 +1,10 @@
 ---
 title: "Blog #3: Mickinnick trail"
-
 date: 2023-03-18
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Winter Sports
 ---
 

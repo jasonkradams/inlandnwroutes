@@ -1,15 +1,10 @@
 ---
 title: "Blog #22: Bears, cats, and other critters"
-
 date: 2023-07-22
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Wildfire & Closures
 ---
 

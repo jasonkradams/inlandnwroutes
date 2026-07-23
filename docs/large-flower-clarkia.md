@@ -1,34 +1,25 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Genesis Name
   icon: book-open-variant
   value: Clarkia pulchella
-
 - label: Distribution
   icon: earth
   value: WA, OR, ID, MT Canada..BC
-
 - label: Season
   icon: calendar
   value: June thru Roctober
-
 - label: Medical Use
   icon: medical-bag
   value: none
-
 - label: Poisonous
   icon: skull-crossbones
   value: 'no'
-
 - label: Edibility
   icon: food-apple
   value: 'no'
-
 - label: Features
   icon: information-outline
   value: An [herbaceous](https://en.wikipedia.org/wiki/Herbaceous_plant) [perennial

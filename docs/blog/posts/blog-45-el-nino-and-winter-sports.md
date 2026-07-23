@@ -1,15 +1,10 @@
 ---
 title: "Blog # 45: El niño and winter sports"
-
 date: 2024-02-02
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Winter Sports
 ---
 

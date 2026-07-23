@@ -1,53 +1,37 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 - Difficult
-
 - Day Hiking
-
 - Backpacking
-
 - Scenery
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, scenery, and possibly mt biking for the hearty.
-
 - label: Distance
   icon: map-marker-distance
   value: 14 miles RT
-
 - label: Elevation
   icon: terrain
   value: Less then 3000’
-
 - label: Difficulty
   icon: speedometer
   value: Difficult
-
 - label: Maps
   icon: map
   value: IPNF, Pyramid Peak topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 48°9’8" n 116°31’31" w
-
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561
-
 - label: Boundary County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.267.3151
 notes:
-
 - Idaho panhandle national forest/alerts
-
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 

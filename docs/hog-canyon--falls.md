@@ -1,44 +1,31 @@
 ---
 tags:
-
 - Waterfalls
-
 - Easy
-
 - Day Hiking
-
 - Photography
-
 stats:
-
 - label: Event Type
   icon: waterfall
   value: Day hiking, and photography
-
 - label: Distance
   icon: map-marker-distance
   value: 3+ miles depending on your route
-
 - label: Elevation
   icon: terrain
   value: 300 to 659 verts
-
 - label: Difficulty
   icon: speedometer
   value: Easy
-
 - label: Maps
   icon: map
   value: BLM Fishtrap Brochure, & Cheney topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°21’ 67" n 117°49’72" w
-
 - label: Managing Agency
   icon: domain
   value: blm 509.536.1200
-
 - label: Spokane County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 509.477.2240

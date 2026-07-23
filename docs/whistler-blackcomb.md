@@ -1,35 +1,26 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Phone
   icon: phone
   value: 604.932.4020
-
 - label: Acres
   icon: vector-square
   value: '4657'
-
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 426"
-
 - label: Summit Elevation
   icon: terrain
   value: 7160'
-
 - label: Base Elevation
   icon: terrain
   value: 214-'
-
 - label: Verts
   icon: arrow-expand-vertical
   value: 5020'
 notes:
-
 - Whistlerblackcomb.com
 ---
 

@@ -1,15 +1,10 @@
 ---
 title: "Blog #38: Keep warm while hiking in the fall"
-
 date: 2023-10-18
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Trail Safety & Gear
 ---
 

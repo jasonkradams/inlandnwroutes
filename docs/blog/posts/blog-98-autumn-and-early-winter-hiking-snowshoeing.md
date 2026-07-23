@@ -1,15 +1,10 @@
 ---
 title: "Blog #98: Autumn and early winter hiking & snowshoeing"
-
 date: 2025-10-30
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Wildfire & Closures
 ---
 

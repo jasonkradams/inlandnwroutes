@@ -1,42 +1,30 @@
 ---
 tags:
-
 - Lakes
-
 - Easy, But Consult Hazards.
-
 - Flat Water Paddling
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Flat Water Paddling
-
 - label: Distance
   icon: map-marker-distance
   value: 5+ miles RT
-
 - label: Elevation
   icon: terrain
   value: 2,057’
-
 - label: Acres
   icon: vector-square
   value: 94,720
-
 - label: Difficulty
   icon: speedometer
   value: Easy, but consult HAZARDS.
-
 - label: Maps
   icon: map
   value: Farragut S. P., Idlewilde Bay, Bernard Peak topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°56’56" n 116°30’14" w
-
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300

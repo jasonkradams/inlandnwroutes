@@ -1,49 +1,35 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 - Moderate
-
 - Day Hiking
-
 - Equestrian
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking but no water, and equestrian.
-
 - label: Distance
   icon: map-marker-distance
   value: 8 miles RT
-
 - label: Elevation Gain
   icon: elevation-rise
   value: About 1000’
-
 - label: Difficulty
   icon: speedometer
   value: moderate
-
 - label: Maps
   icon: map
   value: IPNF, Moyie Springs & Clifty Mountain
-
 - label: GPS
   icon: crosshairs-gps
   value: 48°38’48" n 116°1’8" w
-
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561
-
 - label: Boundary County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.267.3151
 notes:
-
 - Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 

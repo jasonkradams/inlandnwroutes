@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2067’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Maps
   icon: map
   value: IPNF, Priest River Topo
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°10’ 36" n 116°45’15" w
-
 - label: Bonner County Sheriff
   icon: shield-account
   value: 208.263.8417

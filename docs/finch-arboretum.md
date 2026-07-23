@@ -1,34 +1,24 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 - Very Easy
-
 - A Walking Guide
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: A walking guide
-
 - label: Distance
   icon: map-marker-distance
   value: 1.25 miles round trip
-
 - label: Elevation
   icon: terrain
   value: Minimal gain
-
 - label: Difficulty
   icon: speedometer
   value: very easy
-
 - label: Maps
   icon: map
   value: Spokane Parks & Recreation map.
-
 - label: GPS
   icon: crosshairs-gps
   value: 47° 38’36"n 117° 27’45"w

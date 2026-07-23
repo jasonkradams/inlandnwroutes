@@ -1,56 +1,39 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 - Moderately Easy
-
 - Day Hiking
-
 - Backpacking
-
 - Scrambling
-
 - Photography
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, scrambling and photography
-
 - label: Distance
   icon: map-marker-distance
   value: 5 miles RT
-
 - label: Elevation
   icon: terrain
   value: 912’ gain to Ward Peak, with 812’ loss to the saddle, 833’ gain to Eagle
     Peak from saddle
-
 - label: Difficulty
   icon: speedometer
   value: moderately easy
-
 - label: Maps
   icon: map
   value: IPNF, Lolo N.F., Haugen, Mt.- I’d
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°28’27" n 115°38’ 38" w
-
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
-
 - label: Mineral County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.822.3555
 notes:
-
 - Lolo national forest/alerts
-
 - https[://www.fs.usda.gov/alerts/lolo/alerts-notices](https://www.fs.usda.gov/alerts/lolo/alerts-notices)
 ---
 

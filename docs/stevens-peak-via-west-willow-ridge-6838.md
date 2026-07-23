@@ -1,53 +1,37 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 - Difficult
-
 - Hiking
-
 - Backcountry Skiing
-
 - Snowshoeing
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Hiking, Backcountry Skiing, Snowshoeing
-
 - label: Distance
   icon: map-marker-distance
   value: 9.3 Miles RT
-
 - label: Elevation
   icon: terrain
   value: 2878 verts gain
-
 - label: Difficulty
   icon: speedometer
   value: Difficult
-
 - label: Maps
   icon: map
   value: USGS - IPNF, St. Joe N.F., & Mullan, Idaho topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°25'34.5"n 115°46'20.6"w
-
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
-
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
 notes:
-
 - Idaho panhandle national forest/alerts
-
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 

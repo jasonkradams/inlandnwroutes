@@ -1,20 +1,13 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 - Day Hiking
-
 - Backpacking
-
 - Mt Biking
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, mt biking.
-
 - label: GPS
   icon: crosshairs-gps
   value: n??° ?’ ?.??" w???° ?’ ??.??"

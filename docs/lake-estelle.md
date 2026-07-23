@@ -1,95 +1,64 @@
 ---
 tags:
-
 - Lakes
-
 - Easy to Moderate
-
 - Day Hiking
-
 - Backpacking
-
 - Camping
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, camping
-
 - label: Distance
   icon: map-marker-distance
   value: 6.2 miles RT to Lake Estelle. 3 miles RT to Moose Lake
-
 - label: Elevation Gain
   icon: elevation-rise
   value: Lake Estelle 1013 verts. Moose Lake 557 verts
-
 - label: Acres
   icon: vector-square
   value: '3.1'
-
 - label: Difficulty
   icon: speedometer
   value: easy to moderate
-
 - label: Maps
   icon: map
   value: I.P.N.F., Mount Pend Orielle, Smith Mountain, Benning Mountain, and Trestle
     Peak topos
-
 - label: GPS
   icon: crosshairs-gps
   value: Moose Lake. 48°21’16" N 116006’33" W
-
 - label: Ranger District
   icon: pine-tree
   value: Sandpoint R.D. 208.263.5111
-
 - label: Bonner County Sheriff
   icon: shield-account
   value: 911 or 208.263.8417
 notes:
-
 - Moose Mountain 48°20’46" N 116°07’23" W
-
 - Idaho panhandle national forest/alerts
-
 - '[https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)'---
-
 # Lake Estelle
-
 ## Description
-
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
 This whole area is called the Moose Lake Trail System, and has an outhouse and ample parking at the trailhead.
 At the trailhead is a map showing the areas attractions, routes and distances.
 To me, the instructions don’t make much sense, so take an image of it to refer to on your walk.
 For the first .5 mile the trail climbs gently to the first junction. Turn left and in a short distance is a turn off to Lake Estelle Trail #36. See OPTION #1 below for info on this spur trail.
-
 In 1.5 miles is Moose Lake. I guarantee you, there will always be a place to pitch a tent. And your tent will be on soft grasses.
 Moose Lake sits in a cirque with magnificent views of its rocky terrain. To the SW is a mountain that you may think is Moose Mountain, but it’s not.
 Spend some time here relaxing in the shade.
 Return to the cars by following the route you walked in on. If you start climbing up the NW side of the lake, you will be headed up to Moose Mountain.
-
 Please refer to Moose Mountain Loop Hike on this website.
-
 ## Option #1
-
 As you walk into this area from the parking lot, are Lake Estelle Trail #36 is 3.1 miles to a beautiful cirque lake nestled below towering mountains.
-
 The last .5 miles of the trail, skirts several cliffs, but offers great views of N. Idaho and Montana’s Big Sky Country.
 There are a few campsites scattered along the east shore line.
-
 ## Option #2
-
 Because the distances are short to these lakes, you can visit two lakes by following the parking area map.
 If you do the loop, keep in mind that Trail #213 climbs out of the Moose Lake cirque and drops down to the trail outside of the Moose Lake cirque.
-
 ## Option #3
-
 To further your hiking in this area, there is a hike from Lake Estelle to Gem Lake, or visa versa, to the west, at about 2.5 miles of hiking. You can make it a loop, but there is about a two mile walk on a road back to the trailhead.
-
 ---
 
 ## Directions

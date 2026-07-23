@@ -1,46 +1,32 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 - Moderate
-
 - Day Hiking
-
 - Backpacking
-
 - Equestrian
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, and equestrian.
-
 - label: Distance
   icon: map-marker-distance
   value: 5 miles RT
-
 - label: Elevation
   icon: terrain
   value: 1490’
-
 - label: Difficulty
   icon: speedometer
   value: moderate
-
 - label: Maps
   icon: map
   value: Gleason Mountain, Orwig Hump, and Monument Mountain topos
-
 - label: GPS
   icon: crosshairs-gps
   value: Trailhead 48°38’04" N 117°06’05" W
-
 - label: Managing Agency
   icon: domain
   value: Priest River R.D. 208.443.2512 & Idaho D. Of Land 208.443.2516
-
 - label: Pend Orielle County Sheriff
   icon: shield-account
   value: 509.447.3151

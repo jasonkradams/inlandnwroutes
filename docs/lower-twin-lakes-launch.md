@@ -1,18 +1,13 @@
 ---
 tags:
-
 - Lakes
-
 stats:
-
 - label: Length and Acreage
   icon: vector-square
   value: (lower) 390……(upper) 525
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: ??° ??’ ??.?"n ???° ??’ ??.?"w
-
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300

@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 2182’
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Maps
   icon: map
   value: varies
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: varies
-
 - label: Shoshone County Sheriff
   icon: shield-account
   value: 208.556.1114

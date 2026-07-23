@@ -1,57 +1,40 @@
 ---
 tags:
-
 - Lakes
-
 - Moderately Easy
-
 - Hike
-
 - Backpack
-
 - Mountain Bike
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Hike, backpack and Mountain Bike
-
 - label: Distance
   icon: map-marker-distance
   value: About 8 miles RT. (Pyramid Pass 2.7 miles and 1300 vents
-
 - label: Elevation Gain
   icon: elevation-rise
   value: About 340' loss and 375' gain
-
 - label: Acres
   icon: vector-square
   value: '2.6'
-
 - label: Difficulty
   icon: speedometer
   value: Moderately easy
-
 - label: Maps
   icon: map
   value: IPNF-Kaniksu N. F., USGS Pyramid Peak
-
 - label: GPS
   icon: crosshairs-gps
   value: 48° 48’ 15.6"n 116° 36’ 02.0"w
-
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561
-
 - label: Boundary County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.267.3151
 notes:
-
 - Idaho panhandle national forest/alerts
-
 - '[https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)'
 ---
 

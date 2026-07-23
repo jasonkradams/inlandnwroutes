@@ -1,15 +1,10 @@
 ---
 title: "Blog #67: Camp fires"
-
 date: 2024-07-15
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Wildfire & Closures
 ---
 

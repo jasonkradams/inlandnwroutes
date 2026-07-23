@@ -1,26 +1,19 @@
 ---
 tags:
-
 - Lakes
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: Around 3 miles RT
-
 - label: Lake Elevation
   icon: terrain
   value: 3020'
-
 - label: Maps
   icon: map
   value: Detroit National Forest, Forest Map
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 44°22;29" n 121°59'54'w
-
 - label: Linn County Sheriff
   icon: shield-account
   value: 541.967.3950

@@ -1,35 +1,26 @@
 ---
 tags:
-
 - Winter & Skiing
-
 stats:
-
 - label: Phone
   icon: phone
   value: 250.439.5425 or 866.754.5425
-
 - label: Acres
   icon: vector-square
   value: 3400+
-
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 288"
-
 - label: Summit Elevation
   icon: terrain
   value: 8218'
-
 - label: Base Elevation
   icon: terrain
   value: ???3904'
-
 - label: Verts
   icon: arrow-expand-vertical
   value: 4313'
 notes:
-
 - Kockinghorseresort.com
 ---
 

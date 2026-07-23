@@ -1,15 +1,10 @@
 ---
 title: "Blog #9: Airflare rescue app for your phone"
-
 date: 2023-05-26
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Wildfire & Closures
 ---
 

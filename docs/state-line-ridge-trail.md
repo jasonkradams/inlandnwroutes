@@ -1,57 +1,40 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 - Moderate to Difficult
-
 - Hiking
-
 - Sshoe Backpacking
-
 - Photography
-
 - Scrambling
-
 - Backcountry Skiing
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Hiking, sshoe backpacking, photography, scrambling, and backcountry skiing
-
 - label: Distance
   icon: map-marker-distance
   value: 7.75 miles RT to the prominence (next two lines are personal GAIA data)
-
 - label: Elevation
   icon: terrain
   value: From the Stevens Lakes Trailhead 2426 verts. From the Freeway parking area
     it is 2689 verts
-
 - label: Difficulty
   icon: speedometer
   value: Moderate to difficult
-
 - label: Maps
   icon: map
   value: IPNF & Mullan Topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 'Summer trailhead: 47°27''15" N 115°45''58" W. Winter trailhead: 47°27''56"
     N 115°45''33" W'
-
 - label: Ranger District
   icon: pine-tree
   value: CDA River Ranger District 208.769.3000
-
 - label: Shoshone County Sheriff
   icon: shield-account
   value: Call 911 first, or 208.556.1114
 notes:
-
 - Idaho panhandle national forest/alerts <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 

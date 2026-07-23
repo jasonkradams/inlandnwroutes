@@ -1,15 +1,10 @@
 ---
 title: "Blog #60: Washington scablands"
-
 date: 2024-05-15
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Winter Sports
 ---
 

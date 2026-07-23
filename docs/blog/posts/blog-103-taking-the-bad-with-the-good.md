@@ -1,15 +1,10 @@
 ---
 title: "Blog # 103: Taking the bad with the good"
-
 date: 2026-01-22
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Wildfire & Closures
 ---
 

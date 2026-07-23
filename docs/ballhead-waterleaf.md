@@ -1,43 +1,33 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Genesis Name
   icon: book-open-variant
   value: Hydrophylium capitatum
-
 - label: Distribution
   icon: earth
   value: u.s.a...wa, id, mt, or, wy, co, ca, nv, ut. canada...bc, al
-
 - label: Season
   icon: calendar
   value: Flowers May to July
-
 - label: Poisonous
   icon: skull-crossbones
   value: 'no'
-
 - label: Edibility
   icon: food-apple
   value: Ballhead waterleaf is **another edible plant**. It is shorter, found on the
     Western Slope, and bears its ball-shaped flowers under its fuzzy foliage
-
 - label: Leaves
   icon: leaf
   value: All of the waterleaf species are fibrous-rooted perennials with bell-shaped
     white to purple flowers and stamens that extend well beyond the rim of the corolla.
     ... The flowers are usually clustered into a ball-like head borne amid or well
     above the **pinnately lobed leaves**.
-
 - label: Fruits
   icon: fruit-cherries
   value: capsules with 1-3 seeds.
 notes:
-
 - '.FEATURES: A low plant with round heads of small, white or pale purple flowers
   on short stalks among pinnately divided leaves.'
 ---

@@ -1,46 +1,32 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 - Moderately Easy
-
 - Hiking
-
 - Paddling
-
 - Climbing
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Hiking, paddling, & climbing
-
 - label: Distance
   icon: map-marker-distance
   value: 4.5 mile RT loop
-
 - label: Elevation
   icon: terrain
   value: 1150' cumulative gain.
-
 - label: Difficulty
   icon: speedometer
   value: Moderately easy
-
 - label: Maps
   icon: map
   value: Smith Rocks State Park
-
 - label: GPS
   icon: crosshairs-gps
   value: 44° 21’ 32"n 121° 09’ 00"w
-
 - label: Sisters Ranger District
   icon: pine-tree
   value: '[541.549.7700](tel:541.549.7700)'
-
 - label: Deschutes County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or [541.388.6655](tel:541.388.6655)

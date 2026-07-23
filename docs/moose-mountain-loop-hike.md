@@ -1,56 +1,39 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 - Moderate
-
 - Day Hiking
-
 - Backpacking
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking & backpacking
-
 - label: Distance
   icon: map-marker-distance
   value: 9 mile loop
-
 - label: Elevation Gain
   icon: elevation-rise
   value: 1635’
-
 - label: Acres
   icon: vector-square
   value: '16.5'
-
 - label: Difficulty
   icon: speedometer
   value: moderate
-
 - label: Maps
   icon: map
   value: I.P.N.F., Kaniksu National Forest, Mount Pend Orielle, Smith Mountain, Benning
     Mountain, and Trestle Peak topos
-
 - label: GPS
   icon: crosshairs-gps
   value: Moose Lake 48°21’16" N 116°06’33" W
-
 - label: Bonner County Sheriff
   icon: shield-account
   value: 911 or 208.263.8417
 notes:
-
 - Moose Mountain. 48°20’46" N 116°07’22" W
-
 - RANGER DISTRICT. Sandpoint R.D. 208.263.5111
-
 - Idaho panhandle national forest/alerts
-
 - '[https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)'
 ---
 

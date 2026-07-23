@@ -1,105 +1,65 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 - Scenic Nature Hike
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Scenic Nature Hike
-
 - label: Elevation
   icon: terrain
   value: Minimal
-
 - label: Difficulty
   icon: speedometer
   value: easy & Wheel chair accessible
-
 - label: Maps
   icon: map
   value: Kootenai N.F., Sawtooth Mountain topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 48°12’30" n 115°54’53" w
-
 - label: Ranger District
   icon: pine-tree
   value: Three River R.D. 406.295.4693
 notes:
-
 - DISTANCE 1 mile loop +
-
 - 'LINCOLN COUNTY, MT SHERIFF: 911 or 406.293.4112'
-
 - Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>---
-
 # Ross Creek Cedars1
-
 *Ross creek cedars scenic area. trail #405*
-
 ## Description
-
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
 For the most part, this trail is level as it winds thru a large stand of Western Red Cedars.
 Some of the trees in this preserve are 5 to 8 feet in diameter and exist in all ages of life.
 The 1 mile loop trail takes you close and in some instances thru some of the trees.
 Across from the restrooms are picnic tables, and the creek here has hundreds of cairns built on the stream bed.
 do not miss this walk.
-
 ## Option #1
-
 As you walk the trail, look for a spur Trail #142 at the very back of the hike, that takes you into the backcountry. At about 1 mile, Trail #142 crosses the North Fork Ross Creek, and then Ross Creek. Look in the trees for an old sign that directs you to the South Fork Ross Creek Trail #321 heading south. In about another mile the trail crosses Ross Creek again, and follows the South Fork Ross Creek. In about a mile is the South Fork Ross Creek Falls. This falls isn't a big drop, but as it flows below the falls, the shallow creek flows across the rocks. The reflections off the water of the Devil's Club in the back, colors the water yellow/green.
-
 You can continue on this trail for another 2 miles to the northern base of Middle Mountain and Sawtooth Mountain.
 Please be aware that this route is in bear country. pay attention and make a lot of noise as you hike this trail.
-
 ## Option #2
-
 From the far west end of the main trail, look for the South Fork Ross Creek Trail #142. Hike about 1.5 miles, and look for an old trail sign in the trees leading you up Trail #321 to the left (south). Hike this trail for about 1.5 miles to the South Fork Ross Creek Waterfalls. The falls are just down hill from the trail. You can continue up into the South Fork Ross Creek trail to the base of the impressive Sawtooth Mountain.
-
 ## Directions
-
 From Sandpoint, head east on Highway 200 into Montana, and turn left (north) up Hwy 56 for 17 miles to the signs for the cedars. This road is about 4 miles to the parking area.
 On the way out at about 3 miles, there is a wide spot on the road. Pull over and take in the views of the Cabinet Mountain Wilderness across the valley. Also, below this pull off, is the Lower Ross Creek Falls. It is, however, a grunt getting down and up from the falls, on a crummy path.
-
 ## Hazards
-
 Cedar Grove....none of note, but finding a parking spot in the summer and spring is the crux of this walk.
 Above the grove, the trail is more primitive and is a little used trail, so be careful. Also, I ran into a Grizzly Bear after the South Fork waterfalls. But it was so startled at my presence, it ran uphill and disappeared.
-
 ## Cool things close by
-
 The Proposed Scotchman Peaks Wilderness, the Cabinet Mountain Wilderness, and lots of trails into both areas, and the Bull River and Lake. And don’t forget the Clark Fork Pantry.
-
 ## R & P
-
 Clark Fork Pantry, Squeeze Inn in Clark Fork & Jalapeños, Mr. Sub, Eichardt’s Sandpoint
-
 ![Picture](assets/images/6182025148p.jpg)
-
 ## Photo gallery
-
 ![Picture](assets/images/4132025435p.jpg)
-
 ![Picture](assets/images/2020971222-copy.jpg)
-
 ![Picture](assets/images/11112021427p-1.jpg)
-
 This braided log was a beautiful part of the cedars, but someone cut it out a few years ago. what a bummer
-
 *Picture (Image missing)*
-
 ## My friend erwin by a big western red cedar. erwin is almost as old as this cedar
-
 *Picture (Image missing)*
-
 ## Along the trail in the cedars
-
 ---
 
 *Picture (Image missing)*

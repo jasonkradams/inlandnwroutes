@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: up to 7 miles one way.
-
 - label: Elevation
   icon: terrain
   value: 2239’
-
 - label: Length and Acreage
   icon: vector-square
   value: about 7 miles & 3800 acres.
-
 - label: Maps
   icon: map
   value: Hayden Lake, and Athol topos
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°48’40" n. 116°41’50" w
-
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300

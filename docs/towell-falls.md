@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Waterfalls
-
 stats:
-
 - label: Waterfall
   icon: waterfall
   value: towell Falls
-
 - label: Drop
   icon: arrow-collapse-down
   value: Lower 12' & Upper 20'
-
 - label: Waterfall Type
   icon: waterfall
   value: lower Cascade & Plunge
-
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: 5 miles one way
-
 - label: Maps
   icon: map
   value: BLM Brochure
-
 - label: GPS
   icon: crosshairs-gps
   value: Trailhead 47°00’51" N 117°56'’36" W. Falls. 46°58'58" N 117°55'55" W

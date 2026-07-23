@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Paddling & Rivers
-
 stats:
-
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
-
 - label: Elevation
   icon: terrain
   value: 1915'
-
 - label: Length and Acreage
   icon: vector-square
   value: varies
-
 - label: Maps
   icon: map
   value: Spokane, Spokane County
-
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°41'40" n 117°18'29" w
-
 - label: Spokane County Sheriff
   icon: shield-account
   value: 509.477.2240

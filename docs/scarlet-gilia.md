@@ -1,47 +1,37 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Genesis Name
   icon: book-open-variant
   value: Ipomopsis aggregata
-
 - label: Distribution
   icon: earth
   value: British Columbia, WA, ID, MT, OR, WY, CA, NA, UT, CO, AZ, NM, TX, OK.
-
 - label: Season
   icon: calendar
   value: Blooms April thru July
-
 - label: Medical Use
   icon: medical-bag
   value: 'The scarlet gilia has many traditional medicinal uses, including treatment
     of colds, rheumatism, and skin irritation. Gilia is a member of the phlox family,
     and gilia species are native to most of the western United States and a few pockets
     in the east.Poisonous:'
-
 - label: Edibility
   icon: food-apple
   value: The plant has been boiled up as a tea. The nectar is sucked from the flowers
     by children.
-
 - label: Features
   icon: information-outline
   value: This is a striking plant, with bright green, comb-like leaves and an elongated
     inflorescence of red, pink, or white flowers. Each flower forms an elongated tube
     that bursts into five spreading corolla lobes at the tip.
-
 - label: Leaves
   icon: leaf
   value: Basal leaves are finely cut, light green, often silver speckled, and are
     a common late summer and early spring sight. The leaves over-winter and have a
     musky scent. The crushed leaves smell like a skunk. Leaves are also found on the
     stem.
-
 - label: Fruits
   icon: fruit-cherries
   value: na

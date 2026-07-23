@@ -1,53 +1,37 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 - Moderately Easy
-
 - Hiking
-
 - Backpacking
-
 - Climbing
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Hiking, backpacking, and Climbing
-
 - label: Distance
   icon: map-marker-distance
   value: 5+ miles RT Easy, to Roothaan Saddle moderate, SE Face Chimney Rock challenging
-
 - label: Elevation Gain
   icon: elevation-rise
   value: 1235' gain
-
 - label: Difficulty
   icon: speedometer
   value: Moderately Easy
-
 - label: Maps
   icon: map
   value: IPNF - Kaniksu N.F., USGS - Mt. Roothaan
-
 - label: GPS
   icon: crosshairs-gps
   value: 48° 36’ 27.5"n 116° 44’ 08.7"w
-
 - label: Ranger District
   icon: pine-tree
   value: Sandpoint R. D. 208.263.5111
-
 - label: Bonner County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.263.8417
 notes:
-
 - Idaho panhandle national forest/alerts
-
 - h[ttps://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)
 ---
 

@@ -1,35 +1,26 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 stats:
-
 - label: Phone
   icon: phone
   value: 406.587.2111
-
 - label: Acres
   icon: vector-square
   value: '2000'
-
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 350"
-
 - label: Summit Elevation
   icon: terrain
   value: 8700'
-
 - label: Base Elevation
   icon: terrain
   value: 6000'
-
 - label: Verts
   icon: arrow-expand-vertical
   value: 2700'
 notes:
-
 - Bridgerbowl.com
 ---
 

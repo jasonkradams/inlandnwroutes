@@ -1,30 +1,22 @@
 ---
 tags:
-
 - Waterfalls
-
 stats:
-
 - label: Waterfall
   icon: waterfall
   value: revett falls
-
 - label: Drop
   icon: arrow-collapse-down
   value: 20'
-
 - label: Waterfall Type
   icon: waterfall
   value: Tiered
-
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: .8 miles
-
 - label: Maps
   icon: map
   value: I.P.N.F., Burke & Thompson Pass topos
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°56’09" N 115°??75’?10" W. Wallace Ranger District 208.752.1221

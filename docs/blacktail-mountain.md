@@ -1,51 +1,36 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 - Moderately Difficult
-
 - Day Hiking
-
 - Backpacking
-
 - Equestrian
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: day hiking, backpacking, and equestrian.
-
 - label: Distance
   icon: map-marker-distance
   value: 3.6 miles RT
-
 - label: Elevation Gain
   icon: elevation-rise
   value: 1295’
-
 - label: Difficulty
   icon: speedometer
   value: moderately difficult
-
 - label: Maps
   icon: map
   value: Priest Lake NW, Upper Priest Lake
-
 - label: GPS
   icon: crosshairs-gps
   value: 48°42’43" n 116°55’05"
-
 - label: Ranger District
   icon: pine-tree
   value: Priest River R.D. 208.443.2512
-
 - label: Bonner County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.263.8417
 notes:
-
 - Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 

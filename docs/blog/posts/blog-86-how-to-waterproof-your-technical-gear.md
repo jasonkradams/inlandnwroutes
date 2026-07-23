@@ -1,15 +1,10 @@
 ---
 title: "Blog #86: How to waterproof your technical gear"
-
 date: 2025-04-17
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Trail Safety & Gear
 ---
 

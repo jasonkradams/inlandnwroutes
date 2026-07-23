@@ -1,35 +1,26 @@
 ---
 tags:
-
 - Winter & Skiing
-
 stats:
-
 - label: Phone
   icon: phone
   value: 888.437.5488
-
 - label: Acres
   icon: vector-square
   value: '3000'
-
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: '300'
-
 - label: Summit Elevation
   icon: terrain
   value: 9350'
-
 - label: Base Elevation
   icon: terrain
   value: 6450'
-
 - label: Verts
   icon: arrow-expand-vertical
   value: 2900'
 notes:
-
 - Snowbasinresort.com
 ---
 

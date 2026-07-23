@@ -1,15 +1,10 @@
 ---
 title: "Blog #71: Fall hikes around our region"
-
 date: 2024-09-03
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Winter Sports
 ---
 

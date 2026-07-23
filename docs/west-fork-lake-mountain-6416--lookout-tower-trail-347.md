@@ -1,58 +1,41 @@
 ---
 tags:
-
 - Lakes
-
 - Moderate
-
 - Hike
-
 - Backpack
-
 - Scramble
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Hike, Backpack and Scramble
-
 - label: Distance
   icon: map-marker-distance
   value: about 7 miles RT to the lake, another 3/4 of a mile to the summit and lookout
     tower.
-
 - label: Elevation
   icon: terrain
   value: W.F.Lake- 1667'
-
 - label: Acres
   icon: vector-square
   value: '11.2'
-
 - label: Difficulty
   icon: speedometer
   value: Moderate
-
 - label: Maps
   icon: map
   value: IPNF-Kaniksu N.F., USGS-Smith Peak, Shorty Peak & Caribou Creek
-
 - label: GPS
   icon: crosshairs-gps
   value: 48° 51’ 54.0"n 116° 44’ 19.8"w
-
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561
-
 - label: Boundary County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.267.3151
 notes:
-
 - Idaho panhandle national forest/alerts
-
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 

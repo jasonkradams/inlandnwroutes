@@ -1,15 +1,10 @@
 ---
 title: "Blog # 79: How to gather weather data for a day of hiking, skiing, etc."
-
 date: 2024-12-07
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Winter Sports
 ---
 

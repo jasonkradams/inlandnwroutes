@@ -1,48 +1,34 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 - Easy
-
 - Hiking
-
 - Birding
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Hiking, Birding
-
 - label: Distance
   icon: map-marker-distance
   value: 3 miles
-
 - label: Elevation
   icon: terrain
   value: 200' gain and loss
-
 - label: Difficulty
   icon: speedometer
   value: Easy
-
 - label: Maps
   icon: map
   value: USGS Soda Lake and O'Sullivan Dam
-
 - label: GPS
   icon: crosshairs-gps
   value: 46° 53’ 56.2"n 119° 15’ 57.4"w
-
 - label: Managing Agency
   icon: domain
   value: U.S. Fish & Wildlife Service [509.546.8300](tel:509.546.8300)
-
 - label: Grant County Sheriff
   icon: shield-account
   value: '[509.754.2011](tel:509.754.2011)'
-
 - label: Adams County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or [508.659.1122](tel:508.659.1122)

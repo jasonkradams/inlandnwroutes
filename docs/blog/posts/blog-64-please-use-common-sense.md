@@ -1,15 +1,10 @@
 ---
 title: "Blog #64: Please use common sense"
-
 date: 2024-06-15
 authors:
-
   - chic
-
   - david
-
 categories:
-
   - Wildfire & Closures
 ---
 

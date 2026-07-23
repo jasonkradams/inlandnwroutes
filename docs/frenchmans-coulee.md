@@ -1,49 +1,34 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 - Day Hiking
-
 - Backpacking
-
 - Equestrian
-
 - Mt Biking
-
 - Climbing
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, equestrian, mt biking, climbing
-
 - label: Distance
   icon: map-marker-distance
   value: 4 miles RT
-
 - label: Elevation
   icon: terrain
   value: 100’ to the falls. 400-500 ‘ to the rim
-
 - label: Difficulty
   icon: speedometer
   value: easy to the falls. Moderate to the rim
-
 - label: Maps
   icon: map
   value: Washington Dept. Fish & Wildlife, Columbia Basin Wildlife Area, Bancock Ridge
     topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 47°08’38" n 119°59’52" w
-
 - label: Managing Agency
   icon: domain
   value: w. d.f.& w. 509.765.6641
-
 - label: Grant County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 509.754.2011

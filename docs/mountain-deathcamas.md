@@ -1,43 +1,32 @@
 ---
 tags:
-
 - Peaks & Mountains
-
 stats:
-
 - label: Genesis Name
   icon: book-open-variant
   value: Zigadenus elegans
-
 - label: Distribution
   icon: earth
   value: Most all U.S. states, except California, SW states. Most of Canada except
     NE fringe Provinces
-
 - label: Season
   icon: calendar
   value: June, July, August
-
 - label: Medical Use
   icon: medical-bag
   value: None
-
 - label: Poisonous
   icon: skull-crossbones
   value: Yes, very toxic
-
 - label: Edibility
   icon: food-apple
   value: 'no'
-
 - label: Features
   icon: information-outline
   value: Many flowerets
-
 - label: Leaves
   icon: leaf
   value: Long slender leaves that droop.
-
 - label: Fruits
   icon: fruit-cherries
   value: Capsule type

@@ -1,35 +1,26 @@
 ---
 tags:
-
 - Winter & Skiing
-
 stats:
-
 - label: Phone
   icon: phone
   value: 800.targhee
-
 - label: Acres
   icon: vector-square
   value: 3000 =1000 cat skiing
-
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 500+
-
 - label: Summit Elevation
   icon: terrain
   value: 9830'
-
 - label: Base Elevation
   icon: terrain
   value: 7851'
-
 - label: Verts
   icon: arrow-expand-vertical
   value: 2270'
 notes:
-
 - Grandtarghee.com
 ---
 

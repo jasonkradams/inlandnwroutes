@@ -1,56 +1,43 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Genesis Name
   icon: book-open-variant
   value: Eyrthronium grandiflorum
-
 - label: Distribution
   icon: earth
   value: Western Canada and U.S.A. including California, Utah and Colorado
-
 - label: Season
   icon: calendar
   value: April thru June
-
 - label: Medical Use
   icon: medical-bag
   value: Medical applications include **reducing fever, swelling, infection**, and
     they were used as a contraceptive. The glacier lily was collected during the Lewis
     and Clark Expedition.
-
 - label: Poisonous
   icon: skull-crossbones
   value: 'No'
-
 - label: Edibility
   icon: food-apple
   value: Yes. Try them in sandwiches and salads.
-
 - label: Features
   icon: information-outline
   value: Gorgeous yellow pedals that curl up to expose their petals and sepals.
-
 - label: Leaves
   icon: leaf
   value: The leaves are green and can measure 3-5 inches long. The stem to the flower
     can be around 6 inches tall.
-
 - label: Fruits
   icon: fruit-cherries
   value: The yellow leaves are edible as well as the bulbs. But the bulbs need to
     be cooked or baked
 notes:
-
 - Glacier lily bulbs were a food source for some Native American tribes. These deep-rooted
   bulbs were difficult to dig, which probably contributed to the fact that they were
   used infrequently. Bulbs were eaten boiled or dried to eat during the winter months.
   The bulbs can cause a burning sensation when eaten.
-
 - What I later found is that glacier lilies are ephemeral, living only 10 weeks between
   first emergence and leaf fall. A perennial herb, the flower is also known as the
   dogtooth violet, fawn lily or avalanche lily and is native to western North American
@@ -61,7 +48,6 @@ notes:
   disturb the flowers. In turn, the seeds require one hundred days of cold before
   they can germinate. Some individuals of the flower take eight years to reach full
   reproductive maturity.
-
 - The Shoshone ate the corms fresh or with soup, and the dried bulbs were a popular
   trade item between tribes. The leaves are edible as well and the green seed pods
   taste like green beans when cooked. Medical applications include reducing fever,

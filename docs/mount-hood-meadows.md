@@ -1,35 +1,26 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 stats:
-
 - label: Phone
   icon: phone
   value: 503.337.2222
-
 - label: Acres
   icon: vector-square
   value: '2150'
-
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 430"
-
 - label: Summit Elevation
   icon: terrain
   value: 7300'
-
 - label: Base Elevation
   icon: terrain
   value: 4523'
-
 - label: Verts
   icon: arrow-expand-vertical
   value: 2777'
 notes:
-
 - Skihood.com
 ---
 

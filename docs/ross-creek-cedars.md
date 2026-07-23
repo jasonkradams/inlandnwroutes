@@ -1,43 +1,31 @@
 ---
 tags:
-
 - Trails & Scrambles
-
 - Scenic Nature Hike
-
 stats:
-
 - label: Event Type
   icon: hiking
   value: Scenic Nature Hike
-
 - label: Elevation
   icon: terrain
   value: Minimal
-
 - label: Difficulty
   icon: speedometer
   value: easy & wheel chair accessible
-
 - label: Maps
   icon: map
   value: Kootenai N.F., Sawtooth Mountain topo
-
 - label: GPS
   icon: crosshairs-gps
   value: 48°12’30" n 115°54’53" w
-
 - label: Ranger District
   icon: pine-tree
   value: Three River R.D. 406.295.4693
-
 - label: Lincoln County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.293 4112
 notes:
-
 - DISTANCE 1 mile loop +
-
 - Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 
