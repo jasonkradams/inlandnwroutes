@@ -38,17 +38,6 @@ notes:
 
 # Beehive Lake 6457
 
-!!! info "Quick Facts: Beehive Lake & Selkirk Crest"
-    - **Elevation:** 6,457' (Lake), Trail #279
-    - **Distance:** 7.2 miles RT to Beehive Lake (Loop ~11 miles)
-    - **Elevation Gain:** 2,040'
-    - **Lake Size:** 12 acres
-    - **Difficulty:** Moderately difficult to Beehive Lake, strenuous off-trail scrambles
-    - **Maps:** IPNF - Kaniksu N.F., USGS - The Wigwams, ID
-    - **GPS:** 48° 38’ 59.3"N 116° 37’ 25.0"W
-    - **Ranger District:** Sandpoint R.D. (208.263.5111)
-    - **County Sheriff:** Boundary County Sheriff (911 or 208.267.3151)
-
 ## Description
 
 From the trailhead, head east across a bridge over the Pack River. The trail is wide and a nice hike with a
