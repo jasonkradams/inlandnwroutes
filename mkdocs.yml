@@ -62,7 +62,8 @@ not_in_nav: "blog/posts/*.md"
 
 plugins:
   - search
-  - tags
+  - tags:
+      tags_file: tags.md
   - blog:
       blog_dir: blog
       post_dir: "{blog}/posts"
@@ -79,6 +80,7 @@ plugins:
 
 hooks:
   - hooks/stat_card.py
+  - hooks/tags_index.py
 
 nav:
 - Home: index.md
