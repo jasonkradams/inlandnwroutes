@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 2900'
 notes:
-- Snowbird.com
+- label: Snowbird.com
+  url: https://snowbird.com
 ---
 
 # Snowbird Ski Area

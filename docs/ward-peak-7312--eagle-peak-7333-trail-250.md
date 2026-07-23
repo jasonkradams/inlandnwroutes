@@ -34,7 +34,8 @@ stats:
   value: CALL 911 FIRST or 406.822.3555
 notes:
 - Lolo national forest/alerts
-- https[://www.fs.usda.gov/alerts/lolo/alerts-notices](https://www.fs.usda.gov/alerts/lolo/alerts-notices)
+- label: Lolo National Forest Alerts
+  url: https://www.fs.usda.gov/alerts/lolo/alerts-notices
 ---
 
 # Ward Peak 7312  Eagle Peak 7333 Trail 250

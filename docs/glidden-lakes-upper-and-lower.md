@@ -31,7 +31,7 @@ notes:
 - acres (lower) 14.2 (upper) 18
 - Upper Lake. 47°31’08" N 115°43’05" W
 - Idaho panhandle national forest/alerts
-- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+- url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 
 # Glidden Lakes Upper And Lower

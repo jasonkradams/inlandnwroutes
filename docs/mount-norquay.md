@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 1650'
 notes:
-- Banffnorquay.com
+- label: Banffnorquay.com
+  url: https://banffnorquay.com
 ---
 
 # Mount Norquay

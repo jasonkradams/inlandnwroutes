@@ -3,35 +3,18 @@ tags:
 - Trails & Scrambles
 - Day Hiking
 - Backpacking
-- Hut Stays
-stats:
-- label: Event Type
-  icon: hiking
-  value: Day hiking, backpacking, hut stays, world class rock climbing.
-- label: Distance
-  icon: map-marker-distance
-  value: About 10.5 miles RT to Cobalt Lake. Conrad Kain Hut about 6.2 miles RT, but
-    it takes most of a day, and is very scenic.
-- label: Elevation Gain
-  icon: elevation-rise
-  value: Cobalt Lake, 2297’. Conrad Kain Hut, 2640’
-- label: Difficulty
-  icon: speedometer
-  value: Moderately Difficult and complicated to the hut
-- label: Maps
-  icon: map
-  value: Howser Creek. 82K/10 topo
-- label: GPS
-  icon: crosshairs-gps
-  value: Conrad Kain Hut 50°44’15" N 116°45’458" W
----
-
-# The Bugaboos
-
+- Hut Stays stats:
+- label: Event Type icon: hiking value: Day hiking, backpacking, hut stays, world class rock climbing.
+- label: Distance icon: map-marker-distance value: About 10.5 miles RT to Cobalt Lake. Conrad Kain Hut
+about 6.2 miles RT, but it takes most of a day, and is very scenic.
+- label: Elevation Gain icon: elevation-rise value: Cobalt Lake, 2297’. Conrad Kain Hut, 2640’
+- label: Difficulty icon: speedometer value: Moderately Difficult and complicated to the hut
+- label: Maps icon: map value: Howser Creek. 82K/10 topo
+- label: GPS icon: crosshairs-gps
+## value: Conrad Kain Hut 50°44’15" N 116°45’458" W
+## The Bugaboos
 ## The bugaboo
-
 ## Description
-
 T he Conrad Kain Hut sits on a shelf below the Snowpatch Spire. To the Conrad Kain Hut... This trail starts
 in the parking lot, that follows the northern lateral moraine of Bugaboo Glacier. The trail is very steep
 and strenuous , with exposure to steep drop offs as it climbs through granite bluffs. But it’s only 3.1
@@ -44,15 +27,11 @@ spectacular. Each creek crossing has some sort of a bridge to make crossings saf
 the hut, you will wonder thru beautiful meadows, filled with small streams and an abundance of wildflowers.
 Just below the hut, you get your first view of the hut, which sets on the edge of a cliff. Up behind the hut
 is the Snowpatch Spire.
-
 ## Option #1
-
 While staying at the Conrad Kan Hut, I asked the hut manager about hiking within the park. He suggested that
 we hike the area up to the Eastport Spire, where there is a campsite and one of the most beautiful outhouses
 you will see in the mountains.
-
 ## Option #2
-
 Another hike we did, was to hike west towards the glacier next to and below the Snowpatch Spire. After
 dropping down as far as we could, we turn up hill and walked along the stream coming out of the glacier. The
 photography was incredible. The stream falls rapidly down the scoured rock to the valley below. The stream
@@ -60,18 +39,14 @@ bounces and splashes on its path, and creates water features you can only see in
 side the stream as it tumbled past us, all the way to the Snowpatch Spire, enjoying lunch along the way.
 Once at the spire, we hiked a climbers trail back down to the hut. If you go to hike in the Bugs, don’t miss
 the glacier stream hike.
-
 ## Option #3
-
 Another hike you should do while at the Bugs, is the Cobalt Lake Hike. The trial to Cobalt Lake starts
 across the road from the Canadian Mountain Holiday’s Lodge. The trail will enter an Alpine Larch forest that
 holds many switchbacks, until it wonders thru an open high meadows. After many more switchbacks, the Bugaboo
 Spires come into view. You are now on the Cobalt Ridge, about 2 miles from the lake. We stopped here for
 lunch with a view. The next day we were hiking into the Conrad Kain Hut, and one of our hiking partners was
 pregnant. Even if you only go to the Cobalt Ridge for the views, the hike is well worth the effort.
-
 ## Directions
-
 From Radium Hot Springs, drive 17 miles north on Hwy 95 to Brisco. From Brisco, drive .3 miles on the Brisco
 Road, and turn right at the Brisco Wood Preserver for .2 of a mile where the road turns left, still on
 Brisco Road. Stay on Brisco Road for 1.4 miles and turn right to Brisco Mountain Road, where you will come
@@ -81,23 +56,18 @@ Drive until you come to the Leadqueen Francis Road, where you stay on Bugaboo Cr
 Follow the Bugaboo Creek Road to the trailhead. After about 30 miles from Brisco, look for the Bugaboo Creek
 Forest Road, where you will find the Bagaboo-Septet Recreational Site, and campground just down this road a
 ways. The trailhead is back on Bugaboo Creek Road about 2.5 miles from camp.
-
 ## Hazards
-
 THE ROAD TO THE BUGS PARKING AREA IS THE CRUZ OF THIS OUTING. PLEASE USE CAUTION. High clearance vehicles
 are recommended. drive slow and carefully. Be aware that this short 3.5 mile trail is steep, rugged and
 incredible beautiful. Please pay close attention when you are hiking this trail.
-
 ## Cool things close by
-
 Yoho N.P., Kootenay N.P., Radium Hot Springs, Golden B.C., Lake Louise, Banff, Glacier N.P. Of Canada, and
 Mt. Assiniboine.
-
 ## R & P
-
 NA
-
 ---
+
+# The Bugaboos
 
 ## Plan your trip
 

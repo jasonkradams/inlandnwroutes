@@ -30,41 +30,76 @@ stats:
   icon: information-outline
   value: 911 or 208.556.1114
 notes:
-- Idaho panhandle national forest/alerts[https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)
+- label: Idaho Panhandle National Forests Alerts
+  url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 - Idaho panhandle national forest/alerts
-- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>---
-# Little Guard Peak  Lookout
-*Little guard peak 6031’ & lookout trail #81*
-## Description
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-From I-90, take Exit #43 (Kingston) and drive 24 miles north on Forest Highway 9 to Prichard junction. From there, continue on Forest Road 208 for about 5 miles to Forest Road 602 (on the right just past Shoshone Base Camp). Drive about 9 miles to the lookout at the end of the road. Vehicles with high clearance and good tires are strongly recommended.
-I highly recommend renting this lookout. It’s views and hiking to the north is exceptional.
-## Option #1
-Once at the lookout, the Shoshone Ridge Trail #81 heads north. At 2.4 miles is Bennett Peak 6209’, and in 3.4 miles is Sentinel Peak 6000’, and at 3.97 miles is Pond Peak 6136’, then the high point of the ridge is 4.3 miles from the lookout.
-But, back at the lookout, off to the north east 33 miles is the tallest peak in our region, Snowshoe Peak 8738’.
-Outstanding views of the C.M.W.
-## Option #2
-You can extend your hike further north to Spion Kop Rock, Shoshone Peak 5425’, and the CDA River Trail #20.
-## Directions
-Drive I-90 east to the Kingston exit, and turn left over the freeway, staying on F.R. #9 past Pritchard on F. R. #208, CDA River Road for 6.1 miles to F.R. #602, just south of the Shoshone Base Camp. There is a restroom on 208 at the camp. After turning up F.R. #602, stay on 602 past F,R. #1504 to the gate below Little Guard.
-## Cool things close by
-Fern, Shadow, and Continental Falls, Upper CDA River National Recreation Trail #20, and Bloom Peak,
-## Hazards
-None to the lookout. From the lookout to the high point 4.3 miles along the Shoshone Ridge Trail #81 is on the ridge the whole way. Use caution.
-## R & P
-The Snake Pit, and the Radio Brewery in Kellogg. The Moon Time in CDA.
-## Photo gallery
-*Picture (Image missing)*
-## From silver mt. kellogg peak
-![Picture](assets/images/51020221231p.jpg)
-## Little guard lookout, near left The cabinet mountain wilderness
-![Picture](assets/images/51020221233pp.jpg)
-## The view of the cabinet mountain wilderness to the ne
+---
+
 ---
 
 # Little Guard Peak  Lookout
 
-## Picture (Image missing)
+## Little guard peak 6031’ & lookout trail #81
+
+## Description
+
+We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
+info. if an emergency ocurrs, evaluate your circumstances and call only if needed. From I-90, take Exit #43
+(Kingston) and drive 24 miles north on Forest Highway 9 to Prichard junction. From there, continue on Forest
+Road 208 for about 5 miles to Forest Road 602 (on the right just past Shoshone Base Camp). Drive about 9
+miles to the lookout at the end of the road. Vehicles with high clearance and good tires are strongly
+recommended. I highly recommend renting this lookout. It’s views and hiking to the north is exceptional.
+
+## Option #1
+
+Once at the lookout, the Shoshone Ridge Trail #81 heads north. At 2.4 miles is Bennett Peak 6209’, and
+in 3.4 miles is Sentinel Peak 6000’, and at 3.97 miles is Pond Peak 6136’, then the high point of the ridge
+is 4.3 miles from the lookout. But, back at the lookout, off to the north east 33 miles is the tallest peak in
+our region, Snowshoe Peak 8738’. Outstanding views of the C.M.W.
+
+## Option #2
+
+You can extend your hike further north to Spion Kop Rock, Shoshone Peak 5425’, and the CDA River Trail #20.
+
+## Directions
+
+Drive I-90 east to the Kingston exit, and turn left over the freeway, staying on F.R. #9 past Pritchard on
+F. R. #208, CDA River Road for 6.1 miles to F.R. #602, just south of the Shoshone Base Camp. There is a
+restroom on 208 at the camp. After turning up F.R. #602, stay on 602 past F,R. #1504 to the gate below
+Little Guard.
+
+## Cool things close by
+
+Fern, Shadow, and Continental Falls, Upper CDA River National Recreation Trail #20, and Bloom Peak,
+
+## Hazards
+
+None to the lookout. From the lookout to the high point 4.3 miles along the Shoshone Ridge Trail #81 is on
+the ridge the whole way. Use caution.
+
+## R & P
+
+The Snake Pit, and the Radio Brewery in Kellogg. The Moon Time in CDA.
+
+## Photo gallery
+
+### Picture (Image missing)
+
+## From silver mt. kellogg peak
+
+![Picture](assets/images/51020221231p.jpg)
+
+## Little guard lookout, near left The cabinet mountain wilderness
+
+![Picture](assets/images/51020221233pp.jpg)
+
+## The view of the cabinet mountain wilderness to the ne
+
+---
+
+## Little Guard Peak  Lookout (2)
+
+## Picture (Image missing) (2)
 
 One of the cool things about this rental lookout, Is it has a full kitchen on the bottom level of the cinder
 

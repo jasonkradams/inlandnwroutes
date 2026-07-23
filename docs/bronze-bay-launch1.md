@@ -1,30 +1,19 @@
 ---
 tags:
-- Paddling & Rivers
-stats:
-- label: Length and Acreage
-  icon: vector-square
-  value: '1445'
-- label: Launch GPS
-  icon: crosshairs-gps
-  value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+- Paddling & Rivers stats:
+- label: Length and Acreage icon: vector-square value: '1445'
+- label: Launch GPS icon: crosshairs-gps
+## value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+## Bronze Bay Launch1
+## Bronze bay launch
+## Description
+## Attractions
+## Directions
+## Cool things close by
+## R & P
 ---
 
 # Bronze Bay Launch1
-
-## Bronze bay launch
-
-## Description
-
-## Attractions
-
-## Directions
-
-## Cool things close by
-
-## R & P
-
----
 
 ## Plan your trip
 

@@ -15,7 +15,8 @@ stats:
   icon: arrow-expand-vertical
   value: ???
 notes:
-- Redlodgemountain.com
+- label: Redlodgemountain.com
+  url: https://redlodgemountain.com
 ---
 
 # Red Lodge

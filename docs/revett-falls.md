@@ -1,43 +1,27 @@
 ---
 tags:
-- Waterfalls
-stats:
-- label: Waterfall
-  icon: waterfall
-  value: revett falls
-- label: Drop
-  icon: arrow-collapse-down
-  value: 20'
-- label: Waterfall Type
-  icon: waterfall
-  value: Tiered
-- label: Distance Car to Falls
-  icon: map-marker-distance
-  value: .8 miles
-- label: Maps
-  icon: map
-  value: I.P.N.F., Burke & Thompson Pass topos
-- label: GPS
-  icon: crosshairs-gps
-  value: 47°56’09" N 115°??75’?10" W. Wallace Ranger District 208.752.1221
----
-
-# Revett Falls
-
+- Waterfalls stats:
+- label: Waterfall icon: waterfall value: revett falls
+- label: Drop icon: arrow-collapse-down value: 20'
+- label: Waterfall Type icon: waterfall value: Tiered
+- label: Distance Car to Falls icon: map-marker-distance value: .8 miles
+- label: Maps icon: map value: I.P.N.F., Burke & Thompson Pass topos
+- label: GPS icon: crosshairs-gps
+## value: 47°56’09" N 115°??75’?10" W. Wallace Ranger District 208.752.1221
+## Revett Falls
 ## Description
-
 The Revett waterfall(s) should be visited in the spring and early summer, due to lack of water. The hike
 starts at Thompson Pass on Idaho Hwy #9. At this pass is also the trailhead to L. & U. Blossom Lakes, on the
 Montana side.
-
 Revett Lake trailhead starts about .4 miles up F.R. 266 to the west of the pass. You can park at the pass
 and walk the extra .8 miles if you wish. The Revett Lake trail is easy and the falls aren't too far from the
 trailhead. After visiting the falls, the lake is only 1.2 miles further. From the falls, the trail is easy
 all the way to the lake. Above the lake on the west side is Granite Peak, 1144 vertical feet above the lake.
 To access the peak, see Revett Lake in the HIKE section. If you visit the falls in late March or early
 April, there is actually 4 waterfalls, because of the run off.
-
 ---
+
+# Revett Falls
 
 ## Directions
 

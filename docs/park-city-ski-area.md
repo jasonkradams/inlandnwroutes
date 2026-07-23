@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 3226'
 notes:
-- Parkcitymountain.com
+- label: Parkcitymountain.com
+  url: https://parkcitymountain.com
 ---
 
 # Park City Ski Area

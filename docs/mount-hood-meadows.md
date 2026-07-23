@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 2777'
 notes:
-- Skihood.com
+- label: Skihood.com
+  url: https://skihood.com
 ---
 
 # Mount Hood Meadows

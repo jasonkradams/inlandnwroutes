@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 3000'
 notes:
-- Skimarmot.com
+- label: Skimarmot.com
+  url: https://skimarmot.com
 ---
 
 # Marmot Basin

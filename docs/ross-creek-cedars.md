@@ -26,7 +26,8 @@ stats:
   value: CALL 911 FIRST or 406.293 4112
 notes:
 - DISTANCE 1 mile loop +
-- Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+- label: Kootenai National Forest Alerts
+  url: https://www.fs.usda.gov/alerts/kootenai/alerts-notices
 ---
 
 # Ross Creek Cedars

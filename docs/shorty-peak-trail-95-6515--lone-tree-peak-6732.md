@@ -32,7 +32,7 @@ stats:
   value: 911 or 208.267.3151
 notes:
 - Idaho panhandle national forest/alerts
-- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+- url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 
 # Shorty Peak Trail 95 6515  Lone Tree Peak 6732

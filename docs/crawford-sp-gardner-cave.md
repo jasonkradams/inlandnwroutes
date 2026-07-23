@@ -2,40 +2,19 @@
 tags:
 - Trails & Scrambles
 - Easy
-- Spelunking Made Easy
-stats:
-- label: Event Type
-  icon: hiking
-  value: Spelunking made easy
-- label: Distance
-  icon: map-marker-distance
-  value: The laddered descent is 494 feet down
-- label: Elevation
-  icon: terrain
-  value: 2775’
-- label: Difficulty
-  icon: speedometer
-  value: Easy
-- label: Maps
-  icon: map
-  value: Washington State Parks & Rec.
-- label: GPS
-  icon: crosshairs-gps
-  value: 48°59’46" n 117°22’15" w
-- label: Managing Agency
-  icon: domain
-  value: w.s.p.& r. 509.238.4258
-- label: Pend Orielle County Sheriff
-  icon: shield-account
-  value: 509.447.3151
----
-
-# Crawford Sp Gardner Cave
-
+- Spelunking Made Easy stats:
+- label: Event Type icon: hiking value: Spelunking made easy
+- label: Distance icon: map-marker-distance value: The laddered descent is 494 feet down
+- label: Elevation icon: terrain value: 2775’
+- label: Difficulty icon: speedometer value: Easy
+- label: Maps icon: map value: Washington State Parks & Rec.
+- label: GPS icon: crosshairs-gps value: 48°59’46" n 117°22’15" w
+- label: Managing Agency icon: domain value: w.s.p.& r. 509.238.4258
+- label: Pend Orielle County Sheriff icon: shield-account
+## value: 509.447.3151
+## Crawford Sp Gardner Cave
 ## Crawford s.p., gardner cave
-
 ## Description
-
 Gardner Caves are located NW of Boundary Dam in NE Washington, at the Crawford State Park. The cave that is
 open to the public is actually 1,055 feet long, but only 494 feet of the cave is available for the public to
 visit. The cave has stalactites, stalagmites, flow stones, pools, and a 2 foot diameter column. There is a
@@ -47,16 +26,14 @@ bottom, the guide will explain the dead quiet, and zero light. Then he will turn
 or two so all can experience the total darkness and quiet. Access to the cave is allowed only with a tour
 guide from State Parks. The reason is simple. People have broken off pieces and damages the cave features.
 Even touching the walls and other features, severely damages them.
-
 Way back in 1899, Ed Gardner discovered the caves, and was rumored to have used the cave to hide his
 bootlegged booze.
-
 The cave is only open to the public in the summer.
-
 Please do not touch any natural items like the christmas tree, or any other features. the oils on our hands,
 cause the mineral water to run off and not accumulate into the beautiful features we all go to see.
-
 ---
+
+# Crawford Sp Gardner Cave
 
 ## Directions
 

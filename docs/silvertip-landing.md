@@ -1,30 +1,19 @@
 ---
 tags:
-- Trails & Scrambles
-stats:
-- label: Launch GPS
-  icon: crosshairs-gps
-  value: ??° ??’ ??.?"n ???° ??’ ??.?"w
-- label: Benewah County Sheriff
-  icon: shield-account
-  value: 208.245.2555
+- Trails & Scrambles stats:
+- label: Launch GPS icon: crosshairs-gps value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+- label: Benewah County Sheriff icon: shield-account
+## value: 208.245.2555
+## Silvertip Landing
+## Silver tip landing
+## Description
+## Attractions
+## Directions
+## Cool things close by
+## R & P
 ---
 
 # Silvertip Landing
-
-## Silver tip landing
-
-## Description
-
-## Attractions
-
-## Directions
-
-## Cool things close by
-
-## R & P
-
----
 
 ## Plan your trip
 

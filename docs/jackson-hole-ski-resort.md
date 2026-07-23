@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 4139'
 notes:
-- Jacksonhole.com
+- label: Jacksonhole.com
+  url: https://jacksonhole.com
 ---
 
 # Jackson Hole Ski Resort

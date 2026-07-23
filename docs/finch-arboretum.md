@@ -2,34 +2,17 @@
 tags:
 - Trails & Scrambles
 - Very Easy
-- A Walking Guide
-stats:
-- label: Event Type
-  icon: hiking
-  value: A walking guide
-- label: Distance
-  icon: map-marker-distance
-  value: 1.25 miles round trip
-- label: Elevation
-  icon: terrain
-  value: Minimal gain
-- label: Difficulty
-  icon: speedometer
-  value: very easy
-- label: Maps
-  icon: map
-  value: Spokane Parks & Recreation map.
-- label: GPS
-  icon: crosshairs-gps
-  value: 47° 38’36"n 117° 27’45"w
----
-
-# Finch Arboretum
-
+- A Walking Guide stats:
+- label: Event Type icon: hiking value: A walking guide
+- label: Distance icon: map-marker-distance value: 1.25 miles round trip
+- label: Elevation icon: terrain value: Minimal gain
+- label: Difficulty icon: speedometer value: very easy
+- label: Maps icon: map value: Spokane Parks & Recreation map.
+- label: GPS icon: crosshairs-gps
+## value: 47° 38’36"n 117° 27’45"w
+## Finch Arboretum
 ## John a. finch arboretum
-
 ## Description
-
 The John A. Finch Arboretum is one of the most beautiful parks in the Spokane area, and should not be
 missed. All seasons are incredible, but early Rocktober before the city rakes up the fallen leaves is my
 favorite. The Arboretum planting started in 1949 with 49 specimens comprising of 10 genera and 23 species.
@@ -44,10 +27,10 @@ in the Spokane area. The Arboretum’s educational and scientific value are enha
 public events throughout the year. The park-like character and natural charm is appreciated by all who enjoy
 nature’s beauty. Hungry for more history? Check out John A Finch Arboretum by Tracy Rebstock -
 SpokaneHistorical.org.
-
 Pets are not allowed.
-
 ---
+
+# Finch Arboretum
 
 ## Directions
 

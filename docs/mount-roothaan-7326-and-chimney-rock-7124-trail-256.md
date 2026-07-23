@@ -32,7 +32,8 @@ stats:
   value: CALL 911 FIRST or 208.263.8417
 notes:
 - Idaho panhandle national forest/alerts
-- h[ttps://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)
+- label: Idaho Panhandle National Forests Alerts
+  url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 
 # Mount Roothaan 7326 And Chimney Rock 7124 Trail 256

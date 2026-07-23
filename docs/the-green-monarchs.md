@@ -31,7 +31,8 @@ stats:
   icon: shield-account
   value: 911 or 208.263.8417
 notes:
-- '[Clearwater national forest/ alerts](https://www.fs.usda.gov/alerts/lolo/alerts-notices)<https://www.fs.usda.gov/alerts/nezperceclearwater/alerts-notices>'
+- label: Lolo National Forest Alerts
+  url: https://www.fs.usda.gov/alerts/lolo/alerts-notices)<https://www.fs.usda.gov/alerts/nezperceclearwater/alerts-notices
 ---
 
 # The Green Monarchs

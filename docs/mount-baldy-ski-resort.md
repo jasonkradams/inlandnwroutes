@@ -18,7 +18,8 @@ stats:
   icon: arrow-expand-vertical
   value: 1300'
 notes:
-- Baldyresort.com
+- label: Baldyresort.com
+  url: https://baldyresort.com
 ---
 
 # Mount Baldy Ski Resort

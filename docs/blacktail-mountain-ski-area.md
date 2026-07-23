@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 1440'
 notes:
-- Blacktailmountain.com
+- label: Blacktailmountain.com
+  url: https://blacktailmountain.com
 ---
 
 # Blacktail Mountain Ski Area

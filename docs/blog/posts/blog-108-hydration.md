@@ -70,10 +70,10 @@ color of your urine.
     - **Clear:** Properly hydrated.
 
     - **Slightly Yellow:** Okay at that moment, but monitor closely as it may change for the worse within 30
-      minutes.
+    minutes.
 
     - **Neon Yellow:** **YOU ARE IN TROUBLE. STOP AND HYDRATE THOROUGHLY IMMEDIATELY!** Our urine should
-      look clear. If it is not, start drinking or filtering water as soon as possible.
+    look clear. If it is not, start drinking or filtering water as soon as possible.
 
 ## Resources & Knowledge
 

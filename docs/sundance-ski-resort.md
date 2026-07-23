@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 2150'
 notes:
-- Suncancwresort.com
+- label: Suncancwresort.com
+  url: https://suncancwresort.com
 ---
 
 # Sundance Ski Resort

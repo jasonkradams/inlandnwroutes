@@ -30,7 +30,8 @@ stats:
   icon: shield-account
   value: CALL 911 FIRST or 406.827.3584
 notes:
-- Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+- label: Kootenai National Forest Alerts
+  url: https://www.fs.usda.gov/alerts/kootenai/alerts-notices
 ---
 
 # Snowshoe Peak 8738

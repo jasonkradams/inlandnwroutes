@@ -6,43 +6,20 @@ tags:
 - Backpacking
 - Equestrian
 - Photography
-- History
-stats:
-- label: Event Type
-  icon: hiking
-  value: Day hiking, backpacking, equestrian, photography, and history
-- label: Distance
-  icon: map-marker-distance
-  value: 6.4 miles RT
-- label: Elevation
-  icon: terrain
-  value: 530’
-- label: Difficulty
-  icon: speedometer
-  value: Easy
-- label: Maps
-  icon: map
-  value: BLM District Maps, Hoon Lake & Revere topos
-- label: GPS
-  icon: crosshairs-gps
-  value: 47°00’85"n 117°56’61" w
-- label: Managing Agency
-  icon: domain
-  value: blm. 509.536.1200
-- label: Whitman County Sheriff
-  icon: shield-account
-  value: 509.397.6266
-- label: Adams County Sheriff
-  icon: shield-account
-  value: CALL 911 FIRST or 509.754.2011
----
-
-# Escure Ranch
-
+- History stats:
+- label: Event Type icon: hiking value: Day hiking, backpacking, equestrian, photography, and history
+- label: Distance icon: map-marker-distance value: 6.4 miles RT
+- label: Elevation icon: terrain value: 530’
+- label: Difficulty icon: speedometer value: Easy
+- label: Maps icon: map value: BLM District Maps, Hoon Lake & Revere topos
+- label: GPS icon: crosshairs-gps value: 47°00’85"n 117°56’61" w
+- label: Managing Agency icon: domain value: blm. 509.536.1200
+- label: Whitman County Sheriff icon: shield-account value: 509.397.6266
+- label: Adams County Sheriff icon: shield-account
+## value: CALL 911 FIRST or 509.754.2011
+## Escure Ranch
 ## Escure ranch & towell falls
-
 ## Description
-
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
 info. if an emergency ocurrs, evaluate your circumstances and call only if needed. The Escure Ranch was an
 over 14,000 acre cattle and sheep ranch from the 40’s to 1990 when the BLM acquired it. First, know that you
@@ -69,43 +46,32 @@ day here, FOLLOW YOUR ROUTE IN, EXACTLY, TO GET OUT. If you wander north, you ca
 the road in is on your right and funnels down to the creek along the road to the north of the falls. One of
 the cool things about this area, is that it is spectacular in any season. But November and December are my
 favorite. See images below.
-
 ## Option #1
-
 Instead of hiking the road to the falls, go across the bridge from the parking area, and pick up a
 fisherman’s trail along Rock Creek’s west side. BE AWARE... during runoff, you may not be able to cross onto
 the island. But the views are still great from either side. Follow your route in exactly as you did getting
 to the falls.
-
 ## Option #2
-
 Turtle and Wall Lakes are located NW of the ranch area about 4 miles one way. DO NOT ATTEMPT if you are not
 familiar with route finding, map & compass, or know GPS inside and out. And as stated, notice the landscape
 and landmarks as you go to the lakes, so getting back has some resemblance to you.
-
 ## Directions
-
 From I-90, take the exit for SR 23 and go south 8 miles, through Sprague,and turn right on Lamont Road. In
 about 2.5 miles Lamont Road bends left and turns into Revere Road; 8 miles after the turn, go right on
 Jordan-Knott Road, then another 2 miles until you reach Rock Creek Management Area, another right turn.
 Drive until you reach a parking area with port-a-potties.
-
 ## Hazards
-
 Rattlesnakes, Badgers, heat and exposure. Memorize the trail down to the falls as you leave the road you
 walked in on. You will need it to return via the main road you came down on. If you don’t remember the
 route, KNOW that the road is too the east, and you can't miss it. If by chance you don’t take that route,
 you can follow Rock Creek north, and you will eventually come across the road in about a mile
-
 ## Cool things close by
-
 Sprague’s Dave’s Antique Truck Museum, Crab Creek, Twin Lakes, Z Lake, Fishtrap Lake, and the Snake River
-
 ## R & P
-
 Harvest Resturant in Spangle. Lenny’s in Cheney
-
 ---
+
+# Escure Ranch
 
 ## Plan your trip
 

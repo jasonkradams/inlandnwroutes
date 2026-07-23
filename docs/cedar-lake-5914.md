@@ -37,7 +37,7 @@ stats:
   value: 911 or 406.293.4112
 notes:
 - Kootenai national forest/alerts
-- <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+- url: https://www.fs.usda.gov/alerts/kootenai/alerts-notices
 ---
 
 # Cedar Lake 5914

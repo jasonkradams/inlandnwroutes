@@ -1,33 +1,16 @@
 ---
 tags:
-- Waterfalls
-stats:
-- label: Waterfall
-  icon: waterfall
-  value: towell Falls
-- label: Drop
-  icon: arrow-collapse-down
-  value: Lower 12' & Upper 20'
-- label: Waterfall Type
-  icon: waterfall
-  value: lower Cascade & Plunge
-- label: Distance Car to Falls
-  icon: map-marker-distance
-  value: 5 miles one way
-- label: Maps
-  icon: map
-  value: BLM Brochure
-- label: GPS
-  icon: crosshairs-gps
-  value: Trailhead 47°00’51" N 117°56'’36" W. Falls. 46°58'58" N 117°55'55" W
----
-
-# Towell Falls
-
+- Waterfalls stats:
+- label: Waterfall icon: waterfall value: towell Falls
+- label: Drop icon: arrow-collapse-down value: Lower 12' & Upper 20'
+- label: Waterfall Type icon: waterfall value: lower Cascade & Plunge
+- label: Distance Car to Falls icon: map-marker-distance value: 5 miles one way
+- label: Maps icon: map value: BLM Brochure
+- label: GPS icon: crosshairs-gps
+## value: Trailhead 47°00’51" N 117°56'’36" W. Falls. 46°58'58" N 117°55'55" W
+## Towell Falls
 ## Towell falls at escure ranch
-
 ## Description
-
 When you drive west on Hwy 20, I-90, or Hwy 26, you notice the area looks vacant and dry. But it is when you
 stop along your travels, you notice a very unique landscape. This whole area west of Spokane is the way it
 is because of the Glacier Lake Missoula Floods. As you walk off the road just a ways, imagine a wall of
@@ -41,7 +24,6 @@ floods. Before or after your hike out to Towell Falls, wonder across the bridge 
 homestead, barns, and outbuildings. You will notice that they were built to last not just decades but
 centuries. The BLM wanting to protect the heritage of the building, so they installed heavy metal grates on
 the ranch house. Wonder the area, and see what it took to ranch in this environment.
-
 A special note on hiking in the washington scablands. This terrain is different from around Spokane and the
 mountains of Eastern Washington and N. Idaho. YOU MUST pay very close attention to the terrain. Often stop
 and converse with your hiking partner(s) about visual landmarks, road junctions and other visual features.
@@ -50,7 +32,6 @@ help you find your way back. Especially after leaving the waterfalls and heading
 Google Earth map below if you don't follow the right path from the falls. This is my opinion..do not drink
 or even filter this water. most the water in the scabs is agriculture runoff. take all you will need for
 drinking and cooking.
-
 After touring the ranch buildings, go thru the gate by the parking area. Please shut all gates firmly behind
 you. The trail to the falls is an old road for about 3.2 miles, but only gains 530 feet. The trail follows
 Rock Creek, but sometimes its not in your view. Near the path leading down to the falls, you will hear and
@@ -68,13 +49,10 @@ north and the Upper Falls will come into view. This falls is taller then the low
 is much more beautiful. It plunges without touching the face it goes over. Spend some time here examining
 the basalt rock around the falls. Images of these falls with the scabs in the background, make for some
 great shots.
-
 Now, you have to pay attention. In order not to take the wrong route away from the falls. collectively agree
 on your ascent away from the falls. Once at the road you hiked in on, turn left (N) and follow the road back
 out.
-
 ## Option #1
-
 On the north side of Rock Creek, there is a primitive trail, mostly used by fisher persons. You can access
 this cross country trail by crossing over the bridge towards the buildings. At first there is a resemblance
 of a trail, but it diminishes the further you hike. This is where you MUST pay attention to the terrain,
@@ -83,21 +61,19 @@ encountered a rattlesnake. There are lower leg wraps to prevent snake bites. A r
 if you threaten them. In the morning, or cool days they come out into the sun to warm themselves. Do not
 step over rocks, shrubs, or terrain where you can't see where your foot is landing. They might be sunning
 themselves. But they could be anywhere in the Scabs.
-
 Continue hiking near Rock Creek but not right next to it. This route is not marked and requires constant
 observation of the terrain. When you eventually get to Towell Falls, you will be on the opposite side from
 the write up above. The views are different, but just as good as the other side. On your return, try to
 follow your route in, but wondering offers you great views along the way.
-
 ## Directions
-
 Take I-90 to Sprague, and exit at 245, then head south thru Sprague on S.R. 23 towards St. John and Steptoe.
 About 12 miles from Sprague turn left, then right onto Davis Road. In less then 7 miles turn left onto
 Jordon-Knot Road. Head south a little over 2 miles and cross over Rock Creek, then turn right into the Rock
 Creek Management Area. Continue 2.4 miles down to the trailhead. You may see other signs to the Esscure
 Ranch, but follow the instructions above.
-
 ---
+
+# Towell Falls
 
 ## Cool things close by
 

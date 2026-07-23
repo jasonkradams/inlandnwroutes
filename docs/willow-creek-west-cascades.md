@@ -1,31 +1,16 @@
 ---
 tags:
-- Trails & Scrambles
-stats:
-- label: Waterfall
-  icon: waterfall
-  value: west willow creek falls
-- label: Drop
-  icon: arrow-collapse-down
-  value: several falls, and 500’ steep cascades
-- label: Waterfall Type
-  icon: hiking
-  value: nearly every type
-- label: Distance Car to Falls
-  icon: map-marker-distance
-  value: headwall falls .9 miles. many more above & below
-- label: Maps
-  icon: map
-  value: ipnf, mullan topo
-- label: GPS
-  icon: crosshairs-gps
-  value: 47°26’17" n 115°46’26" w
----
-
-# Willow Creek West Cascades
-
+- Trails & Scrambles stats:
+- label: Waterfall icon: waterfall value: west willow creek falls
+- label: Drop icon: arrow-collapse-down value: several falls, and 500’ steep cascades
+- label: Waterfall Type icon: hiking value: nearly every type
+- label: Distance Car to Falls icon: map-marker-distance value: headwall falls .9 miles. many more above &
+  below
+- label: Maps icon: map value: ipnf, mullan topo
+- label: GPS icon: crosshairs-gps
+## value: 47°26’17" n 115°46’26" w
+## Willow Creek West Cascades
 ## Description: caution statement
-
 From Lone Lake to the junction with East Willow Creek, is only about 2 miles. In that distance, the creek
 falls about 500 feet down the Headwall. At Lone Lake, there is a nice waterfall opposite from the inlet
 stream. By walking the right side (west) around the lake, the small falls is just below what I call the
@@ -33,32 +18,23 @@ Upper Sanctuary. Along the upper part of Trail #138 as the trail switchbacks out
 three cascade drops to cross. Fortunately they are safe to cross. But extra care between the lake and the
 headwall falls is a must. Rocks are slippery. As the trail switchbacks on an exposed rib, observe the
 headwall cascades/falls across the valley to the SE.
-
 When you get to the headwall falls, above is the 500 ‘ of cascades. Be aware: any of the falls below the
 lake are very dangerous to access. use a long telephoto and tripod to capture them. About .5 miles up Trail
-
 ## 138 is a lot of waterfall noise, but few phot opts, due to brush
-
 See stevens lakes for east willow creek, and willow creek from the junction to mullan.
-
 ## Option #1
-
 Headwall falls on west willow creek: About two miles up thru the forest as the canopy opens up, is the
 headwall falls. As the trail turns SW and skirts the north facing slopes, its a short walk to the falls.
-
 ## Option #2
-
 Trail #138 falls:
-
 At about a mile from the trailhead as you step up from the de-commissioned road, there is an attractive
 noise to your left. There is no trail, and having been there once, once was enough. However, in the winter
 the falls are more exposed. They are about .1 of a mile, and 50 vert below the trail , but in the summer.
-
 ## Option #3
-
 There are other cascades on the West Willow Creek, so search and see what you find. Most have no photo ops.
-
 ---
+
+# Willow Creek West Cascades
 
 ## Directions
 

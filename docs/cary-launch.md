@@ -1,25 +1,17 @@
 ---
 tags:
-- Paddling & Rivers
-stats:
-- label: Launch GPS
-  icon: crosshairs-gps
-  value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+- Paddling & Rivers stats:
+- label: Launch GPS icon: crosshairs-gps
+## value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+## Cary Launch
+## Description
+## Attractions
+## Directions
+## Cool things close by
+## R & P
 ---
 
 # Cary Launch
-
-## Description
-
-## Attractions
-
-## Directions
-
-## Cool things close by
-
-## R & P
-
----
 
 ## Plan your trip
 

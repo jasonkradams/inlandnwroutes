@@ -1,38 +1,24 @@
 ---
 tags:
-- Paddling & Rivers
-stats:
-- label: Length and Acreage
-  icon: vector-square
-  value: '1339.9'
-- label: Launch GPS
-  icon: crosshairs-gps
-  value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+- Paddling & Rivers stats:
+- label: Length and Acreage icon: vector-square value: '1339.9'
+- label: Launch GPS icon: crosshairs-gps
+## value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+## Tule Baybeaver Creek Landing
+## Tule bay/beaver creek landing
+## Description
+## Attractions
+## Directions
+From Priest River, Idaho, take Hwy 57 north to Nordman, then turn right on Reeder Bay Road and continue for
+12 miles not the camp grounds.
+## Cool things close by
+Indian Creek Camp Grounds, Upper Priest Lake, the Thorough Fare to Upper Priest Lake, Priest Lakes State
+Park Lionshead Unit, Granite Falls, and Blacktail Mountain
+## R & P
+Burger Express
 ---
 
 # Tule Baybeaver Creek Landing
-
-## Tule bay/beaver creek landing
-
-## Description
-
-## Attractions
-
-## Directions
-
-From Priest River, Idaho, take Hwy 57 north to Nordman, then turn right on Reeder Bay Road and continue for
-12 miles not the camp grounds.
-
-## Cool things close by
-
-Indian Creek Camp Grounds, Upper Priest Lake, the Thorough Fare to Upper Priest Lake, Priest Lakes State
-Park Lionshead Unit, Granite Falls, and Blacktail Mountain
-
-## R & P
-
-Burger Express
-
----
 
 ## Plan your trip
 

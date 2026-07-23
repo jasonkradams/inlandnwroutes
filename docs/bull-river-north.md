@@ -1,28 +1,18 @@
 ---
 tags:
-- Paddling & Rivers
-stats:
-- label: Launch GPS
-  icon: crosshairs-gps
-  value: ??° ??’ ??.?"n ???° ??’ ??.?"w
-- label: Lincoln County Sheriff
-  icon: shield-account
-  value: 406.293.4112
+- Paddling & Rivers stats:
+- label: Launch GPS icon: crosshairs-gps value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+- label: Lincoln County Sheriff icon: shield-account
+## value: 406.293.4112
+## Bull River North
+## Description
+## Attractions
+## Directions
+## Cool things close by
+## R & P
 ---
 
 # Bull River North
-
-## Description
-
-## Attractions
-
-## Directions
-
-## Cool things close by
-
-## R & P
-
----
 
 ## Plan your trip
 

@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 2700'
 notes:
-- Bridgerbowl.com
+- label: Bridgerbowl.com
+  url: https://bridgerbowl.com
 ---
 
 # Bridger Bowl

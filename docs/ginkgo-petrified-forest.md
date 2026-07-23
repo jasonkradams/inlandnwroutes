@@ -1,50 +1,30 @@
 ---
 tags:
 - Trails & Scrambles
-- Hiking
-stats:
-- label: Event Type
-  icon: hiking
-  value: Hiking
-- label: Distance
-  icon: map-marker-distance
-  value: 8 miles RT, 856 ft Ascent
-- label: Elevation
-  icon: terrain
-  value: 640’
-- label: Difficulty
-  icon: speedometer
-  value: Moderate with some exposure for a short section
-- label: Maps
-  icon: map
-  value: '[Ginkgo State Park](https://goo.gl/maps/JahA7sFov3WmejDS6). 509.856.2290'
-- label: GPS
-  icon: crosshairs-gps
-  value: 46.95490243707056, -119.98802785567764
-- label: Ranger District
-  icon: pine-tree
-  value: '[Washington State Parks Gingko Petrified Forest](https://www.parks.wa.gov/288/Ginkgo-Petrified-Forest)'
-- label: Kittitas County Sheriff
-  icon: shield-account
-  value: CALL 911 FIRST or 509.962.7525
----
-
-# Ginkgo Petrified Forest
-
+- Hiking stats:
+- label: Event Type icon: hiking value: Hiking
+- label: Distance icon: map-marker-distance value: 8 miles RT, 856 ft Ascent
+- label: Elevation icon: terrain value: 640’
+- label: Difficulty icon: speedometer value: Moderate with some exposure for a short section
+- label: Maps icon: map value: '[Ginkgo State Park](https://goo.gl/maps/JahA7sFov3WmejDS6). 509.856.2290'
+- label: GPS icon: crosshairs-gps value: 46.95490243707056, -119.98802785567764
+- label: Ranger District icon: pine-tree value:
+  '[Washington State Parks Gingko Petrified Forest](https://www.parks.wa.gov/288/Ginkgo-Petrified-Forest)'
+- label: Kittitas County Sheriff icon: shield-account
+## value: CALL 911 FIRST or 509.962.7525
+## Ginkgo Petrified Forest
 ## Description
-
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
 info. if an emergency ocurrs, evaluate your circumstances and call only if needed. The best time of year to
 come here is in the spring before it gets too hot and the ticks come out. There are numerous natural wonders
 including the Great Floods and the Columbia River Basalt Group lava flows.
-
 ## Directions
-
 From Spokane take I-90 west about two hours and 15 minutes going past the Wild Horse Monument and across the
 Columbia River to the Vantage exit 136. We hiked cross country on the north side of town from the Rocky
 Coulee Recreation Area trail head.
-
 ---
+
+# Ginkgo Petrified Forest
 
 ## Cool things close by
 

@@ -1,25 +1,13 @@
 ---
 tags:
-- Trails & Scrambles
-stats:
-- label: Genesis Name
-  icon: book-open-variant
-  value: Lewisia rediviva
-- label: Distribution
-  icon: earth
-  value: 'usa; wa, id, mt, or, ca, nv, co, wy, az. canada: bc, al.'
-- label: Season
-  icon: calendar
-  value: Blooms, May thru June
-- label: Poisonous
-  icon: skull-crossbones
-  value: 'The berries, foliage and roots are all highly poisonous.Edibility:'
----
-
-# Bitterroot
-
+- Trails & Scrambles stats:
+- label: Genesis Name icon: book-open-variant value: Lewisia rediviva
+- label: Distribution icon: earth value: 'usa; wa, id, mt, or, ca, nv, co, wy, az. canada: bc, al.'
+- label: Season icon: calendar value: Blooms, May thru June
+- label: Poisonous icon: skull-crossbones
+## value: 'The berries, foliage and roots are all highly poisonous.Edibility:'
+## Bitterroot
 ## Description
-
 Bitterroot is widespread in the western United States, ranging from Washington and California eastward to
 Montana (where it is the state flower), Colorado, and Arizona. This ephemeral perennial plant grows on
 well-drained gravelly soils in dry shrublands, often dominated by sagebrush, but also in piñon-juniper
@@ -36,21 +24,15 @@ Montana. George Drouillard, a hunter and interpreter on the Lewis & Clark Expedi
 to his attention the previous fall after Drouillard had a run-in with some Shoshone who left him in
 possession of some of their belongings. The woven bags included dried roots of three species, one of which
 came to be called *racine**amer* by
-
 the French trappers, meaning "bitter root". Lewis collected whole plants near Travelers’ Rest Creek, and
 gave them to Frederick Pursh after returning to Philadelphia. Pursh described a new genus and named it
 *Lewisii* in honor
-
 of Lewis.
-
 The species was named *rediviva* from the Latin word meaning "reviving from a dry state" referring to the
-
 ability of the
-
 plant to grow again after having been dug up, dried whole, and stored for months, which the specimen
 presented to Pursh in fact did, much to the amazement of those at The Academy of Natural Sciences in
 Philadelphia!
-
 bitterroot, (*Lewisia rediviva*), ornamental succulent [plant](https://www.britannica.com/plant/plant) of
 the [purslane family](https://www.britannica.com/plant/Portulacaceae) (Portulacaceae), native to western
 [North America](https://www.britannica.com/place/North-America) and
@@ -59,8 +41,9 @@ merge into a tuberous structure. The leaves are barely 2.5 cm (1 inch) long, and
 [pink](https://www.britannica.com/plant/pink-plant) or white flowers is also very short. The starchy root,
 resembling a forked radish, is edible in spring but acquires a bitter taste by summer. Other species of the
 genus, which has about 22 species, also are cultivated as rock-garden plants for their attractive flowers.
-
 ---
+
+# Bitterroot
 
 ## Photo gallery
 

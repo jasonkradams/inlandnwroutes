@@ -47,7 +47,7 @@ notes:
 - Little Spar Lake 48°12'56" N. 116°00'47"W
 - Horseshoe Pond. 48°122'49"N 116‚01;52" W
 - Kootenai national forest/alerts
-- <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+- url: https://www.fs.usda.gov/alerts/kootenai/alerts-notices
 ---
 
 # Spar Peak Little Spar Lake  Horseshoe Pond

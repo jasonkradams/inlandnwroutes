@@ -32,7 +32,8 @@ stats:
   icon: shield-account
   value: CALL 911 FIRST 0r 208.446.1300
 notes:
-- Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+- label: Idaho Panhandle National Forests Alerts
+  url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 
 # Mount Cda Trail 257

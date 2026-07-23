@@ -34,7 +34,8 @@ stats:
   icon: shield-account
   value: CALL 911 FIRST or 208.263.8417
 notes:
-- "[Idaho Panhandle National Forest Alerts](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)"
+- label: Idaho Panhandle National Forest Alerts
+  url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 
 # Hunt Lake (5,813') & Gunsight Peak (7,352')

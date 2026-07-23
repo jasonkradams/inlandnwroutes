@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 2270'
 notes:
-- Grandtarghee.com
+- label: Grandtarghee.com
+  url: https://grandtarghee.com
 ---
 
 # Grand Targhee Sku Resort

@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 1875'
 notes:
-- Brightonresort.com
+- label: Brightonresort.com
+  url: https://brightonresort.com
 ---
 
 # Brighton Resort

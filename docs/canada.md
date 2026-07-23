@@ -199,6 +199,7 @@ Nunavut takes up one-fifth of Canada’s total land area. Mt Thor – the world�
 [**Manitoulin Island**](https://hikebiketravel.com/7-reasons-to-visit-manitoulin-island-this-summer/) is the
 largest freshwater island in the world. Two of the largest lakes in the world are found in the Northwest
 Territories
+
 - Great Bear Lake and Great Slave
 
 Lake.

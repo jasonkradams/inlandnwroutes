@@ -1,28 +1,18 @@
 ---
 tags:
-- Trails & Scrambles
-stats:
-- label: Launch GPS
-  icon: crosshairs-gps
-  value: ??° ??’ ??.?"n ???° ??’ ??.?"w
-- label: Sanders County Sheriff
-  icon: shield-account
-  value: 406.827.3584
+- Trails & Scrambles stats:
+- label: Launch GPS icon: crosshairs-gps value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+- label: Sanders County Sheriff icon: shield-account
+## value: 406.827.3584
+## Sanders County
+## Description
+## Attractions
+## Directions
+## Cool things close by
+## R & P
 ---
 
 # Sanders County
-
-## Description
-
-## Attractions
-
-## Directions
-
-## Cool things close by
-
-## R & P
-
----
 
 ## Plan your trip
 

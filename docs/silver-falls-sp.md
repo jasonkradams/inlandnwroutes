@@ -4,57 +4,33 @@ tags:
 - Easy
 - Day Hiking
 - Camping
-- Photography
-stats:
-- label: Event Type
-  icon: waterfall
-  value: Day hiking, camping, and photography
-- label: Distance
-  icon: map-marker-distance
-  value: 6.9 mile loop.
-- label: Elevation
-  icon: terrain
-  value: 700 verts
-- label: Difficulty
-  icon: speedometer
-  value: easy
-- label: Maps
-  icon: map
-  value: Silver Falls State Park brochure
-- label: GPS
-  icon: crosshairs-gps
-  value: 44052'40" n 122039'22"
-- label: Wild Rivers Ranger District
-  icon: pine-tree
-  value: 541.592.4000
-- label: Marion County Sheriff
-  icon: shield-account
-  value: CALL 911 FIRST or 541.588.5094
----
-
-# Silver Falls Sp
-
+- Photography stats:
+- label: Event Type icon: waterfall value: Day hiking, camping, and photography
+- label: Distance icon: map-marker-distance value: 6.9 mile loop.
+- label: Elevation icon: terrain value: 700 verts
+- label: Difficulty icon: speedometer value: easy
+- label: Maps icon: map value: Silver Falls State Park brochure
+- label: GPS icon: crosshairs-gps value: 44052'40" n 122039'22"
+- label: Wild Rivers Ranger District icon: pine-tree value: 541.592.4000
+- label: Marion County Sheriff icon: shield-account
+## value: CALL 911 FIRST or 541.588.5094
+## Silver Falls Sp
 ## Silver falls state park, oregon
-
 ## Description
-
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
 info. if an emergency ocurrs, evaluate your circumstances and call only if needed. If you are ever near
 Salem, Oregon, make sure you spend a day at Silver Falls State Park. The "Trail of Ten Falls" is
 spectacular. You will feel the wonder of the area.
-
 ## Option #1
-
 Once you are at Winter Falls, be sure to walk out to North Falls and Upper North falls. Its less than 2
 miles RT
-
 ## Option #2
-
 The State Park has many other attractions to take advantage of. There are 12 other trails to visit,
 including a horse camp and trail. They also offer a Bike trail, Pet area, Campground, picnic area, several
 view points, an amphitheater, food is available, an the Historical South Falls Lodge.
-
 ---
+
+# Silver Falls Sp
 
 ## Directions
 

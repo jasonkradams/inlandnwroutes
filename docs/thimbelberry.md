@@ -68,8 +68,8 @@ stats:
     leaving a hollow fruit which bears a resemblance to a [thimble](https://en.wikipedia.org/wiki/Thimble),
     perhaps giving the plant its name.
 notes:
-- Thimbleberry leaves can be used as "[toilet paper](https://en.wikipedia.org/wiki/Toilet_paper)"
-  when in the [wilderness](https://en.wikipedia.org/wiki/Wilderness).
+- label: toilet paper
+  url: https://en.wikipedia.org/wiki/Toilet_paper
 ---
 
 # Thimbelberry

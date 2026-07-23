@@ -1,34 +1,17 @@
 ---
 tags:
-- Waterfalls
-stats:
-- label: Waterfall
-  icon: waterfall
-  value: Granite Creek Falls
-- label: Drop
-  icon: arrow-collapse-down
-  value: 10' and hundreds of feet
-- label: Waterfall Type
-  icon: waterfall
-  value: Plunge and serious cascades
-- label: Distance Car to Falls
-  icon: map-marker-distance
-  value: 2.3 miles to Granite Falls, & about 8.5 miles to the back wall of A Peak
-    8634'
-- label: Maps
-  icon: map
-  value: Kootenai N.F., Treasure Mountain & Snowshoe Peak topes
-- label: GPS
-  icon: crosshairs-gps
-  value: Approximate coordinates 48°17’?13" N 115°40’14" W
----
-
-# Granite Falls
-
+- Waterfalls stats:
+- label: Waterfall icon: waterfall value: Granite Creek Falls
+- label: Drop icon: arrow-collapse-down value: 10' and hundreds of feet
+- label: Waterfall Type icon: waterfall value: Plunge and serious cascades
+- label: Distance Car to Falls icon: map-marker-distance value: 2.3 miles to Granite Falls, & about 8.5
+  miles to the back wall of A Peak 8634'
+- label: Maps icon: map value: Kootenai N.F., Treasure Mountain & Snowshoe Peak topes
+- label: GPS icon: crosshairs-gps
+## value: Approximate coordinates 48°17’?13" N 115°40’14" W
+## Granite Falls
 ## Granite creek falls
-
 ## Description
-
 The trial starts out in the forest and climb steadily for about 2.3 miles to a nice 10' tall waterfall on
 Granite Creek. In the spring, the water is flowing high, so crossing it may take some effort. Explore your
 options for crossing it carefully. The next four miles isn't steep, but it's in the trees until about 1 1/2
@@ -38,14 +21,13 @@ but what a view it has. Above the lake in the spring, about 50 waterfalls tumble
 100' or more. These falls are fed by the only glacier in our region, Blackwell Glacier. There isn't a lot of
 exploring capabilities here without doing some serious brushwacking on very steep terrain. The A Peak back
 wall is very difficult to get to, but can be photographed from the lakes shores.
-
 ## Directions
-
 From Libby, head south on Highway 2 for 1/2 a mile to the Shaughnessy Hill Road. At the top of the hill go
 south for about 1/2 a mile to sharp west turn onto FR #128, Flower Creek Road. After a mile turn east onto
 FR #618, and follow it for 8 miles to the trailhead.
-
 ---
+
+# Granite Falls
 
 ## Cool things close by
 

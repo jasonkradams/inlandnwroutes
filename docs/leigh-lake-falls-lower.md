@@ -1,55 +1,34 @@
 ---
 tags:
-- Lakes
-stats:
-- label: Waterfall
-  icon: waterfall
-  value: 'Leigh Creek Falls Trail #132'
-- label: Drop
-  icon: arrow-collapse-down
-  value: about 100'
-- label: Waterfall Type
-  icon: hiking
-  value: plunge, cascades, fans, blocks, horsetails, tiers, chutes and slides
-- label: Distance Car to Falls
-  icon: map-marker-distance
-  value: 1.2 miles
-- label: Maps
-  icon: map
-  value: Kootenai National Forest, Cabinet Mountain Wilderness, Snowshoe Peak topo
-- label: GPS
-  icon: crosshairs-gps
-  value: 48°13’32" n 115°39’?17" w
----
-
-# Leigh Lake Falls Lower
-
+- Lakes stats:
+- label: Waterfall icon: waterfall value: 'Leigh Creek Falls Trail #132'
+- label: Drop icon: arrow-collapse-down value: about 100'
+- label: Waterfall Type icon: hiking value: plunge, cascades, fans, blocks, horsetails, tiers, chutes and
+  slides
+- label: Distance Car to Falls icon: map-marker-distance value: 1.2 miles
+- label: Maps icon: map value: Kootenai National Forest, Cabinet Mountain Wilderness, Snowshoe Peak topo
+- label: GPS icon: crosshairs-gps
+## value: 48°13’32" n 115°39’?17" w
+## Leigh Lake Falls Lower
 ## Description
-
 Leigh Creek Falls is one of the most spectacular waterfalls in the Inland Northwest. With a drop of about
 100', it is a spectacular sight along a most beautiful trail to one of the most beautiful lakes in our
 region. After hiking 1.2 miles up Trail #132, you come to a spot that requires you to stop and enjoy its
 beauty.
-
 If you are adventurous, you can scramble up the sides of the falls to photograph many of its numerous drops.
-
 ## Option #1
-
 As long as you are in the area, climb the almost 200 vertical feet to the upper trail. Here, as you walk out
 to Leigh Lake, Leigh Creek Falls is below you for about .1 of a mile. The sounds and views along this
 section of the trail is well worth the effort to get here.
-
 ## Option #2
-
 In about .1 of a mile, Leigh Lake stretches out before you. This would be a great spot to have lunch, take a
 nap and enjoy the spectacular scenery
-
 ## Option #3
-
 For a closer view of some of the falls along Leigh Lakes shoreline, walk a user created path along the north
 shore to a rock beach.
-
 ---
+
+# Leigh Lake Falls Lower
 
 ## Directions
 

@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 4265'
 notes:
-- Panoramaresort.com
+- label: Panoramaresort.com
+  url: https://panoramaresort.com
 ---
 
 # Panorama Mountain Resort

@@ -1,27 +1,18 @@
 ---
 tags:
-- Trails & Scrambles
-stats:
-- label: Launch GPS
-  icon: crosshairs-gps
-  value: 48.4803° ??’ ??.?"n ???° ??’ ??.?"w
+- Trails & Scrambles stats:
+- label: Launch GPS icon: crosshairs-gps
+## value: 48.4803° ??’ ??.?"n ???° ??’ ??.?"w
+## Bishops Marina
+## Bishop's marina
+## Description
+## Attractions
+## Directions
+## Cool things close by
+## R & P
 ---
 
 # Bishops Marina
-
-## Bishop's marina
-
-## Description
-
-## Attractions
-
-## Directions
-
-## Cool things close by
-
-## R & P
-
----
 
 ## Plan your trip
 

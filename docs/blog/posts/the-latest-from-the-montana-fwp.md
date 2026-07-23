@@ -16,9 +16,8 @@ Parks (MFWP) Please log onto the following url's and learn what you need to know
 
 Then go to our RESOURCE section and read a similar article from Canada.
 
-The more you know, the safer you can be [<https://www.inlandnwroutes.com/wildlife.html>
-
-](https://www.inlandnwroutes.com/wildlife.html)InlandNWRoutes.com
+The more you know, the safer you can be
+[<https://www.inlandnwroutes.com/wildlife.html>](https://www.inlandnwroutes.com/wildlife.html)InlandNWRoutes.com
 
 Chic Burge David Crafton
 

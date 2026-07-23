@@ -36,7 +36,7 @@ stats:
   value: CALL 911 FIRST or 208.263.8417
 notes:
 - Idaho panhandle national forest/alerts
-- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+- url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 
 # Fault Lake 5980  Hunt Peak 7058 Trail 59

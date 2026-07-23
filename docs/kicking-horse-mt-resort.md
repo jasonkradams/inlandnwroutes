@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 4313'
 notes:
-- Kockinghorseresort.com
+- label: Kockinghorseresort.com
+  url: https://kockinghorseresort.com
 ---
 
 # Kicking Horse Mt Resort

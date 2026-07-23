@@ -32,7 +32,8 @@ stats:
   icon: shield-account
   value: 911 or 208.263.8517
 notes:
-- Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+- label: Idaho Panhandle National Forests Alerts
+  url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 
 # Maiden Rock Trail

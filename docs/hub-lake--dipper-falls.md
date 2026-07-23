@@ -35,7 +35,8 @@ stats:
   value: CALL911 FIRST or 406.822.3555
 notes:
 - Lolo national forest/alerts
-- https[://www.fs.usda.gov/alerts/lolo/alerts-notices](https://www.fs.usda.gov/alerts/lolo/alerts-notices)
+- label: Lolo National Forest Alerts
+  url: https://www.fs.usda.gov/alerts/lolo/alerts-notices
 ---
 
 # Hub Lake  Dipper Falls

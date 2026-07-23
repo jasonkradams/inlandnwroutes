@@ -5,46 +5,25 @@ tags:
 - Camping
 - Sightseeing
 - Photography
-- Exceptional Beauty
-stats:
-- label: Event Type
-  icon: hiking
-  value: Camping, sightseeing, photography and exceptional beauty.
-- label: Distance
-  icon: map-marker-distance
-  value: Most the units require some walking, but nothing long or difficult.
-- label: Elevation
-  icon: terrain
-  value: minimal
-- label: Difficulty
-  icon: speedometer
-  value: easy
-- label: Maps
-  icon: map
-  value: J.D.F.B.N.M. Brochures
-- label: GPS
-  icon: crosshairs-gps
-  value: Thomas Condon Paleontology & Visitors Center 44° 31'10"N 119° 36'45" W.
-- label: John Day Fossil Bed National Monument
-  icon: information-outline
-  value: 541.987.2333
-- label: Wheeler County Sheriff
-  icon: shield-account
-  value: 541.763.4101
-- label: Grant County Sheriff
-  icon: shield-account
-  value: CALL 911 FIRST or 509.754.2011
----
-
-# John Day Fossil Bed National Monument
-
+- Exceptional Beauty stats:
+- label: Event Type icon: hiking value: Camping, sightseeing, photography and exceptional beauty.
+- label: Distance icon: map-marker-distance value: Most the units require some walking, but nothing long or
+  difficult.
+- label: Elevation icon: terrain value: minimal
+- label: Difficulty icon: speedometer value: easy
+- label: Maps icon: map value: J.D.F.B.N.M. Brochures
+- label: GPS icon: crosshairs-gps value: Thomas Condon Paleontology & Visitors Center 44° 31'10"N 119°
+  36'45" W.
+- label: John Day Fossil Bed National Monument icon: information-outline value: 541.987.2333
+- label: Wheeler County Sheriff icon: shield-account value: 541.763.4101
+- label: Grant County Sheriff icon: shield-account
+## value: CALL 911 FIRST or 509.754.2011
+## John Day Fossil Bed National Monument
 ## Description
-
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
 info. if an emergency ocurrs, evaluate your circumstances and call only if needed. John day fossil bed
 national monument When you travel thru north centeral Oregon, you will notice that the upper northern area
 was effected by the Glacier Lake Missoula catastrophic floods of some 12,000+ years ago.
-
 The Painted Hills Unit is like nowhere else in the Pacific Northwest. As you drive into the unit, it looks
 like you are driving onto a topographical map with relief. The layers you will see are incredible. Then
 throughout the area, drips of specific chemical elements run down the faces. Drive up to the parking area
@@ -55,9 +34,7 @@ are looking down on a topographical relief map. The monument management, asked p
 established trails. From the overlook, you can see foot prints from nearly a hundred years ago. Today, they
 look just like yesterdays. For that reason, they ask that you respect the unusual terrain, and only look at
 it, and never walk on it. You will see by the images below.
-
 ## Option #1
-
 Clarno unit. 44°54'48" n 119°24'38" w The Clarno Unit is
 [located](https://www.nps.gov/joda/planyourvisit/maps.htm) 18 miles west of the town of Fossil, Oregon. The
 Palisades are the most prominent landform and are volcanic lahars, or mudflows, that formed 54-40 million
@@ -66,17 +43,13 @@ brontotheres, crocodilians, and meat-eating creodonts that once roamed ancient j
 rocks of the Clarno Unit, has a diverse range of plant life, leaves, fruits, nuts, seeds, and petrified wood
 from 173 species of trees, vines, shrubs, and other plants have been found here thus far. ,Glimpses of
 fossilized plants can be seen along the cliff walls.
-
 ## Option #2
-
 SHeep rock unit. 44°32'55" n w19°38'04" The Sheep Rock Unit is
 [located](https://www.nps.gov/joda/planyourvisit/maps.htm) on Highway 19, between the towns of Kimberly and
 Dayville, Oregon. Prominant, non-fossil bearing rocks date back as far as 95 million years old. Fossils of
 plants and animals are found in a number of geological layers dating from 33 to 7 million years ago.
-
 The Sheep Rock Unit is the hub of monument operations, with both the headquarters of the monument (the Cant
 Ranch home) and the main visitor center located near the namesake peak. The Blue Basin
-
 The Sheep Rock unit contains an amalgam of colorful strata and complex geology. From Cretaceous
 conglomerates to the flood basalts, the geologic features in this portion of the monument are spectacle to
 behold. The predominant exposures of green rock seen on Sheep Rock are a multitude of reworked layers of
@@ -88,9 +61,7 @@ variety of vertebrate fossils. Interpretive signs and fossil replicas are locate
 Basin Overlook (3.25 mile loop) This trail brings you to a spectacular vista overlooking the John Day River
 Valley. It is dusty in places and may be impassable in wet weather. Moderate to strenuous with over 600 ft.
 elevation gain (and loss.)
-
 ## Option #3
-
 Thomas condon paleontology & visitors center. 44°43'10"n 119°36'45" w In 2005, the state of the art Thomas
 Condon Paleontology Center opened to the public. Named after the prominent 19th-century Oregon scientist who
 first recognized the significance of the fossil beds and did the first scientific collection and study of
@@ -107,14 +78,14 @@ in which these plants and animals lived. Speakers in the exhibits provide an aud
 extinct species may have sounded like. Viewing windows into the laboratory and collections area allow the
 public to watch scientists actively studying fossils. (You can also watch our paleo cam on our
 [webcams page](https://www.nps.gov/joda/learn/photosmultimedia/webcams.htm).)
-
 Where is it Located? The Center is located in the
 [Sheep Rock Unit](https://www.nps.gov/joda/planyourvisit/sr-unit.htm) of John Day Fossil Beds at 32651
 Highway 19, Kimberly, OR 97848. It is approximately 8 miles northwest of the town of Dayville, Oregon and 19
 miles south of the town of Kimberly, Oregon. Please visit the photo galleries below to see more pictures
 from the Thomas Condon Paleontology Center and units.
-
 ---
+
+# John Day Fossil Bed National Monument
 
 ## Directions
 

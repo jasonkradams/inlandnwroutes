@@ -31,12 +31,8 @@ stats:
   icon: fruit-cherries
   value: 'No'
 notes:
-- This species is sometimes called K. polifolia ssp. microphylla. Its close relative,
-  the lower-elevation Bog Laurel ([*K. polifolia*](https://www.wildflower.org/plants/result.php?id_plant=KAPO)),
-  is usually 8-20 inches (20-50 cm) high and has leaves 3/4-1 1/2 inches (2-4 cm)
-  long with edges tightly rolled under. The smaller Western Swamp Laurel (*K. occidentalis*),
-  found from the lowlands of Alaska south to Oregon, has flowers 1/2-3/4 of an inch
-  (1.5-2 cm) wide.
+- label: '*K. polifolia*'
+  url: https://www.wildflower.org/plants/result.php?id_plant=KAPO)),
 ---
 
 # Alpine Laurel

@@ -30,7 +30,8 @@ stats:
   icon: shield-account
   value: 911 or 406.293.4112
 notes:
-- Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+- label: Kootenai National Forest Alerts
+  url: https://www.fs.usda.gov/alerts/kootenai/alerts-notices
 ---
 
 # Cabinet Divide Trail 360

@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 1571'
 notes:
-- Snowkingmountain.com
+- label: Snowkingmountain.com
+  url: https://snowkingmountain.com
 ---
 
 # Snowking Ski Resort

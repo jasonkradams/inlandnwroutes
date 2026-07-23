@@ -31,7 +31,8 @@ stats:
   icon: shield-account
   value: 911 or 208.527.8553
 notes:
-- '[Clearwater national forest/ alerts](https://www.fs.usda.gov/alerts/lolo/alerts-notices)<https://www.fs.usda.gov/alerts/nezperceclearwater/alerts-notices>'
+- label: Lolo National Forest Alerts
+  url: https://www.fs.usda.gov/alerts/lolo/alerts-notices)<https://www.fs.usda.gov/alerts/nezperceclearwater/alerts-notices
 ---
 
 # Five Lakes Butte

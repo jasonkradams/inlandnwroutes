@@ -1,40 +1,42 @@
 ---
 tags:
-  - Lakes
-  - Easy to Moderate
-  - Day Hiking
-  - Backpacking
-  - Camping
+- Lakes
+- Easy to Moderate
+- Day Hiking
+- Backpacking
+- Camping
 stats:
-  - label: Event Type
-    icon: hiking
-    value: Day hiking, backpacking, camping
-  - label: Distance
-    icon: map-marker-distance
-    value: 6.2 miles RT to Lake Estelle (3.0 miles RT to Moose Lake)
-  - label: Elevation Gain
-    icon: elevation-rise
-    value: Lake Estelle 1,013' gain (Moose Lake 557' gain)
-  - label: Acres
-    icon: vector-square
-    value: '3.1'
-  - label: Difficulty
-    icon: speedometer
-    value: Easy to Moderate
-  - label: Maps
-    icon: map
-    value: IPNF - Mount Pend Oreille, Smith Mountain, Benning Mountain, Trestle Peak topos
-  - label: GPS
-    icon: crosshairs-gps
-    value: Moose Lake 48°21’16"N 116°06’33"W (Moose Mountain 48°20’46"N 116°07’23"W)
-  - label: Ranger District
-    icon: pine-tree
-    value: Sandpoint R.D. (208.263.5111)
-  - label: Bonner County Sheriff
-    icon: shield-account
-    value: CALL 911 FIRST, or 208.263.8417
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, camping
+- label: Distance
+  icon: map-marker-distance
+  value: 6.2 miles RT to Lake Estelle (3.0 miles RT to Moose Lake)
+- label: Elevation Gain
+  icon: elevation-rise
+  value: Lake Estelle 1,013' gain (Moose Lake 557' gain)
+- label: Acres
+  icon: vector-square
+  value: '3.1'
+- label: Difficulty
+  icon: speedometer
+  value: Easy to Moderate
+- label: Maps
+  icon: map
+  value: IPNF - Mount Pend Oreille, Smith Mountain, Benning Mountain, Trestle Peak
+    topos
+- label: GPS
+  icon: crosshairs-gps
+  value: Moose Lake 48°21’16"N 116°06’33"W (Moose Mountain 48°20’46"N 116°07’23"W)
+- label: Ranger District
+  icon: pine-tree
+  value: Sandpoint R.D. (208.263.5111)
+- label: Bonner County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST, or 208.263.8417
 notes:
-  - "[Idaho Panhandle National Forests Alerts](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)"
+- label: Idaho Panhandle National Forests Alerts
+  url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 
 # Lake Estelle & Moose Lake Trail System (Trail #36)

@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 3365'
 notes:
-- Mtbachelor.com
+- label: Mtbachelor.com
+  url: https://mtbachelor.com
 ---
 
 # Mount Bachelor Ski Resort

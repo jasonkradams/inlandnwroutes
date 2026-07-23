@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 2538'
 notes:
-- Alta.com
+- label: Alta.com
+  url: https://alta.com
 ---
 
 # Alta Ski Area

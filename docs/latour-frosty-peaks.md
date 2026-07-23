@@ -34,7 +34,7 @@ stats:
 notes:
 - Latour Baldy 47°28’12" N 116°20’49" W
 - Idaho panhandle national forest/alerts
-- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+- url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 
 # Latour Frosty Peaks

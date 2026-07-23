@@ -1,34 +1,17 @@
 ---
 tags:
-- Waterfalls
-stats:
-- label: Waterfall
-  icon: waterfall
-  value: Willow Creek Falls East
-- label: Drop
-  icon: arrow-collapse-down
-  value: Several drops
-- label: Waterfall Type
-  icon: waterfall
-  value: Several types
-- label: Distance Car to Falls
-  icon: map-marker-distance
-  value: Lower falls are below the trailhead for about .5 milesUpper falls is about
-    2.25 miles
-- label: Maps
-  icon: map
-  value: I.P.N.F., CDA River Ranger District 208.769.3000 & 208. 752.1221
-- label: GPS
-  icon: crosshairs-gps
-  value: The Stevens Lakes and Lone Lake trailhead is 47°26'16" N 115°45'57" W
----
-
-# Willow Creek Falls East
-
+- Waterfalls stats:
+- label: Waterfall icon: waterfall value: Willow Creek Falls East
+- label: Drop icon: arrow-collapse-down value: Several drops
+- label: Waterfall Type icon: waterfall value: Several types
+- label: Distance Car to Falls icon: map-marker-distance value: Lower falls are below the trailhead for
+  about .5 milesUpper falls is about 2.25 miles
+- label: Maps icon: map value: I.P.N.F., CDA River Ranger District 208.769.3000 & 208. 752.1221
+- label: GPS icon: crosshairs-gps
+## value: The Stevens Lakes and Lone Lake trailhead is 47°26'16" N 115°45'57" W
+## Willow Creek Falls East
 ## Willow creek fall East
-
 ## Description
-
 The description of these waterfalls are very complicated, but I'll do my best. In the Gallery below the
 falls will match the number in the description here. Starting at the trailhead and heading up stream towards
 L. & U. Stevens Lakes. The 1st falls up the trail are about 40' off the trail and are about a 3' Block type
@@ -38,20 +21,17 @@ type. On your hike to the lakes, you have to cross the falls to continue. The 5t
 large switchback. It is actually two falls that descend thru a split in a huge rock. They are both Plunge
 types. The 6th and 7th falls are real close to each other and can be seen by dropping down to the 4th falls.
 They are Plunge type falls. Please be very careful here.
-
 Below the trailhead are 3 more falls, but the area around them is too overgrown to get good images of.
-
 ## Directions
-
 Drive east on I-90 to Exit #69. At the stop sign turn left (N) over the freeway to the next stop sign, and
 turn right (E) onto
-
 Friday Ave. Continue past the Lucky Friday mine site to a "Y", and bear right. In a short distance, you will
 cross back over the freeway where you will be on Willow Creek Road. In a little over a 1 miles , the
 trailhead will be on your left. There is a pit toilet and picnic bench at the trailhead. The Stevens Lakes
 Trail #165, is on the left (E( side of the creek.
-
 ---
+
+# Willow Creek Falls East
 
 ## Cool things close by
 

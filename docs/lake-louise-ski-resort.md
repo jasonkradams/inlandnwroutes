@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 3250'
 notes:
-- Skilouise.com
+- label: Skilouise.com
+  url: https://skilouise.com
 ---
 
 # Lake Louise Ski Resort

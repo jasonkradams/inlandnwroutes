@@ -1,19 +1,14 @@
 ---
 tags:
-- Trails & Scrambles
-stats:
-- label: GPS
-  icon: crosshairs-gps
-  value: n??° ?’ ?.??" w???° ?’ ??.??"
+- Trails & Scrambles stats:
+- label: GPS icon: crosshairs-gps
+## value: n??° ?’ ?.??" w???° ?’ ??.??"
+## Hike Rev B
+## Description
+## Directions
 ---
 
 # Hike Rev B
-
-## Description
-
-## Directions
-
----
 
 ## Option #1
 

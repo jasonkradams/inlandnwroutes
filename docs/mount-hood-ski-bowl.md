@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 1500'
 notes:
-- Skibowl.com
+- label: Skibowl.com
+  url: https://skibowl.com
 ---
 
 # Mount Hood Ski Bowl

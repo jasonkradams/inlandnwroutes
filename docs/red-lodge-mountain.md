@@ -18,7 +18,8 @@ stats:
   icon: arrow-expand-vertical
   value: 2400'
 notes:
-- Redlodgemountain.com
+- label: Redlodgemountain.com
+  url: https://redlodgemountain.com
 ---
 
 # Red Lodge Mountain

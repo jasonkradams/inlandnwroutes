@@ -1,28 +1,18 @@
 ---
 tags:
-- Lakes
-stats:
-- label: Launch GPS
-  icon: crosshairs-gps
-  value: ??° ??’ ??.?"n ???° ??’ ??.?"w
-- label: Benewah County Sheriff
-  icon: shield-account
-  value: 208.245.2555
+- Lakes stats:
+- label: Launch GPS icon: crosshairs-gps value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+- label: Benewah County Sheriff icon: shield-account
+## value: 208.245.2555
+## Twin Lakes Narrows
+## Description
+## Attractions
+## Directions
+## Cool things close by
+## R & P
 ---
 
 # Twin Lakes Narrows
-
-## Description
-
-## Attractions
-
-## Directions
-
-## Cool things close by
-
-## R & P
-
----
 
 ## Plan your trip
 

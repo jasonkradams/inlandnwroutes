@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 5020'
 notes:
-- Whistlerblackcomb.com
+- label: Whistlerblackcomb.com
+  url: https://whistlerblackcomb.com
 ---
 
 # Whistler Blackcomb

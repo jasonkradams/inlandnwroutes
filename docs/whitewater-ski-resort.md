@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 634'
 notes:
-- Skiwhitewater.com
+- label: Skiwhitewater.com
+  url: https://skiwhitewater.com
 ---
 
 # Whitewater Ski Resort

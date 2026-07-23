@@ -5,43 +5,20 @@ tags:
 - Hiking
 - Backpacking
 - Scrambling
-- Climbing
-stats:
-- label: Event Type
-  icon: hiking
-  value: Hiking, backpacking, scrambling, climbing
-- label: Distance
-  icon: map-marker-distance
-  value: 11 miles RT
-- label: Elevation Gain
-  icon: elevation-rise
-  value: 4900 verts
-- label: Difficulty
-  icon: speedometer
-  value: very difficult
-- label: Maps
-  icon: map
-  value: Descutes National Forest, South Sister topo
-- label: GPS
-  icon: crosshairs-gps
-  value: 41•10'38' n 121•76"96'w
-- label: Sisters Ranger District
-  icon: pine-tree
-  value: 541.549.7700
-- label: Lane County Sheriff
-  icon: shield-account
-  value: 541.682.4150
-- label: Deschutes County Sheriff
-  icon: shield-account
-  value: CALL 911 FIRST or 541.388.6655
----
-
-# South Sister Mountain 10358
-
+- Climbing stats:
+- label: Event Type icon: hiking value: Hiking, backpacking, scrambling, climbing
+- label: Distance icon: map-marker-distance value: 11 miles RT
+- label: Elevation Gain icon: elevation-rise value: 4900 verts
+- label: Difficulty icon: speedometer value: very difficult
+- label: Maps icon: map value: Descutes National Forest, South Sister topo
+- label: GPS icon: crosshairs-gps value: 41•10'38' n 121•76"96'w
+- label: Sisters Ranger District icon: pine-tree value: 541.549.7700
+- label: Lane County Sheriff icon: shield-account value: 541.682.4150
+- label: Deschutes County Sheriff icon: shield-account
+## value: CALL 911 FIRST or 541.388.6655
+## South Sister Mountain 10358
 ## South sister mountain 10,358'
-
 ## Description
-
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
 info. if an emergency ocurrs, evaluate your circumstances and call only if needed. From the Devils
 Trailhead, start out on the South Sister Climbers Trail. This path crosses a footbridge over glassy Tyee
@@ -60,12 +37,9 @@ you're backpacking, note that tents near Moraine Lake are allowed only at sites 
 Campfires are banned. If you're climbing South Sister, however, go straight at the junction at the upper end
 of Moraine Lake's valley. The next 1.2 miles steepen drastically to a resting point in a sandy saddle - the
 current terminal moraine of
-
 Lewis Glacier,
-
 overlooking a small green cirque lake. A climbers' trail from Green Lakes joins here on the right. The route
 to the summit heads up the ridge to the left.
-
 After another 0.7 mile you'll crest the lip of South Sister's broad crater. Follow the rim right 0.4 mile to
 the summit, a rocky crest with a benchmark. Bend, Sisters and Redmond are clearly visible. To the north, the
 green Chambers Lakes dot the barren, glacial landscape below Middle Sister. Geology: The Three Sisters
@@ -76,13 +50,12 @@ summit crater contains the state's highest lake, Teardrop Pool. The Lewis Glacie
 U-shaped valley on the side of South Sister in the Ice Age. The glacier pushed rock and sand to its toe as a
 moraine-the rounded sandpile now cupping the lake. Later volcanic eruptions scattered pumice across the
 valley. Some of these floatable rocks are as big as basketballs.
-
 ## Directions
-
 Drive 28.5 miles west of Bend on the Cascade Lakes Highway. Beyond the Mount Bachelor Ski Area 6.5 miles,
 turn left at a Devils Lake Trailhead sign and park at the end of the campground loop.
-
 ---
+
+# South Sister Mountain 10358
 
 ## Cool things close by
 

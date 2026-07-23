@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 3514'
 notes:
-- Skibanff.com
+- label: Skibanff.com
+  url: https://skibanff.com
 ---
 
 # Sunshine Ski Resort

@@ -44,8 +44,8 @@ stats:
     known by the common names lanceleaf springbeauty and western springbeauty. ...
     Claytonia lanceolata (Lanceleaf springbeauty,
 notes:
-- Native Americans ate the roots and [pods](https://en.wikipedia.org/wiki/Pod_(fruit)),
-  which can be cooked and eaten like potatoes. The leaves can be eaten raw or cooked.
+- label: pods
+  url: https://en.wikipedia.org/wiki/Pod_(fruit)),
 ---
 
 # Spring Beauties

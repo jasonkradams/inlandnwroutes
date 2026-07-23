@@ -32,7 +32,8 @@ stats:
   value: CALL 911 FIRST, or 406.293.4112
 notes:
 - libby ranger district 406.293.7773
-- Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+- label: Kootenai National Forest Alerts
+  url: https://www.fs.usda.gov/alerts/kootenai/alerts-notices
 ---
 
 # Skyhanging Valley

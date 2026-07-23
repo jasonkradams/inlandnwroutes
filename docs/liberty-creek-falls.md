@@ -1,54 +1,33 @@
 ---
 tags:
-- Waterfalls
-stats:
-- label: Waterfall
-  icon: waterfall
-  value: U. & L. Liberty Creek Falls
-- label: Drop
-  icon: arrow-collapse-down
-  value: Both about 30'
-- label: Waterfall Type
-  icon: waterfall
-  value: Both are Slide falls
-- label: Distance Car to Falls
-  icon: map-marker-distance
-  value: 7 miles loop
-- label: Maps
-  icon: map
-  value: Liberty Lake Regional Park
-- label: GPS
-  icon: crosshairs-gps
-  value: 47°35’?59" n 117°02’36" w
----
-
-# Liberty Creek Falls
-
+- Waterfalls stats:
+- label: Waterfall icon: waterfall value: U. & L. Liberty Creek Falls
+- label: Drop icon: arrow-collapse-down value: Both about 30'
+- label: Waterfall Type icon: waterfall value: Both are Slide falls
+- label: Distance Car to Falls icon: map-marker-distance value: 7 miles loop
+- label: Maps icon: map value: Liberty Lake Regional Park
+- label: GPS icon: crosshairs-gps
+## value: 47°35’?59" n 117°02’36" w
+## Liberty Creek Falls
 ## Description
-
 Liberty Creek Falls is located within the Liberty Lake Regional Park south of Liberty Lake. Wa. The park
 offers several hikes, and is a connection point to the Mica Peak area. From the parking area, hike the
 Liberty Lake Loop Trail to the Cedar Grove Conservation Area. The trail crosses the creek on an old log
 bridge, and heads steeply up several switchbacks to a view point overlooking Liberty Lake at a switchback.
 Continue along the loop trail to the falls. Keep in mind that the falls dry up a bit later in the season.
-
 ## Option #1
-
 If you continue up the loop trail passed the lower falls, for about .3 miles, is the upper waterfall on the
 same creek.
-
 ## Option #2
-
 By continuing on the loop trail, you will come to the Camp Hughes Cabin. A bit further along the loop trail,
 it circles around and takes you back towards the parking area. This loop trail is not to be missed.
-
 ## Option #3
-
 You can do this loop trail backwards, but please pick up a park maps to help you navigate the loop. And keep
 in mind, this trail is open to horses and mountain bikes. If you feel unsure of your location, do not
 hesitate to ask other trail users.
-
 ---
+
+# Liberty Creek Falls
 
 ## Directions
 

@@ -7,31 +7,17 @@ tags:
 - Hiking
 - Photography
 - Rafting
-- So Much More
-stats:
-- label: Event Type
-  icon: hiking
-  value: Backpacking, dinning, hiking, photography, rafting, and so much more.
-- label: Distance
-  icon: map-marker-distance
-  value: 6,851 miles as the crow flies
-- label: Elevation
-  icon: terrain
-  value: Sea level to 6,000'
-- label: Difficulty
-  icon: speedometer
-  value: easy to difficult
-- label: Maps
-  icon: map
-  value: Patagonia
----
-
-# Patagonia
-
+- So Much More stats:
+- label: Event Type icon: hiking value: Backpacking, dinning, hiking, photography, rafting, and so much
+  more.
+- label: Distance icon: map-marker-distance value: 6,851 miles as the crow flies
+- label: Elevation icon: terrain value: Sea level to 6,000'
+- label: Difficulty icon: speedometer value: easy to difficult
+- label: Maps icon: map
+## value: Patagonia
+## Patagonia
 ## Patagonia, south america
-
 ## Description
-
 Because the Patagonia region is so vast, I am going to describe each image in detail underneath the image.
 This way, you will be able to learn more about the specific areas. This write up consists of two South
 American nations. Chile and Argentina. My long time friend, Chris Herath had visited this area a few years
@@ -41,8 +27,9 @@ accommodations excellent, they make their own real good ice cream. At one dinner
 favorite ice cream dish. It was vanilla ice cream with Teacher"s Scotch poured over it. I stumbled all the
 way back to the hostel. Another real cool feature to El Chalten, was all the trail to the towers are right
 out your hostels door. There was no need to travel to trailheads.
-
 ---
+
+# Patagonia
 
 ## Hazards
 

@@ -3,36 +3,19 @@ tags:
 - Trails & Scrambles
 - Hiking
 - Backpacking
-- Scrambling
-stats:
-- label: Event Type
-  icon: hiking
-  value: Hiking, backpacking, scrambling
-- label: Distance
-  icon: map-marker-distance
-  value: Lake 12 miles RT. Lake basin circuit about 5 miles RT
-- label: Elevation
-  icon: terrain
-  value: St Joe Lake 6472’, Unnamed Peak 7260’, Graves Peak 7235’, Illinois Peak 7690’,
-    Gold Crown Peak 7374’
-- label: Difficulty
-  icon: speedometer
-  value: St Joe Lake Moderate, Unnamed Peak 7260’ Difficult, Graves Peak Moderate,
-    Illinois Peak Moderate, Gold Crown Peak Difficult
-- label: Maps
-  icon: map
-  value: IPNF - St Joe N.F., Illinois Peak, MT-ID
-- label: GPS
-  icon: crosshairs-gps
-  value: n47° 1’ 3.71" w115° 4’ 51.49"
----
-
-# Hike Rev D
-
+- Scrambling stats:
+- label: Event Type icon: hiking value: Hiking, backpacking, scrambling
+- label: Distance icon: map-marker-distance value: Lake 12 miles RT. Lake basin circuit about 5 miles RT
+- label: Elevation icon: terrain value: St Joe Lake 6472’, Unnamed Peak 7260’, Graves Peak 7235’, Illinois
+  Peak 7690’, Gold Crown Peak 7374’
+- label: Difficulty icon: speedometer value: St Joe Lake Moderate, Unnamed Peak 7260’ Difficult, Graves Peak
+  Moderate, Illinois Peak Moderate, Gold Crown Peak Difficult
+- label: Maps icon: map value: IPNF - St Joe N.F., Illinois Peak, MT-ID
+- label: GPS icon: crosshairs-gps
+## value: n47° 1’ 3.71" w115° 4’ 51.49"
+## Hike Rev D
 ## St joe lake 6472’ illinois peak 7690’
-
 ## Description
-
 The trail starts off pretty flat with two easy stream crossings in the first mile or so. It continues to
 follow the river in a flat valley for a couple miles and then starts gaining elevation and increasing in
 grade as you approach the lake. Just before the lake is a huge meadow filled with flowers and views of Gold
@@ -40,14 +23,13 @@ Crown Peak and Rambikur water fall. Once at the lake there are three large estab
 shore. There is a bench and large meadow about four hundred feet up on the east side of the lake which
 appears to have a spring water source. There maybe a camp just past the inlet water fall on the back side of
 the lake. Do not camp there if there is not an established camp.
-
 ## Directions
-
 Take I-90 east to Superior, MT. Exit south and follow Diamond Rd a short distance to Cedar Creek Road
 FS-320. It is about 25 miles to the pass and another 6 miles to the trail head. About 1.5 hours of driving
 on the dirt. The Montana side is well maintained. The Idaho side not as well.
-
 ---
+
+# Hike Rev D
 
 ## Option #1
 

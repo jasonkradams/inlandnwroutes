@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: '1851'
 notes:
-- Ski49n.com
+- label: Ski49n.com
+  url: https://ski49n.com
 ---
 
 # 49Degn Ski Area

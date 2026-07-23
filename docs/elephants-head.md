@@ -40,12 +40,8 @@ stats:
   icon: fruit-cherries
   value: na
 notes:
-- The flower’s charming structure facilitates pollination while at the same time reducing
-  the chances of hybridization with other species. Little Elephant Heads ([*P. attollens*](https://www.wildflower.org/plants/result.php?id_plant=PEAT)),
-  only to 16" (40 cm) tall, has a corolla marked with white and rose, and head proportions
-  are not so perfectly elephantine - the "trunk," raised as if trumpeting, is only
-  as long as the lower lip. It grows from the Cascade Mountains of Oregon to the Sierra
-  Nevada in California.
+- label: '*P. attollens*'
+  url: https://www.wildflower.org/plants/result.php?id_plant=PEAT)),
 ---
 
 # Elephants Head

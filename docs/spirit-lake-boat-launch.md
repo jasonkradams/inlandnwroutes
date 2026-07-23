@@ -1,27 +1,18 @@
 ---
 tags:
-- Lakes
-stats:
-- label: Launch GPS
-  icon: crosshairs-gps
-  value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+- Lakes stats:
+- label: Launch GPS icon: crosshairs-gps
+## value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+## Spirit Lake Boat Launch
+## St. joe and st. maries rivers
+## Description
+## Attractions
+## Directions
+## Cool things close by
+## R & P
 ---
 
 # Spirit Lake Boat Launch
-
-## St. joe and st. maries rivers
-
-## Description
-
-## Attractions
-
-## Directions
-
-## Cool things close by
-
-## R & P
-
----
 
 ## Plan your trip
 

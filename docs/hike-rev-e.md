@@ -1,19 +1,14 @@
 ---
 tags:
-- Trails & Scrambles
-stats:
-- label: GPS
-  icon: crosshairs-gps
-  value: n??° ?’ ?.??" w???° ?’ ??.??"
+- Trails & Scrambles stats:
+- label: GPS icon: crosshairs-gps
+## value: n??° ?’ ?.??" w???° ?’ ??.??"
+## Hike Rev E
+## Description
+## Directions
 ---
 
 # Hike Rev E
-
-## Description
-
-## Directions
-
----
 
 ## Option #1
 

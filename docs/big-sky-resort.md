@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 4350'
 notes:
-- Bigskyresort.com
+- label: Bigskyresort.com
+  url: https://bigskyresort.com
 ---
 
 # Big Sky Resort

@@ -32,7 +32,8 @@ stats:
   value: CALL 911 FIRST or 208.446.1300
 notes:
 - North Chilco 47°53'30" N 116°31;47" W
-- Idaho panhandle national forest/alerts [https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)
+- label: Idaho Panhandle National Forests Alerts
+  url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 
 # North And South Chilco Peak

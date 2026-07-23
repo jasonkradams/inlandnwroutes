@@ -51,20 +51,8 @@ notes:
   root 30 minutes to two hours before bedtime. This is best for insomnia or sleep
   trouble. For tea, soak 2 to 3 grams of dried herbal valerian root in 1 cup of hot
   water for 10 to 15 minutes.
-- It is a species of [valerian](https://en.wikipedia.org/wiki/Valeriana) known by
-  the common name **Sitka valerian**. It is native to northwestern North America from
-  [Alaska](https://en.wikipedia.org/wiki/Alaska) and northern Canada to [Montana](https://en.wikipedia.org/wiki/Montana)
-  to northern [California](https://en.wikipedia.org/wiki/California), where it grows
-  in many types of habitat, including moist mountain forests. In moist [subalpine
-  meadows](https://en.wikipedia.org/wiki/Subalpine_zone), it is often one of the most
-  common plants.[[1]](https://en.wikipedia.org/wiki/Valeriana_sitchensis#cite_note-Pojar-1)
-  This is a [rhizomatous](https://en.wikipedia.org/wiki/Rhizome) perennial herb producing
-  a stout, erect stem to about 70 centimeters in maximum height, but known to exceed
-  one meter at times. The leaves vary in size and shape, often having deep lobes or
-  being composed of several leaflets. The [inflorescence](https://en.wikipedia.org/wiki/Inflorescence)
-  is a cyme of many white or pink-tinged flowers, each under a centimeter wide. The
-  flower has five corolla lobes and three whiskery [stamens](https://en.wikipedia.org/wiki/Stamen)protruding
-  from the center.
+- label: valerian
+  url: https://en.wikipedia.org/wiki/Valeriana
 ---
 
 # Sitka Valerian

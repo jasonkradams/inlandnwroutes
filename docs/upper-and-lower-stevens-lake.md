@@ -31,7 +31,7 @@ notes:
 - '**EVENT TYPE: Hiking, backpacking, camping, scrambling, and photography'
 - Upper 47°42’80" N -115°76’25" W
 - Idaho panhandle national forest/alerts
-- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+- url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 
 # Upper And Lower Stevens Lake

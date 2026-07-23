@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 3000'
 notes:
-- Deervalley.com
+- label: Deervalley.com
+  url: https://deervalley.com
 ---
 
 # Deer Valley Resort

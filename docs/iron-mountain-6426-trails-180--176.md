@@ -31,7 +31,7 @@ stats:
   value: CALL 911 FIRST or 208.263.8417
 notes:
 - Idaho panhandle national forest/alerts
-- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+- url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 
 # Iron Mountain 6426 Trails 180  176

@@ -29,7 +29,7 @@ stats:
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114**Idaho panhandle national forest/alerts
 notes:
-- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+- url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 
 # Stevens Peak Smi Mountain School

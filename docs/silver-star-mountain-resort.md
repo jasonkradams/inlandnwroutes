@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 2500'
 notes:
-- Skisilverstar.com
+- label: Skisilverstar.com
+  url: https://skisilverstar.com
 ---
 
 # Silver Star Mountain Resort

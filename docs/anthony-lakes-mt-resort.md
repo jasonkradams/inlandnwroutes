@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 900'
 notes:
-- Anthonylakes.com
+- label: Anthonylakes.com
+  url: https://anthonylakes.com
 ---
 
 # Anthony Lakes Mt Resort

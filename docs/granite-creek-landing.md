@@ -1,31 +1,19 @@
 ---
 tags:
-- Trails & Scrambles
-stats:
-- label: Paddle Distance
-  icon: map-marker-distance
-  value: varies
-- label: Elevation
-  icon: terrain
-  value: 2067’
-- label: Length and Acreage
-  icon: vector-square
-  value: varies
+- Trails & Scrambles stats:
+- label: Paddle Distance icon: map-marker-distance value: varies
+- label: Elevation icon: terrain value: 2067’
+- label: Length and Acreage icon: vector-square
+## value: varies
+## Granite Creek Landing
+## Description
+## Attractions
+## Directions
+## Cool things close by
+## R & P
 ---
 
 # Granite Creek Landing
-
-## Description
-
-## Attractions
-
-## Directions
-
-## Cool things close by
-
-## R & P
-
----
 
 ## Plan your trip
 

@@ -31,10 +31,10 @@ stats:
   value: 'libby ranger district: 406.293.7773'
 notes:
 - Kootenai national forest/alerts
-- <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+- url: https://www.fs.usda.gov/alerts/kootenai/alerts-notices
 - 'LINCOLN COUNTY, MT SHERIFF: 911 or [406.293.4112](tel:406.293.4112)'
 - Kootenai national forest/alerts
-- <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+- url: https://www.fs.usda.gov/alerts/kootenai/alerts-notices
 ---
 
 # Baree Lake

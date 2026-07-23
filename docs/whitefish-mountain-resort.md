@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 2353'
 notes:
-- Skiwhitefish.com
+- label: Skiwhitefish.com
+  url: https://skiwhitefish.com
 ---
 
 # Whitefish Mountain Resort

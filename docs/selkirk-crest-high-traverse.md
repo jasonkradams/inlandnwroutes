@@ -30,7 +30,7 @@ stats:
   value: Bonners Ferry R.D. 911 or 208.267.5561
 notes:
 - Idaho panhandle national forest/alerts
-- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+- url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 
 # Selkirk Crest High Traverse

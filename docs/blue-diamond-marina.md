@@ -1,25 +1,17 @@
 ---
 tags:
-- Trails & Scrambles
-stats:
-- label: Launch GPS
-  icon: crosshairs-gps
-  value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+- Trails & Scrambles stats:
+- label: Launch GPS icon: crosshairs-gps
+## value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+## Blue Diamond Marina
+## Description
+## Attractions
+## Directions
+## Cool things close by
+## R & P
 ---
 
 # Blue Diamond Marina
-
-## Description
-
-## Attractions
-
-## Directions
-
-## Cool things close by
-
-## R & P
-
----
 
 ## Plan your trip
 

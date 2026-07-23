@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 2894'
 notes:
-- Sunpeaksresort.com
+- label: Sunpeaksresort.com
+  url: https://sunpeaksresort.com
 ---
 
 # Sun Peaks Resort

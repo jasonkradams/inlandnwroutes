@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 4540 +2616
 notes:
-- Timberlinelodge.com
+- label: Timberlinelodge.com
+  url: https://timberlinelodge.com
 ---
 
 # Timberline Lodge Ski Area

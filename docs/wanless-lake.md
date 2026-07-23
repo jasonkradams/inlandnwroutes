@@ -1,27 +1,28 @@
 ---
 tags:
-  - Lakes
-  - Strenuous
-  - Backpacking
-  - Camping
+- Lakes
+- Strenuous
+- Backpacking
+- Camping
 stats:
-  - label: Event Type
-    icon: hiking
-    value: Backpacking, camping, mountain lakes
-  - label: Distance
-    icon: map-marker-distance
-    value: 12.0 miles RT via Trail #912
-  - label: Elevation Gain
-    icon: elevation-rise
-    value: 2,800' gain
-  - label: Difficulty
-    icon: speedometer
-    value: Strenuous
-  - label: Maps
-    icon: map
-    value: Kootenai N.F. - Cabinet Mountain Wilderness USGS topo
+- label: Event Type
+  icon: hiking
+  value: Backpacking, camping, mountain lakes
+- label: Distance
+  icon: map-marker-distance
+  value: 12.0 miles RT via Trail
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 2,800' gain
+- label: Difficulty
+  icon: speedometer
+  value: Strenuous
+- label: Maps
+  icon: map
+  value: Kootenai N.F. - Cabinet Mountain Wilderness USGS topo
 notes:
-  - "[Kootenai National Forest Alerts](https://www.fs.usda.gov/alerts/kootenai/alerts-notices)"
+- label: Kootenai National Forest Alerts
+  url: https://www.fs.usda.gov/alerts/kootenai/alerts-notices
 ---
 
 # Wanless Lake (Trail #912)

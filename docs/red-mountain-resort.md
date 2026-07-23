@@ -27,7 +27,8 @@ stats:
   icon: star-outline
   value: xc, ns, cat s,
 notes:
-- Redresort.com
+- label: Redresort.com
+  url: https://redresort.com
 - 800.663.0105
 ---
 

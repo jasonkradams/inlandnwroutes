@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 2200'
 notes:
-- Bogusbasin.org
+- label: Bogusbasin.org
+  url: https://bogusbasin.org
 ---
 
 # Bogus Basin Ski Resort

@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 1120'
 notes:
-- Skisalmo.com
+- label: Skisalmo.com
+  url: https://skisalmo.com
 ---
 
 # Salmo Ski Area

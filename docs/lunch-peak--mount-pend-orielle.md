@@ -32,7 +32,7 @@ stats:
   icon: shield-account
   value: CALL 911 FIRST or 208.267.8417
 notes:
-- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+- url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 
 # Lunch Peak  Mount Pend Orielle

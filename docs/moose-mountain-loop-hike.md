@@ -34,7 +34,8 @@ notes:
 - Moose Mountain. 48°20’46" N 116°07’22" W
 - RANGER DISTRICT. Sandpoint R.D. 208.263.5111
 - Idaho panhandle national forest/alerts
-- '[https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)'
+- label: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
+  url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 
 # Moose Mountain Loop Hike

@@ -36,7 +36,7 @@ stats:
   value: CALL 911 FIRST or 208.556.1114
 notes:
 - Idaho panhandle national forest/alerts
-- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+- url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 
 # Upper  Lower St Regis Lakes

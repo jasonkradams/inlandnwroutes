@@ -32,7 +32,8 @@ stats:
   icon: shield-account
   value: 406.822.3555Lolo national forest/alerts
 notes:
-- https[://www.fs.usda.gov/alerts/lolo/alerts-notices](https://www.fs.usda.gov/alerts/lolo/alerts-notices)
+- label: Lolo National Forest Alerts
+  url: https://www.fs.usda.gov/alerts/lolo/alerts-notices
 ---
 
 # Siamese Lake Loop

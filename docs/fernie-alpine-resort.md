@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 3550'
 notes:
-- Skifernie.com
+- label: Skifernie.com
+  url: https://skifernie.com
 ---
 
 # Fernie Alpine Resort

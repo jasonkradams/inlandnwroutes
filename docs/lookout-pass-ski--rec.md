@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 1650'
 notes:
-- Skilookout.com
+- label: Skilookout.com
+  url: https://skilookout.com
 ---
 
 # Lookout Pass Ski  Rec

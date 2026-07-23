@@ -31,30 +31,53 @@ stats:
 notes:
 - About 12 miles RT to Bloom Peak.
 - Idaho panhandle national forest/alerts
-- <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>---
-# Settlers Grove Of Ancient Cedars
-!!! warning "Before you go"
-    Settlers grove of ancient cedars
-*Forest road 805 to settlers grove of ancient cedars is closed due to being washed out*
-## Description
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-Settlers Grove was established as a botanical area in 1970, and is the only old growth cedar botanical area in the CDA River Ranger District.
-The Cedars measure up to 7 feet in diameter, and have been estimated at 600 + years old.
-The West Fork Eagle Creek runs thru the grove, and crosses the trail on foot bridges several times. Meander up thru the Cedars for about a mile before the formal grove ends.
-## Option #1
-Trail #162 continues past the cedar grove for about another 4+ miles to the Idaho Montana Boarder. The trail is overgrown at the top of the grove, but clears at about 1.5 miles. Soon the boarder is in sight high above. Continue NE and then north to Bloom Peak 5863’. From Bloom Peak the boarder heads north over a mile to Lost Peak 6350".
-The Cabinet Mountain Wilderness stands tall just 20 miles north east.
-## Directions
-Head east on I-90 to exit 43 in Kingston. Head north up F.H. #9 for 26 miles to Eagle, Idaho. Turn left (north) up F.R. #152 for 1.3 miles to a junction with F.R. 805, and bear left for 5.6 miles to the trailhead.
-## Hazards
-None within the grove. The trail above the grove is over grown in about a mile.
-## Cool things close by
-Crystal Lake, Graham Mountain, Silver Mountain Resort, Chain Lakes, Stevens Peak & Lakes, U. & L. Glidden Lakes, Revette Lake, and Blossom Lakes.
-## R & P
-Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ & Saloon, Wallace Brewing Co., Muchacho’s Tacos in Wallace. Radio Brewing in Kellogg. The Snake Pit north of Kingston. And Moon Time in CDA.
+---
+
 ---
 
 # Settlers Grove Of Ancient Cedars
+
+!!! warning "Before you go"
+    Settlers grove of ancient cedars
+
+## Forest road 805 to settlers grove of ancient cedars is closed due to being washed out
+
+## Description
+
+We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
+info. if an emergency ocurrs, evaluate your circumstances and call only if needed. Settlers Grove was
+established as a botanical area in 1970, and is the only old growth cedar botanical area in the CDA River
+Ranger District. The Cedars measure up to 7 feet in diameter, and have been estimated at 600 + years old.
+The West Fork Eagle Creek runs thru the grove, and crosses the trail on foot bridges several times. Meander
+up thru the Cedars for about a mile before the formal grove ends.
+
+## Option #1
+
+Trail #162 continues past the cedar grove for about another 4+ miles to the Idaho Montana Boarder. The trail
+is overgrown at the top of the grove, but clears at about 1.5 miles. Soon the boarder is in sight high
+above. Continue NE and then north to Bloom Peak 5863’. From Bloom Peak the boarder heads north over a mile
+to Lost Peak 6350". The Cabinet Mountain Wilderness stands tall just 20 miles north east.
+
+## Directions
+
+Head east on I-90 to exit 43 in Kingston. Head north up F.H. #9 for 26 miles to Eagle, Idaho. Turn left
+(north) up F.R. #152 for 1.3 miles to a junction with F.R. 805, and bear left for 5.6 miles to the
+trailhead.
+
+## Hazards
+
+None within the grove. The trail above the grove is over grown in about a mile.
+
+## Cool things close by
+
+Crystal Lake, Graham Mountain, Silver Mountain Resort, Chain Lakes, Stevens Peak & Lakes, U. & L. Glidden
+Lakes, Revette Lake, and Blossom Lakes.
+
+## R & P
+
+## Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ & Saloon, Wallace Brewing Co., Muchacho’s Tacos in Wallace. Radio Brewing in Kellogg. The Snake Pit north of Kingston. And Moon Time in CDA
+
+## Settlers Grove Of Ancient Cedars (2)
 
 ## Images from along the trail
 

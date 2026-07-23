@@ -1,50 +1,29 @@
 ---
 tags:
-- Paddling & Rivers
-stats:
-- label: Paddle Distance
-  icon: map-marker-distance
-  value: varies
-- label: Elevation
-  icon: terrain
-  value: 2128’
-- label: Length and Acreage
-  icon: vector-square
-  value: varies
-- label: Maps
-  icon: map
-  value: ipnf, cda se
-- label: Launch GPS
-  icon: crosshairs-gps
-  value: 47°32’12" n 116°46’30" w
----
-
-# Carlin Bay Launch
-
+- Paddling & Rivers stats:
+- label: Paddle Distance icon: map-marker-distance value: varies
+- label: Elevation icon: terrain value: 2128’
+- label: Length and Acreage icon: vector-square value: varies
+- label: Maps icon: map value: ipnf, cda se
+- label: Launch GPS icon: crosshairs-gps
+## value: 47°32’12" n 116°46’30" w
+## Carlin Bay Launch
 ## Description
-
 The public launch at Carlin Bay, is next to the Carlin Bay Resort. Please do not park in the resort’s area.
-
 ## Attractions
-
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
 info. if an emergency ocurrs, evaluate your circumstances and call only if needed. Open water in three
 directions await avid paddlers. Powder Horn Bay, Loft’s Bay, Rockford Bay and Windy Bay
-
 ## Directions
-
 Drive I -90 to the Harrison exit, and continue on Hwy 97A past the Turner Bay road to Carlin Bay, or 17
 miles from I-90. The launch is on the right.
-
 ## Cool things close by
-
 Powder Horn Bay, Turner Bay, and LoffsBay.
-
 ## R & P
-
 Moon Time, Franklins Hoagies, the Mexican Food Factory, and the Trails End Brewery.
-
 ---
+
+# Carlin Bay Launch
 
 ## Plan your trip
 

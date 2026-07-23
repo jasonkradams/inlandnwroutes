@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 1240'
 notes:
-- Skitheloup.com
+- label: Skitheloup.com
+  url: https://skitheloup.com
 ---
 
 # Loup Loup Ski Bowl

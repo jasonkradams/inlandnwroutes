@@ -29,8 +29,9 @@ stats:
   icon: shield-account
   value: CALL 911 FIRST or 208.476.4521
 notes:
-- '[Clearwater national forest/ alerts](https://www.fs.usda.gov/alerts/lolo/alerts-notices)'
-- <https://www.fs.usda.gov/alerts/nezperceclearwater/alerts-notices>
+- label: Clearwater national forest/ alerts
+  url: https://www.fs.usda.gov/alerts/lolo/alerts-notices
+- url: https://www.fs.usda.gov/alerts/nezperceclearwater/alerts-notices
 ---
 
 # Elk Creek Falls National Recreation Area

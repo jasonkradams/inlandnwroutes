@@ -34,7 +34,8 @@ stats:
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
 notes:
-- Idaho panhandle national forest/alerts <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
+- label: Idaho Panhandle National Forests Alerts
+  url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 
 # Crystal Lake

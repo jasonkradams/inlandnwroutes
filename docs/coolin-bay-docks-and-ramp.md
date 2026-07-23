@@ -1,28 +1,18 @@
 ---
 tags:
-- Paddling & Rivers
-stats:
-- label: Length and Acreage
-  icon: vector-square
-  value: 23,334.9
-- label: Launch GPS
-  icon: crosshairs-gps
-  value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+- Paddling & Rivers stats:
+- label: Length and Acreage icon: vector-square value: 23,334.9
+- label: Launch GPS icon: crosshairs-gps
+## value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+## Coolin Bay Docks And Ramp
+## Description
+## Attractions
+## Directions
+## Cool things close by
+## R & P
 ---
 
 # Coolin Bay Docks And Ramp
-
-## Description
-
-## Attractions
-
-## Directions
-
-## Cool things close by
-
-## R & P
-
----
 
 ## Plan your trip
 

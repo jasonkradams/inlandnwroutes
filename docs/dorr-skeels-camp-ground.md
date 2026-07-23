@@ -1,51 +1,28 @@
 ---
 tags:
-- Trails & Scrambles
-stats:
-- label: Paddle Distance
-  icon: map-marker-distance
-  value: about 4.5 miles
-- label: Elevation
-  icon: terrain
-  value: 2320’
-- label: Length and Acreage
-  icon: vector-square
-  value: 4.5 miles and 1202 acres
-- label: Maps
-  icon: map
-  value: Kootenai N.F., Bull Lake Topo
-- label: Launch GPS
-  icon: crosshairs-gps
-  value: ', 48°16’20" n 115°513". w'
-- label: Lincoln County Sheriff
-  icon: shield-account
-  value: 406.293.4112
+- Trails & Scrambles stats:
+- label: Paddle Distance icon: map-marker-distance value: about 4.5 miles
+- label: Elevation icon: terrain value: 2320’
+- label: Length and Acreage icon: vector-square value: 4.5 miles and 1202 acres
+- label: Maps icon: map value: Kootenai N.F., Bull Lake Topo
+- label: Launch GPS icon: crosshairs-gps value: ', 48°16’20" n 115°513". w'
+- label: Lincoln County Sheriff icon: shield-account
+## value: 406.293.4112
+## Dorr Skeels Camp Ground
+## Description
+The Dorr Skeel Camp Ground is located at the north end of Bull Lake. The Dorr Skeel C. G. is large, with
+many camp site, some on the shore line. The C. G. launch is located on the south end of the C.G.
+## Attractions
+This C. G. is located on the more quiet end of Bull Lake.
+## Directions
+From the Hwy 200 and Hwy 56 junction, drive about 21.4 miles to the Dorr Skeel C. G. turn off.
+## Cool things close by
+The Halfway House Bar, the Cabinet Mountain Wilderness, Kootenai Falls, and Libby.
+## R & P
+Henry’s in Libby
 ---
 
 # Dorr Skeels Camp Ground
-
-## Description
-
-The Dorr Skeel Camp Ground is located at the north end of Bull Lake. The Dorr Skeel C. G. is large, with
-many camp site, some on the shore line. The C. G. launch is located on the south end of the C.G.
-
-## Attractions
-
-This C. G. is located on the more quiet end of Bull Lake.
-
-## Directions
-
-From the Hwy 200 and Hwy 56 junction, drive about 21.4 miles to the Dorr Skeel C. G. turn off.
-
-## Cool things close by
-
-The Halfway House Bar, the Cabinet Mountain Wilderness, Kootenai Falls, and Libby.
-
-## R & P
-
-Henry’s in Libby
-
----
 
 ## Plan your trip
 

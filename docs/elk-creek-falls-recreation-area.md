@@ -1,71 +1,44 @@
 ---
 tags:
-- Waterfalls
-stats:
-- label: Waterfall
-  icon: waterfall
-  value: 'elk creek falls national recreation area trail #740'
-- label: Drop
-  icon: arrow-collapse-down
-  value: VARIES FROM 20' TO ABOUT 70', with a total of 140 '
-- label: Waterfall Type
-  icon: waterfall
-  value: Slide, tiered, plunge
-- label: Distance Car to Falls
-  icon: map-marker-distance
-  value: Lower 4 Falls are about a mile. Middle Falls is about .3 of a mile, and the
-    upper falls is about .4 miles
-- label: Maps
-  icon: map
-  value: Clearwater National Forest, and the Palouse Ranger District. 208.875.1131
-- label: GPS
-  icon: crosshairs-gps
-  value: 46°76’62" n 116°1820" w
----
-
-# Elk Creek Falls Recreation Area
-
+- Waterfalls stats:
+- label: Waterfall icon: waterfall value: 'elk creek falls national recreation area trail #740'
+- label: Drop icon: arrow-collapse-down value: VARIES FROM 20' TO ABOUT 70', with a total of 140 '
+- label: Waterfall Type icon: waterfall value: Slide, tiered, plunge
+- label: Distance Car to Falls icon: map-marker-distance value: Lower 4 Falls are about a mile. Middle Falls
+  is about .3 of a mile, and the upper falls is about .4 miles
+- label: Maps icon: map value: Clearwater National Forest, and the Palouse Ranger District. 208.875.1131
+- label: GPS icon: crosshairs-gps
+## value: 46°76’62" n 116°1820" w
+## Elk Creek Falls Recreation Area
 ## Elk creek falls national recreation area trail #740, 745, 742, & 740a
-
 ## Description
-
 Before i start this write up, you need to know that when its rainy or wet, this area can be very dangerous.
 Please use extreme caution even in dry conditions. Keep a very close eye on your children in any season. do
 not allow you or them to get too close to the edges.
-
 From the parking area, head down Trail#740 to the info sign. Bear right on Trail #745 to the Lower Falls and
 its overlook.
-
 When you continue on, look for Trails#742, and turn right (NW) to a spur trail to a view point for the
 Middle Falls.
-
 Hike #742, past Trail #740, and look for another view point for the Upper Falls.
-
 Along the way, you will notice several small falls well worth the effort to photograph.Then head north on
 Trail 740A. If its a warm summer day, you can go for a swim below the Upper Falls. BUT IF YOU DO, TAKE
 TENNIS SHOES, BECAUSE THE CREEK BED IS ROUGH.
-
 ## Option #1
-
 Drive north past the town of Elk River on F.R 382 to the Old Growth Cedar Grove also named there Morris
 Creek Cedar Grove. Some of the trees are 500 years old. The walk is short, but offers views of cool Cedar
 trees.
-
 ## Option #2
-
 Once done here, continue north to the Upper Basin Interpretive Trail.
-
 ## Option #3
-
 But the big draw here is just a ways further on 382 to F.R. #4763. Turn right (SE) for a short distance, and
 turn left (NE) onto F.R. #748 to the Giant Western Redcedar.
-
 Do n0t miss this short walk. its as big a draw as the elk creek falls. Follow the trail thru some very large
 cedars to one that will blow you away.. The U.S.F.S. built a deck around the base of this monster, because
 people were climbing on it lower trunk and damaging it. Please do not allow your children to walk on the
 tree.
-
 ---
+
+# Elk Creek Falls Recreation Area
 
 ## Directions
 

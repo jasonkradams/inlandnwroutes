@@ -1,12 +1,15 @@
+# Index
+
 ---
 tags:
-  - Lakes
-  - Hiking
-  - Backpacking
-  - Paddling
----
 
-# Alpine & Regional Lakes of the Inland Northwest
+- Lakes
+- Hiking
+- Backpacking
+
+## - Paddling
+
+## Alpine & Regional Lakes of the Inland Northwest
 
 !!! info "Quick Facts: Lakes & Waterways"
 

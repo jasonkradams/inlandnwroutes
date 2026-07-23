@@ -1,35 +1,17 @@
 ---
 tags:
-- Lakes
-stats:
-- label: Waterfall
-  icon: waterfall
-  value: St. Paul Lake Waterfalls
-- label: Drop
-  icon: arrow-collapse-down
-  value: Varies from about 25' to 60'
-- label: Waterfall Type
-  icon: hiking
-  value: Plunge, Horsetail, Tiered, Ribbon and more
-- label: Distance Car to Falls
-  icon: map-marker-distance
-  value: 4.5 miles one way
-- label: Maps
-  icon: map
-  value: Kootenai N.F., C.M.W., Elephant Peak topo
-- label: GPS
-  icon: crosshairs-gps
-  value: 48°05’24" w 115°39’32" n
----
-
-# St Paul Lake Falls
-
+- Lakes stats:
+- label: Waterfall icon: waterfall value: St. Paul Lake Waterfalls
+- label: Drop icon: arrow-collapse-down value: Varies from about 25' to 60'
+- label: Waterfall Type icon: hiking value: Plunge, Horsetail, Tiered, Ribbon and more
+- label: Distance Car to Falls icon: map-marker-distance value: 4.5 miles one way
+- label: Maps icon: map value: Kootenai N.F., C.M.W., Elephant Peak topo
+- label: GPS icon: crosshairs-gps
+## value: 48°05’24" w 115°39’32" n
+## St Paul Lake Falls
 ## St. paul lake waterfalls
-
 ## Description
-
 If you take children on this hike, use extra caution everywhere around the lake, except the south shore.
-
 Once you have reached the lake, you will not see any falls. But before heading to the south shore of the
 lake, drop your packs and take your camera with a wide angle, large telephoto, and your tripod, and very
 carefully, walk the north side of the lake up high in the trees. I suggest walking up high because the lake
@@ -37,26 +19,22 @@ has very steep shore sides. Once at the northwest corner, several waterfalls wil
 the lake and up about 200' off the lake. Use your telephoto to shoot these falls, and a few more above.
 After shooting from this side, walk very carefully back to your packs, and continue along the trail on the
 east shore. There are several places to have lunch and enjoy this small lake.
-
 ## Option #1
-
 To the south and up hill there are many waterfalls you can scramble up to. Please be careful here, because
 the rocks can be slippery. There are about a dozen falls to visit, depending on your desire to scramble to
 them.
-
 ## Directions
-
 Turn east off of Hwy 56 at about milepost 8. The trailhead is up F. R. #407 about 6 miles from Hwy 56. Along
 the way is an old Bull River Historic Ranger Station.
-
 From the trailhead Hike S.E. up the East Fork Bull River for about 2 miles to a bridge over the creek. On
 the right is Placer Creek, with the E. Fork Bull River on your left. As you leave the bridge, notice the
 stereophonic sounds of the two creeks, as you walk up from here. For most of the hike to the lake the
 sounds, are worth the hike itself. In about 1.75 miles the trail begins a few switchbacks until the lake
 appears thru the trees. St. Paul Lake is over 800 feet round and has no obvious outlet. There are two
 campsite, one as you come to the lake, and another on its south shore.
-
 ---
+
+# St Paul Lake Falls
 
 ## Cool things close by
 

@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 2388'
 notes:
-- Skidiscovery.com
+- label: Skidiscovery.com
+  url: https://skidiscovery.com
 ---
 
 # Discovery Ski Area

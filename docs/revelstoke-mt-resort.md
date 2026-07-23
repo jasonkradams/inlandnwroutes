@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 5620'
 notes:
-- Revelstokemountainresort.com
+- label: Revelstokemountainresort.com
+  url: https://revelstokemountainresort.com
 ---
 
 # Revelstoke Mt Resort

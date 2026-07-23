@@ -1,45 +1,25 @@
 ---
 tags:
-- Lakes
-stats:
-- label: Paddle Distance
-  icon: map-marker-distance
-  value: 2.5 miles.
-- label: Elevation
-  icon: terrain
-  value: 2428’
-- label: Length and Acreage
-  icon: vector-square
-  value: 1.2 miles long & 148.9 acres.
-- label: Maps
-  icon: map
-  value: Medical Lake Topo
-- label: Launch GPS
-  icon: crosshairs-gps
-  value: 47°33’46"
-- label: Spokane County Sheriff
-  icon: shield-account
-  value: 509.447.2240
+- Lakes stats:
+- label: Paddle Distance icon: map-marker-distance value: 2.5 miles.
+- label: Elevation icon: terrain value: 2428’
+- label: Length and Acreage icon: vector-square value: 1.2 miles long & 148.9 acres.
+- label: Maps icon: map value: Medical Lake Topo
+- label: Launch GPS icon: crosshairs-gps value: 47°33’46"
+- label: Spokane County Sheriff icon: shield-account
+## value: 509.447.2240
+## Medical Lake Launch
+## Medical lake & west medical lake launch
+## Description
+We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
+info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
+## Attractions
+## Directions
+## Cool things close by
+## R & P
 ---
 
 # Medical Lake Launch
-
-## Medical lake & west medical lake launch
-
-## Description
-
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-
-## Attractions
-
-## Directions
-
-## Cool things close by
-
-## R & P
-
----
 
 ## Plan your trip
 

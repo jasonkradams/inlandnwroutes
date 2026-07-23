@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 2800'
 notes:
-- Tamarackidaho.com
+- label: Tamarackidaho.com
+  url: https://tamarackidaho.com
 ---
 
 # Tamarack Resort

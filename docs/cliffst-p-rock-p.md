@@ -38,7 +38,7 @@ stats:
   value: CALL 911 FIRST or 406.827.3584
 notes:
 - Kootenai national forest/alerts
-- <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+- url: https://www.fs.usda.gov/alerts/kootenai/alerts-notices
 ---
 
 # Cliffst P Rock P

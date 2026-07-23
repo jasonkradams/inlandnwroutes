@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 2400'
 notes:
-- Schweitzer.com
+- label: Schweitzer.com
+  url: https://schweitzer.com
 ---
 
 # Schweitzer Mountain Resort

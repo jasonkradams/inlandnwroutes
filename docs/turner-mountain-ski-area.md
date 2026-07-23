@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 2110'
 notes:
-- Skiturner.com
+- label: Skiturner.com
+  url: https://skiturner.com
 ---
 
 # Turner Mountain Ski Area

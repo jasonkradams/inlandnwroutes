@@ -1,28 +1,18 @@
 ---
 tags:
-- Paddling & Rivers
-stats:
-- label: Launch GPS
-  icon: crosshairs-gps
-  value: ??° ??’ ??.?"n ???° ??’ ??.?"w
-- label: Benewah County Sheriff
-  icon: shield-account
-  value: 208.245.2555
+- Paddling & Rivers stats:
+- label: Launch GPS icon: crosshairs-gps value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+- label: Benewah County Sheriff icon: shield-account
+## value: 208.245.2555
+## Aqua Park Launch
+## Description
+## Attractions
+## Directions
+## Cool things close by
+## R & P
 ---
 
 # Aqua Park Launch
-
-## Description
-
-## Attractions
-
-## Directions
-
-## Cool things close by
-
-## R & P
-
----
 
 ## Plan your trip
 

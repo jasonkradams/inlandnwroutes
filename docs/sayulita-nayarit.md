@@ -1,75 +1,46 @@
 ---
 tags:
-- Trails & Scrambles
-stats:
-- label: Distance from Spokane
-  icon: map-marker-distance
-  value: 2,500 miles
-- label: Elevation
-  icon: terrain
-  value: 0 ft
-- label: Launch GPS
-  icon: crosshairs-gps
-  value: 20° 52’ 05.4"n 105° 26’ 20.4"w
+- Trails & Scrambles stats:
+- label: Distance from Spokane icon: map-marker-distance value: 2,500 miles
+- label: Elevation icon: terrain value: 0 ft
+- label: Launch GPS icon: crosshairs-gps
+## value: 20° 52’ 05.4"n 105° 26’ 20.4"w
+## Sayulita Nayarit
+## Description
+Sayulita is a small fishing/surfing village just north of Puerto Vallarta. There is a fair number of expats
+living on Gringo Hill and along the coast so English is pretty well understood by most residents.
+## Attractions
+Surfing, Fishing, Trail Running, Hiking, Mountain/Fat Tire Biking, Birding
+- Cemetery on the beach just south of Villa Amor
+- Massage on the beach. The further north you go up the beach the cheaper the prices get
+- Manuel hangs out at the bridge and his nephew Oscar will take you Horseback riding on the beach
+- Craft Brewery to the west of the baseball field
+- Beer Pub across the creek from the sewer plant and discharge pipe has the best beer in town (Note: the
+  semi-treated sewage discharges into the creek a hundred feet before it dumps onto the beach and into the
+  ocean. I would not walk through it)
+## Directions
+From the PV airport take the pedestrian overpass east across the highway to the city bus stop and catch the
+city buss to Sayulita. It is entertaining to ride with the locals.
+In the upper left hand corner of the map below click on the right arrow -> to expand the clickable legend
+for waypoints to points of interest.
+## Cool things close by
+Take the water taxi from PV to Jelapa for a short hike to a water fall with a full bar, trail run through
+the jungle to San Poncho, take the bus north to Chacala
+## R & P
+- Eric's Bar Mirimar - He releases the turtles with you
+- Odette's "Chiles" and Margarita is pretty darn cool. She has an outdoor court yard and musicians regularly
+  play there.
+- Sayulita Public House - Best beer in town that I could find
+- Villa Amor for a romantic lunch. You sit outdoors across the road from the establishment on the rock head
+  wall over looking the bay and across the Pacific.
+## Photo gallery
+![Picture](assets/images/img-0056.jpg)
+## The view from gringo hill
 ---
 
 # Sayulita Nayarit
 
-## Description
-
-Sayulita is a small fishing/surfing village just north of Puerto Vallarta. There is a fair number of expats
-living on Gringo Hill and along the coast so English is pretty well understood by most residents.
-
-## Attractions
-
-Surfing, Fishing, Trail Running, Hiking, Mountain/Fat Tire Biking, Birding
-
-- Cemetery on the beach just south of Villa Amor
-
-- Massage on the beach. The further north you go up the beach the cheaper the prices get
-
-- Manuel hangs out at the bridge and his nephew Oscar will take you Horseback riding on the beach
-
-- Craft Brewery to the west of the baseball field
-
-- Beer Pub across the creek from the sewer plant and discharge pipe has the best beer in town (Note: the
-  semi-treated sewage discharges into the creek a hundred feet before it dumps onto the beach and into the
-  ocean. I would not walk through it)
-
-## Directions
-
-From the PV airport take the pedestrian overpass east across the highway to the city bus stop and catch the
-city buss to Sayulita. It is entertaining to ride with the locals.
-
-In the upper left hand corner of the map below click on the right arrow -> to expand the clickable legend
-for waypoints to points of interest.
-
-## Cool things close by
-
-Take the water taxi from PV to Jelapa for a short hike to a water fall with a full bar, trail run through
-the jungle to San Poncho, take the bus north to Chacala
-
-## R & P
-
-- Eric's Bar Mirimar - He releases the turtles with you
-
-- Odette's "Chiles" and Margarita is pretty darn cool. She has an outdoor court yard and musicians regularly
-  play there.
-
-- Sayulita Public House - Best beer in town that I could find
-
-- Villa Amor for a romantic lunch. You sit outdoors across the road from the establishment on the rock head
-  wall over looking the bay and across the Pacific.
-
-## Photo gallery
-
-![Picture](assets/images/img-0056.jpg)
-
-## The view from gringo hill
-
----
-
-### Picture (Image missing)
+## Picture (Image missing)
 
 ## Make shift bridge into town. this is where the horsemen are
 

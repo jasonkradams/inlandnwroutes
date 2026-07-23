@@ -30,7 +30,8 @@ stats:
   value: call 911 first
 notes:
 - Lolo national forest/alertS
-- https[://www.fs.usda.gov/alerts/lolo/alerts-notices](https://www.fs.usda.gov/alerts/lolo/alerts-notices)
+- label: Lolo National Forest Alerts
+  url: https://www.fs.usda.gov/alerts/lolo/alerts-notices
 ---
 
 # Terrace Lake

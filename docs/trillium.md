@@ -1,55 +1,32 @@
 ---
 tags:
-- Trails & Scrambles
-stats:
-- label: Genesis Name
-  icon: book-open-variant
-  value: Trillium ovatum
-- label: Distribution
-  icon: earth
-  value: U.S....California, Colorado, Idaho, Montana, Oregon, Washington, Wyoming
-    and British Columbia
-- label: Season
-  icon: calendar
-  value: Blooms February thru June
-- label: Medical Use
-  icon: medical-bag
-  value: Several species of Trillium contain chemical compounds called sapogenins
-    that have been used medicinally though the ages as astringents, coagulants, expectorants,
-    and uterine stimulants. This is evidenced in common names given to some trilliums
-    such as birthwort and Indian balm.
-- label: Poisonous
-  icon: skull-crossbones
-  value: 'POISONOUS PARTS: Berries and roots. Only low toxicity if eaten. Toxic Principle:
-    Toxicity unknown, but caution because of its relationship with known toxic plants'
-- label: Edibility
-  icon: food-apple
-  value: Young, unfolding leaves. Wash leaves in warm water to remove dirt and debris.
-    Do not use dish detergent or any type of sanitizer. Cook in boiling, salted water
-    for ten minutes and serve like greens.
-- label: Features
-  icon: information-outline
-  value: Rhizome (A horizontal underground stem.) division or seed. Seeds do best
-    when planted outdoors soon after fruits have ripened. Seedlings take many years
-    to bloom. Divide rhizomes in fall
-- label: Leaves
-  icon: leaf
-  value: Trilliums (they all have three petals and three sepals) they are actually
-    a very complex group of plants that can confuse even the best of botanists
-- label: Fruits
-  icon: fruit-cherries
-  value: '**The trillium flower produces a fruit**, the seeds of which are spread
-    about by ants and mice. Through the summer the seeds is kept warm and moist for
-    90 or more days. This conditioning is followed by germination when a root will
-    emerge from the seed.'
----
-
-# Trillium
-
+- Trails & Scrambles stats:
+- label: Genesis Name icon: book-open-variant value: Trillium ovatum
+- label: Distribution icon: earth value: U.S....California, Colorado, Idaho, Montana, Oregon, Washington,
+  Wyoming and British Columbia
+- label: Season icon: calendar value: Blooms February thru June
+- label: Medical Use icon: medical-bag value: Several species of Trillium contain chemical compounds called
+  sapogenins that have been used medicinally though the ages as astringents, coagulants, expectorants, and
+  uterine stimulants. This is evidenced in common names given to some trilliums such as birthwort and
+  Indian balm.
+- label: Poisonous icon: skull-crossbones value: 'POISONOUS PARTS: Berries and roots. Only low toxicity if
+  eaten. Toxic Principle: Toxicity unknown, but caution because of its relationship with known toxic
+  plants'
+- label: Edibility icon: food-apple value: Young, unfolding leaves. Wash leaves in warm water to remove dirt
+  and debris. Do not use dish detergent or any type of sanitizer. Cook in boiling, salted water for ten
+  minutes and serve like greens.
+- label: Features icon: information-outline value: Rhizome (A horizontal underground stem.) division or
+  seed. Seeds do best when planted outdoors soon after fruits have ripened. Seedlings take many years to
+  bloom. Divide rhizomes in fall
+- label: Leaves icon: leaf value: Trilliums (they all have three petals and three sepals) they are actually
+  a very complex group of plants that can confuse even the best of botanists
+- label: Fruits icon: fruit-cherries value: '**The trillium flower produces a fruit**, the seeds of which
+  are spread about by ants and mice. Through the summer the seeds is kept warm and moist for 90 or more
+  days. This conditioning is followed by germination when a root will
+## emerge from the seed.'
+## Trillium
 ## Western trillium. aka waking robin
-
 ## Description
-
 The 8-20 in. stem of this variable trillium bears leaves in a whorl of three. The flower rises on a short
 stalk above the leaves and is pure white, fading to rose at the end of a week. Very large-flowered forms
 come from the Siskiyous of n.w. CA. This is a perennial plant. A low plant with 1 white flower on a short
@@ -63,16 +40,13 @@ patches west of the Cascade Mountains and in the Sierra Nevada, has no stalks at
 leaves. Its petals vary from white to maroon; if maroon, usually with a white base. Roundleaf Trillium
 ([*T. petiolatum*](https://www.wildflower.org/plants/result.php?id_plant=TRPE3)), from eastern Washington
 and Oregon, has long stalks on the leaves and dark red-brown petals.
-
 Forty-three species of trillium are known worldwide with a startling thirty-eight represented in North
 America. Within the United States, the bulk of Trillium diversity is found in the eastern states where
 ***Terrific Trilliums*** are
-
 among the favorites on many a spring wildflower walk. Their blooms can be either showy or obscure, a
 dazzling display of color on a hillside, or a chance surprise hidden under a leaf. With their eye-catching
 flowers, it is hard to imagine anyone not enjoying the sight of a trillium along a trail on a fine spring
 morning!
-
 Despite the visual simplicity of trilliums (they all have three petals and three sepals) they are actually a
 very complex group of plants that can confuse even the best of botanists. The many different species of
 trillium exhibit only a few and obscure structural differences, making separating the species difficult. One
@@ -86,14 +60,11 @@ scape, and the leaf-like structures are bracts subtending the flower. Despite th
 the bracts have external and internal structure like a leaf, function in photosynthesis, and most authors
 refer to them as leaves.Trilliums are generally divided into two major groups: the ***pedicellate*** and
 ***sessile***
-
 trilliums. In the
-
 pedicellate trilliums, the flower sits upon a pedicel that extends from the whorl of bracts, either "erect"
 above the bracts, or "nodding" recurved under the bracts. In the sessile trilliums there is no pedicel and
 the flowers appear to arise directly from the bracts. The photos below represent some of the diversity in
 each group.
-
 In addition to medicinal uses, like many of our native, showy wildflowers, trilliums are also subject to
 pressure from overzealous collectors and habitat loss due to land-use changes. If you desire to have
 trilliums in your garden, please visit a reputable nursery that propagates these species using ecologically
@@ -102,51 +73,33 @@ grasslands [requires a permit](https://www.fs.fed.us/wildflowers/ethics/permit.s
 nearest Forest Service office to [request a permit](https://www.fs.fed.us/wildflowers/ethics/permit.shtml)
 before attempting to collect any native plant products. Native trilliums and their many derived hybrids and
 cultivars are readily available from the nursery trade and should not be collected in the wild.
-
 Ten things to know about trilliums: **1. There are 39 native trilliums in the U.S.** All trillium species
 belong to the Liliaceae (lily) family.
-
 Native to
-
 temperate regions of North America and East Asia, the genus ‘Trillium’ has 49 species, 39 of them are native
 to various areas across the United States. **2. The plants are extremely long-lived.** Trilliums are
 relatively easy to grow from their rhizomatous root
-
 but slow
-
 to develop and spread. To make up for it, the plants can live for up to 25 years. **3. Early season sunlight
 is needed.** Even though it is a woodland species, the dormant plant needs to be
-
 warmed by
-
 the early spring sun. It’s best to avoid planting them in a location that never gets sun (such as the north
 side of a building). **4. Trilliums are either sessile** (the flower sits directly on top of its whorled
 leaves) **or pedicellate**
-
 (the
-
 flower is raised on a short stalk). Sessile trilliums usually have mottled foliage, while pedicellate
 trilliums have showier flowers.
-
 **5. Traditional names for trilliums:** Toadshade (for its resemblance to a toad-sized umbrella), Wakerobin
-
 (for its
-
 appearance with the first robins), and Birthroot (for its medicinal uses during childbirth). **6. Red
 Trillium (Trillium erectum) has no nectar** and is pollinated by flies (Diptera) and beetles
-
 (Coleoptera). The
-
 petals of the flowers exude an odor that attract carion flies and beetles which pollinate the flower. **7.
 Trillium grandiflorum is pollinated by Hymenoptera insects,** including honey bees, bumblebees, and
-
 wasps.
-
 **8. Trilliums are not very competitive.** It’s best to avoid planting them with very aggressive species.
 **9. Seed germination is ‘a process’.** The trillium flower produces a fruit, the seeds of which are spread
-
 about by
-
 ants and mice. Through the summer the seeds is kept warm and moist for 90 or more days. This conditioning is
 followed by germination when a root will emerge from the seed. In general, trillium seedlings do not produce
 a green leaf during their first season. The sprouted seeds are then kept damp and cool for 90 to 120 days.
@@ -157,13 +110,12 @@ are taken you won’t see renewed growth until the following year – which may 
 the size of the rhizome. This fact makes the colonies susceptible when they are heavily browsed by deer.
 Plants will die out after several years of repeated browsing. **Bonus #11!** For best results, mulch with
 leaf litter. This woodland native loves a leaf covering that
-
 replicates its
-
 forest home and keeps the ground tempreature and moisture ‘just right’ (one more reason to keep those leaves
 in your yard).
-
 ---
+
+# Trillium
 
 Oh, the first wildflower of spring is exciting! I always watch a certain spot in the woods where the
 trilliums

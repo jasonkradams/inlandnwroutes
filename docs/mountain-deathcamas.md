@@ -1,50 +1,25 @@
 ---
 tags:
-- Peaks & Mountains
-stats:
-- label: Genesis Name
-  icon: book-open-variant
-  value: Zigadenus elegans
-- label: Distribution
-  icon: earth
-  value: Most all U.S. states, except California, SW states. Most of Canada except
-    NE fringe Provinces
-- label: Season
-  icon: calendar
-  value: June, July, August
-- label: Medical Use
-  icon: medical-bag
-  value: None
-- label: Poisonous
-  icon: skull-crossbones
-  value: Yes, very toxic
-- label: Edibility
-  icon: food-apple
-  value: 'no'
-- label: Features
-  icon: information-outline
-  value: Many flowerets
-- label: Leaves
-  icon: leaf
-  value: Long slender leaves that droop.
-- label: Fruits
-  icon: fruit-cherries
-  value: Capsule type
----
-
-# Mountain Deathcamas
-
+- Peaks & Mountains stats:
+- label: Genesis Name icon: book-open-variant value: Zigadenus elegans
+- label: Distribution icon: earth value: Most all U.S. states, except California, SW states. Most of Canada
+  except NE fringe Provinces
+- label: Season icon: calendar value: June, July, August
+- label: Medical Use icon: medical-bag value: None
+- label: Poisonous icon: skull-crossbones value: Yes, very toxic
+- label: Edibility icon: food-apple value: 'no'
+- label: Features icon: information-outline value: Many flowerets
+- label: Leaves icon: leaf value: Long slender leaves that droop.
+- label: Fruits icon: fruit-cherries
+## value: Capsule type
+## Mountain Deathcamas
 ## Description
-
 Zigadenus elegans*By Charlie McDonald* "Pretty wildflower? Yes! Deadly poisonous plant? Yes!" All fresh
 parts of deathcamas (leaves, bulbs, flowers)
-
 are
-
 poisonous. Dried parts (especially seeds and capsules) are even more potent. Ingestion by humans can cause
 severe illness and occasionally death, even for adults. Livestock poisoning from deathcamas is a serious
 problem in some western rangelands.
-
 Almost every state in the United States has at least one species of deathcamas in its flora. All of the
 species are lily-like plants with linear parallel-veined leaves and flower parts in multiples of three. The
 flowers are usually whitish or cream-colored and are arranged in terminal clusters. The petals usually have
@@ -63,11 +38,8 @@ many plants with edible fruits have poisonous leaves. Always know preparation te
 require special preparation to remove or neutralize toxic substances. Never trust the wildlife. Just because
 birds or bears can eat a wild plant, does not mean it is safe for humans. Finally, if in doubt just do not
 eat wild plants.
-
 ##
-
 Don’t Eat the Death Camas… or ‘Death’ Anything
-
 Plant poisonings are a funny thing. Most people aren’t actively seeking out poisonous plants in which to
 eat, that would be dumb. Rather they mistake them for something else through an honest mistake, willful
 ignorance, or just plain foraging hubris. I hate foraging hubris. But I digress. Take the "Death Camas." I’d
@@ -77,21 +49,15 @@ different species. But botanists being botanists decided that wasn’t good enou
 Now, the Death Camas’ are spread among the Anticlea, Stenanthium, and Toxicoscordion genus, with just one
 species, *Zigadenus glaberrimus**,*left in the original*.* I find this all so confusing, which is probably
 the number one reason
-
 why I’m not
-
 a botanist. But it also makes the literature confusing when the old an new taxonomies collide. So to keep
 things clear, but draw the ire of botanists the world over, I’ll just refer to them all as *Zigadenus.*
-
 Zygacine
-
 The Death Camas are flowering plants that are native throughout the United States and generally reach
 several feet in height. The flowers grow as panicles – a cluster of flowers – that can (kinda) resemble
 those of onions (*Allium).* Making matters worse, both have bulbs, which is unfortunate because the Death
 Camas are highly poisonous. All
-
 parts of
-
 the plants, from the leaves to the bulbs, contain zygacine, a steroidal toxin that binds to sodium channels,
 prolonging their activation. This decrease in excitability can lead to cardiac and neurotoxicity. Faithful
 readers will remember that this "open" state not only causes varying degrees of paralysis, but an increase
@@ -100,7 +66,6 @@ acetylcholine can cause the cholinergic toxidrome remembered by the acronym we a
 Salivation, Lacrimation, Urination, Defecation, GI upset, and Emesis. If this type of poisoning sounds
 familiar, it’s because it is similar to that of the
 [grayanotoxins and "mad honey."](https://naturespoisons.com/2014/05/08/grayanotoxins-of-rhododendrons-and-mad-honey/)
-
 [edit: The "Death Camas" can also be confused with "Common Camas", but of a different family, which has
 historically been an important food source for northwestern Native Americans. Thanks to Tom McKenzie
 bringing it up.] Death Camas (Zigadenus elegans) by
@@ -110,16 +75,13 @@ exactly rare either. In the western United States, the Lewis and Clark expeditio
 bulb that may have been *Zigadenus*, and in a turn-of the-tables, early Mormon settlers in Utah were
 poisoned by Native Americans selling the plants as food (1). The knowledge of properly identifying
 *Zigadenus* though has not been passed
-
 down to all
-
 Native Americans, however. In 1994 a 50-year old Navajo man dug up and ate what he thought were wild onions
 while hiking with his daughters. An hour after ingestion he experienced ataxia (a loss of voluntary muscle
 movement and uncoordination), nausea, and vomiting. On admittance to the emergency department his blood
 pressure was a low, 80/50 mmHg, and he was given IV fluids and his cardiac functions monitored. His family
 retrieved the "wild onions", which were later confirmed to be *Zigadenus.*Generally, those that are poisoned
 receive standard supportive care, and recover after a few days, like our gentleman here (2).
-
 While there is no traditional "antidote" for zygacine poisoning, one reported case study successfully
 treated the resulting bradycardia (heart rate <60 beats per minute) with atropine, and hypotension (low
 blood pressure) with dopamine (3). The use of atropine in this case is interesting, because while also
@@ -132,8 +94,9 @@ as gastric lavage, which is a dying breed these days anyways, and activated char
 aspiration in a vomiting individual (3). So be careful, as deaths have occurred, and like always, never eat
 anything unless you are 100% certain of what it is. Especially if it’s called "death" anything. And if you
 do know of something that we eat that has "death" in it, leave a comment!
-
 ---
+
+# Mountain Deathcamas
 
 ## Photo gallery
 

@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 1000 + 1300' above
 notes:
-- Skitetonmt.com
+- label: Skitetonmt.com
+  url: https://skitetonmt.com
 ---
 
 # Teton Pass Resort

@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 2250'
 notes:
-- Missionridge.com
+- label: Missionridge.com
+  url: https://missionridge.com
 ---
 
 # Mission Ridge Ski  Board Resort

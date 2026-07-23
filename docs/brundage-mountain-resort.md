@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 1921'
 notes:
-- Brundagemountain.com
+- label: Brundagemountain.com
+  url: https://brundagemountain.com
 ---
 
 # Brundage Mountain Resort

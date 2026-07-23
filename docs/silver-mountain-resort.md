@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 2200'
 notes:
-- Silvermt.com
+- label: Silvermt.com
+  url: https://silvermt.com
 ---
 
 # Silver Mountain Resort

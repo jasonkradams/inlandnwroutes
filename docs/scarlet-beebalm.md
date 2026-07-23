@@ -55,17 +55,8 @@ notes:
   flower heads allows for easier seed extraction and then pass the crushed heads into
   a 1/25 screen to separate out the seeds. Germination is greatly enhanced by a cool,
   moist stratification for 2 to 3 weeks.
-- Beebalms are coarse herbs and many gardeners have a love-hate relationship with
-  because of their ability to spread by seed throughout a flowerbed and their susceptibility
-  to succumb to powdery mildew in humid climates. The chance of becoming infected
-  with powdery mildew can be lessened by growing in full sunlight and pruning within
-  the clump to increase airflow. Scarlet beebalm grows best in full sunlight, but
-  also does well in dappled shade although the flowering will be sparser. Scarlet
-  beebalm grows best in moist, fertile soil, where they will spread, and easily forming
-  sizeable colonies. If you want to eliminate self-sowing, remove the flower heads
-  as soon as they are done blooming. Propagation is easiest by division in autumn
-  or spring. They are a premiere nectar plant and should be included in anyone's [butterfly
-  garden](https://www.fs.fed.us/wildflowers/pollinators/gardening.shtml).
+- label: butterfly garden
+  url: https://www.fs.fed.us/wildflowers/pollinators/gardening.shtml
 ---
 
 # Scarlet Beebalm

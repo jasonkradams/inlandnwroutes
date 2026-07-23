@@ -1,42 +1,23 @@
 ---
 tags:
-- Winter & Skiing
-stats:
-- label: Phone
-  icon: phone
-  value: 509.238.2220
-- label: Acres
-  icon: vector-square
-  value: '1704'
-- label: Average Snow Fall
-  icon: weather-snowy-heavy
-  value: 200"
-- label: Summit Elevation
-  icon: terrain
-  value: 5889'
-- label: Base Elevation
-  icon: terrain
-  value: 4400'
-- label: Verts
-  icon: arrow-expand-vertical
-  value: 1689'
+- Winter & Skiing stats:
+- label: Phone icon: phone value: 509.238.2220
+- label: Acres icon: vector-square value: '1704'
+- label: Average Snow Fall icon: weather-snowy-heavy value: 200"
+- label: Summit Elevation icon: terrain value: 5889'
+- label: Base Elevation icon: terrain value: 4400'
+- label: Verts icon: arrow-expand-vertical
+## value: 1689'
+## Mount Spokane Ski  Snowboard Park
+!!! warning "Before you go"
+    Mount spokane ski & snowboard park Mountspokane.com
+## Spokane, wa
+## of named runs: 52
+## of lifts: 6
+Miles from spokane: 35 miles Other amenities: xc skiing & night sking
 ---
 
 # Mount Spokane Ski  Snowboard Park
-
-!!! warning "Before you go"
-
-    Mount spokane ski & snowboard park Mountspokane.com
-
-## Spokane, wa
-
-## of named runs: 52
-
-## of lifts: 6
-
-Miles from spokane: 35 miles Other amenities: xc skiing & night sking
-
----
 
 ## Description
 

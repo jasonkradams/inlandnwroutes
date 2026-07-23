@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 1377'
 notes:
-- Apexresort.com
+- label: Apexresort.com
+  url: https://apexresort.com
 ---
 
 # Apex Mountain Resort

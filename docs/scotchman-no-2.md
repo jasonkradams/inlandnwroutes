@@ -4,38 +4,22 @@ tags:
 - Difficult
 - Day Hike
 - Backpack
-- Crosscountry
-stats:
-- label: Event Type
-  icon: hiking
-  value: Day Hike, Backpack, Crosscountry
-- label: Distance
-  icon: map-marker-distance
-  value: 14+ miles?
-- label: Elevation
-  icon: terrain
-  value: 3,600 feet
-- label: Difficulty
-  icon: speedometer
-  value: Difficult
-- label: GPS
-  icon: crosshairs-gps
-  value: '[48°12''52.4"n 116°03''09.2"w](https://www.google.com/maps/place/48°14''51.0%22N+116°05''51.8%22W/@48.2363894,-116.0758913,8489m/data=!3m1!1e3!4m6!3m5!1s0x0:0x0!7e2!8m2!3d48.2474976!4d-116.097728?hl=en)'
+- Crosscountry stats:
+- label: Event Type icon: hiking value: Day Hike, Backpack, Crosscountry
+- label: Distance icon: map-marker-distance value: 14+ miles?
+- label: Elevation icon: terrain value: 3,600 feet
+- label: Difficulty icon: speedometer value: Difficult
+- label: GPS icon: crosshairs-gps
+## value: '[48°12''52.4"n 116°03''09.2"w](https://www.google.com/maps/place/48°14''51.0%22N+116°05''51.8%22W/@48.2363894,-116.0758913,8489m/data=!3m1!1e3!4m6!3m5!1s0x0:0x0!7e2!8m2!3d48.2474976!4d-116.097728?hl=en)'
+## Scotchman No 2
+## Scotchman no. 2 research natural area 6,989’
+## Description
+## Option #1
+## Option #2
+## Option #3
 ---
 
 # Scotchman No 2
-
-## Scotchman no. 2 research natural area 6,989’
-
-## Description
-
-## Option #1
-
-## Option #2
-
-## Option #3
-
----
 
 ## Directions
 

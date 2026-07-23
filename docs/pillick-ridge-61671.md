@@ -29,7 +29,8 @@ stats:
   value: Cabinet R.D. 406.827.3533
 notes:
 - 'SANDERS COUNTY SHERIFF, MT: CALL 911 FIRST or 406.827.3584'
-- Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+- label: Kootenai National Forest Alerts
+  url: https://www.fs.usda.gov/alerts/kootenai/alerts-notices
 ---
 
 # Pillick Ridge 61671

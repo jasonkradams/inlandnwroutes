@@ -1,31 +1,20 @@
 ---
 tags:
-- Paddling & Rivers
-stats:
-- label: Launch GPS
-  icon: crosshairs-gps
-  value: ??° ??’ ??.?"n ???° ??’ ??.?"w
-- label: Spokane County Sheriff
-  icon: shield-account
-  value: 509.447.2240
+- Paddling & Rivers stats:
+- label: Launch GPS icon: crosshairs-gps value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+- label: Spokane County Sheriff icon: shield-account
+## value: 509.447.2240
+## 9 Mile Recreation Area Launch
+## Description
+We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
+info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
+## Attractions
+## Directions
+## Cool things close by
+## R & P
 ---
 
 # 9 Mile Recreation Area Launch
-
-## Description
-
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-
-## Attractions
-
-## Directions
-
-## Cool things close by
-
-## R & P
-
----
 
 ## Plan your trip
 

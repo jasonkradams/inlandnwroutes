@@ -36,7 +36,7 @@ stats:
   value: 911 or 406.827.3584
 notes:
 - Kootenai national forest/alerts
-- <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+- url: https://www.fs.usda.gov/alerts/kootenai/alerts-notices
 ---
 
 # St Paul Lake

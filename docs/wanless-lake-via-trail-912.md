@@ -1,27 +1,28 @@
 ---
 tags:
-  - Lakes
-  - Strenuous
-  - Backpacking
-  - Camping
+- Lakes
+- Strenuous
+- Backpacking
+- Camping
 stats:
-  - label: Event Type
-    icon: hiking
-    value: Backpacking, camping, wilderness trail
-  - label: Distance
-    icon: map-marker-distance
-    value: 12.1 miles one way (Trail #912 to Lost Buck Pass)
-  - label: Elevation Gain
-    icon: elevation-rise
-    value: 3,221' gain to Lost Buck Pass (4,389' at Buck Lake)
-  - label: Difficulty
-    icon: speedometer
-    value: Strenuous
-  - label: Maps
-    icon: map
-    value: Kootenai N.F. - Cabinet Mountain Wilderness USGS topo
+- label: Event Type
+  icon: hiking
+  value: Backpacking, camping, wilderness trail
+- label: Distance
+  icon: map-marker-distance
+  value: 12.1 miles one way (Trail
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 3,221' gain to Lost Buck Pass (4,389' at Buck Lake)
+- label: Difficulty
+  icon: speedometer
+  value: Strenuous
+- label: Maps
+  icon: map
+  value: Kootenai N.F. - Cabinet Mountain Wilderness USGS topo
 notes:
-  - "[Kootenai National Forest Alerts](https://www.fs.usda.gov/alerts/kootenai/alerts-notices)"
+- label: Kootenai National Forest Alerts
+  url: https://www.fs.usda.gov/alerts/kootenai/alerts-notices
 ---
 
 # Wanless Lake via Swamp Creek (Trail #912 & #912A)

@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 2494'
 notes:
-- Solitudemountain.com
+- label: Solitudemountain.com
+  url: https://solitudemountain.com
 ---
 
 # Solitude Mountain

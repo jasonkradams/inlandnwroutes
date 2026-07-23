@@ -34,7 +34,7 @@ stats:
   value: CALL 911 FIRST or [406.293.4112
 notes:
 - '](tel:406.293.4112)Kootenai national forest/alerts'
-- <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+- url: https://www.fs.usda.gov/alerts/kootenai/alerts-notices
 ---
 
 # Wanless Lake Via Trailrsquos 656 360 912

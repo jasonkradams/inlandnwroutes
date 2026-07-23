@@ -1,32 +1,16 @@
 ---
 tags:
-- Waterfalls
-stats:
-- label: Waterfall
-  icon: waterfall
-  value: 'Rock Creek Falls Trail #935'
-- label: Drop
-  icon: arrow-collapse-down
-  value: About 40'
-- label: Waterfall Type
-  icon: waterfall
-  value: Slider
-- label: Distance Car to Falls
-  icon: map-marker-distance
-  value: 2.5 miles
-- label: Maps
-  icon: map
-  value: Kootenai N.F., Cabinet Ranger District 406.827.3533 Elephant Perak, Howard
-    Lake topos
-- label: GPS
-  icon: crosshairs-gps
-  value: Trailhead 48°02’?24" N 115°40’47" W. Rock Lake 48°03'33' N 115°37'41' W
----
-
-# Rock Creek Falls
-
+- Waterfalls stats:
+- label: Waterfall icon: waterfall value: 'Rock Creek Falls Trail #935'
+- label: Drop icon: arrow-collapse-down value: About 40'
+- label: Waterfall Type icon: waterfall value: Slider
+- label: Distance Car to Falls icon: map-marker-distance value: 2.5 miles
+- label: Maps icon: map value: Kootenai N.F., Cabinet Ranger District 406.827.3533 Elephant Perak, Howard
+  Lake topos
+- label: GPS icon: crosshairs-gps
+## value: Trailhead 48°02’?24" N 115°40’47" W. Rock Lake 48°03'33' N 115°37'41' W
+## Rock Creek Falls
 ## Description
-
 Although Rock Lake is 4.2 miles in, it offers many reasons to visit it. The trail along Rock Creek has
 several tributaries that are sometimes difficult to cross in spring and early summer. In about .6 miles is
 an old mining camp with several building to explore. At a little over 3 miles, off to your right (S) is the
@@ -36,14 +20,13 @@ Creek Falls. As you approach the falls, take notice of the trail to Rock Lake on
 while here and photograph the Falls, and wonder just what all this machinery was for. In less then a mile,
 you see Rock Lake for the first time. Walk the level trail out to a pennisula. You are now at the SE end of
 Rock Lake.
-
 ## Option #1
-
 To further your hike, walk the left (SW) side of the lake all the way back to its NW end. If you are very
 ambitious, continue up the valley above the lake to St. Paul Pass. If you were to continue over the pass, it
 will take you to St. Paul Lake.
-
 ---
+
+# Rock Creek Falls
 
 ## Directions
 

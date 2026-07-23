@@ -1,39 +1,40 @@
 ---
 tags:
-  - Lakes
-  - Hiking
-  - Backpacking
-  - Camping
-  - Fishing
-  - Scrambling
-  - ADA Accessible
+- Lakes
+- Hiking
+- Backpacking
+- Camping
+- Fishing
+- Scrambling
+- ADA Accessible
 stats:
-  - label: Event Type
-    icon: hiking
-    value: Hiking, backpacking, camping, fishing, scrambling, ADA accessible
-  - label: Distance
-    icon: map-marker-distance
-    value: 3rd Lake is 4.0 miles RT (Loop ~4.3 miles)
-  - label: Elevation Gain
-    icon: elevation-rise
-    value: 535' gain to high point 6,410' (1,588' gain for Peak scramble)
-  - label: Difficulty
-    icon: speedometer
-    value: Easy to lakes, strenuous off-trail scramble to Roman Nose Peak
-  - label: Maps
-    icon: map
-    value: IPNF - Kaniksu N.F., Roman Nose USGS topo
-  - label: GPS
-    icon: crosshairs-gps
-    value: Roman Nose Lake 48°38’07"N 116°35’14"W (Peak 48°37’39"N 116°35’37"W)
-  - label: Ranger District
-    icon: pine-tree
-    value: Bonners Ferry R.D. (208.267.5561)
-  - label: Boundary County Sheriff
-    icon: shield-account
-    value: CALL 911 FIRST, or 208.267.3151
+- label: Event Type
+  icon: hiking
+  value: Hiking, backpacking, camping, fishing, scrambling, ADA accessible
+- label: Distance
+  icon: map-marker-distance
+  value: 3rd Lake is 4.0 miles RT (Loop ~4.3 miles)
+- label: Elevation Gain
+  icon: elevation-rise
+  value: 535' gain to high point 6,410' (1,588' gain for Peak scramble)
+- label: Difficulty
+  icon: speedometer
+  value: Easy to lakes, strenuous off-trail scramble to Roman Nose Peak
+- label: Maps
+  icon: map
+  value: IPNF - Kaniksu N.F., Roman Nose USGS topo
+- label: GPS
+  icon: crosshairs-gps
+  value: Roman Nose Lake 48°38’07"N 116°35’14"W (Peak 48°37’39"N 116°35’37"W)
+- label: Ranger District
+  icon: pine-tree
+  value: Bonners Ferry R.D. (208.267.5561)
+- label: Boundary County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST, or 208.267.3151
 notes:
-  - "[Idaho Panhandle National Forests Alerts](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)"
+- label: Idaho Panhandle National Forests Alerts
+  url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 
 # Roman Nose Lakes & Peak (Trail #160 & #165)

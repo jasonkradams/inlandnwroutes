@@ -1,49 +1,28 @@
 ---
 tags:
-- Paddling & Rivers
-stats:
-- label: Paddle Distance
-  icon: map-marker-distance
-  value: varies
-- label: Elevation
-  icon: terrain
-  value: 2066’
-- label: Length and Acreage
-  icon: vector-square
-  value: varies
-- label: Maps
-  icon: map
-  value: IPNF, Sandpoint Topo
-- label: Launch GPS
-  icon: crosshairs-gps
-  value: 48°14’13" n. 116°35’12" w
+- Paddling & Rivers stats:
+- label: Paddle Distance icon: map-marker-distance value: varies
+- label: Elevation icon: terrain value: 2066’
+- label: Length and Acreage icon: vector-square value: varies
+- label: Maps icon: map value: IPNF, Sandpoint Topo
+- label: Launch GPS icon: crosshairs-gps
+## value: 48°14’13" n. 116°35’12" w
+## Springy Point Camp Ground Launch
+## Description
+The Springy Point Camp Grounds have all the amenities a good camp ground should have, including a good
+swimming area, restrooms and many camp sites
+## Attractions
+Close to Sandpoint on the south side of the Pend Orielle River. The Long Bridge, and Pend Orielle Lake.
+## Directions
+As you drive up towards Sandpoint, turn left (west) onto Lakeshore Drive, just before crossing the long
+Bridge. Stay on Lakeshore Drive for just over 3 miles to the Springy Point Camp Grounds.
+## Cool things close by
+Dover, Sandpoint, the Long Bridge, Pend Orielle Lake and City Beach, and Round Lake State Park.
+## R & P
+Burger a Express, Mr Sub, Eichardt’s, and Jalapeños.
 ---
 
 # Springy Point Camp Ground Launch
-
-## Description
-
-The Springy Point Camp Grounds have all the amenities a good camp ground should have, including a good
-swimming area, restrooms and many camp sites
-
-## Attractions
-
-Close to Sandpoint on the south side of the Pend Orielle River. The Long Bridge, and Pend Orielle Lake.
-
-## Directions
-
-As you drive up towards Sandpoint, turn left (west) onto Lakeshore Drive, just before crossing the long
-Bridge. Stay on Lakeshore Drive for just over 3 miles to the Springy Point Camp Grounds.
-
-## Cool things close by
-
-Dover, Sandpoint, the Long Bridge, Pend Orielle Lake and City Beach, and Round Lake State Park.
-
-## R & P
-
-Burger a Express, Mr Sub, Eichardt’s, and Jalapeños.
-
----
 
 ## Plan your trip
 

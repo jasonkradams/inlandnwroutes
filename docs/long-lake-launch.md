@@ -1,34 +1,22 @@
 ---
 tags:
-- Lakes
-stats:
-- label: Launch GPS
-  icon: crosshairs-gps
-  value: ??° ??’ ??.?"n ???° ??’ ??.?"w
-- label: Spokane County Sheriff
-  icon: shield-account
-  value: 509.477.2240
+- Lakes stats:
+- label: Launch GPS icon: crosshairs-gps value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+- label: Spokane County Sheriff icon: shield-account
+## value: 509.477.2240
+## Long Lake Launch
+## Description
+We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
+info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
+We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
+info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
+## Attractions
+## Directions
+## Cool things close by
+## R & P
 ---
 
 # Long Lake Launch
-
-## Description
-
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an emergency ocurrs, evaluate your circumstances and call only if needed.
-
-## Attractions
-
-## Directions
-
-## Cool things close by
-
-## R & P
-
----
 
 ## Plan your trip
 

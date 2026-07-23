@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: '1125'
 notes:
-- Bluewood.com
+- label: Bluewood.com
+  url: https://bluewood.com
 ---
 
 # Bluewood

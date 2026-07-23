@@ -4,38 +4,18 @@ tags:
 - Moderately Easy
 - Hiking
 - Paddling
-- Climbing
-stats:
-- label: Event Type
-  icon: hiking
-  value: Hiking, paddling, & climbing
-- label: Distance
-  icon: map-marker-distance
-  value: 4.5 mile RT loop
-- label: Elevation
-  icon: terrain
-  value: 1150' cumulative gain.
-- label: Difficulty
-  icon: speedometer
-  value: Moderately easy
-- label: Maps
-  icon: map
-  value: Smith Rocks State Park
-- label: GPS
-  icon: crosshairs-gps
-  value: 44° 21’ 32"n 121° 09’ 00"w
-- label: Sisters Ranger District
-  icon: pine-tree
-  value: '[541.549.7700](tel:541.549.7700)'
-- label: Deschutes County Sheriff
-  icon: shield-account
-  value: CALL 911 FIRST or [541.388.6655](tel:541.388.6655)
----
-
-# Smith Rocks
-
+- Climbing stats:
+- label: Event Type icon: hiking value: Hiking, paddling, & climbing
+- label: Distance icon: map-marker-distance value: 4.5 mile RT loop
+- label: Elevation icon: terrain value: 1150' cumulative gain.
+- label: Difficulty icon: speedometer value: Moderately easy
+- label: Maps icon: map value: Smith Rocks State Park
+- label: GPS icon: crosshairs-gps value: 44° 21’ 32"n 121° 09’ 00"w
+- label: Sisters Ranger District icon: pine-tree value: '[541.549.7700](tel:541.549.7700)'
+- label: Deschutes County Sheriff icon: shield-account
+## value: CALL 911 FIRST or [541.388.6655](tel:541.388.6655)
+## Smith Rocks
 ## Description
-
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
 info. if an emergency ocurrs, evaluate your circumstances and call only if needed. Features: This is one of
 the most popular hiking and rock climbing areas in Oregon. After one visit, you'll see why. Thisplace is
@@ -51,8 +31,9 @@ can complete your loop hike by following the trail back down to the bridge where
 are alot of wonderful things to enjoy here at Smith Rock. Each season will offer appropriate opportunities
 to satisfy your desire for a great day in the out-of-doors. You can't go wrong with a trip to Smith Rock
 State Park! enjoy.
-
 ---
+
+# Smith Rocks
 
 ## Directions
 

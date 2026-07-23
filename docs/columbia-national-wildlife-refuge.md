@@ -3,113 +3,61 @@ tags:
 - Trails & Scrambles
 - Easy
 - Hiking
-- Birding
-stats:
-- label: Event Type
-  icon: hiking
-  value: Hiking, Birding
-- label: Distance
-  icon: map-marker-distance
-  value: 3 miles
-- label: Elevation
-  icon: terrain
-  value: 200' gain and loss
-- label: Difficulty
-  icon: speedometer
-  value: Easy
-- label: Maps
-  icon: map
-  value: USGS Soda Lake and O'Sullivan Dam
-- label: GPS
-  icon: crosshairs-gps
-  value: 46° 53’ 56.2"n 119° 15’ 57.4"w
-- label: Managing Agency
-  icon: domain
-  value: U.S. Fish & Wildlife Service [509.546.8300](tel:509.546.8300)
-- label: Grant County Sheriff
-  icon: shield-account
-  value: '[509.754.2011](tel:509.754.2011)'
-- label: Adams County Sheriff
-  icon: shield-account
-  value: CALL 911 FIRST or [508.659.1122](tel:508.659.1122)
+- Birding stats:
+- label: Event Type icon: hiking value: Hiking, Birding
+- label: Distance icon: map-marker-distance value: 3 miles
+- label: Elevation icon: terrain value: 200' gain and loss
+- label: Difficulty icon: speedometer value: Easy
+- label: Maps icon: map value: USGS Soda Lake and O'Sullivan Dam
+- label: GPS icon: crosshairs-gps value: 46° 53’ 56.2"n 119° 15’ 57.4"w
+- label: Managing Agency icon: domain value: U.S. Fish & Wildlife Service [509.546.8300](tel:509.546.8300)
+- label: Grant County Sheriff icon: shield-account value: '[509.754.2011](tel:509.754.2011)'
+- label: Adams County Sheriff icon: shield-account
+## value: CALL 911 FIRST or [508.659.1122](tel:508.659.1122)
+## Columbia National Wildlife Refuge
+## Columbia national wildlife refuge 1,000’
+## Description
+We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
+info. if an emergency ocurrs, evaluate your circumstances and call only if needed. **Facts**
+- 75,000 individual waterfowl roost and loaf here
+- 50,000 square miles of Washington, Oregon and Idaho are covered in basalt
+- In places the basalt is nearly three miles thick
+- Lake Missoula covered 3,000 square miles, and contained an estimated 500 cubic miles of water at a maximum
+  depth of 2,000
+- The flow rate of the flood is estimated at 600 million cubic feet per second
+- There may have been as many as 100 separate flood events
+- The Drumheller Channels National Natural Landmark area is one of the most spectacularly eroded areas of
+  its size in the world
+- Moses Lake 15 miles to the north was one of the largest permanent Indian encampments. Upto 6,000 people
+  lived or traded here including tribes from the Dakotas, Montana and the Pacific coast.
+- The local Sinkiuse-Columbia Tribe exchanged Columbia River salmon, camas roots and fiber from dogbane with
+  the other tribes
+### Hiking
+- The areas including Marsh Loop, Crab Creek, Frog Lake and Upper/Lower Hampton Lake are closed for hiking
+  October 1 to March 1
+- The area around Royal Lake is closed year round
+- Marsh Unit #1 and Corfu Road fields are closed February 1 to April 30
+- The Mesa west of Marsh Unit #2 is open year round and is adjacent to Washington Department of Fish and
+  Wildlife areas that appear to be open to the public use
+### Birding
+- Royal Lake offers the best viewing of large numbers of birds from a distance
+- Marsh Unit #1 has large numbers of Sandhill Cranes between February 1 and April 30 again from a distance
+- Fields planted in corn last year will attract birds this year
+### Bird Counts
+- Thousands of Snow Geese
+- Hundreds of Sandhill Cranes
+- Hundreds of A. Coots
+- Hundreds of Canada Geese
+- Tens of Pin Tail Ducks
+## Option #1
+Bring a chair and a picnic lunch to Royal Lake and sit, watch and listen
+## Option #2
+Hike cross country on the Mesa west of the parking lot for Marsh Unit #2
+## Option #3
+Hike north cross country from the Hampton Lake boat launch
 ---
 
 # Columbia National Wildlife Refuge
-
-## Columbia national wildlife refuge 1,000’
-
-## Description
-
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an emergency ocurrs, evaluate your circumstances and call only if needed. **Facts**
-
-- 75,000 individual waterfowl roost and loaf here
-
-- 50,000 square miles of Washington, Oregon and Idaho are covered in basalt
-
-- In places the basalt is nearly three miles thick
-
-- Lake Missoula covered 3,000 square miles, and contained an estimated 500 cubic miles of water at a maximum
-  depth of 2,000
-
-- The flow rate of the flood is estimated at 600 million cubic feet per second
-
-- There may have been as many as 100 separate flood events
-
-- The Drumheller Channels National Natural Landmark area is one of the most spectacularly eroded areas of
-  its size in the world
-
-- Moses Lake 15 miles to the north was one of the largest permanent Indian encampments. Upto 6,000 people
-  lived or traded here including tribes from the Dakotas, Montana and the Pacific coast.
-
-- The local Sinkiuse-Columbia Tribe exchanged Columbia River salmon, camas roots and fiber from dogbane with
-  the other tribes
-
-### Hiking
-
-- The areas including Marsh Loop, Crab Creek, Frog Lake and Upper/Lower Hampton Lake are closed for hiking
-  October 1 to March 1
-
-- The area around Royal Lake is closed year round
-
-- Marsh Unit #1 and Corfu Road fields are closed February 1 to April 30
-
-- The Mesa west of Marsh Unit #2 is open year round and is adjacent to Washington Department of Fish and
-  Wildlife areas that appear to be open to the public use
-
-### Birding
-
-- Royal Lake offers the best viewing of large numbers of birds from a distance
-
-- Marsh Unit #1 has large numbers of Sandhill Cranes between February 1 and April 30 again from a distance
-
-- Fields planted in corn last year will attract birds this year
-
-### Bird Counts
-
-- Thousands of Snow Geese
-
-- Hundreds of Sandhill Cranes
-
-- Hundreds of A. Coots
-
-- Hundreds of Canada Geese
-
-- Tens of Pin Tail Ducks
-
-## Option #1
-
-Bring a chair and a picnic lunch to Royal Lake and sit, watch and listen
-
-## Option #2
-
-Hike cross country on the Mesa west of the parking lot for Marsh Unit #2
-
-## Option #3
-
-Hike north cross country from the Hampton Lake boat launch
-
----
 
 ## Directions
 

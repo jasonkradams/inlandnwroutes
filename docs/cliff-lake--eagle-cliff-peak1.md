@@ -33,7 +33,8 @@ notes:
 - Cliff Lake. 47°08’28" N 115°01’19" W
 - Eagle Cliff Peak. 47°07’46" N 115°11’09" W
 - Lolo national forest/alerts
-- https[://www.fs.usda.gov/alerts/lolo/alerts-notices](https://www.fs.usda.gov/alerts/lolo/alerts-notices)
+- label: Lolo National Forest Alerts
+  url: https://www.fs.usda.gov/alerts/lolo/alerts-notices
 ---
 
 # Cliff Lake  Eagle Cliff Peak1

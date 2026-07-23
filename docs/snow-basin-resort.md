@@ -21,7 +21,8 @@ stats:
   icon: arrow-expand-vertical
   value: 2900'
 notes:
-- Snowbasinresort.com
+- label: Snowbasinresort.com
+  url: https://snowbasinresort.com
 ---
 
 # Snow Basin Resort

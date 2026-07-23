@@ -58,7 +58,7 @@ friend would be evacuated safely without a complicated ground carryout.
     - **Base:** Kalispell, Montana (serving the Inland Northwest).
     - **Cost to Patient:** 100% Free search and rescue support ($0 cost to the patient).
     - **Evacuation:** The hiker was airlifted directly to Lookout Pass Ski Area parking lot, where an
-      ambulance was waiting.
+    ambulance was waiting.
 
 ## Preparation & Resources
 

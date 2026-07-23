@@ -1,28 +1,18 @@
 ---
 tags:
-- Waterfalls
-stats:
-- label: Launch GPS
-  icon: crosshairs-gps
-  value: ??° ??’ ??.?"n ???° ??’ ??.?"w
-- label: Sanders County Sheriff
-  icon: shield-account
-  value: 406.827.3584
+- Waterfalls stats:
+- label: Launch GPS icon: crosshairs-gps value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+- label: Sanders County Sheriff icon: shield-account
+## value: 406.827.3584
+## Thompson Falls State Park
+## Description
+## Attractions
+## Directions
+## Cool things close by
+## R & P
 ---
 
 # Thompson Falls State Park
-
-## Description
-
-## Attractions
-
-## Directions
-
-## Cool things close by
-
-## R & P
-
----
 
 ## Plan your trip
 
