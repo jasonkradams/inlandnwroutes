@@ -1,10 +1,15 @@
 ---
 title: "Blog #7: Othello Sandhill Crane Festival"
+
 date: 2023-04-30
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 

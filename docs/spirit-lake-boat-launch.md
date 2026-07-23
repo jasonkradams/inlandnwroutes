@@ -1,12 +1,17 @@
 ---
 tags:
+
 - Lakes
+
 stats:
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: ??° ??’ ??.?"n ???° ??’ ??.?"w
 ---
+
 # Spirit Lake Boat Launch
+
 *St. joe and st. maries rivers*
 
 ## Description

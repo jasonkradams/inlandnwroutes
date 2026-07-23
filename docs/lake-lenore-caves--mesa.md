@@ -1,34 +1,48 @@
 ---
 tags:
+
 - Lakes
+
 - Easy
+
 - Day Hiking
+
 - Historical Hike
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, and historical hike
+
 - label: Distance
   icon: map-marker-distance
   value: 3 miles RT
+
 - label: Elevation
   icon: terrain
   value: 200’
+
 - label: Acres
   icon: vector-square
   value: 1670 total
+
 - label: Difficulty
   icon: speedometer
   value: easy
+
 - label: Maps
   icon: map
   value: Sun Lakes-Dry Falls State Park & W.D.F & W, Banks Lake & Moses Lake topos
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°32’03" n 119°29’ 38" w
+
 - label: Managing Agency
   icon: domain
   value: w.d.f.&w. 509.486.7275
+
 - label: Grant County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 509.754.2011

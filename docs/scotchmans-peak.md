@@ -1,36 +1,51 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Moderately Difficult to Difficult
+
 - Day Hiking
+
 - Backpacking
+
 - Sshoeing
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, sshoeing
+
 - label: Distance
   icon: map-marker-distance
   value: 8 miles RT
+
 - label: Elevation Gain
   icon: elevation-rise
   value: 3700 verts
+
 - label: Difficulty
   icon: speedometer
   value: Moderately difficult to difficult
+
 - label: Maps
   icon: map
   value: IPNF, Scotchmans Peak & Clark Fork topos
+
 - label: GPS
   icon: crosshairs-gps
   value: 48°11’18" n 116°69’16" w
+
 - label: Ranger District
   icon: pine-tree
   value: Sandpoint R.D. 208.263.5111
+
 - label: Bonner County Sheriff
   icon: shield-account
   value: 911 or 208.263.8417
 notes:
+
 - Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 

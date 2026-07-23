@@ -1,10 +1,15 @@
 ---
 title: "Blog #29: Determining areas on fire and smoke plume"
+
 date: 2023-08-22
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 

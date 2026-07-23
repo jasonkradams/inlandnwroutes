@@ -1,27 +1,36 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Genesis Name
   icon: book-open-variant
   value: Monarada didyma
+
 - label: Distribution
   icon: earth
   value: Washington, Oregon, Idaho and eastern U.S & Canada
+
 - label: Season
   icon: calendar
   value: May thru Roctober
+
 - label: Medical Use
   icon: medical-bag
   value: It's a potent medicinal and **a tasty edible too**. There are two main varieties,
     Monarda didyma, or scarlet bee balm is what you'll see most commonly in garden
     perennial beds. ... Both species are edible and medicinal and have similar properties.
+
 - label: Poisonous
   icon: skull-crossbones
   value: 'No'
+
 - label: Edible
   icon: food-apple
   value: 'Yes'
+
 - label: Features
   icon: information-outline
   value: Scarlet beebalm is aromatic herb a member of the mint family. It is also
@@ -46,6 +55,7 @@ stats:
     and markedly two-lipped; the upper lip continues the corolla tube while the lower
     lip turns downward and is broader than the upper lip.
 notes:
+
 - The spectacularly scarlet showy flower cluster of scarlet beebalm is a wonderful
   delight to hikers who commonly encounter this native wildflower in shady woods generally
   along stream banks and thickets. Flowering starts in late June to early July to

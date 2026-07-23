@@ -7,13 +7,13 @@
 Tools
 Tools you will need for excellent waterfall images.
 
-* A tripod---this is the most important tool in your quiver for great waterfall shots.
+- A tripod---this is the most important tool in your quiver for great waterfall shots.
 
-* A cable release---it allows you to take long exposed images without camera shake as you release the shutter. You can use the delayed timer, but you can’t control the length of the exposure manually.
+- A cable release---it allows you to take long exposed images without camera shake as you release the shutter. You can use the delayed timer, but you can’t control the length of the exposure manually.
 
-* A polarizing filter---I would highly recommend a B+W Polarizing Filter. They are superior to the normal polarizers on the market, for the money.
+- A polarizing filter---I would highly recommend a B+W Polarizing Filter. They are superior to the normal polarizers on the market, for the money.
 
-* A graduated neutral density filter---this filter is used to bring down the brightness of a section of an image. One half of this filter is clear glass, while the other half is tinted darker. Put the darker sIde over the lighter portion of the image to balance the light and exposure.
+- A graduated neutral density filter---this filter is used to bring down the brightness of a section of an image. One half of this filter is clear glass, while the other half is tinted darker. Put the darker sIde over the lighter portion of the image to balance the light and exposure.
 
 Because waterfalls are very bright, a camera cannot adequately capture them in a Program Mode. So switch to "manual" for this kind of image. As in any image you make in bright circumstances, the brighter part will over power the darker part of the image. So when setting up your shot, ALWAYS ALWAYS meter off of greenery (no waterfall) in the same light and aspect of the falls. Otherwise, move your camera so you only see green in your viewfinder. Take that reading in manual and re-position your camera on the waterfall. Your meter will spike to the plus or overexposed side so don't pay attention to it.
 By using a small aperture, f8 to f16, your camera will create an image that is very sharp close and far from you, and will require the shutter speeds to be long. It isn't uncommon to have a 1 to 5 second exposure. The depth of field from a small aperture, and a long shutter speed will allow the water to veil as it falls. Look at your image in your preview mode and make adjustments as needed to get the exposure you are looking for.

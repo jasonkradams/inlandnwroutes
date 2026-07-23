@@ -1,19 +1,26 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
+
 - label: Elevation
   icon: terrain
   value: 2128’
+
 - label: Maps
   icon: map
   value: Plummer NE Topo
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°27’57" n 116°45’53" w
+
 - label: Bonner County Sheriff
   icon: shield-account
   value: 208.263.8417

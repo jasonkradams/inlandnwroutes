@@ -1,19 +1,25 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Genesis Name
   icon: book-open-variant
   value: Chamerion amgustifolium (L.) Holub
+
 - label: Distribution
   icon: earth
   value: All of Canada and most of U.S. except the Deep South
+
 - label: Season
   icon: calendar
   value: Fireweed blooms **from June to September**, and the typically magenta flowers
     (2 to 4 cm wide with 4 petals) grow in clusters at the apex of the stems. In late
     summer, fireweed seeds disperse on the wind thanks to the fluffy tuft of white
     hairs at their tip.
+
 - label: Medicinal Use
   icon: information-outline
   value: 'Fireweed is an herb. The parts of the plant that grow above ground are used
@@ -24,11 +30,13 @@ stats:
     It retains moisture, fights free radicals and helps maintain the skin''s youthful
     appearance. The high amounts of zinc and vitamin E improve skin tone, fight acne
     and help with skin renewal.'
+
 - label: Poisons
   icon: skull-crossbones
   value: The fire weed in-flower is the most toxic to some stock and animals. When
     ingested it can be toxic to the liver and neurological system eventually leading
     to death. .
+
 - label: Edible
   icon: food-apple
   value: Traditionally, fireweed shoots are **eaten like vegetables**, and the leaves
@@ -38,11 +46,13 @@ stats:
     that are easily embedded in the skin when pulling it barehanded**. By doing this,
     you encourage venomous hairs to become embedded in the skin thus increasing the
     agony that is pending and it is a pain that will last for hours.
+
 - label: Features
   icon: information-outline
   value: The name fireweed stems **from its ability to colonize areas burned by fire
     rapidly**. It was one of the first .
 notes:
+
 - I have two friends that toured Alaska a few years ago. They called their presentation
   "Following the Fireweed". They spent 15 weeks in Canada, starting where fireweed
   first starts, and followed it until it stopped blooming at the end of it's season.

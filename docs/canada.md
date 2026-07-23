@@ -12,51 +12,51 @@
 
 Montreal, the second most populated city in Canada
 
-* Nine out of ten Canadians live in the US - Canada border region which includes the area up to 160 km/ 99 miles from the US - Canada border.
+- Nine out of ten Canadians live in the US - Canada border region which includes the area up to 160 km/ 99 miles from the US - Canada border.
 
-* The Bay of Fundy in eastern Canada has the highest tides in the world. The waves there are more than 13 m/ 42 ft high.
+- The Bay of Fundy in eastern Canada has the highest tides in the world. The waves there are more than 13 m/ 42 ft high.
 
-* Jasper National Park in the Rocky Mountains spans over several vegetation zones.
+- Jasper National Park in the Rocky Mountains spans over several vegetation zones.
 
-* Canada's biggest bay is Hudson Bay which was discovered in 1610 by English explorer Henry Hudson. Hudson Bay is located in Eastern Canada and is frozen from about mid December and mid June every year.
+- Canada's biggest bay is Hudson Bay which was discovered in 1610 by English explorer Henry Hudson. Hudson Bay is located in Eastern Canada and is frozen from about mid December and mid June every year.
 
-* Nunavut territory in Northern Canada was only created in 1999 and is home to the Inuit population. Did you know that the number plate for cars, motorbikes and snowmobiles in the Northern State of Nunavut is the shape of a polar bear?
+- Nunavut territory in Northern Canada was only created in 1999 and is home to the Inuit population. Did you know that the number plate for cars, motorbikes and snowmobiles in the Northern State of Nunavut is the shape of a polar bear?
 
 Canadian polar bear in the tundra at Hudson Bay
 
-* Canada's longest river is McKenzie River in the North West. The river is 4,241 km/ 2,635 miles long.
+- Canada's longest river is McKenzie River in the North West. The river is 4,241 km/ 2,635 miles long.
 
-* The highest mountain in Canada is Mount Logan with 5,959 m/ 19,551 ft. Mount Logan is located in the Yukon Territory at the border with Alaska/USA.
+- The highest mountain in Canada is Mount Logan with 5,959 m/ 19,551 ft. Mount Logan is located in the Yukon Territory at the border with Alaska/USA.
 
-* About 38 million people live in Canada. Almost 82% of all Canadian live in urban areas. Life expectancy at birth is about 83 years. There are 26 doctors per 10,000 people in Canada.
+- About 38 million people live in Canada. Almost 82% of all Canadian live in urban areas. Life expectancy at birth is about 83 years. There are 26 doctors per 10,000 people in Canada.
 
-* The Literacy Rate is 99%, so almost all Canadians can read and write.
+- The Literacy Rate is 99%, so almost all Canadians can read and write.
 
-* About 1.4 Million Canadians refer to themselves as belonging to the indigenous or Aboriginal people, among them First Nation people, Metis and Inuits. Did you know, that 21 June is celebrated as 'National Aboriginal Day' in Canada? This is a day of celebration for Aboriginal peoples in Canada.
+- About 1.4 Million Canadians refer to themselves as belonging to the indigenous or Aboriginal people, among them First Nation people, Metis and Inuits. Did you know, that 21 June is celebrated as 'National Aboriginal Day' in Canada? This is a day of celebration for Aboriginal peoples in Canada.
 
 First Nations people celebrating - image by Anton Bielousov
 
-* The national holiday is called Canada Day and is celebrated on 1 July.
+- The national holiday is called Canada Day and is celebrated on 1 July.
 
-* Canada is a popular country for immigration. The country is said to have the largest population growth of the industrialized countries (G-7).
+- Canada is a popular country for immigration. The country is said to have the largest population growth of the industrialized countries (G-7).
 
-* The most travelers arriving in Canada come from the USA, the United Kingdom and France.
+- The most travelers arriving in Canada come from the USA, the United Kingdom and France.
 
-* The most popular countries for travel for Canadians are the USA, Mexico and Cuba.
+- The most popular countries for travel for Canadians are the USA, Mexico and Cuba.
 
-* There are more than 2,800 hockey rinks in Canada. However, almost twice as many kids under 14 years play soccer than hockey. Ice-Hockey is still the second most practiced sport in Canada for all over 15 years of age. Ice hockey comes after golf, but before soccer!
+- There are more than 2,800 hockey rinks in Canada. However, almost twice as many kids under 14 years play soccer than hockey. Ice-Hockey is still the second most practiced sport in Canada for all over 15 years of age. Ice hockey comes after golf, but before soccer!
 
 Ice Hockey Match between Canada and the USA
 
-* Canada is the world leader in uranium mining. Uranium is used in nuclear power plants for producing electricity. The largest uranium mine of the world is located at Cigar Lake in northern Saskatchewan/Canada. Canada is also the largest supplier of energy, also including oil and gas, to the USA!
+- Canada is the world leader in uranium mining. Uranium is used in nuclear power plants for producing electricity. The largest uranium mine of the world is located at Cigar Lake in northern Saskatchewan/Canada. Canada is also the largest supplier of energy, also including oil and gas, to the USA!
 
-* Canada is also the third largest oil reserve holder in the world after Venezuela and Saudi Arabia. The North American country is also the seventh largest producer of oil.
+- Canada is also the third largest oil reserve holder in the world after Venezuela and Saudi Arabia. The North American country is also the seventh largest producer of oil.
 
-* Canada is fourth biggest producer of hydro electric power - after China, Brazil and the USA.
+- Canada is fourth biggest producer of hydro electric power - after China, Brazil and the USA.
 
-* The Trans-Canada highway is said to be the longest national highway in the world.
+- The Trans-Canada highway is said to be the longest national highway in the world.
 
-* About half of Canada's landmass is covered by forest. There are about 180 tree species in Canada. Timber is among the main exports of the country. Canada is the third most forested country in the world.
+- About half of Canada's landmass is covered by forest. There are about 180 tree species in Canada. Timber is among the main exports of the country. Canada is the third most forested country in the world.
 
 Canada - Forest as far as the eye can see
 
@@ -64,9 +64,9 @@ Did you know that Canada is taking part in NASA's Lunar Gateway project? [Read m
 
 ](https://www.asc-csa.gc.ca/eng/astronomy/moon-exploration/canada-role.asp)Weird, Fun and Interesting Facts About Canada
 
-* [Canada](https://hikebiketravel.com/category/canada/)
+- [Canada](https://hikebiketravel.com/category/canada/)
 
-* [138 Comments](https://hikebiketravel.com/145-weird-fun-interesting-facts-canada/#view_comments)
+- [138 Comments](https://hikebiketravel.com/145-weird-fun-interesting-facts-canada/#view_comments)
 
 For fellow Canadians and those even mildly interested in Canada I thought I’d put a blog together and give you 145 weird, fun and interesting facts about Canada. Canada came into being as a country on **July 1, 1867,** when the British Parliament passed the British North America Act.
 
@@ -157,21 +157,21 @@ Culture in Canada
 The world’s largest totem pole was raised in Victoria in 1994 and stands 54.94 meters tall (180.2 feet).
 The most widely attended festivals in Canada include:
 
-* **Celebration of Light** (Vancouver) 1.6 million
+- **Celebration of Light** (Vancouver) 1.6 million
 
-* **Winterlude** (Ottawa-Gatineau) 1.6 million
+- **Winterlude** (Ottawa-Gatineau) 1.6 million
 
-* **Just For Laughs** (Montreal) 1.5 million
+- **Just For Laughs** (Montreal) 1.5 million
 
-* **Canadian National Exhibition** (Toronto) 1.3 million
+- **Canadian National Exhibition** (Toronto) 1.3 million
 
-* **Calgary Stampede** 1.2 million
+- **Calgary Stampede** 1.2 million
 
-* **Pride Toronto** 1.3 million
+- **Pride Toronto** 1.3 million
 
-* [Toronto International Film Festival](http://en.wikipedia.org/wiki/Toronto_International_Film_Festival) 0.5 million
+- [Toronto International Film Festival](http://en.wikipedia.org/wiki/Toronto_International_Film_Festival) 0.5 million
 
-* [Quebec Winter Carnival](http://en.wikipedia.org/wiki/Quebec_Winter_Carnival) 0.5 million
+- [Quebec Winter Carnival](http://en.wikipedia.org/wiki/Quebec_Winter_Carnival) 0.5 million
 
  The first chuckwagon race held at the Calgary Stampede occurred in 1923. Purses and prizes totaled $275. To get the Canadian Championship title each outfit – consisting of four horses, wagon, driver and four helpers – were required to cut a figure eight around barrels, head out through a backstretch, then around a track, unhook the horses from the wagon, stretch a fly with a minimum of two stakes and make a fire. **First smoke decides winner**.
 The chuckwagon races at the Calgary StampedeIn Flander’s Fields is a poem written by World War I Col. John McCraea, a Canadian veteran of the Second World War. He was struck with admiration at the courage of the dead when he saw red poppies swaying among the markers of his fallen comrades.

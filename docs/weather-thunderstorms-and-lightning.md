@@ -163,6 +163,7 @@ Yet another reason to live in the opposite side of the U.S. But, DO NOT TELL ANY
 ***Outside***
 
 Your car is the best place to weather a lightning storm. But be sure to not touch anything metallic.
+
 In rain and lightning, the water running off your car, which conducts electricity to the ground.
 
 ***Remember the 30-30 Rule.***
@@ -229,15 +230,15 @@ ADditional lightning info
 This section is courtesy of Thoughtco.com
 The [National Weather Service](http://www.lightningsafety.noaa.gov/tips.shtml) recommends the following precautions:
 
-* If you're outside, seek immediate shelter. Houses and other substantial structures with indoor electricity and plumbing, which are grounded, are your best option. Vehicles with solid tops (not convertibles) are also grounded and safe.
+- If you're outside, seek immediate shelter. Houses and other substantial structures with indoor electricity and plumbing, which are grounded, are your best option. Vehicles with solid tops (not convertibles) are also grounded and safe.
 
-* If you are caught outdoors, move to the lowest ground possible. Do not seek shelter beneath trees or other tall objects.
+- If you are caught outdoors, move to the lowest ground possible. Do not seek shelter beneath trees or other tall objects.
 
-* Avoid plumbing or running water. Metal pipes for water and sewage are not only excellent conductors of electricity, but the water they carry can be laden with impurities that also help conduct electricity.
+- Avoid plumbing or running water. Metal pipes for water and sewage are not only excellent conductors of electricity, but the water they carry can be laden with impurities that also help conduct electricity.
 
-* Don't use landline phones with cords or desktop computers. Electricity can also be transmitted through the wiring of your home. Cordless and mobile phones are safe to use indoors.
+- Don't use landline phones with cords or desktop computers. Electricity can also be transmitted through the wiring of your home. Cordless and mobile phones are safe to use indoors.
 
-* Stay away from windows and doors. Lightning is a gorgeous sight, especially when arcing across a night sky. But it has been known to strike people after passing through glass or unsealed cracks along doors and windowpanes.
+- Stay away from windows and doors. Lightning is a gorgeous sight, especially when arcing across a night sky. But it has been known to strike people after passing through glass or unsealed cracks along doors and windowpanes.
 
 5 Ways Lightning Can Strike You
 Lightning is a result of the build-up of [electrostatic](https://www.thoughtco.com/definition-of-electrostatic-forces-604451) charge in clouds. The top of the cloud typically becomes positively charged and the bottom of the cloud becomes negatively charged. As the separation of charges increases, the negative charges may jump toward the positive charges in the cloud or toward positive ions in the ground. When this happens, a lightning strike occurs. There are typically five ways in which [lightning](https://www.thoughtco.com/lightning-warning-signs-3444259) may strike a person. Any type of lightning strike should be taken seriously and medical attention should be sought if a person is thought to have been struck by lightning.
@@ -255,27 +256,27 @@ Lightning is a result of the build-up of [electrostatic](https://www.thoughtco.c
 Consequences of Being Struck by Lightning
 The consequences resulting from a lightning strike vary and depend on the type of strike and the amount of current traveling through the body.
 
-* Lightning can cause burns to the skin, deep wounds, and tissue damage. The electrical current can also cause a type of scaring known as [Lichtenberg figures](https://weather.com/health/news/catching-lightning-body-what-happens-when-lightning-strikes-20140114) (branching electric discharges). This type of scaring is characterized by unusual fractal patterns that develop as a result of [blood vessel](https://www.thoughtco.com/blood-vessels-373483) destruction that happens as the lightning current travels through the body.
+- Lightning can cause burns to the skin, deep wounds, and tissue damage. The electrical current can also cause a type of scaring known as [Lichtenberg figures](https://weather.com/health/news/catching-lightning-body-what-happens-when-lightning-strikes-20140114) (branching electric discharges). This type of scaring is characterized by unusual fractal patterns that develop as a result of [blood vessel](https://www.thoughtco.com/blood-vessels-373483) destruction that happens as the lightning current travels through the body.
 
-* Cardiac arrest can occur as a lightning strike can cause the heart to stop. It may also cause arrhythmias and pulmonary edema (fluid accumulation in the [lungs](https://www.thoughtco.com/anatomy-of-the-lungs-373249)).
+- Cardiac arrest can occur as a lightning strike can cause the heart to stop. It may also cause arrhythmias and pulmonary edema (fluid accumulation in the [lungs](https://www.thoughtco.com/anatomy-of-the-lungs-373249)).
 
-* Lightning strikes may cause a number of neurological conditions and brain damage. A person may slip into a coma, experience pain and numbness or weakness in limbs, suffer from [spinal cord](https://www.thoughtco.com/the-spinal-cord-373189) injuries, or develop sleep and memory disorders.
+- Lightning strikes may cause a number of neurological conditions and brain damage. A person may slip into a coma, experience pain and numbness or weakness in limbs, suffer from [spinal cord](https://www.thoughtco.com/the-spinal-cord-373189) injuries, or develop sleep and memory disorders.
 
-* A lightning strike may cause damage to the [ear](https://www.thoughtco.com/anatomy-4133574) and hearing loss. It may also cause vertigo, corneal damage, and blindness.
+- A lightning strike may cause damage to the [ear](https://www.thoughtco.com/anatomy-4133574) and hearing loss. It may also cause vertigo, corneal damage, and blindness.
 
-* The sheer force of being hit by a lightning strike can cause clothing and shoes to be blown off, singed, or shredded. This type of trauma can also cause internal bleeding and can sometimes result in broken [bones](https://www.thoughtco.com/skeletal-system-373584).
+- The sheer force of being hit by a lightning strike can cause clothing and shoes to be blown off, singed, or shredded. This type of trauma can also cause internal bleeding and can sometimes result in broken [bones](https://www.thoughtco.com/skeletal-system-373584).
 
 The proper response to lightning and storms is to seek shelter quickly. Stay away from doors, windows, electrical equipment, sinks, and faucets. If you get caught outside, do not seek shelter under a tree or rocky overhang. Stay away from wires or objects that conduct electricity and keep moving until you find safe shelter.
 Signs of Lightning
 Cloud-to-ground lightning is nearby if you notice one or more of these early signs. Seek shelter immediately to reduce the risk of lightning injury or even death.
 
-* A rapidly growing cumulonimbus cloud. Although [cumulonimbus clouds](https://www.thoughtco.com/clouds-that-spell-severe-weather-4089934)appear bright white and form in sunny skies, don't be fooled—they're the beginning stage of a [developing thunderstorm](https://www.thoughtco.com/how-thunderstorms-form-3444271). If you notice them growing taller and taller in the sky, you can rest assured that a storm is in the making and headed your way.
+- A rapidly growing cumulonimbus cloud. Although [cumulonimbus clouds](https://www.thoughtco.com/clouds-that-spell-severe-weather-4089934)appear bright white and form in sunny skies, don't be fooled—they're the beginning stage of a [developing thunderstorm](https://www.thoughtco.com/how-thunderstorms-form-3444271). If you notice them growing taller and taller in the sky, you can rest assured that a storm is in the making and headed your way.
 
-* Increasing winds and a darkening sky. These are telltale signs of an approaching storm.
+- Increasing winds and a darkening sky. These are telltale signs of an approaching storm.
 
-* Audible thunder. Thunder is the sound created by lightning, so if thunder can be heard, lightning is near. You can determine how near (in miles) by counting the number of seconds between a flash of lightning and a thunderclap and dividing that number by five.
+- Audible thunder. Thunder is the sound created by lightning, so if thunder can be heard, lightning is near. You can determine how near (in miles) by counting the number of seconds between a flash of lightning and a thunderclap and dividing that number by five.
 
-* A severe thunderstorm warning. The National Weather Service issues a severe thunderstorm warning whenever severe storms have been detected on [weather radar](https://www.thoughtco.com/identify-severe-thunderstorms-on-radar-3443882) or confirmed by storm spotters. Cloud-to-ground lightning is often the main threat of such [storms](https://www.thoughtco.com/things-to-never-do-during-lightning-storm-3444265).
+- A severe thunderstorm warning. The National Weather Service issues a severe thunderstorm warning whenever severe storms have been detected on [weather radar](https://www.thoughtco.com/identify-severe-thunderstorms-on-radar-3443882) or confirmed by storm spotters. Cloud-to-ground lightning is often the main threat of such [storms](https://www.thoughtco.com/things-to-never-do-during-lightning-storm-3444265).
 
 Lightning always occurs during thunderstorms, but it isn't necessary for a storm to be directly overhead for you to be in danger of a lightning strike. The threat of lightning actually starts as a thunderstorm approaches, peaks when the storm is overhead, and then gradually diminishes as the storm moves away.
 Where to Seek Shelter
@@ -283,17 +284,17 @@ At the first sign of approaching lightning, you should quickly seek shelter, ide
 Signs of an Immediate Strike
 When lightning strikes you or the area immediately nearby, you may experience one or more of these warning signs a few seconds beforehand.
 
-* Hair standing on end
+- Hair standing on end
 
-* Tingling skin
+- Tingling skin
 
-* A metallic taste in your mouth
+- A metallic taste in your mouth
 
-* The smell of chlorine (this is ozone, which is produced when nitrogen oxides from lightning interact with other chemicals and sunlight)
+- The smell of chlorine (this is ozone, which is produced when nitrogen oxides from lightning interact with other chemicals and sunlight)
 
-* Sweaty palms
+- Sweaty palms
 
-* A vibrating, buzzing, or crackling sound coming from metal objects around you
+- A vibrating, buzzing, or crackling sound coming from metal objects around you
 
 If you notice any of these signs, it may be too late to avoid being struck and possibly injured or killed. However, if you find that you do have time to react, you should run as fast as you can to a safer location. Running limits the amount of time that both of your feet are on the ground at any given moment, reducing the threat from ground current (lightning that travels outward from the strike point along the ground surface
 

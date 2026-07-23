@@ -1,10 +1,15 @@
 ---
 title: "Blog # 101: Have you prepared your ski clothes for winter, yet?"
+
 date: 2025-12-18
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Trail Safety & Gear
 ---
 

@@ -69,7 +69,7 @@ The Polebridge Mechantile is a favorite for their coffee and pastries. Northern 
 
 ---
 
-![Picture](assets/images/p241-1.png){: data-src="assets/images/p241-1.png" }
+![Image](assets/images/p241-1.png)
 
 ## Kintla lake at sunrise
 

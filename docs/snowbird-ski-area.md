@@ -1,26 +1,35 @@
 ---
 tags:
+
 - Winter & Skiing
+
 stats:
+
 - label: Phone
   icon: phone
   value: 801.933.2222
+
 - label: Acres
   icon: vector-square
   value: '2500'
+
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 500"
+
 - label: Summit Elevation
   icon: terrain
   value: 11000'
+
 - label: Base Elevation
   icon: terrain
   value: 7760'
+
 - label: Verts
   icon: arrow-expand-vertical
   value: 2900'
 notes:
+
 - Snowbird.com
 ---
 

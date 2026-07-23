@@ -1,35 +1,50 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Moderate to Strenuous
+
 - Hiking
+
 - Backpacking
+
 - Scrambling
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Hiking, backpacking and scrambling
+
 - label: Distance
   icon: map-marker-distance
   value: About 10 miles
+
 - label: Elevation
   icon: terrain
   value: 3500 to 4000'
+
 - label: Difficulty
   icon: speedometer
   value: Moderate to strenuous
+
 - label: Maps
   icon: map
   value: IPNF - Kaniksu N.F., USGS - The Wigwams, Roman Nose, ID
+
 - label: GPS
   icon: crosshairs-gps
   value: Harrison Lake 48° 42’ 12.5"N 116° 37’ 23.4"W, Beehive Lake 48° 38’ 59.3"n
     116° 37’ 25.0"w
+
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 911 or 208.267.5561
 notes:
+
 - Idaho panhandle national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 

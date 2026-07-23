@@ -1,37 +1,53 @@
 ---
 tags:
+
 - Lakes
+
 - Easy
+
 - Day Hiking
+
 - Backpacking
+
 - Fishing
+
 - Backcountry Skiing
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, fishing, Backcountry Skiing.
+
 - label: Distance
   icon: map-marker-distance
   value: 6 miles RT
+
 - label: Elevation Gain
   icon: elevation-rise
   value: gains 1090 verts. Minimal loss to Lower St. Regis Lake
+
 - label: Difficulty
   icon: speedometer
   value: easy
+
 - label: Maps
   icon: map
   value: I.P.N.F., LOLO N.F., Lookout Pass topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°42’65"n 115°75’10"w
+
 - label: CdA River Ranger District
   icon: pine-tree
   value: 208.752.1221
+
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
 notes:
+
 - Idaho panhandle national forest/alerts [https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)
 ---
 
@@ -68,7 +84,7 @@ Radio Brewing in Kellogg, Pizza Factory, 1313 Club, and Muchacho’s Tacos in Wa
 
 ## Photo gallery
 
-![Picture](assets/images/p299.png)"
+![Picture](assets/images/p299.png)
 
 ## The trail into st. regis lakes along the headwaters of the st. regis river
 

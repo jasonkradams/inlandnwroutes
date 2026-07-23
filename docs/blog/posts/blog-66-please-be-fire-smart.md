@@ -1,10 +1,15 @@
 ---
 title: "Blog #66: Please be fire smart"
+
 date: 2024-07-08
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 

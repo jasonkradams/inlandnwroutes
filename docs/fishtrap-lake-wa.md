@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Lakes
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: 6.6 miles RT
+
 - label: Elevation
   icon: terrain
   value: 1,978'
+
 - label: Length and Acreage
   icon: vector-square
   value: 2.0 miles long & 190 acres
+
 - label: Maps
   icon: map
   value: USGS - FISHTRAP LAKE, BLM Fishtrap-Miller Ranch map
+
 - label: GPS
   icon: crosshairs-gps
   value: '*47°21’17" n 117°49''25"w'
+
 - label: Spokane County Sheriff
   icon: shield-account
   value: 509.447.2240*

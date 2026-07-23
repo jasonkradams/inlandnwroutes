@@ -1,10 +1,15 @@
 ---
 title: "Blog #31: The best fall colors hikes in our region"
+
 date: 2023-09-03
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Trail Safety & Gear
 ---
 

@@ -1,27 +1,36 @@
 ---
 tags:
+
 - Paddling & Rivers
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: 14 mile RT paddle
+
 - label: Elevation
   icon: terrain
   value: 543’ at Lions Ferry Launch on the Snake River. 734’ at the Palouse Falls
     plunge pool
+
 - label: Length and Acreage
   icon: vector-square
   value: 7 miles. Acreage NA
+
 - label: Maps
   icon: map
   value: Starbucks West
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: Lions Ferry launch 46°35’50" N 118°13’56" W. Palouse Falls 46°39’4 N 118°13’27"
     W
+
 - label: Franklin County Sheriff
   icon: shield-account
   value: 911 or 509.545.3501
+
 - label: Whitman County Sheriff
   icon: shield-account
   value: 911 or 509.297.6266

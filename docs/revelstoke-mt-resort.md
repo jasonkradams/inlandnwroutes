@@ -1,26 +1,35 @@
 ---
 tags:
+
 - Winter & Skiing
+
 stats:
+
 - label: Phone
   icon: phone
   value: 866.373.4754
+
 - label: Acres
   icon: vector-square
   value: '3120'
+
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 410"
+
 - label: Summit Elevation
   icon: terrain
   value: 7300'
+
 - label: Base Elevation
   icon: terrain
   value: '1680'
+
 - label: Verts
   icon: arrow-expand-vertical
   value: 5620'
 notes:
+
 - Revelstokemountainresort.com
 ---
 

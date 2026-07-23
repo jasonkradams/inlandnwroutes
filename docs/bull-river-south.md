@@ -1,12 +1,17 @@
 ---
 tags:
+
 - Paddling & Rivers
+
 stats:
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: ??° ??’ ??.?"n ???° ??’ ??.?"w
 ---
+
 # Bull River South
+
 ## Description
 
 ## Attractions

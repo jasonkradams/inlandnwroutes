@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Waterfalls
+
 stats:
+
 - label: Waterfall
   icon: waterfall
   value: Granite Falls La Sota Falls
+
 - label: Drop
   icon: arrow-collapse-down
   value: Granite 75' La Sota 10'
+
 - label: Waterfall Type
   icon: waterfall
   value: Granite. Slide La Sota Plunge
+
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: Granite 365'. La Sota about .6 miles
+
 - label: Maps
   icon: map
   value: IPNF, Priest Lake Ranger District. 208.443.2512
+
 - label: GPS
   icon: crosshairs-gps
   value: Granite 48°76’79" N 117°06’52" W. La Sota. 48°77'21" N 117°06'86" W

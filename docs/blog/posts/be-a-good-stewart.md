@@ -1,10 +1,15 @@
 ---
 title: "Blog #17: Be a good steward"
+
 date: 2023-07-21
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Trail Stewardship
 ---
 

@@ -1,10 +1,15 @@
 ---
 title: "Blog #94: Closures due to fire, timber sales and more"
+
 date: 2025-07-24
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 

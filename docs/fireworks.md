@@ -54,40 +54,41 @@ Because of copyright issues, I would suggest you search the internet and use the
 
 ## Click on image to enlarge
 
-![Image](assets/images/11242022341p.jpg){: data-src=" data-title="CDA 4TH OF JULY" }
+![CDA 4TH OF JULY](assets/images/11242022341p.jpg)
+_CDA 4TH OF JULY_
 
-![Image](assets/images/11242022343p.jpg)"
+![Image](assets/images/11242022343p.jpg)
 
-![Image](assets/images/11242022345p.jpg){: data-src=" data-title="CDA 4TH OF JULY" }
+![Image](assets/images/11242022345p.jpg)
 
-![Image](assets/images/11242022352p.jpg)"
+![Image](assets/images/11242022352p.jpg)
 
-![Image](assets/images/11242022353p.jpg){: data-src=" data-title="CDA RESORT FIREWORKS" }
+![Image](assets/images/11242022353p.jpg)
 
-![Image](assets/images/11242022355p.jpg)"
+![Image](assets/images/11242022355p.jpg)
 
-![Image](assets/images/11242022356p.jpg){: data-src=" data-title="CDA RESORT FIREWORKS" }
+![Image](assets/images/11242022356p.jpg)
 
-![Image](assets/images/11242022357p.jpg)"
+![Image](assets/images/11242022357p.jpg)
 
-![Image](assets/images/11242022359p.jpg){: data-src=" data-title="CDA RESORT FIREWORKS" }
+![Image](assets/images/11242022359p.jpg)
 
-![Image](assets/images/11242022400p.jpg)"
+![Image](assets/images/11242022400p.jpg)
 
-![Image](assets/images/11242022404p.jpg){: data-src=" data-title="CDA RESORT FIREWORKS" }
+![Image](assets/images/11242022404p.jpg)
 
-![Image](assets/images/11242022405p.jpg)"
+![Image](assets/images/11242022405p.jpg)
 
-![Image](assets/images/11242022406p.jpg){: data-src=" data-title="CDA RESORT FIREWORKS" }
+![Image](assets/images/11242022406p.jpg)
 
-![Image](assets/images/11242022408p.jpg)"
+![Image](assets/images/11242022408p.jpg)
 
-![Image](assets/images/11242022409p.jpg){: data-src=" data-title="CDA RESORT FIREWORKS" }
+![Image](assets/images/11242022409p.jpg)
 
-![Image](assets/images/11242022410p.jpg)"
+![Image](assets/images/11242022410p.jpg)
 
-![Image](assets/images/11242022412p.jpg){: data-src=" data-title="CDA RESORT FIREWORKS" }
+![Image](assets/images/11242022412p.jpg)
 
-![Image](assets/images/112120221106a.jpg)"
+![Image](assets/images/112120221106a.jpg)
 
-![Image](assets/images/11242022416p.jpg){: data-src=" data-title="CDA RESSORT FIREWORKS" }
+![Image](assets/images/11242022416p.jpg)

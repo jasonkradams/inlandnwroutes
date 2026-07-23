@@ -1,10 +1,15 @@
 ---
 title: "Blog #77: Home page clean up and more"
+
 date: 2024-10-28
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 

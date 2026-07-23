@@ -1,23 +1,35 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Day Hiking
+
 - Backpacking
+
 - Mountain Biking
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: day hiking, backpacking, mountain biking
+
 - label: GPS
   icon: crosshairs-gps
   value: n??° ?’ ?.??" w???° ?’ ??.??"
+
 - label: CdA River Ranger District
   icon: pine-tree
   value: 208.752.1221
 notes:
+
 - SHOSHONE COUNTY SHERIFF; 911 or 208.556.1114
+
 - Idaho panhandle national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>---
+
 # Shefoot Mountain
 
 *Big dick point 5419’& shefoot mountain 6349’*

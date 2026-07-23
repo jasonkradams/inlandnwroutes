@@ -1,10 +1,15 @@
 ---
 title: "Blog #107: Forest alerts and closures"
+
 date: 2026-05-16
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 

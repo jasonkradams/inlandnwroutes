@@ -1,39 +1,57 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Day Hike
+
 - Backpacking
+
 - Climbing
+
 - Scrambling
+
 - Wildlife Viewing
+
 - Photography
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hike, backpacking, climbing, scrambling, wildlife viewing, and photography
+
 - label: Distance
   icon: map-marker-distance
   value: about .5 of a mile
+
 - label: Elevation
   icon: terrain
   value: Almost 650verts
+
 - label: Difficulty
   icon: speedometer
   value: Easy to get to, moderate to scale
+
 - label: Maps
   icon: map
   value: Kootenai National Forest, Elephant Peak topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 48° 04’ 26' n" 115° ?41’12" w
+
 - label: Ranger District
   icon: pine-tree
   value: cabinet r.d. 406.827.3533
+
 - label: Sanders County Sheriff
   icon: shield-account
   value: call 911 first or 406.827.3584
 notes:
+
 - Kootenai national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 

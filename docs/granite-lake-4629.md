@@ -1,40 +1,57 @@
 ---
 tags:
+
 - Lakes
+
 - Hiking
+
 - Backpacking
+
 - Scrambling
+
 - Ice Climbing
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Hiking, backpacking, scrambling, and ice climbing.
+
 - label: Distance
   icon: map-marker-distance
   value: 12 miles RT
+
 - label: Elevation Gain
   icon: elevation-rise
   value: 1400' gain
+
 - label: Acres
   icon: vector-square
   value: '56.7'
+
 - label: Difficulty
   icon: speedometer
   value: Difficult, but harder during spring runoff.
+
 - label: Maps
   icon: map
   value: Kootenai N.F., Treasure Mt., Snowshoe Peak
+
 - label: GPS
   icon: crosshairs-gps
   value: 48°15’10"n 115°41’20"w
+
 - label: Ranger District
   icon: pine-tree
   value: Libby R.D. 406.293.7333
+
 - label: Lincoln County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.293.4112
 notes:
+
 - Kootenai national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 

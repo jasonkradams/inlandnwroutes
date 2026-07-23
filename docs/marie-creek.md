@@ -1,35 +1,49 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 - Day Hiking
+
 - Backpacking
+
 - Equestrian
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, and equestrian
+
 - label: Distance
   icon: map-marker-distance
   value: up to 7 miles RT, 14 mile loop
+
 - label: Elevation
   icon: terrain
   value: About 300 verts verts, about 700 verts to do the loop.
+
 - label: Difficulty
   icon: speedometer
   value: along the creek it’s easy. Beyond the creek it’s moderate
+
 - label: Maps
   icon: map
   value: ipnf,
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°40’37" n 116°35’08" w
+
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
+
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 911 or 208.446.1300
 notes:
+
 - Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 

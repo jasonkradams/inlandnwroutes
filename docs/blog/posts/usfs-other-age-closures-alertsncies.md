@@ -1,10 +1,15 @@
 ---
 title: "Blog #16: Usfs & other agencies closures & alerts"
+
 date: 2023-07-10
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 

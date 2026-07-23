@@ -1,10 +1,15 @@
 ---
 title: "Blog # 46: Forest road #634 to open 7.5.24"
+
 date: 2024-02-06
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 

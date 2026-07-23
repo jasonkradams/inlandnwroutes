@@ -1,36 +1,52 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 - Easy
+
 - Camping
+
 - Sightseeing
+
 - Photography
+
 - Exceptional Beauty
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Camping, sightseeing, photography and exceptional beauty.
+
 - label: Distance
   icon: map-marker-distance
   value: Most the units require some walking, but nothing long or difficult.
+
 - label: Elevation
   icon: terrain
   value: minimal
+
 - label: Difficulty
   icon: speedometer
   value: easy
+
 - label: Maps
   icon: map
   value: J.D.F.B.N.M. Brochures
+
 - label: GPS
   icon: crosshairs-gps
   value: Thomas Condon Paleontology & Visitors Center 44° 31'10"N 119° 36'45" W.
+
 - label: John Day Fossil Bed National Monument
   icon: information-outline
   value: 541.987.2333
+
 - label: Wheeler County Sheriff
   icon: shield-account
   value: 541.763.4101
+
 - label: Grant County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 509.754.2011

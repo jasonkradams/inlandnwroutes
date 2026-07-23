@@ -1,10 +1,15 @@
 ---
 title: "Blog #70: Weather planning for your outing"
+
 date: 2024-08-09
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Winter Sports
 ---
 

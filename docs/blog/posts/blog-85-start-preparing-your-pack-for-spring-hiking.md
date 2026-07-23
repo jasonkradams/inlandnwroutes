@@ -1,10 +1,15 @@
 ---
 title: "Blog #85: Start preparing your pack for spring hiking"
+
 date: 2025-03-08
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 

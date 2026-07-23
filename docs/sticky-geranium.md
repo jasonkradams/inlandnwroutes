@@ -1,41 +1,52 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Genesis Name
   icon: book-open-variant
   value: Geranium viscosissimum
+
 - label: Distribution
   icon: earth
   value: 'usa: ca, co, id, mt, nv, or, sd, ut, wa, wy. canada: ab, bc, sk.'
+
 - label: Season
   icon: calendar
   value: Blooms April thru September
+
 - label: Medical Use
   icon: medical-bag
   value: The powdered root infused in water was a treatment for bleeding wounds, sore
     eyes, and consumed as a tea for diarrhea. Most astringent roots are used in these
     ways. Today hikers in the backcountry can use geranium roots (cleaned and dried)
     to treat bleeding wounds and diarrhea safely.
+
 - label: Poisonous
   icon: skull-crossbones
   value: 'no'
+
 - label: Edibility
   icon: food-apple
   value: The flowers of sticky purple geranium are edible, and can be added to salads
     or used as a garnish. The leaves are edible raw or cooked, but are not choice.
+
 - label: Features
   icon: information-outline
   value: Sticky purple geranium is a native perennial forb that grows to 40 to 90
     cm tall. It has sticky glandular hairs that densely cover the stems and leaves.
     Leaves are basal, on long stalks and have blades 5 to 12 cm wide. The leaves are
     deeply palmately lobed into 5 to 7 sharply toothed divisions.
+
 - label: Leaves
   icon: leaf
   value: Sticky purple geranium is a native perennial forb that grows to 40 to 90
     cm tall. It has sticky glandular hairs that densely cover the stems and leaves.
     Leaves are basal, on long stalks and have blades 5 to 12 cm wide. The leaves are
     deeply palmately lobed into 5 to 7 sharply toothed divisions.
+
 - label: Fruits
   icon: fruit-cherries
   value: 'History: "Geranium" is from the Greek word "geranos" meaning "crane" which

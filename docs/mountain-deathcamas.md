@@ -1,32 +1,43 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 stats:
+
 - label: Genesis Name
   icon: book-open-variant
   value: Zigadenus elegans
+
 - label: Distribution
   icon: earth
   value: Most all U.S. states, except California, SW states. Most of Canada except
     NE fringe Provinces
+
 - label: Season
   icon: calendar
   value: June, July, August
+
 - label: Medical Use
   icon: medical-bag
   value: None
+
 - label: Poisonous
   icon: skull-crossbones
   value: Yes, very toxic
+
 - label: Edibility
   icon: food-apple
   value: 'no'
+
 - label: Features
   icon: information-outline
   value: Many flowerets
+
 - label: Leaves
   icon: leaf
   value: Long slender leaves that droop.
+
 - label: Fruits
   icon: fruit-cherries
   value: Capsule type
@@ -51,6 +62,7 @@ Plant poisonings are a funny thing. Most people aren’t actively seeking out po
 Take the "Death Camas." I’d like to believe that no sane person would willfully eat something with the name "death" in it, but accidents happen. The Death Camas, of many varieties, used to belong solely to the *Zigadenus*genus, with about twenty different species. But botanists being botanists decided that wasn’t good enough, and blew the genus up. Now, the Death Camas’ are spread among the Anticlea, Stenanthium, and Toxicoscordion genus, with just one species, *Zigadenus glaberrimus**,*left in the original*.* I find this all so confusing, which is probably the number one reason why I’m not a botanist. But it also makes the literature confusing when the old an new taxonomies collide. So to keep things clear, but draw the ire of botanists the world over, I’ll just refer to them all as *Zigadenus.*
 
 Zygacine
+
 The Death Camas are flowering plants that are native throughout the United States and generally reach several feet in height. The flowers grow as panicles – a cluster of flowers – that can (kinda) resemble those of onions (*Allium).* Making matters worse, both have bulbs, which is unfortunate because the Death Camas are highly poisonous. All parts of the plants, from the leaves to the bulbs, contain zygacine, a steroidal toxin that binds to sodium channels, prolonging their activation. This decrease in excitability can lead to cardiac and neurotoxicity. Faithful readers will remember that this "open" state not only causes varying degrees of paralysis, but an increase in calcium, which in turn stimulates the release of acetylcholine and very bad things. An increase in acetylcholine can cause the cholinergic toxidrome remembered by the acronym we all know and love, SLUDGE: Salivation, Lacrimation, Urination, Defecation, GI upset, and Emesis. If this type of poisoning sounds familiar, it’s because it is similar to that of the [grayanotoxins and "mad honey."](https://naturespoisons.com/2014/05/08/grayanotoxins-of-rhododendrons-and-mad-honey/)
 
 [edit: The "Death Camas" can also be confused with "Common Camas", but of a different family, which has historically been an important food source for northwestern Native Americans. Thanks to Tom McKenzie bringing it up.]

@@ -1,12 +1,17 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: GPS
   icon: crosshairs-gps
   value: n??° ?’ ?.??" w???° ?’ ??.??"
 ---
+
 # Hike Rev H
+
 ## Description
 
 ## Option #1
@@ -39,7 +44,7 @@ Click for Current NOAA Weather Conditions
 
 ##
 
-![Picture](assets/images/img-1826-66.jpg)"
+![Picture](assets/images/img-1826-66.jpg)
 
 ---
 

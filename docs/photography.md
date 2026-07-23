@@ -61,6 +61,7 @@ For instance, if you set your camera’s White Balance (WB) for shooting indoors
 ***ASA* *or* *Iso settings***
 
 In everyday circumstances, your ISO, or the sensitivity of your sensor to light, should stay low, or around ISO 100. If you shoot in lower light settings, you could increase your ISO to 200 or even 400 and above.
+
 The higher the ISO is set, the grainier the image will appear. Settings over ISO 400, will cause more "noise" in your images. As in any camera settings, once you are done shooting in low light, for instance, change it back to a neutral setting for generic images.
 
 ***Exposure compensation***
@@ -103,6 +104,7 @@ Shoot as low of an ISO as possible. Use higher ISO’s for low light, or action 
 **P.**
 
 For the average shooter, P or Program will do everything you want, up to a point. On P you can actually change your shutter speeds or apertures, by using your command dial.
+
 Never use the "green camera" setting. It is for those who can’t or won’t learn their camera. Avoid at all costs.
 
 ***S***

@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Paddling & Rivers
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
+
 - label: Elevation
   icon: terrain
   value: 2133’
+
 - label: Length and Acreage
   icon: vector-square
   value: varies
+
 - label: Maps
   icon: map
   value: Kingston Topo
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°33’09" n 116°22’00" w
+
 - label: Shoshone County Sheriff
   icon: shield-account
   value: 208.556.1114

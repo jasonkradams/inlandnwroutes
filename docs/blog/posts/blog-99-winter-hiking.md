@@ -1,10 +1,15 @@
 ---
 title: "Blog #99: Winter hiking"
+
 date: 2025-11-03
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Trail Safety & Gear
 ---
 

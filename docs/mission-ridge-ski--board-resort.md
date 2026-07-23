@@ -1,26 +1,35 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 stats:
+
 - label: Phone
   icon: phone
   value: 509.663.
+
 - label: Acres
   icon: vector-square
   value: '2000'
+
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 200"
+
 - label: Summit Elevation
   icon: terrain
   value: 6820'
+
 - label: Base Elevation
   icon: terrain
   value: 4570'
+
 - label: Verts
   icon: arrow-expand-vertical
   value: 2250'
 notes:
+
 - Missionridge.com
 ---
 

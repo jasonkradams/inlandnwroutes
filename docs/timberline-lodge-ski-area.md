@@ -1,26 +1,35 @@
 ---
 tags:
+
 - Winter & Skiing
+
 stats:
+
 - label: Phone
   icon: phone
   value: 503.272.3311
+
 - label: Acres
   icon: vector-square
   value: '1685'
+
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 190"
+
 - label: Summit Elevation
   icon: terrain
   value: 8540'
+
 - label: Base Elevation
   icon: terrain
   value: 4000'
+
 - label: Verts
   icon: arrow-expand-vertical
   value: 4540 +2616
 notes:
+
 - Timberlinelodge.com
 ---
 

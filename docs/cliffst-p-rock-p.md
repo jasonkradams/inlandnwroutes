@@ -1,43 +1,62 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 - Hiking
+
 - Backpacking
+
 - Climbing
+
 - Fishing
+
 - Photography
+
 - Scrambling
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Hiking, backpacking, climbing, fishing, photography, and scrambling
+
 - label: Distance
   icon: map-marker-distance
   value: Cliff Lake 3 miles RT St. Paul Peak 6 miles RT. Rock Peak is about 10 miles
     RT.
+
 - label: Elevation Gain
   icon: elevation-rise
   value: Cliff Lake 300 verts gain, with St. Paul Peak at 1970 verts.
+
 - label: Acres
   icon: vector-square
   value: '40.8'
+
 - label: Difficulty
   icon: speedometer
   value: Easy to Cliff Lake and Chicago Peak and difficult to St. Paul Peak
+
 - label: Maps
   icon: map
   value: Kootenai National Forest, Elephant Peak topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 48°04’21" n 115°40’42" w
+
 - label: Ranger District
   icon: pine-tree
   value: Cabinet R.D. 406.827.3533
+
 - label: Sanders County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.827.3584
 notes:
+
 - Kootenai national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 

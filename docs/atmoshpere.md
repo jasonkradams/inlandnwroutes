@@ -3,6 +3,7 @@
 ---
 
 > [!TIP]
+
 > **Interactive Photo Gallery**: Click on any photo to open the high-resolution lightbox modal with slide controls, captions, and full-screen view.
 
 ---

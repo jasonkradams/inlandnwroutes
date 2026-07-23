@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Paddling & Rivers
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: longest straight line paddle is about 6 miles
+
 - label: Elevation
   icon: terrain
   value: 2239’
+
 - label: Length and Acreage
   icon: vector-square
   value: About 6 miles & 3800 acres.
+
 - label: Maps
   icon: map
   value: Hayden Lake & Athol topos
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°45’14" n 116°45’17" w
+
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300

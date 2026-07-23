@@ -1,10 +1,15 @@
 ---
 title: "Blog #37: Liability release"
+
 date: 2023-10-18
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - General News
 ---
 

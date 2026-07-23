@@ -1,10 +1,15 @@
 ---
 title: "Blog #108: Our trails need our help"
+
 date: 2026-05-24
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 

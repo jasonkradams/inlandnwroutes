@@ -1,19 +1,26 @@
 ---
 tags:
+
 - Lakes
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
+
 - label: Elevation
   icon: terrain
   value: 2128’
+
 - label: Length and Acreage
   icon: vector-square
   value: varies
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°27’56" n 1145’53" w
+
 - label: Shoshone County Sheriff
   icon: shield-account
   value: 208.446.1300

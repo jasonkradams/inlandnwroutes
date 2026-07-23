@@ -1,10 +1,15 @@
 ---
 title: "Blog #39: Litter"
+
 date: 2023-10-25
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 

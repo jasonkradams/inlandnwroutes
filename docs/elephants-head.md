@@ -1,26 +1,34 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Genesis Name
   icon: book-open-variant
   value: Pedicularis groenlandica
+
 - label: Distribution
   icon: earth
   value: ak, ca, co, id, mt, nm, or, ut, wa, wy. canada..ab, bc, on, sk
+
 - label: Season
   icon: calendar
   value: Blooms June, July, August
+
 - label: Medical Use
   icon: medical-bag
   value: This genus is recognized by modern herbalists as a **mild sedative and muscle
     relaxant**. Historically it was used to treat stomach ulcers, rheumatism, and
     urinary problems. Ojibwa Indians considered it an aphrodisiac.
+
 - label: Edibility
   icon: food-apple
   value: This deep red flower is large and can be 10–12" long on a 3–5' tall plant.
     **The seeds are edible** and can be popped, cooked like a grain or ground into
     flour. Not only are the seeds edible, but the young leaves are nutritious greens.
+
 - label: Features
   icon: information-outline
   value: Never has a common name been more appropriate than this one; the flowers
@@ -32,14 +40,17 @@ stats:
     upper petals twisted and curled into a long "snout." Dense racemes of flowers
     that are perfect little pink elephant heads (ears, trunk, and all) bloom on leafy
     stems.
+
 - label: Leaves
   icon: leaf
   value: The leaves of *Pedicularis groenlandica* are typical of louseworts. They
     look almost fernlike with long, narrow, pinately divided, sharp-toothed lobes.
+
 - label: Fruits
   icon: fruit-cherries
   value: na
 notes:
+
 - The flower’s charming structure facilitates pollination while at the same time reducing
   the chances of hybridization with other species. Little Elephant Heads ([*P. attollens*](https://www.wildflower.org/plants/result.php?id_plant=PEAT)),
   only to 16" (40 cm) tall, has a corolla marked with white and rose, and head proportions

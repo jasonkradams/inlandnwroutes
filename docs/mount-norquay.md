@@ -1,26 +1,35 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Phone
   icon: phone
   value: 403.762.4421
+
 - label: Acres
   icon: vector-square
   value: '190'
+
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 300"
+
 - label: Summit Elevation
   icon: terrain
   value: 8040'
+
 - label: Base Elevation
   icon: terrain
   value: 5500'
+
 - label: Verts
   icon: arrow-expand-vertical
   value: 1650'
 notes:
+
 - Banffnorquay.com
 ---
 

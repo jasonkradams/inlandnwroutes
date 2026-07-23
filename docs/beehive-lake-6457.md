@@ -1,39 +1,55 @@
 ---
 tags:
+
 - Lakes
+
 - Hiking
+
 - Backpacking
+
 - Scrambling
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Hiking, backpacking, and scrambling
+
 - label: Distance
   icon: map-marker-distance
   value: Beehive Lake 7.2 miles RT, Loop about 11 miles
+
 - label: Elevation Gain
   icon: elevation-rise
   value: 2040’
+
 - label: Acres
   icon: vector-square
   value: '12'
+
 - label: Difficulty
   icon: speedometer
   value: Moderately difficult to Beehive Lake
+
 - label: Maps
   icon: map
   value: IPNF - Kaniksu N.F., USGS - The Wigwams, ID
+
 - label: GPS
   icon: crosshairs-gps
   value: Beehive Lake 48° 38’ 59.3"N 116° 37’ 25.0"W
+
 - label: Ranger District
   icon: pine-tree
   value: Sandpoint R.D. 208.263.5111
+
 - label: Boundary County Sheriff
   icon: shield-account
   value: CALL 911 FIRST, or 208.267.3151
 notes:
+
 - Idaho panhandle national forest/alert
+
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -110,7 +126,7 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 ---
 
-![Picture](assets/images/06a97812-cbb4-4a6b-91dc-fee0b53b4799-1.jpg)"
+![Picture](assets/images/06a97812-cbb4-4a6b-91dc-fee0b53b4799-1.jpg)
 
 ## High above little harrison lake on the ascent
 

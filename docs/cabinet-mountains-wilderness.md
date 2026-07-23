@@ -14,7 +14,7 @@ The first thing you should know about the Cabinet Mountain Wilderness is that it
 
 Wilderness areas are our wildest public lands. As an American, they belong to you and are rare and unique. Only 3% of our country is protected as wilderness.
 
-* Wilderness area
+- Wilderness area
 
 The Cabinet Mountains Wilderness occupies the higher reaches of the northern Cabinet Range southwest of Libby. A narrow line of snow capped peaks, glacial lakes, valleys cut by icy streams, and cascading waterfalls runs north to south for 40 serpentine, up-an-down miles. Two major north-south ridges divide the north Cabinets, sending Lake Creek north to the Kootenai River while spilling the Bull River south to the Clark Fork. A dramatic vertical mile separates lush stream bottoms from the rocky crest of centrally located Snowshoe Peak-the apex of the range at 8,738 feet. These pointed pinnacles challenge technical climbers in a primeval setting. Contiguous wildlands larger than the designated Wilderness core encircle the Wilderness on all sides. The east face runs the length of the range in a row of rugged canyons from which the Cabinets get their name.
 

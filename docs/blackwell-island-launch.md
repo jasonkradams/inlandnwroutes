@@ -1,19 +1,26 @@
 ---
 tags:
+
 - Paddling & Rivers
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: kayaking, canoeing, SUP
+
 - label: Elevation
   icon: terrain
   value: 2128’
+
 - label: Length and Acreage
   icon: vector-square
   value: 25 miles & 49.81 square miles
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°41’10" n 116°48’19" w
+
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300

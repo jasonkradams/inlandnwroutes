@@ -1,37 +1,53 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Moderate
+
 - Day Hiking
+
 - Backpacking
+
 - Equestrian
+
 - Fire Lookout Rental
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, equestrian, and fire lookout rental.
+
 - label: Distance
   icon: map-marker-distance
   value: 8 miles RT
+
 - label: Elevation Gain
   icon: elevation-rise
   value: 2155 verts
+
 - label: Difficulty
   icon: speedometer
   value: moderate
+
 - label: Maps
   icon: map
   value: IPNF, Mount Pend Oreille
+
 - label: GPS
   icon: crosshairs-gps
   value: Lunch Peak. 48°22’ 29" N 116°11’36"
+
 - label: Ranger District
   icon: pine-tree
   value: Sandpoint R.D. 208.263.5111
+
 - label: Bonner County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.267.8417
 notes:
+
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 

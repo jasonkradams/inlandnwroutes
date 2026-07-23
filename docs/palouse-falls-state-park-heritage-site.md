@@ -1,36 +1,51 @@
 ---
 tags:
+
 - Waterfalls
+
 - Easy
+
 - Camping
+
 - Hiking
+
 - Sightseeing
+
 stats:
+
 - label: Event Type
   icon: waterfall
   value: Camping, hiking, and sightseeing
+
 - label: Distance
   icon: map-marker-distance
   value: varies depending on your desires.
+
 - label: Elevation
   icon: terrain
   value: minimal, unless you hike down to the Snake River level
+
 - label: Difficulty
   icon: speedometer
   value: easy
+
 - label: Maps
   icon: map
   value: Palouse Falls State Park brochure, Palouse Falls & Starbucks W Topos
+
 - label: GPS
   icon: crosshairs-gps
   value: 46°39’50" n 118°13’38" w
+
 - label: Managing Agency
   icon: domain
   value: w.s.p.& r. 509.646.9218
+
 - label: County Sheriff
   icon: shield-account
   value: Franklin CALL 911 FIRST or 509.545.3501, Whitman 911 or 509.297.6266
 notes:
+
 - Washington s.p. has issued a closure for areas that have cliffs people can walk
   along and the 'castles' near the top of the falls. we can still walk to the observation
   area, but must stay within the fenced area. 2.4.2022

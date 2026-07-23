@@ -1,16 +1,22 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Genesis Name
   icon: book-open-variant
   value: Lewisia rediviva
+
 - label: Distribution
   icon: earth
   value: 'usa; wa, id, mt, or, ca, nv, co, wy, az. canada: bc, al.'
+
 - label: Season
   icon: calendar
   value: Blooms, May thru June
+
 - label: Poisonous
   icon: skull-crossbones
   value: 'The berries, foliage and roots are all highly poisonous.Edibility:'

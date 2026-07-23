@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Paddling & Rivers
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
+
 - label: Elevation
   icon: terrain
   value: 1991’
+
 - label: Length and Acreage
   icon: vector-square
   value: varies
+
 - label: Maps
   icon: map
   value: IPNF, Sandpoint Topo
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°51’09" n 117°23’09" w
+
 - label: Boundary County Sheriff
   icon: shield-account
   value: 208.267.3151

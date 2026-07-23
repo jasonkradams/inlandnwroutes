@@ -1,10 +1,15 @@
 ---
 title: "Blog #73: Camp fire etiquette"
+
 date: 2024-09-07
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 

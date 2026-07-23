@@ -1,16 +1,22 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: aleces lake .8 miles. whiteswan lake is 4 miles
+
 - label: Lake Elevation
   icon: terrain
   value: aleces 3770'. whiteswan 3754
+
 - label: Maps
   icon: map
   value: whiteswan provitial park,
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 50°08" 08’ "n 115° 29’ 26"w

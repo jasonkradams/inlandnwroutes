@@ -1,29 +1,40 @@
 ---
 tags:
+
 - Paddling & Rivers
+
 - Day Hiking
+
 stats:
+
 - label: Event Type
   icon: kayaking
   value: Day hiking
+
 - label: Distance
   icon: map-marker-distance
   value: 4 miles RT, unless you wander a lot
+
 - label: Elevation
   icon: terrain
   value: 700’
+
 - label: Difficulty
   icon: speedometer
   value: The ascent to the Rock is difficult. Once on top it’s easy.
+
 - label: Maps
   icon: map
   value: Barker Canyon, Electric City, Steamboat Rock SE & SW
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°51’83" n 119°07’39" w
+
 - label: Managing Agency
   icon: domain
   value: w.s.p. & r. 509.663.1304
+
 - label: Grant County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 509.754.2011

@@ -9,57 +9,57 @@
 Like in all outdoor sports, there are inherent hazards in paddling.
 Your chore is to notice those hazard before it becomes an issue.
 
-* put on proper sunblock before you leave home.
+- put on proper sunblock before you leave home.
 
-* reapply sunscreen after each swim. And don’t forget to apply sun screen to the back of your hands.
+- reapply sunscreen after each swim. And don’t forget to apply sun screen to the back of your hands.
 
-* Wind is by far the most hazardous weather concern.
+- Wind is by far the most hazardous weather concern.
 
   When the winds go up, go home or go to the shore.
 Do not try to turn around in heavy winds, but do get to shore fast.
 
-* Sit out the winds until it’s safe to paddle.
+- Sit out the winds until it’s safe to paddle.
 
-* Stay very close to shore when conditions are rough.
+- Stay very close to shore when conditions are rough.
 
-* When you are considering a paddle, ALWAYS paddle up stream on rivers, or against the winds on a lake. Two hours of paddling down wind, may take many more hours to paddle back up stream, or against the current.
+- When you are considering a paddle, ALWAYS paddle up stream on rivers, or against the winds on a lake. Two hours of paddling down wind, may take many more hours to paddle back up stream, or against the current.
 
-* NEVER, EVER, ALLOW YOUR NOSE TO EXTEND OVER THE INSIDE OF YOUR COCKPIT RIM. By not following this advise, you will go for an unschedule swim.
+- NEVER, EVER, ALLOW YOUR NOSE TO EXTEND OVER THE INSIDE OF YOUR COCKPIT RIM. By not following this advise, you will go for an unschedule swim.
 
    Practice turning in your seat without allowing any part of your
 body to lean outward.
 
-* Use care when you get to shore in the winds. Do not allow your boat to go sideways to the shore line. You will get swamped, if there are waves.
+- Use care when you get to shore in the winds. Do not allow your boat to go sideways to the shore line. You will get swamped, if there are waves.
 
-* With the front of your boat almost touching the shore, get out of your boat. Secure all your equipment and your paddle. And do not let go of it.
+- With the front of your boat almost touching the shore, get out of your boat. Secure all your equipment and your paddle. And do not let go of it.
 
-* Never let swimmers come up to the side of your boat. Offer them the front so you can keep an eye on them. That wise, you won’t be dunked. This is especially important if the person in the water is having health issues.
+- Never let swimmers come up to the side of your boat. Offer them the front so you can keep an eye on them. That wise, you won’t be dunked. This is especially important if the person in the water is having health issues.
 
-* Whenever you are not paddling, make sure your paddle blade lays parallel to the water. If need be, you can use the blade as resistance to the water, to keep you upright. A vertical blade slices thru the water, and over you go.
+- Whenever you are not paddling, make sure your paddle blade lays parallel to the water. If need be, you can use the blade as resistance to the water, to keep you upright. A vertical blade slices thru the water, and over you go.
 
-* Caution!  During high flow, watch for log jams and debris.Always look way ahead for hazards. They happen fast, so the more time you have the better.
+- Caution!  During high flow, watch for log jams and debris.Always look way ahead for hazards. They happen fast, so the more time you have the better.
 
-* Also, be careful near eddies where streams enter the river, and where the river makes abrupt turns.
+- Also, be careful near eddies where streams enter the river, and where the river makes abrupt turns.
 
-* As you are about to put in, it is wise to check the waters temperature. If the water or the air temperature is cold, a dry or wet suit, is a good option to be safe.
+- As you are about to put in, it is wise to check the waters temperature. If the water or the air temperature is cold, a dry or wet suit, is a good option to be safe.
 
-* Like going for a solo hike, you should let a responsible person know your plans, when you are planning on returning, and when to call the authorities if you are over due. If your plans change, for what ever the reason, be sure your responsible person knows about your change. If you don’t, the rescue teams may be miles away looking for you. Which adds to the dangers of paddling.
+- Like going for a solo hike, you should let a responsible person know your plans, when you are planning on returning, and when to call the authorities if you are over due. If your plans change, for what ever the reason, be sure your responsible person knows about your change. If you don’t, the rescue teams may be miles away looking for you. Which adds to the dangers of paddling.
 
-* Other things you may consider to take with you, are as follows. A dry bag with the following. Starting from the bottom up, a wind jacket, a fleece jacket & pants, a full set of polypropylene underwear, underwear, a wool stocking cap-wool gloves- wool socks, a large bath towel to dry off with, and several chemical hand warmers. Amazon sells large brim hats for around 15-29$. Mine are Solaris and Sunblocker. Apply sun screen often to ALL exposed skin, especially the back of your hands.
+- Other things you may consider to take with you, are as follows. A dry bag with the following. Starting from the bottom up, a wind jacket, a fleece jacket & pants, a full set of polypropylene underwear, underwear, a wool stocking cap-wool gloves- wool socks, a large bath towel to dry off with, and several chemical hand warmers. Amazon sells large brim hats for around 15-29$. Mine are Solaris and Sunblocker. Apply sun screen often to ALL exposed skin, especially the back of your hands.
 
-* And it’s very importantly, keep a close eye on your fellow paddlers. If anyone on your paddle starts to act odd, consult your other paddlers and take action to insure their safety. Each person on a paddle, has the responsibility and obligation to look out for others on the trip.
+- And it’s very importantly, keep a close eye on your fellow paddlers. If anyone on your paddle starts to act odd, consult your other paddlers and take action to insure their safety. Each person on a paddle, has the responsibility and obligation to look out for others on the trip.
 
-* If you come along a person or group that is having an issue, stop and render assistance. If you don’t, and they have serious issues, you will feel bad, when you learn of their problems on the evening news.
+- If you come along a person or group that is having an issue, stop and render assistance. If you don’t, and they have serious issues, you will feel bad, when you learn of their problems on the evening news.
 
-* Like serious hiking, scrambling, or climbing....
+- Like serious hiking, scrambling, or climbing....
 
-* Do not be macho.
+- Do not be macho.
 
-* A macho attitude, can get you in trouble, in an instant.
+- A macho attitude, can get you in trouble, in an instant.
 
-* Other things to take with you are maps, extra food & water, sponge, flares or signaling devise, a whistle, a spray skirt, dry bags, a knife, sun screen, duct tape, a First Aid Kit, a bilge pump, water sandals, and your 13 essentials, to name a few.
+- Other things to take with you are maps, extra food & water, sponge, flares or signaling devise, a whistle, a spray skirt, dry bags, a knife, sun screen, duct tape, a First Aid Kit, a bilge pump, water sandals, and your 13 essentials, to name a few.
 
-* When packing your kayak, balance the load front to back, with slightly more weight in back. That will keep your bow up, and cause less pushing thru water.
+- When packing your kayak, balance the load front to back, with slightly more weight in back. That will keep your bow up, and cause less pushing thru water.
 
 While paddling a lake or a river....
 Always wear a pfd.

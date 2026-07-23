@@ -1,45 +1,65 @@
 ---
 tags:
+
 - Lakes
+
 - Easy to Both Lakes.
+
 - Hiking
+
 - Backpacking
+
 - Camping
+
 - Fishing
+
 - Scrambling
+
 - Ada Capable
 
 stats:
+
 - label: Event Type
   icon: hiking
   value: Hiking, Backpacking, camping, fishing, scrambling, ADA capable.
+
 - label: Distance
   icon: map-marker-distance
   value: 3rd lake is 4 miles RT
+
 - label: Elevation Gain
   icon: elevation-rise
   value: 'Lake # 3 to the high point 6410’, is 535'' gain, and drops 215'' to Lower
 
     Lake'
+
 - label: Difficulty
   icon: speedometer
   value: Easy to both lakes.
+
 - label: Maps
   icon: map
   value: IPNF, Kaniksu N.F., Roman Nose topo
+
 - label: GPS
   icon: crosshairs-gps
   value: Roman Nose Lake 48°38’07" N -116 35’ 14" W
+
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 911 or 208.267.5561
+
 - label: Boundary County Sheriff
   icon: shield-account
   value: call 911 first or 208.267.3151
 notes:
+
 - Roman Nose Peak. 48°37’39"N 116°35’37"W
+
 - Daho panhandle national forest/alerts
+
 - '[https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)'---
+
 # Roman Nose Lakes  Peak Idaho
 
 *Roman nose lakes & peak 7260’, idaho. trail #160 & 165*

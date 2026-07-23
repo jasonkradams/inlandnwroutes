@@ -1,10 +1,14 @@
 ---
 tags:
+
 - Paddling & Rivers
+
 stats:
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: ??° ??’ ??.?"n ???° ??’ ??.?"w
+
 - label: Spokane County Sheriff
   icon: shield-account
   value: 509.447.2240

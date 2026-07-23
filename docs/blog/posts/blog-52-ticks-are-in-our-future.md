@@ -1,10 +1,15 @@
 ---
 title: "Blog #52: Ticks are in our future"
+
 date: 2024-03-27
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Winter Sports
 ---
 

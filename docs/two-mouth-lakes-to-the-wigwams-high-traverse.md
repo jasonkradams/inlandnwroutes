@@ -1,40 +1,57 @@
 ---
 tags:
+
 - Lakes
+
 - Moderate
+
 - Hike
+
 - Backpack
+
 - Scramble
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Hike, Backpack and Scramble
+
 - label: Distance
   icon: map-marker-distance
   value: 9 miles one way, or 14 RT to Two Mouth Lakes.
+
 - label: Elevation
   icon: terrain
   value: Trail high point 1770' gain. High point to Lower Lake 365' loss.
+
 - label: Acres
   icon: vector-square
   value: '3.4'
+
 - label: Difficulty
   icon: speedometer
   value: Moderate
+
 - label: Maps
   icon: map
   value: IPNF - Kaniksu N.F., USGS - Roman Nose, ID
+
 - label: GPS
   icon: crosshairs-gps
   value: 48° 43’ 13.3"n 116° 37’ 30.3"w
+
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561
+
 - label: Boundary County Sheriff
   icon: shield-account
   value: 911 or 208.267.3151
 notes:
+
 - Idaho panhandle national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -86,7 +103,7 @@ Jalapeños, Mr. Sub, Burger ExpressEichardt’s in Sandpoint
 
 ## Photo gallery
 
-![Picture](assets/images/ecd623d9-9331-43fe-b0fa-03fe2040215c.jpg)"
+![Picture](assets/images/ecd623d9-9331-43fe-b0fa-03fe2040215c.jpg)
 
 Because of logging, the actual trail starts up this logging road.  the granite dome is called myrtle’s turtle
 

@@ -1,10 +1,15 @@
 ---
 title: "Blog #55: Plan ahead"
+
 date: 2024-04-26
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 

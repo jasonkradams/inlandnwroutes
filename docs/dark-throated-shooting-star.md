@@ -1,34 +1,44 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Genesis Name
   icon: book-open-variant
   value: Primula pauciflora
+
 - label: Distribution
   icon: earth
   value: From Alaska to Mexico and Pennsylvania & Utah
+
 - label: Season
   icon: calendar
   value: May thru June
+
 - label: Medical Use
   icon: medical-bag
   value: '**There are no known medicinal uses for the plant**.'
+
 - label: Poisonous
   icon: skull-crossbones
   value: Because this information is unknown, **this species should be considered
     poisonous**. In early spring when green forage is scarce, elk and deer will eat
     the Shooting Star.
+
 - label: Edibility
   icon: food-apple
   value: 'Edible and medicinal value: The roots and leaves of another species of Shooting
     Star may be eaten or boiled.'
+
 - label: Features
   icon: information-outline
   value: Common shooting star blooms in mid-spring from May to June. The plant forms
     rosettes of long narrow leaves and singular slender stems. The flowers hang in
     umbels from the stems and are **white to bright pink**. ... These dangle down
     from the center and may be a pale yellow, pink, or even soft purple color.
+
 - label: Leaves
   icon: leaf
   value: Shooting Star is a native North American wildflower that forms a **low rosette
@@ -36,6 +46,7 @@ stats:
     unusual blooms in a shooting star-like appearance. They grow best in moist, humusy
     well-drained soil in part shade.
 notes:
+
 - Common shooting star blooms in mid-spring from May to June. The plant forms rosettes
   of long narrow leaves and singular slender stems. The flowers hang in umbels from
   the stems and are **white to bright pink**. ... These dangle down from the center

@@ -1,45 +1,64 @@
 ---
 tags:
+
 - Lakes
+
 - Near Difficult
+
 - Hiking
+
 - Backpacking
+
 - Fishing
+
 - Skiing
+
 - Climbing
+
 - Paddling
 
 stats:
+
 - label: Event Type
   icon: hiking
   value: hiking, backpacking, fishing, skiing, climbing and paddling
+
 - label: Distance
   icon: map-marker-distance
   value: 3.04 miles RT to lake 6 miles RT with Amphitheater by raft.
+
 - label: Elevation Gain
   icon: elevation-rise
   value: 1104' gain. The hike up thru the Amphitheater, to the center summit is 1875
     verts
+
 - label: Acres
   icon: vector-square
   value: '129.2'
+
 - label: Difficulty
   icon: speedometer
   value: Near Difficult
+
 - label: Maps
   icon: map
   value: Cabinet Mountain Wilderness, Kootenai N.F., Snowshoe Peak
+
 - label: GPS
   icon: crosshairs-gps
   value: '[48°13’28"n](https://goo.gl/maps/GDAcZfwdD5ZRiU3h7) [115°39’39"w](https://goo.gl/maps/GDAcZfwdD5ZRiU3h7)'
+
 - label: Ranger District
   icon: pine-tree
   value: libby ranger district 406.293.7773
+
 - label: Sanders County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.827.3584
 notes:
+
 - Kootenai national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 

@@ -1,38 +1,53 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Hiking
+
 - Backpacking
+
 - No Trail. Yahooo
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Hiking, backpacking and equestrian. Maybe some mt biking to Cutoff Peak,
     but the very long ridge towards Smith Peak has many blow downs, and no trail.
     Yahooo
+
 - label: Distance
   icon: map-marker-distance
   value: Cutoff Peak about 6 miles RT. Smith Peak from Cutoff Peak 8 miles RT
+
 - label: Elevation
   icon: terrain
   value: To Cutoff Peak 1440' gain To Smith Peak about 2700'+
+
 - label: Difficulty
   icon: speedometer
   value: Moderate to Cutoff Peak Difficult to Smith Peak
+
 - label: Maps
   icon: map
   value: IPNF - Kaniksu N.F., USGS - Shorty Peak & Smith Peak
+
 - label: GPS
   icon: crosshairs-gps
   value: 48° 53’ 46.0"n 116° 38’ 41.5"w
+
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561
+
 - label: Boundary County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.267.3151
 notes:
+
 - Idaho panhandle national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 
@@ -72,7 +87,7 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
 ## Photo gallery
 
-![Picture](assets/images/68a4ad15-0410-4a7c-ae68-346834a4c8f2.jpg)"
+![Picture](assets/images/68a4ad15-0410-4a7c-ae68-346834a4c8f2.jpg)
 
 ## Near the start of the trail to cutoff peak on way to smith peak
 

@@ -1,39 +1,57 @@
 ---
 tags:
+
 - Lakes
+
 - Difficult
+
 - Day Hiking
+
 - Backpacking
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking
+
 - label: Distance
   icon: map-marker-distance
   value: 8 miles RT
+
 - label: Elevation Gain
   icon: elevation-rise
   value: 2700 verts
+
 - label: Acres
   icon: vector-square
   value: '10.1'
+
 - label: Difficulty
   icon: speedometer
   value: Difficult
+
 - label: Maps
   icon: map
   value: Kootenai N.F., Silver Butte Pass, Goat Peak topos
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°57’41" n 115°32’23" w
+
 - label: Ranger District
   icon: pine-tree
   value: 'libby ranger district: 406.293.7773'
 notes:
+
 - Kootenai national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+
 - 'LINCOLN COUNTY, MT SHERIFF: 911 or [406.293.4112](tel:406.293.4112)'
+
 - Kootenai national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 

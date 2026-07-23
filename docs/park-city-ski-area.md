@@ -1,26 +1,35 @@
 ---
 tags:
+
 - Winter & Skiing
+
 stats:
+
 - label: Phone
   icon: phone
   value: 435.649.8111
+
 - label: Acres
   icon: vector-square
   value: 7300+
+
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 355"
+
 - label: Summit Elevation
   icon: terrain
   value: 10026'
+
 - label: Base Elevation
   icon: terrain
   value: 6880'
+
 - label: Verts
   icon: arrow-expand-vertical
   value: 3226'
 notes:
+
 - Parkcitymountain.com
 ---
 

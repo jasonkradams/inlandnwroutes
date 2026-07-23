@@ -477,11 +477,15 @@ risk" area for Lyme disease and spotted fever is extremely rare. Still, get the 
 soon as possible:
 
 1. Use an antiseptic or alcohol wipe to clean the area around the tick.
+
 2. Grasp the tick with tweezers (or fingers) as close to the skin as possible.
+
 3. Pull straight and steady — do not twist or yank. You don't want to leave the head and legs under
    the skin.
+
 4. If parts do remain under the skin, pinch the skin up and try to scrape the remains away, using a
    sterilized needle if you have to dig anything out.
+
 5. Clean the area again with another antiseptic or alcohol wipe.
 
 If you're concerned about disease, save the tick for testing and note the date you found it, in case

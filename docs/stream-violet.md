@@ -1,27 +1,35 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Genesis Name
   icon: book-open-variant
   value: VIOLA glabella
+
 - label: Distribution
   icon: earth
   value: The west coast from Alaska to California.
+
 - label: Season
   icon: calendar
   value: May to June
+
 - label: Medical Use
   icon: medical-bag
   value: Violet is cooling and moistening and is used internally as a **blood cleanser,
     respiratory remedy, and lymphatic stimulant**. It is taken as a tea or syrup,
     and can also be eaten for its medicine.
+
 - label: Edibility
   icon: food-apple
   value: '**Young leaves and flower buds - raw or cooked**. When added to soup they
     thicken it in much the same way as okra. Some caution is advised, the yellow flowers
     of this species can cause diarrhoea if eaten in large quantities. A tea can be
     made from the leaves.'
+
 - label: Leaves
   icon: leaf
   value: The Stream Violet leaves are close to a heart shape, and appear just under

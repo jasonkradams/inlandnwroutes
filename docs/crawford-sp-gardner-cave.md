@@ -1,30 +1,42 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 - Easy
+
 - Spelunking Made Easy
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Spelunking made easy
+
 - label: Distance
   icon: map-marker-distance
   value: The laddered descent is 494 feet down
+
 - label: Elevation
   icon: terrain
   value: 2775’
+
 - label: Difficulty
   icon: speedometer
   value: Easy
+
 - label: Maps
   icon: map
   value: Washington State Parks & Rec.
+
 - label: GPS
   icon: crosshairs-gps
   value: 48°59’46" n 117°22’15" w
+
 - label: Managing Agency
   icon: domain
   value: w.s.p.& r. 509.238.4258
+
 - label: Pend Orielle County Sheriff
   icon: shield-account
   value: 509.447.3151
@@ -108,7 +120,7 @@ Boating
 Camping
 History**Ada amenities/facilities**
 
-* Restroom
+- Restroom
 
 Use our interactive [ADA recreation map](https://parks.state.wa.us/156/ADA-Recreation) to search for other state parks with ADA amenities and facilities.
 Picnic & day-use facilities
@@ -120,10 +132,10 @@ Thursday though Monday: 10 a.m., noon, 2 p.m. and 4 p.m.
 
 ### Additional information
 
-* The main activity at Crawford State Park Heritage Site is touring Gardner Cave. With large groups and holidays, extra tours can be given. Park staff limits tour size to 25 people. A call before arrival will help in accommodating large groups. Call Crawford State Park at [(509) 446-4065](tel:(509)%20446-4065).
+- The main activity at Crawford State Park Heritage Site is touring Gardner Cave. With large groups and holidays, extra tours can be given. Park staff limits tour size to 25 people. A call before arrival will help in accommodating large groups. Call Crawford State Park at [(509) 446-4065](tel:(509)%20446-4065).
 
-* Suitable walking shoes or hiking boots are recommended for touring the caves and surrounding area.
+- Suitable walking shoes or hiking boots are recommended for touring the caves and surrounding area.
 
-* The surrounding area has many events and outdoor activities. Contact the Metaline Falls Chamber of Commerce and the National Forest Service. Metaline Falls is located in the Colville National Forest.
+- The surrounding area has many events and outdoor activities. Contact the Metaline Falls Chamber of Commerce and the National Forest Service. Metaline Falls is located in the Colville National Forest.
 
-* [Printable park brochure (PDF).](https://parks.state.wa.us/DocumentCenter/View/850)
+- [Printable park brochure (PDF).](https://parks.state.wa.us/DocumentCenter/View/850)

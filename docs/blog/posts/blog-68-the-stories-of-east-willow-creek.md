@@ -1,10 +1,15 @@
 ---
 title: "Blog #68: The stories of east willow creek"
+
 date: 2024-07-31
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Winter Sports
 ---
 

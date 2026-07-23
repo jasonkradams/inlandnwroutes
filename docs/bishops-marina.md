@@ -1,7 +1,10 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48.4803° ??’ ??.?"n ???° ??’ ??.?"w

@@ -1,37 +1,53 @@
 ---
 tags:
+
 - Lakes
+
 - Easy+
+
 - Day Hiking
+
 - Backpacking
+
 - Paddling
+
 - Fishing
+
 - Climbing
+
 - More
 
 stats:
+
 - label: Event Type
   icon: hiking
   value: day hiking, backpacking, paddling, fishing, climbing, and more
+
 - label: Distance
   icon: map-marker-distance
   value: varies on activity
+
 - label: Elevation Gain
   icon: elevation-rise
   value: Up to 700 verts depending on activity
+
 - label: Acres
   icon: vector-square
   value: 26,890
+
 - label: Difficulty
   icon: speedometer
   value: easy+
+
 - label: Maps
   icon: map
   value: coulee dam area
+
 - label: GPS
   icon: crosshairs-gps
   value: At the Steamboat Rock S.P. entrance road & Hwy 155. 47°49’45" N 119°08’01"
     W
+
 - label: Grant County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 509.754.2011

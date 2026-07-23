@@ -61,13 +61,13 @@ That man was J. Harlan Bretz.
 A word of caution while hiking in the scabs
 Because the terrain you will be in while hiking, you must be aware of your surroundings. Note all high points and landmarks. Even those off in a distance. They can be used to gain perspective of your current location, as apposed to your entry route.
 
-* Always make sure Each hiker is carrying a map of the area
+- Always make sure Each hiker is carrying a map of the area
 
-* Do not allow any hiker in your group to wonder off
+- Do not allow any hiker in your group to wonder off
 
-* Your group Must stay together
+- Your group Must stay together
 
-* Watch and listen for rattlesnakes. they come out in the morning to sun. there are leg shields to protect from bites.
+- Watch and listen for rattlesnakes. they come out in the morning to sun. there are leg shields to protect from bites.
 
 There are safety shin guards you can buy to protect from snake bites.
 

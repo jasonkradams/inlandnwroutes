@@ -1,34 +1,49 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Strenuous
+
 - Day Hiking
+
 - Backpacking
+
 - Equestrian
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, equestrian
+
 - label: Distance
   icon: map-marker-distance
   value: up to 22 miles RT
+
 - label: Elevation
   icon: terrain
   value: 3400 verts
+
 - label: Difficulty
   icon: speedometer
   value: Strenuous
+
 - label: Maps
   icon: map
   value: Kootenai N.F., Sawtooth & Smeads Bench topos
+
 - label: GPS
   icon: crosshairs-gps
   value: Trailhead 48°06’18" N 115°47’26" W
+
 - label: Ranger District
   icon: pine-tree
   value: Cabinet R.D. 406.827.3533
 notes:
+
 - 'SANDERS COUNTY SHERIFF, MT: CALL 911 FIRST or 406.827.3584'
+
 - Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 

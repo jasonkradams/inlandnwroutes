@@ -8,89 +8,89 @@ Patagonia is the portion of [South America](https://www.newworldencyclopedia.org
 Patagonia has around 1,740,000 (2001 census) inhabitants. Seventy percent of its population is located in just 20 percent of its territory.
 Contents
 
-* 1
+- 1
 
-* History
+- History
 
-* 1.1
+- 1.1
 
-* First human settlement
+- First human settlement
 
-* 1.2
+- 1.2
 
-* Early European accounts: Sixteenth and seventeenth centuries
+- Early European accounts: Sixteenth and seventeenth centuries
 
-* 1.3
+- 1.3
 
-* Patagonian giants: Early European perceptions
+- Patagonian giants: Early European perceptions
 
-* 1.4
+- 1.4
 
-* Expansion and exploration: Eighteenth and nineteenth centuries
+- Expansion and exploration: Eighteenth and nineteenth centuries
 
-* 1.5
+- 1.5
 
-* European Immigrations
+- European Immigrations
 
-* 1.6
+- 1.6
 
-* Culture and Religion
+- Culture and Religion
 
-* 2
+- 2
 
-* Physiography
+- Physiography
 
-* 2.1
+- 2.1
 
-* Geology
+- Geology
 
-* 2.2
+- 2.2
 
-* Provinces and Economy
+- Provinces and Economy
 
-* 2.2.1
+- 2.2.1
 
-* Neuquén
+- Neuquén
 
-* 2.2.2
+- 2.2.2
 
-* Río Negro
+- Río Negro
 
-* 2.2.3
+- 2.2.3
 
-* Chubut
+- Chubut
 
-* 2.2.4
+- 2.2.4
 
-* Santa Cruz
+- Santa Cruz
 
-* 2.2.5
+- 2.2.5
 
-* Tierra del Fuego
+- Tierra del Fuego
 
-* 3
+- 3
 
-* Climate
+- Climate
 
-* 4
+- 4
 
-* Fauna
+- Fauna
 
-* 4.1
+- 4.1
 
-* Environmental Concerns
+- Environmental Concerns
 
-* 5
+- 5
 
-* References
+- References
 
-* 6
+- 6
 
-* External Links
+- External Links
 
-* 7
+- 7
 
-* Credits
+- Credits
 
 Patagonia has become renowned as one of the few surviving regions of the world designated as an "eden" or region where pristine nature still exists. Known for its arid plains, breathtaking mountain vistas, and bountiful, diverse wildlife, Patagonia is an exciting lure for eco-tourists and outdoor sports enthusiasts.
 History
@@ -159,45 +159,45 @@ References
 ISBN links support NWE through referral fees
 All links retrieved June 25, 2007.
 
-* Aagesen, D. [Crisis and Conservation at the End of the World: Sheep Ranching in Argentine Patagonia.](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=60985) May 2002. Dept. of Geography, State University of New York. Cambridge Journals, Cambridge University Press.
+- Aagesen, D. [Crisis and Conservation at the End of the World: Sheep Ranching in Argentine Patagonia.](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=60985) May 2002. Dept. of Geography, State University of New York. Cambridge Journals, Cambridge University Press.
 
-* Beasley, Conger and Tim Hauf (photographer). Patagonia: Wild Land at the End of the Earth. Tim Hauf Photography, 2004. [Isbn 0972074333](https://www.amazon.com/gp/product/0972074333/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0972074333&linkCode=as2&tag=newworldencyc-20&linkId=83df4bed72539f2a52beb06a1d71be79)
+- Beasley, Conger and Tim Hauf (photographer). Patagonia: Wild Land at the End of the Earth. Tim Hauf Photography, 2004. [Isbn 0972074333](https://www.amazon.com/gp/product/0972074333/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0972074333&linkCode=as2&tag=newworldencyc-20&linkId=83df4bed72539f2a52beb06a1d71be79)
 
-* Beccaceci, Marcelo D. Natural Patagonia / Patagonia natural: Argentina & Chile Pangaea (Bilingual edition). St. Paul, MN: Pangaea Publishing, 1998. [Isbn 0963018035](https://www.amazon.com/gp/product/0963018035/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0963018035&linkCode=as2&tag=newworldencyc-20&linkId=83df4bed72539f2a52beb06a1d71be79)
+- Beccaceci, Marcelo D. Natural Patagonia / Patagonia natural: Argentina & Chile Pangaea (Bilingual edition). St. Paul, MN: Pangaea Publishing, 1998. [Isbn 0963018035](https://www.amazon.com/gp/product/0963018035/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0963018035&linkCode=as2&tag=newworldencyc-20&linkId=83df4bed72539f2a52beb06a1d71be79)
 
-* Chatwin, Bruce. In Patagonia. New York: Penguin Classics, 1977. [Isbn 0142437190](https://www.amazon.com/gp/product/0142437190/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0142437190&linkCode=as2&tag=newworldencyc-20&linkId=83df4bed72539f2a52beb06a1d71be79)
+- Chatwin, Bruce. In Patagonia. New York: Penguin Classics, 1977. [Isbn 0142437190](https://www.amazon.com/gp/product/0142437190/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0142437190&linkCode=as2&tag=newworldencyc-20&linkId=83df4bed72539f2a52beb06a1d71be79)
 
-* The Columbia Gazetteer of the World Online. "Argentina Demographics and Geography." New York: Columbia University Press, 2005.
+- The Columbia Gazetteer of the World Online. "Argentina Demographics and Geography." New York: Columbia University Press, 2005.
 
-* Global Environmental Facility. ["Promoting Sustainable Land Management."](http://www.gefweb.org/projects/Focal_Areas/land/documents/Promoting_Sustainable_Land_Management.pdf) Washington, DC: Global Environmental Facility, 2006.
+- Global Environmental Facility. ["Promoting Sustainable Land Management."](http://www.gefweb.org/projects/Focal_Areas/land/documents/Promoting_Sustainable_Land_Management.pdf) Washington, DC: Global Environmental Facility, 2006.
 
-* Imhoff, Dan and Roberto Cara. Farming with the Wild: Enhancing Biodiversity on Farms and Ranches. Berkeley, CA: University of California Press, 2003. [Isbn 1578050928](https://www.amazon.com/gp/product/1578050928/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1578050928&linkCode=as2&tag=newworldencyc-20&linkId=83df4bed72539f2a52beb06a1d71be79)
+- Imhoff, Dan and Roberto Cara. Farming with the Wild: Enhancing Biodiversity on Farms and Ranches. Berkeley, CA: University of California Press, 2003. [Isbn 1578050928](https://www.amazon.com/gp/product/1578050928/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1578050928&linkCode=as2&tag=newworldencyc-20&linkId=83df4bed72539f2a52beb06a1d71be79)
 
-* InterPatagonia.com. ["Agenda in Patagonia: The Most Important Festivals and Events in Patagonia."](http://www.interpatagonia.com/agenda/january.html)
+- InterPatagonia.com. ["Agenda in Patagonia: The Most Important Festivals and Events in Patagonia."](http://www.interpatagonia.com/agenda/january.html)
 
-* Lutz, Richard L. Patagonia: At the Bottom of the World. Salem, OR: DIMI Press, 2002. [Isbn 0931625386](https://www.amazon.com/gp/product/0931625386/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0931625386&linkCode=as2&tag=newworldencyc-20&linkId=83df4bed72539f2a52beb06a1d71be79)
+- Lutz, Richard L. Patagonia: At the Bottom of the World. Salem, OR: DIMI Press, 2002. [Isbn 0931625386](https://www.amazon.com/gp/product/0931625386/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0931625386&linkCode=as2&tag=newworldencyc-20&linkId=83df4bed72539f2a52beb06a1d71be79)
 
-* McEwan, Colin; Luis Alberto Borrero and Alfredo Prieto (eds.). Patagonia: Natural History, Prehistory, and Ethnography at the Uttermost End of the Earth. Trustees of the British National Museum. Princeton, NJ: Princeton University Press, 1998. [Isbn 0691058490](https://www.amazon.com/gp/product/0691058490/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0691058490&linkCode=as2&tag=newworldencyc-20&linkId=83df4bed72539f2a52beb06a1d71be79)
+- McEwan, Colin; Luis Alberto Borrero and Alfredo Prieto (eds.). Patagonia: Natural History, Prehistory, and Ethnography at the Uttermost End of the Earth. Trustees of the British National Museum. Princeton, NJ: Princeton University Press, 1998. [Isbn 0691058490](https://www.amazon.com/gp/product/0691058490/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0691058490&linkCode=as2&tag=newworldencyc-20&linkId=83df4bed72539f2a52beb06a1d71be79)
 
 External Links
 All links retrieved November 18, 2022.
 
-* [Reader's Digest World Presents The Living Edens](http://www.pbs.org/edens/patagonia/index.htm) – PBS Online.
+- [Reader's Digest World Presents The Living Edens](http://www.pbs.org/edens/patagonia/index.htm) – PBS Online.
 
-* [Patagonia travel guide by Inter Patagonia](http://www.interpatagonia.com/index_i.html) – InterPatagonia.com.
+- [Patagonia travel guide by Inter Patagonia](http://www.interpatagonia.com/index_i.html) – InterPatagonia.com.
 
 Credits
 New World Encyclopedia writers and editors rewrote and completed the Wikipedia article in accordance with New World Encyclopedia [standards](https://www.newworldencyclopedia.org/entry/Help:Writers_Manual). This article abides by terms of the [Creative Commons CC-by-sa 3.0 License](https://www.newworldencyclopedia.org/entry/New_World_Encyclopedia:Creative_Commons_CC-by-sa_3.0) (CC-by-sa), which may be used and disseminated with proper attribution. Credit is due under the terms of this license that can reference both the New World Encyclopedia contributors and the selfless volunteer contributors of the Wikimedia Foundation. To cite this article [click here](https://www.newworldencyclopedia.org/entry/Special:CiteThisPage?page=Patagonia&wpFormIdentifier=titleform) for a list of acceptable citing formats.The history of earlier contributions by wikipedians is accessible to researchers here:
 
-* [Patagonia](https://en.wikipedia.org/w/index.php?title=Patagonia&oldid=32484442)  [history](https://en.wikipedia.org/w/index.php?title=Patagonia&action=history)
+- [Patagonia](https://en.wikipedia.org/w/index.php?title=Patagonia&oldid=32484442)  [history](https://en.wikipedia.org/w/index.php?title=Patagonia&action=history)
 
 The history of this article since it was imported to New World Encyclopedia:
 
-* [History of "Patagonia"](https://www.newworldencyclopedia.org/p/index.php?title=Patagonia&action=history)
+- [History of "Patagonia"](https://www.newworldencyclopedia.org/p/index.php?title=Patagonia&action=history)
 
 Note: Some restrictions may apply to use of individual images which are separately licensed.
 
-* [Categories](https://www.newworldencyclopedia.org/entry/Special:Categories): [Global regions](https://www.newworldencyclopedia.org/entry/Category:Global_regions)[Geography](https://www.newworldencyclopedia.org/entry/Category:Geography)
+- [Categories](https://www.newworldencyclopedia.org/entry/Special:Categories): [Global regions](https://www.newworldencyclopedia.org/entry/Category:Global_regions)[Geography](https://www.newworldencyclopedia.org/entry/Category:Geography)
 
 [Privacy policy](https://www.newworldencyclopedia.org/entry/New_World_Encyclopedia:Privacy_policy)
 [About New World Encyclopedia](https://www.newworldencyclopedia.org/entry/New_World_Encyclopedia:About)

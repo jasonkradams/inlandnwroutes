@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Paddling & Rivers
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
+
 - label: Elevation
   icon: terrain
   value: 2128’
+
 - label: Length and Acreage
   icon: vector-square
   value: varies
+
 - label: Maps
   icon: map
   value: IPNF, Fernan lake, Mt. CDA topos
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°37’51" n 116°40’51" w
+
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300
@@ -53,6 +61,7 @@ Trail’s End Brewery, Mexican Food Factory, Moon Time, and Franklins Hoagies.
 [Click for Current NOAA Weather Conditions](https://forecast.weather.gov/MapClick.php?lat=47.6153&lon=-116.6789)
 
 !!! Warning
+
     - Please everyone...heed this health alert
 
     ![Picture](assets/images/5132025306p-2.jpg)

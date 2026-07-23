@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Paddling & Rivers
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
+
 - label: Elevation
   icon: terrain
   value: 2067’
+
 - label: Length and Acreage
   icon: vector-square
   value: varies
+
 - label: Maps
   icon: map
   value: IPNF, Clark Fork Topo
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°08’20" n 116°13’43" w
+
 - label: Bonner County Sheriff
   icon: shield-account
   value: 208.263.8417

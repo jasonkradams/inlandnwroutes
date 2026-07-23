@@ -1,26 +1,35 @@
 ---
 tags:
+
 - Winter & Skiing
+
 stats:
+
 - label: Phone
   icon: phone
   value: 800.258.7669
+
 - label: Acres
   icon: vector-square
   value: '2500'
+
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 360"
+
 - label: Summit Elevation
   icon: terrain
   value: 7000'
+
 - label: Base Elevation
   icon: terrain
   value: 3350’
+
 - label: Verts
   icon: arrow-expand-vertical
   value: 3550'
 notes:
+
 - Skifernie.com
 ---
 

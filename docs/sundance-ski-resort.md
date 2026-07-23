@@ -1,26 +1,35 @@
 ---
 tags:
+
 - Winter & Skiing
+
 stats:
+
 - label: Phone
   icon: phone
   value: 801.225.4107
+
 - label: Acres
   icon: vector-square
   value: '450'
+
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 275"
+
 - label: Summit Elevation
   icon: terrain
   value: 8250'
+
 - label: Base Elevation
   icon: terrain
   value: 6100'
+
 - label: Verts
   icon: arrow-expand-vertical
   value: 2150'
 notes:
+
 - Suncancwresort.com
 ---
 

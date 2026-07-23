@@ -1,26 +1,35 @@
 ---
 tags:
+
 - Winter & Skiing
+
 stats:
+
 - label: Phone
   icon: phone
   value: 509.557.3401
+
 - label: Acres
   icon: vector-square
   value: '300'
+
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 150"
+
 - label: Summit Elevation
   icon: terrain
   value: 5236'
+
 - label: Base Elevation
   icon: terrain
   value: 4020'
+
 - label: Verts
   icon: arrow-expand-vertical
   value: 1240'
 notes:
+
 - Skitheloup.com
 ---
 

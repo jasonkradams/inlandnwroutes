@@ -1,24 +1,34 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Difficult
+
 - Day Hiking
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day Hiking
+
 - label: Distance
   icon: map-marker-distance
   value: 6.4 Miles
+
 - label: Elevation
   icon: terrain
   value: 1,150 gain/loss
+
 - label: Difficulty
   icon: speedometer
   value: Difficult
+
 - label: Maps
   icon: map
   value: GaiaGPS.com USFS 2016
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°50'25.4"n 116°57'32.3"w
@@ -74,7 +84,7 @@ trailforks widget end
 
 ---
 
-![Picture](assets/images/202311180631.jpg)"
+![Picture](assets/images/202311180631.jpg)
 
 Parking pull outs at the end of hidden valley road just before the gated fire road on the right leading up to the scenic lodge
 

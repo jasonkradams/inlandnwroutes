@@ -24,8 +24,21 @@ def process_file(filepath):
     # Fix absolute or malformed image paths
     content = re.sub(r'(/|\.|\w)*/?assets/images/', correct_prefix, content)
     
-    # Clean malformed data-src attributes inside image title quotes
-    content = re.sub(r'\"([^\"]*)\{\:\s*data-src=[^\}]*\}', r'"\1"', content)
+    # Extract title from {: data-src=... data-title="..."} and put into alt/caption
+    def fix_image_attr(match):
+        full_match = match.group(0)
+        img_match = re.search(r'!\[[^\]]*\]\(([^)]+)\)', full_match)
+        img_path = img_match.group(1) if img_match else ''
+        title_match = re.search(r'data-title=[\"\']([^\"\']+)[\"\']', full_match)
+        if title_match:
+            title = title_match.group(1).strip()
+            return f'![{title}]({img_path})\n_{title}_'
+        return f'![Image]({img_path})'
+
+    content = re.sub(r'!\[[^\]]*\]\([^)]+\)\{\:[^\}]*\}', fix_image_attr, content)
+    
+    # Remove orphaned trailing quote right after image tag
+    content = re.sub(r'(!\[[^\]]*\]\([^\)]+\))\"', r'\1', content)
     
     # 3. Clean scraped web artifacts
     content = re.sub(r'##\s*\[[^\]]+\.html\]\(\)', '', content)
@@ -36,10 +49,26 @@ def process_file(filepath):
     content = re.sub(r'###\s*Leave a Reply\.?', '', content, flags=re.IGNORECASE)
     content = re.sub(r'\[\[email\s*protected\]\]\(/cdn-cgi/l/email-protection\)', 'info@inlandnwroutes.com', content)
     content = re.sub(r'/cdn-cgi/l/email-protection', '', content)
+    content = re.sub(r'\[\"\]\(\"\)', '', content)
+    content = re.sub(r'\[\"\]\(\)', '', content)
     
     # 4. Clean trailing spaces (MD009)
     lines = [l.rstrip() for l in content.splitlines()]
-    content = '\n'.join(lines)
+
+    # Normalize list markers to '-' for MD004 consistency in non-frontmatter lines
+    in_fm = False
+    new_lines = []
+    for line in lines:
+        if line.strip() == '---':
+            in_fm = not in_fm
+            new_lines.append(line)
+            continue
+        if not in_fm:
+            # Replace bullet point '*' with '-' if it starts a list item
+            line = re.sub(r'^(\s*)\*\s+', r'\1- ', line)
+        new_lines.append(line)
+
+    content = '\n'.join(new_lines)
     
     # 5. Heading blank line spacing (MD022)
     content = re.sub(r'([^\n])\n(#{1,6}\s+)', r'\1\n\n\2', content)
@@ -48,6 +77,7 @@ def process_file(filepath):
     # 6. List blank line spacing (MD032)
     content = re.sub(r'([^\n])\n(\s*[\*\-\+]\s+)', r'\1\n\n\2', content)
     content = re.sub(r'(\s*[\*\-\+]\s+[^\n]+)\n([^\n\*\-\+\s])', r'\1\n\n\2', content)
+    content = re.sub(r'([^\n])\n(\s*\d+\.\s+)', r'\1\n\n\2', content)
     
     # 7. Collapse multiple blank lines to max 2
     content = re.sub(r'\n{3,}', '\n\n', content)

@@ -1,18 +1,24 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Genesis Name
   icon: book-open-variant
   value: Arctostaphylos uva-ursi
+
 - label: Distribution
   icon: earth
   value: This plant grows from Alaska to California, east to the Rocky Mountains and
     across the northern U.S. and Canada to the Atlantic coast. This plant grows on
     both sides of the Cascades crest and at the coast in Washington.
+
 - label: Season
   icon: calendar
   value: March thru June, but their berries can hang on thru February.
+
 - label: Medical Use
   icon: medical-bag
   value: Blackfoot have used an infusion of plant, mixed with grease & boiled hoof
@@ -22,9 +28,11 @@ stats:
     cuts for rapid healing, or on boils or pimples. Cherokee use parts of the plant
     to treat urinary diseases. Cheyenne use mixture of leaves and bark in a tea or
     as a poultice to treat persistent back pain.
+
 - label: Poisonous
   icon: skull-crossbones
   value: 'no'
+
 - label: Edibility
   icon: food-apple
   value: 'Food Uses: Bella Coola have mixed the berries with melted mountain goat
@@ -32,11 +40,13 @@ stats:
     fresh, dried, or mashed and fried in fat. Carrier mix the berries with salmon
     eggs for a nutritious meal, or use them in soups. FEATURES: This plant grows up
     to 8 inches (20 cm) in height.'
+
 - label: Leaves
   icon: leaf
   value: Alternate leaves are produced, oval in shape, dark green and shiny on the
     upper surface and paler on the lower surface with a leathery texture. The leaves
     grow approximately 1/2 of an inch to 1-1/4 inch (1 to 3 cm) in length.
+
 - label: Fruits
   icon: fruit-cherries
   value: Kinnikinnick fruits are called drupes and ripen late, continuing to stay
@@ -44,6 +54,7 @@ stats:
     drupe is bright red in color and approximately 1/4 of an inch to 1/2 of an inch
     (7 to 10 mm) in width.
 notes:
+
 - '* **Notable features**: The branches are long, flexible, rooting, and velvety brownish-red
   in color. Pure stands of Kinnikinnick can grow to be very dense.'
 ---

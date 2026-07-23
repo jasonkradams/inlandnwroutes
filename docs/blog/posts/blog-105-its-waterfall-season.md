@@ -1,10 +1,15 @@
 ---
 title: "Blog #105: It’s waterfall season."
+
 date: 2026-04-04
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Winter Sports
 ---
 

@@ -1,40 +1,57 @@
 ---
 tags:
+
 - Lakes
+
 - Easy
+
 - Day Hiking
+
 - Backpacking
+
 - Scrambling
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, scrambling
+
 - label: Distance
   icon: map-marker-distance
   value: 4 miles RT
+
 - label: Elevation
   icon: terrain
   value: 500 verts
+
 - label: Acres
   icon: vector-square
   value: '20.2'
+
 - label: Difficulty
   icon: speedometer
   value: Easy
+
 - label: Maps
   icon: map
   value: IPNF, LOLO N.F., Burke, Thompson Pass topos
+
 - label: GPS
   icon: crosshairs-gps
   value: 47 °56’09’ n 115°75’10" w
+
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
+
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
 notes:
+
 - Idaho panhandle national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 

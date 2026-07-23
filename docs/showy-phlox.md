@@ -1,41 +1,52 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Genesis Name
   icon: book-open-variant
   value: Phlox speciosa
+
 - label: Distribution
   icon: earth
   value: U.DS...CA, ID, MT, NV, WA. Canada...BC
+
 - label: Season
   icon: calendar
   value: Blooms April, May, June
+
 - label: Medical Use
   icon: medical-bag
   value: leaves of some phlox species were made into a **tea used to treat eczema
     and to "purify the blood**." A tea of boiled phlox roots was once thought useful
     in treating venereal disease
+
 - label: Poisonous
   icon: skull-crossbones
   value: 'no'
+
 - label: Edibility
   icon: food-apple
   value: The perennial or garden phlox is **the only type of phlox that is edible**.
     These familiar cottage garden favorites have an intoxicating scent and look especially
     pretty sugared on cakes and desserts or floating in summer cocktails.
+
 - label: Features
   icon: information-outline
   value: Showy phlox is a low, half-sprawling phlox, tending to become shrubby toward
     its base. Its leaves are narrow and leathery, and though this perennial is not
     particularly attractive out of flower, it is very showy in bloom. The flowers
     have pink, shallowly notched petals.
+
 - label: Leaves
   icon: leaf
   value: Leaves of the Garden Phlox are opposite, **oblong to lance shaped**, widest
     at the middle and have prominent lateral veins that do not reach the leaf margin
     but curl upward - an identifying characteristic. Leaves are usually more than
     1/2 inch wide whereas native phlox species are less than 1/2 inch wide.
+
 - label: Fruits
   icon: fruit-cherries
   value: Capsule. Seeds 1-many.

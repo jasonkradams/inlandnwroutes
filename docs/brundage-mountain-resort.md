@@ -1,26 +1,35 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 stats:
+
 - label: Phone
   icon: phone
   value: 208.634.4151
+
 - label: Acres
   icon: vector-square
   value: 1920+420 bc
+
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 320"
+
 - label: Summit Elevation
   icon: terrain
   value: 7830'
+
 - label: Base Elevation
   icon: terrain
   value: 5882'
+
 - label: Verts
   icon: arrow-expand-vertical
   value: 1921'
 notes:
+
 - Brundagemountain.com
 ---
 

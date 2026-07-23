@@ -1,10 +1,15 @@
 ---
 title: "Blog #4: National forest alerts, blm alerts, and wildfire info"
+
 date: 2023-03-20
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 

@@ -4,7 +4,7 @@
 
 To Do
 
-* Note top three Best hikes, views, uniqueness, etc.
+- Note top three Best hikes, views, uniqueness, etc.
 
 David
 
@@ -12,13 +12,13 @@ David
 
 1. Create Standard Page Templates
 
-* Activity Landing Page
+- Activity Landing Page
 
-* Forest Landing Page?
+- Forest Landing Page?
 
-* Hike# Landing Page
+- Hike# Landing Page
 
-* Standard Photo Gallery Page?
+- Standard Photo Gallery Page?
 
 How to Resize Custom HTML
 width="950" height="600"></iframe>
@@ -27,11 +27,11 @@ Chic
 
 1.  Work On Content
 
-* Liability Waiver
+- Liability Waiver
 
-* About Page
+- About Page
 
-* Mission Statement
+- Mission Statement
 
 1.  Start gathering photos for each hike
 
@@ -59,21 +59,21 @@ I am a consultant.
 
 Sections
 
-* Waterfalls and how to shoot
+- Waterfalls and how to shoot
 
-* Hot Springs
+- Hot Springs
 
-* Hiking
+- Hiking
 
-* Paddling
+- Paddling
 
-* Skiing
+- Skiing
 
-* ?Current Weather and Conditions?
+- ?Current Weather and Conditions?
 
-* Interesting Sites
+- Interesting Sites
 
-* Gear We Like (ad revenue?)
+- Gear We Like (ad revenue?)
 
 Sign in Release Form
 
@@ -85,8 +85,8 @@ Label photos and tie them to pins on a map.
 
 Interesting Sites
 
-* LattaPhoto.com
+- LattaPhoto.com
 
-* CDC Photography
+- CDC Photography
 
-* Camera Corral
+- Camera Corral

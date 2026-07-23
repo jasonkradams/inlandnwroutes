@@ -1,10 +1,14 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Genesis Name
   icon: book-open-variant
   value: Potentilla Sp.
+
 - label: Distribution
   icon: earth
   value: Shrubby cinquefoil is **widely distributed throughout the northern hemisphere**.
@@ -12,9 +16,11 @@ stats:
     cinquefoil ranges from Alaska and the Northwest Territories east through Canada
     to Labrador, Newfoundland, and Greenland. Ive seen them at the Stevens Peak Region,
     and the American Selkirks.
+
 - label: Season
   icon: calendar
   value: May to Roctober
+
 - label: Medical Use
   icon: medical-bag
   value: The powdered or crushed root or cinquefoil can be used to **stop small cuts
@@ -24,21 +30,25 @@ stats:
     properties and is used to make a **mouthwash for thrush infections** as well a
     gargle for periodontal disease and other gum and teeth problems. A strong decoction
     will inhibit infections wounds.
+
 - label: Edibility
   icon: food-apple
   value: 'For the Euell Gibbons fans: yes, **young shoots and leaves of cinquefoil
     are edible in salads or cooked** as a pot herb. ... Cinquefoil contains large
     amounts of tannins so that an infusion made from the root can be used as an astringent
     for cleansing and soothing the skin.'
+
 - label: Features
   icon: information-outline
   value: Cinquefoils are chiefly perennial and have **stems that are creeping or erect**.
     The leaves are palmately compound (the leaflets arise from a common centre) or
     pinnately compound (feather-formed). The solitary five-petaled flowers are usually
     yellow, sometimes white or red in horticultural varieties.
+
 - label: Leaves
   icon: leaf
   value: See above
+
 - label: Fruits
   icon: fruit-cherries
   value: Sulfur cinquefoil flowers from early May to July. The fruit is **an achene**

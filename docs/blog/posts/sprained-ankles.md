@@ -1,10 +1,15 @@
 ---
 title: "Blog #21: Sprained ankles"
+
 date: 2023-07-22
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Trail Safety & Gear
 ---
 
@@ -45,12 +50,19 @@ My take away for you, is simple.
 Follow the following instructions, and you may be able to walk away from a twisted ankle.
 
 1. Do not stop your fall, drop to the ground. lay down Immediately With your leg propped up for at least 30-45 minutes.
+
 2. Take two otc pills for pain.
+
 3. Message your lower leg and ankle if it doesn’t bother you too much
+
 4. When you start lowering your leg, and you feel a throbbing pain, put your leg back up. please be patient.
+
 5. If others are with you, have them gather some snow for icing your ankle.
+
 6. When you get to the point of being able to stand up, move slowly, and don’t hesitate laying back down and raise your ankle.
+
 7. If your ankle is too soar to bend while walking, put your injured ankle out in front of you.       now, bring your back foot’s toes up to the heel of your front foot. and do it again, and again. taking care not yo re-injure your ankle.
+
 8. If you are alone, pull out your whistle and blow three blasts, pause a few seconds and do two more blasts three times.  any three sounds, gun shots, etc, you here, is someone calling for help.
 
 We hope the above will help you walk out on your own, in case of an emergency. I wrap about 8 feet of Gorilla Tape on each hiking pole.

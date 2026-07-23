@@ -1,37 +1,53 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 - Easy to Moderate
+
 - Day Hiking
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, interpretive trail thru the Cedars.
+
 - label: Distance
   icon: map-marker-distance
   value: Less then a mile within the botanical area.
+
 - label: Elevation Gain
   icon: elevation-rise
   value: about 2400’ to Bloom Peak.
+
 - label: Difficulty
   icon: speedometer
   value: easy to moderate
+
 - label: Maps
   icon: map
   value: Idaho Panhandle N.F., Burke topo
+
 - label: GPS
   icon: crosshairs-gps
   value: Trailhead 47°42’34" N -115°49’36" W
+
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
+
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
 notes:
+
 - About 12 miles RT to Bloom Peak.
+
 - Idaho panhandle national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>---
+
 # Settlers Grove Of Ancient Cedars
 
 !!! warning "Before you go"

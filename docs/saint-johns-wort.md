@@ -1,16 +1,21 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Genesis Name
   icon: book-open-variant
   value: Hypericum preforatum
+
 - label: Medical Use
   icon: medical-bag
   value: The red, oily extract of *H. perforatum* has been used in the treatment of
     wounds, including by the Knights Hospitaller, the Order of St John Both hypericin
     and hyperforin are under study for their potential [antibiotic](https://en.wikipedia.org/wiki/Antibiotic)
     properties.
+
 - label: Poisonous
   icon: skull-crossbones
   value: St John's wort may cause [allergic reactions](https://en.wikipedia.org/wiki/Allergic_reaction)
@@ -20,9 +25,11 @@ stats:
     (such as nausea, abdominal pain, loss of appetite, and diarrhea), dizziness, confusion,
     fatigue, sedation, dry mouth, [restlessness](https://en.wikipedia.org/wiki/Psychomotor_agitation),
     and headache.
+
 - label: Edibility
   icon: food-apple
   value: 'no'
+
 - label: Features
   icon: information-outline
   value: 'St John''s wort is named as such because it commonly flowers, blossoms and
@@ -39,6 +46,7 @@ stats:
     leaves and branches. The leaves and sepals are oblong in shape and three times
     longer than they are wide. The **leaves are stalkless**, and if held to the sky,
     light will shine through the small dots.'
+
 - label: Fruits
   icon: fruit-cherries
   value: St. Johnswort flowers June through September. The fruit is a **sticky, three-chambered

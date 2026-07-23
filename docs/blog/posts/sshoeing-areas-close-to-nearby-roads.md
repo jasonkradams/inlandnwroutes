@@ -1,10 +1,15 @@
 ---
 title: "Blog #42: Sshoeing areas close to nearby roads"
+
 date: 2023-12-02
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Trail Safety & Gear
 ---
 

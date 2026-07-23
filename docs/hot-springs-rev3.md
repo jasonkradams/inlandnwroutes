@@ -23,4 +23,4 @@ miles from spokane:
 
 ##
 
-![Picture](assets/images/img-1826-274.jpg){: data-src="assets/images/img-1826-274.jpg" }
+![Image](assets/images/img-1826-274.jpg)

@@ -1,38 +1,54 @@
 ---
 tags:
+
 - Lakes
+
 - Easy
+
 - Camping
+
 - Day Hiking
+
 - Equestrian
+
 - Golf
+
 - Mt Biking
+
 - Paddling
 
 stats:
+
 - label: Event Type
   icon: hiking
   value: Camping, day hiking, equestrian, golf, mt biking, paddling, fishing, and
     relaxation.
+
 - label: Distance
   icon: map-marker-distance
   value: varies depending on your route.
+
 - label: Elevation
   icon: terrain
   value: varies depending on where you go. Except for hiking the rim, elevation change
     is minimal
+
 - label: Difficulty
   icon: speedometer
   value: easy
+
 - label: Maps
   icon: map
   value: Sun Lakes-Dry Falls State Park brochure and website
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°35’21" n 119°23’ 28" w
+
 - label: Managing Agency
   icon: domain
   value: w.s.p. & r. 509.632.5583
+
 - label: Grant County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 509.754.2011

@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Paddling & Rivers
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: 22.5 miles of very windy river
+
 - label: Elevation
   icon: terrain
   value: Hwy 95 put in 2106’. P.O.Lake take out 2062’
+
 - label: Length and Acreage
   icon: vector-square
   value: 22.5 miles and takes 8 to 12 hours.
+
 - label: Maps
   icon: map
   value: Elmira Topo
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: put in...48°25’16" N 116°29’57" W take out...48°19’26" N 116°23’04" W
+
 - label: Bonner County Sheriff
   icon: shield-account
   value: 208.263.8417

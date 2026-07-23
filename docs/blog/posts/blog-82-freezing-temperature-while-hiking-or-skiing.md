@@ -1,10 +1,15 @@
 ---
 title: "Blog #82: Freezing temperature while hiking or skiing"
+
 date: 2025-01-31
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 

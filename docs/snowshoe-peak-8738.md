@@ -1,35 +1,49 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Extremely Difficult
+
 - Scrambling
+
 - Climbing
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Scrambling, climbing
+
 - label: Distance
   icon: map-marker-distance
   value: From Leigh Lake about 13.4 miles to Middle Fork Bull River
+
 - label: Elevation
   icon: terrain
   value: 3594 verts. Descent to Bull River trailhead is about 5785verts Down
+
 - label: Difficulty
   icon: speedometer
   value: Extremely difficult
+
 - label: Maps
   icon: map
   value: Kootenai N.F., Libby District, Snowshoe Peak topo. 406.293.8861
+
 - label: GPS
   icon: crosshairs-gps
   value: 48°13’22"n 115°41’20"w
+
 - label: Ranger District
   icon: pine-tree
   value: 'Libby R.D.: 406.293.7773'
+
 - label: Sanders County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.827.3584
 notes:
+
 - Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 

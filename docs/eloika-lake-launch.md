@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Lakes
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: 5.6 mile loop
+
 - label: Elevation
   icon: terrain
   value: 1905’
+
 - label: Length and Acreage
   icon: vector-square
   value: 2.25 miles long and 659 acres.
+
 - label: Maps
   icon: map
   value: W.D.F. & G., Pend Orielle County
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°01’06"n 117°23’01" w
+
 - label: Spokane County Sheriff
   icon: shield-account
   value: 509.477.2240

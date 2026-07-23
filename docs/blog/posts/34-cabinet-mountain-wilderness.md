@@ -1,10 +1,15 @@
 ---
 title: "Blog #34: Cabinet Mountain Wilderness"
+
 date: 2023-09-19
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Winter Sports
 ---
 

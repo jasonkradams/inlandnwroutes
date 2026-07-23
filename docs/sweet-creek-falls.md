@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Waterfalls
+
 stats:
+
 - label: Waterfall
   icon: waterfall
   value: Sweet Creek Falls
+
 - label: Drop
   icon: arrow-collapse-down
   value: About 30'
+
 - label: Waterfall Type
   icon: waterfall
   value: Cascade to a bowl plunge
+
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: .5 miles
+
 - label: Maps
   icon: map
   value: Colville N.F., Sullivan Lake Ranger District 509.447.7300
+
 - label: GPS
   icon: crosshairs-gps
   value: 48°49’46" n 117°23’84" w

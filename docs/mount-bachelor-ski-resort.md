@@ -1,26 +1,35 @@
 ---
 tags:
+
 - Winter & Skiing
+
 stats:
+
 - label: Phone
   icon: phone
   value: 541.382.1709
+
 - label: Acres
   icon: vector-square
   value: '4300'
+
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 462"
+
 - label: Summit Elevation
   icon: terrain
   value: 9065'
+
 - label: Base Elevation
   icon: terrain
   value: 5700'
+
 - label: Verts
   icon: arrow-expand-vertical
   value: 3365'
 notes:
+
 - Mtbachelor.com
 ---
 

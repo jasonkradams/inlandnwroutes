@@ -1,26 +1,35 @@
 ---
 tags:
+
 - Winter & Skiing
+
 stats:
+
 - label: Phone
   icon: phone
   value: 307.733.2292
+
 - label: Acres
   icon: vector-square
   value: '2500'
+
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 459"
+
 - label: Summit Elevation
   icon: terrain
   value: 10450'
+
 - label: Base Elevation
   icon: terrain
   value: 6311'
+
 - label: Verts
   icon: arrow-expand-vertical
   value: 4139'
 notes:
+
 - Jacksonhole.com
 ---
 

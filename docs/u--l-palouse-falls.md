@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Waterfalls
+
 stats:
+
 - label: Waterfall
   icon: waterfall
   value: Upper & Lower Palouse Falls
+
 - label: Drop
   icon: arrow-collapse-down
   value: 185'
+
 - label: Waterfall Type
   icon: waterfall
   value: Plunge Pool
+
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: To view point is about 100'
+
 - label: Maps
   icon: map
   value: Washington Scablands, Palouse Falls State Park
+
 - label: GPS
   icon: crosshairs-gps
   value: 46°39’48" n 118°13’25" w

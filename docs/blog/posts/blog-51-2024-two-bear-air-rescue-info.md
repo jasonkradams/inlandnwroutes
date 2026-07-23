@@ -1,10 +1,15 @@
 ---
 title: "Blog #51: 2024 Two Bear Air Rescue Info"
+
 date: 2024-03-15
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Trail Safety & Gear
 ---
 
@@ -47,17 +52,17 @@ Below are several blog posts that I have written that relate to the above story.
 
 David and my goal is to inform our readers of what precautions need to go into the planning phase, the actual hike, and any scenario that may arise.
 
-* [Blog #27: Call 911 Only in an Emergency](call-911-only-in-an-emergency.md)
+- [Blog #27: Call 911 Only in an Emergency](call-911-only-in-an-emergency.md)
 
-* [Blog #9: AirFlare Rescue App for Your Phone](airflare-rescue-app-for-your-phone.md)
+- [Blog #9: AirFlare Rescue App for Your Phone](airflare-rescue-app-for-your-phone.md)
 
-* [Blog #13: The Importance of Carrying a Pack & 13 Essentials](the-importance-of-carrying-a-pack-13-essentials.md)
+- [Blog #13: The Importance of Carrying a Pack & 13 Essentials](the-importance-of-carrying-a-pack-13-essentials.md)
 
-* [Blog #19: What Does a Rescue Look Like?](what-does-a-rescue-look-like.md)
+- [Blog #19: What Does a Rescue Look Like?](what-does-a-rescue-look-like.md)
 
-* [Blog #23: Medical Information Card (MIC)](july-29th-2023.md)
+- [Blog #23: Medical Information Card (MIC)](july-29th-2023.md)
 
-* [Blog #36: 13+ Essentials & More](september-21st-2023.md)
+- [Blog #36: 13+ Essentials & More](september-21st-2023.md)
 
 If you would like to contact me, David has placed an envelope link at the bottom of every page, or you can email us directly at:
 [info@inlandnwroutes.com](mailto:info@inlandnwroutes.com)

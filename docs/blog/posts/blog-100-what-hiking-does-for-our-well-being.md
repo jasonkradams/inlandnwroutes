@@ -1,10 +1,15 @@
 ---
 title: "Blog #100: What hiking does for our well being"
+
 date: 2025-11-03
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - General News
 ---
 

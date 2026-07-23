@@ -1,10 +1,15 @@
 ---
 title: "Blog #81: An article on gps units"
+
 date: 2025-01-14
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Trail Safety & Gear
 ---
 

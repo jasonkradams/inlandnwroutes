@@ -1,26 +1,35 @@
 ---
 tags:
+
 - Winter & Skiing
+
 stats:
+
 - label: Phone
   icon: phone
   value: 801.359.1078
+
 - label: Acres
   icon: vector-square
   value: '2614'
+
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 547"
+
 - label: Summit Elevation
   icon: terrain
   value: 10068'
+
 - label: Base Elevation
   icon: terrain
   value: 8536'
+
 - label: Verts
   icon: arrow-expand-vertical
   value: 2538'
 notes:
+
 - Alta.com
 ---
 
@@ -75,19 +84,19 @@ Today, the USFS continues to own the land used by Alta, which the company leases
 
 Alta quick facts & zany legends
 
-* In the 1880s, an era of peak silver extraction, it’s estimated that over 1,000 residents were living in Alta Basin year-round. There were over 125 homes, two smelters, a city hall with a basement jail, several shops, six breweries and 26 saloons. The ‘Bucket of Blood’ and [Goldminer's Daughter](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-alta-ski/@@storylink/1072139188?_ct=Story)’ were the most notorious.
+- In the 1880s, an era of peak silver extraction, it’s estimated that over 1,000 residents were living in Alta Basin year-round. There were over 125 homes, two smelters, a city hall with a basement jail, several shops, six breweries and 26 saloons. The ‘Bucket of Blood’ and [Goldminer's Daughter](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-alta-ski/@@storylink/1072139188?_ct=Story)’ were the most notorious.
 
-* In the booming 1870s, production of silver ore topped $13.5 million.
+- In the booming 1870s, production of silver ore topped $13.5 million.
 
-* On opening day on January 15, 1939, Alta offered one ride on its single-chair Collins lift for 25 cents.
+- On opening day on January 15, 1939, Alta offered one ride on its single-chair Collins lift for 25 cents.
 
-* In its second winter season, Alta sold 86,000 ski lift rides.
+- In its second winter season, Alta sold 86,000 ski lift rides.
 
-* The zone of Catherine’s Area at Alta was named after Scottish immigrant and chef extraordinaire, Catherine Brighton, a beloved homesteader who settled the area now known as Brighton alongside her husband, William Stuart Brighton. To explore the history of Brighton Resort - [click here](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-brighton/)!
+- The zone of Catherine’s Area at Alta was named after Scottish immigrant and chef extraordinaire, Catherine Brighton, a beloved homesteader who settled the area now known as Brighton alongside her husband, William Stuart Brighton. To explore the history of Brighton Resort - [click here](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-brighton/)!
 
-* Sunnyside chairlift is one of the only high-speed triple chairs in the world.
+- Sunnyside chairlift is one of the only high-speed triple chairs in the world.
 
-* As it became an emerging sport, Alta did actually permit snowboarding for one season. It was around 1984 and the phenomenon of snowboarding was so new that few understood or knew what it was about. The following season, management made the decision to ban snowboarders on its lifts.
+- As it became an emerging sport, Alta did actually permit snowboarding for one season. It was around 1984 and the phenomenon of snowboarding was so new that few understood or knew what it was about. The following season, management made the decision to ban snowboarders on its lifts.
 
 ---
 

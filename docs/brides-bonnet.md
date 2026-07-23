@@ -1,26 +1,35 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Genesis Name
   icon: book-open-variant
   value: Clinton uniflora
+
 - label: Distribution
   icon: earth
   value: u.s.a....ak, ca, id, mt, or, wa. canada bc
+
 - label: Season
   icon: calendar
   value: Blooms May to July
+
 - label: Medical Use
   icon: medical-bag
   value: The indigenous peoples of the Pacific Northwest, used the plant **as a dermatological
     aid and eye medicine**.
+
 - label: Poisonous
   icon: skull-crossbones
   value: 'yes'
+
 - label: Edibility
   icon: food-apple
   value: 'no'
+
 - label: Features
   icon: information-outline
   value: Each rosette of 2-3 oblong, glossy-green leaves, up to 6 in. in height, bears
@@ -29,6 +38,7 @@ stats:
     basal cluster of 2 or 3 oblong or elliptic, shiny leaves. Each flower is followed
     by a single, amethyst-blue berry. This is a spreading perennial and serves as
     a ground cover.
+
 - label: Leaves
   icon: leaf
   value: Each rosette of 2-3 oblong, glossy-green leaves, up to 6 in. in height, bears
@@ -37,11 +47,13 @@ stats:
     basal cluster of 2 or 3 oblong or elliptic, shiny leaves. Each flower is followed
     by a single, amethyst-blue berry. This is a spreading perennial and serves as
     a ground cover.
+
 - label: Fruits
   icon: fruit-cherries
   value: '**Frugivorous birds eat** bride''s bonnet berries. ... Bride''s bonnet is
     not considered palatable to many species and the berry may be poisonous.'
 notes:
+
 - It usually has one blue berry
 ---
 

@@ -1,42 +1,61 @@
 ---
 tags:
+
 - Lakes
+
 - Difficult
+
 - Hiking
+
 - Backpacking
+
 - Fishing
+
 - Camping
+
 - Swimming
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Hiking, backpacking, fishing, camping and swimming
+
 - label: Distance
   icon: map-marker-distance
   value: 12 miles RT
+
 - label: Elevation Gain
   icon: elevation-rise
   value: 3108’ to upper lake
+
 - label: Acres
   icon: vector-square
   value: (lower) 65…..(upper) 19.4
+
 - label: Difficulty
   icon: speedometer
   value: Difficult
+
 - label: Maps
   icon: map
   value: Kootenai National Forest, Scenery Mt., Treasure Mountain
+
 - label: GPS
   icon: crosshairs-gps
   value: Upper 48°22’25"N 115°44’58"W. Lower 48°22’45"N 115°44’27"W
+
 - label: Ranger District
   icon: pine-tree
   value: Libby R.D. 406.293.7773
+
 - label: Lincoln County Sheriff
   icon: shield-account
   value: 911 or 406.293.4112
 notes:
+
 - Kootenai national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 
@@ -102,7 +121,7 @@ In Libby, try the Shed south of town on Hwy 2
 
 ---
 
-![Picture](assets/images/p28.jpg)"
+![Picture](assets/images/p28.jpg)
 
 ## Named the manway because a boy could not walk across it
 

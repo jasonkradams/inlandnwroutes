@@ -1,10 +1,15 @@
 ---
 title: "Blog #50: A way to see where you are at"
+
 date: 2024-03-15
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Trail Safety & Gear
 ---
 

@@ -1,10 +1,15 @@
 ---
 title: "Blog #44: Determining snow depth"
+
 date: 2023-12-20
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Winter Sports
 ---
 

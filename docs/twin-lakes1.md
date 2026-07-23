@@ -1,33 +1,48 @@
 ---
 tags:
+
 - Lakes
+
 - Easy
+
 - Day Hiking
+
 - Backpacking
+
 - Paddling
+
 - Equestrian
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, paddling, equestrian
+
 - label: Distance
   icon: map-marker-distance
   value: main loop is 1 miles RT
+
 - label: Elevation
   icon: terrain
   value: Minimal gain
+
 - label: Difficulty
   icon: speedometer
   value: easy
+
 - label: Maps
   icon: map
   value: Rocklyn SW, Swanson Lake, BLM brochure
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°31’79" n 118°30’35" w
+
 - label: Managing Agency
   icon: domain
   value: blm 509.536.1200
+
 - label: Lincoln County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 509.725.3501

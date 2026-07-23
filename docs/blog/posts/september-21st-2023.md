@@ -1,10 +1,15 @@
 ---
 title: "Blog #36: 14 essentials & more"
+
 date: 2023-09-21
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 

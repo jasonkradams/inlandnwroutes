@@ -1,26 +1,35 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 stats:
+
 - label: Phone
   icon: phone
   value: 406.844.0999
+
 - label: Acres
   icon: vector-square
   value: 1000+
+
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 250"
+
 - label: Summit Elevation
   icon: terrain
   value: 6676'
+
 - label: Base Elevation
   icon: terrain
   value: 5236'
+
 - label: Verts
   icon: arrow-expand-vertical
   value: 1440'
 notes:
+
 - Blacktailmountain.com
 ---
 

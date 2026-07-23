@@ -1,13 +1,18 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Distance from Spokane
   icon: map-marker-distance
   value: 2,500 miles
+
 - label: Elevation
   icon: terrain
   value: 0 ft
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 20° 52’ 05.4"n 105° 26’ 20.4"w
@@ -23,15 +28,15 @@ Sayulita is a small fishing/surfing village just north of Puerto Vallarta. There
 
 Surfing, Fishing, Trail Running, Hiking, Mountain/Fat Tire Biking, Birding
 
-* Cemetery on the beach just south of Villa Amor
+- Cemetery on the beach just south of Villa Amor
 
-* Massage on the beach. The further north you go up the beach the cheaper the prices get
+- Massage on the beach. The further north you go up the beach the cheaper the prices get
 
-* Manuel hangs out at the bridge and his nephew Oscar will take you Horseback riding on the beach
+- Manuel hangs out at the bridge and his nephew Oscar will take you Horseback riding on the beach
 
-* Craft Brewery to the west of the baseball field
+- Craft Brewery to the west of the baseball field
 
-* Beer Pub across the creek from the sewer plant and discharge pipe has the best beer in town (Note: the semi-treated sewage discharges into the creek a hundred feet before it dumps onto the beach and into the ocean. I would not walk through it)
+- Beer Pub across the creek from the sewer plant and discharge pipe has the best beer in town (Note: the semi-treated sewage discharges into the creek a hundred feet before it dumps onto the beach and into the ocean. I would not walk through it)
 
 ## Directions
 
@@ -45,13 +50,13 @@ Take the water taxi from PV to Jelapa for a short hike to a  water fall with a f
 
 ## R & P
 
-* Eric's Bar Mirimar - He releases the turtles with you
+- Eric's Bar Mirimar - He releases the turtles with you
 
-* Odette's "Chiles" and Margarita is pretty darn cool. She has an outdoor court yard and musicians regularly play there.
+- Odette's "Chiles" and Margarita is pretty darn cool. She has an outdoor court yard and musicians regularly play there.
 
-* Sayulita Public House - Best beer in town that I could find
+- Sayulita Public House - Best beer in town that I could find
 
-* Villa Amor for a romantic lunch. You sit outdoors across the road from the establishment on the rock head wall over looking the bay and across the Pacific.
+- Villa Amor for a romantic lunch. You sit outdoors across the road from the establishment on the rock head wall over looking the bay and across the Pacific.
 
 ## Photo gallery
 

@@ -1,21 +1,28 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Genesis Name
   icon: book-open-variant
   value: trifolium aureum
+
 - label: Distribution
   icon: earth
   value: 'Eurasia: most of Europe east to Turkey and the Caucasus region. It also
     has subsequently become widely naturalized in the US and Canada'
+
 - label: Medical Use
   icon: medical-bag
   value: 'No medicinal uses were found.Poisonous:'
+
 - label: Edibility
   icon: food-apple
   value: 'Hop Clover **has limited edible uses**. One source suggests that this species
     can be used in salads or to brew tea.Features:'
+
 - label: Leaves
   icon: leaf
   value: The flowering heads are either terminal or arise from the angle between the
@@ -26,6 +33,7 @@ stats:
     (bracts).The calyx is 3mm (0.12 in) long and the floral tube is up to 1mm (~0.04
     in) long. The largest petal (the standard petal) is concave and becomes brown
     and lined with age.
+
 - label: Fruits
   icon: fruit-cherries
   value: The fruit is a **pod usually containing two seeds**. The closely related
@@ -33,7 +41,9 @@ stats:
     with smaller leaves and flowers. The middle leaflet of its leaves also has a short
     rachis.
 notes:
+
 - '.SEASON: August thru Roctober'
+
 - The seed pods are 2 to 3 mm (~0.08 to 0.12 in) long, contain a single seed, and
   are borne on a short stem..[2]
 

@@ -1,23 +1,32 @@
 ---
 tags:
+
 - Lakes
+
 - Easy
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Bus into the campground and do world class day hikes from there
+
 - label: Distance
   icon: map-marker-distance
   value: 1.75 miles
+
 - label: Elevation
   icon: terrain
   value: Minor ups and downs
+
 - label: Difficulty
   icon: speedometer
   value: Easy
+
 - label: Maps
   icon: map
   value: Lake O'Hara Trail Map - Yoho National Parks, Canada
+
 - label: GPS
   icon: crosshairs-gps
   value: 51°21'23.7"n 116°20'03.0"w
@@ -43,7 +52,7 @@ Take Highway 95 north across the border to Radium Hot Springs, named because the
 
 ## Trail Map (Click below to download a pdf of the trail system)
 
-![Image](assets/images/pdf.png)"
+![Image](assets/images/pdf.png)
 
 | | |
 |---|---|
@@ -92,7 +101,7 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-![Picture](assets/images/img-4829.jpg)"
+![Picture](assets/images/img-4829.jpg)
 
 ## The bus stop and wood shed at the campground
 

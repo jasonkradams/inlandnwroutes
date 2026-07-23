@@ -1,26 +1,35 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Phone
   icon: phone
   value: 800.852.3816
+
 - label: Acres
   icon: vector-square
   value: '1720'
+
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 160"
+
 - label: Summit Elevation
   icon: terrain
   value: 8570'
+
 - label: Base Elevation
   icon: terrain
   value: 5770'
+
 - label: Verts
   icon: arrow-expand-vertical
   value: 3000'
 notes:
+
 - Skimarmot.com
 ---
 

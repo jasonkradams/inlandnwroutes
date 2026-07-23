@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Lakes
+
 stats:
+
 - label: Waterfall
   icon: waterfall
   value: St. Paul Lake Waterfalls
+
 - label: Drop
   icon: arrow-collapse-down
   value: Varies from about 25' to 60'
+
 - label: Waterfall Type
   icon: hiking
   value: Plunge, Horsetail, Tiered, Ribbon and more
+
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: 4.5 miles one way
+
 - label: Maps
   icon: map
   value: Kootenai N.F., C.M.W., Elephant Peak topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 48°05’24" w 115°39’32" n

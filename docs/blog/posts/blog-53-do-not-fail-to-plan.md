@@ -1,10 +1,15 @@
 ---
 title: "Blog #53: Do not fail to plan"
+
 date: 2024-04-17
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 

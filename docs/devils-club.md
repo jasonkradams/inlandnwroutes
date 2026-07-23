@@ -1,42 +1,53 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Genesis Name
   icon: book-open-variant
   value: Oplopanax horridium
+
 - label: Distribution
   icon: earth
   value: Pacific Northwest & BC
+
 - label: Season
   icon: calendar
   value: It is mostly in the west; from southern Alaska and the Yukon Territory to
     southwestern Oregon in the west; to Alberta, the Idaho panhandle and neighboring
     Montana in the east; with a disjunctive population on islands in Lake Superior;
     (listed as threatened in Michigan).
+
 - label: Medical Use
   icon: medical-bag
   value: Devil's club is a plant. People use the inner bark of the root and stem for
     medicine. Devil's club is used for **arthritis, cancer, wounds, fever, tuberculosis**,
     stomach trouble, cough, colds, sore throat, diabetes, low blood sugar, and pneumonia.
     It is also used for emptying the bowels and causing vomiting.
+
 - label: Poisonous
   icon: skull-crossbones
   value: '**The fruits are considered poisonous to humans but are eaten by bears**.'
+
 - label: Edibility
   icon: food-apple
   value: '**The fruits are considered poisonous to humans but are eaten by bears**.'
+
 - label: Leaves
   icon: leaf
   value: Devil's Club grows up to 6 metres tall and has large (20 to 40 centimetres
     across), maple-shaped leaves. It produces small white flowers in spring and bright
     red fruits in summer.
+
 - label: Fruits
   icon: fruit-cherries
   value: The fruits are bright red, flattened berries that are arranged in a large
     terminal pyramidal cluster. They are shiny with 2-3 seeds and are 4 mm long. The
     seeds are inedible to humans but are a favorite to bears.
 notes:
+
 - Devil's club has numerous medicinal, practical, ceremonial, and spiritual uses in
   the traditional cultures of coastal First Nations groups. The many medicinal purposes
   of this plant vary between cultures, though most traditional medicines used the

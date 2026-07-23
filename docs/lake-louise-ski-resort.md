@@ -1,26 +1,35 @@
 ---
 tags:
+
 - Lakes
+
 stats:
+
 - label: Phone
   icon: phone
   value: 877.956.8473
+
 - label: Acres
   icon: vector-square
   value: '4200'
+
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: '169'
+
 - label: Summit Elevation
   icon: terrain
   value: 8650'
+
 - label: Base Elevation
   icon: terrain
   value: 5400'
+
 - label: Verts
   icon: arrow-expand-vertical
   value: 3250'
 notes:
+
 - Skilouise.com
 ---
 

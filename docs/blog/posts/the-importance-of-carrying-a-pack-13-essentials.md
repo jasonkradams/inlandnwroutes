@@ -1,10 +1,15 @@
 ---
 title: "Blog #13: The Importance of Carrying a Pack & 13 Essentials"
+
 date: 2023-07-06
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Trail Safety & Gear
 ---
 
@@ -18,21 +23,21 @@ I stress that every hiker must be prepared for any circumstance into which they 
 
 Every hiker should carry the following items in their own pack:
 
-* **Rain Gear & Emergency Shelter:** A technical rain jacket, umbrella, and a large lawn bag.
+- **Rain Gear & Emergency Shelter:** A technical rain jacket, umbrella, and a large lawn bag.
 
-* **Navigation:** A copy of the Forest Service map and a USGS topo map of the area visiting.
+- **Navigation:** A copy of the Forest Service map and a USGS topo map of the area visiting.
 
-* **Water & Filtration:** Water, plus a 5 oz. Sawyer water purifier.
+- **Water & Filtration:** Water, plus a 5 oz. Sawyer water purifier.
 
-* **Warmth & Insulation:** Thermo jacket for warmth. Store a pair of down mittens inside a plastic bag at the bottom of your pack to keep them dry.
+- **Warmth & Insulation:** Thermo jacket for warmth. Store a pair of down mittens inside a plastic bag at the bottom of your pack to keep them dry.
 
-* **Food & Snacks:** Lunch, trail snacks, and emergency food. Try to keep your pack light, but carry all you need.
+- **Food & Snacks:** Lunch, trail snacks, and emergency food. Try to keep your pack light, but carry all you need.
 
-* **Sanitation & Hygiene:** A Ziploc bag with folded paper towels. (Paper towels are far more reliable than toilet paper in the woods to prevent accidental blowouts).
+- **Sanitation & Hygiene:** A Ziploc bag with folded paper towels. (Paper towels are far more reliable than toilet paper in the woods to prevent accidental blowouts).
 
-* **Two-Way Radio (Optional):** An option, especially for beginners. Use it for only 10 minutes on the hour to preserve battery life.
+- **Two-Way Radio (Optional):** An option, especially for beginners. Use it for only 10 minutes on the hour to preserve battery life.
 
-* **Personal Items:** Chapstick, sunscreen, personal items, etc.
+- **Personal Items:** Chapstick, sunscreen, personal items, etc.
 
 ### Trail Marking Tip: Retractable Survivor's Tape
 
@@ -54,9 +59,13 @@ The 13 Essentials can save your life. But if you ever find yourself without any 
 In the old days, we used moleskin to patch over blisters, but it still hurt to walk. When **Spenco 2nd Skin Burn Dressings** came on the market, blister care was revolutionized. The dressing is a medicated pad that not only cushions the blister, but eliminates the pain entirely.
 
 !!! info "How to Apply Spenco 2nd Skin"
+
     1. **Clean:** Clean around the blister using alcohol cleaning pads and paper towels.
+
     2. **Cut & Peel:** Cut the 2nd Skin pad to size (larger than the blister). Peel one side's protective layer off and apply directly over the blister. **Do not touch the clean dressing.**
+
     3. **Remove Layer:** Peel the second protective layer off.
+
     4. **Secure:** Apply athletic tape over the 2nd Skin to hold it securely in place.
 
     **Required Tools:** Athletic tape, scissors, alcohol cleaning pads, paper towels.

@@ -1,10 +1,15 @@
 ---
 title: "Blog #20: Sun protection"
+
 date: 2023-07-22
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Winter Sports
 ---
 

@@ -1,27 +1,40 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 - Easy to Difficult
+
 - Backpacking
+
 - Dinning
+
 - Hiking
+
 - Photography
+
 - Rafting
+
 - So Much More
 
 stats:
+
 - label: Event Type
   icon: hiking
   value: Backpacking, dinning, hiking, photography, rafting, and so much more.
+
 - label: Distance
   icon: map-marker-distance
   value: 6,851 miles as the crow flies
+
 - label: Elevation
   icon: terrain
   value: Sea level to 6,000'
+
 - label: Difficulty
   icon: speedometer
   value: easy to difficult
+
 - label: Maps
   icon: map
   value: Patagonia

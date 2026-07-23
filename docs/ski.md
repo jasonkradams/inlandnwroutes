@@ -40,13 +40,13 @@ Historians now use BP for "before present" but we have kept to BC and AD.   Dati
 -Southern Finland Riihamaki ski. Suomen Museo XXXV, 86-88   Toivo I Itkonen "Finlands Fornskidor" Pa Skidor (1937) and Eero Naskali 1990 & 2001
                                                        770bc
 
-* +/- 100 The Sysma Ski in Finland.  Curved edge underneath.   Eero Naskali 1990 & 2001
+- +/- 100 The Sysma Ski in Finland.  Curved edge underneath.   Eero Naskali 1990 & 2001
                                                        450bc
 
-* 450+/-100 Liperi ski found 1897 in eastern Finland with flat sole and rounded boot space.  Eero Naskali Lahti 1990
+- 450+/-100 Liperi ski found 1897 in eastern Finland with flat sole and rounded boot space.  Eero Naskali Lahti 1990
                                                      200bc-200ad
 
-* 200BC-200AD China.  First known documentary reference to skiing from the West Han period.    In Chinese Shang Caizhen et al (Eds) "The History of Skiing in China."  Wuhan: Chinese Ski Association and the Cultural and Historical Working Association of the States Sports in China 1993.  In English see Liu Quilu and Liu Yueye, "Sports on Ice and Snow in Ancient China." In Matti Goksoyr et al   (Eds) Winter Games Warm Traditions. Lillehammer: Ishpes, 1994 70-71
+- 200BC-200AD China.  First known documentary reference to skiing from the West Han period.    In Chinese Shang Caizhen et al (Eds) "The History of Skiing in China."  Wuhan: Chinese Ski Association and the Cultural and Historical Working Association of the States Sports in China 1993.  In English see Liu Quilu and Liu Yueye, "Sports on Ice and Snow in Ancient China." In Matti Goksoyr et al   (Eds) Winter Games Warm Traditions. Lillehammer: Ishpes, 1994 70-71
 
                                                     542 ad
  -Skis lined with badger skin and a pair of ancient bindings found at Mantta.  Eero Naskali On Ancient Skis. 2nd Ski History conference 2001 c.900 Skis mentioned in a 16th century account by Bishop Oddur in Iceland.  Cited by Thorstein Einarsson.  Winter Sport in Iceland.  Matti Goksoyr. Winter Games Warm Traditions.
@@ -57,7 +57,7 @@ Historians now use BP for "before present" but we have kept to BC and AD.   Dati
                                                     600
 -Written sources of skiing in the north – Procopius, Jordanes, Paulius Diaconus
 
-* 7th-10th Century – evidence in writing from China of skis used by central Asian people.
+- 7th-10th Century – evidence in writing from China of skis used by central Asian people.
                                                       618
 -618-907 - The Chinese referred to Mongol-Turkish tribes: "The wooden-horse Turks are accustomed to skim over the ice on so-called wooden horses, that is, on sledges (or runners) which they bind to their feet to run over the ice.  And they take poles as supports and push themselves rapidly forward". Carl Luther, British Ski Year Book 1952
                                                       629
@@ -249,7 +249,7 @@ skis. Canadian Illustrated News 1879 Submitted by Carly S King, Curator/Director
 The Canadian Ski Museum Ottawa, ON Canada.
                                                     1880
 
-* 1880-1883 Monks, especially the Prior Henri Lugon, and a monastery servant on St Bernard Pass were given skis by a passing Norwegian and experimented with them.         -Two brothers from Gorlitz skied on the Peterbaude in the Giant Mountains.
+- 1880-1883 Monks, especially the Prior Henri Lugon, and a monastery servant on St Bernard Pass were given skis by a passing Norwegian and experimented with them.         -Two brothers from Gorlitz skied on the Peterbaude in the Giant Mountains.
 -1880’s  Lord Frederick Hamilton (brother-in-law and aide to Gov. General
 Lord Lansdowne) introduced skiing in the Ottawa ON area – as illustrated in a
 photograph of Archie Gordon on skis on the grounds of Rideau Hall. Collection,
@@ -456,60 +456,60 @@ It was quickly copied at [Woodstock, Vermont](https://en.m.wikipedia.org/wiki/Wo
 
 Brief History of Mt. Spokane State Park
 
-* 19th Century Long before Mt. Spokane State Park became a haven for winter and summer recreation, Native Americans considered the summit of Mt. Spokane an ideal site for spiritual pilgrimages.
+- 19th Century Long before Mt. Spokane State Park became a haven for winter and summer recreation, Native Americans considered the summit of Mt. Spokane an ideal site for spiritual pilgrimages.
 
-* 1909-1912 Frances Cook, owner of the summit, builds a toll road and a cabin within 3/4 mile of the summit.
+- 1909-1912 Frances Cook, owner of the summit, builds a toll road and a cabin within 3/4 mile of the summit.
 
-* 1927 Mt. Spokane State Park is officially dedicated at 1500 acres.
+- 1927 Mt. Spokane State Park is officially dedicated at 1500 acres.
 
-* 1929 H. Cowles, Jr. donates 640 acres of land to the park.
+- 1929 H. Cowles, Jr. donates 640 acres of land to the park.
 
-* 1930s The Spokane Ski Club, the Selkirk Ski Club, and the Spokane Mountaineers purchase over 500 acres on the mountain for construction of lodges,
+- 1930s The Spokane Ski Club, the Selkirk Ski Club, and the Spokane Mountaineers purchase over 500 acres on the mountain for construction of lodges,
   rope-tows, and ski jump hills. The road is completed to the summit.
 
-* 1933 Vista House is built by E.O Fieldstad, a local contractor. Caretaker’s cabin (which came to be known as Cook’s Cabin) is also built.
+- 1933 Vista House is built by E.O Fieldstad, a local contractor. Caretaker’s cabin (which came to be known as Cook’s Cabin) is also built.
 
-* 1934 Civilian Conservation Corps sets up camp for 200 young unemployed men on Beauty Mtn. to improve the roads and construct other facilities.
+- 1934 Civilian Conservation Corps sets up camp for 200 young unemployed men on Beauty Mtn. to improve the roads and construct other facilities.
 
-* 1939 The Spokane Chapter of the Conservation League buys 320 acres for the
+- 1939 The Spokane Chapter of the Conservation League buys 320 acres for the
   Park for $1500 (south half of Section 21) to save virgin timber from logging and fire.
 
-* 1940 The Grand Lodge is completed near Cook’s Cabin but burned to the ground just before an addition was finished in 1952.
+- 1940 The Grand Lodge is completed near Cook’s Cabin but burned to the ground just before an addition was finished in 1952.
 
-* 1946 The first double chair lift in the world is put into operation on the south face of the summit for 3 seasons.
+- 1946 The first double chair lift in the world is put into operation on the south face of the summit for 3 seasons.
 
-* 1952 A master plan is proposed for the park which includes over 24,000 acres and designates all of Mt. Spokane proper for downhill ski purposes.
+- 1952 A master plan is proposed for the park which includes over 24,000 acres and designates all of Mt. Spokane proper for downhill ski purposes.
   This proposal is not implemented.
 
-* 1953 KXLY-TV becomes operational from the summit.
+- 1953 KXLY-TV becomes operational from the summit.
 
-* 1955 Lodge #1 and Chairlift #1 are constructed.
+- 1955 Lodge #1 and Chairlift #1 are constructed.
 
-* 1961 Concessionaire A.E.Mettler constructs Lodge #2 and Lift #2
+- 1961 Concessionaire A.E.Mettler constructs Lodge #2 and Lift #2
 
-* 1965 Another master plan is developed by State Parks to include 11,592 acres of land, 958 of which were allocated for general outdoor recreation with the remainder to be administered as a "natural environment area." This plan is not adopted by the Parks Commission.
+- 1965 Another master plan is developed by State Parks to include 11,592 acres of land, 958 of which were allocated for general outdoor recreation with the remainder to be administered as a "natural environment area." This plan is not adopted by the Parks Commission.
 
-* 1974 Mt. Spokane Park’s official classification is changed from Recreation area to State Park, and the following philosophy is applied: "State Parks are to continuously service man’s spiritual, mental, and leisure time physical needs through the use of selected outstanding natural resources. this is to be accomplished by providing a full range of non-urban outdoor educational and recreational services and opportunities to a wide range of users with diversified interests and needs."
+- 1974 Mt. Spokane Park’s official classification is changed from Recreation area to State Park, and the following philosophy is applied: "State Parks are to continuously service man’s spiritual, mental, and leisure time physical needs through the use of selected outstanding natural resources. this is to be accomplished by providing a full range of non-urban outdoor educational and recreational services and opportunities to a wide range of users with diversified interests and needs."
 
-* 1978 A Coordinated Trail System plan is developed to, among other things, reduce conflicting recreational uses by specific allocation of park lands to user groups. The plan quickly became out of date and was never fully implemented.
+- 1978 A Coordinated Trail System plan is developed to, among other things, reduce conflicting recreational uses by specific allocation of park lands to user groups. The plan quickly became out of date and was never fully implemented.
 
-* 1985 The Parks Commission formally designates the Ragged Ridge Natural Area within Mt. Spokane State Park.
+- 1985 The Parks Commission formally designates the Ragged Ridge Natural Area within Mt. Spokane State Park.
 
-* 1993 The Park contains about 13,643 acres of land, not including Quartz Mountain. Most of this land was donated or obtained during the Great Depression through property forfeitures. The Mt. Spokane State Park Alpine Ski Area Working Group Interface Subcommittee issues a report concerning the future of the Park. Among other things, it recommends a comprehensive planning process.
+- 1993 The Park contains about 13,643 acres of land, not including Quartz Mountain. Most of this land was donated or obtained during the Great Depression through property forfeitures. The Mt. Spokane State Park Alpine Ski Area Working Group Interface Subcommittee issues a report concerning the future of the Park. Among other things, it recommends a comprehensive planning process.
 
-* 1994 State Parks proposes to classify areas of the Park as Natural Forest Areas. Several alternatives are proposed. The Mt. Spokane Planning Task Force Steering Committee is formed and issues its report. The group recommends a comprehensive planning process as well as the formation of a permanent, local Park advisory committee.
+- 1994 State Parks proposes to classify areas of the Park as Natural Forest Areas. Several alternatives are proposed. The Mt. Spokane Planning Task Force Steering Committee is formed and issues its report. The group recommends a comprehensive planning process as well as the formation of a permanent, local Park advisory committee.
 
-* 1995 Mt. Spokane State Park Advisory Committee appointed by Parks Commission begins monthly meetings in Spokane. Friends of Mt. Spokane State Park also formed.
+- 1995 Mt. Spokane State Park Advisory Committee appointed by Parks Commission begins monthly meetings in Spokane. Friends of Mt. Spokane State Park also formed.
 
-* 1997 Mt. Spokane 2000, a non-profit group of local businesses and civic leaders, is approved as the new concessionaire for the alpine ski area to replace the Mt. Spokane Ski Corporation which operated the area for 20 years.
+- 1997 Mt. Spokane 2000, a non-profit group of local businesses and civic leaders, is approved as the new concessionaire for the alpine ski area to replace the Mt. Spokane Ski Corporation which operated the area for 20 years.
 
-* 1999 A Classification and Management Plan (CAMP) process was completed for the Park. New land classifications approved including about 10% as Recreation Area, about 58% as Resource Recreation Area, less than 1% as Heritage Area, about 22% as Natural Forest Area, and about 4% as Natural Area Preserve. About 5% was left unclassified pending completion of an alpine ski area expansion plan and further Commission consideration.
+- 1999 A Classification and Management Plan (CAMP) process was completed for the Park. New land classifications approved including about 10% as Recreation Area, about 58% as Resource Recreation Area, less than 1% as Heritage Area, about 22% as Natural Forest Area, and about 4% as Natural Area Preserve. About 5% was left unclassified pending completion of an alpine ski area expansion plan and further Commission consideration.
 
-* 2010 Master Facilities Plan completed.
+- 2010 Master Facilities Plan completed.
 
-* 2013 Nordic ski area expands to over 60 km of groomed trails.
+- 2013 Nordic ski area expands to over 60 km of groomed trails.
 
-* 2014 Alpine ski area expansion approved for 1 new chairlift and 7 new runs.
+- 2014 Alpine ski area expansion approved for 1 new chairlift and 7 new runs.
 
 The Quartz Mountain Fire Lookout
 Fire Lookout Now Ready for Rent
@@ -594,43 +594,43 @@ sports creel
 Avalanche awareness
 The following are a few of the warning signs of unstable snow and possible avalanches:
 
-* You see an avalanche happen or see evidence of previous slides.
+- You see an avalanche happen or see evidence of previous slides.
 
-* Cracks form in the snow around your feet or skis.
+- Cracks form in the snow around your feet or skis.
 
-* The ground feels hollow underfoot.
+- The ground feels hollow underfoot.
 
-* You hear a "whumping" sound as you walk, which indicates that the snow is settling and a slab might release.
+- You hear a "whumping" sound as you walk, which indicates that the snow is settling and a slab might release.
 
-* Heavy snowfall or rain in the past 24 hours
+- Heavy snowfall or rain in the past 24 hours
 
-* Significant warming or rapidly increasing temperatures
+- Significant warming or rapidly increasing temperatures
 
-* You see surface patterns on the snow made by the force of strong winds. This could indicate that snow has been transported and deposited in dangerous drifts that could release.
+- You see surface patterns on the snow made by the force of strong winds. This could indicate that snow has been transported and deposited in dangerous drifts that could release.
 
 Get [Training.](http://www.avalanche.org/education.php)
 
-* Know the three factors required for an avalanche:
+- Know the three factors required for an avalanche:
 
-* Slope - Avalanche generally occur on slopes steeper than 30 degrees
+- Slope - Avalanche generally occur on slopes steeper than 30 degrees
 
-* Snowpack - Recent avalanches, shooting cracks, and "whumpfing" are signs of unstable snow.
+- Snowpack - Recent avalanches, shooting cracks, and "whumpfing" are signs of unstable snow.
 
-* Trigger - Sometimes it doesn’t take much to tip the balance; people, new snow, and wind are common triggers.
+- Trigger - Sometimes it doesn’t take much to tip the balance; people, new snow, and wind are common triggers.
 
-* Determine if you are on or below slopes that can avalanche
+- Determine if you are on or below slopes that can avalanche
 
-* Find out if the snow is stable
+- Find out if the snow is stable
 
-* Get the Advisory: Refer to your [local avalanche center](http://www.avalanche.org/) for current snowpack conditions!
+- Get the Advisory: Refer to your [local avalanche center](http://www.avalanche.org/) for current snowpack conditions!
 
-* Get the gear...and learn how to use it! Have these three avalanche safety essentials in your pack. :
+- Get the gear...and learn how to use it! Have these three avalanche safety essentials in your pack. :
 
-* Transceiver: so you can be found if covered by the snow
+- Transceiver: so you can be found if covered by the snow
 
-* Shovel: so you can dig out your partner
+- Shovel: so you can dig out your partner
 
-* Probe: so you can locate someone who has been covered by the snow
+- Probe: so you can locate someone who has been covered by the snow
 
 Avalanche survival rates plummet after about 15 minutes for victims who do not die from trauma. Saving your partner is up to you! Practicing realistic scenarios beforehand is essential.
 
@@ -1027,9 +1027,9 @@ Ski or slope cut
 A test where a rider rapidly crosses a slope to see if an avalanche initiates. this technique is generally used by professional avalanche mitigation teams. training, experience, and judgement are necessary to employ backcountry slope cuts safely.
 Slope Cut Caveats
 
-* They work well on thin, soft slabs. They do not work well on deeper, or harder slabs (and should not be used!).
+- They work well on thin, soft slabs. They do not work well on deeper, or harder slabs (and should not be used!).
 
-* They can be dangerous and should only be performed on very small avalanche paths or test slopes. Test slopes are small, steep slopes that have minimal consequence to you or anyone below you if they avalanche.
+- They can be dangerous and should only be performed on very small avalanche paths or test slopes. Test slopes are small, steep slopes that have minimal consequence to you or anyone below you if they avalanche.
 
 Slab
 A relatively cohesive snowpack layer.

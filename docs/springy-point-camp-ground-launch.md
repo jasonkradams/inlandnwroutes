@@ -1,19 +1,26 @@
 ---
 tags:
+
 - Paddling & Rivers
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
+
 - label: Elevation
   icon: terrain
   value: 2066’
+
 - label: Length and Acreage
   icon: vector-square
   value: varies
+
 - label: Maps
   icon: map
   value: IPNF, Sandpoint Topo
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 48°14’13" n. 116°35’12" w

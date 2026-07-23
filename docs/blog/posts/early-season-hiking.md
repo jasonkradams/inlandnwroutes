@@ -1,10 +1,15 @@
 ---
 title: "Blog #63: Early season hiking"
+
 date: 2024-06-07
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Trail Safety & Gear
 ---
 

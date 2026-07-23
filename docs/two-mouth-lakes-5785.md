@@ -1,37 +1,53 @@
 ---
 tags:
+
 - Lakes
+
 - Easy to Moderate
+
 - Day Hiking
+
 - Backpacking
+
 - Scrambling
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking, scrambling
+
 - label: Distance
   icon: map-marker-distance
   value: 9 miles RT to Upper Two Mouth Lake
+
 - label: Elevation
   icon: terrain
   value: 1790 verts
+
 - label: Difficulty
   icon: speedometer
   value: Easy to moderate
+
 - label: Maps
   icon: map
   value: I.P.N.F., Kaniksu N.F., The Wigwams topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 48°42’36" n 116°39’13" w
+
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561
+
 - label: Boundary County Sheriff
   icon: shield-account
   value: 911 or 208.267.3151
 notes:
+
 - Idaho panhandle national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 

@@ -1,10 +1,15 @@
 ---
 title: "Blog #90: Maps and…lost and found…communications"
+
 date: 2025-06-20
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 

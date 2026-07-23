@@ -6,7 +6,7 @@
   },
   "plugins": {
     "MD013": {
-      "enabled": true
+      "enabled": false
     },
     "MD033": {
       "enabled": false
@@ -33,6 +33,9 @@
       "enabled": false
     },
     "MD007": {
+      "enabled": false
+    },
+    "MD032": {
       "enabled": false
     }
   }

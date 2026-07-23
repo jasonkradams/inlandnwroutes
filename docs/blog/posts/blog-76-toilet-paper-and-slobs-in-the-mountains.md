@@ -1,10 +1,15 @@
 ---
 title: "Blog #76: Toilet paper and slobs in the mountains"
+
 date: 2024-10-21
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 

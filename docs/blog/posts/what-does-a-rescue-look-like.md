@@ -1,10 +1,15 @@
 ---
 title: "Blog #19: What does a rescue look like?"
+
 date: 2023-07-22
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 

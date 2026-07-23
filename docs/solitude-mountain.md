@@ -1,26 +1,35 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 stats:
+
 - label: Phone
   icon: phone
   value: 801.536.5786. or 800.748.4754
+
 - label: Acres
   icon: vector-square
   value: '1200'
+
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 500"
+
 - label: Summit Elevation
   icon: terrain
   value: 10498'
+
 - label: Base Elevation
   icon: terrain
   value: 7994'
+
 - label: Verts
   icon: arrow-expand-vertical
   value: 2494'
 notes:
+
 - Solitudemountain.com
 ---
 

@@ -1,10 +1,15 @@
 ---
 title: "Blog #83: A way to soothe your soul"
+
 date: 2025-01-31
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Winter Sports
 ---
 

@@ -1,31 +1,44 @@
 ---
 tags:
+
 - Waterfalls
+
 - Moderate
+
 - Day Hiking
+
 - Equestrian
+
 stats:
+
 - label: Event Type
   icon: waterfall
   value: Day hiking, equestrian
+
 - label: Distance
   icon: map-marker-distance
   value: 6-8 miles one way
+
 - label: Elevation
   icon: terrain
   value: 354 verts
+
 - label: Difficulty
   icon: speedometer
   value: Moderate
+
 - label: Maps
   icon: map
   value: Starbuck West
+
 - label: GPS
   icon: crosshairs-gps
   value: 46°35’49" n 118°13’10" w
+
 - label: Managing Agency
   icon: domain
   value: w.s.p. & r 509.646.3229
+
 - label: Franklin County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 509.536.1200

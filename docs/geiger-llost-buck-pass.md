@@ -1,43 +1,62 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 - Moderate
+
 - Hiking
+
 - Backpacking
+
 - Fishing
+
 - Scenery
+
 - Photography
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Hiking, backpacking, fishing, scenery, and photography.
+
 - label: Distance
   icon: map-marker-distance
   value: To Lower Lake 4 miles RT, Upper Lake 6 miles RT, L.B.P. & Cabinet Divide
     Trail 8+RT miles.
+
 - label: Elevation Gain
   icon: elevation-rise
   value: Lower Lake 1000 verts, Upper Lake 1600 verts
+
 - label: Acres
   icon: vector-square
   value: lower 34.4…..upper 12.5
+
 - label: Difficulty
   icon: speedometer
   value: Moderate
+
 - label: Maps
   icon: map
   value: Kaniksu N.F., Goat Peak Topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 48°00’58" n 115°32’08" w
+
 - label: Ranger District
   icon: pine-tree
   value: Libby R.D. 406.293.7773
+
 - label: Lincoln County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.293.4112
 notes:
+
 - Kootenai national forest/alerts
+
 - <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 ---
 
@@ -86,7 +105,7 @@ The Shed south of Libby a few miles is on Hwy 2
 
 ## Photo gallery
 
-![Picture](assets/images/20200909055734.jpg)"
+![Picture](assets/images/20200909055734.jpg)
 
 ## Trail #656 to lower geiger lake
 

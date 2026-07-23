@@ -1,10 +1,15 @@
 ---
 title: "Blog #89: Its time to talk the 13 essentials and more"
+
 date: 2025-05-22
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 

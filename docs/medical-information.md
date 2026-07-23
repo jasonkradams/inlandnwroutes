@@ -6,7 +6,8 @@ As you read this section, please understand that it is designed to inform you.  
 
 The reason we suggest carrying this card is simple: if you have an issue in the mountains, medical personnel, as well as your hiking buddies, need to know what to do and who to call. ***Everyone*** should have this form in their packs.
 
-![Image](assets/images/pdf.png){: data-src=" data-title="Download file: medical_emergency_card.pdf" }
+![Download file: medical_emergency_card.pdf](assets/images/pdf.png)
+_Download file: medical_emergency_card.pdf_
 
 | | |
 |---|---|
@@ -194,6 +195,7 @@ After 30 to 45 minutes, slowly, over several minutes, lower your leg. If the inj
 ***Ultraviolet Index***
 
 This index provides important information to help you plan your outdoor activities
+
 in ways that prevent overexposure to the sun's rays. It was designed by the
 National Weather Service (NWS) and the Environmental Protection Agency
 (EPA). Unlike some countries' indices, the United States UV Index is not based

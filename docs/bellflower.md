@@ -1,36 +1,47 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Genesis Name
   icon: book-open-variant
   value: Campanula parryi
+
 - label: Distribution
   icon: earth
   value: N. Idaho, Wyoming, Washington, and Colorado
+
 - label: Season
   icon: calendar
   value: June to August
+
 - label: Medical Use
   icon: medical-bag
   value: The leaves were brewed into a tea for treating coughs and tuberculosis.
+
 - label: Poisonous
   icon: skull-crossbones
   value: 'no'
+
 - label: Edibility
   icon: food-apple
   value: The leaves were brewed into a tea for treating coughs and tuberculosis.
+
 - label: Features
   icon: information-outline
   value: bellflowers are known for their deep green foliage that produces tiny clusters
     of flowers that vary in color from blue to light lavender and have teeth-like
     petals. These little flowers pop out throughout the entire plant.
+
 - label: Leaves
   icon: leaf
   value: The leaves are alternate and often vary in shape on a single plant, with
     larger, broader leaves at the base of the stem and smaller, narrower leaves higher
     up; the leaf margin may be either entire or serrated (sometimes both on the same
     plant). Many species contain white latex in the leaves and stems.
+
 - label: Fruits
   icon: fruit-cherries
   value: The fruit is a capsule containing numerous small seeds

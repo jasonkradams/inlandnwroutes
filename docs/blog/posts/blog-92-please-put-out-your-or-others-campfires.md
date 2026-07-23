@@ -1,10 +1,15 @@
 ---
 title: "Blog #92: Please put out your or others campfires"
+
 date: 2025-07-05
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 

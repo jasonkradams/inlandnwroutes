@@ -1,21 +1,28 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Genesis Name
   icon: book-open-variant
   value: Spiraea alba
+
 - label: Distribution
   icon: earth
   value: Northern and eastern states. Most of Canada
+
 - label: Season
   icon: calendar
   value: June thru September
+
 - label: Medical Use
   icon: medical-bag
   value: The plant is commonly used to treat childhood diarrhea. Because it contains
     salicylates, there is a **risk of causing Reye's syndrome** when given to children
     under 12 years.
+
 - label: Poisonous
   icon: skull-crossbones
   value: 'Because it contains salicylates, there is a risk of **causing Reye''s syndrome**
@@ -24,11 +31,13 @@ stats:
     Rosaceae family. Although **edible**, meadowsweet is more recognized as an herbal
     medicine used to help with many maladies. In particular the flower head contains
     salicylic acid.'
+
 - label: Features
   icon: information-outline
   value: Meadowsweet is considered a shrub rather than a wildflower and it tends to
     grow in colonies. When in bloom it is very easy to identify. Meadowsweet is a
     large, clump-forming, upright perennial that typically grows relatively tall.
+
 - label: Leaves
   icon: leaf
   value: Meadowsweet leaves are alternate (up to 3" long and 3/4" across) and occur
@@ -36,6 +45,7 @@ stats:
     veined, and glabrous (rarely sparsely hairy underneath); they have short petioles.
     The upper side of each leaf is medium green, while its lower side is pale green.
     The branches terminate in panicles of flowers.
+
 - label: Fruits
   icon: fruit-cherries
   value: The brown fruit, which persists after flowering, is a distinctive feature

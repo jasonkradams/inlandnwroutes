@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Paddling & Rivers
+
 stats:
+
 - label: Paddle Distance
   icon: map-marker-distance
   value: varies
+
 - label: Elevation
   icon: terrain
   value: 2128’
+
 - label: Length and Acreage
   icon: vector-square
   value: varies
+
 - label: Maps
   icon: map
   value: Plummer NE
+
 - label: Launch GPS
   icon: crosshairs-gps
   value: 47°27’15" n 116°47’15" w
+
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300

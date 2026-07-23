@@ -1,10 +1,15 @@
 ---
 title: "Blog #10: Regional forest closures"
+
 date: 2023-07-06
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 

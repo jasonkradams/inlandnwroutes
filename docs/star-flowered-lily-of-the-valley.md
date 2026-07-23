@@ -1,16 +1,22 @@
 ---
 tags:
+
 - Flora & Wildlife
+
 stats:
+
 - label: Genesis Name
   icon: book-open-variant
   value: Maianthemum stellatum
+
 - label: Distribution
   icon: earth
   value: Much of the U..S.A. and Canada
+
 - label: Season
   icon: calendar
   value: Blooms May & June
+
 - label: Medical Use
   icon: medical-bag
   value: Star-flowered lily of the valley was employed medicinally by several native
@@ -25,11 +31,13 @@ stats:
     The crushed root has been used as a poultice on sprains, boils, swellings and
     limbs affected by rheumatism. The pulped root has been used as ear drops to treat
     ear aches. An infusion of the roots has been used as a wash for inflamed eyes.
+
 - label: Features
   icon: information-outline
   value: Spike-like raceme 1 to 4 inches long of up to 20 stalked white flowers. Each
     flower is about 3/8 inch across, has 6 tepals (petals) and 6 stamens with pale
     yellow or cream colored tips.
+
 - label: Leaves
   icon: leaf
   value: Leaves are up to 6 inches long and 2 inches across, generally elliptical
@@ -38,11 +46,13 @@ stats:
     clasps the stem. The stem slightly zig-zags between the alternately attached leaves
     and may be hairless or finely hairy. The plant does not grow upright, but tilts
     to one side and arcs a bit at the top.
+
 - label: Fruits
   icon: fruit-cherries
   value: Each flower is replaced by a berry, about ¼ inch in diameter. Berries are
     initially green with purple stripes and ripen to solid reddish-purple.
 notes:
+
 - Like onions, the fleshy roots were used to flavour other foods. Medicinlly, the
   roots were chewed raw or used in syrups and teas to relieve coughs. They were also
   applied as poultices to burns and swellings.

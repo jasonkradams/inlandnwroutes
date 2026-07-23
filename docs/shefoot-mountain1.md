@@ -1,35 +1,49 @@
 ---
 tags:
+
 - Peaks & Mountains
+
 - Difficult
+
 - Day Hiking
+
 - Backpacking
+
 stats:
+
 - label: Event Type
   icon: hiking
   value: Day hiking, backpacking
+
 - label: Distance
   icon: map-marker-distance
   value: up to 9.6 miles RT
+
 - label: Elevation
   icon: terrain
   value: Up to 3321 verts
+
 - label: Difficulty
   icon: speedometer
   value: difficult
+
 - label: Maps
   icon: map
   value: IPNF, St. Joe River Ranger District
+
 - label: GPS
   icon: crosshairs-gps
   value: Moon Pass Trailhead 47°20’ 00" N 115°46’ 16" W
+
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
+
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
 notes:
+
 - Idaho panhandle national forest/alerts<https://www.fs.usda.gov/alerts/ipnf/alerts-notices>
 ---
 

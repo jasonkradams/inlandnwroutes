@@ -1,26 +1,35 @@
 ---
 tags:
+
 - Winter & Skiing
+
 stats:
+
 - label: Phone
   icon: phone
   value: 877.542.2633
+
 - label: Acres
   icon: vector-square
   value: '3358'
+
 - label: Average Snow Fall
   icon: weather-snowy-heavy
   value: 364"
+
 - label: Summit Elevation
   icon: terrain
   value: 8954'
+
 - label: Base Elevation
   icon: terrain
   value: 5440'
+
 - label: Verts
   icon: arrow-expand-vertical
   value: 3514'
 notes:
+
 - Skibanff.com
 ---
 

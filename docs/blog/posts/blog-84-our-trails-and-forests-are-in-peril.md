@@ -1,10 +1,15 @@
 ---
 title: "Blog # 84: Our trails and forests are in peril"
+
 date: 2025-03-02
 authors:
+
   - chic
+
   - david
+
 categories:
+
   - Wildfire & Closures
 ---
 

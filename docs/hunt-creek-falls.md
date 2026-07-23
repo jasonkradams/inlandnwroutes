@@ -1,22 +1,30 @@
 ---
 tags:
+
 - Waterfalls
+
 stats:
+
 - label: Waterfall
   icon: waterfall
   value: Hunt Creek Falls
+
 - label: Drop
   icon: arrow-collapse-down
   value: About 60’
+
 - label: Waterfall Type
   icon: waterfall
   value: Segmented Or Braided
+
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: .3 miles
+
 - label: Maps
   icon: map
   value: I.P.N.F., Bonners Ferry Ranger District 208.267.5561 Priest Lake SE topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 48?°56’62" n 116°82’00" w

@@ -1,42 +1,55 @@
 ---
 tags:
+
 - Trails & Scrambles
+
 stats:
+
 - label: Distribution
   icon: earth
   value: wa, id mt
+
 - label: Season
   icon: calendar
   value: Spring
+
 - label: Medical Use
   icon: medical-bag
   value: Jacob's ladder is a plant. The parts that grow above the ground are used
     to make medicine. People take Jacob's ladder for **fever and swelling (inflammation)**.
     They also take it to dry out tissues (as an astringent) and to promote sweating.
+
 - label: Poisonous
   icon: skull-crossbones
   value: 'no'
+
 - label: Edibility
   icon: food-apple
   value: The flowers of "False Jacob's Ladder" **can be used as a salad garnish**.
     Both varieties were used in herbal folk medicines.
+
 - label: Features
   icon: information-outline
   value: Polemonium caeruleum is a PERENNIAL growing to 0.4 m (1ft 4in) by 0.4 m (1ft
     4in).
+
 - label: Suitable For
   icon: information-outline
   value: 'light (sandy) and medium (loamy) soils and prefers well-drained soil. Suitable
     pH: acid, neutral and basic (alkaline) soils. It can grow in semi-shade (light
     woodland) or no shade. It prefers moist soil.'
+
 - label: Leaves
   icon: leaf
   value: na
+
 - label: Fruits
   icon: fruit-cherries
   value: na
 notes:
+
 - ',GENESIS NAME: Polmonium caeruleum'
+
 - It is hardy to zone (UK) 2 and is not frost tender. It is in flower from June to
   July, and the seeds ripen in July. The species is hermaphrodite (has both male and
   female organs) and is pollinated by Bees.

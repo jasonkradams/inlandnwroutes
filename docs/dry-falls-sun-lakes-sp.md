@@ -1,23 +1,31 @@
 ---
 tags:
+
 - Lakes
+
 stats:
+
 - label: Waterfall
   icon: waterfall
   value: Dry Falls
+
 - label: Drop
   icon: arrow-collapse-down
   value: Once this 400 foot falls was the worlds largest waterfall. Now some 15,000
     years later it is dry
+
 - label: Waterfall Type
   icon: hiking
   value: It was a block falls
+
 - label: Distance Car to Falls
   icon: map-marker-distance
   value: From Sun Lakes State Park its about 105 miles
+
 - label: Maps
   icon: map
   value: Coulee City topo
+
 - label: GPS
   icon: crosshairs-gps
   value: 47°59’45" n 119°36’53" w
