@@ -186,32 +186,36 @@ Snowpatch, Bugaboo and Pidgeon Spires. Chouinard traversed the Howsers in 1965 a
 600-metre West Face in
 
 1970. Free climbing techniques enable faster ascents, with reduced exposure to the frequent lightning
-storms. It also continually opens up new lines in areas where the elements of glaciers, major routes on firm
-rock, significant altitude and violent weather combine to create world-class challenges. Bugaboo Provincial
-Park is, by its very nature, extremely isolated. People contemplating a visit here must realize that it is
-pure wilderness without supplies or equipment of any kind. Visitors must be prepared for true outdoor
-living. Weather conditions can change suddenly in this area and lightning storms with hail and snow are
-common in summer. Only experienced climbers trained in crevasse rescue and properly roped, should venture
-onto the snowfields and glaciers. Ice axes, sunglasses, prusiks or ascenders with foot slings are essential.
-Climbers should check with park rangers before departure. A registry is kept in the Conrad Kain Hut for this
-purpose – and visitors convenience. The rangers will be pleased to offer assistance or any other information
-required. Wilderness, backcountry or walk-in camping is allowed, but no facilities are provided. Camping in
-Bugaboo Park in the Crescent Glacier area is restricted to tent pads situated below the Conrad Kain Hut, at
-Boulder Camp, and on Mount Applebee. The Conrad Kain Hut is available for overnight accommodation for a
-maximum of 35 persons. Reservations can be made through the [Alpine Club of
-Canada](http://www.alpineclubofcanada.ca/facility/reservations.html). Propane stoves and eating utensils are
-provided. Visitors must bring all other necessary equipment. A nightly, per-person fee is levied during the
-period June 1 to September 30. Hut accommodation is not available in winter due to avalanche dangers. The
-Malloy Igloo is a hut that can accommodate a maximum of six persons. No facilities are provided. Climbers
-are responsible for their own safety, as rescue services are not readily available. Bugaboo Glacier
-Provincial Park is in a class of its own. Although much of the attraction of the Bugaboos is for hard-core
-climbers, there are a few hiking trails that cover a variety of distances and terrains, and don’t demand
-technical mountaineering skills. The Conrad Kain Hut Trailbegins in the parking lot and follows the northern
-lateral moraine of Bugaboo Glacier. The trail is very steep and strenuous. Cobalt Lake Trail leads up a
-steep grade to an open ridge and views of Cobalt Lake. A marked route then descends to the lake itself.
-Malloy Igloo Trail begins at the Conrad Kain Hut and terminates at the Malloy Igloo. Only roped parties
-should attempt this hike because several glaciers have to be crossed. Alternatively, access to the Malloy
-Igloo via Malloy Creek is also possible. Bugaboo Provincial Park is located 28 miles (45 km) west of Highway
-95 at Brisco, between Golden and Radium Hot Springs. There’s good gravel road access to the park, but the
-roads are used by logging trucks, so check with BC Parks regarding road use and condition before embarking
-on the trip.
+      storms. It also continually opens up new lines in areas where the elements of glaciers, major
+      routes on firm rock, significant altitude and violent weather combine to create world-class
+      challenges. Bugaboo Provincial Park is, by its very nature, extremely isolated. People
+      contemplating a visit here must realize that it is pure wilderness without supplies or equipment
+      of any kind. Visitors must be prepared for true outdoor living. Weather conditions can change
+      suddenly in this area and lightning storms with hail and snow are common in summer. Only
+      experienced climbers trained in crevasse rescue and properly roped, should venture onto the
+      snowfields and glaciers. Ice axes, sunglasses, prusiks or ascenders with foot slings are
+      essential. Climbers should check with park rangers before departure. A registry is kept in the
+      Conrad Kain Hut for this purpose – and visitors convenience. The rangers will be pleased to
+      offer assistance or any other information required. Wilderness, backcountry or walk-in camping
+      is allowed, but no facilities are provided. Camping in Bugaboo Park in the Crescent Glacier area
+      is restricted to tent pads situated below the Conrad Kain Hut, at Boulder Camp, and on Mount
+      Applebee. The Conrad Kain Hut is available for overnight accommodation for a maximum of 35
+      persons. Reservations can be made through the
+      [Alpine Club of Canada](http://www.alpineclubofcanada.ca/facility/reservations.html). Propane
+      stoves and eating utensils are provided. Visitors must bring all other necessary equipment. A
+      nightly, per-person fee is levied during the period June 1 to September 30. Hut accommodation is
+      not available in winter due to avalanche dangers. The Malloy Igloo is a hut that can accommodate
+      a maximum of six persons. No facilities are provided. Climbers are responsible for their own
+      safety, as rescue services are not readily available. Bugaboo Glacier Provincial Park is in a
+      class of its own. Although much of the attraction of the Bugaboos is for hard-core climbers,
+      there are a few hiking trails that cover a variety of distances and terrains, and don’t demand
+      technical mountaineering skills. The Conrad Kain Hut Trailbegins in the parking lot and follows
+      the northern lateral moraine of Bugaboo Glacier. The trail is very steep and strenuous. Cobalt
+      Lake Trail leads up a steep grade to an open ridge and views of Cobalt Lake. A marked route then
+      descends to the lake itself. Malloy Igloo Trail begins at the Conrad Kain Hut and terminates at
+      the Malloy Igloo. Only roped parties should attempt this hike because several glaciers have to
+      be crossed. Alternatively, access to the Malloy Igloo via Malloy Creek is also possible. Bugaboo
+      Provincial Park is located 28 miles (45 km) west of Highway 95 at Brisco, between Golden and
+      Radium Hot Springs. There’s good gravel road access to the park, but the roads are used by
+      logging trucks, so check with BC Parks regarding road use and condition before embarking on the
+      trip.

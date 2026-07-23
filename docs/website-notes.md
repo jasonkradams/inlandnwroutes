@@ -24,7 +24,7 @@ How to Resize Custom HTML width="950" height="600"></iframe>
 
 Chic
 
-1.  Work On Content
+1. Work On Content
 
 - Liability Waiver
 
@@ -32,7 +32,7 @@ Chic
 
 - Mission Statement
 
-1.  Start gathering photos for each hike
+1. Start gathering photos for each hike
 
 ---
 

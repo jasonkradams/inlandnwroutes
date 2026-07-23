@@ -51,6 +51,7 @@ Trail #502 climbs NNW then W to the summit after 4 switchbacks. And as above, th
 
 To extend this hike, look NE at Hooknose Peak at a little over 2 miles. From Abercrombie Mt., head south off
 the summit on Trail #117, for less then a mile to a junction with Trail
+
 #502. Turn
 NE onto a faint user trail heading towards Hooknose. This trail is rough in some places, so be careful.
 

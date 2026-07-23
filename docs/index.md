@@ -9,14 +9,15 @@
 
 **Forest Roads & Trail Closures**:
 
-    - Forest road #239 at Jeru Creek is closed.
+- Forest road #239 at Jeru Creek is closed.
 
-    - Lightning Creek road #419 and Trestle Creek road #275 (including Beetop Mt.) are closed until
-12/11/2026 or longer.
+- Lightning Creek road #419 and Trestle Creek road #275 (including Beetop Mt.) are closed until 12/11/2026
+  or longer.
 
-    - Forest road #805 to Settlers Grove of Ancient Cedars is washed out and closed.
+- Forest road #805 to Settlers Grove of Ancient Cedars is washed out and closed.
 
 *Access Note*: Harrison Lake & Peak can be accessed via Trail #6 from Myrtle Creek drainage forest road
+
 #633. Please
 consult USFS links at the bottom of each route write-up before heading out. Violations carry heavy fines and
 potential penalties.

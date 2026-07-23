@@ -132,13 +132,14 @@ Golf & Tennis is now located. This is where he later retired at age 41.
 Corporation, a local group dedicated to researching ski area development. 1960 — Barry Corbet accompanied
 Paul McCollister on his first decent from the summit of Rendezvous Mountain. On their way up, Berry looked
 into what is now known as the infamous Corbet's Couloir and stated, "Someday, someone will ski that — it
-will be a run." [Watch/Buy the documentary "Someday Somebody Will Ski
-That".](https://vimeo.com/ondemand/corbetscouloir) While Barry was not the first person to ski the couloir,
-he is credited with its name. Ski Patrolman Lonnie Ball is credited with the first plunge into Corbet's
-Couloir after he was left dangling when a cornice broke off at the top. Barry did ski his namesake, from the
-top, a year or two later. Premier American racer Buddy Werner accompanied Paul in mapping new runs. The long
-and wide run on Après Vous Mountain is named after Buddy Werner, who McCollister considered for head of the
-new ski school until an avalanche claimed Buddy's life.
+will be a run."
+[Watch/Buy the documentary "Someday Somebody Will Ski That".](https://vimeo.com/ondemand/corbetscouloir)
+While Barry was not the first person to ski the couloir, he is credited with its name. Ski Patrolman Lonnie
+Ball is credited with the first plunge into Corbet's Couloir after he was left dangling when a cornice broke
+off at the top. Barry did ski his namesake, from the top, a year or two later. Premier American racer Buddy
+Werner accompanied Paul in mapping new runs. The long and wide run on Après Vous Mountain is named after
+Buddy Werner, who McCollister considered for head of the new ski school until an avalanche claimed Buddy's
+life.
 
 1961 — McCollister purchased land at the bottom of Rendezvous Mountain. He paid roughly $1,355 an acre.
 

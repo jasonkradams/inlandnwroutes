@@ -51,8 +51,7 @@ more, kids 10 and under ski and ride free.
 
 Brighton
 
-[Brighton
-Resort](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-brighton/@@storylink/1072141064?_ct=Story)
+[Brighton Resort](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-brighton/@@storylink/1072141064?_ct=Story)
 is named after a Scottish immigrant named William Stuart Brighton. He brought his young family overseas in
 the 1850s and they made the grueling journey west as Mormon pioneers to seek their fortunes in Utah.
 Brighton obtained 80 acres at the top of Big Cottonwood Canyon and he and his children and wife Catherine
@@ -117,11 +116,11 @@ was added where today’s Crest Express now stands.
 After a few sleepy decades, Boyne USA purchased Brighton and began to invest in infrastructure updates and
 additions in the 1986-87 season. One of the first high-speed quads chairlifts to grace Utah’s fabled slopes
 was erected here, at Brighton in 1991, following Solitude's installation of Eagle Express in 1989. (For
-Solitude Resort's history, [click
-here](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-solitude)). Boyne quickly added
-two more high-speed quads, a triple chair, and expanded night skiing terrain, snowmaking and completed base
-lodge improvements. Boyne brought Brighton to the next level—increasing amenities, acreage and access for
-guests.
+Solitude Resort's history,
+[click here](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-solitude)). Boyne quickly
+added two more high-speed quads, a triple chair, and expanded night skiing terrain, snowmaking and completed
+base lodge improvements. Boyne brought Brighton to the next level—increasing amenities, acreage and access
+for guests.
 
 Brighton was one of the first resorts to allow snowboarding alongside Powder Mountain and Alta. At first,
 the management wasn’t quite so sure what this new snowboarding craze was all about. Snowboarders were
@@ -129,8 +128,8 @@ permitted to ride at Brighton once concerns surfaced around the dangers of board
 backcountry in avalanche terrain. Says Jared Winkler, a longtime Brighton employee who grew up at the
 resort, "Brighton really embraced snowboarding and supported it. At Brighton, everyone’s invited."
 
-For the 1994–95 season, Brighton was connected to its western neighbor, [Solitude Mountain
-Resort](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-brighton/@@storylink/1072139200?_ct=Story)
+For the 1994–95 season, Brighton was connected to its western neighbor,
+[Solitude Mountain Resort](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-brighton/@@storylink/1072139200?_ct=Story)
 via the SolBright connector trail.
 
 In 2007, Brighton was purchased by CNL Lifestyle Properties, though it continued to be leased and managed by
@@ -150,19 +149,18 @@ Looking to the future, Brighton is making plans to improve the beginner terrain 
 snowboarders which will also enhance access to the Snake Creek Express chairlift. Famous for its Snow Sports
 School, Brighton has always welcomed newbies to the slopes. Improvements for the future aim to keep
 generations of families returning to Brighton, like they always have. Brighton quick facts & zany legends
-[Blind Miners
-Coffee](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-brighton/@@storylink/2043483318?_ct=Story)
+[Blind Miners Coffee](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-brighton/@@storylink/2043483318?_ct=Story)
 was named after Roy Newman, "the blind minder", who operated his silver mine in Big Cottonwood Canyon into
 the 1960’s. His was one of the last mines to shut down in the Cardiff Fork drainage.
 
 - In the heyday of the Brighton Hotel in the late 1800s, travelers could reach Brighton by stage from
-Downtown Salt Lake City, which took seven hours or more.
+  Downtown Salt Lake City, which took seven hours or more.
 
 - When Zane arrived on the scene in 1943, skiers could purchase 10 lift rides for $1.50.
 
 - In 1985, an overnight stay at the Brighton Hotel would set you back $2.00 per night.
 
 - Paragliding was banned at the resort by Zane Doyle after Randy Doyle executed an unsuccessful landing in
-the parking lot atop a guest’s automobile!
+  the parking lot atop a guest’s automobile!
 
 ## To contribute images, contact chic via this website

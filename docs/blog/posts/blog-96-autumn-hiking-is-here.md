@@ -24,30 +24,30 @@ encountered this season, this Autumn promises some of the best fall colors in re
 - **Marie Creek Trail #241:** [Marie Creek Guide](../../trails/index.md). Located north of Wolf Lodge Bay.
   Takes you along Marie Creek after walking through forest for ~1 mile to a washed-out creek crossing at 2
   miles. On your return, check out the rock cliff campsite built from surrounding talus.
-- **Spokane County Conservation Futures Properties:** [Spokane County Conservation
-  Futures](../../trails/index.md). Spokane County features 17+ hiking areas offering easy to moderate
-  terrain through diverse habitats.
+- **Spokane County Conservation Futures Properties:**
+  [Spokane County Conservation Futures](../../trails/index.md). Spokane County features 17+ hiking areas
+  offering easy to moderate terrain through diverse habitats.
 - **Saltese Uplands & Flats:** [Saltese Flats Wetland Trail](../../trails/index.md). Features moderate
   uphill hiking with views of Mica Peak and surrounding wetlands that color up earlier than high-country
   routes.
 - **Wallace L. Forest Conservation Area (BLM):** Managed by the BLM, this 736-acre area features forest,
   open grassy terrain, and an overlook above Wolf Lodge Bay. Includes a dock/picnic day-use area and a
   preserved segment of the historic Captain John Mullan Road.
-- **John Finch Arboretum:** [Finch Arboretum
-  Info](https://my.spokanecity.org/urbanforestry/programs/finch-arboretum/). Located off I-90 in Spokane,
-  showcasing native trees, shrubs, and waterfalls along Garden Springs Creek. In mid-October, fallen
-  leaves carpet the area up to 6+ inches deep.
+- **John Finch Arboretum:**
+  [Finch Arboretum Info](https://my.spokanecity.org/urbanforestry/programs/finch-arboretum/). Located off
+  I-90 in Spokane, showcasing native trees, shrubs, and waterfalls along Garden Springs Creek. In
+  mid-October, fallen leaves carpet the area up to 6+ inches deep.
 
 ## Moderate Fall Hikes
 
-- **Mount Spokane State Park:** [Mount Spokane
-  Info](https://parks.wa.gov/find-parks/state-parks/mount-spokane-state-park). Offers extensive trails
-  with autumn colors. Don't miss hiking to the summit Vista House or Quartz Mountain Fire Lookout for
-  exceptional views of Spokane and the valley.
-- **Riverside State Park:** [Riverside State Park
-  Info](https://parks.wa.gov/find-parks/state-parks/riverside-state-park). The Bowl and Pitcher loop
-  crosses a suspension bridge over the Spokane River, leading into black basalt rock formations that
-  contrast strikingly with autumn foliage.
+- **Mount Spokane State Park:**
+  [Mount Spokane Info](https://parks.wa.gov/find-parks/state-parks/mount-spokane-state-park). Offers
+  extensive trails with autumn colors. Don't miss hiking to the summit Vista House or Quartz Mountain Fire
+  Lookout for exceptional views of Spokane and the valley.
+- **Riverside State Park:**
+  [Riverside State Park Info](https://parks.wa.gov/find-parks/state-parks/riverside-state-park). The Bowl
+  and Pitcher loop crosses a suspension bridge over the Spokane River, leading into black basalt rock
+  formations that contrast strikingly with autumn foliage.
 
 ## Strenuous High-Alpine Fall Hikes
 
@@ -69,9 +69,10 @@ The next two hikes are so incredible you won’t want to miss either of them:
   Kootenai Falls.
 
 !!! warning "Autumn Hiking Safety Checklist"
-    - **Clothing:** Dress in warm, synthetic or wool layers; avoid cotton. Bring waterproof rain/snow gear.
-    - **Footwear & Traction:** Wear waterproof boots and carry traction devices (microspikes).
-    - **Essentials:** Bring a thermos of hot cocoa, extra food, water, headlamp, and navigation tools.
+
+- **Clothing:** Dress in warm, synthetic or wool layers; avoid cotton. Bring waterproof rain/snow gear.
+- **Footwear & Traction:** Wear waterproof boots and carry traction devices (microspikes).
+- **Essentials:** Bring a thermos of hot cocoa, extra food, water, headlamp, and navigation tools.
 
 David and I would like to thank you for reading and using our local website.
 

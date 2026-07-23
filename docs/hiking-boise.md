@@ -10,9 +10,9 @@ few hours of my home in southeast Boise, and I’m enthusiastic about sharing my
 may go out and enjoy nature in the same way. I started this blog so I could share insider knowledge on some
 of the less-traveled places around Boise for beginners and well-seasoned hikers alike.
 
-I actively volunteer for [Idaho Trails Association](https://idahotrailsassociation.org/), [Oregon Natural
-Desert Association](https://onda.org/), and the [Idaho Foundation for Parks and
-Lands](https://idaholands.org/), and I’d encourage other trail users to offer some of their time to great
-organizations like these.
+I actively volunteer for [Idaho Trails Association](https://idahotrailsassociation.org/),
+[Oregon Natural Desert Association](https://onda.org/), and the
+[Idaho Foundation for Parks and Lands](https://idaholands.org/), and I’d encourage other trail users to
+offer some of their time to great organizations like these.
 
 [Learn More](https://hikingboise.com)

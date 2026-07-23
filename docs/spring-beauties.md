@@ -52,8 +52,8 @@ notes:
 
 ## Description
 
-This plant is native to western North America as far south as [New
-Mexico](https://en.wikipedia.org/wiki/New_Mexico) where it grows in foothills up to alpine slopes. It
+This plant is native to western North America as far south as
+[New Mexico](https://en.wikipedia.org/wiki/New_Mexico) where it grows in foothills up to alpine slopes. It
 thrives in the rocky soil of [alpine climates](https://en.wikipedia.org/wiki/Alpine_climate) where the snow
 never melts. It is a [perennial](https://en.wikipedia.org/wiki/Perennial_plant)
 [herb](https://en.wikipedia.org/wiki/Herbaceous_plant) growing from a

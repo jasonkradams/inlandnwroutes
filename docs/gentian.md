@@ -49,11 +49,11 @@ notes:
 gentian, (genus *Gentiana*), any of about 400 [species](https://www.britannica.com/science/species-taxon) of
 annual or [perennial](https://www.merriam-webster.com/dictionary/perennial) (rarely biennial) flowering
 plants of the family [Gentianaceae](https://www.britannica.com/plant/Gentianaceae) distributed worldwide in
-temperate and alpine regions, especially in Europe and Asia, North and [South
-America](https://www.britannica.com/place/South-America), and [New
-Zealand](https://www.britannica.com/place/New-Zealand). They are especially a notable feature of mountain
-regions, where the moisture-loving plants have access to underground water in summer and snow cover in
-winter. Gentian flowers are typically blue (hence "gentian blue") or purplish blue but may be purple,
+temperate and alpine regions, especially in Europe and Asia, North and
+[South America](https://www.britannica.com/place/South-America), and
+[New Zealand](https://www.britannica.com/place/New-Zealand). They are especially a notable feature of
+mountain regions, where the moisture-loving plants have access to underground water in summer and snow cover
+in winter. Gentian flowers are typically blue (hence "gentian blue") or purplish blue but may be purple,
 violet, mauve, yellow, white, or even red; the four or five petals are usually united into a trumpet,
 funnel, or bell shape. The flowers have been used in the making of dyes, especially *Gentiana pneumonanthe,*
 a source of blue dye. The tough fibrous roots were once used

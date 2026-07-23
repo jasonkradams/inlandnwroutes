@@ -68,6 +68,7 @@ This extended hike/mt bike is about a 14 mile loop.
 Take I-90 east of CDA to Exit 22, and head towards Harrison, Idaho. Just past the Mineral Ridge parking
 area, turn east (left) up the Beauty Bay Road and campground for about 3 miles to the small trailhead. Look
 for a sign Trial
+
 #257.
 
 ## Cool things close by

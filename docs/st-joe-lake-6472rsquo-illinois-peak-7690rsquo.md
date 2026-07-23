@@ -104,8 +104,7 @@ Radio Brewing in Kellogg, City Limits Pub in Wallace
 
 ## Plan your trip
 
-[Click for Current NOAA Weather
-Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=6000&uel=7500&polygon=47.078%2C-115.062%2C47.003%2C-115.172%2C46.971%2C-115.028%2C&area=23)
+[Click for Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=6000&uel=7500&polygon=47.078%2C-115.062%2C47.003%2C-115.172%2C46.971%2C-115.028%2C&area=23)
 
 ## Photo gallery
 

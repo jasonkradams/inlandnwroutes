@@ -98,18 +98,18 @@ readers will remember that this "open" state not only causes varying degrees of 
 in calcium, which in turn stimulates the release of acetylcholine and very bad things. An increase in
 acetylcholine can cause the cholinergic toxidrome remembered by the acronym we all know and love, SLUDGE:
 Salivation, Lacrimation, Urination, Defecation, GI upset, and Emesis. If this type of poisoning sounds
-familiar, it’s because it is similar to that of the [grayanotoxins and "mad
-honey."](https://naturespoisons.com/2014/05/08/grayanotoxins-of-rhododendrons-and-mad-honey/)
+familiar, it’s because it is similar to that of the
+[grayanotoxins and "mad honey."](https://naturespoisons.com/2014/05/08/grayanotoxins-of-rhododendrons-and-mad-honey/)
 
 [edit: The "Death Camas" can also be confused with "Common Camas", but of a different family, which has
 historically been an important food source for northwestern Native Americans. Thanks to Tom McKenzie
-bringing it up.] Death Camas (Zigadenus elegans) by [Peter
-Gorman](http://www.flickr.com/photos/52421717@N00/3695886087) (cc by-nc-sa 2.0) Most reported poisonings
-occur with livestock, which is to be expected of grazing animals, but human poisonings are not exactly rare
-either. In the western United States, the Lewis and Clark expedition encountered a poisonous bulb that may
-have been *Zigadenus*, and in a turn-of the-tables, early Mormon settlers in Utah were poisoned by Native
-Americans selling the plants as food (1). The knowledge of properly identifying *Zigadenus* though has not
-been passed
+bringing it up.] Death Camas (Zigadenus elegans) by
+[Peter Gorman](http://www.flickr.com/photos/52421717@N00/3695886087) (cc by-nc-sa 2.0) Most reported
+poisonings occur with livestock, which is to be expected of grazing animals, but human poisonings are not
+exactly rare either. In the western United States, the Lewis and Clark expedition encountered a poisonous
+bulb that may have been *Zigadenus*, and in a turn-of the-tables, early Mormon settlers in Utah were
+poisoned by Native Americans selling the plants as food (1). The knowledge of properly identifying
+*Zigadenus* though has not been passed
 
 down to all
 

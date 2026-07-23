@@ -52,8 +52,8 @@ inspirational experience on gentle rolling cruisers, groomed to perfection.
 
 [Canada](https://en.wikipedia.org/wiki/Canada), located in the
 [Okanagan](https://en.wikipedia.org/wiki/Okanagan) region on Beaconsfield Mountain, just west of
-[Penticton](https://en.wikipedia.org/wiki/Penticton), [British
-Columbia](https://en.wikipedia.org/wiki/British_Columbia). Its first
+[Penticton](https://en.wikipedia.org/wiki/Penticton),
+[British Columbia](https://en.wikipedia.org/wiki/British_Columbia). Its first
 [Pomalift](https://en.wikipedia.org/wiki/Poma#Surface_Lifts) was installed in 1961, with a vertical rise of
 370 m (1,200 ft).
 
@@ -65,14 +65,13 @@ terrain, and 50 km (30 mi) of groomed [cross-country](https://en.wikipedia.org/w
 terrain. There are 79 named trails accessed by four [chairlifts](https://en.wikipedia.org/wiki/Chairlift),
 including one [high-speed quad](https://en.wikipedia.org/wiki/Detachable_chairlift). The resort also offers
 four [terrain parks](https://en.wikipedia.org/wiki/Terrain_park) and a
-[tube](https://en.wikipedia.org/wiki/Tubing_(recreation)#Snow) park. Apex currently operates twelve [snow
-guns](https://en.wikipedia.org/wiki/Snow_gun) that provide top-to-bottom
+[tube](https://en.wikipedia.org/wiki/Tubing_(recreation)#Snow) park. Apex currently operates twelve
+[snow guns](https://en.wikipedia.org/wiki/Snow_gun) that provide top-to-bottom
 [snowmaking](https://en.wikipedia.org/wiki/Snowmaking) capability.
 
 The mountain's main accommodation providers include Apex Accommodations, Apex Lodge, and Apex Mountain Inn.
 Other activities that the resort provides include a 1.0 km (0.6 mi) skating loop and a hockey rink. Nearby,
-[Nickel Plate Nordic
-Centre](https://en.wikipedia.org/w/index.php?title=Nickel_Plate_Nordic_Centre&action=edit&redlink=1) also
-offers [snowshoeing](https://en.wikipedia.org/wiki/Snowshoe) and cross-country skiing.
+[Nickel Plate Nordic Centre](https://en.wikipedia.org/w/index.php?title=Nickel_Plate_Nordic_Centre&action=edit&redlink=1)
+also offers [snowshoeing](https://en.wikipedia.org/wiki/Snowshoe) and cross-country skiing.
 
 ## To contribute images, contact chic via this website

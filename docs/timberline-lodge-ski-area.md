@@ -153,15 +153,15 @@ around, explore our public spaces, view the artworks, and enjoy your visit. That
 
 ![Picture](assets/images/12122-021456p.jpg)
 
-historic hotels of america Timberline Lodge is a member of [Historic Hotels of
-America®](https://www.historichotels.org/hotels-resorts/timberline-lodge/?from=search), the official program
-of the National Trust for Historic Preservation for recognizing and celebrating the finest historic hotels
-across America. Historic Hotels of America was founded in 1989 by the National Trust for Historic
-Preservation with 32 charter members. Today, Historic Hotels of America has more than 300 historic hotels.
-These historic hotels have all faithfully maintained their authenticity, sense of place, and architectural
-integrity in the United States of America, including 46 states, the District of Columbia, the U.S. Virgin
-Islands, and Puerto Rico. Historic Hotels of America is comprised of mostly independently owned and operated
-historic hotels. To be nominated and selected for membership into this prestigious program, a hotel must be
-at least 50 years old; has been designated by the U.S. Secretary of the Interior as a National Historic
-Landmark or listed in or eligible for listing in the National Register of Historic Places; and recognized as
-having historic significance.
+historic hotels of america Timberline Lodge is a member of
+[Historic Hotels of America®](https://www.historichotels.org/hotels-resorts/timberline-lodge/?from=search),
+the official program of the National Trust for Historic Preservation for recognizing and celebrating the
+finest historic hotels across America. Historic Hotels of America was founded in 1989 by the National Trust
+for Historic Preservation with 32 charter members. Today, Historic Hotels of America has more than 300
+historic hotels. These historic hotels have all faithfully maintained their authenticity, sense of place,
+and architectural integrity in the United States of America, including 46 states, the District of Columbia,
+the U.S. Virgin Islands, and Puerto Rico. Historic Hotels of America is comprised of mostly independently
+owned and operated historic hotels. To be nominated and selected for membership into this prestigious
+program, a hotel must be at least 50 years old; has been designated by the U.S. Secretary of the Interior as
+a National Historic Landmark or listed in or eligible for listing in the National Register of Historic
+Places; and recognized as having historic significance.

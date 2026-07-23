@@ -51,6 +51,7 @@ Gleaned from the USFS WEBPAGE
 
 The Cabinet Mountain Wilderness follows Swamp Creek drainage to Lost Buck Pass and Trail #912A ends at Buck
 Lake. From Lost Buck Pass, Lake Creek Trail #656 drops to Upper & Lower Geiger Lakes, and South Divide Trail
+
 #360A flows a major ridge line out to the southern boundary of the C.M.W. Buck Lake Trail #912A ends at Buck
 Lake where there are a couple of diverse campsites and the lake contains small cutthroat trout.
 

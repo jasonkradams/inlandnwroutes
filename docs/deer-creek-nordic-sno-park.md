@@ -42,10 +42,10 @@ compground and porta poty on the north side. There are 12 miles of groomed cross
 and skate skiers along with snowshoers. A fire burned the forest here so the trees are barren and the brush
 is cleared making for some awesome tele-skiing or Hok-skiing in the trees. The town of Curlew is a short
 distance down the hill on the west side of the pass. There is a Saloon ran by a woman named Kali and a small
-fish and chips restraunt named Tug Boat ran by a guy named Dennis. Nils Larsen has his [Altai
-Ski](https://altaiskis.com) shop in town too. You should stop in and say hi. He is very personable and more
-than willing to give free advice on the area and his equipment. He spends a bit of time "testing equipment"
-up at the pass too.
+fish and chips restraunt named Tug Boat ran by a guy named Dennis. Nils Larsen has his
+[Altai Ski](https://altaiskis.com) shop in town too. You should stop in and say hi. He is very personable
+and more than willing to give free advice on the area and his equipment. He spends a bit of time "testing
+equipment" up at the pass too.
 
 A Washington State Sno-park pass and non-motorized grooming permit is required.
 <https://parks.state.wa.us/134/Sno-Park-non-motorized-Permits>
@@ -61,15 +61,16 @@ winter, the road section is groomed, and makes for an intermediate ski or snowsh
 
 ### Deer Creek Summit South Loop Trail #43
 
-This 3.1 mile route (on forest road 455 for 1.5 miles), leaves from the [Deer Creek Summit South Trailhead /
-Sno-Park](https://www.fs.usda.gov/recarea/colville/recreation/recarea/?recid=67862), and connects with
-[Kettle Crest (North) National Recreation Trail
+This 3.1 mile route (on forest road 455 for 1.5 miles), leaves from the
+[Deer Creek Summit South Trailhead / Sno-Park](https://www.fs.usda.gov/recarea/colville/recreation/recarea/?recid=67862),
+and connects with [Kettle Crest (North) National Recreation Trail
+
 #13](https://www.fs.usda.gov/recarea/colville/recreation/recarea/?recid=67870). These
 two trails can be combined for a 6.5 mile loop back to the trailhead. This route can also be connected with
 the [Long Alec Trail #43.1](https://www.fs.usda.gov/recarea/colville/recreation/recarea/?recid=70761). There
-are nice views of the Kettle River Valley along this trail. This trail parallels the [Pacific Northwest
-National Scenic Trail](http://www.fs.usda.gov/pnt). The trail is groomed cross country ski trail during the
-winter. This trail is fairly flat--part of it is on an old road.
+are nice views of the Kettle River Valley along this trail. This trail parallels the
+[Pacific Northwest National Scenic Trail](http://www.fs.usda.gov/pnt). The trail is groomed cross country
+ski trail during the winter. This trail is fairly flat--part of it is on an old road.
 
 ## Option #3
 
@@ -78,9 +79,9 @@ winter. This trail is fairly flat--part of it is on an old road.
 The Ferry County Rail Trail encompasses a 28-mile corridor from the San Poil Mill site ( three miles outside
 of [Republic, WA](http://www.ferrycounty.com/republic-washington/)) north to the Canadian Border. The rail
 bed, once part of the Great Northern Railroad, is now a beautiful trail that passes through pastoral farm
-lands and Ponderosa pine forests, and along the shores of [Curlew
-Lake](http://www.ferrycounty.com/curlew-lake/) and the [Kettle
-River](http://www.ferrycounty.com/kettle-river/).
+lands and Ponderosa pine forests, and along the shores of
+[Curlew Lake](http://www.ferrycounty.com/curlew-lake/) and the
+[Kettle River](http://www.ferrycounty.com/kettle-river/).
 
 ---
 
@@ -122,8 +123,7 @@ along with the made from scratch ginger, lemon and honey tea to keep you warm fr
 
 ## Plan your trip
 
-[Click for Current NOAA Weather
-Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4500&uel=7000&polygon=48.883%2C-118.430%2C48.886%2C-118.352%2C48.843%2C-118.340%2C48.840%2C-118.435%2C&area=12)
+[Click for Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4500&uel=7000&polygon=48.883%2C-118.430%2C48.886%2C-118.352%2C48.843%2C-118.340%2C48.840%2C-118.435%2C&area=12)
 
 ## Photo gallery
 

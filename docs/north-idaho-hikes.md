@@ -120,7 +120,7 @@ couple campgrounds. Wonderful isn't it!**
 
 ## Links to Route Descriptions
 
-[Lake estelle & moose lake trail system](lake-estelle.md) [Moose mountain loop
-hike](moose-mountain-loop-hike.md)
+[Lake estelle & moose lake trail system](lake-estelle.md)
+[Moose mountain loop hike](moose-mountain-loop-hike.md)
 
 Click to set custom HTML

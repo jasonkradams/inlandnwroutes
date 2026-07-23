@@ -15,7 +15,7 @@ Stevens Peak in 1903.
 
 <!-- more -->
 
-Scroll down past the colored images in its PHOTO GALLERY, and see what happened. [Upper and Lower Stevens
-Lake](../../lakes/index.md). You will be amazed.
+Scroll down past the colored images in its PHOTO GALLERY, and see what happened.
+[Upper and Lower Stevens Lake](../../lakes/index.md). You will be amazed.
 
 Chic Burge & David Crafton

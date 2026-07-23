@@ -161,8 +161,8 @@ spent the next 10,000 years evolving the forests and wildlife found there today.
 ## Links to Route Descriptions
 
 [Lower and upper spar lakes](index.md) [Star peak](star-peak.md) [Sawtooth mountain](sawtooth-mountain.md)
-[Scotchman peak](scotchmans-peak.md) [Ross creek cedars](ross-creek-cedars.md) [Pillick
-ridge](pillick-ridge-6167.md)
+[Scotchman peak](scotchmans-peak.md) [Ross creek cedars](ross-creek-cedars.md)
+[Pillick ridge](pillick-ridge-6167.md)
 
 ---
 

@@ -73,6 +73,7 @@ the Cedar Lakes trailhead.
 ## Directions
 
 From Libby, head west on Highway 2 for about 3 miles and turn left (south) up Road # 402. Look for milepost
+
 # 27.7.
 
 ---

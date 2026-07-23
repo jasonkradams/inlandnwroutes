@@ -9,9 +9,9 @@ County's quality of life.
 
 As of July 2020, the Conservation Futures Program has acquired over 9,145 acres through 52 acquisitions
 owned and managed by Spokane County, City of Spokane, and City of Cheney. To learn more about each
-acquisition since 1994, check out the [Conservation Futures Acquisition
-History](https://www.spokanecounty.org/DocumentCenter/View/6995) and a [map of acquisitions to
-date](https://www.spokanecounty.org/DocumentCenter/View/13888)!
+acquisition since 1994, check out the
+[Conservation Futures Acquisition History](https://www.spokanecounty.org/DocumentCenter/View/6995) and a
+[map of acquisitions to date](https://www.spokanecounty.org/DocumentCenter/View/13888)!
 
 Maintenance & Operations Of the total levy revenue generated annually, 25% is dedicated toward maintaining,
 protecting and enhancing these properties in perpetuity. This translates into improved public access,

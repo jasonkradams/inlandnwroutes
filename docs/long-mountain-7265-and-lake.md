@@ -50,6 +50,7 @@ trailhead, hike Trail #13 SW for 1/2 a mile to the junction with Traill #43 (Pyr
 at the sign and trail register, still on Trail #13 to Pyramid Pass.
 
 After a snack at the pass, drop down Trail #7 to a junction with the Long Mt. Lake. Turn right onto Trail
+
 #221 and climb the 540 feet to a saddle above Long Mt. Lake. Its about 1/2 a mile and 235' loss to the lake.
 There are campsites at the lake for lunch, or you can climb a short distance to the north ridge above the
 lake for lunch with a view. Instead of returning on the trail in, continue up the ridge you had lunch on to

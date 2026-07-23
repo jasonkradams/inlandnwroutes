@@ -526,15 +526,16 @@ Fish & Game Club. (Association) In those articles I discovered that the club had
 the local lakes of the Silver Valley, in
 
 1912. The club ordered as many as 200,000 fish fry, to be planted in the fall, to many lakes and streams in
-the Silver Valley. For "Twin Lakes" (Stevens Lakes), they had to haul the fish fry in, in containers on
-their backs. About the same time, the club proposed building a log bungalow at Lower Stevens Lake. About the
-same time the United States Forestry Service (old name), proposed building a cabin between the two lakes,
-often referred to as Twin Lakes. In that proposal, the USFS suggested that they could make the Upper East
-Fork Willow Creek between the lakes, more inhabitable for fish to spawn. As the club’s cabin turned out to
-be popular, they proposed a second cabin at Lower Stevens Lake, for their ladies. However, I found no
-evidence that the second cabin was ever built. In 1928 most of the Stevens Peak area burned, and the
-cabin(s?) became history. The only images I have found of the cabin, does not give me a clue to where on the
-shore line, the cabin existed.
+      the Silver Valley. For "Twin Lakes" (Stevens Lakes), they had to haul the fish fry in, in
+      containers on their backs. About the same time, the club proposed building a log bungalow at
+      Lower Stevens Lake. About the same time the United States Forestry Service (old name), proposed
+      building a cabin between the two lakes, often referred to as Twin Lakes. In that proposal, the
+      USFS suggested that they could make the Upper East Fork Willow Creek between the lakes, more
+      inhabitable for fish to spawn. As the club’s cabin turned out to be popular, they proposed a
+      second cabin at Lower Stevens Lake, for their ladies. However, I found no evidence that the
+      second cabin was ever built. In 1928 most of the Stevens Peak area burned, and the cabin(s?)
+      became history. The only images I have found of the cabin, does not give me a clue to where on
+      the shore line, the cabin existed.
 
 But having hiked all around the lake many times, it had to be on the very first flat spot as Trail #165
 arrives to the lower lake. the fire pit is just below old cabin site.

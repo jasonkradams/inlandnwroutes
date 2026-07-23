@@ -91,15 +91,14 @@ the wilderness area. This is especially true during late summer fire season. Hik
 the area they plan to be in, and have alternate routes in mind in case of emergencies or fires. Trail maps
 and guide books are available at sporting goods shops in town.
 
-Taking action to protect Montana’s water, wildlife and wildernessEarthworks, the [Rock Creek
-Alliance](http://rockcreekalliance.org/), and our other conservation partners have worked diligently to
-protect the Wilderness, its cold clean water and the wildlife that find refuge there. Recent accomplishments
-include: In August 2019, a Montana District Court [struck down the permit to
-pollute](https://missoulian.com/news/local/enviro-groups-tout-big-win-in-montanore-mining-lawsuit/article_5af7a94a-8f77-54df-bf21-d8138bc54433.html)
+Taking action to protect Montana’s water, wildlife and wildernessEarthworks, the
+[Rock Creek Alliance](http://rockcreekalliance.org/), and our other conservation partners have worked
+diligently to protect the Wilderness, its cold clean water and the wildlife that find refuge there. Recent
+accomplishments include: In August 2019, a Montana District Court
+[struck down the permit to pollute](https://missoulian.com/news/local/enviro-groups-tout-big-win-in-montanore-mining-lawsuit/article_5af7a94a-8f77-54df-bf21-d8138bc54433.html)
 for the proposed Montanore Mine that would have allowed the mine to unnecessarily degrade important trout
-streams with harmful metals and other pollution. In April 2019, a Montana District Court [denied the
-approval of a water use
-permit](https://www.dailyinterlake.com/local_news/20190416/judge_nixes_permit_for_rock_creek_mine_project)
+streams with harmful metals and other pollution. In April 2019, a Montana District Court
+[denied the approval of a water use permit](https://www.dailyinterlake.com/local_news/20190416/judge_nixes_permit_for_rock_creek_mine_project)
 for the Rock Creek Mine that would have allowed the mine to permanently dewater pristine Wilderness rivers
 and streams that provide a stronghold for threatened bull trout. In May 2017, the court overturned approval
 for the proposed Montanore Mine, finding that it would violate the Endangered Species Act, the Clean Water
@@ -138,31 +137,31 @@ Areas also would add habitat for the dwindling populations of grizzly bear, lynx
 and other species that are threatened by industrialization and motorized recreation.
 
 Kootenai History and HeritageFor centuries, the Ktunaxa (Kootenai) tribe lived in the KNF and used the area
-to [hunt, fish, gather plans, and hold
-ceremonies](https://wildmontana.org/discover-the-wild/public-lands-101/national-parks). Approximately 5,000
-members of the Confederated Salish and Kootenai tribes now live on or near the Flathead Reservation, which
-covers much of the southern end of the Flathead Valley. Communities like Libby, Troy, Noxon, and Trout Creek
-have long relied on the timber and mining industries operating on surrounding public lands. Traditionally,
-the Kootenai was known as the timber basket of Montana. These days, however, timber production is down
-significantly. Now, both the land and the communities are in need of new solutions. Montanans know that by
-working together, we can manage our forests, provide jobs for rural communities, and conserve and restore
-key wildlife habitat and blue ribbon headwaters. Over ten years ago, that’s exactly what the [Kootenai
-Forest Stakeholders Coalition](http://www.kootenaifuture.org/) set out to do. Business owners, local elected
-officials, and community members began working to find common ground forest management solutions that enrich
-the economies and quality of life of local communities that will provide jobs in the front country while
-protecting the solitude of the backcountry. In late 2015, the Kootenai Forest Stakeholders struck a historic
-agreement that establishes guidelines for timber management, creates areas for motorized and non-motorized
-recreation, and proposes to designate 180,000 acres of additional new wilderness. The agreement prioritizes
-protection for wild roadless lands in the Yaak, Cabinet Mountains, and Scotchman Peaks. [See how this
-agreement would protect these special places in the
-Kootenai](http://www.kootenaifuture.org/wp-content/uploads/2016/08/MWA_Overview_small-Final_9_17.pdf). More
-importantly, this agreement means that the communities of Lincoln and Sanders Counties are moving beyond
-past conflicts and working together to protect watersheds, secure big game habitat, and maintain a sense of
-solitude – and mystery – that makes the Kootenai so special. MWA is doing what we do best – working every
-day with Montanans from all walks of life on a realistic, practical strategy for communities like Libby and
-Troy, while forever protecting pristine backcountry. It's time to put the past behind us and work together
-for a better future for the Kootenai National Forest. MWA, along with diverse citizens of the Kootenai, are
-doing just that.
+to
+[hunt, fish, gather plans, and hold ceremonies](https://wildmontana.org/discover-the-wild/public-lands-101/national-parks).
+Approximately 5,000 members of the Confederated Salish and Kootenai tribes now live on or near the Flathead
+Reservation, which covers much of the southern end of the Flathead Valley. Communities like Libby, Troy,
+Noxon, and Trout Creek have long relied on the timber and mining industries operating on surrounding public
+lands. Traditionally, the Kootenai was known as the timber basket of Montana. These days, however, timber
+production is down significantly. Now, both the land and the communities are in need of new solutions.
+Montanans know that by working together, we can manage our forests, provide jobs for rural communities, and
+conserve and restore key wildlife habitat and blue ribbon headwaters. Over ten years ago, that’s exactly
+what the [Kootenai Forest Stakeholders Coalition](http://www.kootenaifuture.org/) set out to do. Business
+owners, local elected officials, and community members began working to find common ground forest management
+solutions that enrich the economies and quality of life of local communities that will provide jobs in the
+front country while protecting the solitude of the backcountry. In late 2015, the Kootenai Forest
+Stakeholders struck a historic agreement that establishes guidelines for timber management, creates areas
+for motorized and non-motorized recreation, and proposes to designate 180,000 acres of additional new
+wilderness. The agreement prioritizes protection for wild roadless lands in the Yaak, Cabinet Mountains, and
+Scotchman Peaks.
+[See how this agreement would protect these special places in the Kootenai](http://www.kootenaifuture.org/wp-content/uploads/2016/08/MWA_Overview_small-Final_9_17.pdf).
+More importantly, this agreement means that the communities of Lincoln and Sanders Counties are moving
+beyond past conflicts and working together to protect watersheds, secure big game habitat, and maintain a
+sense of solitude – and mystery – that makes the Kootenai so special. MWA is doing what we do best – working
+every day with Montanans from all walks of life on a realistic, practical strategy for communities like
+Libby and Troy, while forever protecting pristine backcountry. It's time to put the past behind us and work
+together for a better future for the Kootenai National Forest. MWA, along with diverse citizens of the
+Kootenai, are doing just that.
 
 The northeast buttress of A Peak (8,634'): the location of two routes established by Scott Coldiron and
 company between February 22 and March 7, 2015: Blackwell Falls (WI5 M4, 900') and Unprotected Four-Play
@@ -184,11 +183,11 @@ ACCESS… Trails preserve the fragile country and provide visitors the best acce
 trails most are marked at major intersections, some form loops, and many offer panoramic views. Others end
 at lakes in beautiful alpine settings. You may pick your own route to a nearby peak or high basin, but
 beware of unstable rock formations that make technical climbing unsafe in most areas. Limits have been
-placed on the number of persons and stock when traveling in parties. Included is a list of all [prohibited
-acts](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5413129.pdf). You can learn more about
-wilderness by visiting [Wilderness.net](http://www.wilderness.net/) Drones or UAS are considered "motorized
-equipment" and "mechanical transport" as such they cannot take off from, land in, or be operated from
-congressionally designated Wilderness Areas, please see
+placed on the number of persons and stock when traveling in parties. Included is a list of all
+[prohibited acts](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5413129.pdf). You can learn more
+about wilderness by visiting [Wilderness.net](http://www.wilderness.net/) Drones or UAS are considered
+"motorized equipment" and "mechanical transport" as such they cannot take off from, land in, or be operated
+from congressionally designated Wilderness Areas, please see
 <https://www.fs.usda.gov/managing-land/fire/aviation/uas/responsible-use> ON THE TRAIL… Trail difficulty
 varies from easy stream bottoms, to the ups and downs of major ridges and steep switchbacks. The north end
 offers interconnected trails for convenient loop hikes. The central area is entirely one way, in and out the
@@ -220,9 +219,9 @@ a camping area or within 200 yards of a National Forest System Trail. Burnable a
 leftovers, or bacon grease) shall not be buried, discarded, or burned in an open fire. Human waste
 decomposes rather quickly in the top 6-8 inches of soil, and a small garden trowel can be used to dig an
 8-10 inch diameter hole. Construct these latrines at least 200 feet from camp and water sources, and use
-only unscented toilet paper. Replace the sod when done. Practice the [Leave No
-Trace](http://lnt.org/learn/7-principles) Techniques to leave the wilderness as it is today for future
-generations of tomorrow. Have a safe and memorable visit!
+only unscented toilet paper. Replace the sod when done. Practice the
+[Leave No Trace](http://lnt.org/learn/7-principles) Techniques to leave the wilderness as it is today for
+future generations of tomorrow. Have a safe and memorable visit!
 
 ![Picture](assets/images/2152022818p.jpg)
 

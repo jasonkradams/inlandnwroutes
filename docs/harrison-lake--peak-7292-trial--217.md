@@ -95,6 +95,7 @@ there.
 After spending some time on the summit, walk north on the summit ridge, stopping to take in the view of the
 massive Harrison Peak overhang. To descend, you can follow your route up, and go down, or you can head due
 east down thru the woods to Trail
+
 #6, that
 skirts the entire east and south east side of the peak. At Trail #6, turn right (SW) to the Harrison Lake
 Trail #217

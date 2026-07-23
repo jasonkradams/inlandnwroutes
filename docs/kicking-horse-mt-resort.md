@@ -120,12 +120,12 @@ Music fills the air with the summer dinner concert series showcasing award winni
 Eye Restaurant pared with live music.
 
 And don’t forget about Boo. During the winter the local grizzly bear is napping as you glide past his den.
-In the summer the orphaned bear is king of the 22-acre natural mountainside enclosure. [Kicking
-Horse](http://kickinghorseresort.com/) Mountain Resort is recognized world-wide for its exceptional snow,
-terrain and accommodations. The best part about it is it’s still got that small-town charm with with one
-hell of a vertical rodeo. For more information, head to the official [Kicking
-Horse](http://kickinghorseresort.com/) website Learn about [Fernie Alpine
-Resort](http://www.snowseekers.ca/thechallenge-fernie), where legendary powder is credited to a legend. Show
-your stoke for the awesome history of Kicking Horse by sharing this page with your friends!
+In the summer the orphaned bear is king of the 22-acre natural mountainside enclosure.
+[Kicking Horse](http://kickinghorseresort.com/) Mountain Resort is recognized world-wide for its exceptional
+snow, terrain and accommodations. The best part about it is it’s still got that small-town charm with with
+one hell of a vertical rodeo. For more information, head to the official
+[Kicking Horse](http://kickinghorseresort.com/) website Learn about
+[Fernie Alpine Resort](http://www.snowseekers.ca/thechallenge-fernie), where legendary powder is credited to
+a legend. Show your stoke for the awesome history of Kicking Horse by sharing this page with your friends!
 
 ## To contribute, contact chic via this website

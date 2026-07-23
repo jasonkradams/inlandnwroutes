@@ -87,9 +87,9 @@ The lupine gets its name from the Latin word for wolf - lupus. It was once thoug
 
 absorbed or
 
-"wolfed up" all the mineral content from the soil. We know know that the plant actually is a [nitrogen
-fixer](https://nhpbs.org/wild/nitrogen.asp). Its roots have nodes with colonies of nitrogen fixing bacteria
-that help it survive in nutrient poor soil. Lupine actually deposit nitrogen into the soil!
+"wolfed up" all the mineral content from the soil. We know know that the plant actually is a
+[nitrogen fixer](https://nhpbs.org/wild/nitrogen.asp). Its roots have nodes with colonies of nitrogen fixing
+bacteria that help it survive in nutrient poor soil. Lupine actually deposit nitrogen into the soil!
 
 Habitat..Open sunny places on sandy loamy soil. In California plants generally occur below 7500 ft (2286 m)
 in moist sites. Prefers sun to partial shade in moist, cool soils. Native to Alaska, Colorado, Idaho,

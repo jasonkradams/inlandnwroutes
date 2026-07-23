@@ -110,7 +110,7 @@ used to gain perspective of your current location, as apposed to your entry rout
 - Your group Must stay together
 
 - Watch and listen for rattlesnakes. they come out in the morning to sun. there are leg shields to protect
-from bites.
+  from bites.
 
 There are safety shin guards you can buy to protect from snake bites.
 

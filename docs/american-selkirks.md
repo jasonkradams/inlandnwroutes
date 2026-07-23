@@ -20,8 +20,8 @@ fine joints and fractures, which mechanical weathering subsequently loosened int
 _Myrtle’s Turtle: A massive dome of exposed granitic rock in the Selkirks._
 
 !!! info "Further Geologic Reading"
-For additional background on local geology, visit [Mountains moved to form the Purcell
-Trench](https://www.naturallynorthidaho.com/2012/12/mountains-moved-to-form-purcell-trench.htm){:target="_blank"}.
+For additional background on local geology, visit
+[Mountains moved to form the Purcell Trench](https://www.naturallynorthidaho.com/2012/12/mountains-moved-to-form-purcell-trench.htm){:target="_blank"}.
 
 ---
 
@@ -56,8 +56,8 @@ Cooling rate directly controls crystal size:
 - **Fast Cooling:** Rapid crystallization yields small mineral grains.
 
 - **Two-Stage Cooling (Porphyritic):** Features large isolated crystals (**phenocrysts**, commonly
-plagioclase) embedded within a finer-grained matrix. Phenocrysts crystallize first during slow initial
-cooling, followed by rapid crystallization of remaining minerals.
+  plagioclase) embedded within a finer-grained matrix. Phenocrysts crystallize first during slow initial
+  cooling, followed by rapid crystallization of remaining minerals.
 
 ![A porphyritic rock](assets/images/kspar.jpg)
 _Example of a porphyritic rock with large phenocrysts embedded in a matrix._
@@ -74,11 +74,11 @@ _A possible xenolith along the trail—dark rock contrasting sharply with surrou
 
 !!! note "Origin of Intrusions & Inclusions"
 
-    - **Xenoliths:** Foreign rock fragments that fell from the wall or ceiling of a magma chamber and were
-trapped without fully melting before the magma solidified.
+- **Xenoliths:** Foreign rock fragments that fell from the wall or ceiling of a magma chamber and were
+  trapped without fully melting before the magma solidified.
 
-    - **Mineral Veins:** Fractures (often created by fault movement) that filled with later-stage magma or
-silica-rich fluids, cooling into distinct quartz veins.
+- **Mineral Veins:** Fractures (often created by fault movement) that filled with later-stage magma or
+  silica-rich fluids, cooling into distinct quartz veins.
 
 Finding various granite types, granodiorite, quartz veins, and xenoliths makes exploring the Selkirks feel
 like a geological scavenger hunt without a map.
@@ -108,20 +108,20 @@ _The Purcell Trench stretching south, viewed from Tungsten Mountain in the Purce
 #### Mechanism of Crustal Extension & Sliding
 
 1. **Magma Intrusion & Crustal Bulging:** Long before the ice ages, a giant mass of granitic magma rose into
-the crust beneath the present-day Selkirks, stretching and bulging the overlying rock (similar to a bubble
-forming in pizza crust).
+   the crust beneath the present-day Selkirks, stretching and bulging the overlying rock (similar to a
+   bubble forming in pizza crust).
 
 2. **Faulting & Gravitational Sliding:** To relieve severe tension, a major fault formed along the current
-eastern front of the Selkirks. Over millions of years, the overlying rock layers (which now form the Cabinet
-and Purcell Mountains) slowly slid eastward down the fault into their current position, leaving an open
-trench behind.
+   eastern front of the Selkirks. Over millions of years, the overlying rock layers (which now form the
+   Cabinet and Purcell Mountains) slowly slid eastward down the fault into their current position,
+   leaving an open trench behind.
 
 3. **Metamorphic Deformation:** Immense heat and pressure along the fault zone metamorphosed and folded
-rocks along the eastern Selkirk front (distinctly visible in folded rock cuts along Myrtle Creek Road off
-West Side Road).
+   rocks along the eastern Selkirk front (distinctly visible in folded rock cuts along Myrtle Creek Road
+   off West Side Road).
 
 4. **Glacial & Fluvial Reshaping:** Glaciers, lakes, and rivers subsequently scoured, eroded, and deposited
-sediment in the trench, forming the modern Kootenai Valley.
+   sediment in the trench, forming the modern Kootenai Valley.
 
 ![Exposed granite in the Selkirks cooled several miles below the earth’s surface](assets/images/granite.jpg)
 _Exposed Selkirk granite, which initially cooled miles beneath the Earth's surface._
@@ -143,20 +143,20 @@ Kaniksu batholith intruding the Mesoproterozoic Belt Supergroup, Neoproterozoic 
 groups, and Cambrian formations.
 
 - **250–160 Million Years Ago:** The North American Plate collided with the Pacific oceanic plate. Sediments
-of the **Kootenay Arc** (an island-arc terrane) jammed against the continental margin and subducted into a
-deep
+  of the **Kootenay Arc** (an island-arc terrane) jammed against the continental margin and subducted into
+  a deep
 
 trench, recrystallizing into schist and gneiss or melting into granite.
 
 - **160–100 Million Years Ago:** Tectonic collision pushed up a broad welt of sheared rock during
-mid-Jurassic to late Cretaceous time, reaching an estimated **20,000 feet** in height—resembling the modern
-Andes of South
+  mid-Jurassic to late Cretaceous time, reaching an estimated **20,000 feet** in height—resembling the
+  modern Andes of South
 
 America.
 
 - **65 Million Years Ago:** Enormous volumes of molten granite rose into batholiths under the Coast
-Mountains and Idaho. Crustal slabs sheared off toward western Montana, unroofing the **Priest River Core
-Complex** and exposing
+  Mountains and Idaho. Crustal slabs sheared off toward western Montana, unroofing the **Priest River Core
+  Complex** and exposing
 
 the Kaniksu Batholith granite base.
 
@@ -173,14 +173,14 @@ formed where cirques erode back on multiple sides │ [ Knife Arête ] ──►
 ice-carved valleys │ [ U-Shaped Trough ] ──► Broad valley with hanging basins & bedrock tarn lakes
 
 - **Cirques & Tarns:** Steep-sided, rounded bowl features carved into mountains where snow accumulated into
-glacial ice. Meltwater now forms pristine bedrock lakes in cirque hollows.
+  glacial ice. Meltwater now forms pristine bedrock lakes in cirque hollows.
 
 - **Horns & Arêtes:** Sharp pyramidal peaks (horns) and knife-edge ridges (arêtes) separating adjacent
-glacial troughs.
+  glacial troughs.
 
 - **Priest Lake Glacial Dam:** Between 7,000 and 25,000 years ago, a recent glacier scooped out the Priest
-River valley floor and pushed soil, gravel, and boulders into a natural terminal moraine dam at the south
-edge of Priest Lake, impounding meltwater into modern Priest Lake.
+  River valley floor and pushed soil, gravel, and boulders into a natural terminal moraine dam at the
+  south edge of Priest Lake, impounding meltwater into modern Priest Lake.
 
 ---
 
@@ -198,10 +198,10 @@ managed to maintain primitive wilderness values.
 ### High-Country Climbing & Navigation
 
 - **Granite Quality:** The high-friction granitic rock allows safe walking and scrambling on steep 45°+
-slabs.
+  slabs.
 
 - **Un-Named Peak Nomenclature:** Peaks listed as _"Peak 6514'"_ or similar refer to un-named summits
-designated by their spot elevation.
+  designated by their spot elevation.
 
 ---
 
@@ -209,15 +209,15 @@ designated by their spot elevation.
 
 !!! info "Quick Facts: American Selkirks"
 
-    - **Total Area:** ~2,500 square miles (~2/3 in Idaho, 1/3 in Washington)
+- **Total Area:** ~2,500 square miles (~2/3 in Idaho, 1/3 in Washington)
 
-    - **High Point:** UN 7,709 (*7,709 ft*)
+- **High Point:** UN 7,709 (*7,709 ft*)
 
-    - **Designated Wilderness:** Salmo-Priest Wilderness (*39,937 acres*)
+- **Designated Wilderness:** Salmo-Priest Wilderness (*39,937 acres*)
 
-    - **Primary Land Manager:** Idaho Panhandle National Forest
+- **Primary Land Manager:** Idaho Panhandle National Forest
 
-    - **Base Elevations:** 2,400 ft (Priest Lake / West) | 1,700 ft (Purcell Trench / East)
+- **Base Elevations:** 2,400 ft (Priest Lake / West) | 1,700 ft (Purcell Trench / East)
 
 ### Regional Geography & Topography
 
@@ -225,26 +225,26 @@ The main mass of the American Selkirks forms an extended ridge system dividing t
 east and the Priest Lake Basin to the west.
 
 - **Boundaries:** Bounded on the south by the Pend Oreille River and extending north into British Columbia
-(connecting with the Nelson sub-range). Includes lower mountains and hills in Washington east of the Pend
-Oreille River.
+  (connecting with the Nelson sub-range). Includes lower mountains and hills in Washington east of the
+  Pend Oreille River.
 
 - **Acreage & Extent:** Covering ~2,500 square miles (nearly 2/3 in North Idaho, 1/3 in Eastern Washington).
 
 - **The Selkirk Crest:** Idaho's rugged backbone; sharp glacially carved ridges radiate east and west from
-the main divide.
+  the main divide.
 
 - **Elevations:**
 
-  - **West Base (Priest Lake):** ~2,400 feet
+- **West Base (Priest Lake):** ~2,400 feet
 
-  - **East Foot (Purcell Trench):** ~1,700 feet
+- **East Foot (Purcell Trench):** ~1,700 feet
 
-  - **Main Crest Summits:** 7,200 feet to 7,500 feet
+- **Main Crest Summits:** 7,200 feet to 7,500 feet
 
-  - **Northeast Ridges:** Up to 7,700+ feet
+- **Northeast Ridges:** Up to 7,700+ feet
 
-  - **High Point:** Unnamed peak topping out at **7,709 feet** (_UN 7,709_, informally misnamed "South
-Selkirk Crest").
+- **High Point:** Unnamed peak topping out at **7,709 feet** (_UN 7,709_, informally misnamed "South Selkirk
+  Crest").
 
 On both sides of the crest, ridges drop off abruptly due to the intense scouring of massive glacial ice
 lobes that advanced southward from Canada during the last ice age. Smaller mountain groups also lie further
@@ -293,11 +293,11 @@ the crest
 
 down to a giant hanging valley in the Purcell Trench near the Canadian border.
 
-    - **Old-Growth Canopy:** Features a spectacular 10-mile continuous corridor of ancient Western Red
-Cedar, Western Hemlock, and Western White Pine.
+- **Old-Growth Canopy:** Features a spectacular 10-mile continuous corridor of ancient Western Red Cedar,
+  Western Hemlock, and Western White Pine.
 
-    - **Wilderness Status:** Despite being North Idaho's premier remote sanctuary, formal wilderness
-proposals have failed due to timber resource values and prohibitive road-building costs.
+- **Wilderness Status:** Despite being North Idaho's premier remote sanctuary, formal wilderness proposals
+  have failed due to timber resource values and prohibitive road-building costs.
 
 #### Priest Lake & Upper Priest Lake
 
@@ -310,12 +310,12 @@ Lake Tahoe).
 - **Dimensions:** 19 miles long, 1 to 5 miles wide, 360 feet max depth, featuring 8 islands.
 
 - **Upper Priest Lake:** Connected to the main lake by the 2-mile **Thorofare** channel. Accessible only by
-boat or on foot, it is protected within the designated _Upper Priest Lake Scenic Area_.
+  boat or on foot, it is protected within the designated _Upper Priest Lake Scenic Area_.
 
 - **Fishery History & Restoration:** Priest Lake historically produced a world-record Kokanee salmon and
-still holds the national record for Lake Trout (57 lbs). Mismanagement of the aquatic food web led to the
-extinction of Kokanee in the lake. Current management focuses on restoring native **Cutthroat Trout** and
-**Bull Trout**.
+  still holds the national record for Lake Trout (57 lbs). Mismanagement of the aquatic food web led to
+  the extinction of Kokanee in the lake. Current management focuses on restoring native **Cutthroat
+  Trout** and **Bull Trout**.
 
 ---
 
@@ -326,13 +326,13 @@ Access to trailheads across the American Selkirks is available via several major
 - **Washington Side (West):** Accessible via Highways 20 and 31.
 
 - **Priest Lake / Crest West Foot:** Highway 57 north from Priest River to Priest Lake. Turn east just south
-of the lake to Coolin, then head north on Dickensheet Road. Connecting forest roads ascend most major
-canyons.
+  of the lake to Coolin, then head north on Dickensheet Road. Connecting forest roads ascend most major
+  canyons.
 
 - **Southeast Region (Pack River):** Pack River Road, turning north off Highway 95 north of Sandpoint.
 
 - **East Central & Bonners Ferry:** West Side Road running along the eastern foot of the mountains. Reached
-from Bonners Ferry along the Kootenai River or via Copeland Road west from Highway 95.
+  from Bonners Ferry along the Kootenai River or via Copeland Road west from Highway 95.
 
 ---
 
@@ -357,36 +357,36 @@ grant the tribe official reservation land in North Idaho.
 #### Early Explorers, Missionaries & Place Names
 
 - **David Thompson (1809):** The Welsh fur trader and geographer (working for the North West Company) was
-the first non-Native explorer to map the region. He established **Kullyspell House** at the mouth of the
-Clark Fork
+  the first non-Native explorer to map the region. He established **Kullyspell House** at the mouth of the
+  Clark Fork
 
 River in 1809—the first European structure built in Idaho.
 
 - **Father Peter DeSmet (1844–1846):** Jesuit missionary who brought Christianity to local tribes. Local
-Native Americans originally called Priest Lake _Kaniksu_ (meaning "black robe," referring to the Jesuits).
-Father DeSmet renamed it _Roothaan Lake_ after his Jesuit superior in Rome; over time it evolved into
-**Priest Lake**, while nearby **Mount Roothaan** still honors Father DeSmet's superior.
+  Native Americans originally called Priest Lake _Kaniksu_ (meaning "black robe," referring to the
+  Jesuits). Father DeSmet renamed it _Roothaan Lake_ after his Jesuit superior in Rome; over time it
+  evolved into **Priest Lake**, while nearby **Mount Roothaan** still honors Father DeSmet's superior.
 
 #### Mining, Logging & The CCC Era
 
 - **Mining:** The 1860 gold rush brought prospectors into the lower Selkirks. While granite host rock is
-largely non-mineralized, operations like the **Continental Mine** (lead/silver north of Priest Lake, closed
-1960s)
+  largely non-mineralized, operations like the **Continental Mine** (lead/silver north of Priest Lake,
+  closed 1960s)
 
 and lead/zinc mines near Metaline Falls were productive.
 
 - **Timber & Railroads:** Arrival of transcontinental rail lines around 1900 catalyzed a major logging boom
-throughout north Idaho's dense pine and cedar forests.
+  throughout north Idaho's dense pine and cedar forests.
 
 - **Civilian Conservation Corps (CCC):** During the 1930s Great Depression, thousands of CCC workers
-established camps across the Selkirks, building hundreds of miles of access roads, trails, and backcountry
-structures.
+  established camps across the Selkirks, building hundreds of miles of access roads, trails, and
+  backcountry structures.
 
 - **Fire Lookout Density:** Following the devastating 1910 "Big Burn," the Forest Service instituted a
-strict wildfire suppression strategy requiring rapid detection. Northern Idaho developed the highest
-concentration of lookouts in the world, with over **220 lookouts in the Selkirks alone**. Today, aircraft
-and modern satellite monitoring have rendered most lookouts obsolete, though historic structures like Shorty
-Peak remain.
+  strict wildfire suppression strategy requiring rapid detection. Northern Idaho developed the highest
+  concentration of lookouts in the world, with over **220 lookouts in the Selkirks alone**. Today,
+  aircraft and modern satellite monitoring have rendered most lookouts obsolete, though historic
+  structures like Shorty Peak remain.
 
 ---
 
@@ -411,10 +411,10 @@ and dry (<1 inch rain per month), punctuated by afternoon convectional thunderst
 | **Subalpine Summits (6,000–7,700 ft)** | Subalpine Fir, Whitebark Pine | Stunted krummholz mats on wind-scoured ridges; rocky crests preclude dense timber. |
 
 - **Ancient Cedar Groves:** Exceptional old-growth cedar stands persist at **Roosevelt Cedar Grove** (trees
-up to 12 feet in diameter and 2,000 years old) and **Hanna Flats**.
+  up to 12 feet in diameter and 2,000 years old) and **Hanna Flats**.
 
 - **Rare Bogs & Fens:** Lowland depressions near Priest Lake host peat bogs containing rare circumboreal
-plant species at the extreme southern limit of their North American range.
+  plant species at the extreme southern limit of their North American range.
 
 !!! warning "Wildfire History: The 1967 Sundance Fire"
 In 1967, the famous **Sundance Fire** ignited east of Priest Lake. Fueled by extreme winds, it executed a
@@ -435,19 +435,18 @@ contiguous Pacific Northwest that retains its full historical complement of nati
 
 !!! important "Threatened & Sensitive Species"
 
-    - **Woodland Caribou:** Historically roaming south to the Snake River Plain, the endangered Selkirk herd
-represents the last woodland caribou in the lower 48 states. They rely heavily on arboreal lichens in
-old-growth forests for winter survival.
+- **Woodland Caribou:** Historically roaming south to the Snake River Plain, the endangered Selkirk herd
+  represents the last woodland caribou in the lower 48 states. They rely heavily on arboreal lichens in
+  old-growth forests for winter survival.
 
-    - **Grizzly Bears:** A small native population of 35 to 40 grizzly bears inhabits the US Selkirks.
-Management policies restrict motorized road access in timber units to prevent human-bear conflict.
+- **Grizzly Bears:** A small native population of 35 to 40 grizzly bears inhabits the US Selkirks.
+  Management policies restrict motorized road access in timber units to prevent human-bear conflict.
 
-    - **Grey Wolves & Lynx:** A naturally formed, self-established wolf pack returned to the Selkirks
-in 2005.
-Canada lynx, wolverine, and pine marten also inhabit the high backcountry.
+- **Grey Wolves & Lynx:** A naturally formed, self-established wolf pack returned to the Selkirks in 2005.
+  Canada lynx, wolverine, and pine marten also inhabit the high backcountry.
 
-    - **Native Fish:** Native **Bull Trout** (federally Threatened) and **Westslope Cutthroat Trout**
-inhabit pristine mountain streams and lakes.
+- **Native Fish:** Native **Bull Trout** (federally Threatened) and **Westslope Cutthroat Trout** inhabit
+  pristine mountain streams and lakes.
 
 ---
 
@@ -464,23 +463,23 @@ require backcountry hiking to reach and offer excellent trout fishing (stocked a
 #### Camping & Lodging Options
 
 - **Backcountry Camping:** There are no designated developed campgrounds in the central high country or
-eastern Selkirks; backpacking is required.
+  eastern Selkirks; backpacking is required.
 
 - **Frontcountry & State Parks:** Forest Service campgrounds line the west shore and islands of Priest Lake.
-**Priest Lake State Park** offers over 150 developed campsites on the east shore.
+  **Priest Lake State Park** offers over 150 developed campsites on the east shore.
 
 - **Lookout Rentals:** The historic **Shorty Peak Lookout** can be reserved for overnight stays for up to
-four people.
+  four people.
 
 #### Access Fees & Parking Regulations
 
 !!! caution "Red Tape & Trailhead Parking"
 
-    - **Permits & Fees:** No general access fees or wilderness permits are required to enter the Selkirks at
-this time.
+- **Permits & Fees:** No general access fees or wilderness permits are required to enter the Selkirks at
+  this time.
 
-    - **Parking Enforcement:** Popular trailheads (such as **Pyramid Lake**) have strictly limited parking
-spaces. Parking outside designated areas is prohibited and subject to citation.
+- **Parking Enforcement:** Popular trailheads (such as **Pyramid Lake**) have strictly limited parking
+  spaces. Parking outside designated areas is prohibited and subject to citation.
 
 ---
 

@@ -117,9 +117,10 @@ break off.
 ## R & P
 
 [North Idaho Mountain Brew](https://northidahomountainbrew.com), [1313 Club](https://www.1313club.com),
-[Pizza Factory](https://wallace.pizzafactory.com) in Wallace, [Radio Brewing
-Company](http://www.radiobrewingcompany.com) in Kellogg, the [Snake Pit](https://snakepitidaho.com) north of
-Kingston and [Trails End Brewery](https://www.trailsendbrewery.com) in Cd'A.
+[Pizza Factory](https://wallace.pizzafactory.com) in Wallace,
+[Radio Brewing Company](http://www.radiobrewingcompany.com) in Kellogg, the
+[Snake Pit](https://snakepitidaho.com) north of Kingston and
+[Trails End Brewery](https://www.trailsendbrewery.com) in Cd'A.
 
 ## Photo gallery
 

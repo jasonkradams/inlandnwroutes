@@ -169,13 +169,15 @@ we update the routes.
 ## 25-mar-2020
 
 Updated many routes including: [Little Harrison Lake 6271'](little-harrison-lake-6271--peak-7292.md)
-Selkirks [Harrison Lake & Peak 7292'](harrison-lake--peak-7292-trial--217.md). Selkirks [Mount Roothaan and
-Chimney Rock 7124'](mount-roothaan-7326-and-chimney-rock-7124-trail-256.md) Selkirks Rock Lake, C.M.W.
-Granite Lake CMW Lower & Upper Geiger Lakes & Lost Buck Pass CMW Cliff Lake, Chicago Peak, St. Paul Peak CMW
-Ward & Eagle Peaks Bitterroots Lower & Upper Blossom Lakes. Bitterroots & Silver Valley Area Red Top.
-Selkirks Little Harrison Lake. CMW Beehive Lakes. CMW Long Mountain Lake & Peak. Selkirks Hunt Lake.
-Selkirks Selkirk Crest High Traverse. Selkirks Mount Roothaan & Chimney Rock. Selkirks Pyramid-Ball Lakes.
-Selkirks Harrison Lake. Selkirks Leigh Lake, CMW Roman Nose Lakes & Peak. Selkirks Cabinet Divide Trail
+Selkirks [Harrison Lake & Peak 7292'](harrison-lake--peak-7292-trial--217.md). Selkirks
+[Mount Roothaan and Chimney Rock 7124'](mount-roothaan-7326-and-chimney-rock-7124-trail-256.md) Selkirks
+Rock Lake, C.M.W. Granite Lake CMW Lower & Upper Geiger Lakes & Lost Buck Pass CMW Cliff Lake, Chicago Peak,
+St. Paul Peak CMW Ward & Eagle Peaks Bitterroots Lower & Upper Blossom Lakes. Bitterroots & Silver Valley
+Area Red Top. Selkirks Little Harrison Lake. CMW Beehive Lakes. CMW Long Mountain Lake & Peak. Selkirks Hunt
+Lake. Selkirks Selkirk Crest High Traverse. Selkirks Mount Roothaan & Chimney Rock. Selkirks Pyramid-Ball
+Lakes. Selkirks Harrison Lake. Selkirks Leigh Lake, CMW Roman Nose Lakes & Peak. Selkirks Cabinet Divide
+Trail
+
 #360. CMW
 
 Cliff Lake, Chicago Peak, St. Paul Peak

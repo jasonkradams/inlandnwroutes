@@ -4,10 +4,10 @@ As you read this section, please understand that it is designed to inform you. B
 these topics are things you should do your own research on to further your knowledge. The most important
 thing you can take with you on your outing is... knowledge.
 
-For further reading, check out the [MRA backcountry safety
-guide](https://mra.org/wp-content/uploads/2016/05/backcountrysafety.pdf). Go to "hints" on that site to
-learn more ideas on gear, fire starting, hot and cold injuries, and much more. And check out our new blog
-for more detailed info.
+For further reading, check out the
+[MRA backcountry safety guide](https://mra.org/wp-content/uploads/2016/05/backcountrysafety.pdf). Go to
+"hints" on that site to learn more ideas on gear, fire starting, hot and cold injuries, and much more. And
+check out our new blog for more detailed info.
 
 ## Route Finding
 
@@ -185,13 +185,13 @@ apart isn't always easy. Size isn't reliable: an adult grizzly averages heavier 
 but an adult black bear can look larger than an adolescent grizzly (under 5 years old). Color isn't
 clear-cut either — bears aren't always black, and both species range from blonde to very dark brown/black.
 
-- *Black bears:* usually found in forested and coastal habitat; excellent climbers, more likely to
-climb a tree to escape a threat; natural response to threats is to retreat; flatter, fairly straight face
-profile with prominent ears; no shoulder hump; shorter, dark-colored claws; front toes form an arc.
+- *Black bears:* usually found in forested and coastal habitat; excellent climbers, more likely to climb a
+  tree to escape a threat; natural response to threats is to retreat; flatter, fairly straight face
+  profile with prominent ears; no shoulder hump; shorter, dark-colored claws; front toes form an arc.
 
-- *Grizzly bears:* prefer open habitat such as meadows, alpine forest, coast; less adapted for
-climbing (but will); more likely to defend themselves; dish-shaped snout and face profile, rounded ears;
-shoulder hump; longer, lighter-colored claws; front toes in a straighter line.
+- *Grizzly bears:* prefer open habitat such as meadows, alpine forest, coast; less adapted for climbing (but
+  will); more likely to defend themselves; dish-shaped snout and face profile, rounded ears; shoulder
+  hump; longer, lighter-colored claws; front toes in a straighter line.
 
 The primary diet of both is plants, berries and insects, though both are opportunistic and will eat carrion;
 coastal bears feast on salmon in autumn, and grizzlies are more likely to hunt small mammals.
@@ -203,7 +203,7 @@ testing you on the visual differences.
 encounters:
 
 - Research your destination first — find out about local wildlife, restrictions, and recommended
-precautions.
+  precautions.
 
 - Read and follow all trailhead signage; respect trail closures and wildlife warnings.
 
@@ -217,15 +217,16 @@ precautions.
 
 - Keep pets on a leash — dogs can provoke defensive behavior in bears.
 
-- Pack out everything you bring, including garbage and "biodegradable" items like apple cores and
-banana peels.
+- Pack out everything you bring, including garbage and "biodegradable" items like apple cores and banana
+  peels.
 
 - Travel in a group — the larger the group, the fewer recorded attacks.
 
 - Store food safely when camping; bears are curious and will inspect odors to see if they're edible.
 
-- Learn about bear behavior — being able to [interpret their
-postures](http://www.bearsmart.com/about-bears/behaviour/) and vocalizations helps a lot.
+- Learn about bear behavior — being able to
+  [interpret their postures](http://www.bearsmart.com/about-bears/behaviour/) and vocalizations helps a
+  lot.
 
 - Know how to respond during an encounter or attack.
 
@@ -239,30 +240,26 @@ with humans, so if they hear you, they'll usually avoid you.
 - The easiest way to alert a potential bear of your presence is to call, sing, clap, or talk loudly.
 
 - Talking or singing loudly may feel a little silly at first, but it's a tried-and-tested method for
-avoiding bear encounters.
+  avoiding bear encounters.
 
-- Increase the volume when it may be harder to hear — on windy days or near streams and dense
-vegetation.
+- Increase the volume when it may be harder to hear — on windy days or near streams and dense vegetation.
 
-- Be especially vocal in areas with low visibility; don't surprise a bear coming around a blind
-corner.
+- Be especially vocal in areas with low visibility; don't surprise a bear coming around a blind corner.
 
-- It's a myth that [bears see poorly](http://www.bearsmart.com/about-bears/dispelling-myths/) — they
-don't.
+- It's a myth that [bears see poorly](http://www.bearsmart.com/about-bears/dispelling-myths/) — they don't.
 
 **Bear spray** is an aerosol deterrent made with chili pepper oil, designed to be deployed at close
 
 range (under 10 m) toward the face of an aggressive or charging bear. It swells the bear's eyes, nose and
 lungs, restricting breathing and sight, and in most cases the bear will retreat, letting the user leave
 safely. It's a "last resort" tool, used only when other methods have failed. When deploying it, you use the
-entire 225 g canister, which empties in around 7–9 seconds. Some studies suggest bear spray is [more
-effective than shooting a bear with a
-gun](https://www.outsideonline.com/1899301/shoot-or-spray-best-way-stop-charging-bear), though there's been
-[further debate](https://www.outsideonline.com/2401248/does-bear-spray-work) — regardless, it remains one of
-the best defenses an average person can have against an aggressive bear. Keep it stored somewhere with
-convenient access, and [know how to use
-it](https://www.pc.gc.ca/en/pn-np/mtn/ours-bears/securite-safety/gaz-spray) so you can deploy it fast if
-needed.
+entire 225 g canister, which empties in around 7–9 seconds. Some studies suggest bear spray is
+[more effective than shooting a bear with a gun](https://www.outsideonline.com/1899301/shoot-or-spray-best-way-stop-charging-bear),
+though there's been [further debate](https://www.outsideonline.com/2401248/does-bear-spray-work) —
+regardless, it remains one of the best defenses an average person can have against an aggressive bear. Keep
+it stored somewhere with convenient access, and
+[know how to use it](https://www.pc.gc.ca/en/pn-np/mtn/ours-bears/securite-safety/gaz-spray) so you can
+deploy it fast if needed.
 
 **What to do if you see a bear.** In the event you see one: stop; stay calm; have your bear spray
 
@@ -301,42 +298,42 @@ specifically).
 
 animal to your campsite.
 
-- *Frontcountry camping* (accessible by vehicle, usually with allocated sites, water, outhouses or
-flush toilets, trash bins, and sometimes showers): think
-["bare"](https://www.pc.gc.ca/en/pn-np/mtn/ours-bears/securite-safety/camping-propre-bare-camp) — your site
-should look almost empty when you're not there, with only camping furniture left. Research the campground
-first for wildlife restrictions or recommendations. Store all food, food-related items, and toiletries
-(cooking equipment, garbage, dishes, coolers, drink containers, etc.) in a hard-sided vehicle when not in
-use; campers without one, such as cyclists, should be prepared to hang their food (see backcountry camping,
-below). Do not leave pets unattended — they can attract coyotes and wolves as well as bears, and their food
-should be stored securely too. Keep your campsite clean: wash dishes soon after eating, wipe up spills, pick
-up food scraps, and dispose of garbage in the provided bins.
+- *Frontcountry camping* (accessible by vehicle, usually with allocated sites, water, outhouses or flush
+  toilets, trash bins, and sometimes showers): think
+  ["bare"](https://www.pc.gc.ca/en/pn-np/mtn/ours-bears/securite-safety/camping-propre-bare-camp) — your
+  site should look almost empty when you're not there, with only camping furniture left. Research the
+  campground first for wildlife restrictions or recommendations. Store all food, food-related items, and
+  toiletries (cooking equipment, garbage, dishes, coolers, drink containers, etc.) in a hard-sided vehicle
+  when not in use; campers without one, such as cyclists, should be prepared to hang their food (see
+  backcountry camping, below). Do not leave pets unattended — they can attract coyotes and wolves as well
+  as bears, and their food should be stored securely too. Keep your campsite clean: wash dishes soon after
+  eating, wipe up spills, pick up food scraps, and dispose of garbage in the provided bins.
 
-- *Backcountry camping* (situated in wilderness, accessed only by foot, bike, horse, boat, or plane,
-with limited facilities): research the area first for restrictions or recommendations, and whether food
-storage is provided. If you're not at an established backcountry site, pick your tent spot carefully — avoid
-berry patches, game trails, thick brush, and areas near animal carcasses. Don't cook or eat where you sleep;
-use a designated cooking area if there is one, or head at least 50 m (preferably 100 m) downwind of your
-tent otherwise. Disperse graywater properly — strain food particles into your garbage and use a disposal pit
-(if provided) or bury/scatter the water away from water sources. Clean up thoroughly after cooking,
-including crumbs, and never burn garbage or food in a campfire — the smell lingers and attracts bears. Keep
-your sleeping bag, tent, and sleeping clothes away from the food preparation area; clothes with spilled food
-on them should be stored with other smelly items.
+- *Backcountry camping* (situated in wilderness, accessed only by foot, bike, horse, boat, or plane, with
+  limited facilities): research the area first for restrictions or recommendations, and whether food
+  storage is provided. If you're not at an established backcountry site, pick your tent spot carefully —
+  avoid berry patches, game trails, thick brush, and areas near animal carcasses. Don't cook or eat where
+  you sleep; use a designated cooking area if there is one, or head at least 50 m (preferably 100 m)
+  downwind of your tent otherwise. Disperse graywater properly — strain food particles into your garbage
+  and use a disposal pit (if provided) or bury/scatter the water away from water sources. Clean up
+  thoroughly after cooking, including crumbs, and never burn garbage or food in a campfire — the smell
+  lingers and attracts bears. Keep your sleeping bag, tent, and sleeping clothes away from the food
+  preparation area; clothes with spilled food on them should be stored with other smelly items.
 
-- *Storing food in the backcountry:* when not in use, food, toiletries, cooking equipment and garbage
-should be stored securely away from your tent. Some established sites have a food cache (a metal bear-proof
-container) or bear pole system. If none is provided or usable, be prepared to [make a bear
-hang](https://www.wta.org/go-outside/trail-smarts/how-to/hang-bear-bag-secure-food) — you'll need a
-carabiner, a dry/stuff sack, and at least 15 m (50 ft) of nylon cord. Alternatives include an Ursack (a
-lightweight, collapsible, puncture-resistant bear bag) or a bear barrel/canister (a thick plastic container
-with a bear-resistant lid).
+- *Storing food in the backcountry:* when not in use, food, toiletries, cooking equipment and garbage should
+  be stored securely away from your tent. Some established sites have a food cache (a metal bear-proof
+  container) or bear pole system. If none is provided or usable, be prepared to
+  [make a bear hang](https://www.wta.org/go-outside/trail-smarts/how-to/hang-bear-bag-secure-food) —
+  you'll need a carabiner, a dry/stuff sack, and at least 15 m (50 ft) of nylon cord. Alternatives include
+  an Ursack (a lightweight, collapsible, puncture-resistant bear bag) or a bear barrel/canister (a thick
+  plastic container with a bear-resistant lid).
 
 **Safe roadside bear viewing.** The most common way to see a bear in Canada is from your vehicle — always
 
 exciting, but potentially hazardous for both you and the bear.
 
 - Consider not stopping at all — undisturbed bears forage more successfully, building up needed fat
-reserves.
+  reserves.
 
 - Driving by slowly (when safe) is the next best way to minimize your impact.
 
@@ -435,7 +432,7 @@ lymph nodes, weakness or paralysis, headache, confusion, or palpitations.
 your pant leg and move upward, looking for dark places to burrow.
 
 - Wear pants and long sleeves — no shorts. Convertible pants with a flap over the zippered legs are an
-excellent tick trap and a good choice.
+  excellent tick trap and a good choice.
 
 - Tuck your shirt into your pants, and your pants into your socks.
 
@@ -443,9 +440,9 @@ excellent tick trap and a good choice.
 
 - Wear a cap with a flap behind the neck, if you have one.
 
-- DEET works great for mosquitoes but not so well for ticks; permethrin is a better choice — some
-clothing brands use permethrin-infused fabric, or you can buy a spray (these are pesticides, so consider
-thoughtfully how and whether you want to use them).
+- DEET works great for mosquitoes but not so well for ticks; permethrin is a better choice — some clothing
+  brands use permethrin-infused fabric, or you can buy a spray (these are pesticides, so consider
+  thoughtfully how and whether you want to use them).
 
 **During and after your hike.** Sticking to an established trail is good prevention (ticks like
 
@@ -468,11 +465,11 @@ possible:
 
 2. Grasp the tick with tweezers (or fingers) as close to the skin as possible.
 
-3. Pull straight and steady — do not twist or yank. You don't want to leave the head and legs under
-the skin.
+3. Pull straight and steady — do not twist or yank. You don't want to leave the head and legs under the
+   skin.
 
 4. If parts do remain under the skin, pinch the skin up and try to scrape the remains away, using a
-sterilized needle if you have to dig anything out.
+   sterilized needle if you have to dig anything out.
 
 5. Clean the area again with another antiseptic or alcohol wipe.
 

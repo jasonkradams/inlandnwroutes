@@ -995,15 +995,15 @@ Germany, by Robert Winterhalder. The first one in North America was installed in
 [Shawbridge](https://en.wikipedia.org/wiki/Pr%C3%A9vost,_Quebec), in the
 [Laurentians](https://en.wikipedia.org/wiki/Laurentides) outside Montreal, Quebec. It was quickly copied at
 [Woodstock, Vermont](https://en.wikipedia.org/wiki/Woodstock_(town),_Vermont) in 1934 by Bob and Betty
-Royce, proprietors of the White Cupboard Inn; their tow was driven by the rear wheel of a Ford [Model
-A](https://en.wikipedia.org/wiki/Ford_Model_A_(1927%E2%80%931931)). Wallace "Bunny" Bertram took it over for
-the second season, improved the operation, renamed it from Ski-Way to Ski Tow, and eventually moved it to
-what became the eastern fringe of Vermont's major southern ski areas — a regional resort still operating
-today as [Suicide Six](https://en.wikipedia.org/wiki/Suicide_Six). Their relative simplicity — a car engine,
-some rope and a few pulleys — made ski tows widespread and contributed to an explosion of the sport in the
-United States and Europe: before tows, only people willing to walk uphill could ski, and suddenly relatively
-unathletic people could participate. Within five years, more than 100 tow ropes were operating in North
-America.
+Royce, proprietors of the White Cupboard Inn; their tow was driven by the rear wheel of a Ford
+[Model A](https://en.wikipedia.org/wiki/Ford_Model_A_(1927%E2%80%931931)). Wallace "Bunny" Bertram took it
+over for the second season, improved the operation, renamed it from Ski-Way to Ski Tow, and eventually moved
+it to what became the eastern fringe of Vermont's major southern ski areas — a regional resort still
+operating today as [Suicide Six](https://en.wikipedia.org/wiki/Suicide_Six). Their relative simplicity — a
+car engine, some rope and a few pulleys — made ski tows widespread and contributed to an explosion of the
+sport in the United States and Europe: before tows, only people willing to walk uphill could ski, and
+suddenly relatively unathletic people could participate. Within five years, more than 100 tow ropes were
+operating in North America.
 
 In the 1930s the Selkirk Ski Club, the Spokane Ski Club and the Spokane Mountaineers purchased over 500
 acres on Mt. Spokane and constructed rope tows and ski jumps; they later donated this land and the operation
@@ -1029,41 +1029,41 @@ of Mt. Spokane](http://mountspokane.org/).
 Two source timelines were merged to build this history, and they disagree on a couple of details that
 couldn't be resolved from the material available — noted inline below.
 
-- **19th century** — Long before Mt. Spokane State Park became a haven for winter and summer
-recreation, Native Americans considered the summit of Mt. Spokane an ideal site for spiritual pilgrimages.
+- **19th century** — Long before Mt. Spokane State Park became a haven for winter and summer recreation,
+  Native Americans considered the summit of Mt. Spokane an ideal site for spiritual pilgrimages.
 
-- **1909–1912** — Frances Cook, owner of the summit, builds a toll road to within 3 miles (4.8 km) of
-the summit *(one source variant says the road came within ¾ mile)*, along with a cabin.
+- **1909–1912** — Frances Cook, owner of the summit, builds a toll road to within 3 miles (4.8 km) of the
+  summit *(one source variant says the road came within ¾ mile)*, along with a cabin.
 
 - **1927** — Mt. Spokane State Park is officially dedicated at 1,500 acres (6.1 km²).
 
 - **1929** — H. Cowles, Jr. donates 640 acres (2.6 km²) of land to the park.
 
-- **1930s** — The Spokane Ski Club, the Selkirk Ski Club, and the Spokane Mountaineers purchase over
-500 acres (2 km²) on the mountain for lodges, rope-tows, and ski-jump hills. The road is completed to the
-summit.
+- **1930s** — The Spokane Ski Club, the Selkirk Ski Club, and the Spokane Mountaineers purchase over 500
+  acres (2 km²) on the mountain for lodges, rope-tows, and ski-jump hills. The road is completed to the
+  summit.
 
-- **1932** — A large Sun Globe is erected at the top of the mountain on June 26 by the Spokane
-Federation of Women's Organizations, intended to reflect the sun's rays for miles as a tribute to fatherhood
-and a memorial to the people of Spokane. Mrs. J.B. Dodd, originator of Father's Day, unveils the globe at a
-dedication ceremony. As of 2011 the globe and its base were gone, and it isn't known how long it stood.
+- **1932** — A large Sun Globe is erected at the top of the mountain on June 26 by the Spokane Federation of
+  Women's Organizations, intended to reflect the sun's rays for miles as a tribute to fatherhood and a
+  memorial to the people of Spokane. Mrs. J.B. Dodd, originator of Father's Day, unveils the globe at a
+  dedication ceremony. As of 2011 the globe and its base were gone, and it isn't known how long it stood.
 
 - **1933–1934** — Vista House is built near the summit *(credited in one source to contractor E.O.
-Fieldstad, and in another to a Civilian Conservation Corps crew from Riverside State Park)*; Cook's Cabin,
-the caretaker's cabin, is also built. The CCC sets up a camp for 200 unemployed young men on Beauty Mountain
-to improve the roads and construct other facilities.
+  Fieldstad, and in another to a Civilian Conservation Corps crew from Riverside State Park)*; Cook's
+  Cabin, the caretaker's cabin, is also built. The CCC sets up a camp for 200 unemployed young men on
+  Beauty Mountain to improve the roads and construct other facilities.
 
-- **1939** — The Spokane Chapter of the Conservation League buys 320 acres (1.3 km²) for the park for
-$1,500 (the south half of Section 21) to save virgin timber from logging and fire.
+- **1939** — The Spokane Chapter of the Conservation League buys 320 acres (1.3 km²) for the park for $1,500
+  (the south half of Section 21) to save virgin timber from logging and fire.
 
-- **1940** — The Grand Lodge is completed near Cook's Cabin, but burns to the ground just before an
-addition is finished in 1952.
+- **1940** — The Grand Lodge is completed near Cook's Cabin, but burns to the ground just before an addition
+  is finished in 1952.
 
-- **1946** — The first double chairlift in the world goes into operation on the south face of the
-summit, for three seasons.
+- **1946** — The first double chairlift in the world goes into operation on the south face of the summit,
+  for three seasons.
 
-- **1952** — A master plan proposing over 24,000 acres and designating all of Mt. Spokane for downhill
-ski purposes is proposed but not implemented.
+- **1952** — A master plan proposing over 24,000 acres and designating all of Mt. Spokane for downhill ski
+  purposes is proposed but not implemented.
 
 - **1953** — KXLY-TV becomes operational from the summit.
 
@@ -1071,39 +1071,39 @@ ski purposes is proposed but not implemented.
 
 - **1961** — Concessionaire A.E. Mettler constructs Lodge #2 and Lift #2.
 
-- **1965** — Another master plan, covering 11,592 acres (46.9 km²) — 958 acres (3.9 km²) for general
-outdoor recreation, the rest as a "natural environment area" — is developed but not adopted by the Parks
-Commission.
+- **1965** — Another master plan, covering 11,592 acres (46.9 km²) — 958 acres (3.9 km²) for general outdoor
+  recreation, the rest as a "natural environment area" — is developed but not adopted by the Parks
+  Commission.
 
-- **1974** — The park's official classification changes from recreation area to state park, under a
-new philosophy: state parks are to service the public's spiritual, mental and leisure needs through a full
-range of non-urban outdoor educational and recreational services.
+- **1974** — The park's official classification changes from recreation area to state park, under a new
+  philosophy: state parks are to service the public's spiritual, mental and leisure needs through a full
+  range of non-urban outdoor educational and recreational services.
 
-- **1978** — A Coordinated Trail System plan is developed to reduce conflicting recreational uses
-through allocation of park lands to user groups; it becomes outdated and is never fully implemented.
+- **1978** — A Coordinated Trail System plan is developed to reduce conflicting recreational uses through
+  allocation of park lands to user groups; it becomes outdated and is never fully implemented.
 
 - **1985** — The Parks Commission formally designates the Ragged Ridge Natural Area within the park.
 
-- **1993** — The park contains about 13,643 acres (55.2 km²) of land, not including Quartz Mountain,
-most of it donated or obtained during the Great Depression through property forfeitures. The Mt. Spokane
-State Park Alpine Ski Area Working Group Interface Subcommittee issues a report recommending a comprehensive
-planning process.
+- **1993** — The park contains about 13,643 acres (55.2 km²) of land, not including Quartz Mountain, most of
+  it donated or obtained during the Great Depression through property forfeitures. The Mt. Spokane State
+  Park Alpine Ski Area Working Group Interface Subcommittee issues a report recommending a comprehensive
+  planning process.
 
-- **1994** — State Parks proposes classifying areas of the park as Natural Forest Areas. The Mt.
-Spokane Planning Task Force Steering Committee forms and recommends a comprehensive planning process plus a
-permanent local park advisory committee.
+- **1994** — State Parks proposes classifying areas of the park as Natural Forest Areas. The Mt. Spokane
+  Planning Task Force Steering Committee forms and recommends a comprehensive planning process plus a
+  permanent local park advisory committee.
 
 - **1995** — The Mt. Spokane State Park Advisory Committee, appointed by the Parks Commission, begins
-monthly meetings in Spokane; Friends of Mt. Spokane State Park is also formed.
+  monthly meetings in Spokane; Friends of Mt. Spokane State Park is also formed.
 
-- **1997** — Mt. Spokane 2000, a non-profit group of local businesses and civic leaders, is approved as
-the new concessionaire for the alpine ski area, replacing the Mt. Spokane Ski Corporation, which had
-operated the area for 20 years.
+- **1997** — Mt. Spokane 2000, a non-profit group of local businesses and civic leaders, is approved as the
+  new concessionaire for the alpine ski area, replacing the Mt. Spokane Ski Corporation, which had
+  operated the area for 20 years.
 
-- **1999** — A Classification and Management Plan (CAMP) process is completed for the park, approving
-new land classifications: about 10% Recreation Area, 58% Resource Recreation Area, under 1% Heritage Area,
-22% Natural Forest Area, 4% Natural Area Preserve, and about 5% left unclassified pending an alpine ski area
-expansion plan.
+- **1999** — A Classification and Management Plan (CAMP) process is completed for the park, approving new
+  land classifications: about 10% Recreation Area, 58% Resource Recreation Area, under 1% Heritage Area,
+  22% Natural Forest Area, 4% Natural Area Preserve, and about 5% left unclassified pending an alpine ski
+  area expansion plan.
 
 - **2010** — Master Facilities Plan completed.
 
@@ -1190,20 +1190,20 @@ today, another possible indication of the mountain's long use by Indigenous peop
 !!! danger "Know before you go"
 The following are a few of the warning signs of unstable snow and possible avalanches:
 
-    - You see an avalanche happen, or evidence of a previous slide.
+- You see an avalanche happen, or evidence of a previous slide.
 
-    - Cracks form in the snow around your feet or skis.
+- Cracks form in the snow around your feet or skis.
 
-    - The ground feels hollow underfoot.
+- The ground feels hollow underfoot.
 
-    - You hear a "whumping" sound as you walk — the snow is settling and a slab might release.
+- You hear a "whumping" sound as you walk — the snow is settling and a slab might release.
 
-    - Heavy snowfall or rain in the past 24 hours.
+- Heavy snowfall or rain in the past 24 hours.
 
-    - Significant warming or rapidly increasing temperatures.
+- Significant warming or rapidly increasing temperatures.
 
-    - You see surface patterns made by strong wind — snow may have been transported and deposited in
-dangerous drifts that could release.
+- You see surface patterns made by strong wind — snow may have been transported and deposited in dangerous
+  drifts that could release.
 
 [Get training.](http://www.avalanche.org/education.php)
 
@@ -1215,8 +1215,8 @@ Know the three factors required for an avalanche:
 
 - **Snowpack** — recent avalanches, shooting cracks, and "whumpfing" are signs of unstable snow.
 
-- **Trigger** — sometimes it doesn't take much to tip the balance; people, new snow, and wind are
-common triggers.
+- **Trigger** — sometimes it doesn't take much to tip the balance; people, new snow, and wind are common
+  triggers.
 
 Before heading out: determine if you are on or below slopes that can avalanche, find out if the snow is
 stable, and check your [local avalanche center](http://www.avalanche.org/) for current snowpack conditions.
@@ -1292,54 +1292,55 @@ your local avalanche forecast center.
 
 describe avalanche conditions:
 
-- *Dry Loose* — release of dry, unconsolidated snow, typically within soft surface layers, starting
-at a point and fanning outward as it moves downhill (also called point-release avalanches or sluffs).
+- *Dry Loose* — release of dry, unconsolidated snow, typically within soft surface layers, starting at a
+  point and fanning outward as it moves downhill (also called point-release avalanches or sluffs).
 
 - *Storm Slab* — release of a cohesive layer of new snow that breaks within the new snow or on the old
-surface; typically lasts a few hours to a few days after snowfall. Storm slabs that form over a persistent
-weak layer (surface hoar, depth hoar, near-surface facets) may become Persistent Slabs.
+  surface; typically lasts a few hours to a few days after snowfall. Storm slabs that form over a
+  persistent weak layer (surface hoar, depth hoar, near-surface facets) may become Persistent Slabs.
 
-- *Wind Slab* — release of a cohesive layer formed by wind transporting snow from the upwind side of
-terrain to the downwind side; often smooth, rounded, and sometimes hollow-sounding, ranging from soft to
-hard. Can also develop into a Persistent Slab over a persistent weak layer.
+- *Wind Slab* — release of a cohesive layer formed by wind transporting snow from the upwind side of terrain
+  to the downwind side; often smooth, rounded, and sometimes hollow-sounding, ranging from soft to hard.
+  Can also develop into a Persistent Slab over a persistent weak layer.
 
 - *Persistent Slab* — release of a cohesive layer in the middle to upper snowpack when the bond to an
-underlying persistent weak layer (surface hoar, depth hoar, near-surface facets, faceted snow) breaks. These
-can keep producing avalanches for days, weeks, or months, making them especially dangerous. As more snow and
-wind build a thicker slab on top, this can develop into a Deep Persistent Slab.
+  underlying persistent weak layer (surface hoar, depth hoar, near-surface facets, faceted snow) breaks.
+  These can keep producing avalanches for days, weeks, or months, making them especially dangerous. As
+  more snow and wind build a thicker slab on top, this can develop into a Deep Persistent Slab.
 
-- *Deep Persistent Slab* — release of a thick, hard slab when the bond breaks between it and an
-underlying persistent weak layer deep in the snowpack (often depth hoar or facets around a buried crust).
-Hard to trigger but very destructive, can persist for months, and is particularly difficult to forecast and
-manage.
+- *Deep Persistent Slab* — release of a thick, hard slab when the bond breaks between it and an underlying
+  persistent weak layer deep in the snowpack (often depth hoar or facets around a buried crust). Hard to
+  trigger but very destructive, can persist for months, and is particularly difficult to forecast and
+  manage.
 
-- *Wet Loose* — release of wet, unconsolidated snow or slush, typically within wet surface layers, but
-can quickly gouge into lower layers; starts at a point and fans out like a dry loose avalanche, and can
-trigger slab avalanches in deeper snow.
+- *Wet Loose* — release of wet, unconsolidated snow or slush, typically within wet surface layers, but can
+  quickly gouge into lower layers; starts at a point and fans out like a dry loose avalanche, and can
+  trigger slab avalanches in deeper snow.
 
-- *Wet Slab* — release of a cohesive, moist-to-wet layer when liquid water weakens the bond between
-the slab and the surface below; often occurs during prolonged warming or rain-on-snow events, and can be
-very unpredictable and destructive.
+- *Wet Slab* — release of a cohesive, moist-to-wet layer when liquid water weakens the bond between the slab
+  and the surface below; often occurs during prolonged warming or rain-on-snow events, and can be very
+  unpredictable and destructive.
 
-- *Cornice Fall* — release of an overhanging mass of snow formed as wind moves snow over a sharp
-terrain feature (like a ridge) and deposits it on the lee side. Cornices range from small soft drifts to
-hard overhangs 30 feet or taller; they can break off suddenly and catch people by surprise even on flat
-ground above the slope, and can entrain loose snow or trigger slab avalanches. Cornices are elegant,
-cantilevered structures — and one of the mountains' most dangerous attractions. Each time the wind blows,
-the cornice extends further outward, so the freshest, most easily triggered snow tends to sit right at the
-exposed edge while the harder, more stable snow forms the root; cornices become more unstable during storms
-(especially windy ones) or during rapid warming and prolonged melting. Cornice fall avalanches don't kill
-many people, but those who do get in trouble almost always trigger it themselves by walking too close to the
-edge — cornices notoriously break farther back than expected, so never approach a drop-off edge without
-first checking it out from a safe place. Cornices aren't all bad: professionals intentionally trigger them
-to test slope stability below, or to create an escape route off a ridge (see *Cornice tests*, below).
+- *Cornice Fall* — release of an overhanging mass of snow formed as wind moves snow over a sharp terrain
+  feature (like a ridge) and deposits it on the lee side. Cornices range from small soft drifts to hard
+  overhangs 30 feet or taller; they can break off suddenly and catch people by surprise even on flat
+  ground above the slope, and can entrain loose snow or trigger slab avalanches. Cornices are elegant,
+  cantilevered structures — and one of the mountains' most dangerous attractions. Each time the wind
+  blows, the cornice extends further outward, so the freshest, most easily triggered snow tends to sit
+  right at the exposed edge while the harder, more stable snow forms the root; cornices become more
+  unstable during storms (especially windy ones) or during rapid warming and prolonged melting. Cornice
+  fall avalanches don't kill many people, but those who do get in trouble almost always trigger it
+  themselves by walking too close to the edge — cornices notoriously break farther back than expected, so
+  never approach a drop-off edge without first checking it out from a safe place. Cornices aren't all bad:
+  professionals intentionally trigger them to test slope stability below, or to create an escape route off
+  a ridge (see *Cornice tests*, below).
 
-- *Glide* — release of the entire snow cover as it glides over the ground; can be wet, moist, or
-almost entirely dry. Glide avalanches occur along very specific paths, where the slope is steep enough and
-the ground surface smooth enough, and are often preceded by full-depth glide cracks — though the time
-between a crack appearing and an avalanche releasing can range from seconds to months. They're unlikely to
-be triggered by a person and are nearly impossible to forecast, posing a hazard that's extremely difficult
-to manage. (See *Glide*, below, for more on the mechanism.)
+- *Glide* — release of the entire snow cover as it glides over the ground; can be wet, moist, or almost
+  entirely dry. Glide avalanches occur along very specific paths, where the slope is steep enough and the
+  ground surface smooth enough, and are often preceded by full-depth glide cracks — though the time
+  between a crack appearing and an avalanche releasing can range from seconds to months. They're unlikely
+  to be triggered by a person and are nearly impossible to forecast, posing a hazard that's extremely
+  difficult to manage. (See *Glide*, below, for more on the mechanism.)
 
 **Avalanche path** — A terrain feature where an avalanche occurs, composed of a starting zone, track,
 
@@ -1600,21 +1601,20 @@ substances that exists near its "triple point," where solid, liquid and vapor ph
 once. Small, subtle changes in temperature, pressure and humidity gradient can have a dramatic effect on the
 crystal that forms. Common types:
 
-- *New snow* (powder, rime, graupel, etc.) — no two crystals alike; on the snow surface; falls from the
-sky.
+- *New snow* (powder, rime, graupel, etc.) — no two crystals alike; on the snow surface; falls from the sky.
 
-- *Rounded snow* (equilibrium snow, old snow) — fine-grained, chalky; found in old layers; forms under
-low temperature-gradient conditions (typically under 1°C per 10 cm).
+- *Rounded snow* (equilibrium snow, old snow) — fine-grained, chalky; found in old layers; forms under low
+  temperature-gradient conditions (typically under 1°C per 10 cm).
 
-- *Faceted snow* (sugar snow, kinetic snow; depth hoar when near the ground) — sparkly, large-grained;
-found anywhere in the snowpack; forms under large temperature-gradient conditions (typically over 1°C per 10
-cm).
+- *Faceted snow* (sugar snow, kinetic snow; depth hoar when near the ground) — sparkly, large-grained; found
+  anywhere in the snowpack; forms under large temperature-gradient conditions (typically over 1°C per 10
+  cm).
 
-- *Surface hoar* (frost, feathers) — sparkly, large-grained; on the snow surface or buried under more
-recent layers; the winter equivalent of dew.
+- *Surface hoar* (frost, feathers) — sparkly, large-grained; on the snow surface or buried under more recent
+  layers; the winter equivalent of dew.
 
 - *Melt-freeze snow* (corn snow, spring snow, wet snow) — found on the surface or buried; forms from
-repeated melting and freezing of the snowpack.
+  repeated melting and freezing of the snowpack.
 
 **Persistent weak layers** — Weak layers that keep producing avalanches for days or weeks after a
 
@@ -1718,16 +1718,16 @@ representative average depth without wasting time digging in a bad spot. Simple 
 require steep terrain — slopes of 25 degrees or gentler can give good data, meaning you don't have to expose
 yourself to danger to collect it. Two of the most common:
 
-- *Extended column test (ECT)* — isolate a block 90 cm wide by 30 cm deep and tap on one side using the
-same loading taps as the compression test. Count how many taps it takes to fracture the block, and — more
-importantly — note whether the fracture propagates across the entire block. Any full-block propagation is a
-red flag regardless of how hard the taps were; without other information strongly suggesting the snow is
-stable, avoid slopes where ECTs are propagating.
+- *Extended column test (ECT)* — isolate a block 90 cm wide by 30 cm deep and tap on one side using the same
+  loading taps as the compression test. Count how many taps it takes to fracture the block, and — more
+  importantly — note whether the fracture propagates across the entire block. Any full-block propagation
+  is a red flag regardless of how hard the taps were; without other information strongly suggesting the
+  snow is stable, avoid slopes where ECTs are propagating.
 
-- *Compression test (CT)* — isolate a small column (30 x 30 cm), lay a shovel blade flat on top, and
-tap progressively harder until the column fails: ten taps from the wrist, then ten from the elbow, then ten
-from the shoulder, letting your arm fall under its own weight rather than pushing. Easy taps are bad, hard
-taps are good — but even with hard taps, follow up with an ECT to check for full propagation.
+- *Compression test (CT)* — isolate a small column (30 x 30 cm), lay a shovel blade flat on top, and tap
+  progressively harder until the column fails: ten taps from the wrist, then ten from the elbow, then ten
+  from the shoulder, letting your arm fall under its own weight rather than pushing. Easy taps are bad,
+  hard taps are good — but even with hard taps, follow up with an ECT to check for full propagation.
 
 It's best to take a class or find a mentor to learn these tests properly, and — more importantly — how to
 interpret the results.

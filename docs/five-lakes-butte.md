@@ -61,6 +61,7 @@ right side. After about 1100’ from the top, choose your route down to Heather 
 Berry Lake, head SW to Gold Lake, contouring the terrain. This route is off trail and allows you to stay
 above the trees. Once at Gold Lake, hike SE on a faint trail, back to the Trail 233, above Silver Lake. Take
 a left on Trail
+
 #233, and
 follow your steps toward Tin Lake, and back to the trailhead.
 

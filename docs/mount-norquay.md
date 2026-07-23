@@ -57,12 +57,13 @@ feet above the town of Banff, on Mount Norquay. The rest, as they say is history
 Proud of It!Our first ski cabin was built in 1927 and the first rope tow was installed in
 
 1941. The North American or "Big Chair" has been providing riders with views high above the Bow Valley views
-since 1948, making it one of the oldest chairs in North America. Then there’s our ski racing heritage, with
-the first slalom courses set back in 1929. Norquay held the North American Champions races in 1937 and still
-to this day hosts several competitions a season. Bridging the Past with the PresentFrom humble beginnings,
-Norquay continues many of the traditions from its past, hosting special events such as the Annual Bruno
-Engler Ski Race – named after Banff-based mountain guide, photographer, ski instructor, stunt double and
-filmmaker, Bruno Engler, who started it – this is
+      since 1948, making it one of the oldest chairs in North America. Then there’s our ski racing
+      heritage, with the first slalom courses set back in 1929. Norquay held the North American
+      Champions races in 1937 and still to this day hosts several competitions a season. Bridging the
+      Past with the PresentFrom humble beginnings, Norquay continues many of the traditions from its
+      past, hosting special events such as the Annual Bruno Engler Ski Race – named after Banff-based
+      mountain guide, photographer, ski instructor, stunt double and filmmaker, Bruno Engler, who
+      started it – this is
 
 [Read More](https://banffnorquay.com/about-norquay/#1632952684604-a67fa1f5-fed1)Canada’s longest-running ski
 race, marking its 52nd year in 2018.

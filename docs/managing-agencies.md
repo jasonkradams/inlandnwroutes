@@ -11,17 +11,17 @@ notices.
 
 ## Inland northwest national forest alerts & notices
 
-- Idaho Ipnf & kaniksu n.f. <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>.   208.765.7223
+- Idaho Ipnf & kaniksu n.f. <https://www.fs.usda.gov/alerts/ipnf/alerts-notices>. 208.765.7223
 
-- Kootenai national forest <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>.  406.293.6211
+- Kootenai national forest <https://www.fs.usda.gov/alerts/kootenai/alerts-notices>. 406.293.6211
 
-- Colville national forest <https://www.fs.usda.gov/alerts/colville/alerts-notices>.   509.684.7000
+- Colville national forest <https://www.fs.usda.gov/alerts/colville/alerts-notices>. 509.684.7000
 
-- Lolo national forest <https://www.fs.usda.gov/alerts/lolo/alerts-notices>.   406.329.3750
+- Lolo national forest <https://www.fs.usda.gov/alerts/lolo/alerts-notices>. 406.329.3750
 
 - Nez perce-clearwater n.f.<https://www.fs.usda.gov/alerts/nezperceclearwater/alerts-notices>. 208.983.1950
 
-- Flathead national forest <https://www.fs.usda.gov/alerts/flathead/alerts-notices>.   406.758.5208
+- Flathead national forest <https://www.fs.usda.gov/alerts/flathead/alerts-notices>. 406.758.5208
 
 ## Managing Agencies & More
 
@@ -29,53 +29,53 @@ notices.
 
 - **Idaho Panhandle National Forest** — 208.765.7223
 
-  - Kaniksu National Forest — 208.765.7223
+- Kaniksu National Forest — 208.765.7223
 
-  - Bonner's Ferry Ranger District — 208.267.5561
+- Bonner's Ferry Ranger District — 208.267.5561
 
-  - Priest Lake Ranger District — 208.443.2512
+- Priest Lake Ranger District — 208.443.2512
 
-  - Sandpoint Ranger District — 208.263.5111
+- Sandpoint Ranger District — 208.263.5111
 
 - **CDA National Forest** — 208.765.7223
 
-  - CDA River Ranger District — 208.769.3000
+- CDA River Ranger District — 208.769.3000
 
-  - CDA River Ranger District — 208.752.1221
+- CDA River Ranger District — 208.752.1221
 
 - **St. Joe National Forest**
 
-  - Avery Ranger District — 208.245.4517
+- Avery Ranger District — 208.245.4517
 
-  - St Maries Ranger District — 208.245.2531
+- St Maries Ranger District — 208.245.2531
 
 - **Kootenai National Forest** — 406.293.6211
 
-  - Libby Fisher Ranger District — 406.293.8861
+- Libby Fisher Ranger District — 406.293.8861
 
-  - Three Rivers Ranger District — 406.295.4693
+- Three Rivers Ranger District — 406.295.4693
 
-  - Redford Ranger District — 406.296.2536
+- Redford Ranger District — 406.296.2536
 
-  - Cabinet Ranger District — 406.827.3533
+- Cabinet Ranger District — 406.827.3533
 
-  - Frontline Ranger District — 406.882.4451
+- Frontline Ranger District — 406.882.4451
 
 - **Lolo National Forest** — 406.329.3750
 
-  - Superior Ranger District — 406.822.4233
+- Superior Ranger District — 406.822.4233
 
 - **Colville National Forest** — 509.684.7000
 
-  - Colville Ranger District — 509.684.3711
+- Colville Ranger District — 509.684.3711
 
-  - Kettle Falls Ranger District — 509.684.3711
+- Kettle Falls Ranger District — 509.684.3711
 
-  - Republic Ranger District — 509.775.3305
+- Republic Ranger District — 509.775.3305
 
-  - Sullivan Ranger District — 509.446.7500
+- Sullivan Ranger District — 509.446.7500
 
-  - Newport Ranger District — 509.447.3129
+- Newport Ranger District — 509.447.3129
 
 ### Other State Agencies
 
@@ -90,13 +90,13 @@ notices.
 - Dishman Hills Conservancy — 509.926.7949, [dishmanhills.org](https://dishmanhills.org)
 
 - Mount Spokane State Park — 509.456.3964,
-[parks.state.wa.us/549/mountspokane](https://parks.state.wa.us/549/mountspokane)
+  [parks.state.wa.us/549/mountspokane](https://parks.state.wa.us/549/mountspokane)
 
 - Spokane County Parks — 509.456.4730,
-[spokanecounty.org/1130/parks-recreation-golf](https://spokanecounty.org/1130/parks-recreation-golf)
+  [spokanecounty.org/1130/parks-recreation-golf](https://spokanecounty.org/1130/parks-recreation-golf)
 
 - Riverside State Park — 509.456.5064,
-[parks.state.wa.us/573/riverside](https://parks.state.wa.us/573/riverside)
+  [parks.state.wa.us/573/riverside](https://parks.state.wa.us/573/riverside)
 
 **Idaho Department of Lands**
 
@@ -211,7 +211,7 @@ notices.
 - Montana Road Conditions — 800.226.7623, [mdt.mt.gov](https://mdt.mt.gov)
 
 - Washington Road Conditions — 800.695.7623,
-[wsdot.com/traffic/trafficalerts](https://wsdot.com/traffic/trafficalerts)
+  [wsdot.com/traffic/trafficalerts](https://wsdot.com/traffic/trafficalerts)
 
 ### Emergency & Support Lines
 

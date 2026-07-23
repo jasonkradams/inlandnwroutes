@@ -55,14 +55,14 @@ stalk above the leaves and is pure white, fading to rose at the end of a week. V
 come from the Siskiyous of n.w. CA. This is a perennial plant. A low plant with 1 white flower on a short
 stalk that grows from the center of a whorl of 3 broad, ovate leaves at top of an otherwise leafless stem.
 The name Wake Robin indicates that the flowers bloom in early spring, about the time the robin arrives. Only
-one other species in the West has a stalk between the flower and the leaves, Klamath Trillium ([*T.
-rivale*](https://www.wildflower.org/plants/result.php?id_plant=TRRI2)), of northwestern California and
-southwestern Oregon. Giant Wake Robin ([*T.
-chloropetalum*](https://www.wildflower.org/plants/result.php?id_plant=TRCH2)), which grows in dense patches
-west of the Cascade Mountains and in the Sierra Nevada, has no stalks at the base of the mottled leaves. Its
-petals vary from white to maroon; if maroon, usually with a white base. Roundleaf Trillium ([*T.
-petiolatum*](https://www.wildflower.org/plants/result.php?id_plant=TRPE3)), from eastern Washington and
-Oregon, has long stalks on the leaves and dark red-brown petals.
+one other species in the West has a stalk between the flower and the leaves, Klamath Trillium
+([*T. rivale*](https://www.wildflower.org/plants/result.php?id_plant=TRRI2)), of northwestern California and
+southwestern Oregon. Giant Wake Robin
+([*T. chloropetalum*](https://www.wildflower.org/plants/result.php?id_plant=TRCH2)), which grows in dense
+patches west of the Cascade Mountains and in the Sierra Nevada, has no stalks at the base of the mottled
+leaves. Its petals vary from white to maroon; if maroon, usually with a white base. Roundleaf Trillium
+([*T. petiolatum*](https://www.wildflower.org/plants/result.php?id_plant=TRPE3)), from eastern Washington
+and Oregon, has long stalks on the leaves and dark red-brown petals.
 
 Forty-three species of trillium are known worldwide with a startling thirty-eight represented in North
 America. Within the United States, the bulk of Trillium diversity is found in the eastern states where

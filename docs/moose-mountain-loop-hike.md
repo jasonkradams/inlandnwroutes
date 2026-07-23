@@ -48,6 +48,7 @@ the summit of Moose Mountain. This whole area is called the Moose Lake Trail Sys
 the trailhead. At the trailhead is a map showing the areas attractions and routes. To me, the instructions
 don’t make much sense, so take an image of the map to refer to on your walk. For the first .5 mile the trail
 climbs gently to the first junction. Turn left and in a short distance is a turn off to Lake Estelle Trail
+
 #36. See OPTION #1 below for info on this spur trail.
 
 In 1.5 miles is Moose Lake. I guarantee you, there will always be a place to pitch a tent. And your tent

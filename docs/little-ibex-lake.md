@@ -51,6 +51,7 @@ bridge over the Middle Fork Bull River, Where there is a small parking area for 
 
 This hike starts out heading up Trail #972 that eventually leads to Snowshoe Lake. In a short distance,
 Trail
+
 #978 turns
 right and starts it’s relentless climb along side of Middle Fork Bull River. Look for a brown trail stake
 with hard to read numbers. At about 4 miles, look for a cairn and Trail #978 that drops down steeply to the
@@ -89,6 +90,7 @@ bridge
 
 This hike is a true backcountry adventure, please use caution on all aspects of this hike, especially up
 Trail
+
 #980 to
 the lake.
 

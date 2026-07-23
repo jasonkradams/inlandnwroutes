@@ -40,13 +40,13 @@ Miles from spokane: 289 miles Other amenities:
 
 **Discovery Ski Area** is an alpine [ski area](https://en.wikipedia.org/wiki/Ski_area) in the state of
 
-[Montana](https://en.wikipedia.org/wiki/Montana), [United
-States](https://en.wikipedia.org/wiki/United_States). Situated on Rumsey and Jubilee mountains, the area
-consists of four different faces and provides for beginner groomed runs to expert bowl skiing. Discovery
-offers 2200 acres of skiing with over 8000 feet of elevation at the Summit. The ski area is often open early
-in the season and is known to stay open late into the next year often extending lift operations until the
-month of April. Discovery is usually only open on weekends to begin the season, but days and hours will
-often expand through the winter season.
+[Montana](https://en.wikipedia.org/wiki/Montana),
+[United States](https://en.wikipedia.org/wiki/United_States). Situated on Rumsey and Jubilee mountains, the
+area consists of four different faces and provides for beginner groomed runs to expert bowl skiing.
+Discovery offers 2200 acres of skiing with over 8000 feet of elevation at the Summit. The ski area is often
+open early in the season and is known to stay open late into the next year often extending lift operations
+until the month of April. Discovery is usually only open on weekends to begin the season, but days and hours
+will often expand through the winter season.
 
 ---
 

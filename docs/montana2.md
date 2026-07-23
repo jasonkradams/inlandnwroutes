@@ -11,14 +11,14 @@
 - Montana is home to seven State Forests and 53 State Parks.
 
 - Montana is the only state in the U.S. with a Triple Divide, which allows waters to flow to Hudson Bay, the
-Atlantic Ocean, and the Pacific Ocean.
+  Atlantic Ocean, and the Pacific Ocean.
 
 - Montana has more different species of mammals than any other state in the U.S. There are approximately 100
-species of mammals, including elk, bighorn sheep, caribou, and bobcats.
+  species of mammals, including elk, bighorn sheep, caribou, and bobcats.
 
 - The Yellowstone River is the longest free-flowing (undammed) river in the contiguous United States. The
-longest river in the U.S. by miles, the Missouri River, begins in Montana at the "Three Forks" - the
-intersection of the
+  longest river in the U.S. by miles, the Missouri River, begins in Montana at the "Three Forks" - the
+  intersection of the
 
 Gallatin, Madison and Jefferson Rivers.
 
@@ -27,22 +27,22 @@ Gallatin, Madison and Jefferson Rivers.
 - Glacier National Park has 250 lakes within its boundaries.
 
 - The North Entrance of Yellowstone National Park, located at Gardiner, is the original entrance to the
-world’s first National Park when it opened.
+  world’s first National Park when it opened.
 
 - The famous ghost town Bannack was founded in 1862 during the largest western gold rush since the
-California Gold Rush in 1848. It was first capital of Montana Territory until the capital was moved to
-Virginia City.
+  California Gold Rush in 1848. It was first capital of Montana Territory until the capital was moved to
+  Virginia City.
 
 - The famous fly-fishing movie "A River Runs Through It" focuses on the Blackfoot River in Montana, but most
-of the fishing footage was shot on Montana’s Gallatin River.
+  of the fishing footage was shot on Montana’s Gallatin River.
 
 - The largest observed snowflake fell during a storm in 1887 in Montana. It was measured at 15 inches wide.
 
 - Yogo Sapphires, found only in Montana, are considered to be among the finest sapphires in the world. Their
-"cornflower blue" color gives them one of the most true-blue colors naturally (without treating).
+  "cornflower blue" color gives them one of the most true-blue colors naturally (without treating).
 
 - "Tufts-Love Rex," a giant Tyrannosaurus skeleton, was found in 2016 in Hell Creek, Montana. It is one of
-only 15 virtually intact T. Rex skeletons and one of the largest ever found.
+  only 15 virtually intact T. Rex skeletons and one of the largest ever found.
 
 - Jeannette Rankin from Missoula was the first woman elected to the U.S. Congress in 1916.
 

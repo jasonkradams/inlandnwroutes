@@ -74,8 +74,8 @@ recreation opportunities in Northwest Montana.
 All volunteer-run Turner Mountain ski area began in 1961 through the efforts of the Libby Ski Club, opening
 on New Year's weekend with a 1,200-foot rope tow. The ski area slowly grew, although has been run by
 volunteers for the past forty years. During the summer of 2001, volunteers installed a 120-chair lift to
-replace "The World's Longest T-Bar", and dreams to grow the ski area have been set into motion... [Pictures
-of installing the new lift](https://www.libbymt.com/areaattractions/turnerhistory.htm#liftphotos)
+replace "The World's Longest T-Bar", and dreams to grow the ski area have been set into motion...
+[Pictures of installing the new lift](https://www.libbymt.com/areaattractions/turnerhistory.htm#liftphotos)
 
 [Turner History Photo Gallery Page 2](https://www.libbymt.com/areaattractions/turnerhistory2.htm)
 

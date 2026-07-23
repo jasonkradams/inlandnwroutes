@@ -124,8 +124,8 @@ use. For more
 
 information about
 
-the Discover Pass and exemptions, please visit the [Discover Pass web
-page.](https://parks.state.wa.us/167/Discover-Pass-Fees)
+the Discover Pass and exemptions, please visit the
+[Discover Pass web page.](https://parks.state.wa.us/167/Discover-Pass-Fees)
 
 Boating Camping History**Ada amenities/facilities**
 
@@ -143,12 +143,12 @@ Thursday though Monday: 10 a.m., noon, 2 p.m. and 4 p.m.
 ### Additional information
 
 - The main activity at Crawford State Park Heritage Site is touring Gardner Cave. With large groups and
-holidays, extra tours can be given. Park staff limits tour size to 25 people. A call before arrival will
-help in accommodating large groups. Call Crawford State Park at [(509) 446-4065](tel:(509)%20446-4065).
+  holidays, extra tours can be given. Park staff limits tour size to 25 people. A call before arrival will
+  help in accommodating large groups. Call Crawford State Park at [(509) 446-4065](tel:(509)%20446-4065).
 
 - Suitable walking shoes or hiking boots are recommended for touring the caves and surrounding area.
 
 - The surrounding area has many events and outdoor activities. Contact the Metaline Falls Chamber of
-Commerce and the National Forest Service. Metaline Falls is located in the Colville National Forest.
+  Commerce and the National Forest Service. Metaline Falls is located in the Colville National Forest.
 
 - [Printable park brochure (PDF).](https://parks.state.wa.us/DocumentCenter/View/850)

@@ -92,8 +92,7 @@ NA
 
 ## Plan your trip
 
-[Click for Current NOAA Weather
-Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
+[Click for Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
 
 ![Picture](assets/images/6182025208p.jpg)
 
@@ -232,8 +231,8 @@ The first bucket of concrete was poured on November 12, 1965 Item 183446, Record
 million cubic yards of rock excavation was required to create the forebay from which Pend Oreille River
 water is admitted to plant turbines through the intake tunnels and penstocks. Another half-million cubic
 yards was excavated to create the machine hall. A cavern 477 feet long, 76 feet wide and 170 feet deep would
-contain six large turbine-generators; only four units were installed initially. [Silent
-film](https://video.seattle.gov/podcasts/CityArchive/Boundary/BoundaryDam_ConstructionVehicles_BlastingandConcrete_1967_NEW.mp4)
+contain six large turbine-generators; only four units were installed initially.
+[Silent film](https://video.seattle.gov/podcasts/CityArchive/Boundary/BoundaryDam_ConstructionVehicles_BlastingandConcrete_1967_NEW.mp4)
 shot between about 1965 and 1967 shows excavation and construction of the Boundary Project (Item 32, Record
 Series 1204-04, SMA). The dam itself was built to an astounding 340 feet tall. The eggshell-like double
 curve of the dam's thin arch achieves great strength with exceptionally low mass. The concrete ranges from
@@ -271,9 +270,9 @@ grew with the addition of two new turbine generators to the machine hall. Transf
 and machine-hall space were provided when the dam was built so that two additional turbine-generator units
 could be installed in the plant without further blasting of the rock. The machine hall was designed with
 exposed natural rock in its walls. Along with other improvements throughout the years, the electrical
-capability has increased to 1,117.4 megawatts. In a [short
-production](https://video.seattle.gov/podcasts/CityArchive/Boundary/How_Boundary_Dam_Works_NEW.mp4) about
-the Boundary Hydroelectric Project created by SCL in 2006, animation (courtesy Alweis Film "Last Place
+capability has increased to 1,117.4 megawatts. In a
+[short production](https://video.seattle.gov/podcasts/CityArchive/Boundary/How_Boundary_Dam_Works_NEW.mp4)
+about the Boundary Hydroelectric Project created by SCL in 2006, animation (courtesy Alweis Film "Last Place
 Settled") shows how the dam works and footage of the turbines (Item 5336, Record Series 1204-04, SMA).
 Currently, Boundary Dam generates up to 35 percent of Seattle’s energy needs. Spillways cut into the rock
 are oriented in such a way that full-capacity discharges from both will meet in mid-air to dissipate the
@@ -311,9 +310,10 @@ the largest examples in the United States.
 Night scene of Boundary Dam spilling, December 8, 1998 Item 126710, Record Series 0207-01
 
 Boundary Dam, August 30, 2017 Courtesy Nathan MacDonald, Seattle City Light To see footage of Boundary Dam
-construction and more, see [SMA’s YouTube channelexternal
-link](https://www.youtube.com/results?search_query=1204-05+boundary). This exhibit was created with support
-and expertise from Seattle City Light and assistance from David Ross, San Jose State University intern.
+construction and more, see
+[SMA’s YouTube channelexternal link](https://www.youtube.com/results?search_query=1204-05+boundary). This
+exhibit was created with support and expertise from Seattle City Light and assistance from David Ross, San
+Jose State University intern.
 
 ![Picture](assets/images/20126101044-copy.jpg)
 

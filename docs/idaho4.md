@@ -6,16 +6,17 @@ Last updated on February 4th, 2021 **Idaho** is the **39th most populous** and t
 
 extensive](https://thefactfile.org/50-states-area/) of
 
-the 50 states of the United States. It lies in the northwestern region of the United States. The [state
-attained statehood](https://thefactfile.org/list-of-u-s-states-by-statehood/) on **July 3, 1890, becoming
-the 43rdstate** to join
+the 50 states of the United States. It lies in the northwestern region of the United States. The
+[state attained statehood](https://thefactfile.org/list-of-u-s-states-by-statehood/) on **July 3, 1890,
+becoming the 43rdstate** to join
 
 the union. Its six **bordering states** are [Utah](https://thefactfile.org/utah-facts/),
 
 [Washington](https://thefactfile.org/washington-facts/), [Wyoming](https://thefactfile.org/wyoming-facts/),
 [Montana](https://thefactfile.org/montana-facts/), [Nevada](https://thefactfile.org/nevada-facts/), and
-[Oregon](https://thefactfile.org/oregon-facts/). See the complete [list of the 50 states and their
-borders](https://thefactfile.org/u-s-states-and-their-border-states/) here. **Idaho** (nicknamed: the Gem
+[Oregon](https://thefactfile.org/oregon-facts/). See the complete
+[list of the 50 states and their borders](https://thefactfile.org/u-s-states-and-their-border-states/) here.
+**Idaho** (nicknamed: the Gem
 
 State) has **44** [counties.](https://thefactfile.org/us-states-counties/) The state’s **capital is Boise.**
 With these
@@ -45,11 +46,12 @@ population of 800 people, was the Center of the Universe. A manhole cover was ma
 and the place he said was the center.
 
 1. Idaho produces other crops besides potatoes. The state is actually **known as the Lentil Capital of the
-World.** It is also known for having one of the largest hops farms in the United States.
+   World.** It is also known for having one of the largest hops farms in the United States.
 
 6. This state is known for having a canyon with an interesting name. The canyon is called Hells Canyon, and
-it’s 7,900 feet deep. Keep in mind that this is **deeper than the [Grand
-Canyon](https://thefactfile.org/grand-canyon-facts/).** High above the canyon is Heaven’s Gate Lookout
+   it’s 7,900 feet deep. Keep in mind that this is **deeper than the
+   [Grand Canyon](https://thefactfile.org/grand-canyon-facts/).** High above the canyon is Heaven’s Gate
+   Lookout
 
 where you can gaze at the entire state of Idaho plus the Bitterroot Mountains in Montana.**7.** There are
 only a few
@@ -69,8 +71,8 @@ called
 geothermal water, which means the hot water that sits 3,000 feet underground is used to produce heat.
 
 9. Women should be pretty proud of Idaho as it is **the only state seal in the United States that was
-designed by a woman.** The woman was Emma Edwards Green, and her design was chosen in 1891.**10.** Idaho may
-be known for
+   designed by a woman.** The woman was Emma Edwards Green, and her design was chosen in 1891.**10.**
+   Idaho may be known for
 
 its crops or gems, but one thing that horror lovers like about the state are the **ghost towns.** Silver
 City
@@ -186,8 +188,8 @@ Falls](https://thefactfile.org/niagara-falls-facts/) could check out Shoshone Fa
 Shoshone Falls, Snake River, Twin Falls, Idaho. A park overlooking the waterfall is owned and operated by
 the City of Twin Falls. Shoshone Falls is best viewed in the spring, as diversion of the Snake River for
 irrigation and hydroelectricity generation often significantly diminishes water levels in the late summer
-and fall. Interesting facts about Idaho. Image credit – [Daoud
-Alahmad](https://www.flickr.com/photos/daoud_alahmad/28873454894/)**32.** Those
+and fall. Interesting facts about Idaho. Image credit –
+[Daoud Alahmad](https://www.flickr.com/photos/daoud_alahmad/28873454894/)**32.** Those
 
 interested in birds of prey will be happy to know that **Idaho has an awesome wildlife preserve,** which is
 
@@ -272,10 +274,10 @@ magma
 cascaded from the active shield volcano and caused a massive accumulation of edifice on the ground. This
 edifice is the present city of Rexburg.
 
-Interesting facts about Idaho. Idaho Falls, Idaho. Image via [Nicolas
-Henderson.](https://www.flickr.com/photos/texasbackroads/46416792384/)**48. A City That Owes Its name to
-Snake River and Railroad:** Idaho Falls attributes its name to a waterfall along the Snake River, a key
-feature of agriculture
+Interesting facts about Idaho. Idaho Falls, Idaho. Image via
+[Nicolas Henderson.](https://www.flickr.com/photos/texasbackroads/46416792384/)**48. A City That Owes Its
+name to Snake River and Railroad:** Idaho Falls attributes its name to a waterfall along the Snake River, a
+key feature of agriculture
 
 in the
 
@@ -316,8 +318,9 @@ attention
 when a silver vein was discovered in Beardsley and Ramshorn mines. Gradually, it turned out to be the
 greatest producer of silver in Idaho State until 1915.
 
-Interesting facts about Idaho. Naming of Bayhorse Sign, Idaho. Image via [Jimmy Emerson,
-DVM](https://www.flickr.com/photos/auvet/).**53. Twin Falls was Discovered by Rafters:** Twin Falls city may
+Interesting facts about Idaho. Naming of Bayhorse Sign, Idaho. Image via
+[Jimmy Emerson, DVM](https://www.flickr.com/photos/auvet/).**53. Twin Falls was Discovered by Rafters:**
+Twin Falls city may
 
 have been
 
@@ -341,8 +344,8 @@ pine, beautiful cliffs, and forested areas. Frederick, a German immigrant create
 Spokane River in
 
 1871. Post Falls is also a gateway to North Idaho. Prime golfing, lodging and dining are activities for all
-seasons. **56. Moscow the Green City:** with more than 27 sq. meters of parks per individual, Moscow can be
-compared to
+      seasons. **56. Moscow the Green City:** with more than 27 sq. meters of parks per individual,
+      Moscow can be compared to
 
 other
 
@@ -361,8 +364,8 @@ Land Only: 82,747 sq
 milesPopulation
 
 1,754,208 (Estimate July 1, 2018 from United States Census Bureau)StatehoodJuly 3, 1890 State rank by
-population39thState rank by date of formation43rdState rank by area14thNumber of Counties44 [Complete list
-of 50 states and number of counties in each](https://thefactfile.org/us-states-counties/)DemonymIdahoan
+population39thState rank by date of formation43rdState rank by area14thNumber of Counties44
+[Complete list of 50 states and number of counties in each](https://thefactfile.org/us-states-counties/)DemonymIdahoan
 Bordering StatesMontana, Nevada, Oregon, Utah, Washington, WyomingOfficial LanguageEnglishHighest PointBorah
 Peak 12,662 ft (3,859 m)Lowest pointConfluence of Snake and Clearwater River; Lewiston 713 ft (217
 m)Length479 miles (771 km) Width305 miles (491 km) Mean elevation5000 feet above sea levelGovernorBrad

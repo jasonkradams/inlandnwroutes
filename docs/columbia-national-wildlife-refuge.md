@@ -50,32 +50,32 @@ info. if an emergency ocurrs, evaluate your circumstances and call only if neede
 - In places the basalt is nearly three miles thick
 
 - Lake Missoula covered 3,000 square miles, and contained an estimated 500 cubic miles of water at a maximum
-depth of 2,000
+  depth of 2,000
 
 - The flow rate of the flood is estimated at 600 million cubic feet per second
 
 - There may have been as many as 100 separate flood events
 
 - The Drumheller Channels National Natural Landmark area is one of the most spectacularly eroded areas of
-its size in the world
+  its size in the world
 
 - Moses Lake 15 miles to the north was one of the largest permanent Indian encampments. Upto 6,000 people
-lived or traded here including tribes from the Dakotas, Montana and the Pacific coast.
+  lived or traded here including tribes from the Dakotas, Montana and the Pacific coast.
 
 - The local Sinkiuse-Columbia Tribe exchanged Columbia River salmon, camas roots and fiber from dogbane with
-the other tribes
+  the other tribes
 
 ### Hiking
 
 - The areas including Marsh Loop, Crab Creek, Frog Lake and Upper/Lower Hampton Lake are closed for hiking
-October 1 to March 1
+  October 1 to March 1
 
 - The area around Royal Lake is closed year round
 
 - Marsh Unit #1 and Corfu Road fields are closed February 1 to April 30
 
-- The Mesa  west of Marsh Unit #2 is open year round and is adjacent to Washington Department of Fish and
-Wildlife areas that appear to be open to the public use
+- The Mesa west of Marsh Unit #2 is open year round and is adjacent to Washington Department of Fish and
+  Wildlife areas that appear to be open to the public use
 
 ### Birding
 

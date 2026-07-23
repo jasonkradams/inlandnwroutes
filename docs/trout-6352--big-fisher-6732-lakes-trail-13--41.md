@@ -77,8 +77,7 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
 ## Plan your trip
 
-[Click for Current NOAA Weather
-Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4500&uel=8000&polygon=48.753%2C-116.673%2C48.853%2C-116.666%2C48.853%2C-116.495%2C48.761%2C-116.488%2C&area=54)
+[Click for Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4500&uel=8000&polygon=48.753%2C-116.673%2C48.853%2C-116.666%2C48.853%2C-116.495%2C48.761%2C-116.488%2C&area=54)
 
 *Picture (Image missing)*
 

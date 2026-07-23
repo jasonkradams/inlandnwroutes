@@ -1,86 +1,87 @@
 # Canada
 
 1. Canada is the largest country in the Western hemisphere and the second largest country in the world after
-Russia and borders only one country, [the United States of
-America.](https://www.kids-world-travel-guide.com/usa-facts.html)
+   Russia and borders only one country,
+   [the United States of America.](https://www.kids-world-travel-guide.com/usa-facts.html)
 
 1. Canada has the longest coastline in the world with 202,080 km/ 125,567 miles.
 
 1. Three Canadian islands are among the top ten biggest islands in the world. They are: Baffin Islands (more
-than double the size of Great Britain), Victoria Island and Ellesmere Island (both are roughly the size of
-England).
+   than double the size of Great Britain), Victoria Island and Ellesmere Island (both are roughly the
+   size of England).
 
 1. More than half of all the lakes in the world are located in Canada! The country counts more than 3
-million lakes and 31,700 big lakes with an area over 300 hectares. Canada also includes two of the biggest
-lakes in the world: Great Bear Lake and Great Slave Lake.
+   million lakes and 31,700 big lakes with an area over 300 hectares. Canada also includes two of the
+   biggest lakes in the world: Great Bear Lake and Great Slave Lake.
 
 1. Toronto is Canada's largest metropole with over 6 million people. Montreal, Canada's second largest city
-with over 4 million inhabitants, is also the second largest city in the world that has a French-speaking
-population - after Paris in France.
+   with over 4 million inhabitants, is also the second largest city in the world that has a
+   French-speaking population - after Paris in France.
 
 Montreal, the second most populated city in Canada
 
 - Nine out of ten Canadians live in the US - Canada border region which includes the area up to 160 km/ 99
-miles from the US - Canada border.
+  miles from the US - Canada border.
 
 - The Bay of Fundy in eastern Canada has the highest tides in the world. The waves there are more than 13 m/
-42 ft high.
+  42 ft high.
 
 - Jasper National Park in the Rocky Mountains spans over several vegetation zones.
 
 - Canada's biggest bay is Hudson Bay which was discovered in 1610 by English explorer Henry Hudson. Hudson
-Bay is located in Eastern Canada and is frozen from about mid December and mid June every year.
+  Bay is located in Eastern Canada and is frozen from about mid December and mid June every year.
 
 - Nunavut territory in Northern Canada was only created in 1999 and is home to the Inuit population. Did you
-know that the number plate for cars, motorbikes and snowmobiles in the Northern State of Nunavut is the
-shape of a polar bear?
+  know that the number plate for cars, motorbikes and snowmobiles in the Northern State of Nunavut is the
+  shape of a polar bear?
 
 Canadian polar bear in the tundra at Hudson Bay
 
 - Canada's longest river is McKenzie River in the North West. The river is 4,241 km/ 2,635 miles long.
 
 - The highest mountain in Canada is Mount Logan with 5,959 m/ 19,551 ft. Mount Logan is located in the Yukon
-Territory at the border with Alaska/USA.
+  Territory at the border with Alaska/USA.
 
 - About 38 million people live in Canada. Almost 82% of all Canadian live in urban areas. Life expectancy at
-birth is about 83 years. There are 26 doctors per 10,000 people in Canada.
+  birth is about 83 years. There are 26 doctors per 10,000 people in Canada.
 
 - The Literacy Rate is 99%, so almost all Canadians can read and write.
 
 - About 1.4 Million Canadians refer to themselves as belonging to the indigenous or Aboriginal people, among
-them First Nation people, Metis and Inuits. Did you know, that 21 June is celebrated as 'National Aboriginal
-Day' in Canada? This is a day of celebration for Aboriginal peoples in Canada.
+  them First Nation people, Metis and Inuits. Did you know, that 21 June is celebrated as 'National
+  Aboriginal Day' in Canada? This is a day of celebration for Aboriginal peoples in Canada.
 
 First Nations people celebrating - image by Anton Bielousov
 
 - The national holiday is called Canada Day and is celebrated on 1 July.
 
 - Canada is a popular country for immigration. The country is said to have the largest population growth of
-the industrialized countries (G-7).
+  the industrialized countries (G-7).
 
 - The most travelers arriving in Canada come from the USA, the United Kingdom and France.
 
 - The most popular countries for travel for Canadians are the USA, Mexico and Cuba.
 
 - There are more than 2,800 hockey rinks in Canada. However, almost twice as many kids under 14 years play
-soccer than hockey. Ice-Hockey is still the second most practiced sport in Canada for all over 15 years of
-age. Ice hockey comes after golf, but before soccer!
+  soccer than hockey. Ice-Hockey is still the second most practiced sport in Canada for all over 15 years
+  of age. Ice hockey comes after golf, but before soccer!
 
 Ice Hockey Match between Canada and the USA
 
 - Canada is the world leader in uranium mining. Uranium is used in nuclear power plants for producing
-electricity. The largest uranium mine of the world is located at Cigar Lake in northern Saskatchewan/Canada.
-Canada is also the largest supplier of energy, also including oil and gas, to the USA!
+  electricity. The largest uranium mine of the world is located at Cigar Lake in northern
+  Saskatchewan/Canada. Canada is also the largest supplier of energy, also including oil and gas, to the
+  USA!
 
 - Canada is also the third largest oil reserve holder in the world after Venezuela and Saudi Arabia. The
-North American country is also the seventh largest producer of oil.
+  North American country is also the seventh largest producer of oil.
 
 - Canada is fourth biggest producer of hydro electric power - after China, Brazil and the USA.
 
 - The Trans-Canada highway is said to be the longest national highway in the world.
 
 - About half of Canada's landmass is covered by forest. There are about 180 tree species in Canada. Timber
-is among the main exports of the country. Canada is the third most forested country in the world.
+  is among the main exports of the country. Canada is the third most forested country in the world.
 
 Canada - Forest as far as the eye can see
 
@@ -150,10 +151,10 @@ Gzowski, Robert MacNeil, Morley Safer and John Roberts.
 
 Banff National Park near the Plain of the Six Glaciers TeahouseFun Geography Facts about CanadaCanada is the
 second largest country in the world. The highest tides in the world occur in the Bay of Fundy in New
-Brunswick. You can [**kayak at Hopewell
-Rocks**](https://hikebiketravel.com/trip-hopewell-rocks-brunswick-foot-kayak/) but start on the mud in your
-kayak and just wait for the water to lift you off. The capital of Canada is Ottawa, the second coldest
-capital in the world after Moscow. **Read:** [**5 Things You Must do on a Visit to
+Brunswick. You can
+[**kayak at Hopewell Rocks**](https://hikebiketravel.com/trip-hopewell-rocks-brunswick-foot-kayak/) but
+start on the mud in your kayak and just wait for the water to lift you off. The capital of Canada is Ottawa,
+the second coldest capital in the world after Moscow. **Read:** [**5 Things You Must do on a Visit to
 
 Ottawa**](https://hikebiketravel.com/5-things-you-must-do-on-a-visit-to-ottawa/)
 
@@ -170,17 +171,17 @@ supply! The largest non-polar ice field in the world can be found in the St. Eli
 Territory. It covers an area of 40,570 square kilometers of which 16,900 square kilometers are located in
 Canada, the remainder being in Alaska. Canada has six time zones. The longest highway in the world is the
 Trans-Canada Highway which is over 7,604 kilometers (4,725 miles) in length. The world’s most northerly sand
-dunes are in Athabasca Provincial Park in northwest Saskatchewan. They are 30 meters high. The [**Sand Hills
-of Saskatchewan**](https://hikebiketravel.com/a-trip-to-the-great-sand-hills-saskatchewan/) near Moose Jaw
-are also a sight to see. You feel small in a landscape of sand and skyHalf of the country is covered with
-forests, which should come as no surprise considering one-tenth of the world’s forests are here. Walking
-through temperate rainforest on the Juan de Fuca Trail on Vancouver Island The highest mountain in Canada is
-Mount Logan, Yukon Territory, 5959 meters (19,551 feet). Wasaga beach is the longest fresh water beach in
-the world. Despite being a huge country, Canada has the fourth lowest population density in the world, with
-only three people living per square kilometer! Almost half of the population in Canada were born in other
-countries. The coldest temperature ever recorded in Canada was -63°C (-81.4°F) on February 3, 1957, in Snag,
-Yukon. Want to show the world you’re a Canadian? Why not pick up a [**beanie with a Canadian
-flag**](https://www.amazon.ca/gp/product/B07K1Q9JR3/ref=as_li_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=B07K1Q9JR3&linkCode=as2&tag=hikebiketrave-20&linkId=16421b03960fdc95ac2c818d00fba5b8)
+dunes are in Athabasca Provincial Park in northwest Saskatchewan. They are 30 meters high. The
+[**Sand Hills of Saskatchewan**](https://hikebiketravel.com/a-trip-to-the-great-sand-hills-saskatchewan/)
+near Moose Jaw are also a sight to see. You feel small in a landscape of sand and skyHalf of the country is
+covered with forests, which should come as no surprise considering one-tenth of the world’s forests are
+here. Walking through temperate rainforest on the Juan de Fuca Trail on Vancouver Island The highest
+mountain in Canada is Mount Logan, Yukon Territory, 5959 meters (19,551 feet). Wasaga beach is the longest
+fresh water beach in the world. Despite being a huge country, Canada has the fourth lowest population
+density in the world, with only three people living per square kilometer! Almost half of the population in
+Canada were born in other countries. The coldest temperature ever recorded in Canada was -63°C (-81.4°F) on
+February 3, 1957, in Snag, Yukon. Want to show the world you’re a Canadian? Why not pick up a
+[**beanie with a Canadian flag**](https://www.amazon.ca/gp/product/B07K1Q9JR3/ref=as_li_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=B07K1Q9JR3&linkCode=as2&tag=hikebiketrave-20&linkId=16421b03960fdc95ac2c818d00fba5b8)
 or throw on the cozy [**hooded sweatshirts – also sporting a Canadian flag.**](https://amzn.to/2IjyzPD)
 Flying over mountains in the vicinity of Mt Logan in the YukonAlert, in
 **[Nunavut](https://hikebiketravel.com/16731/nunavut/)** Territory, is the northernmost permanent settlement
@@ -196,9 +197,10 @@ Ocean Falls, British Columbia has on average 330 days of rain per year. Yuck! Es
 reportedly the sunniest place in Canada with 2,537 hours of sunshine per year. Nakwakto Rapids, Port Hardy’s
 legendary dive destination, boasts the strongest current in the world – with speeds of up to 18.4 miles per
 hour. Three of Canada’s Islands make the top ten for size in the world – Baffin, Ellesmere and Vancouver.
-Nunavut takes up one-fifth of Canada’s total land area. Mt Thor – the world’s tallest cliff [**Manitoulin
-Island**](https://hikebiketravel.com/7-reasons-to-visit-manitoulin-island-this-summer/) is the largest
-freshwater island in the world. Two of the largest lakes in the world are found in the Northwest Territories
+Nunavut takes up one-fifth of Canada’s total land area. Mt Thor – the world’s tallest cliff
+[**Manitoulin Island**](https://hikebiketravel.com/7-reasons-to-visit-manitoulin-island-this-summer/) is the
+largest freshwater island in the world. Two of the largest lakes in the world are found in the Northwest
+Territories
 - Great Bear Lake and Great Slave
 
 Lake.
@@ -244,8 +246,7 @@ Culture in Canada The world’s largest totem pole was raised in Victoria in 199
 - **Pride Toronto** 1.3 million
 
 - [Toronto International Film
-Festival](http://en.wikipedia.org/wiki/Toronto_International_Film_Festival) 0.5
-million
+Festival](http://en.wikipedia.org/wiki/Toronto_International_Film_Festival) 0.5 million
 
 - [Quebec Winter Carnival](http://en.wikipedia.org/wiki/Quebec_Winter_Carnival) 0.5 million
 
@@ -301,12 +302,12 @@ other country. National Parks and UNESCO WORLD Heritage SitesCanada is home to 4
 national park reserves, 167 national historic sites and four marine conservation areas. View from a tent in
 Auyuittuq National Park, Nunavut The only walled city north of Mexico is Québec. It was also the first city
 in North America to be placed on UNESCO’s World Heritage Sites list. The Rideau Canal in Ottawa, A UNESCO
-world heritage site, has the world’s longest [**skating
-rink**](https://hikebiketravel.com/skating-the-rideau-canal-in-ottawa/) in the winter. Rounding the final
-bend towards downtown OttawaThere are 15 world heritage sites in Canada. The one with the most interesting
-name is [**Head-Smashed-In Buffalo
-Jump**](https://hikebiketravel.com/a-visit-to-head-smashed-in-buffalo-jump-in-alberta/). Beautiful scenery
-around head Smashed In Buffalo Jump
+world heritage site, has the world’s longest
+[**skating rink**](https://hikebiketravel.com/skating-the-rideau-canal-in-ottawa/) in the winter. Rounding
+the final bend towards downtown OttawaThere are 15 world heritage sites in Canada. The one with the most
+interesting name is
+[**Head-Smashed-In Buffalo Jump**](https://hikebiketravel.com/a-visit-to-head-smashed-in-buffalo-jump-in-alberta/).
+Beautiful scenery around head Smashed In Buffalo Jump
 
 Nature facts about Canadian animalsA 9.3 kg lobster is the largest documented lobster caught. It was caught
 in Nova Scotia in 1977. The muskox has an inner fur layer that is finer than cashmere and can be spun into
@@ -359,13 +360,13 @@ tallest free standing structure until 2007. View of the CN Tower from Toronto Is
 The license plate for cars, motorbikes and snowmobiles in Nunavut is in the shape of a polar bear. Canada is
 the largest producer of uranium in the world. The intersection of Portage and Main Street in Winnipeg has
 been called the windiest place in Canada. Newfoundland is nicknamed "The Rock." Prince Edward Island,
-Canada’s smallest province is only 225 kilometers long and 56 kilometers wide. It’s a great [**island to
-bike**](https://hikebiketravel.com/how-to-spend-5-days-cycling-pei/). The Northwest Territories is called
-The Land of the Midnight Sun because the sun barely sets around the summer solstice. There are diamond mines
-in the Northwest Territories. Some of the world’s largest wheat fields are found in Saskatchewan. The US,
-the UK and Mexico are the top countries visited by Canadians. Canada is the world’s largest source of the
-rare element Cesium. It is found at Bernic Lake, Manitoba. Canada is home to 15 million cattle, 9 million of
-which live on the Prairies. Its cattle country just outside of Calgary
+Canada’s smallest province is only 225 kilometers long and 56 kilometers wide. It’s a great
+[**island to bike**](https://hikebiketravel.com/how-to-spend-5-days-cycling-pei/). The Northwest Territories
+is called The Land of the Midnight Sun because the sun barely sets around the summer solstice. There are
+diamond mines in the Northwest Territories. Some of the world’s largest wheat fields are found in
+Saskatchewan. The US, the UK and Mexico are the top countries visited by Canadians. Canada is the world’s
+largest source of the rare element Cesium. It is found at Bernic Lake, Manitoba. Canada is home to 15
+million cattle, 9 million of which live on the Prairies. Its cattle country just outside of Calgary
 
 The US buys more oil from Canada than any other country. There are 459 cars for every 1000 people.
 Thirty-two percent of Canadians are very happy, 55% are quite happy. This is just a smattering of facts
@@ -398,32 +399,36 @@ Snowpatch, Bugaboo and Pidgeon Spires. Chouinard traversed the Howsers in 1965 a
 600-metre West Face in
 
 1970. Free climbing techniques enable faster ascents, with reduced exposure to the frequent lightning
-storms. It also continually opens up new lines in areas where the elements of glaciers, major routes on firm
-rock, significant altitude and violent weather combine to create world-class challenges. Bugaboo Provincial
-Park is, by its very nature, extremely isolated. People contemplating a visit here must realize that it is
-pure wilderness without supplies or equipment of any kind. Visitors must be prepared for true outdoor
-living. Weather conditions can change suddenly in this area and lightning storms with hail and snow are
-common in summer. Only experienced climbers trained in crevasse rescue and properly roped, should venture
-onto the snowfields and glaciers. Ice axes, sunglasses, prusiks or ascenders with foot slings are essential.
-Climbers should check with park rangers before departure. A registry is kept in the Conrad Kain Hut for this
-purpose – and visitors convenience. The rangers will be pleased to offer assistance or any other information
-required. Wilderness, backcountry or walk-in camping is allowed, but no facilities are provided. Camping in
-Bugaboo Park in the Crescent Glacier area is restricted to tent pads situated below the Conrad Kain Hut, at
-Boulder Camp, and on Mount Applebee. The Conrad Kain Hut is available for overnight accommodation for a
-maximum of 35 persons. Reservations can be made through the [Alpine Club of
-Canada](http://www.alpineclubofcanada.ca/facility/reservations.html). Propane stoves and eating utensils are
-provided. Visitors must bring all other necessary equipment. A nightly, per-person fee is levied during the
-period June 1 to September 30. Hut accommodation is not available in winter due to avalanche dangers. The
-Malloy Igloo is a hut that can accommodate a maximum of six persons. No facilities are provided. Climbers
-are responsible for their own safety, as rescue services are not readily available. Bugaboo Glacier
-Provincial Park is in a class of its own. Although much of the attraction of the Bugaboos is for hard-core
-climbers, there are a few hiking trails that cover a variety of distances and terrains, and don’t demand
-technical mountaineering skills. The Conrad Kain Hut Trailbegins in the parking lot and follows the northern
-lateral moraine of Bugaboo Glacier. The trail is very steep and strenuous. Cobalt Lake Trail leads up a
-steep grade to an open ridge and views of Cobalt Lake. A marked route then descends to the lake itself.
-Malloy Igloo Trail begins at the Conrad Kain Hut and terminates at the Malloy Igloo. Only roped parties
-should attempt this hike because several glaciers have to be crossed. Alternatively, access to the Malloy
-Igloo via Malloy Creek is also possible. Bugaboo Provincial Park is located 28 miles (45 km) west of Highway
-95 at Brisco, between Golden and Radium Hot Springs. There’s good gravel road access to the park, but the
-roads are used by logging trucks, so check with BC Parks regarding road use and condition before embarking
-on the trip.
+      storms. It also continually opens up new lines in areas where the elements of glaciers, major
+      routes on firm rock, significant altitude and violent weather combine to create world-class
+      challenges. Bugaboo Provincial Park is, by its very nature, extremely isolated. People
+      contemplating a visit here must realize that it is pure wilderness without supplies or equipment
+      of any kind. Visitors must be prepared for true outdoor living. Weather conditions can change
+      suddenly in this area and lightning storms with hail and snow are common in summer. Only
+      experienced climbers trained in crevasse rescue and properly roped, should venture onto the
+      snowfields and glaciers. Ice axes, sunglasses, prusiks or ascenders with foot slings are
+      essential. Climbers should check with park rangers before departure. A registry is kept in the
+      Conrad Kain Hut for this purpose – and visitors convenience. The rangers will be pleased to
+      offer assistance or any other information required. Wilderness, backcountry or walk-in camping
+      is allowed, but no facilities are provided. Camping in Bugaboo Park in the Crescent Glacier area
+      is restricted to tent pads situated below the Conrad Kain Hut, at Boulder Camp, and on Mount
+      Applebee. The Conrad Kain Hut is available for overnight accommodation for a maximum of 35
+      persons. Reservations can be made through the
+      [Alpine Club of Canada](http://www.alpineclubofcanada.ca/facility/reservations.html). Propane
+      stoves and eating utensils are provided. Visitors must bring all other necessary equipment. A
+      nightly, per-person fee is levied during the period June 1 to September 30. Hut accommodation is
+      not available in winter due to avalanche dangers. The Malloy Igloo is a hut that can accommodate
+      a maximum of six persons. No facilities are provided. Climbers are responsible for their own
+      safety, as rescue services are not readily available. Bugaboo Glacier Provincial Park is in a
+      class of its own. Although much of the attraction of the Bugaboos is for hard-core climbers,
+      there are a few hiking trails that cover a variety of distances and terrains, and don’t demand
+      technical mountaineering skills. The Conrad Kain Hut Trailbegins in the parking lot and follows
+      the northern lateral moraine of Bugaboo Glacier. The trail is very steep and strenuous. Cobalt
+      Lake Trail leads up a steep grade to an open ridge and views of Cobalt Lake. A marked route then
+      descends to the lake itself. Malloy Igloo Trail begins at the Conrad Kain Hut and terminates at
+      the Malloy Igloo. Only roped parties should attempt this hike because several glaciers have to
+      be crossed. Alternatively, access to the Malloy Igloo via Malloy Creek is also possible. Bugaboo
+      Provincial Park is located 28 miles (45 km) west of Highway 95 at Brisco, between Golden and
+      Radium Hot Springs. There’s good gravel road access to the park, but the roads are used by
+      logging trucks, so check with BC Parks regarding road use and condition before embarking on the
+      trip.

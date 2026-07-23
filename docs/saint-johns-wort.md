@@ -52,8 +52,8 @@ stats:
 
 ## Description
 
-Perforate St John's wort is a [herbaceous](https://en.wikipedia.org/wiki/Herbaceous_plant) [perennial
-plant](https://en.wikipedia.org/wiki/Perennial_plant) with extensive, creeping
+Perforate St John's wort is a [herbaceous](https://en.wikipedia.org/wiki/Herbaceous_plant)
+[perennial plant](https://en.wikipedia.org/wiki/Perennial_plant) with extensive, creeping
 [rhizomes](https://en.wikipedia.org/wiki/Rhizomes). Its reddish stems are erect and branched in the upper
 section, and can grow up to 1 m (3 ft 3 in) high. The stems are woody near their base and may appear jointed
 from [leaf scars](https://en.wikipedia.org/wiki/Leaf_scar). The branches are typically clustered about a
@@ -65,11 +65,11 @@ the shortened branchlets. The leaves are yellow-green in color, with scattered
 when held up to the light, giving the leaves the "perforated" appearance to which the plant's
 [Latin](https://en.wikipedia.org/wiki/Latin) name refers. The flowers measure up to 2.5 cm (0.98 in) across,
 have five petals and [sepals](https://en.wikipedia.org/wiki/Sepal), and are colored bright yellow with
-conspicuous black dots. The flowers appear in broad [helicoid
-cymes](https://en.wikipedia.org/wiki/Cyme_(botany)) at the ends of the upper branches, between late spring
-and early to mid-summer. The cymes are leafy and bear many flowers. The pointed sepals have black glandular
-dots. The many [stamens](https://en.wikipedia.org/wiki/Stamens) are united at the base into three bundles.
-The pollen grains are [ellipsoidal](https://en.wikipedia.org/wiki/Ellipsoid). The black and
+conspicuous black dots. The flowers appear in broad
+[helicoid cymes](https://en.wikipedia.org/wiki/Cyme_(botany)) at the ends of the upper branches, between
+late spring and early to mid-summer. The cymes are leafy and bear many flowers. The pointed sepals have
+black glandular dots. The many [stamens](https://en.wikipedia.org/wiki/Stamens) are united at the base into
+three bundles. The pollen grains are [ellipsoidal](https://en.wikipedia.org/wiki/Ellipsoid). The black and
 [lustrous](https://en.wikipedia.org/wiki/Lustrous)seeds are rough, netted with coarse grooves When flower
 buds (not the flowers themselves) or seed pods are crushed, a reddish or purple liquid is produced.
 

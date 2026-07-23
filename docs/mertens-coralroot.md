@@ -41,14 +41,13 @@ stats:
 As with all orchids, illegal collection, attempts at transplantation, and loss of habitat have reduced their
 numbers. As with many of genera of orchids, coralroot orchids have special requirements that make them
 extremely difficult to cultivate, thus they will not survive transplantation from the wild. For these
-reasons, *[it is illegal to dig or pick orchids on National Forest System
-lands](https://www.fs.fed.us/wildflowers/ethics/index.shtml).
+reasons,
+*[it is illegal to dig or pick orchids on National Forest System lands](https://www.fs.fed.us/wildflowers/ethics/index.shtml).
 
 - Fungal associations*Corallorrhiza mertensiana* is a nonphotosynthetic,
 
 [myco-heterotroph](https://en.wikipedia.org/wiki/Myco-heterotroph) that receives its nutrition from
-[ectomycorrhizal
-fungi](https://en.wikipedia.org/wiki/Mycorrhiza).[[8]](https://en.wikipedia.org/wiki/Corallorhiza_mertensiana#cite_note-8)
+[ectomycorrhizal fungi](https://en.wikipedia.org/wiki/Mycorrhiza).[[8]](https://en.wikipedia.org/wiki/Corallorhiza_mertensiana#cite_note-8)
 The fungi receive mineral nutrients and carbon symbiotically from trees. *Corallorrhiza mertensiana*
 parasitizes the
 

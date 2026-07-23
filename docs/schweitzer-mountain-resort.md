@@ -74,8 +74,8 @@ Skiing** - The Basin Express and Musical Chairs from 3 to 7 pm. For twilight ski
 
 the
 
-[Twilight Skiing](https://www.schweitzer.com/to-do/twilight-skiing/) page. **Tubing** - [Hermit's
-Hollow](https://www.schweitzer.com/to-do/hermits-hollow/) tubing center offers two
+[Twilight Skiing](https://www.schweitzer.com/to-do/twilight-skiing/) page. **Tubing** -
+[Hermit's Hollow](https://www.schweitzer.com/to-do/hermits-hollow/) tubing center offers two
 
 lanes with
 
@@ -183,41 +183,41 @@ six areas of the Schweitzer experience that held high promise for achieving Schw
 group believed that focusing on these six things would begin the measured and sustained process of enhancing
 the existing customer experience and drawing new customers to the mountain:
 
-1. **Family**
-‘Adventurers’ may lead the charge in discovering a destination like Schweitzer, but its families who will
+1. **Family** ‘Adventurers’ may lead the charge in discovering a destination like Schweitzer, but its
+   families who will
 
 populate
 
 most of the Resort.
 
-1. **Live/Work**
-At Schweitzer, work-life balance takes on special meaning. The resort itself is a symbol of how people can
+1. **Live/Work** At Schweitzer, work-life balance takes on special meaning. The resort itself is a symbol of
+   how people can
 
 achieve
 
 more balance in their lives. But for many visitors, because Schweitzer is more a three-or-four-day weekend
 than a two-day weekend, Schweitzer Mountain Resort needs to get much tech-savvier and fast.
 
-1. **Food and Beverage**
-Americans have become foodies. Not just in the cities, but everywhere. Schweitzer needs to capitalize on
+1. **Food and Beverage** Americans have become foodies. Not just in the cities, but everywhere. Schweitzer
+   needs to capitalize on
 
 this
 
 interest and support the growth of a culture that embraces great local foods and cooking.
 
-1. **Health/Wellness/Sustainability**
-These topics need to become core values and at the heart of all decisions made on the mountain.
+1. **Health/Wellness/Sustainability** These topics need to become core values and at the heart of all
+   decisions made on the mountain.
 
-1. **Summer**
-It’s been said that "summer drives winter" in creating successful all-season mountain resorts. The more
+1. **Summer** It’s been said that "summer drives winter" in creating successful all-season mountain resorts.
+   The more
 
 immersive
 
 those summer experiences can be, and the more they connect the mountain with the town and the lake, the more
 Schweitzer, and the community of Sandpoint, benefits.
 
-1. **Skiing**
-Mountain improvements with upgraded lifts, new terrain and expanded services need to develop in parallel
+1. **Skiing** Mountain improvements with upgraded lifts, new terrain and expanded services need to develop
+   in parallel
 
 with
 
@@ -235,8 +235,8 @@ the heart of what customers love about Schweitzer? This question isn’t new. Si
 1963, there have been plans to upgrade and improve the overall experience both on and off the slopes. "The
 resort, from its inception, has always been looking forward, searching for ways to improve and grow,"
 explains Schweitzer CEO Tom Chasse. The newest master plan for Schweitzer was developed thanks to that
-October 2017 meeting and culminated with the Board of Directors engaging with [SE
-Group](https://segroup.com/), a company whose focus is on strategy, permitting, planning and design for
+October 2017 meeting and culminated with the Board of Directors engaging with
+[SE Group](https://segroup.com/), a company whose focus is on strategy, permitting, planning and design for
 communities, ski resorts, educational institutions, real estate development and public land management
 groups. Throughout the process, it was SE Group’s role to analyze and look into every aspect of the overall
 guest experience at Schweitzer. They took into account details like the exact number of hotel beds, parking
@@ -271,9 +271,9 @@ on the mountain," says Chasse. "It’s challenging at best to find a room over w
 additional units will help ease that lodging crunch." Schweitzer started the surveying process, relocation
 of utilities, and excavation of the underground parking in June of 2019 with a planned delivery during the
 20/21 season. "Again, thanks to owning our own land, we can move forward with this project as quickly as
-permitting and financing allow."The as yet unnamed hotel is designed by the Portland based firm [Skylab
-Architecture](https://www.skylabarchitecture.com/). "Drawing on the heritage of Schweitzer Basin, yet
-contemporary in its design, it will provide a perfect venue for guests to relax, play and revel in the
+permitting and financing allow."The as yet unnamed hotel is designed by the Portland based firm
+[Skylab Architecture](https://www.skylabarchitecture.com/). "Drawing on the heritage of Schweitzer Basin,
+yet contemporary in its design, it will provide a perfect venue for guests to relax, play and revel in the
 natural beauty surrounding them," says Jeff Kovel, Principal/Design Director at Skylab. "Guests will enjoy
 spaces that heighten their connection to the outdoors and the rich local history. The building will be a
 state of the art facility and feature heavy timber construction (CLT) but also reuse materials (like

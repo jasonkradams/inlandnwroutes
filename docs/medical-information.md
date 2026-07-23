@@ -269,8 +269,8 @@ it.
 
 ### Sunscreen ingredients
 
-Sunscreen includes active ingredients that help prevent the sun’s [UV
-radiation](http://skincancer.org/risk-factors/uv-radiation/) from reaching your skin. Here’s how the two
+Sunscreen includes active ingredients that help prevent the sun’s
+[UV radiation](http://skincancer.org/risk-factors/uv-radiation/) from reaching your skin. Here’s how the two
 types of sunscreen work for you: Physical (mineral) sunscreen ingredients (including the minerals titanium
 dioxide and zinc oxide) block and scatter the rays before they penetrate your skin. Chemical sunscreen
 ingredients (like avobenzone and octisalate) absorb UV rays before they can damage your skin. Are sunscreens
@@ -285,10 +285,10 @@ So, if you use an SPF 30 product properly, it would take you 30 times longer to 
 sunscreen. What level of SPF do I need? If you’re inside most of the day with just short intervals in the
 sun, you can use a sunscreen or cosmetic product with an SPF of 15 or higher. If you spend a lot of time
 outdoors, especially when and where the sun is strongest, you need an SPF 30 or higher, water-resistant
-sunscreen. [More about
-SPF](https://www.skincancer.org/blog/ask-the-expert-does-a-high-spf-protect-my-skin-better/). No matter the
-SPF, reapplication every two hours is key. Sunscreen must also be reapplied immediately after swimming or
-sweating.
+sunscreen.
+[More about SPF](https://www.skincancer.org/blog/ask-the-expert-does-a-high-spf-protect-my-skin-better/). No
+matter the SPF, reapplication every two hours is key. Sunscreen must also be reapplied immediately after
+swimming or sweating.
 
 ### Broad-spectrum protection
 
@@ -319,8 +319,7 @@ ears, back of your neck, your scalp (on the part line), tops of your feet and be
 
 To get the full broad-spectrum protection out of your sunscreen, apply one ounce — about a shot glass full —
 to your entire body. Most people apply less than half of that amount, translating into reduced protection.
-[Learn
-more](https://www.skincancer.org/blog/ask-the-expert-how-much-sunscreen-should-i-be-using-on-my-face-and-body/).
+[Learn more](https://www.skincancer.org/blog/ask-the-expert-how-much-sunscreen-should-i-be-using-on-my-face-and-body/).
 With reapplication, a family of four should use one four-ounce bottle of sunscreen per person during a long
 day outdoors.
 
@@ -333,39 +332,35 @@ Sunscreen reduces your overall UV exposure and lowers your risk of skin cancer a
 ### Other things to consider
 
 - Your skin cancer risk factors: Your [skin type](http://skincancer.org/risk-factors/skin-type/) and family
-history will determine the level of protection needed for you.
+  history will determine the level of protection needed for you.
 
-- Photosensitivity: No matter your skin type, certain medications and disorders make your [skin highly
-sensitive](http://skincancer.org/risk-factors/photosensitivity/) to the sun, raising your protection
-requirements.
+- Photosensitivity: No matter your skin type, certain medications and disorders make your
+  [skin highly sensitive](http://skincancer.org/risk-factors/photosensitivity/) to the sun, raising your
+  protection requirements.
 
 - Skin conditions: You can choose from sunscreens for dry skin, oily skin, acne-prone skin and sensitive
-skin.
+  skin.
 
 ### Live a sun-safe life
 
 Keep in mind that while crucial, sunscreen alone is not enough. Seek the shade whenever possible, wear
 sun-safe clothing, a wide-brimmed hat and UV-blocking sunglasses, for a complete sun protection strategy. To
-help you select sun-safe products, look for the Skin Cancer Foundation’s [Seal of
-Recommendation](http://skincancer.org/skin-cancer-prevention/seal-of-recommendation/) and browse our
-recommended sunscreen [products](http://skincancer.org/recommended-products/). For more prevention tips, see
-[Your Daily Sun Protection Guide](http://skincancer.org/skin-cancer-prevention/sun-protection/).
+help you select sun-safe products, look for the Skin Cancer Foundation’s
+[Seal of Recommendation](http://skincancer.org/skin-cancer-prevention/seal-of-recommendation/) and browse
+our recommended sunscreen [products](http://skincancer.org/recommended-products/). For more prevention tips,
+see [Your Daily Sun Protection Guide](http://skincancer.org/skin-cancer-prevention/sun-protection/).
 
 Reviewed by: Elisabeth G. Richard, MD Last updated: May 2021
 
 Particulate matter explained Particulate Matter (PM) BasicsOn This Page:
 
-- [What is PM, and how does it get into the
-air?](https://www.epa.gov/pm-pollution/particulate-matter-pm-basics#PM)
+- [What is PM, and how does it get into the air?](https://www.epa.gov/pm-pollution/particulate-matter-pm-basics#PM)
 
-- [What are the harmful effects of
-PM?](https://www.epa.gov/pm-pollution/particulate-matter-pm-basics#effects)
+- [What are the harmful effects of PM?](https://www.epa.gov/pm-pollution/particulate-matter-pm-basics#effects)
 
-- [What is being done to reduce particle
-pollution?](https://www.epa.gov/pm-pollution/particulate-matter-pm-basics#reducing)
+- [What is being done to reduce particle pollution?](https://www.epa.gov/pm-pollution/particulate-matter-pm-basics#reducing)
 
-- [How can I reduce my exposure to
-PM?](https://www.epa.gov/pm-pollution/particulate-matter-pm-basics#exposure)
+- [How can I reduce my exposure to PM?](https://www.epa.gov/pm-pollution/particulate-matter-pm-basics#exposure)
 
 What is PM, and how does it get into the air? Size comparisons for PM particlesPM stands for particulate
 matter (also called particle pollution): the term for a mixture of solid particles and liquid droplets found
@@ -378,7 +373,7 @@ includes:
 - PM2.5 : fine inhalable particles, with diameters that are generally 2.5 micrometers and smaller.
 
 - How small is 2.5 micrometers? Think about a single hair from your head. The average human hair is about 70
-micrometers in diameter – making it 30 times larger than the largest fine particle.
+  micrometers in diameter – making it 30 times larger than the largest fine particle.
 
 Sources of PMThese particles come in many sizes and shapes and can be made up of hundreds of different
 chemicals. Some are emitted directly from a source, such as construction sites, unpaved roads, fields,
@@ -389,14 +384,13 @@ droplets that are so small that they can be inhaled and cause serious health pro
 than 10 micrometers in diameter can get deep into your lungs and some may even get into your bloodstream. Of
 these, particles less than 2.5 micrometers in diameter, also known as fine particles or PM2.5, pose the
 greatest risk to health. Fine particles are also the main cause of reduced visibility (haze) in parts of the
-United States, including many of our treasured national parks and wilderness areas. [Learn more about health
-and environmental
-effects](https://www.epa.gov/pm-pollution/health-and-environmental-effects-particulate-matter-pm) What is
-Being Done to Reduce Particle Pollution?EPA regulates inhalable particles. Particles of sand and large dust,
-which are larger than 10 micrometers, are not regulated by EPA. EPA’s national and regional rules to reduce
-emissions of pollutants that form PM will help state and local governments meet the Agency’s national air
-quality standards. [Learn about how air quality standards help reduce
-PM.](https://www.epa.gov/pm-pollution/setting-and-reviewing-standards-control-particulate-matter-pm-pollution)
+United States, including many of our treasured national parks and wilderness areas.
+[Learn more about health and environmental effects](https://www.epa.gov/pm-pollution/health-and-environmental-effects-particulate-matter-pm)
+What is Being Done to Reduce Particle Pollution?EPA regulates inhalable particles. Particles of sand and
+large dust, which are larger than 10 micrometers, are not regulated by EPA. EPA’s national and regional
+rules to reduce emissions of pollutants that form PM will help state and local governments meet the Agency’s
+national air quality standards.
+[Learn about how air quality standards help reduce PM.](https://www.epa.gov/pm-pollution/setting-and-reviewing-standards-control-particulate-matter-pm-pollution)
 How Can I Reduce My Exposure to PM?You can use air quality alerts to protect yourself and others when PM
 reaches harmful levels: [AirNow](https://www.airnow.gov/): Every day the Air Quality Index (AQI) tells you
 how clean or polluted your outdoor air is, along with associated health effects that may be of concern. The
@@ -406,8 +400,8 @@ protect their health.
 - Go to [About AirNow](https://www.airnow.gov/about-airnow/) to learn how you can get AQI notifications.
 
 - Also learn how the [Air Quality Flag Program](https://www.airnow.gov/air-quality-flag-program/) can help
-air agencies, schools, and other community organizations to notify their citizens of harmful conditions and
-adjust outdoor physical activities as needed.
+  air agencies, schools, and other community organizations to notify their citizens of harmful conditions
+  and adjust outdoor physical activities as needed.
 
 Fine Particles (PM 2.5) Questions and AnswersFine particulate matter (PM2.5) is an air pollutant that is a
 concern for people's health when levels in air are high. PM2.5 are tiny particles in the air that reduce
@@ -455,19 +449,19 @@ expected to be elevated. Every weekday morning the Department of Environmental C
 weather conditions and data from their air monitoring stations to determine if, for that day or the
 following day, fine particle levels are expected to exceed levels considered unhealthy for sensitive groups.
 If it is likely that this level will be exceeded, the agency will contact the media so that a Particulate
-Matter Health Advisory can be carried on afternoon and evening broadcasts. The [Department of Environmental
-Conservation](http://www.dec.ny.gov/cfmx/extapps/aqi/aqi_forecast.cfm) also provides PM2.5 monitoring data
-and PM2.5 forecasts on its web site. Are there ways to reduce my exposure to PM2.5?When outdoor levels of
-PM2.5 are elevated, going indoors may reduce your exposure, although some outdoor particles will come
-indoors. If there are significant indoor sources of PM2.5, levels inside may not be lower than outside. Some
-ways to reduce exposure are to limit indoor and outdoor activities that produce fine particles (for example,
-burning candles indoors or open burning outdoors) and avoid strenuous activity in areas where fine particle
-levels are high. Who can I contact if I have more questions?If you would like additional information about
-the health effects of fine particles, you can call the NYS Department of Health at
-[518-402-7800](tel:518-402-7800)or [800-458-1158](tel:800-458-1158). To find out if an advisory has been
+Matter Health Advisory can be carried on afternoon and evening broadcasts. The
+[Department of Environmental Conservation](http://www.dec.ny.gov/cfmx/extapps/aqi/aqi_forecast.cfm) also
+provides PM2.5 monitoring data and PM2.5 forecasts on its web site. Are there ways to reduce my exposure to
+PM2.5?When outdoor levels of PM2.5 are elevated, going indoors may reduce your exposure, although some
+outdoor particles will come indoors. If there are significant indoor sources of PM2.5, levels inside may not
+be lower than outside. Some ways to reduce exposure are to limit indoor and outdoor activities that produce
+fine particles (for example, burning candles indoors or open burning outdoors) and avoid strenuous activity
+in areas where fine particle levels are high. Who can I contact if I have more questions?If you would like
+additional information about the health effects of fine particles, you can call the NYS Department of Health
+at [518-402-7800](tel:518-402-7800)or [800-458-1158](tel:800-458-1158). To find out if an advisory has been
 issued or to learn more about air quality, you can call the Department of Environmental Conservation's
-toll-free air quality hotline: [1-800-535-1345](tel:1-800-535-1345) or visit their [Air Quality Index
-(AQI)](http://www.dec.ny.gov/cfmx/extapps/aqi/aqi_forecast.cfm) website where you can also view state
-PM2.5maps and real-time monitoring data for PM2.5.
+toll-free air quality hotline: [1-800-535-1345](tel:1-800-535-1345) or visit their
+[Air Quality Index (AQI)](http://www.dec.ny.gov/cfmx/extapps/aqi/aqi_forecast.cfm) website where you can
+also view state PM2.5maps and real-time monitoring data for PM2.5.
 
 ---

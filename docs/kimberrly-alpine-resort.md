@@ -94,13 +94,13 @@ average, the resort gets five metres of "Purcell Powder" on more than 80 runs th
 groomers, glades and slopes for beginners or experts. Après ski sees families comparing their days while
 gobbling baskets of fries at the Stemwinder Bar & Grill. Live music carries into the night. Dive into the
 iconic Purcell Powder Photo by Kimberley Alpine Resort From humble beginnings with lead zinc this ex-mining
-town, has turned into an award-winning ski town. For more information, head to the official[Kimberley Alpine
-Resort](http://skikimberley.com/)website Become a [SnowSeekers
-member](http://www.snowseekers.ca/user/register) build your bucket list, and get exclusive access to deals
-and more. Whoa! Learn about [Kicking Horse Mountain Resort's awesome history of
-snow!](http://www.snowseekers.ca/thechallenge-kickinghorse) Show your stoke for the awesome history of
-Kimberley by sharing this page with your friends! For the latest deals, snow reports and contests, sign up
-today to our [SnowSeekers
-e-newsletter.](http://snowseekers.us6.list-manage.com/subscribe?u=f16c4b725bc89b94f9ef8f5a9&id=2e5a317731)
+town, has turned into an award-winning ski town. For more information, head to the
+official[Kimberley Alpine Resort](http://skikimberley.com/)website Become a
+[SnowSeekers member](http://www.snowseekers.ca/user/register) build your bucket list, and get exclusive
+access to deals and more. Whoa! Learn about
+[Kicking Horse Mountain Resort's awesome history of snow!](http://www.snowseekers.ca/thechallenge-kickinghorse)
+Show your stoke for the awesome history of Kimberley by sharing this page with your friends! For the latest
+deals, snow reports and contests, sign up today to our
+[SnowSeekers e-newsletter.](http://snowseekers.us6.list-manage.com/subscribe?u=f16c4b725bc89b94f9ef8f5a9&id=2e5a317731)
 
 ## To contribute, contact chic via this website

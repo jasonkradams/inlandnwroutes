@@ -66,9 +66,8 @@ the old wood lookout, but left because it swayed about 5' back and forth, in the
 I learned that the tower blew over in a winter storm.. From the top you can retrace your steps, or you can
 hike around the peak to the NW and work your way over towards Peak
 
-6821. see leading image above.
-When we are above Lake #2, we will work our way down a chute to the west end of the lake, because there's a
-nice cascading waterfall to view.
+6821. see leading image above. When we are above Lake #2, we will work our way down a chute to the west end
+      of the lake, because there's a nice cascading waterfall to view.
 
 This loop is one of our regions great scrambles.
 

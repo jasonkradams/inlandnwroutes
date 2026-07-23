@@ -38,11 +38,10 @@ Miles from spokane: 748 miles Other amenities: ???
 
 Claim to Fame: Where powder skiing techniques were pioneered and perfected Unique Character: Alta installed
 the second chairlift in the western United States, shortly after Sun Valley Resort in Idaho. A ‘skier’s
-mountain,’ [Alta Ski
-Area](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-alta-ski/@@storylink/1072139158?_ct=Story)
+mountain,’
+[Alta Ski Area](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-alta-ski/@@storylink/1072139158?_ct=Story)
 is one of only three ski areas that does not permit snowboarders in the US, alongside Mad River Glen and
-[Deer Valley
-Resort](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-alta-ski/@@storylink/1072139403?_ct=Story).
+[Deer Valley Resort](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-alta-ski/@@storylink/1072139403?_ct=Story).
 
 ---
 
@@ -61,8 +60,8 @@ name Central City was abandoned. The word Alta is Spanish for "upper" or "higher
 town’s name is lost to history. By 1872 there were over 180 structures and miners flocked to the area,
 hoping to strike it rich on a silver vein. Though
 [Brighton](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-alta-ski/@@storylink/1072141064?_ct=Story)
-had a few rag-tag tow ropes prior to Alta’s creation, [Alta Ski
-Area](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-alta-ski/@@storylink/1072139158?_ct=Story)
+had a few rag-tag tow ropes prior to Alta’s creation,
+[Alta Ski Area](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-alta-ski/@@storylink/1072139158?_ct=Story)
 was the first resort in Utah to install a chairlift. The tradition, history and character of the resort can
 be discerned the moment you step atop its hallowed slopes. Alta has been spinning lifts for more than eight
 decades and is considered by many as the Holy Grail of powder skiing.
@@ -105,18 +104,18 @@ first welcomed skiers on January 15, 1939.
 The Boom Years Alf and his brother Sverre Engen were recruited in 1940 to run the ski school and teach the
 masses of Salt Lake the unknown and thrilling art of skiing. Meanwhile, Alta often served as training
 grounds for the mountaineers and ski troopers of the 10th Mountain Regiment during World War II. The postwar
-period saw another boom in the old silver town, but this time it was the reverberation of [the birth of
-avalanche mitigation in North
-America](https://www.skiutah.com/blog/authors/lexi/history-of-avalanche-forecasting). As the resort steadily
-added two more ski lifts, two new lodges and several rope tows, it became clear that the deadly avalanches
-that plagued the steep slopes and the canyon road to Alta would need to be better managed. Sverre Engen was
-hired on as a Snow Ranger in 1940 and continued to perfect ski cutting techniques while experimenting with
-explosives. After the war, Monty Atwatersucceeded Sverre, having been discharged from the 10th Mountain
-Division due to injury. Monty experimented with hand charges, triggering avalanches after each storm and
-made careful observations and left a detailed record of his studies in snow science. By regularly causing
-avalanches to release following big storms, Monty aimed to avoid the large and catastrophic avalanches that
-had plagued Alta in the early days. Monty eventually pioneered the use of military-grade artillery into his
-avalanche mitigation program, but that's an exciting tale worthy of your full attention.
+period saw another boom in the old silver town, but this time it was the reverberation of
+[the birth of avalanche mitigation in North America](https://www.skiutah.com/blog/authors/lexi/history-of-avalanche-forecasting).
+As the resort steadily added two more ski lifts, two new lodges and several rope tows, it became clear that
+the deadly avalanches that plagued the steep slopes and the canyon road to Alta would need to be better
+managed. Sverre Engen was hired on as a Snow Ranger in 1940 and continued to perfect ski cutting techniques
+while experimenting with explosives. After the war, Monty Atwatersucceeded Sverre, having been discharged
+from the 10th Mountain Division due to injury. Monty experimented with hand charges, triggering avalanches
+after each storm and made careful observations and left a detailed record of his studies in snow science. By
+regularly causing avalanches to release following big storms, Monty aimed to avoid the large and
+catastrophic avalanches that had plagued Alta in the early days. Monty eventually pioneered the use of
+military-grade artillery into his avalanche mitigation program, but that's an exciting tale worthy of your
+full attention.
 
 For a more in-depth look at the history of avalanche mitigation at Alta and the heroes like Sverre and Monty
 that regularly put their lives on the line to make it happen, check out my article
@@ -139,17 +138,17 @@ rerouting the old Supreme chair's original lift line. With one giant tower and 9
 feat vastly improved this area of the resort while avoiding habitat destruction and ground disturbance by
 reusing the existing lift lines. Today, the USFS continues to own the land used by Alta, which the company
 leases to operate each winter. Alta Ski Lift Company owns all the lift infrastructure, a number of lodging
-and administrative buildings for employees, three restaurants and the Alf Engen Ski School. The [five
-beloved lodges](https://www.skiutah.com/blog/authors/erika/the-five-lodges-of-alta-which-is) at the base are
-all owned by individual families.
+and administrative buildings for employees, three restaurants and the Alf Engen Ski School. The
+[five beloved lodges](https://www.skiutah.com/blog/authors/erika/the-five-lodges-of-alta-which-is) at the
+base are all owned by individual families.
 
 Alta quick facts & zany legends
 
 - In the 1880s, an era of peak silver extraction, it’s estimated that over 1,000 residents were living in
-Alta Basin year-round. There were over 125 homes, two smelters, a city hall with a basement jail, several
-shops, six breweries and 26 saloons. The ‘Bucket of Blood’ and [Goldminer's
-Daughter](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-alta-ski/@@storylink/1072139188?_ct=Story)’
-were the most notorious.
+  Alta Basin year-round. There were over 125 homes, two smelters, a city hall with a basement jail,
+  several shops, six breweries and 26 saloons. The ‘Bucket of Blood’ and
+  [Goldminer's Daughter](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-alta-ski/@@storylink/1072139188?_ct=Story)’
+  were the most notorious.
 
 - In the booming 1870s, production of silver ore topped $13.5 million.
 
@@ -158,15 +157,15 @@ were the most notorious.
 - In its second winter season, Alta sold 86,000 ski lift rides.
 
 - The zone of Catherine’s Area at Alta was named after Scottish immigrant and chef extraordinaire, Catherine
-Brighton, a beloved homesteader who settled the area now known as Brighton alongside her husband, William
-Stuart Brighton. To explore the history of Brighton Resort - [click
-here](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-brighton/)!
+  Brighton, a beloved homesteader who settled the area now known as Brighton alongside her husband,
+  William Stuart Brighton. To explore the history of Brighton Resort -
+  [click here](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-brighton/)!
 
 - Sunnyside chairlift is one of the only high-speed triple chairs in the world.
 
 - As it became an emerging sport, Alta did actually permit snowboarding for one season. It was around 1984
-and the phenomenon of snowboarding was so new that few understood or knew what it was about. The following
-season, management made the decision to ban snowboarders on its lifts.
+  and the phenomenon of snowboarding was so new that few understood or knew what it was about. The
+  following season, management made the decision to ban snowboarders on its lifts.
 
 ---
 

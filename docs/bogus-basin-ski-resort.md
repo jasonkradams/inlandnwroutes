@@ -72,18 +72,18 @@ chairlift was installed in 1961. The resort currently operates 7 chairlifts and 
 these chairlifts are high-speed quad (detachable chairlifts), installed in 1995 (#1 Deer Point) and 1999 (#6
 Pine Creek).
 
-Bogus Basin Nordic CenterCheck the Nordic Updates & Info page by [clicking
-here](http://bogusbasin.org/nordic_center/). Bogus Basin Mountain Recreation Area has more than 20 miles of
-groomed trails, including 4 miles of lighted trails for night skiing. You can ski all the way to the Shafer
-Butte Campground for great views of the Valley. Alpine touring skiers trek up to the campground and then ski
-ungroomed trails around Mores Mountain. There are lots of opportunities for classic, skate and backcountry
-skiing and snowshoeing in the area.
+Bogus Basin Nordic CenterCheck the Nordic Updates & Info page by
+[clicking here](http://bogusbasin.org/nordic_center/). Bogus Basin Mountain Recreation Area has more than 20
+miles of groomed trails, including 4 miles of lighted trails for night skiing. You can ski all the way to
+the Shafer Butte Campground for great views of the Valley. Alpine touring skiers trek up to the campground
+and then ski ungroomed trails around Mores Mountain. There are lots of opportunities for classic, skate and
+backcountry skiing and snowshoeing in the area.
 
 ### Dogs are not allowed
 
 Lessons and rentals are available. The Bogus Basin yurt off the Nordic trail system is available for rent
-for overnight stays. For more from the Idaho Statesman on Idaho Nordic areas [click
-here](http://www.idahostatesman.com/outdoors/recreation/article46287200.html#storylink=cpy).
+for overnight stays. For more from the Idaho Statesman on Idaho Nordic areas
+[click here](http://www.idahostatesman.com/outdoors/recreation/article46287200.html#storylink=cpy).
 
 The Nordic GroupThe Nordic Group began in 1989 as "The Nordic Foundation," one of the first volunteer
 organizations directly promoting the lifetime sport of cross-country skiing in the Treasure Valley area. The

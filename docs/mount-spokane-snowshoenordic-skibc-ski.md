@@ -97,8 +97,7 @@ Foggy Bottom Lounge, Big Barn Brewery
 
 ## Plan your trip
 
-[Click for Current NOAA Weather
-Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=3500&uel=6000&polygon=47.944%2C-117.089%2C47.944%2C-117.131%2C47.919%2C-117.158%2C47.894%2C-117.104%2C&area=7)
+[Click for Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=3500&uel=6000&polygon=47.944%2C-117.089%2C47.944%2C-117.131%2C47.919%2C-117.158%2C47.894%2C-117.104%2C&area=7)
 
 ## Photo gallery
 

@@ -46,6 +46,7 @@ not attempt
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
 info. if an emergency ocurrs, evaluate your circumstances and call only if needed. The trail to A Peak is in
 part the Snowshoe Lake Trail #972, on the North Fork of the Bull River. When you get to Trail
+
 #972, Verdun Creek, do not go left, but rather stay on a little used unmarked trail to Snowshoe Lake.
 
 At about 3 miles, you will come to a small waterfall on your right. Continue for about 1.5 miles to a

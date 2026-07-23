@@ -60,14 +60,14 @@ edges, and shiny green and hairless on the top surface.
 
 The plentiful [inflorescences](https://en.wikipedia.org/wiki/Inflorescence) are long clusters of white
 flowers. The fruit is a three-lobed capsule a few millimeters long which snaps open explosively to expel the
-three seeds onto the soil, where they may remain in a buried [seed
-bank](https://en.wikipedia.org/wiki/Soil_seed_bank) for well over 200 years before sprouting. The seed is
-coated in a very hard outer layer that must be
+three seeds onto the soil, where they may remain in a buried
+[seed bank](https://en.wikipedia.org/wiki/Soil_seed_bank) for well over 200 years before sprouting. The seed
+is coated in a very hard outer layer that must be
 [scarified](https://en.wikipedia.org/wiki/Scarification_(botany)), generally by
 [wildfire](https://en.wikipedia.org/wiki/Wildfire), before it can
 [germinate](https://en.wikipedia.org/wiki/Germination). Like most other
-[ceanothus](https://en.wikipedia.org/wiki/Ceanothus), this species [fixes
-nitrogen](https://en.wikipedia.org/wiki/Nitrogen_fixation) via
+[ceanothus](https://en.wikipedia.org/wiki/Ceanothus), this species
+[fixes nitrogen](https://en.wikipedia.org/wiki/Nitrogen_fixation) via
 [actinomycetes](https://en.wikipedia.org/wiki/Actinobacteria) on its roots. Ceanothus velutinus is a species
 of shrub in the buckthorn family, Rhamnaceae, known by the common names Red Root, Snowbrush Ceanothus and
 Tobacco Brush. It is native to western North America from British Columbia to California to Colorado, where

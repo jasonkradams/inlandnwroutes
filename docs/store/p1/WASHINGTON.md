@@ -16,17 +16,13 @@ per item
 
 ### **﻿**
 
-- [Facebook](https://facebook.com/sharer.php?u=http%3A%2F%2Fwww.inlandnwroutes.com%2Fstore%2Fp1%2FWASHINGTON.html
-"Share on Facebook")
+- [Facebook](https://facebook.com/sharer.php?u=http%3A%2F%2Fwww.inlandnwroutes.com%2Fstore%2Fp1%2FWASHINGTON.html "Share on Facebook")
 
-- [Twitter](https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.inlandnwroutes.com%2Fstore%2Fp1%2FWASHINGTON.html&text=WASHINGTON
-"Share on Twitter")
+- [Twitter](https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.inlandnwroutes.com%2Fstore%2Fp1%2FWASHINGTON.html&text=WASHINGTON "Share on Twitter")
 
-- [Pinterest](https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.inlandnwroutes.com%2Fstore%2Fp1%2FWASHINGTON.html&description=%EF%BB%BF&media=
-"Share on Pinterest")
+- [Pinterest](https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.inlandnwroutes.com%2Fstore%2Fp1%2FWASHINGTON.html&description=%EF%BB%BF&media= "Share on Pinterest")
 
-- [Google+](https://plus.google.com/share?url=http%3A%2F%2Fwww.inlandnwroutes.com%2Fstore%2Fp1%2FWASHINGTON.html
-"Share on Google+")
+- [Google+](https://plus.google.com/share?url=http%3A%2F%2Fwww.inlandnwroutes.com%2Fstore%2Fp1%2FWASHINGTON.html "Share on Google+")
 
 ### Quantity
 

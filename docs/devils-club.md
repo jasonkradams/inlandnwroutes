@@ -69,8 +69,8 @@ reproduce quickly.Park officers in Alaska have recruited devil's club as a natur
 spines to Keep visitors from wandering off trails. Scientists and health officials in Alaska are also hoping
 to use the plant to develop a marketable tea for treating tuberculosis which would then be marketed to
 China, though this can be contentious as it brings up issues of appropriation of traditional knowledge and
-intellectual property. [Read more about these uses of devil's club in
-Alaska.](http://news.nationalgeographic.com/news/2003/09/0905_030905_tvdevilsclub.html)
+intellectual property.
+[Read more about these uses of devil's club in Alaska.](http://news.nationalgeographic.com/news/2003/09/0905_030905_tvdevilsclub.html)
 
 ---
 

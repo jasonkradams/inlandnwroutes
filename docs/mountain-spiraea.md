@@ -61,12 +61,12 @@ The reddish-brown branches of **spiraea splendens**, a small deciduous shrub, te
 never becomes much more than 2 feet tall. Blooms appear in summer from the ends of the newer branches;
 rounded, flat-topped clusters of several dozen tiny, dark pink flowers, each with five sepals, five petals
 and many long stamens, projecting well beyond the corolla. Sepals are spreading or upwards-pointing, not
-bent back, like the similar [spiraea
-douglasii](https://www.americansouthwest.net/plants/wildflowers/spiraea-douglasii.html). The plant favors
-moist locations and is found over a wide area of the West, at elevations between 2,000 and 11,000 feet.
-Leaves are hairless or only slightly hairy, and the same on both surfaces. The plant favors moist locations
-and is found over a wide area of the West, at elevations between 2,000 and 11,000 feet. Leaves are hairless
-or only slightly hairy, and the same on both surfaces.
+bent back, like the similar
+[spiraea douglasii](https://www.americansouthwest.net/plants/wildflowers/spiraea-douglasii.html). The plant
+favors moist locations and is found over a wide area of the West, at elevations between 2,000 and 11,000
+feet. Leaves are hairless or only slightly hairy, and the same on both surfaces. The plant favors moist
+locations and is found over a wide area of the West, at elevations between 2,000 and 11,000 feet. Leaves are
+hairless or only slightly hairy, and the same on both surfaces.
 
 ---
 

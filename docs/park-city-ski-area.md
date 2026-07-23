@@ -67,16 +67,16 @@ bounty was all they needed to attract visitors to the historic mining town of Pa
 Park City Mountain is the largest lift-served ski resort in the United States with 7,300 acres of skiable
 terrain.
 
-Unique Character: [Park City
-Mountain](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-park-city/@@storylink/1072140938?_ct=Story)
+Unique Character:
+[Park City Mountain](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-park-city/@@storylink/1072140938?_ct=Story)
 is home to a rich lore of silver mining history. You can dive in and get a first-hand account by joining the
 Silver to Slopes Historic Mining Tour. This free, guided
 [tour](https://www.parkcitymountain.com/explore-the-resort/activities/winter-activities/historic-mountain-t...%20)
 for intermediate skiers pairs guests with an expert guide and historian to discover and learn about all the
 historic mining buildings, relics and infrastructure that dot the ski slopes. For a glimpse inside the
-Silver to Slopes tour, [listen to this
-podcast](https://www.skiutah.com/blog/authors/tom-kelly/sandy-melville-silver-to-slopes) about local
-historian and tour guide, Sandy Melville.
+Silver to Slopes tour,
+[listen to this podcast](https://www.skiutah.com/blog/authors/tom-kelly/sandy-melville-silver-to-slopes)
+about local historian and tour guide, Sandy Melville.
 
 Terrain Info Park City Mountain boasts the most lift-served terrain in the United States with more than
 7,300 skiable acres. The mountain encompasses 17 peaks, 13 bowls, six terrain parks and over 330 named
@@ -132,8 +132,8 @@ fancy of local denizens in the 1930s with the construction of a massive ski jump
 Creole mine. At this time, skiing was primarily a spectator sport. However, interest in recreational skiing
 slowly began to pique, and the Park City Winter Carnival debuted in 1936. Enthusiasm continued to build, and
 in 1947 the *Snow Park Ski Area*transported its first skiers uphill. This would eventually become the site
-of today’s [Deer Valley
-Resort](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-park-city/@@storylink/1072139403?_ct=Story),
+of today’s
+[Deer Valley Resort](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-park-city/@@storylink/1072139403?_ct=Story),
 but that’s an entirely different chapter of the story that you can discover
 [here.](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-deer)
 
@@ -164,16 +164,16 @@ Stern Times United Park City Mines ran Treasure Mountain for several years but s
 *Edgar Stern*, an Aspen real estate developer. The miners didn’t have any experience running a recreational
 enterprise, and they decided to offload the business for $5.5 million. That first summer three new lifts
 were constructed: *Payday, Crescent*, and *Lost Prospector*. Stern convinced his former friend and neighbor
-from Aspen, famed Norwegian skier [Stein
-Eriksen](https://www.skiutah.com/blog/authors/lexi/stein-eriksen-the-godfather-of), to settle in and help
-him promote skiing in the area. The *King Con Triple Chair* was opened in 1973, and new runs were cut along
-the east side of King Con Ridge to
+from Aspen, famed Norwegian skier
+[Stein Eriksen](https://www.skiutah.com/blog/authors/lexi/stein-eriksen-the-godfather-of), to settle in and
+help him promote skiing in the area. The *King Con Triple Chair* was opened in 1973, and new runs were cut
+along the east side of King Con Ridge to
 
 serve as
 
 training slopes for athletes. Stern’s group worked hard to support the alpine ski racing community, and with
-Eriksen's help, convinced the *[US Ski
-Team](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-park-city/@@storylink/400273426?_ct=Story)*
+Eriksen's help, convinced the
+*[US Ski Team](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-park-city/@@storylink/400273426?_ct=Story)*
 to
 
 relocate their training facilities from Denver to Park City in 1974. This was a massive win for the little
@@ -183,8 +183,7 @@ Stern gradually gravitated toward more grandiose dreams and sold *Park City Ski 
 
 establish
 
-[Deer Valley
-Resort](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-park-city/@@storylink/1072139403?_ct=Story),
+[Deer Valley Resort](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-park-city/@@storylink/1072139403?_ct=Story),
 a radical departure from contemporary ski areas with its luxurious amenities and well-appointed lodges. More
 on Deer Valley’s history can be found
 [here](https://www.skiutah.com/blog/authors/lexi/ski-utah-resort-histories-deer).
@@ -218,7 +217,7 @@ A Change of Hands *Powdr Corp*, a private corporation owned by Salt Lake City fi
 purchased *Park City Ski Area* in
 
 1994. This meant Powdr Corp now owned and operated both *Alpine Meadows* and *Park City Ski Area*. In 1996,
-the Cummings
+      the Cummings
 
 changed the name to *Park City Mountain Resort* and lifted a ban on snowboarding. Their goal was to set the
 
@@ -229,9 +228,9 @@ era in the late 90s, installing several high-speed chairlifts including *Silverl
 *McConkey’s*. Powdr Corp maintained progress in upgrading facilities, also replacing the *First Time*,
 *Three Kings*, and *Ski Team* lifts. For
 
-more on Powdr Corp, check out our [Last Chair podcast
-episode](https://www.skiutah.com/blog/authors/tom-kelly/john-cumming-passion-for-utah-and) with John
-Cumming.
+more on Powdr Corp, check out our
+[Last Chair podcast episode](https://www.skiutah.com/blog/authors/tom-kelly/john-cumming-passion-for-utah-and)
+with John Cumming.
 
 An Olympic Legacy In 2002, the world’s eyes turned to Park City Mountain Resort, as Olympic athletes
 performed incredible feats on its slopes. Snowboard halfpipe, slalom and giant slalom events were held at
@@ -265,46 +264,46 @@ outdoor lovers from all across the globe.
 Quick facts & zany legends
 
 - Park City was one of the only permanent settlements in Utah that wasn’t founded by Mormon pioneers
-escaping religious persecution. It was incorporated and built by miners eager to strike it rich on veins of
-silver lode.
+  escaping religious persecution. It was incorporated and built by miners eager to strike it rich on veins
+  of silver lode.
 
 - The silver mines around Park City eventually yielded over $400 million in revenue and created 23
-millionaires.
+  millionaires.
 
 - When it first opened in 1963, a lift pass at Treasure Mountain cost $3.50. Almost 50,000 skiers visited
-Treasure Mountain during its first winter season.
+  Treasure Mountain during its first winter season.
 
 - Upon visiting Treasure Mountain’s original gondola, members of Sugarloaf’s management built a similar
-gondola at Sugarloaf, ME in the Carrabassett Valley.
+  gondola at Sugarloaf, ME in the Carrabassett Valley.
 
 - While skiing or shredding Park City, know that more than 1,000 miles of old silver mining tunnels lie
-beneath Park City Mountain and neighboring Deer Valley Resort.
+  beneath Park City Mountain and neighboring Deer Valley Resort.
 
 - Many of the lifts accessible from the Park City Mountain Village are named after mining claims or mining
-terms, for example: Pay Day, Bonanza, Silverload, Silver Star, King Con, Jupiter, Motherload and
-Quicksilver. There's one glaring exception crowing the highest peak, McConkey's Express. This lift was named
-for Jim McConkey, father of iconic freeskier Shane McConkey. Jim McConkey was a skiing pioneer, appearing in
-films, constructing modern chairlifts and leaving brilliant marks in the annuls of skiing history. Lured to
-Alta in 1953 to join the Alf Engen Ski School, McConkey gained valuable experience to then act as director
-for Treasure Mountain's inaugural ski school in 1963.
+  terms, for example: Pay Day, Bonanza, Silverload, Silver Star, King Con, Jupiter, Motherload and
+  Quicksilver. There's one glaring exception crowing the highest peak, McConkey's Express. This lift was
+  named for Jim McConkey, father of iconic freeskier Shane McConkey. Jim McConkey was a skiing pioneer,
+  appearing in films, constructing modern chairlifts and leaving brilliant marks in the annuls of skiing
+  history. Lured to Alta in 1953 to join the Alf Engen Ski School, McConkey gained valuable experience to
+  then act as director for Treasure Mountain's inaugural ski school in 1963.
 
 - For the 2002 Salt Lake City Winter Olympic Games, over 40% of the events were hosted at Park City
-Mountain, the Utah Olympic Park and Deer Valley. This resulted in bolstering the area’s international
-reputation and a population boom.
+  Mountain, the Utah Olympic Park and Deer Valley. This resulted in bolstering the area’s international
+  reputation and a population boom.
 
 - In 2002, Park City Mountain hosted the giant slalom, snowboarding parallel giant slalom and snowboard
-halfpipe Winter Olympic events. Look for the Eagle Race Arena and the Eagle Superpipe runs where events were
-held. The events were 99.8% sold out with 95,991 spectators.
+  halfpipe Winter Olympic events. Look for the Eagle Race Arena and the Eagle Superpipe runs where events
+  were held. The events were 99.8% sold out with 95,991 spectators.
 
 - The size of Park City Mountain is simply astonishing. At this time, the resort encompasses 7,300 acres and
-348 trails. This requires a huge operations fleet to keep the groomed terrain in top shape. Each night about
-40 snowcats disperse across the resort during two shifts to manicure over 115 trails to perfection. To learn
-what it's like to be a snowcat driver, check out this [fascinating
-article](https://www.skiutah.com/blog/authors/lexi/a-night-in-the-life-of-a-snowcat).
+  348 trails. This requires a huge operations fleet to keep the groomed terrain in top shape. Each night
+  about 40 snowcats disperse across the resort during two shifts to manicure over 115 trails to
+  perfection. To learn what it's like to be a snowcat driver, check out this
+  [fascinating article](https://www.skiutah.com/blog/authors/lexi/a-night-in-the-life-of-a-snowcat).
 
 - Originally established in 1896, the *Mid Mountain Lodge* is the oldest lodge on the mountain. It formerly
-served as a boarding house and mess hall for silver miners. The Mid Mountain Lodge was recently renovated
-and re-opened in the 2018–19 winter season. It incorporates mining history and Victorian decor with a swanky
-and sophisticated vibe.
+  served as a boarding house and mess hall for silver miners. The Mid Mountain Lodge was recently
+  renovated and re-opened in the 2018–19 winter season. It incorporates mining history and Victorian decor
+  with a swanky and sophisticated vibe.
 
 ## To contribute images, contact chic via this website

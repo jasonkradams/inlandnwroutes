@@ -42,6 +42,7 @@ notes:
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
 info. if an emergency ocurrs, evaluate your circumstances and call only if needed. Altho this trail seems
 long, it is a beautiful trail to hike on the hottest day of the year. Most of Trail
+
 #308 is
 surrounded by large Hemlocks and Cedars.
 

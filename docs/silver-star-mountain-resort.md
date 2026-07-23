@@ -63,14 +63,16 @@ Postill to the current day village area. Construction of two rope-tow lifts and 
 renovated into Pinnacles condominiums) were built in
 
 1958. In 1959 a poma lift was installed from the 5,000-foot (1,500 m) level at the parking lot to the top of
-SilverStar Mountain, replacing the rope tow. In 1964 new t-bars were installed to replace the slower rope
-tows and in 1965 a second A-frame structure was added to the day lodge. In 1967 and 1968 the Summit and
-Yellow Chairs (6,000 feet) built by [GMD Mueller](https://en.wikipedia.org/wiki/GMD_Mueller) were installed,
-making Silver Star Mountain one of the largest ski areas in Canada. One of the challenges of the early rope
-tows was that the rope stretched as it was used and had to be cut, shortened and spliced at regular
-intervals. This was the job of Mike Lattey who would sit out in the snow undoing and splicing the cold wet
-rope under a tarp while everyone else stayed inside drinking hot chocolate. He was also the official
-photographer. Some of his photos can be seen in Paradise Camp and the pub in the village.
+      SilverStar Mountain, replacing the rope tow. In 1964 new t-bars were installed to replace the
+      slower rope tows and in 1965 a second A-frame structure was added to the day lodge. In 1967 and
+      1968 the Summit and Yellow Chairs (6,000 feet) built by
+      [GMD Mueller](https://en.wikipedia.org/wiki/GMD_Mueller) were installed, making Silver Star
+      Mountain one of the largest ski areas in Canada. One of the challenges of the early rope tows
+      was that the rope stretched as it was used and had to be cut, shortened and spliced at regular
+      intervals. This was the job of Mike Lattey who would sit out in the snow undoing and splicing
+      the cold wet rope under a tarp while everyone else stayed inside drinking hot chocolate. He was
+      also the official photographer. Some of his photos can be seen in Paradise Camp and the pub in
+      the village.
 
 ### SilverStar Mountain Resort Era
 

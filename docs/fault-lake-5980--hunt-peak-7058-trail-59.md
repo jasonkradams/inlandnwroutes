@@ -60,6 +60,7 @@ above the lake, a fault is obvious, and it's where Fault Lake gets its name.
 
 From Sandpoint, drive north on 95 10.5 miles to Samuel. There is a gas mart just after the signs to the Pack
 River Road
+
 #231. Drive 12 miles to a junction with FR #293, and bear left (west). At a switchback take a secondary road straight
 ahead to the trailhead.
 

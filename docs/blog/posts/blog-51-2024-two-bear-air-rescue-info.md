@@ -76,8 +76,7 @@ actual hike, and any scenario that may arise.
 
 - [Blog #9: AirFlare Rescue App for Your Phone](airflare-rescue-app-for-your-phone.md)
 
-- [Blog #13: The Importance of Carrying a Pack & 13
-Essentials](the-importance-of-carrying-a-pack-13-essentials.md)
+- [Blog #13: The Importance of Carrying a Pack & 13 Essentials](the-importance-of-carrying-a-pack-13-essentials.md)
 
 - [Blog #19: What Does a Rescue Look Like?](what-does-a-rescue-look-like.md)
 

@@ -59,6 +59,7 @@ Fortunately the road is in great shape.
 Fishtrap lake & campground As you drive up to Terrace or Stoney Lakes, you turn left onto FR #7609.
 
 At this junction, DO NOT TURN LEFT, BUT CONTINUE up past the West Fork Fishtrap Creek Campground to FR
+
 #7593-2. Turn
 left for a short distance to Fishtrap Lake and Campground.
 

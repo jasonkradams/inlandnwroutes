@@ -73,23 +73,24 @@ has many shapes, many moods, and many possibilities. Somewhere in our community 
 belongs to you and we are committed to helping you find it. Robert Redford
 
 Sundance's new owners & improvements Sundance Mountain Resort’s new owners are wasting no time updating the
-ski area. Three months after [Robert Redford sold the
-property](https://www.sltrib.com/news/2020/12/11/exclusive-robert-redford/) the actor opened in 1969, the
-new group announced plans to install two new chairlifts, additional snowmaking and parking and renovations
-to its Creekside building. The installation of the two new lifts means the Rays lift will be retired. In its
-place, a Doppelmayer high-speed quad lift will deliver guests from the base to the advanced terrain off
-Mandan Summit in about seven minutes, as opposed to the roughly 20-minute ride on Rays. It will follow
-approximately the same path as the original Mandan Lift — just to the looker’s right of Rays — which was
-installed in the mid-1960s and removed in 1995. This lift will also have a mid-station unload for novice
-skiers. The other lift, a fixed-grip quad, will take passengers to the backside of Mandan Summit. It will
-primarily be used to reach the top of the peak in the summer and as a way to return to the front of the
-mountain from the backside in the winter. Chad Linebaugh, Sundance resort’s president and general manager,
-told The Salt Lake Tribune that until a month and a half ago, the new lift was going to follow the same path
-as the current Rays lift. But Linebaugh had fond memories of the terrain that became inaccessible when the
-original Mandan Lift came down. Plus, he said, the view of Mount Timpanogos is even more spectacular from
-there. "We thought, ‘Well, gosh, if we’re building a new lift, maybe we should go back up to that summit,"
-Linebaugh said. "And there’s a few complications in doing it that way and it costs us a bit more money. But
-in the end, we thought, ‘Hey, if we’re going to do this, let’s do it right and let’s recapture that."
+ski area. Three months after
+[Robert Redford sold the property](https://www.sltrib.com/news/2020/12/11/exclusive-robert-redford/) the
+actor opened in 1969, the new group announced plans to install two new chairlifts, additional snowmaking and
+parking and renovations to its Creekside building. The installation of the two new lifts means the Rays lift
+will be retired. In its place, a Doppelmayer high-speed quad lift will deliver guests from the base to the
+advanced terrain off Mandan Summit in about seven minutes, as opposed to the roughly 20-minute ride on Rays.
+It will follow approximately the same path as the original Mandan Lift — just to the looker’s right of Rays
+— which was installed in the mid-1960s and removed in 1995. This lift will also have a mid-station unload
+for novice skiers. The other lift, a fixed-grip quad, will take passengers to the backside of Mandan Summit.
+It will primarily be used to reach the top of the peak in the summer and as a way to return to the front of
+the mountain from the backside in the winter. Chad Linebaugh, Sundance resort’s president and general
+manager, told The Salt Lake Tribune that until a month and a half ago, the new lift was going to follow the
+same path as the current Rays lift. But Linebaugh had fond memories of the terrain that became inaccessible
+when the original Mandan Lift came down. Plus, he said, the view of Mount Timpanogos is even more
+spectacular from there. "We thought, ‘Well, gosh, if we’re building a new lift, maybe we should go back up
+to that summit," Linebaugh said. "And there’s a few complications in doing it that way and it costs us a bit
+more money. But in the end, we thought, ‘Hey, if we’re going to do this, let’s do it right and let’s
+recapture that."
 
 In the hope of opening the resort earlier in the season and provide access to more terrain, the group also
 plans to install more snow guns and a snowmaking reservoir. Changes that should benefit the resort

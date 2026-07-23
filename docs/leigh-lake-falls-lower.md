@@ -54,6 +54,7 @@ shore to a rock beach.
 ## Directions
 
 From Libby, drive south on Highway 2 towards Glacier National Park for about 8 miles to the Bear Creek Road
+
 #278. Turn
 right (west) for three miles to FR#867. Turn right (west) for about 5 miles to FR #4786. Drive up 4786 for
 about 2 miles to the trailhead. Notice along this last stretch of road, that there is pull off to the left

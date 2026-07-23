@@ -38,12 +38,12 @@ Miles from spokane: ???123 miles Other amenities: ???
 
 ## Description
 
-The ski resort Salmo Ski Hill is located in the [Central Kootenay Regional
-District](https://www.skiresort.info/ski-resorts/central-kootenay/)([Canada](https://www.skiresort.info/ski-resorts/canada/),
-[British Columbia](https://www.skiresort.info/ski-resorts/british-columbia/), [Kootenay
-Rockies](https://www.skiresort.info/ski-resorts/kootenay-rockies/)). For skiing and snowboarding, there are
-[5 km of slopes](https://www.skiresort.info/ski-resort/salmo-ski-hill/slope-offering/) available. [2
-lifts](https://www.skiresort.info/ski-resort/salmo-ski-hill/ski-lifts/) transport the guests. The winter
+The ski resort Salmo Ski Hill is located in the
+[Central Kootenay Regional District](https://www.skiresort.info/ski-resorts/central-kootenay/)([Canada](https://www.skiresort.info/ski-resorts/canada/),
+[British Columbia](https://www.skiresort.info/ski-resorts/british-columbia/),
+[Kootenay Rockies](https://www.skiresort.info/ski-resorts/kootenay-rockies/)). For skiing and snowboarding,
+there are [5 km of slopes](https://www.skiresort.info/ski-resort/salmo-ski-hill/slope-offering/) available.
+[2 lifts](https://www.skiresort.info/ski-resort/salmo-ski-hill/ski-lifts/) transport the guests. The winter
 sports area is situated between the elevations of 695 and 1,030 m. Salmo Ski Hill in the west Kootenays of
 British Columbia is famous for its great night skiing on fully lit runs that are always groomed to
 perfection. Salmo Ski Hill offers a wide variety of skiing opportunities for all ages and levels. The hill

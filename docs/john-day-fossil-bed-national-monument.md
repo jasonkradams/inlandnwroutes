@@ -98,21 +98,21 @@ specimens, the 11,000 square foot center greatly improved the monument's ability
 and the scientific community. Performing a dual purpose, the Thomas Condon Paleontology and Visitor Center
 is dedicated to the study and public understanding of the paleontological resources of the John Day region.
 Colorful murals, fossil displays, and a fishbowl paleontology laboratory are some of the main features for
-visitors to enjoy. What can you do at the Center? Before you visit, know the [Operating
-Hours](https://www.nps.gov/joda/planyourvisit/hours.htm) of the center. While you are there, enjoy the
-18-minute park orientation film and browse through the [Discover Your Northwest
-Bookstore](https://www.nps.gov/joda/learn/bookstore.htm). Our exhibits display over 500 fossil specimens
-from the John Day Fossil Beds. Scientifically accurate murals depict the environments in which these plants
-and animals lived. Speakers in the exhibits provide an audio representation of these extinct species may
-have sounded like. Viewing windows into the laboratory and collections area allow the public to watch
-scientists actively studying fossils. (You can also watch our paleo cam on our [webcams
-page](https://www.nps.gov/joda/learn/photosmultimedia/webcams.htm).)
+visitors to enjoy. What can you do at the Center? Before you visit, know the
+[Operating Hours](https://www.nps.gov/joda/planyourvisit/hours.htm) of the center. While you are there,
+enjoy the 18-minute park orientation film and browse through the
+[Discover Your Northwest Bookstore](https://www.nps.gov/joda/learn/bookstore.htm). Our exhibits display over
+500 fossil specimens from the John Day Fossil Beds. Scientifically accurate murals depict the environments
+in which these plants and animals lived. Speakers in the exhibits provide an audio representation of these
+extinct species may have sounded like. Viewing windows into the laboratory and collections area allow the
+public to watch scientists actively studying fossils. (You can also watch our paleo cam on our
+[webcams page](https://www.nps.gov/joda/learn/photosmultimedia/webcams.htm).)
 
-Where is it Located? The Center is located in the [Sheep Rock
-Unit](https://www.nps.gov/joda/planyourvisit/sr-unit.htm) of John Day Fossil Beds at 32651 Highway 19,
-Kimberly, OR 97848. It is approximately 8 miles northwest of the town of Dayville, Oregon and 19 miles south
-of the town of Kimberly, Oregon. Please visit the photo galleries below to see more pictures from the Thomas
-Condon Paleontology Center and units.
+Where is it Located? The Center is located in the
+[Sheep Rock Unit](https://www.nps.gov/joda/planyourvisit/sr-unit.htm) of John Day Fossil Beds at 32651
+Highway 19, Kimberly, OR 97848. It is approximately 8 miles northwest of the town of Dayville, Oregon and 19
+miles south of the town of Kimberly, Oregon. Please visit the photo galleries below to see more pictures
+from the Thomas Condon Paleontology Center and units.
 
 ---
 
@@ -212,9 +212,9 @@ of the Cenozoic Era (the "Age of Mammals and Flowering Plants") is world-renowne
 monument's main headquarters is at the Cant Ranch Visitor Center in the Sheep Rock Unit.
 
 One Park, Three UnitsJohn Day Fossil Beds National Monument is comprised of more than 14,000 acres within
-three separate units located in eastern Oregon: [Sheep
-Rock](https://www.nps.gov/joda/planyourvisit/sr-unit.htm), [Painted
-Hills](https://www.nps.gov/joda/planyourvisit/ptd-hills-unit.htm), and
+three separate units located in eastern Oregon:
+[Sheep Rock](https://www.nps.gov/joda/planyourvisit/sr-unit.htm),
+[Painted Hills](https://www.nps.gov/joda/planyourvisit/ptd-hills-unit.htm), and
 [Clarno](https://www.nps.gov/joda/planyourvisit/clarno.htm). The three units of the monument hold some of
 the best fossil bearing locations within the larger John Day Fossil Beds, which cover most of eastern
 Oregon. You will find no dinosaurs here; this area was underwater during that time. The John Day Fossil Beds

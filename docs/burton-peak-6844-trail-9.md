@@ -60,6 +60,7 @@ summit that is a good spot to view the Selkirks from the east.
 From the Kootenai National Wildlife Refuge, drive 1.3 miles to the Myrtle Creek Road #633, and turn left
 (west) for 2 miles to the junction with FR #2411. Turn right for 6.3 miles to another junction . Turn left
 (SW) onto FR
+
 #2692 for 1.5
 miles to the trailhead.
 

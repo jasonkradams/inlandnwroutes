@@ -83,6 +83,7 @@ Snow Creek’s south side as this follows a ridge and affords no access to the w
 Requiring a fairly easy hike, access Granite Falls by first taking Scenic Route (SR) 57 north for 37 miles
 from Priest River to Nordman; continue along SR 57 for 13 more miles (2 miles past Nordman, SR 57 converts
 to Granite Creek Road
+
 #30) until you reach the entrance for Stagger Inn Camp and Granite Falls; turning at this entrance, locate the falls’
 trailhead at the camp’s southern end.
 
@@ -107,6 +108,7 @@ onward to reach the falls in another 0.2 mile.
 ### Wellington Creek Falls
 
 To reach the falls, turn east off U.S 2/95 onto Scenic Route 200 and drive 12.2 miles to Trestle Creek Road
+
 #275 where
 you will turn east (left) and continue for 13 miles to Lightning Creek Road #419; turn south (right) and
 proceed along Lightning Creek Road past Char Falls for 4.2 miles until you arrive at Augor Road #489;
@@ -192,6 +194,7 @@ Take Scenic Route (SR) 57 for 37 miles from Priest River, ID to Nordman, ID; pas
 continue on SR 57 (which turns into Granite Creek Road #30 2 miles past Nordman) for 13 more miles and take
 the entrance road to Stagger Inn Camp; here, proceed north on Road #302 for 1.7 miles and then turn right on
 Road #1013, which later becomes Road
+
 #637; drive approximately 11.5 miles and park at the Upper Priest River Trailhead #308.
 
 Located within the solitude of Idaho’s northwestern tip, the Upper Priest River tumbles 100 to 125 feet to

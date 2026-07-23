@@ -93,6 +93,7 @@ center. Tubbs Hill is located east of the CDA Resort. From the 4th Street Exit #
 ## Cool things close by
 
 Canfield Butte, Marie Creek Trail, Wallace L. Forest Conservation Area, Mineral Ridge, Mount CDA’s Trail
+
 #257 & Trail
 #79, Chilco Mountain, Heyburn State Park, the Idaho Chain Lakes, English Point, and Cougar Bay a Nature Concervancy.
 

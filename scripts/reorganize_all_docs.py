@@ -30,8 +30,19 @@ def smart_wrap_paragraph(line, max_len=108):
     sub_indent = ' ' * len(prefix) if prefix else ''
     available_width = max(30, max_len - len(prefix))
     
+    # Protect Markdown links [anchor](url) with exact-length dummy tokens so textwrap calculates length accurately
+    links = []
+    def link_replacer(m):
+        link_str = m.group(0)
+        idx = len(links)
+        links.append(link_str)
+        token = f"LINK{idx:03d}" + "X" * max(0, len(link_str) - 7)
+        return token
+
+    protected_text = re.sub(r'\[[^\]]+\]\([^\)]+\)', link_replacer, text)
+    
     wrapped = textwrap.wrap(
-        text,
+        protected_text,
         width=available_width,
         break_long_words=False,
         break_on_hyphens=False,
@@ -40,11 +51,20 @@ def smart_wrap_paragraph(line, max_len=108):
     
     if not wrapped:
         return [line]
-    wrapped[0] = prefix + wrapped[0]
     
-    # Prevent wrapped lines from starting with numbers like '1903.' or '1991.' by shifting preceding word
+    # Restore protected links
+    restored_wrapped = []
+    for w in wrapped:
+        for idx, l_str in enumerate(links):
+            token = f"LINK{idx:03d}" + "X" * max(0, len(l_str) - 7)
+            w = w.replace(token, l_str)
+        restored_wrapped.append(w)
+
+    restored_wrapped[0] = prefix + restored_wrapped[0]
+    
+    # Prevent wrapped lines from starting with numbers like '1903.' to avoid MD029 false positives
     cleaned_wrapped = []
-    for i, w in enumerate(wrapped):
+    for i, w in enumerate(restored_wrapped):
         if i > 0 and re.match(r'^\s*\d+\.', w):
             if cleaned_wrapped:
                 prev_words = cleaned_wrapped[-1].split(' ')
@@ -72,9 +92,24 @@ def process_body_lines(lines, max_len=108):
             wrapped = smart_wrap_paragraph(joined, max_len=max_len)
             blocks.extend(wrapped)
         elif curr_type == 'list':
-            for item in curr_block:
-                item = re.sub(r'^(\s*)\*\s+', r'\1- ', item)
-                blocks.extend(smart_wrap_paragraph(item, max_len=max_len))
+            list_items = []
+            curr_item = []
+            for l in curr_block:
+                stripped = l.strip()
+                if stripped.startswith('- ') or stripped.startswith('* ') or re.match(r'^\d+\.\s+', stripped):
+                    if curr_item:
+                        list_items.append(' '.join(curr_item))
+                    curr_item = [stripped]
+                else:
+                    curr_item.append(stripped)
+            if curr_item:
+                list_items.append(' '.join(curr_item))
+
+            for item in list_items:
+                item = re.sub(r'^\*\s+', r'- ', item)
+                item = re.sub(r'\s+', ' ', item)
+                wrapped = smart_wrap_paragraph(item, max_len=max_len)
+                blocks.extend(wrapped)
         else:
             blocks.extend(curr_block)
         curr_block = []
@@ -104,10 +139,15 @@ def process_body_lines(lines, max_len=108):
         is_list = (stripped.startswith('- ') or stripped.startswith('* ') or re.match(r'^\d+\.\s+', stripped))
 
         if is_special:
-            flush_block()
+            if curr_type == 'list' or curr_type == 'para':
+                flush_block()
+                if blocks and blocks[-1] != '':
+                    blocks.append('')
+            else:
+                flush_block()
             blocks.append(line.rstrip())
-        elif is_list:
-            if curr_type != 'list':
+        elif is_list or curr_type == 'list':
+            if is_list and curr_type != 'list':
                 flush_block()
                 curr_type = 'list'
             curr_block.append(line.rstrip())

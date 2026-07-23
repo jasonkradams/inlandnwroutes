@@ -57,6 +57,7 @@ to the trailhead.
 ## Cool things close by
 
 Shorty Peak, Lone Tree Peak, and West Fork Lake & Mountian. There is a waterfall on Smith Creek close to SH
+
 # 1.
 
 ## Hazards

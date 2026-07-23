@@ -31,16 +31,16 @@ Every hiker should carry the following items in their own pack:
 - **Water & Filtration:** Water, plus a 5 oz. Sawyer water purifier.
 
 - **Warmth & Insulation:** Thermo jacket for warmth. Store a pair of down mittens inside a plastic bag at
-the bottom of your pack to keep them dry.
+  the bottom of your pack to keep them dry.
 
 - **Food & Snacks:** Lunch, trail snacks, and emergency food. Try to keep your pack light, but carry all you
-need.
+  need.
 
 - **Sanitation & Hygiene:** A Ziploc bag with folded paper towels. (Paper towels are far more reliable than
-toilet paper in the woods to prevent accidental blowouts).
+  toilet paper in the woods to prevent accidental blowouts).
 
 - **Two-Way Radio (Optional):** An option, especially for beginners. Use it for only 10 minutes on the hour
-to preserve battery life.
+  to preserve battery life.
 
 - **Personal Items:** Chapstick, sunscreen, personal items, etc.
 
@@ -50,7 +50,7 @@ Something I carry in a handy place is a dozen or so 12" survivor's tape strips. 
 may be a question later, these retractable strips can be a life saver:
 
 1. **Application:** Fold the strip in half. Wrap the halves around a branch, pass the two tails through the
-loop, and pull tight.
+   loop, and pull tight.
 
 2. **Retrieval:** As you walk past on your return, grab the loop end and pull it right off the branch.
 
@@ -78,14 +78,14 @@ the blister, but eliminates the pain entirely.
 
 !!! info "How to Apply Spenco 2nd Skin"
 
-    1. **Clean:** Clean around the blister using alcohol cleaning pads and paper towels.
+1. **Clean:** Clean around the blister using alcohol cleaning pads and paper towels.
 
-    2. **Cut & Peel:** Cut the 2nd Skin pad to size (larger than the blister). Peel one side's protective
-layer off and apply directly over the blister. **Do not touch the clean dressing.**
+2. **Cut & Peel:** Cut the 2nd Skin pad to size (larger than the blister). Peel one side's protective layer
+   off and apply directly over the blister. **Do not touch the clean dressing.**
 
-    3. **Remove Layer:** Peel the second protective layer off.
+3. **Remove Layer:** Peel the second protective layer off.
 
-    4. **Secure:** Apply athletic tape over the 2nd Skin to hold it securely in place.
+4. **Secure:** Apply athletic tape over the 2nd Skin to hold it securely in place.
 
 **Required Tools:** Athletic tape, scissors, alcohol cleaning pads, paper towels.
 

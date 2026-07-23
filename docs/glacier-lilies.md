@@ -68,9 +68,9 @@ short-petiolate; the blade 5–20 cm long, narrowly elliptic, fleshy. Infloresce
 nodding flowers. Flowers regular, narrowly campanulate, opening to star-shaped in full sun; tepals yellow,
 rarely white, separate, narrowly lanceolate, 15–40 mm long, reflexed during the day; stamens shorter than
 tepals; anthers yellow or red; stigma capitate or 3-lobed. Fruit an erect, oblong-ovoid, 3-lobed,
-many-seeded capsule 25–50 long ([Lesica et al. 2012. Manual of Montana Vascular Plants. BRIT Press. Fort
-Worth, TX](https://shop.brit.org/Manual-of-Montana-Vascular-Plants_2)). Two to three mottled, fleshy,
-elliptic, basal leaves, to 14 in. long, surround the one- to several-flowered
+many-seeded capsule 25–50 long
+([Lesica et al. 2012. Manual of Montana Vascular Plants. BRIT Press. Fort Worth, TX](https://shop.brit.org/Manual-of-Montana-Vascular-Plants_2)).
+Two to three mottled, fleshy, elliptic, basal leaves, to 14 in. long, surround the one- to several-flowered
 
 6-18 in.
 

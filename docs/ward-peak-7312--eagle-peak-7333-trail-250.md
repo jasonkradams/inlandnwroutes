@@ -115,10 +115,12 @@ left
 
 (east) onto 218 and drive past the Nugget Creek Campground and about 5 miles turn left on FR 339. Look for
 FR
+
 #50 and
 drive to the Idaho Montana boarder, and turn left onto F.R.#391. If you get to the border, a flat spot with
 a large kiosk sign is off to your left. You have gone too far. Turn back onto the road you came up on, and
 turn right up F.R.
+
 #391.
 
 While on road 391, you can see Ward Peak towering to the north.

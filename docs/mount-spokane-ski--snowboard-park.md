@@ -83,8 +83,8 @@ Mount spokane state park
 scq'wulsm
 
 Known as scq’wulsm to the Spokane Tribe, Mount Spokane has been important to local residents for 10.000
-years.By [Tracy L.
-Rebstock](https://spokanehistorical.org/items/browse?search=&advanced[0][element_id]=39&advanced[0][type]=is+exactly&advanced[0][terms]=Tracy%20L.%20Rebstock)While
+years.By
+[Tracy L. Rebstock](https://spokanehistorical.org/items/browse?search=&advanced[0][element_id]=39&advanced[0][type]=is+exactly&advanced[0][terms]=Tracy%20L.%20Rebstock)While
 Mount Spokane was never officially a Spokane Park, the Spokane Parks department helped take care of it and
 was concerned with its future. Previously known as Mount Baldy and Mount Carlton, Mount Spokane got its name
 in 1912. Spokane resident and businessman Francis H. Cook, also of Manito Park fame, purchased the summit of

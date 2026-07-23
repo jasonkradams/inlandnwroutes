@@ -149,75 +149,76 @@ from Lookout's rich past.
 Winter 1935-36
 
 - **The Idaho Ski Club is born.** A few ardent ski pioneers built a rope tow powered by the engine from an
-abandoned car they found on the old Yellowstone Highway, which is now I-90. They used a highway maintenance
-shed on Lookout Pass as a warming hut.
+  abandoned car they found on the old Yellowstone Highway, which is now I-90. They used a highway
+  maintenance shed on Lookout Pass as a warming hut.
 
 1940
 
 - **Lookout’s Famous Free Ski School founded.** Over 80 years, volunteer instructors have introduced more
-than 75,000 kids to the world of skiing and riding.
+  than 75,000 kids to the world of skiing and riding.
 
 ### 1941
 
 - **Lookout’s historic lodge built.** The U.S. Forest Service commissioned the Civilian Conservation Corps
-(CCC) to build the original phase of the expanded lodge still in use today, the second-oldest ski lodge in
-the Pacific Northwest next to the Timberline Lodge on Mt. Hood in Oregon.
+  (CCC) to build the original phase of the expanded lodge still in use today, the second-oldest ski lodge
+  in the Pacific Northwest next to the Timberline Lodge on Mt. Hood in Oregon.
 
 1950s
 
 - **The Idaho Ski Club,** the group of volunteers that operated Lookout Pass, sold lift tickets for 50
-cents.
+  cents.
 
 1980
 
 - **Lookout’s first chairlift**– Chair One, was financed with contributions from local mining companies to
-provide winter recreation for their employees.
+  provide winter recreation for their employees.
 
 1992
 
 - **Idaho Ski Club sells out.** With the mining industry in decline, Lookout’s volunteer staff dwindled. A
-group of locals who wanted to keep Lookout open takes over.
+  group of locals who wanted to keep Lookout open takes over.
 
 1999
 
 - **Lookout Associates LLC acquires the mountain**. Lookout’s current owners launch a new era of expanding
-terrain and improved services for greater numbers of skiers and riders.
+  terrain and improved services for greater numbers of skiers and riders.
 
 2003
 
 - **Timber Wolf double chairlift installed.** The addition of Timber Wolf (chair 2) on the Montana side of
-the mountain added five named runs and glades, boosted vertical drop to **1,150 feet** and opened
-spectacular views to
+  the mountain added five named runs and glades, boosted vertical drop to **1,150 feet** and opened
+  spectacular views to
 
 the St. Regis and Copper basins.
 
 2005
 
 - **Lodge expansion**. A three-story, 6,000 square foot addition greatly expands food service seating and
-includes a retail shop, more restrooms, locker rooms, the Loft pub and grub lounge on the top level and
-panoramic slopeside views.
+  includes a retail shop, more restrooms, locker rooms, the Loft pub and grub lounge on the top level and
+  panoramic slopeside views.
 
 2007
 
 - **North Star double chairlift installed.**North Star opens access to expert terrain on the prime north
-aspect of the mountain with expert terrain and a bird’s eye view of the Coeur d’Alene River Valley.
+  aspect of the mountain with expert terrain and a bird’s eye view of the Coeur d’Alene River Valley.
 
 2011
 
 - **Phase One of new expansion accepted.**In April the U.S. Forest Service accepted the first phase of a
-long-range plan to expand Lookout Pass.
+  long-range plan to expand Lookout Pass.
 
 2017
 
 - **Phase One of new expansion officially approved by the U.S. Forest Service.**Trails remarked in July by
-Phil Edholm so the forest service can perform a lumber survey. Lumber survey will take place in the fall
-of 2017. It is our hope that we can get two new trails cut & cleared and open for winter 2017-18. The other
-trails we hope will come on board the followng year or soon thereafter. In addition to the new trails there
-will be two new chairlifts and an additional Base Lodge with seperate road access and parking to serve the
-new and higher Eagle Peak area. This is the first phase of a long-range plan to expand Lookout Pass **to two
-additional peaks encompassing a total of 2,000 acres.**New roof added to Rentals Shop.
+  Phil Edholm so the forest service can perform a lumber survey. Lumber survey will take place in the fall
+  of 2017. It is our hope that we can get two new trails cut & cleared and open for winter 2017-18. The
+  other trails we hope will come on board the followng year or soon thereafter. In addition to the new
+  trails there will be two new chairlifts and an additional Base Lodge with seperate road access and
+  parking to serve the new and higher Eagle Peak area. This is the first phase of a long-range plan to
+  expand Lookout Pass **to two additional peaks encompassing a total of 2,000 acres.**New roof added to
+  Rentals Shop.
 
 2018
 
 - **Finish the season with 503 inches of snow! Though not a record, it is a very strong season.**Our summer
-attraction, The Route of the Hiawatha has set a new record for summer attendance!
+  attraction, The Route of the Hiawatha has set a new record for summer attendance!

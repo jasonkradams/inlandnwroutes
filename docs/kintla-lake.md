@@ -33,11 +33,10 @@ If you bring a boat you must have it inspected for invasive species at Apgar pri
 The boat inspection opens at 7:00 AM and is located across the street from the boat ramp.
 
 Information specific to Kintla CG. can be found here:
-[<https://www.nps.gov/applications/glac/cgstatus/camping>\_detail.cfm?cg=Kintla%20Lake
-](https://www.nps.gov/applications/glac/cgstatus/camping_detail.cfm?cg=Kintla%20Lake) The [Park CG.
-status](https://www.nps.gov/applications/glac/cgstatus/cgstatus.cfm) website page tells you by day and hour
-when the CG. filled up in the past. The Ranger station at the North entrance was able to confirm how many
-available spots there were at Kintla before we headed up the road.
+[<https://www.nps.gov/applications/glac/cgstatus/camping>\_detail.cfm?cg=Kintla%20Lake ](https://www.nps.gov/applications/glac/cgstatus/camping_detail.cfm?cg=Kintla%20Lake)
+The [Park CG. status](https://www.nps.gov/applications/glac/cgstatus/cgstatus.cfm) website page tells you by
+day and hour when the CG. filled up in the past. The Ranger station at the North entrance was able to
+confirm how many available spots there were at Kintla before we headed up the road.
 
 Here is the new status page for parking lots, camp grounds and weather:
 <https://www.nps.gov/applications/glac/dashboard/>
@@ -55,9 +54,9 @@ Paddle 6.4 miles and kayak camp at the Lake Head CG. Day hike to the upper lake 
 ## Option #3
 
 Camp at Kintla the first night so you can get an early start and do a multi day trip to Logan's Pass or hike
-to the southern end of [Waterton
-Lake](https://www.nationalgeographic.com/travel/parks/waterton-lakes-canada-park/#/36748.jpg) and catch the
-ferry and stay in the Hotel for the night.
+to the southern end of
+[Waterton Lake](https://www.nationalgeographic.com/travel/parks/waterton-lakes-canada-park/#/36748.jpg) and
+catch the ferry and stay in the Hotel for the night.
 
 ---
 
@@ -85,8 +84,7 @@ option too.
 
 ## Plan your trip
 
-[Click for Current NOAA Weather
-Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
+[Click for Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
 
 ## Photo gallery
 

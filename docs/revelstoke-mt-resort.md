@@ -59,8 +59,8 @@ elevations. The resort opened for the first time on December 22, 2007, with a go
 the mountain and a high speed quad known as The Stoke lapping trails on the upper portion of Mount
 MacKenzie. It was thought to be the biggest North American ski resort debut in twenty years. However, the
 event was overshadowed by the death of an [Edmonton](https://en.wikipedia.org/wiki/Edmonton) ski instructor
-who disappeared on the mountain's "Jalapeno" run and whose body was found in a [tree
-well](https://en.wikipedia.org/wiki/Tree_well) three days later on Christmas
+who disappeared on the mountain's "Jalapeno" run and whose body was found in a
+[tree well](https://en.wikipedia.org/wiki/Tree_well) three days later on Christmas
 Day.[[3]](https://en.wikipedia.org/wiki/Revelstoke_Mountain_Resort#cite_note-3)[[4]](https://en.wikipedia.org/wiki/Revelstoke_Mountain_Resort#cite_note-4)
 
 During the summer of 2008, further trail cutting in the "North Bowl" area extended the skiable area and
@@ -92,9 +92,9 @@ area from 1,350 to 2,300 m (4,430 to 7,550 ft). The chairlift was removed and re
 gondola, running from the original "base" area to the mid-mountain area, while a new four-person high-speed
 chairlift ran from that point almost to the top of the mountain. There are 2 on-mountain dining options,
 Makenzie Outpost, at the top of Revelation gondola, and Revelation Lodge at mid-mountain. On January 16,
-2007, RMR announced its purchase of local heli-ski operation [Selkirk Tangiers Helicopter Skiing
-Ltd.](http://www.selkirk-tangiers.com/) With this addition, the resort controls over 2,000 km2 (490,000
-acres) of heli-ski terrain with access from the resort base.
+2007, RMR announced its purchase of local heli-ski operation
+[Selkirk Tangiers Helicopter Skiing Ltd.](http://www.selkirk-tangiers.com/) With this addition, the resort
+controls over 2,000 km2 (490,000 acres) of heli-ski terrain with access from the resort base.
 Lifts[[edit](https://en.wikipedia.org/w/index.php?title=Revelstoke_Mountain_Resort&action=edit&section=3)]
 [Mount Begbie](https://en.wikipedia.org/wiki/Mount_Begbie) range seen from ski lift areaThe hill is accessed
 via the Revelation Gondola which rises from the base area through the mid-mountain station and allows access
@@ -108,5 +108,5 @@ the first
 
 season of RMR.
 
-The [ski lifts](https://en.wikipedia.org/wiki/Ski_lifts) at RMR can enable access to [North
-America](https://en.wikipedia.org/wiki/North_America)'s most vertical feet of lift accessed terrain.
+The [ski lifts](https://en.wikipedia.org/wiki/Ski_lifts) at RMR can enable access to
+[North America](https://en.wikipedia.org/wiki/North_America)'s most vertical feet of lift accessed terrain.

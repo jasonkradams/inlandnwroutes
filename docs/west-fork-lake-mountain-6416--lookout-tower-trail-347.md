@@ -45,6 +45,7 @@ notes:
 
 The hardest part of this nice hike is the drive from Rathdrum. it is a 2.5 hour drive. Begin this hike on
 Trail #21 for about a mile on an easy grade, and across 4 boardwalks to the junction with Trail
+
 #347.
 
 At the junction, turn left for 3 miles to West Fork Lake. Trail #347 has one bridge just after the junction.

@@ -9,14 +9,14 @@ Tools Tools you will need for excellent waterfall images.
 - A tripod---this is the most important tool in your quiver for great waterfall shots.
 
 - A cable release---it allows you to take long exposed images without camera shake as you release the
-shutter. You can use the delayed timer, but you can’t control the length of the exposure manually.
+  shutter. You can use the delayed timer, but you can’t control the length of the exposure manually.
 
 - A polarizing filter---I would highly recommend a B+W Polarizing Filter. They are superior to the normal
-polarizers on the market, for the money.
+  polarizers on the market, for the money.
 
 - A graduated neutral density filter---this filter is used to bring down the brightness of a section of an
-image. One half of this filter is clear glass, while the other half is tinted darker. Put the darker sIde
-over the lighter portion of the image to balance the light and exposure.
+  image. One half of this filter is clear glass, while the other half is tinted darker. Put the darker
+  sIde over the lighter portion of the image to balance the light and exposure.
 
 Because waterfalls are very bright, a camera cannot adequately capture them in a Program Mode. So switch to
 "manual" for this kind of image. As in any image you make in bright circumstances, the brighter part will

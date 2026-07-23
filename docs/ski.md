@@ -51,17 +51,16 @@ Naskali Lahti 1990 & Eino Nikkila 1966 1,700bc -1,700-1500BC Bronze Age rock car
 Aeskove Cultur. Also clay vessel with illustration of skier. 1,500bc -Southern Finland Riihamaki ski. Suomen
 Museo XXXV, 86-88 Toivo I Itkonen "Finlands Fornskidor" Pa Skidor (1937) and Eero Naskali 1990 & 2001 770bc
 
-- +/- 100 The Sysma Ski in Finland.  Curved edge underneath.   Eero Naskali 1990 & 2001
-450bc
+- +/- 100 The Sysma Ski in Finland. Curved edge underneath. Eero Naskali 1990 & 2001 450bc
 
-- 450+/-100 Liperi ski found 1897 in eastern Finland with flat sole and rounded boot space.  Eero Naskali
-Lahti 1990 200bc-200ad
+- 450+/-100 Liperi ski found 1897 in eastern Finland with flat sole and rounded boot space. Eero Naskali
+  Lahti 1990 200bc-200ad
 
-- 200BC-200AD China.  First known documentary reference to skiing from the West Han period.    In Chinese
-Shang Caizhen et al (Eds) "The History of Skiing in China." Wuhan: Chinese Ski Association and the Cultural
-and Historical Working Association of the States Sports in China 1993. In English see Liu Quilu and Liu
-Yueye, "Sports on Ice and Snow in Ancient China." In Matti Goksoyr et al (Eds) Winter Games Warm Traditions.
-Lillehammer: Ishpes, 1994 70-71
+- 200BC-200AD China. First known documentary reference to skiing from the West Han period. In Chinese Shang
+  Caizhen et al (Eds) "The History of Skiing in China." Wuhan: Chinese Ski Association and the Cultural
+  and Historical Working Association of the States Sports in China 1993. In English see Liu Quilu and Liu
+  Yueye, "Sports on Ice and Snow in Ancient China." In Matti Goksoyr et al (Eds) Winter Games Warm
+  Traditions. Lillehammer: Ishpes, 1994 70-71
 
 542 ad -Skis lined with badger skin and a pair of ancient bindings found at Mantta. Eero Naskali On Ancient
 Skis. 2nd Ski History conference 2001 c.900 Skis mentioned in a 16th century account by Bishop Oddur in
@@ -71,9 +70,8 @@ Iceland. Cited by Thorstein Einarsson. Winter Sport in Iceland. Matti Goksoyr. W
 
 600 -Written sources of skiing in the north – Procopius, Jordanes, Paulius Diaconus
 
-- 7th-10th Century – evidence in writing from China of skis used by central Asian people.
-618 -618-907 - The Chinese referred to Mongol-Turkish tribes: "The wooden-horse Turks are accustomed to skim
-over
+- 7th-10th Century – evidence in writing from China of skis used by central Asian people. 618 -618-907 - The
+  Chinese referred to Mongol-Turkish tribes: "The wooden-horse Turks are accustomed to skim over
 
 the ice on
 
@@ -89,43 +87,47 @@ Vaage. "Milepeler og merkedager giennom 4000 ar" Norske Skiloperer Ostlandet Nor
 Flaten "Wer war Skigud Ull? Arbok 995 -Olav Tryvasson boasted that he is "better on skis than other men"
 Snori Sturlason, Heimskringla: the Olaf Sagas. Trans: Samuel Lang, London Dent 1915 reprinted 1930 10
 
-1. -1000-1200 The poem "Lemminkainen Skiing after the Elk".  Eero Naskali Lahti.1990.   Using skis of
-different lengths, left (lyly) for gliding, right (kalhu) for kicking. Eero Naskali 1990. Helena Parviainen
-2004 1050 -Rune stones found from Ballingsta Falkner: "Schneesport an Schule" 1199 -Battle between
-Finnmarkers and Danes who used skis. Saxo Grammaticus: "History of Denmark." 1206 -The Birkebeiners,
-Thorstein Skevla and Skjervald Skrukka rescued the 2-year-old Prince Hakon Hakonson, heir to the throne,
-skiing over the Dovre mountains from Lillehammer to Osterdalen. Since 1932 the "Birkebeiner" race has been
-run along the supposed route from Rena to Lillehammer. "The Saga of King Hakon" c. 1270. Remembered best in
-the 1869 painting by Knut Bergslien. 1250 Kongsspielet, a Norwegian Book of Manners with a short section on
-skiing. The King’s Mirror."Translated by Laurence M Larson. New York.Twayne 1917 103/104
+1. -1000-1200 The poem "Lemminkainen Skiing after the Elk". Eero Naskali Lahti.1990. Using skis of different
+   lengths, left (lyly) for gliding, right (kalhu) for kicking. Eero Naskali 1990. Helena Parviainen 2004
+   1050 -Rune stones found from Ballingsta Falkner: "Schneesport an Schule" 1199 -Battle between
+   Finnmarkers and Danes who used skis. Saxo Grammaticus: "History of Denmark." 1206 -The Birkebeiners,
+   Thorstein Skevla and Skjervald Skrukka rescued the 2-year-old Prince Hakon Hakonson, heir to the
+   throne, skiing over the Dovre mountains from Lillehammer to Osterdalen. Since 1932 the "Birkebeiner"
+   race has been run along the supposed route from Rena to Lillehammer. "The Saga of King Hakon" c. 1270.
+   Remembered best in the 1869 painting by Knut Bergslien. 1250 Kongsspielet, a Norwegian Book of Manners
+   with a short section on skiing. The King’s Mirror."Translated by Laurence M Larson. New York.Twayne
+   1917 103/104
 
 1518 -Von Herbertstein travelled from Vienna to Moscow and described skiers in his book "Rerum Moskoviticum)
 published in
 
-1556.  The skiers carried one stick and had short skis.  Eino Nikkila 1966.
-1520 -Rules were promulgated about hunting on skis in Norway. Vaage. Skienes Verden. Oslo Hjemmenes 1979 251
-1521-2 -Fenno-Sweden’s Kustaa Eeriksson later the king Kustaa Vaasa (Gustav Vasa) led the fight of the Taala
-people against the Danish troops and they used skis. He also asked many of his warlords to equip troops with
-skis. Gustav Vasa had to fly on skis. Near Salen two farmers from Mora helped him and brought him on skis
-over 90km to Mora to found the Vasa dynasty to rule Sweden. The Vasaloppet, from Salen to Mora in Sweden was
-founded in 1922 to commemorate their journey. Eino Nikkila 1960 "The Story of the Ski." 1535 -Norwegian
-postal decrees were formulated. Vaage. Skienes Verden. 1539 -Publication of the Carta Marina (map of
-Finland) drawn by Olaus Magnus, a Swedish Catholic Bishop shows two men and a woman hunting on skis.
-Elfriede R Knauer "Die Carta Marina des Olaus Magnus von 1539" Gottingen Gratia 1981. 1550 -In the 1550s the
-situation on the Karelia isthmus was unsettled. A furious battle broke out late in the winter of 1555 in the
-district of Kivennapa. Ivan Bibikovin with Finnish ski troops led a Russian army of 5,000-6,000 men from the
-east along the Viipuri road to Kivennapa. Bailiff Juhana Matinpoika led 500 peasants including ski troops at
-the village of Joutselka. The Finns won the battle. Eino Nikkila "The Story of the Ski." 1966 1555 -Olaus
-Magnus, a Swedish Bishop, published his book "History of the People of Septentrionalibus". In 1567 it was
-published in German at Strasburg. An English translation by Peter Fisher and Humphrey Higgins, edited by
-Peter Foote, was published by the Hakluyt Society in 1966. 20 editions appeared translated into French,
-Italian, German and English. The woodcut illustrations were particularly useful. As people from Central
-Europe learnt about skiing from various publications, they began to travel further on skis and write about
-their journeys. Their accounts are mostly in museums. All over Scandinavia, in the Baltic countries and
-Russia there were soldiers trained to fight on skis. 1573 -Herman Fleming attacked Inkerinmaa. Some infantry
-and 900 peasants used skis. Eino Nikkila – "The Story of the Ski" 1966 1578 -"Sarmatiae Eurpeae Descriptio"
-by Alexander Guagnus has drawings of Russian skiers with skis just over 1meter long. Eino Nikkila "The Story
-of the Ski" 1966 1590 -c1590 The Hameenkyro ski found with raised footspace. Eero Naskali Lahti 1990
+1556. The skiers carried one stick and had short skis. Eino Nikkila 1966. 1520 -Rules were promulgated about
+      hunting on skis in Norway. Vaage. Skienes Verden. Oslo Hjemmenes 1979 251 1521-2 -Fenno-Sweden’s
+      Kustaa Eeriksson later the king Kustaa Vaasa (Gustav Vasa) led the fight of the Taala people
+      against the Danish troops and they used skis. He also asked many of his warlords to equip troops
+      with skis. Gustav Vasa had to fly on skis. Near Salen two farmers from Mora helped him and
+      brought him on skis over 90km to Mora to found the Vasa dynasty to rule Sweden. The Vasaloppet,
+      from Salen to Mora in Sweden was founded in 1922 to commemorate their journey. Eino Nikkila 1960
+      "The Story of the Ski." 1535 -Norwegian postal decrees were formulated. Vaage. Skienes Verden.
+      1539 -Publication of the Carta Marina (map of Finland) drawn by Olaus Magnus, a Swedish Catholic
+      Bishop shows two men and a woman hunting on skis. Elfriede R Knauer "Die Carta Marina des Olaus
+      Magnus von 1539" Gottingen Gratia 1981. 1550 -In the 1550s the situation on the Karelia isthmus
+      was unsettled. A furious battle broke out late in the winter of 1555 in the district of
+      Kivennapa. Ivan Bibikovin with Finnish ski troops led a Russian army of 5,000-6,000 men from the
+      east along the Viipuri road to Kivennapa. Bailiff Juhana Matinpoika led 500 peasants including
+      ski troops at the village of Joutselka. The Finns won the battle. Eino Nikkila "The Story of the
+      Ski." 1966 1555 -Olaus Magnus, a Swedish Bishop, published his book "History of the People of
+      Septentrionalibus". In 1567 it was published in German at Strasburg. An English translation by
+      Peter Fisher and Humphrey Higgins, edited by Peter Foote, was published by the Hakluyt Society
+      in 1966. 20 editions appeared translated into French, Italian, German and English. The woodcut
+      illustrations were particularly useful. As people from Central Europe learnt about skiing from
+      various publications, they began to travel further on skis and write about their journeys. Their
+      accounts are mostly in museums. All over Scandinavia, in the Baltic countries and Russia there
+      were soldiers trained to fight on skis. 1573 -Herman Fleming attacked Inkerinmaa. Some infantry
+      and 900 peasants used skis. Eino Nikkila – "The Story of the Ski" 1966 1578 -"Sarmatiae Eurpeae
+      Descriptio" by Alexander Guagnus has drawings of Russian skiers with skis just over 1meter long.
+      Eino Nikkila "The Story of the Ski" 1966 1590 -c1590 The Hameenkyro ski found with raised
+      footspace. Eero Naskali Lahti 1990
 
 1609 -1609-1617 Skitroops were used for scouting in Fenno-Sweden battle against Russia. 1616 -In the
 Glebovan village peace negotiations a Finnish warlord, Jaakko de la Gardie and a Netherlander, Antonis
@@ -134,27 +136,28 @@ Goeteeris describe how the village was guarded by skitroops. Eino Nikkila "The S
 1674 and German in 1675. The English version is John Shefferus "The History of Lapland" (Oxford). At the
 theater in Oxon
 
-1674.  Well known illustration of unequal length of skis.
-1682 -Second edition of Lapponia by Scheffer with drawings of hunters on skis (both skis the same length).
-Eino Nikkila "The Story of the Ski" 1966 1689 -Janez Vaikard Valvasor of Slovenia described people of the
-Bloke plateau using wooden boards to "swerve like snakes" to avoid obstacles when coming down steep slopes
-through snow. Ales Gucek In the Tracks of Oldtime Skiing. Johannes Weichard Valvasor Die Ehre des
-Hertsogthums Krain, Laibach. -Skade, goddess of skiing appears in Presten Jonas Ramus "Norig Regnum" Rune
-Flaten "Skiguddinnen Skade" Arbok (2000) ……………….. 1700 -1700-1721 Great Nordic War. Russians used ski troops
-when attacking the Karelia Isthmus. Eino Nikkila "The Story of the Ski" 1966. 1708 -In "Voyage vers le
-Septentrion" there are drawings of Samojedi hunters with short skis, turned up at both ends. Eino Nikkila.
-"The Story of the Ski" 1966. 1722 -Greenlanders pictured on skis. Hans Egde. 1733 -First rules for military
-on skis made by Jens Henrik Ernahusen (1688-1752). 1741 -First depiction of skier with two poles. P Hogstrom
-"Beschreibung von des unter schwedischer krone gehorigen Lappland". Trans Templin. Stockholm and Leipzig:
-von Rother. Leipzig 1748.
+1674. Well known illustration of unequal length of skis. 1682 -Second edition of Lapponia by Scheffer with
+      drawings of hunters on skis (both skis the same length). Eino Nikkila "The Story of the Ski"
+      1966 1689 -Janez Vaikard Valvasor of Slovenia described people of the Bloke plateau using wooden
+      boards to "swerve like snakes" to avoid obstacles when coming down steep slopes through snow.
+      Ales Gucek In the Tracks of Oldtime Skiing. Johannes Weichard Valvasor Die Ehre des Hertsogthums
+      Krain, Laibach. -Skade, goddess of skiing appears in Presten Jonas Ramus "Norig Regnum" Rune
+      Flaten "Skiguddinnen Skade" Arbok (2000) ……………….. 1700 -1700-1721 Great Nordic War. Russians
+      used ski troops when attacking the Karelia Isthmus. Eino Nikkila "The Story of the Ski" 1966.
+      1708 -In "Voyage vers le Septentrion" there are drawings of Samojedi hunters with short skis,
+      turned up at both ends. Eino Nikkila. "The Story of the Ski" 1966. 1722 -Greenlanders pictured
+      on skis. Hans Egde. 1733 -First rules for military on skis made by Jens Henrik Ernahusen
+      (1688-1752). 1741 -First depiction of skier with two poles. P Hogstrom "Beschreibung von des
+      unter schwedischer krone gehorigen Lappland". Trans Templin. Stockholm and Leipzig: von Rother.
+      Leipzig 1748.
 
-- The Governor of Kymenkartano and Nyland, K.J. Stjernstedt, ordered defending
-ski troops not to hesitate to attack but before the impact to withdraw and surround the enemy. Eino Nikkila.
-"The Story of the Ski" 1966. 1761 -Waxing mentioned by C Hals, Elverum. 1767 -Prizes for military ski
-competitions. 1775 -Literary reference to skiing in Germany. "Mineralogische Geschichte des sachsischen
-Erzgeberge." Hamburg 1775 cited by Fritz Benk. " Geschichte des Skilaufs". Innsbruck. Leopold-Franzen
-Universtat 1953 PhD thesis. Skiing is again mentioned in the Erzgebirge in 1804 in Kael August Engel
-"Erdbescheibung von Sachsen 1804" cited in Der Winter VII (January 1933) 106.
+- The Governor of Kymenkartano and Nyland, K.J. Stjernstedt, ordered defending ski troops not to hesitate to
+  attack but before the impact to withdraw and surround the enemy. Eino Nikkila. "The Story of the
+Ski" 1966. 1761 -Waxing mentioned by C Hals, Elverum. 1767 -Prizes for military ski competitions. 1775
+  -Literary reference to skiing in Germany. "Mineralogische Geschichte des sachsischen Erzgeberge."
+  Hamburg 1775 cited by Fritz Benk. " Geschichte des Skilaufs". Innsbruck. Leopold-Franzen Universtat 1953
+  PhD thesis. Skiing is again mentioned in the Erzgebirge in 1804 in Kael August Engel "Erdbescheibung von
+  Sachsen 1804" cited in Der Winter VII (January 1933) 106.
 
 1779 -Description of skis of unequal length (95cm short and 160 long) with sealskin. Nicolai Jonge
 Jordbeskrivelse. 1780 -Skiing recorded in Weardale, England approximately this date. Ski Notes & Queries,
@@ -176,26 +179,29 @@ Christiania technique. -Early 1800s. First ski-jumping competitions in Telemark 
 Eino Nikkila "The Story of the Ski"
 
 1966. 1803 -"The costume of Russian Empire" by Miller published in London has drawings of ostjak hunter with
-short skis and a stick with a spade tip. Eino Nikkila. " The Story of the Ski." 196. 1808 -1808-9 Ski troops
-fought the Nordic war between Sweden and Russia about Finland. Olaf Rye (1791-1849) recorded as having
-jumped 15 alen (c. 30ft) the start of keeping records. -1808-9 Mamiya Rinshu visited Japan and described and
-drew skiing in northern Hokkaido. "Hoku-Ezo zusetsu Description of the northern Ezo Hokkaido. Edo. 1855 in
-Anton Obholzer: Geschichte des Skis und Skistockes." Schorndof bei Stuttgart Hofmann. [1974
-17-18](tel:1974%2017-18) (sometimes called Rinzo Mamiya) 1812 -Napoleon’s forces during retreat were
-harrassed by Russians on skis. T.I Ramenskai Lyzhnyi vek Rossii. 3rd edition Moscow Svetskii Sport 1998 15
-and L.M. Butin Lyzhnyi Sport. Moscow Academia 2000. 12 (neither gives sources). 1815 -17 November – 1895
-Oscar Wergeland born Kristiansand NOR. Norwegian military officer, who trained his troops to ski and wrote
-two books. "Skilober-exercitie Efter Nutidens Stridsmaade, Skytterlag of Skoler Tilegnet." about how to ski.
-Kristiansand: Steen, 1863 and two years later his "Skilobning, dens Historie og Kreidgsanvendelse; nogle
-Bidrag dertil samt til Belysning af vore tidligere Vaernepliktsforhold. Christiania Schibsted." 1865.on skis
-and skiing in Norway Einar Sunde. "Oscar Wergeland: an Apostle for skiing". John Allen (Ed) International
-Ski History Congress 2002. 1825 -10 June – 9 March 1897. Sondre Norheim born Morgedal, NOR. Improved ski and
-bnding design. Introduced Telemark. Expert ski jumper. In 1868 won first ski competition in Christiania
-aged 42. Emigrated to Minnesota USA in 1884. Died North Dakota. 1827 -Snowshoe Thompson. 1827-1876 Born Jon
-Thorsteinson Rui Tinn in Norway. He learnt to ski as a child, emigrating to US aged 10 with his family. He
-skied in the Midwest and went to California in 1851, to work briefly as a gold miner, then bought a ranch
-west of Sacramento, and became mail carrier in 1855. He was already an accomplished Sierra skier, who made
-his own skis and taught himself to use them and in 1856 started his 90-mile route - Genoa, Nevada to
+      short skis and a stick with a spade tip. Eino Nikkila. " The Story of the Ski." 196. 1808
+      -1808-9 Ski troops fought the Nordic war between Sweden and Russia about Finland. Olaf Rye
+      (1791-1849) recorded as having jumped 15 alen (c. 30ft) the start of keeping records. -1808-9
+      Mamiya Rinshu visited Japan and described and drew skiing in northern Hokkaido. "Hoku-Ezo
+      zusetsu Description of the northern Ezo Hokkaido. Edo. 1855 in Anton Obholzer: Geschichte des
+      Skis und Skistockes." Schorndof bei Stuttgart Hofmann. [1974 17-18](tel:1974%2017-18) (sometimes
+      called Rinzo Mamiya) 1812 -Napoleon’s forces during retreat were harrassed by Russians on skis.
+      T.I Ramenskai Lyzhnyi vek Rossii. 3rd edition Moscow Svetskii Sport 1998 15 and L.M. Butin
+      Lyzhnyi Sport. Moscow Academia 2000. 12 (neither gives sources). 1815 -17 November – 1895 Oscar
+      Wergeland born Kristiansand NOR. Norwegian military officer, who trained his troops to ski and
+      wrote two books. "Skilober-exercitie Efter Nutidens Stridsmaade, Skytterlag of Skoler Tilegnet."
+      about how to ski. Kristiansand: Steen, 1863 and two years later his "Skilobning, dens Historie
+      og Kreidgsanvendelse; nogle Bidrag dertil samt til Belysning af vore tidligere
+      Vaernepliktsforhold. Christiania Schibsted." 1865.on skis and skiing in Norway Einar Sunde.
+      "Oscar Wergeland: an Apostle for skiing". John Allen (Ed) International Ski History
+Congress 2002. 1825 -10 June – 9 March 1897. Sondre Norheim born Morgedal, NOR. Improved ski and bnding
+      design. Introduced Telemark. Expert ski jumper. In 1868 won first ski competition in Christiania
+      aged 42. Emigrated to Minnesota USA in 1884. Died North Dakota. 1827 -Snowshoe Thompson.
+      1827-1876 Born Jon Thorsteinson Rui Tinn in Norway. He learnt to ski as a child, emigrating to
+      US aged 10 with his family. He skied in the Midwest and went to California in 1851, to work
+      briefly as a gold miner, then bought a ranch west of Sacramento, and became mail carrier
+in 1855. He was already an accomplished Sierra skier, who made his own skis and taught himself to
+      use them and in 1856 started his 90-mile route - Genoa, Nevada to
 
 Placerville
 
@@ -240,20 +246,20 @@ held in Trysil, NOR,
 1864 -Johannes Badrutt kept St Moritz open in winter and bet his English guests they would find it as sunny
 as in summer. He won his bet so St Moritz became a centre of winter sports.
 
-1. -Sondre Norheim demonstrated Telemark and Christiania at Iverslokkan, Norway ISHA.
--Konrad Wild brought Norwegian ski to Mitlodi, Glarus. Reported in Aftenbladet 10 February. -Deutsche
-Turnerschaft (German Gymnasts Federation) founded. 1870 -Sondre Norheim introduced the Telemark Ski at
-Christiania. -Skiing reported from the Otago goldfields in New Zealand. Warburton "Early New Zealand
-Ski-ing" "The Australian and New Zealand Ski Year Book." 1936 Jakob Vaage "Norske Ski erobar verden Oslo:
-Gyldendal" 1952, 218 citing "The New Zealand Railways Magazine. (1930.") -Competition on skis became an
-important part of life in Norway 1871 -An article in Aftenposten, (Oslo newspaper) reported that two
-brothers left Norway in June to work in Canada. One found work on the railroad between Mt Forest and
-Kincardine and the other between Mt Forest and Georgian Bay. In winter they both used skis regularly
-and‘have attracted attention by the speed they go’. The first nations people and other railroad workers were
-on snowshoes. This is considered to be the first evidence of skiing in Canada. E. John B Allen Plymouth
-State College NH USA – Canadian Journal of History of Sport Vol XVII No l May 1986. Carly S King, Curator,
-The Canadian Ski Museum, Ottawa ON Canada. 1871- 14 March 1954 E.C. Richardson born in Dumbarton, GBR.
-Visited Norway and Sweden 1894 Visited Davos in
+1. -Sondre Norheim demonstrated Telemark and Christiania at Iverslokkan, Norway ISHA. -Konrad Wild brought
+   Norwegian ski to Mitlodi, Glarus. Reported in Aftenbladet 10 February. -Deutsche Turnerschaft (German
+   Gymnasts Federation) founded. 1870 -Sondre Norheim introduced the Telemark Ski at Christiania. -Skiing
+   reported from the Otago goldfields in New Zealand. Warburton "Early New Zealand Ski-ing" "The
+   Australian and New Zealand Ski Year Book." 1936 Jakob Vaage "Norske Ski erobar verden Oslo: Gyldendal"
+   1952, 218 citing "The New Zealand Railways Magazine. (1930.") -Competition on skis became an important
+   part of life in Norway 1871 -An article in Aftenposten, (Oslo newspaper) reported that two brothers
+   left Norway in June to work in Canada. One found work on the railroad between Mt Forest and Kincardine
+   and the other between Mt Forest and Georgian Bay. In winter they both used skis regularly and‘have
+   attracted attention by the speed they go’. The first nations people and other railroad workers were on
+   snowshoes. This is considered to be the first evidence of skiing in Canada. E. John B Allen Plymouth
+   State College NH USA – Canadian Journal of History of Sport Vol XVII No l May 1986. Carly S King,
+   Curator, The Canadian Ski Museum, Ottawa ON Canada. 1871- 14 March 1954 E.C. Richardson born in
+   Dumbarton, GBR. Visited Norway and Sweden 1894 Visited Davos in
 
 1903,
 
@@ -291,15 +297,15 @@ measured nine feet long and six inches wide. An illustration shows Mr Birch on s
 News 1879 Submitted by Carly S King, Curator/Director. The Canadian Ski Museum Ottawa, ON Canada. 1880
 
 - 1880-1883 Monks, especially the Prior Henri Lugon, and a monastery servant on St Bernard Pass were given
-skis by a passing Norwegian and experimented with them. -Two brothers from Gorlitz skied on the Peterbaude
-in the Giant Mountains. -1880’s Lord Frederick Hamilton (brother-in-law and aide to Gov. General Lord
-Lansdowne) introduced skiing in the Ottawa ON area – as illustrated in a photograph of Archie Gordon on skis
-on the grounds of Rideau Hall. Collection, The Canadian Ski Museum, Ottawa ON Submitted by Carly S. King,
-Curator/ Director The Canadian Ski Museum, Ottawa ON Canada. -About this time skiers (mostly Norwegians
-studying mining and metallurgy in Clausthal-Zellerfeld) enjoyed skiing in the Harz Mountains. A Dr Krause
-brought 3 pairs of skis from Norway to Hirschberg. Falkner: Formation of Workers Ski Sport in Germany. 1881
--John F. Baddely founded Yukki Ski club at St Petersberg - the earliest English Skiclub. (drawing in Ski
-Club
+  skis by a passing Norwegian and experimented with them. -Two brothers from Gorlitz skied on the
+  Peterbaude in the Giant Mountains. -1880’s Lord Frederick Hamilton (brother-in-law and aide to Gov.
+  General Lord Lansdowne) introduced skiing in the Ottawa ON area – as illustrated in a photograph of
+  Archie Gordon on skis on the grounds of Rideau Hall. Collection, The Canadian Ski Museum, Ottawa ON
+  Submitted by Carly S. King, Curator/ Director The Canadian Ski Museum, Ottawa ON Canada. -About this
+  time skiers (mostly Norwegians studying mining and metallurgy in Clausthal-Zellerfeld) enjoyed skiing in
+  the Harz Mountains. A Dr Krause brought 3 pairs of skis from Norway to Hirschberg. Falkner: Formation of
+  Workers Ski Sport in Germany. 1881 -John F. Baddely founded Yukki Ski club at St Petersberg - the
+  earliest English Skiclub. (drawing in Ski Club
 
 of Great
 
@@ -564,99 +570,111 @@ over the ski when turning. Norheim and his friends formed a small pioneer group 
 the ski as they developed the first dynamic turns in downhill running, from 1850 to
 
 1900. 1882: Most high-quality Eurpean skis were made of strong, springy ash. In 1882, the first hickory skis
-produced in Norway. Hickory is so hard and tough that it was difficult to work with traditional hand tools.
-But with modern carbon-steel tools, Norwegian ski makers began turning out hickory skis. The tough wood made
-it possible to build a thinner, more flexible ski with good strength, and the hard base was less likely to
-gouge and scar enough to slow the ski down or cause it to sideslip during a downhill run. Hickory was
-imported at great expense from Louisiana, and Norwegian immigrants in Wisconsin and Minnesota very quickly
-figured out that, with easier access to lumber stocks, they could make excellent quality hickory skis more
-cheaply than their friends back in the old country could. By 1887 several Norwegian skimakers, like the
-Hemmestveit brothers, had relocated to the U.S. 1893: The first two-layer laminated ski was built by H.M.
-Christiansen, in Norway. Using a tough hickory or ash base with a lighter body of spruce or basswood made
-for a lighter, springier ski and reduced the need to carve up thick planks of expensive hardwoods. But the
-flexible hide glues then in use were not strictly waterproof, so the skis tended to delaminate after a few
-days’ hard use. Meanwhile, in Glarus, Switzerland, carpenter Melchior Jacober launches what is apparently
-the first ski factory in Central Europe. 1905: An alpine unit of the French Army undertook the first series
-production of a Telemark-style ski in France, at Briancon. 1926: The segmented steel edge, invented by
-part-time mountaineer Rudolph Lettner of Salzburg, Austria, gave skis much better grip on hard snow while
-still allowing the wood to flex naturally. However, the segments had to be screwed into the ski, and tended
-to come loose. Worse, edge segments could break in two. In that case, it was difficult or impossible to
-continue skiing. Skiers usually carried spare edge segments, along with a screwdriver, screws and glue, to
-make field repairs. 1928: Swiss ski racer Guido Reuge invents the Kandahar binding, using a spring-loaded
-cable to hold the heel down for alpine skiing. 1928: Solid aluminum ski prototyped in France. 1932: The
-first successful three-layer laminated skis were invented by Bjørn Ullevoldsaeter in Norway and
-independently by George Aaland in Seattle. Because they were made with really waterproof casein glues, the
-skis did not delaminate easily and lasted much longer. When it was found that skis with vertically laminated
-cores proved lighter, livelier, and stronger, sales took off. The first of these skis were marketed under
-the Splitkein ("split-cane") label in Norway and as Anderson & Thompson skis in the U.S. 1934: Limited
-production of solid aluminum ski by Joseph Vicky in France. 1936: Aluminum ski poles reach mass production
-in Saint-Ouen, France. 1937: R.E.D. Clark of Cambridge, England, developed the formaldehyde-based adhesive
-Aerolite to hold airplanes together– for instance, it was used in the all-wood deHavilland Mosquito bomber.
-Aerolite phenol glue is still manufactured by Ciba-Geigy. In 1941 he created Redux, used to bond aluminum
-and other impervious metals. 1944: Cellulix, the first cellulose plastic bottom, made to go on Dynamic skis
-in France. 1945: The Vought-Sikorsky aircraft company used Redux glue to create Metalite, a sandwich of
-aluminum with a plywood core, for use in airplane skins. Three Chance-Vought engineers, Wayne Pierce, David
-Richey and Arthur Hunt, used the process to build an aluminum-laminate ski with a wood core. A thousand
-pairs of the Truflex ski were made but when aircraft production picked up, the company dropped the project
-and did not release the patent. It was the first mass-produced aluminum ski. It was more easily flexed than
-a wood ski, less easily broken, scarred or damaged. It did not warp with use. 1946: The Gomme ski was
-produced by furniture-maker Donald Gomme in England. A laminated wood core was sandwiched between two top
-plastic layers and a bottom metal layer, with a wood veneer sole to hold wax. It was the first ski to use
-three different layered materials. Gomme-equipped racers failed to impress the world at the 1948 Olympics
-and Gomme returned to making furniture. 1947: Pierce, Richey and Hunt founded TEY Manufacturing to produce
-the aluminum Alu 60, a hollow aluminum ski consisting of nested hat-section channels on top and a flat
-aluminum plate on the bottom, all bonded together using Redux adhesive. It had drawbacks: The aluminum base
-stuck to soft snow and did not hold wax well, and the ski was essentially an undamped spring. The aluminum
-edges of the bottom plate wore out quickly. It was renamed Aluflex in 1948, its second year of production,
-and TEY shipped 12,000 pairs. But the undamped ski was nearly unskiable on hard snow, and the patent was
-sold to Johnny See-saw. TEY instead developed the first snowmaking gun, an immediate commercial success. In
-1955, the Aluflex patent was duplicated in Switzerland by Sikorsky engineer Serge Gagarin (TEY's sales
-agent) and assigned to Attenhofer; the ski was manufactured by Charles Dieupart in France. Eventually, with
-the addition of a wood core, the design evolved to become the Dynastar MV2. 1947: Howard Head, another
-aircraft engineer, created an aluminum sandwich ski with a lightweight plasticized-paper honeycomb core. The
-aluminum bottom had no steel edges. The ski was too light to track well, and broke easily when flexed.
-However, it worked well in powder and served as a prototype for the later successful Heads. 1948: TEY Tape,
-a self-adhesive cellulose plastic running surface, is invented by the TEY trio. It would adhere to either
-metal or wood skis. TEY tape did not stick to most snow and it could hold wax. It was sold as part of the
-Aluflex and also offered through ski shops for application to any ski. Disadvantage: TEY Tape was soft, and
-relatively easily ripped. 1948: Chris Hoerle of Torrington, Connecticut, created the stainless steel Chris
-ski, the first ski with a continuous, low-drag, integral steel edge. This edge was quickly adopted by Head.
-The Chris ski usually had a TEY tape base. Hoerle made about 200 pairs but the ski was never brought to
-market. 1949: Howard Head’s plywood-core, pressure-bonded aluminum Head Standard with continuous integral
-steel edge began its journey toward becoming the most commercially successful early metal ski. It had a
-plywood core glued under pressure and heat between top and bottom aluminum sheets with plastic sidewalls.
-The bottom sheet had a continuous full length steel edge. It was the first successful ski made of very
-different components. The secret to success was Bostik, a flexible contact cement that allowed the different
-layers to shear against each other without weakening. Head skis, along with competitors and imitators,
-supplanted at least half the wood skis by 1960. 1952: The first fiberglass-reinforced plastic ski, the Bud
-Phillips Ski, was not satisfactory enough to endure. The same applies to both the Holley Ski, created by Dan
-Holley of Detroit, and the Dynaglass ski by Dale Boison, both introduced in 1955. But these early attempts
-spread the idea of the possibility of a ski with more liveliness and less vibration than could be achieved
-with an aluminum ski. Designers saw that a fiberglass ski might be lighter and easier to turn than the best
-metal skis. 1954: The first polyethylene base is introduced in Austria by Kofler. Kofix proves slippery
-enough in most snow conditions to eliminate the need for wax. It is easy to repair minor scratches and
-gouges by melting more polyethylene into it. A similar material made by InterMontana in Switzerland is
-marketed under the brand name P-tex. Polyethylene is widely adopted by ski factories, and supplanted earlier
-plastic bases like Cellulix. With the addition of a polyethylene base, Howard Head introduces the final
-version of the Head Standard ski. 1954: Emile Allais, the pre-war world alpine champion, returns from five
-years working in North and South America, carrying several pairs of Head skis. He convinces Laurent
-Boix-Vives, new owner of Rossignol, to build the aluminum Metallais and Allais 60 aluminum skis, which
-revolutionize downhill racing beginning in 1959. 1959: The first successful plastic fiberglass ski was
-invented by Fred Langendorf and Art Molnar, in Montreal, and marketed under the Toni Sailer label. From then
-on, the concept spread rapidly. By 1968, fiberglass had supplanted both wood and aluminum for use in slalom
-racing skis and in most recreational skis. Aluminum laminates remained important for all high-speed skis (GS
-and downhill). Aluminum/fiberglass compound skis proved popular for recreational cruising and for use in
-deep powder. 1970: First fiberglass cross country skis introduced by John Lovett of Boulder, Colorado.
-1970s: Steady improvement in plastic materials. Prepreg fiberglass construction proves efficient but very
-expensive. S-glass supplants E-glass in wet lay-ups. Manufacturers mix small quantities of Kevlar, carbon
-fiber, ceramic fiber and other high-strength materials into fiberglass to help improve strength, resilience,
-damping, torsion – or simply to improve marketing buzz. Sintered polyethylene begins to supplant extruded
-polyethylene as a tough, wax-retentive, high-speed base material. 1989: Volant skis, the first commercially
-manufactured steel ski, introduced by Bucky Kashiwa. The factory fails in 2001 due to high labor costs and
-production is moved to Austria. Some of the Volant production equipment is bought by David Goode, who uses
-it to produce a ski made largely of carbon fiber. 1990: Elan and Kneissl build prototypes of deep-sidecut
-"shaped" skis, escaping from the classic Telemark geometry toward a generation of easy-carving skis. Also
-see <https://skiinghistory.org/history/evolution-ski-shape> Category: Ski Equipment Timeline
+      produced in Norway. Hickory is so hard and tough that it was difficult to work with traditional
+      hand tools. But with modern carbon-steel tools, Norwegian ski makers began turning out hickory
+      skis. The tough wood made it possible to build a thinner, more flexible ski with good strength,
+      and the hard base was less likely to gouge and scar enough to slow the ski down or cause it to
+      sideslip during a downhill run. Hickory was imported at great expense from Louisiana, and
+      Norwegian immigrants in Wisconsin and Minnesota very quickly figured out that, with easier
+      access to lumber stocks, they could make excellent quality hickory skis more cheaply than their
+      friends back in the old country could. By 1887 several Norwegian skimakers, like the Hemmestveit
+      brothers, had relocated to the U.S. 1893: The first two-layer laminated ski was built by H.M.
+      Christiansen, in Norway. Using a tough hickory or ash base with a lighter body of spruce or
+      basswood made for a lighter, springier ski and reduced the need to carve up thick planks of
+      expensive hardwoods. But the flexible hide glues then in use were not strictly waterproof, so
+      the skis tended to delaminate after a few days’ hard use. Meanwhile, in Glarus, Switzerland,
+      carpenter Melchior Jacober launches what is apparently the first ski factory in Central Europe.
+      1905: An alpine unit of the French Army undertook the first series production of a
+      Telemark-style ski in France, at Briancon. 1926: The segmented steel edge, invented by part-time
+      mountaineer Rudolph Lettner of Salzburg, Austria, gave skis much better grip on hard snow while
+      still allowing the wood to flex naturally. However, the segments had to be screwed into the ski,
+      and tended to come loose. Worse, edge segments could break in two. In that case, it was
+      difficult or impossible to continue skiing. Skiers usually carried spare edge segments, along
+      with a screwdriver, screws and glue, to make field repairs. 1928: Swiss ski racer Guido Reuge
+      invents the Kandahar binding, using a spring-loaded cable to hold the heel down for alpine
+      skiing. 1928: Solid aluminum ski prototyped in France. 1932: The first successful three-layer
+      laminated skis were invented by Bjørn Ullevoldsaeter in Norway and independently by George
+      Aaland in Seattle. Because they were made with really waterproof casein glues, the skis did not
+      delaminate easily and lasted much longer. When it was found that skis with vertically laminated
+      cores proved lighter, livelier, and stronger, sales took off. The first of these skis were
+      marketed under the Splitkein ("split-cane") label in Norway and as Anderson & Thompson skis in
+      the U.S. 1934: Limited production of solid aluminum ski by Joseph Vicky in France. 1936:
+      Aluminum ski poles reach mass production in Saint-Ouen, France. 1937: R.E.D. Clark of Cambridge,
+      England, developed the formaldehyde-based adhesive Aerolite to hold airplanes together– for
+      instance, it was used in the all-wood deHavilland Mosquito bomber. Aerolite phenol glue is still
+      manufactured by Ciba-Geigy. In 1941 he created Redux, used to bond aluminum and other impervious
+      metals. 1944: Cellulix, the first cellulose plastic bottom, made to go on Dynamic skis in
+      France. 1945: The Vought-Sikorsky aircraft company used Redux glue to create Metalite, a
+      sandwich of aluminum with a plywood core, for use in airplane skins. Three Chance-Vought
+      engineers, Wayne Pierce, David Richey and Arthur Hunt, used the process to build an
+      aluminum-laminate ski with a wood core. A thousand pairs of the Truflex ski were made but when
+      aircraft production picked up, the company dropped the project and did not release the patent.
+      It was the first mass-produced aluminum ski. It was more easily flexed than a wood ski, less
+      easily broken, scarred or damaged. It did not warp with use. 1946: The Gomme ski was produced by
+      furniture-maker Donald Gomme in England. A laminated wood core was sandwiched between two top
+      plastic layers and a bottom metal layer, with a wood veneer sole to hold wax. It was the first
+      ski to use three different layered materials. Gomme-equipped racers failed to impress the world
+      at the 1948 Olympics and Gomme returned to making furniture. 1947: Pierce, Richey and Hunt
+      founded TEY Manufacturing to produce the aluminum Alu 60, a hollow aluminum ski consisting of
+      nested hat-section channels on top and a flat aluminum plate on the bottom, all bonded together
+      using Redux adhesive. It had drawbacks: The aluminum base stuck to soft snow and did not hold
+      wax well, and the ski was essentially an undamped spring. The aluminum edges of the bottom plate
+      wore out quickly. It was renamed Aluflex in 1948, its second year of production, and TEY shipped
+      12,000 pairs. But the undamped ski was nearly unskiable on hard snow, and the patent was sold to
+      Johnny See-saw. TEY instead developed the first snowmaking gun, an immediate commercial success.
+      In 1955, the Aluflex patent was duplicated in Switzerland by Sikorsky engineer Serge Gagarin
+      (TEY's sales agent) and assigned to Attenhofer; the ski was manufactured by Charles Dieupart in
+      France. Eventually, with the addition of a wood core, the design evolved to become the Dynastar
+      MV2. 1947: Howard Head, another aircraft engineer, created an aluminum sandwich ski with a
+      lightweight plasticized-paper honeycomb core. The aluminum bottom had no steel edges. The ski
+      was too light to track well, and broke easily when flexed. However, it worked well in powder and
+      served as a prototype for the later successful Heads. 1948: TEY Tape, a self-adhesive cellulose
+      plastic running surface, is invented by the TEY trio. It would adhere to either metal or wood
+      skis. TEY tape did not stick to most snow and it could hold wax. It was sold as part of the
+      Aluflex and also offered through ski shops for application to any ski. Disadvantage: TEY Tape
+      was soft, and relatively easily ripped. 1948: Chris Hoerle of Torrington, Connecticut, created
+      the stainless steel Chris ski, the first ski with a continuous, low-drag, integral steel edge.
+      This edge was quickly adopted by Head. The Chris ski usually had a TEY tape base. Hoerle made
+      about 200 pairs but the ski was never brought to market. 1949: Howard Head’s plywood-core,
+      pressure-bonded aluminum Head Standard with continuous integral steel edge began its journey
+      toward becoming the most commercially successful early metal ski. It had a plywood core glued
+      under pressure and heat between top and bottom aluminum sheets with plastic sidewalls. The
+      bottom sheet had a continuous full length steel edge. It was the first successful ski made of
+      very different components. The secret to success was Bostik, a flexible contact cement that
+      allowed the different layers to shear against each other without weakening. Head skis, along
+      with competitors and imitators, supplanted at least half the wood skis by 1960. 1952: The first
+      fiberglass-reinforced plastic ski, the Bud Phillips Ski, was not satisfactory enough to endure.
+      The same applies to both the Holley Ski, created by Dan Holley of Detroit, and the Dynaglass ski
+      by Dale Boison, both introduced in 1955. But these early attempts spread the idea of the
+      possibility of a ski with more liveliness and less vibration than could be achieved with an
+      aluminum ski. Designers saw that a fiberglass ski might be lighter and easier to turn than the
+      best metal skis. 1954: The first polyethylene base is introduced in Austria by Kofler. Kofix
+      proves slippery enough in most snow conditions to eliminate the need for wax. It is easy to
+      repair minor scratches and gouges by melting more polyethylene into it. A similar material made
+      by InterMontana in Switzerland is marketed under the brand name P-tex. Polyethylene is widely
+      adopted by ski factories, and supplanted earlier plastic bases like Cellulix. With the addition
+      of a polyethylene base, Howard Head introduces the final version of the Head Standard ski. 1954:
+      Emile Allais, the pre-war world alpine champion, returns from five years working in North and
+      South America, carrying several pairs of Head skis. He convinces Laurent Boix-Vives, new owner
+      of Rossignol, to build the aluminum Metallais and Allais 60 aluminum skis, which revolutionize
+      downhill racing beginning in 1959. 1959: The first successful plastic fiberglass ski was
+      invented by Fred Langendorf and Art Molnar, in Montreal, and marketed under the Toni Sailer
+      label. From then on, the concept spread rapidly. By 1968, fiberglass had supplanted both wood
+      and aluminum for use in slalom racing skis and in most recreational skis. Aluminum laminates
+      remained important for all high-speed skis (GS and downhill). Aluminum/fiberglass compound skis
+      proved popular for recreational cruising and for use in deep powder. 1970: First fiberglass
+      cross country skis introduced by John Lovett of Boulder, Colorado. 1970s: Steady improvement in
+      plastic materials. Prepreg fiberglass construction proves efficient but very expensive. S-glass
+      supplants E-glass in wet lay-ups. Manufacturers mix small quantities of Kevlar, carbon fiber,
+      ceramic fiber and other high-strength materials into fiberglass to help improve strength,
+      resilience, damping, torsion – or simply to improve marketing buzz. Sintered polyethylene begins
+      to supplant extruded polyethylene as a tough, wax-retentive, high-speed base material. 1989:
+      Volant skis, the first commercially manufactured steel ski, introduced by Bucky Kashiwa. The
+      factory fails in 2001 due to high labor costs and production is moved to Austria. Some of the
+      Volant production equipment is bought by David Goode, who uses it to produce a ski made largely
+      of carbon fiber. 1990: Elan and Kneissl build prototypes of deep-sidecut "shaped" skis, escaping
+      from the classic Telemark geometry toward a generation of easy-carving skis. Also see
+      <https://skiinghistory.org/history/evolution-ski-shape> Category: Ski Equipment Timeline
 
 The Rich History of Rope Tows, Tramways and Ski Lifts on Mt. Spokane The first rope tow was invented in 1908
 in Germany’s Black Forest by Robert Winterhalder. It wasn’t until 1933 that Alec Foster installed the first
@@ -702,6 +720,7 @@ due south of the current radio towers on the summit of Mt. Spokane. Because of t
 tramway was often caked in rim ice. In 1948 the Spokane Mountaineers began construction of a 600' rope tow
 on their 40 acres on Mt. Spokane. By 1950 the new chalet was completed, and in 1962 the Ryker Rope Tow was
 lengthened to 1100'. It wasn't until 1955 that lodge #1 and chair #1 were constructed, and 1961 when lodge
+
 #2 and chair #2 was constructed
 
 For more information on Mt. Spokane's history, pick up a copy of The Friends of Mt. Spokane's, "Mt. Spokane
@@ -715,22 +734,22 @@ was apparently installed in 1933 by Alec Foster at
 [Montreal](https://en.m.wikipedia.org/wiki/Montreal), [Quebec](https://en.m.wikipedia.org/wiki/Quebec). It
 was quickly copied at [Woodstock, Vermont](https://en.m.wikipedia.org/wiki/Woodstock_(town),_Vermont) in
 [New England](https://en.m.wikipedia.org/wiki/New_England) in 1934 by Bob and Betty Royce, proprietors of
-the White Cupboard Inn. Their tow was driven by the rear wheel of a Ford [Model
-A](https://en.m.wikipedia.org/wiki/Ford_Model_A_(1927%E2%80%931931)). Wallace "Bunny" Bertram took it over
-for the second season, improved the operation, renamed it from Ski-Way to Ski
+the White Cupboard Inn. Their tow was driven by the rear wheel of a Ford
+[Model A](https://en.m.wikipedia.org/wiki/Ford_Model_A_(1927%E2%80%931931)). Wallace "Bunny" Bertram took it
+over for the second season, improved the operation, renamed it from Ski-Way to Ski
 Tow,[[3]](https://en.m.wikipedia.org/wiki/Ski_tow#cite_note-3) and eventually moved it to what became the
-eastern fringe of Vermont's major southern ski areas, a regional resort still operating today as [Suicide
-Six](https://en.m.wikipedia.org/wiki/Suicide_Six). Their relative simplicity—a car engine, some rope and a
-few pulleys were all that was needed—made ski tows widespread and contributed to an explosion of the sport
-in the United States and Europe. Before tows, only people willing to walk uphill could ski. Suddenly,
-relatively unathletic people could participate, greatly increasing the appeal of the sport. Within five
-years, more than 100 tow ropes were operating in North
+eastern fringe of Vermont's major southern ski areas, a regional resort still operating today as
+[Suicide Six](https://en.m.wikipedia.org/wiki/Suicide_Six). Their relative simplicity—a car engine, some
+rope and a few pulleys were all that was needed—made ski tows widespread and contributed to an explosion of
+the sport in the United States and Europe. Before tows, only people willing to walk uphill could ski.
+Suddenly, relatively unathletic people could participate, greatly increasing the appeal of the sport. Within
+five years, more than 100 tow ropes were operating in North
 America.[[4]](https://en.m.wikipedia.org/wiki/Ski_tow#cite_note-4)
 
 Brief History of Mt. Spokane State Park
 
 - 19th Century Long before Mt. Spokane State Park became a haven for winter and summer recreation, Native
-Americans considered the summit of Mt. Spokane an ideal site for spiritual pilgrimages.
+  Americans considered the summit of Mt. Spokane an ideal site for spiritual pilgrimages.
 
 - 1909-1912 Frances Cook, owner of the summit, builds a toll road and a cabin within 3/4 mile of the summit.
 
@@ -739,27 +758,28 @@ Americans considered the summit of Mt. Spokane an ideal site for spiritual pilgr
 - 1929 H. Cowles, Jr. donates 640 acres of land to the park.
 
 - 1930s The Spokane Ski Club, the Selkirk Ski Club, and the Spokane Mountaineers purchase over 500 acres on
-the mountain for construction of lodges, rope-tows, and ski jump hills. The road is completed to the summit.
+  the mountain for construction of lodges, rope-tows, and ski jump hills. The road is completed to the
+  summit.
 
 - 1933 Vista House is built by E.O Fieldstad, a local contractor. Caretaker’s cabin (which came to be known
-as Cook’s Cabin) is also built.
+  as Cook’s Cabin) is also built.
 
 - 1934 Civilian Conservation Corps sets up camp for 200 young unemployed men on Beauty Mtn. to improve the
-roads and construct other facilities.
+  roads and construct other facilities.
 
-- 1939 The Spokane Chapter of the Conservation League buys 320 acres for the
-Park for $1500 (south half of Section 21) to save virgin timber from logging and fire.
+- 1939 The Spokane Chapter of the Conservation League buys 320 acres for the Park for $1500 (south half of
+  Section 21) to save virgin timber from logging and fire.
 
 - 1940 The Grand Lodge is completed near Cook’s Cabin but burned to the ground just before an addition was
-finished in
+  finished in
 
 1952.
 
 - 1946 The first double chair lift in the world is put into operation on the south face of the summit for 3
-seasons.
+  seasons.
 
 - 1952 A master plan is proposed for the park which includes over 24,000 acres and designates all of Mt.
-Spokane proper for downhill ski purposes. This proposal is not implemented.
+  Spokane proper for downhill ski purposes. This proposal is not implemented.
 
 - 1953 KXLY-TV becomes operational from the summit.
 
@@ -768,43 +788,43 @@ Spokane proper for downhill ski purposes. This proposal is not implemented.
 - 1961 Concessionaire A.E.Mettler constructs Lodge #2 and Lift #2
 
 - 1965 Another master plan is developed by State Parks to include 11,592 acres of land, 958 of which were
-allocated for general outdoor recreation with the remainder to be administered as a "natural environment
-area." This plan is not adopted by the Parks Commission.
+  allocated for general outdoor recreation with the remainder to be administered as a "natural environment
+  area." This plan is not adopted by the Parks Commission.
 
 - 1974 Mt. Spokane Park’s official classification is changed from Recreation area to State Park, and the
-following philosophy is applied: "State Parks are to continuously service man’s spiritual, mental, and
-leisure time physical needs through the use of selected outstanding natural resources. this is to be
-accomplished by providing a full range of non-urban outdoor educational and recreational services and
-opportunities to a wide range of users with diversified interests and needs."
+  following philosophy is applied: "State Parks are to continuously service man’s spiritual, mental, and
+  leisure time physical needs through the use of selected outstanding natural resources. this is to be
+  accomplished by providing a full range of non-urban outdoor educational and recreational services and
+  opportunities to a wide range of users with diversified interests and needs."
 
 - 1978 A Coordinated Trail System plan is developed to, among other things, reduce conflicting recreational
-uses by specific allocation of park lands to user groups. The plan quickly became out of date and was never
-fully implemented.
+  uses by specific allocation of park lands to user groups. The plan quickly became out of date and was
+  never fully implemented.
 
 - 1985 The Parks Commission formally designates the Ragged Ridge Natural Area within Mt. Spokane State Park.
 
 - 1993 The Park contains about 13,643 acres of land, not including Quartz Mountain. Most of this land was
-donated or obtained during the Great Depression through property forfeitures. The Mt. Spokane State Park
-Alpine Ski Area Working Group Interface Subcommittee issues a report concerning the future of the Park.
-Among other things, it recommends a comprehensive planning process.
+  donated or obtained during the Great Depression through property forfeitures. The Mt. Spokane State Park
+  Alpine Ski Area Working Group Interface Subcommittee issues a report concerning the future of the Park.
+  Among other things, it recommends a comprehensive planning process.
 
 - 1994 State Parks proposes to classify areas of the Park as Natural Forest Areas. Several alternatives are
-proposed. The Mt. Spokane Planning Task Force Steering Committee is formed and issues its report. The group
-recommends a comprehensive planning process as well as the formation of a permanent, local Park advisory
-committee.
+  proposed. The Mt. Spokane Planning Task Force Steering Committee is formed and issues its report. The
+  group recommends a comprehensive planning process as well as the formation of a permanent, local Park
+  advisory committee.
 
 - 1995 Mt. Spokane State Park Advisory Committee appointed by Parks Commission begins monthly meetings in
-Spokane. Friends of Mt. Spokane State Park also formed.
+  Spokane. Friends of Mt. Spokane State Park also formed.
 
 - 1997 Mt. Spokane 2000, a non-profit group of local businesses and civic leaders, is approved as the new
-concessionaire for the alpine ski area to replace the Mt. Spokane Ski Corporation which operated the area
-for 20 years.
+  concessionaire for the alpine ski area to replace the Mt. Spokane Ski Corporation which operated the
+  area for 20 years.
 
 - 1999 A Classification and Management Plan (CAMP) process was completed for the Park. New land
-classifications approved including about 10% as Recreation Area, about 58% as Resource Recreation Area, less
-than 1% as Heritage Area, about 22% as Natural Forest Area, and about 4% as Natural Area Preserve. About 5%
-was left unclassified pending completion of an alpine ski area expansion plan and further Commission
-consideration.
+  classifications approved including about 10% as Recreation Area, about 58% as Resource Recreation Area,
+  less than 1% as Heritage Area, about 22% as Natural Forest Area, and about 4% as Natural Area Preserve.
+  About 5% was left unclassified pending completion of an alpine ski area expansion plan and further
+  Commission consideration.
 
 - 2010 Master Facilities Plan completed.
 
@@ -911,15 +931,15 @@ originator of Father's Day, unveiled the globe. As of 2011, the Sun Globe and it
 not known how long it stayed in
 place.[[3]](https://en.m.wikipedia.org/wiki/Mount_Spokane#cite_note-3)[[4]](https://en.m.wikipedia.org/wiki/Mount_Spokane#cite_note-4)[[5]](https://en.m.wikipedia.org/wiki/Mount_Spokane#cite_note-5)[[6]](https://en.m.wikipedia.org/wiki/Mount_Spokane#cite_note-6)
 
-1934 Vista House is built by the [Civilian Conservation
-Corps](https://en.m.wikipedia.org/wiki/Civilian_Conservation_Corps) crew from [Riverside State
-Park](https://en.m.wikipedia.org/wiki/Riverside_State_Park). 1935 CCC sets up camp on Beauty Mountain to
-improve the road and construct other facilities. 1939 The Spokane Chapter of the Conservation League buys
-320 acres (1.3 km²) for the park for $1500 (south half of Section 21) to save virgin timber from logging and
-fire. 1946 The first double chair lift in the world is put into operation on the south face of the
-summit.[[citation needed](https://en.m.wikipedia.org/wiki/Wikipedia:Citation_needed)] 1952 A master plan is
-proposed for the park which includes over 24,000 acres (97 km²) and designates all of Mt. Spokane proper for
-downhill ski purposes. This proposal is not implemented. 1953
+1934 Vista House is built by the
+[Civilian Conservation Corps](https://en.m.wikipedia.org/wiki/Civilian_Conservation_Corps) crew from
+[Riverside State Park](https://en.m.wikipedia.org/wiki/Riverside_State_Park). 1935 CCC sets up camp on
+Beauty Mountain to improve the road and construct other facilities. 1939 The Spokane Chapter of the
+Conservation League buys 320 acres (1.3 km²) for the park for $1500 (south half of Section 21) to save
+virgin timber from logging and fire. 1946 The first double chair lift in the world is put into operation on
+the south face of the summit.[[citation needed](https://en.m.wikipedia.org/wiki/Wikipedia:Citation_needed)]
+1952 A master plan is proposed for the park which includes over 24,000 acres (97 km²) and designates all of
+Mt. Spokane proper for downhill ski purposes. This proposal is not implemented. 1953
 [Kxly-tv](https://en.m.wikipedia.org/wiki/KXLY-TV) becomes operational from the summit. 1955 Lodge #1 and
 Chairlift #1 are constructed.
 
@@ -936,21 +956,21 @@ interests and needs. 1978 A coordinated trail system plan is developed to, among
 conflicting recreational uses by specific allocation of park lands to user groups. The plan quickly became
 out of date and was never fully implemented. 1985 The Parks Commission formally designates the Ragged Ridge
 Natural Area within Mt. Spokane State Park. 1993 The Park contains about 13,643 acres (55.2 km²) of land,
-not including Quartz Mountain. Most of this land was donated or obtained during the [Great
-Depression](https://en.m.wikipedia.org/wiki/Great_Depression) through property forfeitures. The Mt. Spokane
-State Park Alpine Ski Area Working Group Interface Subcommittee issues a report concerning the future of the
-Park. Among other things, it recommends a comprehensive planning process. 1994 State Parks proposes to
-classify areas of the Park as Natural Forest Areas. Several alternatives are proposed. The Mt. Spokane
-Planning Task Force Steering Committee is formed and issues its report. The group recommends a comprehensive
-planning process as well as the formation of a permanent, local Park advisory committee. 1995 Mt. Spokane
-State Park Advisory Committee appointed by Parks Commission begins monthly meetings in Spokane. Friends of
-Mt. Spokane State Park also formed. 1997 Mt. Spokane 2000, a non-profit group of local businesses and civic
-leaders, is approved as the new concessionaire for the alpine ski area to replace the Mt. Spokane Ski
-Corporation which operated the area for 20 years. 1999 A Classification and Management Plan (CAMP) process
-is started for the Park. New land classifications approved including about 10% as Recreation Area, about 58%
-as Resource Recreation Area, less than 1% as Heritage Area, about 22% as Natural Forest Area, about 4% as
-Natural Area Preserve, and about 5% as yet unclassified pending completion of the Ski Area Plan and further
-Commission consideration.
+not including Quartz Mountain. Most of this land was donated or obtained during the
+[Great Depression](https://en.m.wikipedia.org/wiki/Great_Depression) through property forfeitures. The Mt.
+Spokane State Park Alpine Ski Area Working Group Interface Subcommittee issues a report concerning the
+future of the Park. Among other things, it recommends a comprehensive planning process. 1994 State Parks
+proposes to classify areas of the Park as Natural Forest Areas. Several alternatives are proposed. The Mt.
+Spokane Planning Task Force Steering Committee is formed and issues its report. The group recommends a
+comprehensive planning process as well as the formation of a permanent, local Park advisory committee. 1995
+Mt. Spokane State Park Advisory Committee appointed by Parks Commission begins monthly meetings in Spokane.
+Friends of Mt. Spokane State Park also formed. 1997 Mt. Spokane 2000, a non-profit group of local businesses
+and civic leaders, is approved as the new concessionaire for the alpine ski area to replace the Mt. Spokane
+Ski Corporation which operated the area for 20 years. 1999 A Classification and Management Plan (CAMP)
+process is started for the Park. New land classifications approved including about 10% as Recreation Area,
+about 58% as Resource Recreation Area, less than 1% as Heritage Area, about 22% as Natural Forest Area,
+about 4% as Natural Area Preserve, and about 5% as yet unclassified pending completion of the Ski Area Plan
+and further Commission consideration.
 
 The world’s first double chairlift was built in 1946 in the same area as Chair 1. The lift was originally an
 ore carrier, converted by the Riblet Tramway Company to a double chairlift. You can see the bullwheel from
@@ -987,14 +1007,14 @@ Avalanche awareness The following are a few of the warning signs of unstable sno
 - The ground feels hollow underfoot.
 
 - You hear a "whumping" sound as you walk, which indicates that the snow is settling and a slab might
-release.
+  release.
 
 - Heavy snowfall or rain in the past 24 hours
 
 - Significant warming or rapidly increasing temperatures
 
 - You see surface patterns on the snow made by the force of strong winds. This could indicate that snow has
-been transported and deposited in dangerous drifts that could release.
+  been transported and deposited in dangerous drifts that could release.
 
 Get [Training.](http://www.avalanche.org/education.php)
 
@@ -1005,14 +1025,14 @@ Get [Training.](http://www.avalanche.org/education.php)
 - Snowpack - Recent avalanches, shooting cracks, and "whumpfing" are signs of unstable snow.
 
 - Trigger - Sometimes it doesn’t take much to tip the balance; people, new snow, and wind are common
-triggers.
+  triggers.
 
 - Determine if you are on or below slopes that can avalanche
 
 - Find out if the snow is stable
 
 - Get the Advisory: Refer to your [local avalanche center](http://www.avalanche.org/) for current snowpack
-conditions!
+  conditions!
 
 - Get the gear... and learn how to use it! Have these three avalanche safety essentials in your pack. :
 
@@ -1740,10 +1760,11 @@ technique is generally used by professional avalanche mitigation teams. training
 are necessary to employ backcountry slope cuts safely. Slope Cut Caveats
 
 - They work well on thin, soft slabs. They do not work well on deeper, or harder slabs (and should not be
-used!).
+  used!).
 
 - They can be dangerous and should only be performed on very small avalanche paths or test slopes. Test
-slopes are small, steep slopes that have minimal consequence to you or anyone below you if they avalanche.
+  slopes are small, steep slopes that have minimal consequence to you or anyone below you if they
+  avalanche.
 
 Slab A relatively cohesive snowpack layer.
 

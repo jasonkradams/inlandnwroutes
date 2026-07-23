@@ -48,6 +48,7 @@ Bear Lakes can be accessed via the Geiger Lakes trail and the Cabinet Divide Tra
 ## Directions
 
 About 20 miles south of Libby on Hwy 2, is the Sedlak Park. Turn south onto Silver Butte Fisher River Road
+
 #148 for 10
 miles to the trailhead.
 

@@ -37,8 +37,8 @@ name a few. Forty-seven percent of the Bitterroot National Forest (743,000 acres
 of the
 [Anaconda-Pintler](http://www.fs.usda.gov/detailfull/bitterroot/specialplaces/?cid=fseprd548261&width=full),
 [Selway-Bitterroot](http://www.fs.usda.gov/detailfull/bitterroot/specialplaces/?cid=fseprd548316&width=full),
-and/or [Frank Church-River of No Return
-Wilderness](http://www.fs.usda.gov/detailfull/bitterroot/specialplaces/?cid=fseprd548300&width=full).
+and/or
+[Frank Church-River of No Return Wilderness](http://www.fs.usda.gov/detailfull/bitterroot/specialplaces/?cid=fseprd548300&width=full).
 
 The natural world In response to the changing needs of society, land managers on the Bitterroot National
 Forest use the principles of multiple use and ecosystem management to develop their objectives. Based on the
@@ -71,30 +71,30 @@ Range. Drainages carved by glaciers form steep canyons that open into the valley
 natural resources offers a wide range of opportunities for recreation, grazing, wildlife, fisheries, timber,
 and minerals. Come enjoy the magnificent mountains, the serenity of wilderness, the miracle of spring
 flowers, majestic big game, and the sounds of birds here in our land of multiple uses. Get outdoors!
-Elevation ranges from 3,200 feet at the north end of the Bitterroot Valley to [Trapper
-Peak](http://www.idahosummits.com/trapper/trapper.htm) at 10,157 feet in the mountains on the south. In the
-Idaho portion of the Forest, elevations drop to about 2,600 feet along the [Selway
-River](http://www.nationalgeographic.com/selway/) and 2,200 feet on the[Salmon
-River.](http://www.nps.gov/rivers/wsr-salmon-main.html) Alpine lakes, mountain reservoirs, fast running
-streams and the meandering Bitterroot River offer anglers the opportunity to fish for brook, rainbow, and
-brown trout. Be sure to consult the current [Montana](http://fwp.mt.gov/fishing/regulations/default.html) or
-[Idaho](http://fishandgame.idaho.gov/) fishing regulations for details. The Bitterroot Forest is home to
-many species of wildlife, from mule deer, whitetail deer, elk, bighorn sheep, mountain goats, black bear,
-mountain lions, and moose, to many varieties of smaller animals and birds. Birders can check out the
+Elevation ranges from 3,200 feet at the north end of the Bitterroot Valley to
+[Trapper Peak](http://www.idahosummits.com/trapper/trapper.htm) at 10,157 feet in the mountains on the
+south. In the Idaho portion of the Forest, elevations drop to about 2,600 feet along the
+[Selway River](http://www.nationalgeographic.com/selway/) and 2,200 feet on
+the[Salmon River.](http://www.nps.gov/rivers/wsr-salmon-main.html) Alpine lakes, mountain reservoirs, fast
+running streams and the meandering Bitterroot River offer anglers the opportunity to fish for brook,
+rainbow, and brown trout. Be sure to consult the current
+[Montana](http://fwp.mt.gov/fishing/regulations/default.html) or [Idaho](http://fishandgame.idaho.gov/)
+fishing regulations for details. The Bitterroot Forest is home to many species of wildlife, from mule deer,
+whitetail deer, elk, bighorn sheep, mountain goats, black bear, mountain lions, and moose, to many varieties
+of smaller animals and birds. Birders can check out the
 [Montana Nature and Birding Trail](http://www.montanabirdingtrail.org/) in the Bitterroot. You can camp at
 eighteen developed campgrounds, hike or ride on more than 1,600 miles of trails, fish, hunt, white-water
 raft, boat, mountain bike, rock climb, horseback ride. Or for a more rugged adventure, check out one of the
 Wilderness Areas. Forty-seven percent of the Bitterroot National Forest (743,000 acres) is part of the
 [Anaconda-Pintler](http://www.wilderness.net/index.cfm?fuse=NWPS&sec=wildView&wname=Anaconda%20Pintler),
 [Selway-Bitterroot](http://www.wilderness.net/index.cfm?fuse=NWPS&sec=wildView&wname=Selway-Bitterroot),
-and[Frank Church-River of No Return
-Wilderness](http://www.wilderness.net/index.cfm?fuse=NWPS&sec=wildView&wname=Frank%20Church-River%20of%20No%20Return).
-A night spent in a Forest Service [fire lookout or
-cabin](http://www.fs.fed.us/r1/bitterroot/recreation/cabin_lookout/cabin_lookout_rental.shtml) can also be a
-unique, and memorable experience. [Winter
-Activities](http://www.fs.fed.us/r1/bitterroot/recreation/winter/skiing.shtml) The Bitterroot National
-Forest is no exception in providing winter recreation. Opportunities from the thrill of downhill skiing and
-snowmobiling, to the quiet solitude of cross-country skiing and snowshoeing are available.
+and[Frank Church-River of No Return Wilderness](http://www.wilderness.net/index.cfm?fuse=NWPS&sec=wildView&wname=Frank%20Church-River%20of%20No%20Return).
+A night spent in a Forest Service
+[fire lookout or cabin](http://www.fs.fed.us/r1/bitterroot/recreation/cabin_lookout/cabin_lookout_rental.shtml)
+can also be a unique, and memorable experience.
+[Winter Activities](http://www.fs.fed.us/r1/bitterroot/recreation/winter/skiing.shtml) The Bitterroot
+National Forest is no exception in providing winter recreation. Opportunities from the thrill of downhill
+skiing and snowmobiling, to the quiet solitude of cross-country skiing and snowshoeing are available.
 
 The natural world In response to the changing needs of society, land managers on the Bitterroot National
 Forest use the principles of multiple use and ecosystem management to develop their objectives. Based on the

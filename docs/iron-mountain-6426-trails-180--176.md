@@ -44,6 +44,7 @@ about Iron Mountain, is the trail is steep. You can choose the direction you wan
 you want to do the elevation gain or loss going up or down. From the Boulder Creek Road #628 Trailhead,
 choose your route. The NW route, Trail #180 leads to a series of switchbacks as it heads towards Iron
 Mountain Divide. Keep in mind, you gain 3420 verts in 6 miles. Once at Iron Mountain, continue SSE on Trail
+
 #180 until it meets with Trail #176, the Slate Ridge.
 
 At Trail #176, turn left (NE) and hike the Slate Ridge passed Buck Mountain and on to the trailhead and

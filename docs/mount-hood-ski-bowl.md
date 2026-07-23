@@ -39,9 +39,9 @@ Miles from spokane: ??? Other amenities: xc, tube, ss, sleigh rides, u.s. larges
 ## Description
 
 Mt Hood Skibowl is less than an hour from Portland and offers some of the best terrain on Mt. Hood. The ski
-area is known as [America’s Largest Night Ski
-Area](https://www.skibowl.com/winter-activities/skiing-snowboarding.html#NightRiding), with 36 lighted runs,
-69 day runs and has the most lit black diamond runs in Oregon.
+area is known as
+[America’s Largest Night Ski Area](https://www.skibowl.com/winter-activities/skiing-snowboarding.html#NightRiding),
+with 36 lighted runs, 69 day runs and has the most lit black diamond runs in Oregon.
 
 Offering terrain for all ability levels, the resort features an expansive outback area with choice gladed
 terrain, excellent steep slopes groomed to perfection by two state of the art winch cats, and two
@@ -72,10 +72,10 @@ national recognition after holding an official National Ski Association event.
 1935 Work began on the Historic Warming Hut located on the shelf between Lower and Upper Bowl at Skibowl. It
 was completed in 1937.
 
-1937 The first ropetow was installed at Skibowl by French Boyd. The [Historic Mid-Mountain Warming
-Hut](http://www.skibowl.com/winter/mt-hood-warming-hut) served as the bottom terminal and carried passengers
-halfway up Upper Bowl. Powered by an automobile engine, the tow was fast and riders held on with custom
-hooks. If you carried a gallon of gas to the top, you could ski for free.
+1937 The first ropetow was installed at Skibowl by French Boyd. The
+[Historic Mid-Mountain Warming Hut](http://www.skibowl.com/winter/mt-hood-warming-hut) served as the bottom
+terminal and carried passengers halfway up Upper Bowl. Powered by an automobile engine, the tow was fast and
+riders held on with custom hooks. If you carried a gallon of gas to the top, you could ski for free.
 
 1938 Raymond Hughes built Multorpor Mountain’s first rope tow. The tow was powered by a Dodge truck engine
 and operated on the run now called Raceway on Cascade Chair. The resort charged 5¢ per ride or $1 per day.

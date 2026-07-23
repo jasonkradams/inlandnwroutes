@@ -54,6 +54,7 @@ cross into the
 
 wilderness. In about .3 of a mile Trail #137 continues to the right. In 3 miles you will come to the
 junction with Trail
+
 #360. Bear left (south) for about a mile, You are at the Lower Sky Lake.
 
 ---

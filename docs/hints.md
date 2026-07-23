@@ -54,21 +54,21 @@ visitor, a more pleasant hiking or camping experience. There is no other feeling
 
 1. **Fire starter.**
 
-1. Waterproof  matches, lighters, small road flares (for winter conditions).
-There are commercial pastes, matches, and other types of fire starters on the market.
+1. Waterproof matches, lighters, small road flares (for winter conditions). There are commercial pastes,
+   matches, and other types of fire starters on the market.
 
 1. When in nature, you may notice the stringy lichen hanging from tree limbs. Beard lichen is an excellent
-fire starter, and can be used as a sponge for collecting water.
+   fire starter, and can be used as a sponge for collecting water.
 
 1. Another use for something we all have around the house is dryer lint. Wrap it in paper like a tube, in a
-ziplock baggie, or stuff into an extra light container. Keep them in your 14 essentials for emergency use.
-See "HINTS"
+   ziplock baggie, or stuff into an extra light container. Keep them in your 14 essentials for emergency
+   use. See "HINTS"
 
 1. **Rain gear, umbrella, poncho.**
 
 1. It is essential that you stay as dry as possible. Rain suits tend to be too hot, while ponchos have more
-breathing ability. An umbrella is my choice for any hike that may be raining or snowing. Always carry a
-large lawn bag with many paper towels folded up.
+   breathing ability. An umbrella is my choice for any hike that may be raining or snowing. Always carry
+   a large lawn bag with many paper towels folded up.
 
 1. The lawn bag can be used as rain gear, and weights very little.
 
@@ -77,9 +77,9 @@ large lawn bag with many paper towels folded up.
 1. These items are useful and necessary tools.
 
 1. ***A gps is not a replacement for a map & compas***S, and the knowledge to use them. Batteries die, but
-maps stay operational. Always have a copy of the National Forest Map, and topo map to the area you are
-hiking. A National Forest map, and a topo map are important for each member of the outing to have in case of
-separation or adverse weather conditions. They can be copied, and kept in a ziplock bag.
+   maps stay operational. Always have a copy of the National Forest Map, and topo map to the area you are
+   hiking. A National Forest map, and a topo map are important for each member of the outing to have in
+   case of separation or adverse weather conditions. They can be copied, and kept in a ziplock bag.
 
 1. If nothing else, PLEASE make a copy of the area you will be visiting, for each hiking partner.
 
@@ -90,52 +90,52 @@ separation or adverse weather conditions. They can be copied, and kept in a zipl
 1. **Extra food.**
 
 1. Always carry extra food, maybe in the form of energy bars, but always high in protein. Choose an energy
-bar that does not require a lot of water to digest. Change out often.
+   bar that does not require a lot of water to digest. Change out often.
 
 1. A way to tell if your energy/protein bars are a good choice, is to look at the carbohydrates in the bar.
-Then look at the proteins. The proteins should be higher then the carbs.
+   Then look at the proteins. The proteins should be higher then the carbs.
 
 1. My choice is a MET RX bar. They are available in the pharmacy at Walmart. They have 32 grams of protein
-and 19 vitamins and minerals.
+   and 19 vitamins and minerals.
 
 1. **Extra water or water purifier**
 
 1. Because water is not always available along some trails, carrying enough water is paramount. I often drop
-water bottles along an out and back route, so I don’t have to carry so much water the full distance. Mark
-location carefully. See "HINTS"
+   water bottles along an out and back route, so I don’t have to carry so much water the full distance.
+   Mark location carefully. See "HINTS"
 
 1. **Extra clothing**
 
 1. Socks come to mind as an important item to have in case your feet get wet. A micro-fiber cloth works well
-and dries quickly. Other items may include polar fleece jacket and/or pants, spare wool or fleece gloves,
-stocking caps, and face masks. See "HINTS"
+   and dries quickly. Other items may include polar fleece jacket and/or pants, spare wool or fleece
+   gloves, stocking caps, and face masks. See "HINTS"
 
 1. In the winter, I carry a Road Flare. They burn at 1500+°, and can start wet wood.
 
 1. **Paper towels & trowel**
 
 1. I suggest paper towels over toilet paper, because a blow is very messy. The USFS suggests that all human
-waste be buried at least 6 inches deep, AND AT LEAST 200 FEET FROM ANY WATER SOURCE. THAT INCLUES PEE.
+   waste be buried at least 6 inches deep, AND AT LEAST 200 FEET FROM ANY WATER SOURCE. THAT INCLUES PEE.
 
 1. I carry several ziplock bags of paper towels in my pack. They are light, and can be of great value, if
-needed.
+   needed.
 
 1. **Shelter**
 
 1. A piece of plastic sheeting and twine will suffice for a shelter if needed. However, a very light bivy
-tent is a good choice. There are other options to consider.
+   tent is a good choice. There are other options to consider.
 
 1. **Headlight & extra batteries**
 
 1. I date my batteries when I install them in my headlight. Modern LED/LCD/COB headlights don’t need spare
-bulbs, so a second headlight is advised. Check the batteries before every trip to make sure you will have
-light when needed. A COB type of headlight floods the view with way more lumens , hence I've noticed that
-depth of field and obstacles awareness is improved substantially. See "HINTS"
+   bulbs, so a second headlight is advised. Check the batteries before every trip to make sure you will
+   have light when needed. A COB type of headlight floods the view with way more lumens , hence I've
+   noticed that depth of field and obstacles awareness is improved substantially. See "HINTS"
 
 1. **Knife**
 
 1. I carry several sizes of knives. One for small work like cutting up apples, but a large one if I’m on a
-potential difficult hike. A large Bowie type knife can be used to make kindling. See "HINTS"
+   potential difficult hike. A large Bowie type knife can be used to make kindling. See "HINTS"
 
 1. **First aid kit**
 
@@ -144,12 +144,12 @@ potential difficult hike. A large Bowie type knife can be used to make kindling.
 1. Remember, you are responsible for yourself.
 
 1. Carry what you may need, and add as necessary. Feminine pads are great items to have in your first aid
-kit.
+   kit.
 
 1. Once on a week long ski trip in Kokanee Glacier National Park, one of the women started her period early.
-She was two weeks early, so she was in a bad way. We made a game of creating pads from the very sparse
-inventory of materials. It worked. And think of this... you could be a savior in case of a normal emergency.
-See "HINTS"
+   She was two weeks early, so she was in a bad way. We made a game of creating pads from the very sparse
+   inventory of materials. It worked. And think of this... you could be a savior in case of a normal
+   emergency. See "HINTS"
 
 1.
 
@@ -160,9 +160,9 @@ See "HINTS"
 1. **Sun tan lotion & sun protection**
 
 1. Make sure your sun tan lotion is always fresh, and close at hand. I prefer a large sun hat like Sunday
-Afternoon, Solaris, or Sun Blocker. 100% UVA/UVB/IRA sun glasses are wise. If you spend time on snow, side
-and nose shades on sun glasses will protect your eyes and nose from reflected rays. Snow blindness is a very
-serious affliction while out. See"HINTS".
+   Afternoon, Solaris, or Sun Blocker. 100% UVA/UVB/IRA sun glasses are wise. If you spend time on snow,
+   side and nose shades on sun glasses will protect your eyes and nose from reflected rays. Snow
+   blindness is a very serious affliction while out. See"HINTS".
 
 ###
 
@@ -569,39 +569,34 @@ for wet or rough ground, and a map with directions.
 **1. Extra food and water. Include high energy protein bars. In the Walmart pharmacy they sell 3 flavours of
 Premier Protein with 30 grams of protein. At least 1 extra quart of water.
 
-1. Extra clothing.
-Socks, gloves, umbrella, wool hat, rain hat, etc.
+1. Extra clothing. Socks, gloves, umbrella, wool hat, rain hat, etc.
 
-1. Fire starter.
-Store bought gels, fire matches, road flares. Flares burn at 1700 degrees and can start fires in the winter
-or wet conditions. Home made. Dryer lint stuffed into a very light container ( can add Vaseline to lint or
-cotton, a ziplock stuffed with paper towels or napkins, etc.
+1. Fire starter. Store bought gels, fire matches, road flares. Flares burn at 1700 degrees and can start
+   fires in the winter or wet conditions. Home made. Dryer lint stuffed into a very light container ( can
+   add Vaseline to lint or cotton, a ziplock stuffed with paper towels or napkins, etc.
 
-1. Matches or lighters.
-Waterproof container with striker, several lighters wrapped in Saran Wrap and stored in each pack pocket.
+1. Matches or lighters. Waterproof container with striker, several lighters wrapped in Saran Wrap and stored
+   in each pack pocket.
 
-1. Map.
-USFS Topo maps are best. Include Forest maps for overall view info. You can download FS maps on the web.
-Keep in ziplock bags so they don't get wet.
+1. Map. USFS Topo maps are best. Include Forest maps for overall view info. You can download FS maps on the
+   web. Keep in ziplock bags so they don't get wet.
 
-1. Compass.
-Use the type that have a clear plastic base for alignment and map info.
+1. Compass. Use the type that have a clear plastic base for alignment and map info.
 
-1. Headlight.
-Try several out to see what you like. LED lights are hard to see detail and depth on the trail. Old fashion
-lights are much more detailed. If LED, find one with an adjustable beam and power, like 100+ lums
-(brightness). I often put it around my neck
+1. Headlight. Try several out to see what you like. LED lights are hard to see detail and depth on the
+   trail. Old fashion lights are much more detailed. If LED, find one with an adjustable beam and power,
+   like 100+ lums (brightness). I often put it around my neck
 
 or in my
 
 hand to show more contrast on the trail. Carry a small one for in the tent, and extra batteries ( change out
 every 6 months so they are fresh.)
 
-1. Signalling devise.
-Whistle, very light weight flashing red rear bike light, and extra batteries. Signalling mirror.
+1. Signalling devise. Whistle, very light weight flashing red rear bike light, and extra batteries.
+   Signalling mirror.
 
-1.  Knife
-Light weight and small. For backpack trips, a hunting knife with a 6+ inch blade can be used to create
+1. Knife Light weight and small. For backpack trips, a hunting knife with a 6+ inch blade can be used to
+   create
 
 kindling and
 
@@ -609,28 +604,25 @@ firewood.
 
 Use a small log to smack the blade thru the wood.
 
-1. Emergency shelter.
-Space blanket, bivy sack, tarp, a very large garbage bag. Cut out arm and neck holes. Buy a Sunday Afternoon
-Hat online. As you hike, always keep in mind where rock overhangs or thick trees are to get out of the rain.
+1. Emergency shelter. Space blanket, bivy sack, tarp, a very large garbage bag. Cut out arm and neck holes.
+   Buy a Sunday Afternoon Hat online. As you hike, always keep in mind where rock overhangs or thick
+   trees are to get out of the rain.
 
-1. First Aid Kit.
-Every spring change out all ingredients so items are fresh. Include a roll of athletic tape and Second Skins
-for blisters. You can get them at Rite Aid. They are a lifesaver. Be sure to tell all on hike to let you
-know when hot spots or blisters occur ASAP. Don't let them get to an emergency, deal with them at first
-notice. Tampacs are great bleeding stoppers. See sewing kit.
+1. First Aid Kit. Every spring change out all ingredients so items are fresh. Include a roll of athletic
+   tape and Second Skins for blisters. You can get them at Rite Aid. They are a lifesaver. Be sure to
+   tell all on hike to let you know when hot spots or blisters occur ASAP. Don't let them get to an
+   emergency, deal with them at first notice. Tampacs are great bleeding stoppers. See sewing kit.
 
-1. Paper towels. Toilet
-Make up a ziplock bag full of paper towels for crapping. Add whips for clean up. Toilet paper blowouts are a
-bitch.
+1. Paper towels. Toilet Make up a ziplock bag full of paper towels for crapping. Add whips for clean up.
+   Toilet paper blowouts are a bitch.
 
-1. Sun protection.
-Sun glasses with side shades on snow will help you from getting snow blindness. Sunday Afternoon hat, sun
-screen SPF 50 ( change out every spring), zinc oxide to cover nose on glaciers or snow. Light weight
-propylene white gloves.
+1. Sun protection. Sun glasses with side shades on snow will help you from getting snow blindness. Sunday
+   Afternoon hat, sun screen SPF 50 ( change out every spring), zinc oxide to cover nose on glaciers or
+   snow. Light weight propylene white gloves.
 
-1.  Several plastic grocery bags
-I make copies of all my technical gear instructions ( stove, gps, water purifier, first aid instructions,
-etc.), in a ziplock bag. Store in essentials pouch. When stressed, it helps to have direction.
+1. Several plastic grocery bags I make copies of all my technical gear instructions ( stove, gps, water
+   purifier, first aid instructions, etc.), in a ziplock bag. Store in essentials pouch. When stressed,
+   it helps to have direction.
 
 15.****make sure every hiking partner has it all.** Once **on a trip, one of a couple got separated and the
 
@@ -642,7 +634,7 @@ the essentials leaving all in perl.
 
 ### I carry Aleve or Tylenol for light pain
 
-1.  **Common sense.**
+1. **Common sense.**
 
 Without common sense, things can get serious way to fast.
 

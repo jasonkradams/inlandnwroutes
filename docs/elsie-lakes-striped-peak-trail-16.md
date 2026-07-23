@@ -64,6 +64,7 @@ Walk about .4 miles to the next right turn and head down to Elsie Lake.
 
 After summiting Striped Peak and hiking SW on Trail #16, do not turn down Trail #106. Instead, continue on
 N.R. Trail
+
 #16 for about two miles to an intersection with 4 roads up on a barren knoll. Take the ORV trail NW that skirts Elsie
 Lakes on their west side. This road is about 1 mile down to the Big Creek Road. Turn right and walk .5 of a
 mile back to Elsie Lake.

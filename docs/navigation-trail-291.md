@@ -50,16 +50,18 @@ Trail is suffering from excessive fuel loading. Further along the trail, the mus
 displayed. See photos below. Part of the trail is close to the shore line for views. But as you get to the
 Navigation CG., the views explode all around you. The picnic table at Navigation CG was damaged, so take
 along sit pads. The remainder of the trail north is thru a thick forest, with two creeks to cross. Trail
+
 #291 terminates at F.R. 1013, about 3.5 miles NW of Upper Priest Lake
 
 .
 
 ## Directions
 
-At Nordman turn east onto Reeder Bay Road. Stay on the main road approx. 14 miles to [Beaver Creek
-Campground](https://www.fs.usda.gov/recarea/ipnf/recreation/recarea/?recid=6770). Turn right toward the
-campground then left uphill to the trailhead. Pull-through park available for trailers. North on Hwy 57, Hwy
-57 turns into graveled Forest Service Rd #302 approx. 4 miles past Nordman. Travel north on Rd.
+At Nordman turn east onto Reeder Bay Road. Stay on the main road approx. 14 miles to
+[Beaver Creek Campground](https://www.fs.usda.gov/recarea/ipnf/recreation/recarea/?recid=6770). Turn right
+toward the campground then left uphill to the trailhead. Pull-through park available for trailers. North on
+Hwy 57, Hwy 57 turns into graveled Forest Service Rd #302 approx. 4 miles past Nordman. Travel north on Rd.
+
 #302 approx. 14 miles until it turns into Rd. #1013 at the Granite Pass junction. The road to the trailhead is on the
 right side, located 5.5 miles up Rd. #1013. (1 mile past the Hughes Meadows turnoff.) Stock trailer parking
 available.

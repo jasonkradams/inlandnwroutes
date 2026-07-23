@@ -68,12 +68,12 @@ Items you need to have in your pack include the following (and there may be more
 - **Gorilla Tape:** Wrap about 3 yards around each of your hiking poles for quick field repairs.
 
 - **Airway Mask:** Needed if mouth-to-mouth resuscitation during CPR or other circumstances is required,
-protecting both parties from potential contamination.
+  protecting both parties from potential contamination.
 
 - **Prescription Medications:** **Do not** give anyone your prescription painkillers.
 
 - **Knowledge:** This is the most important item you can take into the mountains. **DO NOT GO UNTIL YOU HAVE
-THE KNOWLEDGE.**
+  THE KNOWLEDGE.**
 
 ## Wilderness Training & Preparation
 

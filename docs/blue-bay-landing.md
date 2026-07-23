@@ -61,12 +61,11 @@ Trail’s End Brewery, Mexican Food Factory, Moon Time, and Franklins Hoagies.
 
 ## Plan your trip
 
-[Click for Current NOAA Weather
-Conditions](https://forecast.weather.gov/MapClick.php?lat=47.6153&lon=-116.6789)
+[Click for Current NOAA Weather Conditions](https://forecast.weather.gov/MapClick.php?lat=47.6153&lon=-116.6789)
 
 !!! Warning
 
-    - Please everyone... heed this health alert
+- Please everyone... heed this health alert
 
     ![Picture](assets/images/5132025306p-2.jpg)
 
