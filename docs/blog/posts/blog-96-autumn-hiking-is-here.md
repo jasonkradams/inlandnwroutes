@@ -1,126 +1,78 @@
 ---
-title: "Blog #96: Autumn hiking is here"
+title: "Blog #96: Autumn Hiking is Here"
 date: 2025-09-22
 authors:
   - chic
   - david
 categories:
-  - Wildfire & Closures
+  - Trail Safety & Gear
 ---
 
-Below I will list the hikes in our region that will cause oohs and ahs at every turn.
-
-When you plan for Autumn hikes, please be sure to have extra clothes, food and water, and traction devises
-for your boots.
+Below I will list the hikes in our region that will cause oohs and ahs at every turn. When you plan for
+Autumn hikes, please be sure to have extra clothes, food, water, and traction devices for your boots.
 
 <!-- more -->
 
-By the end of September, you may find light snow on many trails. With the amount of foliage I have
-encountered, this Autumn may be the best fall colors in some time. Below are low land trails, that will
-offer fall colors.
+By the end of September, you may find light snow on many mountain trails. With the amount of foliage
+encountered this season, this Autumn promises some of the best fall colors in recent memory.
 
-Red Top Mountain and Hidden Lake. <https://www.inlandnwroutes.com/red-top-mountain-6266-trail-102.html> The
-hardest part of this hike is the drive. It’s about 3 hours to the trailhead, via Copeland, Idaho. Once on
-the trail, you will walk a forested ridge line, that lights up in the fall. The trail will hike to the top
-of Joe Peak, then down to Hidden Lake. All along the trail, the fall color will amaze you
+## Lowland & Scenic Fall Color Hikes
 
-Marie Creek Trail # 241
+- **Red Top Mountain & Hidden Lake:** [Red Top Mountain Guide](../../mountains/index.md). The hardest part
+  of this hike is the drive (~3 hours to trailhead via Copeland, Idaho). Once on the trail, you will walk
+  a forested ridge line that lights up in the fall, taking you to Joe Peak and down to Hidden Lake.
+- **Marie Creek Trail #241:** [Marie Creek Guide](../../trails/index.md). Located north of Wolf Lodge Bay.
+  Takes you along Marie Creek after walking through forest for ~1 mile to a washed-out creek crossing at 2
+  miles. On your return, check out the rock cliff campsite built from surrounding talus.
+- **Spokane County Conservation Futures Properties:** [Spokane County Conservation
+  Futures](../../trails/index.md). Spokane County features 17+ hiking areas offering easy to moderate
+  terrain through diverse habitats.
+- **Saltese Uplands & Flats:** [Saltese Flats Wetland Trail](../../trails/index.md). Features moderate
+  uphill hiking with views of Mica Peak and surrounding wetlands that color up earlier than high-country
+  routes.
+- **Wallace L. Forest Conservation Area (BLM):** Managed by the BLM, this 736-acre area features forest,
+  open grassy terrain, and an overlook above Wolf Lodge Bay. Includes a dock/picnic day-use area and a
+  preserved segment of the historic Captain John Mullan Road.
+- **John Finch Arboretum:** [Finch Arboretum
+  Info](https://my.spokanecity.org/urbanforestry/programs/finch-arboretum/). Located off I-90 in Spokane,
+  showcasing native trees, shrubs, and waterfalls along Garden Springs Creek. In mid-October, fallen
+  leaves carpet the area up to 6+ inches deep.
 
-<https://www.inlandnwroutes.com/marie-creek.html> This hike is located north of Wolf Lodge Bay, and takes
-you along Marie Creek after you walk thru the forest for about a mile. It is an easy hike to the washed out
-creek at about 2 miles. On your return hike, stop by the cliffs off to the right (north) of the open field,
-and look at the campsite built out of rocks from the near by cliffs.
+## Moderate Fall Hikes
 
-Spokane Conservation Future Properties
+- **Mount Spokane State Park:** [Mount Spokane
+  Info](https://parks.wa.gov/find-parks/state-parks/mount-spokane-state-park). Offers extensive trails
+  with autumn colors. Don't miss hiking to the summit Vista House or Quartz Mountain Fire Lookout for
+  exceptional views of Spokane and the valley.
+- **Riverside State Park:** [Riverside State Park
+  Info](https://parks.wa.gov/find-parks/state-parks/riverside-state-park). The Bowl and Pitcher loop
+  crosses a suspension bridge over the Spokane River, leading into black basalt rock formations that
+  contrast strikingly with autumn foliage.
 
-<https://www.inlandnwroutes.com/spokane-county-conservation-futures.html> In Spokane County you will find
-17+ hiking areas to choose from.
+## Strenuous High-Alpine Fall Hikes
 
-By clicking on the above url, it will take you to the Spokane County Futures Tax Properties, website. These
-properties are usually easy to moderate, and hike thru very diverse terrains all around Spokane County.
+The next two hikes are so incredible you won’t want to miss either of them:
 
-Saltese Uplands and Flats <https://www.inlandnwroutes.com/saltese-flats-wetland-trail.html> This hike has
-some up hill hiking but nothing serious. The views of Mica Peak and the surrounding wetlands, will light up
-earlier than the high country
+- **Upper & Lower Stevens Lakes, Idaho:** [Stevens Lakes Guide](../../lakes/index.md). Located 3.5 miles SSE
+  of Mullan, Idaho up Willow Creek (5 miles RT, 1,780' elevation gain). A rugged trail leading to dramatic
+  cirque lakes with unmatched fall colors.
+- **Lone Lake & the Upper Sanctuary:** [Lone Lake Guide](../../lakes/index.md). Offers views of Stevens Peak
+  (6,838'). Walk the west shoreline past a waterfall and stream into the Upper Sanctuary rock mounds for
+  spectacular fall vistas.
 
-Wallace L. Forrest Conservation Area
+## Scenic Autumn Drives
 
-url….. BLM wallace l forest conservation area The Wallace L.Forest Conservation Area is managed by the BLM.
-It contains 736 acres of forest and open grassy terrain, and has a cool overlook on its south border. On
-it’s west side, is a day use area with a dock and picnic area. The road that skirts the south side, was once
-Hwy 10, but now along the Wolf Lodge Bay is I-90. Way back in the NW corner is a small section of the famous
-Captain John Mullan Road.
+- **Hwy 20 (Newport to Boundary Dam):** Drives north along the Pend Oreille River with brilliant fall
+  colors. Be sure to stop at Sweet Creek Rest Area near Ione to view the waterfalls.
+- **Hwy 56 & Kootenai Falls:** Take Hwy 200 east from Sandpoint into Montana, then turn north on Hwy 56
+  between the Cabinet Mountain Wilderness and proposed Scotchman Peaks Wilderness, continuing east to
+  Kootenai Falls.
 
-The John Finch Arboretum
-
-<https://my.spokanecity.org/urbanforestry/programs/finch-arboretum/> As you drive west on I-90, headed
-towards Seattle, on your right, next to the freeway, as you are on the longup hill road is the wonderful
-John A, Finch Arboretum, to enjoy. This arboretum has every tree, shrub and bush that is native to our
-region. If you call the arboretum soon, you can find when they start raking up the fallen leaves. If you go
-just before they rake, the entire area is covered in 6+ inches of fallen leaves.
-
-Along Garden Springs Creek are a few small waterfalls. If you can make it by mid Roctober, you will be
-amazed.
-
-More moderate hikes
-
-Mount Spokane State Park
-
-<https://parks.wa.gov/find-parks/state-parks/mount-spokane-state-park>
-
-Mount Spokane has many trails that have great fall colors. Log onto the above url and examine their trail
-system. But don’t forget to hike to the summit. The Vista House and the views are exceptional. Don't miss
-the Quarts Mountain fire lookout, that has excellent views of Spokane and the valley.
-
-Riverside state park
-
-<https://parks.wa.gov/find-parks/state-parks/riverside-state-park>
-
-RSP is a very large area along the Spokane River. The Bowl and Pitcher hike crosses a bridge that spans the
-river. Once across, you will be hiking in a blackish basalt wonderland. When the colors are at their best,
-the contrast is amazing.
-
-Strenuous hikes
-
-The next two hikes are so incredible, you won’t want to miss either of them.
-
-Upper & Lower Stevens Lakes, Idaho
-
-<https://www.inlandnwroutes.com/upper-and-lower-stevens-lake.html>
-
-This hike is located 3.5 miles SSE of Mullan, Idaho, up Willow Creek. The hike to the upper lake is 5 miles
-round trip, with 1780 feet of gain. Don’t let the moderate distance and gain fool you. This trail is
-complicated to hike. The Fall colors at the lakes are the best in our region. But do not miss this hike in
-the next 30 days, providing it doesn’t snow or have a freeze event.
-
-At the bottom of the of this write up are three historical articles, worth reading.
-
-Lone Lake & the Upper Sanctuary
-
-<https://www.inlandnwroutes.com/lone-long-lake-lakes.html>
-
-Don’t miss this fall color hike. From the lake, looking SSE, is the most dynamic face of Stevens Peak 6838’
-After spending some time at the lake, walk the west shore line to the back of the lake and a small
-waterfall. The "trail" is near the waterfall, and skirts the small stream, up past a long pond. Walk the
-left side up into the Upper Sanctuary. Up in the Sanctuary, there are two rock mounds. Choose the right
-mound and you will be in awe. The face of Stevens Peak in the fall is more than spectacular.
-
-Cool drives
-
-Hwy 20 Drive north on Hwy 20 out of Newport, Wa. towards Boundary Dam. The entire drive, lights up in
-brilliant colors. Along the way, by Ione, DO NOT MISS the waterfalls at the Sweat Water Rest area.
-
-Hwy 56 Drive to Sandpoint, and take Hwy 200 into Montana. At about 17 miles turn north up Hwy 56. On the
-east side is the Cabinet Mountain Wilderness, while on the west side is the Proposed Scotchman Peaks
-Wilderness. When you get to Hwy 20 in Montana, take a right (east) to Kootenai Falls.
-
-Autumn hiking safety
-
-Because it’s Autumn, please dress for cold weather, and the possibility of rain or snow. Wear waterproof
-boots and carry traction devises, and be safe. A thermos of hot chocolate would be wise.
-
-Where ever you go, be safe and enjoy our fall colors.
+!!! warning "Autumn Hiking Safety Checklist"
+    - **Clothing:** Dress in warm, synthetic or wool layers; avoid cotton. Bring waterproof rain/snow gear.
+    - **Footwear & Traction:** Wear waterproof boots and carry traction devices (microspikes).
+    - **Essentials:** Bring a thermos of hot cocoa, extra food, water, headlamp, and navigation tools.
 
 David and I would like to thank you for reading and using our local website.
 
-Chic David
+Chic Burge & David Crafton
