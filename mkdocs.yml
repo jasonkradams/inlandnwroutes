@@ -185,6 +185,7 @@ nav:
   - May 05Th 2023: blog/posts/may-05th-2023.md
   - May 25Th 2024: blog/posts/may-25th-2024.md
   - National Forest Alerts Blm Alerts And Wildfire Info: blog/posts/national-forest-alerts-blm-alerts-and-wildfire-info.md
+  - Newsletter And Website Updates: newsletter-and-website-updates.md
   - November 19Th 2023: blog/posts/november-19th-2023.md
   - October 03Rd 2024: blog/posts/october-03rd-2024.md
   - October 16Th 2024: blog/posts/october-16th-2024.md
@@ -204,7 +205,6 @@ nav:
   - Usfs Other Age Closures Alertsncies: blog/posts/usfs-other-age-closures-alertsncies.md
   - Using Your Phone To Navigate A Hike: blog/posts/using-your-phone-to-navigate-a-hike.md
   - What Does A Rescue Look Like: blog/posts/what-does-a-rescue-look-like.md
-  - Newsletter And Website Updates: newsletter-and-website-updates.md
 - Flora & Wildlife:
   - Baker's Mariposa Lily: plants/bakers-mariposa-lily.md
   - Orange Day Lily: plants/orange-day-lily.md
@@ -213,7 +213,6 @@ nav:
   - Trees: trees.md
   - Western Moss Heather: plants/western-moss-heather.md
 - Lakes:
-  - lakes/index.md
   - Amber Lake Launch: paddle/amber-lake-launch.md
   - Anderson Lake / Thompson Lake Launch: paddle/anderson-lakethompson-lake-launch.md
   - Anthony Lakes Mountain Resort: ski/anthony-lakes-mt-resort.md
@@ -263,6 +262,7 @@ nav:
   - Lake Lenore Caves & Mesa: lake-lenore-caves--mesa.md
   - Lake Louise Ski Resort: ski/lake-louise-ski-resort.md
   - Lake O'Hara (6,939'): lake-ohara.md
+  - Lakes: lakes/index.md
   - Lakeview Launch: paddle/lakeview-launch.md
   - Lakeview Ranch: lakeview-ranch.md
   - Leigh Lake: leigh-lake.md
@@ -471,6 +471,8 @@ nav:
 - Trails & Scrambles:
   - 0Xeye Daisy: plants/0xeye-daisy.md
   - 13 Mile Canyon Trail 23: 13-mile-canyon-trail-23.md
+  - About: about/index.md
+  - About Us: about/about-us.md
   - Adages: adages.md
   - Alpine Laurel: plants/alpine-laurel.md
   - Alpine Sweet Vetch: plants/alpine-sweet-vetch.md
@@ -484,6 +486,8 @@ nav:
   - Basil Shrimp Poscuitto Ham Wraps: recipes/basil-shrimp-poscuitto-ham-wraps.md
   - Bear Grass: bear-grass.md
   - Bellflower: plants/bellflower.md
+  - Biography  Chic: about/biography--chic.md
+  - Biography  David: about/biography--david.md
   - Birdsfoot Trefoil: plants/birdsfoot-trefoil.md
   - Bishops Marina: paddle/bishops-marina.md
   - Bitterroot: bitterroot.md
@@ -508,6 +512,7 @@ nav:
   - Cliffst P Rock P: cliffst-p-rock-p.md
   - Columbia National Wildlife Refuge: columbia-national-wildlife-refuge.md
   - Colville National Forest: colville-national-forest.md
+  - Contact: about/contact.md
   - Crawford State Park & Gardner Cave: crawford-sp-gardner-cave.md
   - Cube Iron Mt: cube-iron-mt.md
   - Dark Throated Shooting Star: dark-throated-shooting-star.md
@@ -558,7 +563,6 @@ nav:
   - Idaho A Climbing Guide: idaho-a-climbing-guide.md
   - Idaho Trails Association: idaho-trails-association.md
   - Independence Creek: independence-creek.md
-  - Index: lakes/index.md
   - Index Page: index-page.md
   - Inland NW Routes Blog: blog/index.md
   - Inland Nw Hikers: inland-nw-hikers.md
@@ -572,6 +576,7 @@ nav:
   - Large Flowered Triteleia: plants/large-flowered-triteleia.md
   - Large Hop Clover: large-hop-clover.md
   - Lewis Monkey Flower: plants/lewis-monkey-flower.md
+  - Liability Release: about/liability-release.md
   - Little Guard Lookout: little-guard-lookout.md
   - Lolo National Forest: lolo-national-forest.md
   - Long Canyon Trail 16: long-canyon-trail-16.md
@@ -622,6 +627,7 @@ nav:
   - Rocks: rocks.md
   - Roosevelt Grove Of Ancient Cedars: plants/roosevelt-grove-of-ancient-cedars.md
   - Ross Creek Cedars: plants/ross-creek-cedars.md
+  - Route Title Here: route_template.md
   - Sagebrush Mariposa: plants/sagebrush-mariposa.md
   - Saint Johns Wort: plants/saint-johns-wort.md
   - Saltese Flats Wetland Trail: saltese-flats-wetland-trail.md
@@ -772,9 +778,9 @@ nav:
   - Whitewater Ski Resort: ski/whitewater-ski-resort.md
 - 14+ Essentials: 14-essentials.md
 - About:
-  - About: about/index.md
-  - 'Biography :: Chic': about/biography--chic.md
-  - 'Biography :: David': about/biography--david.md
-  - About Us: about/about-us.md
-  - Contact: about/contact.md
-  - Liability Release: about/liability-release.md
+  - 'Biography :: Chic': biography--chic.md
+  - 'Biography :: David': biography--david.md
+  - About Us: about-us.md
+  - Contact: contact.md
+  - Liability Release: liability-release.md
+
