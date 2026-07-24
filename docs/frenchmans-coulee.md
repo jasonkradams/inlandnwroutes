@@ -25,7 +25,7 @@ stats:
     topo
 - label: GPS
   icon: crosshairs-gps
-  value: 47° 08' 38" N 119° 59' 52" W
+  value: 47°08′38″ N 119°59′52″ W
 - label: Managing Agency
   icon: domain
   value: WDFW [509.765.6641](tel:509.765.6641)

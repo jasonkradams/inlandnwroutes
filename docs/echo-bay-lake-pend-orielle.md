@@ -24,7 +24,7 @@ stats:
   value: Farragut S. P., Idlewilde Bay, Bernard Peak topo
 - label: GPS
   icon: crosshairs-gps
-  value: 47°56’56"N 116°30’14"W
+  value: 47°56’56″N 116°30’14″W
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 208.446.1300

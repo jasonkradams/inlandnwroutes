@@ -94,7 +94,7 @@ dirt road to the Stevens
 Lakes/Lone
 
 Lake trailheads.. The Stevens and Lone Lake trail head is at a bend in the old rail road grade and it has a
-vault toilet. There is a smaller upper parking area at GPS: 47°27'03" N 115°46'06 W. Follow the road up West
+vault toilet. There is a smaller upper parking area at GPS: 47°27′03″ N 115°46'06 W. Follow the road up West
 Willow Creek for approximately one mile and park there. DO NOT GO WEST UP A VERY OLD ROAD. Take the Lone
 Lake Trail DUE SOUTH for a little over .1 of a mile, until you reach the first road/trail off to the right
 with a cairn marker. Take that road until you gain the ridge line. As you walk up the faint trail, it will

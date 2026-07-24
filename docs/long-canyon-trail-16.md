@@ -24,7 +24,7 @@ stats:
   value: 'IPNF-Kaniksu N. F., USGS: Smith Peak, Pyramid Peak, Shorty Peak'
 - label: GPS
   icon: crosshairs-gps
-  value: n48° 57’ 20.7" w116° 32’ 43.3"
+  value: n48° 57’ 2°0′.7″ w116° 32’ 43.3"
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 2-8.267.5561

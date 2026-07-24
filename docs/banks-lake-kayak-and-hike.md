@@ -17,7 +17,7 @@ stats:
   value: Steamboat Rock SW
 - label: GPS
   icon: crosshairs-gps
-  value: 47°52'02" N 119°05'54" W
+  value: 47°52′02″ N 119°05′54″ W
 - label: Grant County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 509.754.2011

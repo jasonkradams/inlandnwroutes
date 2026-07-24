@@ -13,7 +13,7 @@ stats:
     value: Detroit National Forest, Forest Map
   - label: Launch GPS
     icon: crosshairs-gps
-    value: 44°22'29" N 121°59'54" W
+    value: 44°22′29″ N 121°59′54″ W
   - label: Linn County Sheriff
     icon: shield-account
     value: 541.967.3950

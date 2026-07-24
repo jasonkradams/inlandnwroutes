@@ -5,7 +5,7 @@ tags:
 - label: Elevation icon: terrain value: 2030'
 - label: Length and Acreage icon: vector-square value: varies
 - label: Maps icon: map value: Spokane County Conservation Futures
-- label: Launch GPS icon: crosshairs-gps value: 47°41'53" n 117°02'29" w
+- label: Launch GPS icon: crosshairs-gps value: 47°41′53″ n 117°02′29″ w
 - label: Spokane County Sheriff icon: shield-account
 ## value: 509.477.2240
 ## Gateway Regional Park

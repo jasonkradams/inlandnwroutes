@@ -21,10 +21,10 @@ stats:
   value: Cranbrook 82 G/NE-NW
 - label: GPS
   icon: crosshairs-gps
-  value: Trailhead 49°38’01"N 115°30’42"W
+  value: Trailhead 49°38’01″N 115°30’42″W
 notes:
 - label: Summit GPS
-  value: 49°38’47"N 115°29’04"W
+  value: 49°38’47″N 115°29’04″W
 ---
 
 # Fisher Peak

@@ -21,7 +21,7 @@ stats:
     value: Coulee City topo map
   - label: GPS
     icon: crosshairs-gps
-    value: 47° 59' 45" N 119° 36' 53" W
+    value: 47°59′45″ N 119°36′53″ W
 ---
 
 # Dry Falls & Sun Lakes State Park

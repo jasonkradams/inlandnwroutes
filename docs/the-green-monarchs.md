@@ -23,7 +23,7 @@ stats:
   value: IPNF, Kaniksu N. F., Packsaddle Mountain Topo
 - label: GPS
   icon: crosshairs-gps
-  value: Trailhead. 48°05’ 53"N 116°17’ 28" W
+  value: Trailhead. 48°05’ 53″N 116°17’ 28" W
 - label: Ranger District
   icon: pine-tree
   value: Sandpoint R.D. 208.263.5111

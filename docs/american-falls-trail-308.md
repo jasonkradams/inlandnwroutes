@@ -24,7 +24,7 @@ stats:
   value: IPNF, Kaniksu NF, Continental Mountain Topo
 - label: GPS
   icon: crosshairs-gps
-  value: 48°53'45" N 116°57'51" W
+  value: 48°53′45″ N 116°57′51″ W
 - label: Ranger District
   icon: pine-tree
   value: Priest Lake RD (208.443.2512)

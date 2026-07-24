@@ -23,7 +23,7 @@ stats:
   value: IPNF - Kaniksu N.F., USGS - Shorty Peak & Smith Peak
 - label: GPS
   icon: crosshairs-gps
-  value: 48°53'46.0" N 116°38'41.5" W
+  value: 48°53′46.0″ N 116°38′41.5″ W
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561

@@ -23,7 +23,7 @@ stats:
   value: IPNF - Kaniksu N.F., USGS - The Wigwams, Roman Nose, ID
 - label: GPS
   icon: crosshairs-gps
-  value: Harrison Lake 48° 42’ 12.5"N 116° 37’ 23.4"W, Beehive Lake 48° 38’ 59.3"n
+  value: Harrison Lake 48° 42’ 1°2′.5″N 116° 37’ 2°3′.4″W, Beehive Lake 48° 38’ 59.3"n
     116° 37’ 25.0"w
 - label: Ranger District
   icon: pine-tree

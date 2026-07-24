@@ -71,7 +71,7 @@ tags:
 - label: Maps icon: map value: IPNF, Priest Lake Ranger District. 208.443.2512
 - label: GPS icon: crosshairs-gps
 
-## value: Granite 48°76’79" N 117°06’52" W. La Sota. 48°77'21" N 117°06'86" W
+## value: Granite 48°76’79" N 117°06’52" W. La Sota. 48°77′21″ N 117°06′86″ W
 
 ## Granite Falls  La Sota Fallsb
 

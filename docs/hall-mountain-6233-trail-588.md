@@ -23,7 +23,7 @@ stats:
   value: IPNF - Kaniksu N.F., USGS - Metaline Falls, and Pass Creek
 - label: GPS
   icon: crosshairs-gps
-  value: 48° 48’ 00.5" w 117° 13’ 49.4"
+  value: 48° 48’ 0°0′.5″ w 117° 13’ 49.4"
 - label: Ranger District
   icon: pine-tree
   value: Newport-Sullivan Ranger District 509.446.7500

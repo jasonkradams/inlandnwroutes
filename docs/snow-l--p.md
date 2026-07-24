@@ -26,7 +26,7 @@ stats:
   value: IPNF, Kaniksu N.F., Roman Nose USGS topo
 - label: GPS
   icon: crosshairs-gps
-  value: 48°49'57" N 116°34'17" W
+  value: 48°49′57″ N 116°34′17″ W
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. (208.267.5561)

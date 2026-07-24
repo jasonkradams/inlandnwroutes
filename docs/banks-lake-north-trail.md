@@ -22,7 +22,7 @@ stats:
     value: Monument Hills, Ephrata SW Topos
   - label: GPS
     icon: crosshairs-gps
-    value: 47°35'21" N 119°09'54" W
+    value: 47°35′21″ N 119°09′54″ W
   - label: Grant County Sheriff
     icon: shield-account
     value: CALL 911 FIRST or 509.754.2011

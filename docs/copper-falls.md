@@ -19,7 +19,7 @@ stats:
     value: Kaniksu N.F., Eastport topo Bonner Ranger District 208.267.5561
   - label: GPS
     icon: crosshairs-gps
-    value: 48°58'20" N 116°14'10" W
+    value: 48°58′20″ N 116°14′10″ W
 ---
 
 # Copper Falls

@@ -19,7 +19,7 @@ stats:
     value: Kaniksu N.F., Continental Mountain 208.443.7223
   - label: GPS
     icon: crosshairs-gps
-    value: Trailhead 48°53'53" N 116°57'59" W
+    value: Trailhead 48°53′53″ N 116°57′59″ W
 ---
 
 # American Falls

@@ -19,6 +19,6 @@ stories! We have lots of maps to point out where you may have had a Sasquatch si
 perfecting our pizza and craft beer recipes for many years and are ready to serve you great food and drink
 at the End of YOUR Trail! Bring your tribe!
 
-Address: N 47° 42' 41.2" w 116° 47' 26"
+Address: N 47°42′41.2″ w 116° 47' 26"
 
 [Learn More](https://www.trailsendbrewery.com)

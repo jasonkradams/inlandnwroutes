@@ -17,7 +17,7 @@ stats:
   value: Amber Lake Topo
 - label: Launch GPS
   icon: crosshairs-gps
-  value: '[47°20''56" N 117°42''52" W](https://goo.gl/maps/Mmzdi3YwCv7dyzcM6)'
+  value: '[47°20′56″ N 117°42′52″ W](https://goo.gl/maps/Mmzdi3YwCv7dyzcM6)'
 - label: Spokane County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 509.477.2240

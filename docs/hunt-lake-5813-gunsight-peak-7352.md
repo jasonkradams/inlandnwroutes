@@ -26,7 +26,7 @@ stats:
   value: IPNF - Kaniksu N.F., USGS - Mt Roothaan, Idaho
 - label: GPS
   icon: crosshairs-gps
-  value: 48°35’3.4"N 116°43’4.6"W
+  value: 48°35’3.4″N 116°43’4.6″W
 - label: Ranger District
   icon: pine-tree
   value: Sandpoint R.D. 208.263.5111

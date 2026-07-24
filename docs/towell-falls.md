@@ -19,7 +19,7 @@ stats:
     value: BLM Brochure
   - label: GPS
     icon: crosshairs-gps
-    value: Trailhead 47°00'51" N 117°56'36" W, Falls 46°58'58" N 117°55'55" W
+    value: Trailhead 47°00′51″ N 117°56′36″ W, Falls 46°58′58″ N 117°55′55″ W
 ---
 
 # Towell Falls

@@ -25,7 +25,7 @@ stats:
   value: IPNF - Kaniksu N.F., USGS - The Wigwams, ID
 - label: GPS
   icon: crosshairs-gps
-  value: Beehive Lake 48° 38’ 59.3"N 116° 37’ 25.0"W
+  value: Beehive Lake 48° 38’ 5°9′.3″N 116° 37’ 2°5′.0″W
 - label: Ranger District
   icon: pine-tree
   value: Sandpoint R.D. 208.263.5111

@@ -26,7 +26,7 @@ stats:
   value: IPNF-Kaniksu N. F., USGS-Roman Nose, The Wigwams, Smith Peak
 - label: GPS
   icon: crosshairs-gps
-  value: n48° 44’ 12.4" w116° 36’ 19.0"
+  value: n48° 44’ 1°2′.4″ w116° 36’ 19.0"
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561

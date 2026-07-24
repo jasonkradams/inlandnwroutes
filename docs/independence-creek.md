@@ -24,7 +24,7 @@ stats:
   value: IPNF, Lakeview, Faset Peak, Cathederal Rocks topos
 - label: GPS
   icon: crosshairs-gps
-  value: West Trailhead 47°53’50" N 116°25’14"N 116°25’14" W
+  value: West Trailhead 47°53’50" N 116°25’14″N 116°25’14" W
 - label: CdA River Ranger District
   icon: pine-tree
   value: 208.752.1221

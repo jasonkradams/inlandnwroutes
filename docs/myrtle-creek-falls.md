@@ -19,7 +19,7 @@ stats:
     value: I.P.N.F., Kootenai National Wildlife Refuge, Moravia topo
   - label: GPS
     icon: crosshairs-gps
-    value: 48°42'23" N 116°25'09" W
+    value: 48°42′23″ N 116°25′09″ W
 ---
 
 # Myrtle Creek Falls

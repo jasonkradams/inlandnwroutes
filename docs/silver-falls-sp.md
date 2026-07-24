@@ -10,7 +10,7 @@ tags:
 - label: Elevation icon: terrain value: 700 verts
 - label: Difficulty icon: speedometer value: easy
 - label: Maps icon: map value: Silver Falls State Park brochure
-- label: GPS icon: crosshairs-gps value: 44052'40" n 122039'22"
+- label: GPS icon: crosshairs-gps value: 4405°2′40″ n 122039'22"
 - label: Wild Rivers Ranger District icon: pine-tree value: 541.592.4000
 - label: Marion County Sheriff icon: shield-account
 ## value: CALL 911 FIRST or 541.588.5094

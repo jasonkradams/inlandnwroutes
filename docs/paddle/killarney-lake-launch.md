@@ -17,7 +17,7 @@ stats:
     value: IPNF, Lane Topo
   - label: Launch GPS
     icon: crosshairs-gps
-    value: 47°30’54"N 116°33’21"W
+    value: 47°30’54″N 116°33’21″W
   - label: Shoshone County Sheriff
     icon: shield-account
     value: 208.556.1114

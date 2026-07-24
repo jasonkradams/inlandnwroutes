@@ -17,7 +17,7 @@ stats:
   - label: Maps
     value: "Howser Creek Topo (82K/10)"
   - label: GPS Coordinates
-    value: "50°44'15"N, 116°45'45"W (Conrad Kain Hut)"
+    value: "50°44′15″N, 116°45′45″W (Conrad Kain Hut)"
 notes:
   - label: Alpine Club of Canada - Conrad Kain Hut Reservations
     url: https://www.alpineclubofcanada.ca/huts/conrad-kain-hut/

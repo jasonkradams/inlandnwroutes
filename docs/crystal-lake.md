@@ -26,7 +26,7 @@ stats:
   value: IPNF, Rochat Peak and BLM
 - label: GPS
   icon: crosshairs-gps
-  value: 47°22'40" N 116°22'55" W
+  value: 47°22′40″ N 116°22′55″ W
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000

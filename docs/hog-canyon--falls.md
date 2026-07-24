@@ -22,7 +22,7 @@ stats:
     value: BLM Fishtrap Brochure, & Cheney topo
   - label: GPS
     icon: crosshairs-gps
-    value: 47°21'67" N 117°49'72" W
+    value: 47°21′67″ N 117°49′72″ W
   - label: Managing Agency
     icon: domain
     value: BLM 509.536.1200

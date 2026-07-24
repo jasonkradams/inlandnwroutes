@@ -26,7 +26,7 @@ stats:
   value: IPNF-Kaniksu N. F., USGS Pyramid Peak
 - label: GPS
   icon: crosshairs-gps
-  value: 48° 48’ 15.6" N 116° 36’ 02.0" W
+  value: 48° 48’ 1°5′.6″ N 116° 36’ 0°2′.0″ W
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561

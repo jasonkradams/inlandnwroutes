@@ -26,7 +26,7 @@ stats:
   value: IPNF-Kaniksu N.F, The Wigwams
 - label: GPS
   icon: crosshairs-gps
-  value: 48° 39’ 57.4"N 116° 37’ 38.0"W
+  value: 48° 39’ 5°7′.4″N 116° 37’ 3°8′.0″W
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry 208.267.5561 & Sandpoint R.D. 208.263.5111

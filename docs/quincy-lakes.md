@@ -26,7 +26,7 @@ stats:
   value: W.D.F.& W., Columbia Wildlife Area, Babcock Bench
 - label: GPS
   icon: crosshairs-gps
-  value: 47°01'38" N 119°59'52" W
+  value: 47°01′38″ N 119°59′52″ W
 - label: Managing Agency
   icon: domain
   value: W.D.F.& W. & Columbia Basin Wildlife Area (509.765.6641)

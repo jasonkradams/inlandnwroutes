@@ -5,7 +5,7 @@ tags:
 - label: Lake Elevation icon: terrain value: aleces 3770'. whiteswan 3754
 - label: Maps icon: map value: whiteswan provitial park,
 - label: Launch GPS icon: crosshairs-gps
-## value: 50°08" 08’ "n 115° 29’ 26"w
+## value: 50°0′8″ 08’ "n 115° 29’ 26"w
 ## Whiteswan Provintial Park
 ## Description
 Alces Lake is the first lake you come to in the park. it is not deep, but the surrounding mountains make for

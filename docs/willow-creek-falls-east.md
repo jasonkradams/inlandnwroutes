@@ -8,7 +8,7 @@ tags:
   about .5 milesUpper falls is about 2.25 miles
 - label: Maps icon: map value: I.P.N.F., CDA River Ranger District 208.769.3000 & 208. 752.1221
 - label: GPS icon: crosshairs-gps
-## value: The Stevens Lakes and Lone Lake trailhead is 47°26'16" N 115°45'57" W
+## value: The Stevens Lakes and Lone Lake trailhead is 47°26′16″ N 115°45′57″ W
 ## Willow Creek Falls East
 ## Willow creek fall East
 ## Description

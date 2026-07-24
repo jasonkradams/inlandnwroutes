@@ -17,7 +17,7 @@ stats:
   value: IPNF / Kingston Topo
 - label: Launch GPS
   icon: crosshairs-gps
-  value: 47°33'08" N 116°22'00" W
+  value: 47°33′08″ N 116°22′00″ W
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114

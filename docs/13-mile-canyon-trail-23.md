@@ -24,7 +24,7 @@ stats:
     value: Colville National Forest, Thirteenmile Creek, Bear Mountain Topos
   - label: GPS
     icon: crosshairs-gps
-    value: 48°28'54" N 118°43'37" W
+    value: 48°28′54″ N 118°43′37″ W
   - label: Republic Ranger District
     icon: pine-tree
     value: 509.775.7400

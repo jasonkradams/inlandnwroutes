@@ -16,7 +16,7 @@ stats:
     value: Moses Lake S.
   - label: Launch GPS
     icon: crosshairs-gps
-    value: Potholes State Park 46°58'54" N 119°20'52" W, Perch Point Launch 46°59'50" N 119°16'1" W
+    value: Potholes State Park 46°58′54″ N 119°20′52″ W, Perch Point Launch 46°59′50″ N 119°16′1″ W
   - label: Grant County Sheriff
     icon: shield-account
     value: 911 or 509.754.2011

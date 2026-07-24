@@ -20,7 +20,7 @@ stats:
   value: I.P.N.F. Bonners Ferry Ranger District 208.267.5561, Roman Nose topo
 - label: GPS
   icon: crosshairs-gps
-  value: Trailhead 48°40'12" N 116°25'37" W, Falls 48°40'02" N 116°25'45" W
+  value: Trailhead 48°40′12″ N 116°25′37″ W, Falls 48°40′02″ N 116°25′45″ W
 ---
 
 # Upper & Lower Snow Creek Falls

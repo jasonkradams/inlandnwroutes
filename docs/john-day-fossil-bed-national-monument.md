@@ -12,7 +12,7 @@ tags:
 - label: Elevation icon: terrain value: minimal
 - label: Difficulty icon: speedometer value: easy
 - label: Maps icon: map value: J.D.F.B.N.M. Brochures
-- label: GPS icon: crosshairs-gps value: Thomas Condon Paleontology & Visitors Center 44° 31'10"N 119°
+- label: GPS icon: crosshairs-gps value: Thomas Condon Paleontology & Visitors Center 44°31′10″N 119°
   36'45" W.
 - label: John Day Fossil Bed National Monument icon: information-outline value: 541.987.2333
 - label: Wheeler County Sheriff icon: shield-account value: 541.763.4101
@@ -35,7 +35,7 @@ established trails. From the overlook, you can see foot prints from nearly a hun
 look just like yesterdays. For that reason, they ask that you respect the unusual terrain, and only look at
 it, and never walk on it. You will see by the images below.
 ## Option #1
-Clarno unit. 44°54'48" n 119°24'38" w The Clarno Unit is
+Clarno unit. 44°54′48″ n 119°24′38″ w The Clarno Unit is
 [located](https://www.nps.gov/joda/planyourvisit/maps.htm) 18 miles west of the town of Fossil, Oregon. The
 Palisades are the most prominent landform and are volcanic lahars, or mudflows, that formed 54-40 million
 years ago in a lush semi-tropical rainforest environment. Tiny four-toed horses, huge rhino-like
@@ -44,7 +44,7 @@ rocks of the Clarno Unit, has a diverse range of plant life, leaves, fruits, nut
 from 173 species of trees, vines, shrubs, and other plants have been found here thus far. ,Glimpses of
 fossilized plants can be seen along the cliff walls.
 ## Option #2
-SHeep rock unit. 44°32'55" n w19°38'04" The Sheep Rock Unit is
+SHeep rock unit. 44°32′55″ n w19°38′04″ The Sheep Rock Unit is
 [located](https://www.nps.gov/joda/planyourvisit/maps.htm) on Highway 19, between the towns of Kimberly and
 Dayville, Oregon. Prominant, non-fossil bearing rocks date back as far as 95 million years old. Fossils of
 plants and animals are found in a number of geological layers dating from 33 to 7 million years ago.
@@ -62,7 +62,7 @@ Basin Overlook (3.25 mile loop) This trail brings you to a spectacular vista ove
 Valley. It is dusty in places and may be impassable in wet weather. Moderate to strenuous with over 600 ft.
 elevation gain (and loss.)
 ## Option #3
-Thomas condon paleontology & visitors center. 44°43'10"n 119°36'45" w In 2005, the state of the art Thomas
+Thomas condon paleontology & visitors center. 44°43'10"n 119°36′45″ w In 2005, the state of the art Thomas
 Condon Paleontology Center opened to the public. Named after the prominent 19th-century Oregon scientist who
 first recognized the significance of the fossil beds and did the first scientific collection and study of
 specimens, the 11,000 square foot center greatly improved the monument's ability to serve both the public

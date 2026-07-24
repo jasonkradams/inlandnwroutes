@@ -23,7 +23,7 @@ stats:
   value: IPNF, Bayview, Spades Mountain topos
 - label: GPS
   icon: crosshairs-gps
-  value: South Chilco 47°51'59" N 116°33'15" W.
+  value: South Chilco 47°51′59″ N 116°33′15″ W.
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D 208.769.3000
@@ -31,7 +31,7 @@ stats:
   icon: shield-account
   value: CALL 911 FIRST or 208.446.1300
 notes:
-- label: North Chilco 47°53'30" N 116°31;47" W
+- label: North Chilco 47°53′30″ N 116°31;47" W
   url: '#'
 - label: Idaho Panhandle National Forests Alerts
   url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices

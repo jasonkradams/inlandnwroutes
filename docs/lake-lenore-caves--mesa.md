@@ -25,7 +25,7 @@ stats:
   value: Sun Lakes-Dry Falls State Park & WDFW, Banks Lake & Moses Lake topos
 - label: GPS
   icon: crosshairs-gps
-  value: 47°32’03"N 119°29’38"W
+  value: 47°32’03″N 119°29’38″W
 - label: Managing Agency
   icon: domain
   value: WDFW 509.486.7275

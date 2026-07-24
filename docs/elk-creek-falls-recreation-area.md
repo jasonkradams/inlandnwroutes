@@ -8,7 +8,7 @@ tags:
   is about .3 of a mile, and the upper falls is about .4 miles
 - label: Maps icon: map value: Clearwater National Forest, and the Palouse Ranger District. 208.875.1131
 - label: GPS icon: crosshairs-gps
-## value: 46°76’62" n 116°1820" w
+## value: 46°76’62" n 116°182′0″ w
 ## Elk Creek Falls Recreation Area
 ## Elk creek falls national recreation area trail #740, 745, 742, & 740a
 ## Description

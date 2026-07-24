@@ -25,7 +25,7 @@ stats:
   value: Lake O'Hara Trail Map - Yoho National Park, Canada
 - label: GPS
   icon: crosshairs-gps
-  value: 51°21'23.7"N 116°20'03.0"W
+  value: 51°21′23.7″N 116°20′03.0″W
 ---
 
 # Lake O'Hara (6,939')

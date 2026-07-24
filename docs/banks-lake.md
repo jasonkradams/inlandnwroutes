@@ -28,7 +28,7 @@ stats:
   value: Coulee Dam Area
 - label: GPS
   icon: crosshairs-gps
-  value: 47°49'45" N 119°08'01" W
+  value: 47°49′45″ N 119°08′01″ W
 - label: Grant County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 509.754.2011

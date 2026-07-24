@@ -23,7 +23,7 @@ stats:
   value: IPNF-Kaniksu N.F., Farnham, Moravia, Pyramid Peak
 - label: GPS
   icon: crosshairs-gps
-  value: 48°43'56.1" N 116°28'22.5" W
+  value: 48°43′56.1″ N 116°28′22.5″ W
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561

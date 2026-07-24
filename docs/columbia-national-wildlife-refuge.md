@@ -22,7 +22,7 @@ stats:
   value: USGS Soda Lake and O'Sullivan Dam
 - label: GPS
   icon: crosshairs-gps
-  value: 46° 53' 56.2" N 119° 15' 57.4" W
+  value: 46°53′56.2″ N 119°15′57.4″ W
 - label: Managing Agency
   icon: domain
   value: U.S. Fish & Wildlife Service [509.546.8300](tel:509.546.8300)

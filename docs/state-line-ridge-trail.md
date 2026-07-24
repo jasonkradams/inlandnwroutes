@@ -26,8 +26,8 @@ stats:
   value: IPNF & Mullan Topo
 - label: GPS
   icon: crosshairs-gps
-  value: 'Summer trailhead: 47°27''15" N 115°45''58" W. Winter trailhead: 47°27''56"
-    N 115°45''33" W'
+  value: 'Summer trailhead: 47°27′15″ N 115°45′58″ W. Winter trailhead: 47°27''56"
+    N 115°45′33″ W'
 - label: Ranger District
   icon: pine-tree
   value: CDA River Ranger District 208.769.3000

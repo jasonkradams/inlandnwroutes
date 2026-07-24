@@ -14,7 +14,7 @@ stats:
   value: Varies
 - label: Launch GPS
   icon: crosshairs-gps
-  value: 47°27'56" N 114°45'53" W
+  value: 47°27′56″ N 114°45′53″ W
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.446.1300

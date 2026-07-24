@@ -16,7 +16,7 @@ stats:
     value: Washington D.F. & G.
   - label: Launch GPS
     icon: crosshairs-gps
-    value: 48°13’48" n 117°17'23" w
+    value: 48°13’48" n 117°17′23″ w
   - label: Pend Orielle County Sheriff
     icon: shield-account
     value: 509.447.3151

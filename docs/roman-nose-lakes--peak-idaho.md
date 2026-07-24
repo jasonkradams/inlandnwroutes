@@ -25,7 +25,7 @@ stats:
   value: IPNF - Kaniksu N.F., Roman Nose USGS topo
 - label: GPS
   icon: crosshairs-gps
-  value: Roman Nose Lake 48°38'07"N 116°35'14"W (Peak 48°37'39"N 116°35'37"W)
+  value: Roman Nose Lake 48°38′07″N 116°35′14″W (Peak 48°37′39″N 116°35′37″W)
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. (208.267.5561)

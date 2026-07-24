@@ -7,7 +7,7 @@ tags:
 - label: Distance Car to Falls icon: map-marker-distance value: 1.5 mile RT
 - label: Maps icon: map value: Colville N.F., Colville topo
 - label: GPS icon: crosshairs-gps
-## value: 48'36'49" n 117°53'57" w
+## value: 48'3°6′49″ n 117°53′57″ w
 ## Douglas Falls Grange Parkb
 ## Douglas falls grange park
 ## Description

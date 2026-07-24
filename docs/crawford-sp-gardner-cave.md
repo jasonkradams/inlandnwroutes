@@ -21,7 +21,7 @@ stats:
     value: Washington State Parks & Rec.
   - label: GPS
     icon: crosshairs-gps
-    value: 48° 59' 46" N 117° 22' 15" W
+    value: 48°59′46″ N 117°22′15″ W
   - label: Managing Agency
     icon: domain
     value: Washington State Parks & Rec. [509.238.4258](tel:509.238.4258)

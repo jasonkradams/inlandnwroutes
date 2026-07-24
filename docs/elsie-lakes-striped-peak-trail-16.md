@@ -28,7 +28,7 @@ stats:
   value: IPNF, Wallace topo
 - label: GPS
   icon: crosshairs-gps
-  value: Elsie Lake 47°25’42"N 116°01’24"W Striped Peak. 47°26’23"N 115°59’45"W
+  value: Elsie Lake 47°25’42″N 116°01’24″W Striped Peak. 47°26’23″N 115°59’45″W
 - label: Ranger District
   icon: pine-tree
   value: cda river r.d. 208.769.3000

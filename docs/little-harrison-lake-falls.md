@@ -20,7 +20,7 @@ stats:
     value: IPNF-Kaniksu N.F., The Wigwams
   - label: GPS
     icon: crosshairs-gps
-    value: 48°39'41" N 116°39'18" W
+    value: 48°39′41″ N 116°39′18″ W
 ---
 
 # Little Harrison Lake Falls

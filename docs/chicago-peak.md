@@ -25,7 +25,7 @@ stats:
   value: Kootenai National Forest, Elephant Peak topo
 - label: GPS
   icon: crosshairs-gps
-  value: 48°04'26" N 115°41'12" W
+  value: 48°04′26″ N 115°41′12″ W
 - label: Ranger District
   icon: pine-tree
   value: Cabinet R.D. 406.827.3533

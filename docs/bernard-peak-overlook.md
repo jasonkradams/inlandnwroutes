@@ -19,7 +19,7 @@ stats:
     value: Farragut State Park brochures
   - label: GPS
     icon: crosshairs-gps
-    value: Visitors Center: 47°57'05" N 116°36'09" W
+    value: Visitors Center: 47°57′05″ N 116°36′09″ W
   - label: Ranger District
     icon: pine-tree
     value: CDA River R.D. 208.769.3000

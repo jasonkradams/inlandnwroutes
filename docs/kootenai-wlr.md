@@ -24,7 +24,7 @@ stats:
   value: Stop by refuge headquarters for a brochure, viewing guide, and restrooms.
 - label: GPS
   icon: crosshairs-gps
-  value: 48° 42' 25" N 116° 24' 54" W
+  value: 48°42′25″ N 116°24′54″ W
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. [208.267.5561](tel:208.267.5561)

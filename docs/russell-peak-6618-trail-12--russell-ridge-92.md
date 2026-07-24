@@ -23,8 +23,8 @@ stats:
   value: pyramid Peak & Farnham Peak
 - label: GPS
   icon: crosshairs-gps
-  value: 'Trail #12 N48° 49’ 13.8" W116° 32’ 40" & N48° 47’ 47.0" W116° 31’ 32.6",
-    Trail #92 N48° 48’ 34.4" w116° 32’ 27"'
+  value: 'Trail #12 N48° 49’ 1°3′.8″ W116° 32’ 40" & N48° 47’ 4°7′.0″ W116° 31’ 3°2′.6″,
+    Trail #92 N48° 48’ 3°4′.4″ w116° 32’ 27"'
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561

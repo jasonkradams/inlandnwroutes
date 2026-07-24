@@ -26,7 +26,7 @@ stats:
   value: IPNF, Lolo N.F., DeBorgia South topo
 - label: GPS
   icon: crosshairs-gps
-  value: 47°16'31" N 115°22'29" W
+  value: 47°16′31″ N 115°22′29″ W
 - label: Superior Ranger District
   icon: pine-tree
   value: 406.822.4233
