@@ -1,7 +1,7 @@
 ---
 tags:
 - Peaks & Mountains
-- Moderately Difficult
+- Moderate
 - Day Hiking
 - Backpacking
 - Equestrian
@@ -14,7 +14,7 @@ stats:
   value: 6 miles RT to peak, & 9 miles RT to lake
 - label: Elevation
   icon: terrain
-  value: "Peak 7122\u2019. Lake -1172\u2019"
+  value: Peak 7122’. Lake -1172’
 - label: Difficulty
   icon: speedometer
   value: moderately difficult
@@ -23,7 +23,7 @@ stats:
   value: IPNF, Kaniksu N.F., Roman Nose, Smith Peak, and the Wigwams.
 - label: GPS
   icon: crosshairs-gps
-  value: "48\xB045\u201954\" n 116\xB038\u201938\" w"
+  value: 48°45’54" n 116°38’38" w
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561

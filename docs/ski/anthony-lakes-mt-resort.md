@@ -1,6 +1,6 @@
 ---
 tags:
-- Winter & Skiing
+- Skiing & Snowshoeing
 - Lakes
 stats:
 - label: Summit Elevation

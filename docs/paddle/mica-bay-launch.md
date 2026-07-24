@@ -1,23 +1,23 @@
 ---
 tags:
-  - Lakes
-  - Paddling & Rivers
+- Lakes
+- Paddling
 stats:
-  - label: Paddle Distance
-    icon: map-marker-distance
-    value: Varies
-  - label: Elevation
-    icon: terrain
-    value: "2128'"
-  - label: Length and Acreage
-    icon: vector-square
-    value: Varies
-  - label: Launch GPS
-    icon: crosshairs-gps
-    value: 47°35’58" N 116°51’33" W
-  - label: Kootenai County Sheriff
-    icon: shield-account
-    value: 208.446.1300
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: Varies
+- label: Elevation
+  icon: terrain
+  value: 2128'
+- label: Length and Acreage
+  icon: vector-square
+  value: Varies
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 47°35’58" N 116°51’33" W
+- label: Kootenai County Sheriff
+  icon: shield-account
+  value: 208.446.1300
 ---
 
 # Mica Bay Launch

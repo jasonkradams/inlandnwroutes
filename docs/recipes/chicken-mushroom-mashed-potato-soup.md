@@ -1,7 +1,7 @@
 ---
-title: "Chicken Mushroom Mashed Potoaoe Soup"
+title: Chicken Mushroom Mashed Potoaoe Soup
 tags:
-  - recipes
+- Recipes
 ---
 
 # Chicken Mushroom Mashed Potoaoe Soup

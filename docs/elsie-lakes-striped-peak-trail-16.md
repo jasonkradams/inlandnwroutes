@@ -1,11 +1,11 @@
 ---
 tags:
 - Lakes
-- Moderately Easy
-- Dayhiking
+- Moderate
+- Day Hiking
 - Backpacking
 - Fishing
-- Floating
+- Paddling
 - Orving
 stats:
 - label: Event Type
@@ -28,8 +28,7 @@ stats:
   value: IPNF, Wallace topo
 - label: GPS
   icon: crosshairs-gps
-  value: "Elsie Lake 47\xB025\u201942\"N 116\xB001\u201924\"W Striped Peak. 47\xB0\
-    26\u201923\"N 115\xB059\u201945\"W"
+  value: Elsie Lake 47°25’42"N 116°01’24"W Striped Peak. 47°26’23"N 115°59’45"W
 - label: Ranger District
   icon: pine-tree
   value: cda river r.d. 208.769.3000

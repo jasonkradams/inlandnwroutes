@@ -1,6 +1,6 @@
 ---
 tags:
-- Winter & Skiing
+- Skiing & Snowshoeing
 stats:
 - label: Phone
   icon: phone

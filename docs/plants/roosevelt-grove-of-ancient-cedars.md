@@ -1,7 +1,7 @@
 ---
-title: "Roosevelt Grove Of Ancient Cedars"
+title: Roosevelt Grove Of Ancient Cedars
 tags:
-  - plants
+- Flora & Plants
 ---
 
 # Roosevelt Grove Of Ancient Cedars

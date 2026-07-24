@@ -1,7 +1,7 @@
 ---
 tags:
 - Peaks & Mountains
-- Moderately Difficult
+- Moderate
 - Day Hiking
 - Backpacking
 - Equestrian
@@ -23,7 +23,7 @@ stats:
   value: Colville N.F., Abercrombie Topo
 - label: GPS
   icon: crosshairs-gps
-  value: "48\xB056\u201936\" n 117\xB025\u201949\" w"
+  value: 48°56’36" n 117°25’49" w
 - label: Managing Agency
   icon: domain
   value: Three Rivers R.D. 509.738.6111

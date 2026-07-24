@@ -1,7 +1,7 @@
 ---
 tags:
 - Lakes
-- Hiking
+- Day Hiking
 - Backpacking
 - Scrambling
 stats:
@@ -13,8 +13,7 @@ stats:
   value: About 9.2 miles RT
 - label: Elevation Gain
   icon: elevation-rise
-  value: "To Beehive L 2041\u2019 + 264\u2019 to ridge between. Drop 475\u2019 to\
-    \ L.H.L."
+  value: To Beehive L 2041’ + 264’ to ridge between. Drop 475’ to L.H.L.
 - label: Acres
   icon: vector-square
   value: '2.6'
@@ -26,7 +25,7 @@ stats:
   value: IPNF-Kaniksu N.F., The Wigwams
 - label: GPS
   icon: crosshairs-gps
-  value: "48\xB039\u201941\"n 116\xB039\u201918\"w"
+  value: 48°39’41"n 116°39’18"w
 - label: Ranger District
   icon: pine-tree
   value: Sandpoint R.D. 208.263.5111

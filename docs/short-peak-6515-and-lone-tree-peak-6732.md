@@ -1,11 +1,11 @@
 ---
 tags:
 - Peaks & Mountains
-- Moderately Easy
-- Hiking
+- Moderate
+- Day Hiking
 - Backpacking
 - Equestrian
-- Lookout Tower Rental
+- Fire Lookout Rental
 stats:
 - label: Event Type
   icon: hiking
@@ -24,7 +24,7 @@ stats:
   value: IPNF Forest map, Shorty Peak Topo
 - label: GPS
   icon: crosshairs-gps
-  value: "48\xB056'25\" n 116\xB041;21\" w"
+  value: 48°56'25" n 116°41;21" w
 - label: Ranger District
   icon: pine-tree
   value: Priest River R.D. 208.443.2512

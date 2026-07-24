@@ -2,7 +2,7 @@
 tags:
 - Lakes
 - Difficult
-- Hiking
+- Day Hiking
 - Backpacking
 - Fishing
 - Camping
@@ -16,7 +16,7 @@ stats:
   value: 12 miles RT
 - label: Elevation Gain
   icon: elevation-rise
-  value: "3108\u2019 to upper lake"
+  value: 3108’ to upper lake
 - label: Acres
   icon: vector-square
   value: (lower) 65 / (upper) 19.4
@@ -28,8 +28,7 @@ stats:
   value: Kootenai National Forest, Scenery Mt., Treasure Mountain
 - label: GPS
   icon: crosshairs-gps
-  value: "Upper 48\xB022\u201925\" N 115\xB044\u201958\" W, Lower 48\xB022\u201945\"\
-    \ N 115\xB044\u201927\" W"
+  value: Upper 48°22’25" N 115°44’58" W, Lower 48°22’45" N 115°44’27" W
 - label: Ranger District
   icon: pine-tree
   value: Libby R.D. 406.293.7773

@@ -1,7 +1,7 @@
 ---
-title: "Clammy Cabbage Over Pasta"
+title: Clammy Cabbage Over Pasta
 tags:
-  - plants
+- Flora & Plants
 ---
 
 # Clammy Cabbage Over Pasta

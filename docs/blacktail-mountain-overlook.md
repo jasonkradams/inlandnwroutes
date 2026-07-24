@@ -1,7 +1,7 @@
 ---
 tags:
 - Peaks & Mountains
-- Moderately Difficult
+- Moderate
 - Day Hiking
 - Scenic Overlook
 stats:
@@ -22,7 +22,7 @@ stats:
   value: IPNF, Cocolalla Lake topo
 - label: GPS
   icon: crosshairs-gps
-  value: "48\xB007'00\" N 116\xB032'29\" W"
+  value: 48°07'00" N 116°32'29" W
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000

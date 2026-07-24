@@ -2,9 +2,9 @@
 tags:
 - Peaks & Mountains
 - Very Difficult, Exposure
-- Long Day Hike
-- Backpack
-- Scramble
+- Day Hiking
+- Backpacking
+- Scrambling
 stats:
 - label: Event Type
   icon: hiking

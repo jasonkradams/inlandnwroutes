@@ -1,7 +1,7 @@
 ---
-title: "Moma Morenos Chicken Green Chili Soup"
+title: Moma Morenos Chicken Green Chili Soup
 tags:
-  - recipes
+- Recipes
 ---
 
 # Moma Morenos Chicken Green Chili Soup

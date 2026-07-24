@@ -1,26 +1,26 @@
 ---
 tags:
-  - Paddling & Rivers
-  - Lakes
+- Paddling
+- Lakes
 stats:
-  - label: Paddle Distance
-    icon: map-marker-distance
-    value: 3.7 miles
-  - label: Elevation
-    icon: terrain
-    value: 2,157'
-  - label: Length & Acreage
-    icon: vector-square
-    value: 1.8 miles (1.87 miles up SW creek, 117 acres)
-  - label: Maps
-    icon: map
-    value: Amber Lake Topo
-  - label: Launch GPS
-    icon: crosshairs-gps
-    value: "[47°20'56\" N 117°42'52\" W](https://goo.gl/maps/Mmzdi3YwCv7dyzcM6)"
-  - label: Spokane County Sheriff
-    icon: shield-account
-    value: CALL 911 FIRST or 509.477.2240
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: 3.7 miles
+- label: Elevation
+  icon: terrain
+  value: 2,157'
+- label: Length & Acreage
+  icon: vector-square
+  value: 1.8 miles (1.87 miles up SW creek, 117 acres)
+- label: Maps
+  icon: map
+  value: Amber Lake Topo
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: '[47°20''56" N 117°42''52" W](https://goo.gl/maps/Mmzdi3YwCv7dyzcM6)'
+- label: Spokane County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 509.477.2240
 ---
 
 # Amber Lake Launch

@@ -2,7 +2,7 @@
 tags:
 - Peaks & Mountains
 - Difficult
-- Hiking
+- Day Hiking
 - Backpacking
 stats:
 - label: Event Type
@@ -13,7 +13,7 @@ stats:
   value: 35 Miles RT, (Pyramid Pass 2.7 & 1300 verts)
 - label: Elevation Gain
   icon: elevation-rise
-  value: "From the Canyon Creek TH 5280\u2019 from Parker Creek TH 4570\u2019"
+  value: From the Canyon Creek TH 5280’ from Parker Creek TH 4570’
 - label: Difficulty
   icon: speedometer
   value: Difficult
@@ -22,7 +22,7 @@ stats:
   value: IPNF, Kaniksu N.F., Smith Peak, Pyramid Peak, Shorty Peak
 - label: GPS
   icon: crosshairs-gps
-  value: "48\xB052\u201925\" N 116\xB035\u201916\" W"
+  value: 48°52’25" N 116°35’16" W
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561

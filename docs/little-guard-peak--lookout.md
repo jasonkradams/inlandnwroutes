@@ -2,7 +2,7 @@
 tags:
 - Peaks & Mountains
 - Day Hiking
-- Lookout Rental
+- Fire Lookout Rental
 - Equestrian
 stats:
 - label: Event Type
@@ -22,7 +22,7 @@ stats:
   value: IPNF, Mount Pend Orielle Topo
 - label: GPS
   icon: crosshairs-gps
-  value: "47\xB048\u2019 34\" n 116\xB001\u201925 w"
+  value: 47°48’ 34" n 116°01’25 w
 - label: Ranger District
   icon: pine-tree
   value: cda river r.d. 208.769.3000

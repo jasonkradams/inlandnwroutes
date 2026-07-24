@@ -1,7 +1,7 @@
 ---
-title: "Basil Shrimp Poscuitto Ham Wraps"
+title: Basil Shrimp Poscuitto Ham Wraps
 tags:
-  - recipes
+- Recipes
 ---
 
 # Basil Shrimp Poscuitto Ham Wraps

@@ -1,25 +1,25 @@
 ---
 tags:
-  - Regions
-  - Selkirks
-  - Hiking
-  - Climbing
+- Regions
+- Selkirks
+- Day Hiking
+- Climbing
 stats:
-  - label: Total Area
-    icon: map
-    value: "~2,500 square miles (~2/3 in Idaho, 1/3 in Washington)"
-  - label: High Point
-    icon: terrain
-    value: UN 7,709 (7,709 ft)
-  - label: Designated Wilderness
-    icon: tree
-    value: Salmo-Priest Wilderness (39,937 acres)
-  - label: Primary Land Manager
-    icon: domain
-    value: Idaho Panhandle National Forest
-  - label: Base Elevations
-    icon: elevation
-    value: 2,400 ft (Priest Lake / West) | 1,700 ft (Purcell Trench / East)
+- label: Total Area
+  icon: map
+  value: ~2,500 square miles (~2/3 in Idaho, 1/3 in Washington)
+- label: High Point
+  icon: terrain
+  value: UN 7,709 (7,709 ft)
+- label: Designated Wilderness
+  icon: tree
+  value: Salmo-Priest Wilderness (39,937 acres)
+- label: Primary Land Manager
+  icon: domain
+  value: Idaho Panhandle National Forest
+- label: Base Elevations
+  icon: elevation
+  value: 2,400 ft (Priest Lake / West) | 1,700 ft (Purcell Trench / East)
 ---
 
 # American Selkirks

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Flora & Wildlife
+- Flora & Plants
 ---
 
 # Trees

@@ -1,6 +1,6 @@
 ---
 tags:
-- Winter & Skiing
+- Skiing & Snowshoeing
 - Peaks & Mountains
 stats:
 - label: Phone

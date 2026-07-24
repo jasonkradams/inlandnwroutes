@@ -1,7 +1,7 @@
 ---
-title: "Red Dead Nettle"
+title: Red Dead Nettle
 tags:
-  - plants
+- Flora & Plants
 ---
 
 # Red Dead Nettle

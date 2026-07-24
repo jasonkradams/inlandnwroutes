@@ -1,7 +1,7 @@
 ---
 tags:
 - Lakes
-- Hiking
+- Day Hiking
 - Backpacking
 - Scrambling
 - Climbing
@@ -26,7 +26,7 @@ stats:
   value: IPNF-Kaniksu N.F, The Wigwams
 - label: GPS
   icon: crosshairs-gps
-  value: "48\xB0 39\u2019 57.4\"N 116\xB0 37\u2019 38.0\"W"
+  value: 48° 39’ 57.4"N 116° 37’ 38.0"W
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry 208.267.5561 & Sandpoint R.D. 208.263.5111

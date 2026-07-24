@@ -1,6 +1,6 @@
 ---
 tags:
-- Flora & Wildlife
+- Flora & Plants
 stats:
 - label: Genesis Name
   icon: book-open-variant
@@ -40,8 +40,8 @@ stats:
     to one side and arcs a bit at the top.
 - label: Fruits
   icon: fruit-cherries
-  value: "Each flower is replaced by a berry, about \xBC inch in diameter. Berries\
-    \ are initially green with purple stripes and ripen to solid reddish-purple."
+  value: Each flower is replaced by a berry, about ¼ inch in diameter. Berries are
+    initially green with purple stripes and ripen to solid reddish-purple.
 notes:
 - label: Like onions, the fleshy roots were used to flavour other foods. Medicinally,
     the roots were chewed raw or used in syrups and teas to relieve coughs. They were

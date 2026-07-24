@@ -1,7 +1,7 @@
 ---
 tags:
 - Waterfalls
-- Day Hiking Only
+- Day Hiking
 stats:
 - label: Event Type
   icon: waterfall
@@ -11,7 +11,7 @@ stats:
   value: varies, but about 2.5 miles
 - label: Elevation Varies
   icon: terrain
-  value: "in total about 652\u2019"
+  value: in total about 652’
 - label: Difficulty
   icon: speedometer
   value: easy with one semi steep trail and some hazards
@@ -21,7 +21,7 @@ stats:
     Recreation Area brochure.
 - label: GPS
   icon: crosshairs-gps
-  value: "Trailhead 46\xB044\u201939\" N 116\xB010\u2019 52\" W"
+  value: Trailhead 46°44’39" N 116°10’ 52" W
 - label: Ranger District
   icon: pine-tree
   value: Palouse R.D. 208.875.1131

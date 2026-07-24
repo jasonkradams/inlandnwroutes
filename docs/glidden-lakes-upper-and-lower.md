@@ -2,9 +2,9 @@
 tags:
 - Lakes
 - Easy
-- Day Hike
+- Day Hiking
 - Backpacking
-- Backcountry Skiing
+- Skiing & Snowshoeing
 stats:
 - label: Event Type
   icon: hiking
@@ -23,7 +23,7 @@ stats:
   value: IPNF, Lolo N.F., Cooper Gulch topo
 - label: GPS
   icon: crosshairs-gps
-  value: "Lower Lake 47\xB031\u201905\" N 115\xB043\u201945\" W"
+  value: Lower Lake 47°31’05" N 115°43’45" W
 - label: Ranger District
   icon: pine-tree
   value: Coeur d'Alene River R.D. CALL 911 FIRST or 208.769.3000
@@ -31,7 +31,7 @@ notes:
 - label: Idaho Panhandle National Forests Alerts
   url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 - label: 'Acreage: Lower Lake 14.2 acres | Upper Lake 18 acres'
-- label: "Upper Lake GPS: 47\xB031\u201908\" N 115\xB043\u201905\" W"
+- label: 'Upper Lake GPS: 47°31’08" N 115°43’05" W'
 ---
 
 # Glidden Lakes Upper and Lower

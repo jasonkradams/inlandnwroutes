@@ -1,7 +1,7 @@
 ---
-title: "Tony Kozlowski"
+title: Tony Kozlowski
 tags:
-  - ski
+- Skiing & Snowshoeing
 ---
 
 # Tony Kozlowski

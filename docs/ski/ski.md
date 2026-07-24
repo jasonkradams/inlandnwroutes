@@ -1,7 +1,7 @@
 ---
-title: "Ski"
+title: Ski
 tags:
-  - ski
+- Skiing & Snowshoeing
 ---
 
 # Ski

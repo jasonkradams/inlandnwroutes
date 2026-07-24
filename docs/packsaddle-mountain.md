@@ -5,7 +5,7 @@ tags:
 - Day Hiking
 - Backpacking
 - Equestrian
-- Mt Biking
+- Mountain Biking
 stats:
 - label: Event Type
   icon: hiking
@@ -15,7 +15,7 @@ stats:
   value: about 2 miles
 - label: Elevation
   icon: terrain
-  value: "1838\u2019"
+  value: 1838’
 - label: Difficulty
   icon: speedometer
   value: moderate
@@ -24,8 +24,7 @@ stats:
   value: IPNF, CDA River Ranger District, Packsaddle Mt. Topo
 - label: GPS
   icon: crosshairs-gps
-  value: "trailhead. 48\xB000\u201958\" N 116\xB020\u2019 43\" W Summit 48\xB005\u2019\
-    \ 51\" N 116\xB021\u2019 22\" W"
+  value: trailhead. 48°00’58" N 116°20’ 43" W Summit 48°05’ 51" N 116°21’ 22" W
 - label: Ranger District
   icon: pine-tree
   value: Sandpoint R.D. 208.263.5111

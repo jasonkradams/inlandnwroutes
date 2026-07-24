@@ -1,26 +1,26 @@
 ---
 tags:
-  - Lakes
-  - Paddling & Rivers
+- Lakes
+- Paddling
 stats:
-  - label: Paddle Distance
-    icon: map-marker-distance
-    value: Varies
-  - label: Elevation
-    icon: terrain
-    value: "2133'"
-  - label: Length and Acreage
-    icon: vector-square
-    value: Varies
-  - label: Maps
-    icon: map
-    value: IPNF, Medimont Topo
-  - label: Launch GPS
-    icon: crosshairs-gps
-    value: 47°28’40" N 116°35’43" W
-  - label: Shoshone County Sheriff
-    icon: shield-account
-    value: 208.556.1114
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: Varies
+- label: Elevation
+  icon: terrain
+  value: 2133'
+- label: Length and Acreage
+  icon: vector-square
+  value: Varies
+- label: Maps
+  icon: map
+  value: IPNF, Medimont Topo
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 47°28’40" N 116°35’43" W
+- label: Shoshone County Sheriff
+  icon: shield-account
+  value: 208.556.1114
 ---
 
 # Medimont Lake Launch

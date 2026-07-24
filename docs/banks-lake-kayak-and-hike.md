@@ -1,26 +1,26 @@
 ---
 tags:
-  - Paddling & Rivers
-  - Lakes
+- Paddling
+- Lakes
 stats:
-  - label: Paddle Distance
-    icon: map-marker-distance
-    value: Varies (2.5+ miles one-way)
-  - label: Elevation
-    icon: terrain
-    value: 1,571'
-  - label: Length & Acreage
-    icon: vector-square
-    value: 26.7 miles long & 26,890 acres
-  - label: Maps
-    icon: map
-    value: Steamboat Rock SW
-  - label: GPS
-    icon: crosshairs-gps
-    value: 47°52'02" N 119°05'54" W
-  - label: Grant County Sheriff
-    icon: shield-account
-    value: CALL 911 FIRST or 509.754.2011
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: Varies (2.5+ miles one-way)
+- label: Elevation
+  icon: terrain
+  value: 1,571'
+- label: Length & Acreage
+  icon: vector-square
+  value: 26.7 miles long & 26,890 acres
+- label: Maps
+  icon: map
+  value: Steamboat Rock SW
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°52'02" N 119°05'54" W
+- label: Grant County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 509.754.2011
 ---
 
 # Banks Lake Kayak & Hike

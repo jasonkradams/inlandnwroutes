@@ -2,7 +2,7 @@
 tags:
 - Trails & Scrambles
 - Moderate
-- Day Hike
+- Day Hiking
 - Backpacking
 - Equestrian
 - Fishing
@@ -24,8 +24,7 @@ stats:
   value: IPNF, Lakeview, Faset Peak, Cathederal Rocks topos
 - label: GPS
   icon: crosshairs-gps
-  value: "West Trailhead 47\xB053\u201950\" N 116\xB025\u201914\"N 116\xB025\u2019\
-    14\" W"
+  value: West Trailhead 47°53’50" N 116°25’14"N 116°25’14" W
 - label: CdA River Ranger District
   icon: pine-tree
   value: 208.752.1221
@@ -33,7 +32,7 @@ stats:
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
 notes:
-- label: "East Trailhead. 47\xB052\u201958\" N 116\xB012\u201948\" W"
+- label: East Trailhead. 47°52’58" N 116°12’48" W
   url: '#'
 - label: Idaho panhandle national forest/alerts
   url: '#'

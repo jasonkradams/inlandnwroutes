@@ -1,7 +1,7 @@
 ---
 tags:
 - Lakes
-- Moderate +
+- Moderate
 - Day Hiking
 - Backpacking
 - Fishing
@@ -27,7 +27,7 @@ stats:
   value: Kootenai N.F., Cabinet Ranger District C.M.W. , Elephant Peak. 406.827.3533
 - label: GPS
   icon: crosshairs-gps
-  value: "48\xB005\u201924\" w 115\xB039\u201932\" n"
+  value: 48°05’24" w 115°39’32" n
 - label: Ranger District
   icon: pine-tree
   value: 'Cabinet Ranger District: 406.827.3533'

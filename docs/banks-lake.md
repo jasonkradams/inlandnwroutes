@@ -1,37 +1,37 @@
 ---
 tags:
-  - Lakes
-  - Easy+
-  - Day Hiking
-  - Backpacking
-  - Paddling
-  - Fishing
-  - Climbing
+- Lakes
+- Easy
+- Day Hiking
+- Backpacking
+- Paddling
+- Fishing
+- Climbing
 stats:
-  - label: Event Type
-    icon: hiking
-    value: Day hiking, backpacking, paddling, fishing, climbing
-  - label: Distance
-    icon: map-marker-distance
-    value: Varies by activity
-  - label: Elevation Gain
-    icon: elevation-rise
-    value: Up to 700' gain
-  - label: Acres
-    icon: vector-square
-    value: 26,890 acres
-  - label: Difficulty
-    icon: speedometer
-    value: Easy+
-  - label: Maps
-    icon: map
-    value: Coulee Dam Area
-  - label: GPS
-    icon: crosshairs-gps
-    value: 47°49'45" N 119°08'01" W
-  - label: Grant County Sheriff
-    icon: shield-account
-    value: CALL 911 FIRST or 509.754.2011
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, paddling, fishing, climbing
+- label: Distance
+  icon: map-marker-distance
+  value: Varies by activity
+- label: Elevation Gain
+  icon: elevation-rise
+  value: Up to 700' gain
+- label: Acres
+  icon: vector-square
+  value: 26,890 acres
+- label: Difficulty
+  icon: speedometer
+  value: Easy+
+- label: Maps
+  icon: map
+  value: Coulee Dam Area
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°49'45" N 119°08'01" W
+- label: Grant County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 509.754.2011
 ---
 
 # Banks Lake

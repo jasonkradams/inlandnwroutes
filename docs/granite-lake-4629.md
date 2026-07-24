@@ -1,10 +1,10 @@
 ---
 tags:
 - Lakes
-- Hiking
+- Day Hiking
 - Backpacking
 - Scrambling
-- Ice Climbing
+- Climbing
 stats:
 - label: Event Type
   icon: hiking
@@ -26,7 +26,7 @@ stats:
   value: Kootenai N.F., Treasure Mt., Snowshoe Peak
 - label: GPS
   icon: crosshairs-gps
-  value: "48\xB015\u201910\"N 115\xB041\u201920\"W"
+  value: 48°15’10"N 115°41’20"W
 - label: Ranger District
   icon: pine-tree
   value: Libby R.D. 406.293.7333

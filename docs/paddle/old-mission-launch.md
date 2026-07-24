@@ -1,26 +1,26 @@
 ---
 tags:
-  - Paddling & Rivers
-  - Lakes
+- Paddling
+- Lakes
 stats:
-  - label: Paddle Distance
-    icon: map-marker-distance
-    value: Varies
-  - label: Elevation
-    icon: terrain
-    value: 2,133'
-  - label: Length & Acreage
-    icon: vector-square
-    value: Varies
-  - label: Maps
-    icon: map
-    value: IPNF / Kingston Topo
-  - label: Launch GPS
-    icon: crosshairs-gps
-    value: 47°33'08" N 116°22'00" W
-  - label: Shoshone County Sheriff
-    icon: shield-account
-    value: CALL 911 FIRST or 208.556.1114
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: Varies
+- label: Elevation
+  icon: terrain
+  value: 2,133'
+- label: Length & Acreage
+  icon: vector-square
+  value: Varies
+- label: Maps
+  icon: map
+  value: IPNF / Kingston Topo
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 47°33'08" N 116°22'00" W
+- label: Shoshone County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.556.1114
 ---
 
 # Old Mission Launch

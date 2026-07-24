@@ -1,7 +1,7 @@
 ---
-title: "Mountains"
+title: Mountains
 tags:
-  - mountains
+- Peaks & Mountains
 ---
 
 # Mountains

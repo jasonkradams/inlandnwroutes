@@ -1,7 +1,7 @@
 ---
-title: "Uncle Chucks Manhatten Style Clam Chowder"
+title: Uncle Chucks Manhatten Style Clam Chowder
 tags:
-  - recipes
+- Recipes
 ---
 
 # Uncle Chucks Manhatten Style Clam Chowder

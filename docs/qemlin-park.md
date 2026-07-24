@@ -1,7 +1,7 @@
 ---
 tags:
 - Trails & Scrambles
-- Easy to Moderate
+- Moderate
 - Day Hiking
 - Climbing
 - Photography
@@ -28,9 +28,9 @@ stats:
   icon: shield-account
   value: 911 or 208.446.1300
 notes:
-- label: "Spokane Street Bridge 47\xB042\u201908\" N 116\xB057\u201915\" W"
+- label: Spokane Street Bridge 47°42’08" N 116°57’15" W
   url: '#'
-- label: "West Riverview Drive. 47\xB041\u201945\" N 116\xB058\u201923\" W"
+- label: West Riverview Drive. 47°41’45" N 116°58’23" W
   url: '#'
 ---
 

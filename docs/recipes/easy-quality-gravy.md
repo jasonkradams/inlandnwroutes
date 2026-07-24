@@ -1,7 +1,7 @@
 ---
-title: "Easy Quality Gravy"
+title: Easy Quality Gravy
 tags:
-  - recipes
+- Recipes
 ---
 
 # Easy Quality Gravy

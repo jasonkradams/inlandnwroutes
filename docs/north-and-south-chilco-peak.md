@@ -1,7 +1,7 @@
 ---
 tags:
 - Peaks & Mountains
-- Moderately Easy
+- Moderate
 - Day Hiking
 - Backpacking
 stats:
@@ -13,8 +13,8 @@ stats:
   value: N. Route 3.2 miles RT to N. Chilco. And 9.6 miles to S. Chilco.
 - label: Elevation Gain
   icon: elevation-rise
-  value: "1455\u2019 to N Chilco. Then drops about 865\u2019 to the saddle. Then rises\
-    \ 901\u2019 to S. Chilco"
+  value: 1455’ to N Chilco. Then drops about 865’ to the saddle. Then rises 901’ to
+    S. Chilco
 - label: Difficulty
   icon: speedometer
   value: moderately easy
@@ -23,7 +23,7 @@ stats:
   value: IPNF, Bayview, Spades Mountain topos
 - label: GPS
   icon: crosshairs-gps
-  value: "South Chilco 47\xB051'59\" N 116\xB033'15\" W."
+  value: South Chilco 47°51'59" N 116°33'15" W.
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D 208.769.3000
@@ -31,7 +31,7 @@ stats:
   icon: shield-account
   value: CALL 911 FIRST or 208.446.1300
 notes:
-- label: "North Chilco 47\xB053'30\" N 116\xB031;47\" W"
+- label: North Chilco 47°53'30" N 116°31;47" W
   url: '#'
 - label: Idaho Panhandle National Forests Alerts
   url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices

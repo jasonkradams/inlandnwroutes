@@ -1,6 +1,6 @@
 ---
 tags:
-- Winter & Skiing
+- Skiing & Snowshoeing
 stats:
 - label: Phone
   icon: phone
@@ -16,7 +16,7 @@ stats:
   value: 7000'
 - label: Base Elevation
   icon: terrain
-  value: "3350\u2019"
+  value: 3350’
 - label: Verts
   icon: arrow-expand-vertical
   value: 3550'

@@ -1,8 +1,8 @@
 ---
 tags:
 - Trails & Scrambles
-- Moderately Easy
-- Hiking
+- Moderate
+- Day Hiking
 - Backpacking
 - Climbing
 stats:
@@ -23,7 +23,7 @@ stats:
   value: IPNF - Kaniksu N.F., USGS - Mt. Roothaan
 - label: GPS
   icon: crosshairs-gps
-  value: "48\xB0 36\u2019 27.5\"n 116\xB0 44\u2019 08.7\"w"
+  value: 48° 36’ 27.5"n 116° 44’ 08.7"w
 - label: Ranger District
   icon: pine-tree
   value: Sandpoint R. D. 208.263.5111

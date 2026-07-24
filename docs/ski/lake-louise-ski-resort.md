@@ -1,6 +1,6 @@
 ---
 tags:
-- Skiing
+- Skiing & Snowshoeing
 - Resort
 - Winter Sports
 stats:

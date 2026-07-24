@@ -1,7 +1,7 @@
 ---
-title: "Chicken And Rice Soup"
+title: Chicken And Rice Soup
 tags:
-  - recipes
+- Recipes
 ---
 
 # Chicken And Rice Soup

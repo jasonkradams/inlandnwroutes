@@ -3,7 +3,7 @@ tags:
 - Peaks & Mountains
 - Easy
 - Day Hiking
-- Snowshoeing
+- Skiing & Snowshoeing
 stats:
 - label: Event Type
   icon: hiking
@@ -13,7 +13,7 @@ stats:
   value: 3.3 mile loop to 5.3 mile loop
 - label: Elevation
   icon: terrain
-  value: "630\u2019"
+  value: 630’
 - label: Difficulty
   icon: speedometer
   value: easy
@@ -22,7 +22,7 @@ stats:
   value: IPNF, Lane Topo
 - label: GPS
   icon: crosshairs-gps
-  value: "47\xB036\u201955\" n 116\xB04\u201943\" w"
+  value: 47°36’55" n 116°4’43" w
 - label: Managing Agency
   icon: domain
   value: blm spokane 509.536.1200

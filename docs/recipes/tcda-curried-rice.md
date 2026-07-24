@@ -1,7 +1,7 @@
 ---
-title: "Tcda Curried Rice"
+title: Tcda Curried Rice
 tags:
-  - recipes
+- Recipes
 ---
 
 # Tcda Curried Rice

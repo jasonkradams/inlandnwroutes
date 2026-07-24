@@ -3,9 +3,9 @@ tags:
 - Trails & Scrambles
 - Moderate
 - Day Hiking
-- Beach Camping
+- Backpacking
 - Swimming
-- Diving
+- Paddling
 stats:
 - label: Event Type
   icon: hiking
@@ -15,7 +15,7 @@ stats:
   value: 4 miles RT
 - label: Elevation Loss
   icon: arrow-down-bold
-  value: "1107\u2019"
+  value: 1107’
 - label: Difficulty
   icon: speedometer
   value: moderate
@@ -24,7 +24,7 @@ stats:
   value: IPNF, Kaniksu N.F., Mt. Pend Oreille topo
 - label: GPS
   icon: crosshairs-gps
-  value: "48\xB007\u201900\" n 116\xB032\u201929\" w"
+  value: 48°07’00" n 116°32’29" w
 - label: Ranger District
   icon: pine-tree
   value: Sandpoint R.D. 208.263.5111

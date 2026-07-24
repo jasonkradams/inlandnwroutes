@@ -1,7 +1,7 @@
 ---
-title: "Wild Honeysuckle"
+title: Wild Honeysuckle
 tags:
-  - plants
+- Flora & Plants
 ---
 
 # Wild Honeysuckle

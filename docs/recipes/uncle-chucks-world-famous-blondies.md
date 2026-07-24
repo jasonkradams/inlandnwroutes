@@ -1,7 +1,7 @@
 ---
-title: "Uncle Chucks World Famous Blondies"
+title: Uncle Chucks World Famous Blondies
 tags:
-  - recipes
+- Recipes
 ---
 
 # Uncle Chucks World Famous Blondies

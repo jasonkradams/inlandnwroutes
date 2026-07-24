@@ -1,22 +1,22 @@
 ---
-title: "Route Title Here"
+title: Route Title Here
 tags:
-  - mountains
-  - idaho
+- Peaks & Mountains
+- idaho
 stats:
-  - label: Distance
-    value: "6.5 miles round trip"
-  - label: Elevation Gain
-    value: "1,800 ft"
-  - label: Peak Elevation
-    value: "6,457 ft"
-  - label: Difficulty
-    value: "Moderate"
-  - label: Managing Agency
-    value: "USFS - Ranger District"
+- label: Distance
+  value: 6.5 miles round trip
+- label: Elevation Gain
+  value: 1,800 ft
+- label: Peak Elevation
+  value: 6,457 ft
+- label: Difficulty
+  value: Moderate
+- label: Managing Agency
+  value: USFS - Ranger District
 notes:
-  - label: Ranger District Alerts & Notices
-    url: https://www.fs.usda.gov/alerts
+- label: Ranger District Alerts & Notices
+  url: https://www.fs.usda.gov/alerts
 ---
 
 # Route Title Here

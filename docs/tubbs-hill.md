@@ -6,7 +6,7 @@ tags:
 - Scrambling
 - Climbing
 - Rock Diving
-- Kayaking
+- Paddling
 - Sun Bathing
 stats:
 - label: Event Type
@@ -27,8 +27,8 @@ stats:
   value: INNF, Tubbs Hill Foundation Guided map, CDA Topo
 - label: GPS
   icon: crosshairs-gps
-  value: "West trailhead 47\xB040\u2019 13\" N 116\xB046\u201954\"/W East trailhead\
-    \ 47\xB040\u201901\" N 116\xB046\u201919\" W"
+  value: West trailhead 47°40’ 13" N 116°46’54"/W East trailhead 47°40’01" N 116°46’19"
+    W
 - label: Kootenai County Sheriff
   icon: shield-account
   value: 911 or 208.446.1300

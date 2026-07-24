@@ -1,33 +1,33 @@
 ---
 tags:
-  - Lakes
-  - Easy
-  - Flat Water Paddling
+- Lakes
+- Easy
+- Paddling
 stats:
-  - label: Event Type
-    icon: hiking
-    value: Flat Water Paddling
-  - label: Distance
-    icon: map-marker-distance
-    value: 5+ miles RT
-  - label: Elevation
-    icon: terrain
-    value: 2,057'
-  - label: Acres
-    icon: vector-square
-    value: 94,720
-  - label: Difficulty
-    icon: speedometer
-    value: Easy (consult hazards for wind/waves)
-  - label: Maps
-    icon: map
-    value: Farragut S. P., Idlewilde Bay, Bernard Peak topo
-  - label: GPS
-    icon: crosshairs-gps
-    value: 47°56’56"N 116°30’14"W
-  - label: Kootenai County Sheriff
-    icon: shield-account
-    value: 208.446.1300
+- label: Event Type
+  icon: hiking
+  value: Flat Water Paddling
+- label: Distance
+  icon: map-marker-distance
+  value: 5+ miles RT
+- label: Elevation
+  icon: terrain
+  value: 2,057'
+- label: Acres
+  icon: vector-square
+  value: 94,720
+- label: Difficulty
+  icon: speedometer
+  value: Easy (consult hazards for wind/waves)
+- label: Maps
+  icon: map
+  value: Farragut S. P., Idlewilde Bay, Bernard Peak topo
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°56’56"N 116°30’14"W
+- label: Kootenai County Sheriff
+  icon: shield-account
+  value: 208.446.1300
 ---
 
 # Echo Bay & Lake Pend Oreille (2,057')

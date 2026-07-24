@@ -1,7 +1,7 @@
 ---
 tags:
 - Peaks & Mountains
-- Moderately Difficult
+- Moderate
 - Day Hiking
 - Backpacking
 - Equestrian
@@ -14,7 +14,7 @@ stats:
   value: 6.5 miles RT
 - label: Elevation
   icon: terrain
-  value: "1750\u2019"
+  value: 1750’
 - label: Difficulty
   icon: speedometer
   value: Moderately difficult
@@ -23,7 +23,7 @@ stats:
   value: Colville N.F., Salmo-Priest Wilderness, Gypsy Peak Topo
 - label: GPS
   icon: crosshairs-gps
-  value: "Trailhead 48\xB055\u2019 04\" N 117\xB008\u2019 37\" W"
+  value: Trailhead 48°55’ 04" N 117°08’ 37" W
 - label: Managing Agency
   icon: domain
   value: Sullivan Lake R.D. 509.446.7500

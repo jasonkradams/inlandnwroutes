@@ -1,7 +1,7 @@
 ---
 tags:
 - Lakes
-- Easy to Moderate
+- Moderate
 - Day Hiking
 - Backpacking
 - Camping
@@ -27,8 +27,7 @@ stats:
     topos
 - label: GPS
   icon: crosshairs-gps
-  value: "Moose Lake 48\xB021\u201916\"N 116\xB006\u201933\"W (Moose Mountain 48\xB0\
-    20\u201946\"N 116\xB007\u201923\"W)"
+  value: Moose Lake 48°21’16"N 116°06’33"W (Moose Mountain 48°20’46"N 116°07’23"W)
 - label: Ranger District
   icon: pine-tree
   value: Sandpoint R.D. (208.263.5111)

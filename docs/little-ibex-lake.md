@@ -1,7 +1,7 @@
 ---
 tags:
 - Lakes
-- Strenous
+- Strenuous
 - Day Hiking
 - Backpacking
 - Scrambling
@@ -15,7 +15,7 @@ stats:
   value: 11.4 miles RT
 - label: Elevation Gain
   icon: elevation-rise
-  value: "2982\u2019 verts"
+  value: 2982’ verts
 - label: Difficulty
   icon: speedometer
   value: Strenous
@@ -24,7 +24,7 @@ stats:
   value: Kootenai N.F., Ibex Peak & Snowshoe Peaktopo
 - label: GPS
   icon: crosshairs-gps
-  value: "48\xB012\u201902\" n 115\xB044\u201929\" w"
+  value: 48°12’02" n 115°44’29" w
 - label: Libby Ranger District
   icon: pine-tree
   value: 406.293.7333

@@ -2,10 +2,10 @@
 tags:
 - Lakes
 - Strenuous to Very Strenuous
-- Hiking
+- Day Hiking
 - Backpacking
 - Scrambling
-- Mt Biking
+- Mountain Biking
 stats:
 - label: Event Type
   icon: hiking
@@ -27,7 +27,7 @@ stats:
   value: IPNF-Kaniksu N.F., Mt Roothaan, Dodge Peak
 - label: GPS
   icon: crosshairs-gps
-  value: "48\xB0 34\u2019 37.3\"n 116\xB0 37\u2019 17.8\"w"
+  value: 48° 34’ 37.3"n 116° 37’ 17.8"w
 - label: Ranger District
   icon: pine-tree
   value: Sandpoint R.D. 208.263.5111

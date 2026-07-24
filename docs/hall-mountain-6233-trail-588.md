@@ -2,7 +2,7 @@
 tags:
 - Peaks & Mountains
 - Strenuous
-- Hiking
+- Day Hiking
 - Backpacking
 - Equestrian
 stats:
@@ -23,7 +23,7 @@ stats:
   value: IPNF - Kaniksu N.F., USGS - Metaline Falls, and Pass Creek
 - label: GPS
   icon: crosshairs-gps
-  value: "48\xB0 48\u2019 00.5\" w 117\xB0 13\u2019 49.4\""
+  value: 48° 48’ 00.5" w 117° 13’ 49.4"
 - label: Ranger District
   icon: pine-tree
   value: Newport-Sullivan Ranger District 509.446.7500

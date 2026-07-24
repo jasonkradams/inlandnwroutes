@@ -5,7 +5,7 @@ tags:
 - Day Hiking
 - Backpacking
 - Equestrian
-- Mt Biking
+- Mountain Biking
 stats:
 - label: Event Type
   icon: hiking
@@ -15,7 +15,7 @@ stats:
   value: 5.5 miles RT
 - label: Elevation
   icon: terrain
-  value: "1100\u2019"
+  value: 1100’
 - label: Difficulty
   icon: speedometer
   value: moderate
@@ -24,7 +24,7 @@ stats:
   value: IPNF, Lane Topo
 - label: GPS
   icon: crosshairs-gps
-  value: "47\xB035\u201906\" n 116\xB038\u201905\" w"
+  value: 47°35’06" n 116°38’05" w
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000

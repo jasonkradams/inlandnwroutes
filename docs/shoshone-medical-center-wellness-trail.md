@@ -4,7 +4,7 @@ tags:
 - Easy
 - Walking
 - Running
-- Hiking
+- Day Hiking
 - Picnicking
 stats:
 - label: Event Type
@@ -15,7 +15,7 @@ stats:
   value: less then a mile RT
 - label: Elevation Gain
   icon: elevation-rise
-  value: "about 240\u2019"
+  value: about 240’
 - label: Difficulty
   icon: speedometer
   value: easy
@@ -24,7 +24,7 @@ stats:
   value: IPNF, Kellogg topo
 - label: GPS
   icon: crosshairs-gps
-  value: "47\xB032\u201950\"n 116\xB008\u201947\"w"
+  value: 47°32’50"n 116°08’47"w
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000

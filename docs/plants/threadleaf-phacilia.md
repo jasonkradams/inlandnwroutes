@@ -1,7 +1,7 @@
 ---
-title: "Threadleaf Phacilia"
+title: Threadleaf Phacilia
 tags:
-  - plants
+- Flora & Plants
 ---
 
 # Threadleaf Phacilia

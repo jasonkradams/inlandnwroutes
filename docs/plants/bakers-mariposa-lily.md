@@ -1,6 +1,6 @@
 ---
 tags:
-- Flora & Wildlife
+- Flora & Plants
 stats:
 - label: Genesis Name
   icon: book-open-variant

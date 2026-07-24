@@ -1,7 +1,7 @@
 ---
-title: "Woodland Pinedrop"
+title: Woodland Pinedrop
 tags:
-  - plants
+- Flora & Plants
 ---
 
 # Woodland Pinedrop

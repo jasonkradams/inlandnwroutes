@@ -1,10 +1,9 @@
 ---
 tags:
 - Peaks & Mountains
-- Strenous
-- Day Hike
+- Strenuous
+- Day Hiking
 - Backpacking
-- Loop Backpack
 stats:
 - label: Event Type
   icon: hiking
@@ -23,7 +22,7 @@ stats:
   value: Kootenai N.F., Scenery topo
 - label: GPS
   icon: crosshairs-gps
-  value: "48\xB024\u201957\" n 115\xB043\u201902\" w"
+  value: 48°24’57" n 115°43’02" w
 - label: Libby Ranger District
   icon: pine-tree
   value: 406.293.7773

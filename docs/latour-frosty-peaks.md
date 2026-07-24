@@ -1,11 +1,11 @@
 ---
 tags:
 - Peaks & Mountains
-- Moderately Easy
-- Day Hike
+- Moderate
+- Day Hiking
 - Backpacking
 - Astronomy
-- Backcountry Skiing
+- Skiing & Snowshoeing
 stats:
 - label: Event Type
   icon: hiking
@@ -24,7 +24,7 @@ stats:
   value: IPNF, Latour Baldy topo
 - label: GPS
   icon: crosshairs-gps
-  value: "Frosty Peak 47\xB028\u201948\" N 116\xB020\u201936\" W"
+  value: Frosty Peak 47°28’48" N 116°20’36" W
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
@@ -32,7 +32,7 @@ stats:
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
 notes:
-- label: "Latour Baldy 47\xB028\u201912\" N 116\xB020\u201949\" W"
+- label: Latour Baldy 47°28’12" N 116°20’49" W
   url: '#'
 - label: Idaho panhandle national forest/alerts
   url: '#'

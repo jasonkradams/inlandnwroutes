@@ -1,31 +1,42 @@
 ---
 tags:
-  - Flora & Wildlife
+- Flora & Plants
 stats:
-  - label: Genesis Name
-    icon: book-open-variant
-    value: Hemerocallis fulva
-  - label: Distribution
-    icon: earth
-    value: Orange daylily is native to Asia from the Caucasus east through the Himalaya through China, Japan, and Korea. It persists also where dumped and spreads more or less rapidly by vegetative increase into woods and fields and along roadsides and ditches, hence its common name ditch lily.
-  - label: Season
-    icon: calendar
-    value: "Bloom Time: Mid to late summer."
-  - label: Medical Use
-    icon: medical-bag
-    value: The flowers and leaves have a mild laxative effect, promoting good bowel health. They are also considered to be anodyne (relieves pain), antiemetic (prevents vomiting), antispasmodic (relaxes muscle spasms and cramps), febrifuge (reduced fevers) and sedative (promotes calm or induces sleep).
-  - label: Poisonous
-    icon: skull-crossbones
-    value: "no"
-  - label: Edibility
-    icon: food-apple
-    value: The flowers, leaves, and tubers of the orange daylily are edible. Leaves and shoots can be eaten raw or cooked when very young (or they become too fibrous). The flowers and young tubers can also be eaten raw or cooked.
-  - label: Leaves
-    icon: leaf
-    value: The plant has long and green shoot-like leaves.
-  - label: Fruits
-    icon: fruit-cherries
-    value: The flowers, leaves, and tubers of the orange daylily are edible. Leaves and shoots can be eaten raw or cooked when very young (or they become too fibrous). The flowers and young tubers can also be eaten raw or cooked. The flowers can be dried and used as a thickener in soup.
+- label: Genesis Name
+  icon: book-open-variant
+  value: Hemerocallis fulva
+- label: Distribution
+  icon: earth
+  value: Orange daylily is native to Asia from the Caucasus east through the Himalaya
+    through China, Japan, and Korea. It persists also where dumped and spreads more
+    or less rapidly by vegetative increase into woods and fields and along roadsides
+    and ditches, hence its common name ditch lily.
+- label: Season
+  icon: calendar
+  value: 'Bloom Time: Mid to late summer.'
+- label: Medical Use
+  icon: medical-bag
+  value: The flowers and leaves have a mild laxative effect, promoting good bowel
+    health. They are also considered to be anodyne (relieves pain), antiemetic (prevents
+    vomiting), antispasmodic (relaxes muscle spasms and cramps), febrifuge (reduced
+    fevers) and sedative (promotes calm or induces sleep).
+- label: Poisonous
+  icon: skull-crossbones
+  value: 'no'
+- label: Edibility
+  icon: food-apple
+  value: The flowers, leaves, and tubers of the orange daylily are edible. Leaves
+    and shoots can be eaten raw or cooked when very young (or they become too fibrous).
+    The flowers and young tubers can also be eaten raw or cooked.
+- label: Leaves
+  icon: leaf
+  value: The plant has long and green shoot-like leaves.
+- label: Fruits
+  icon: fruit-cherries
+  value: The flowers, leaves, and tubers of the orange daylily are edible. Leaves
+    and shoots can be eaten raw or cooked when very young (or they become too fibrous).
+    The flowers and young tubers can also be eaten raw or cooked. The flowers can
+    be dried and used as a thickener in soup.
 ---
 
 # Orange Day Lily

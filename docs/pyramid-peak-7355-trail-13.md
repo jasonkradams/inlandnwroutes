@@ -1,8 +1,8 @@
 ---
 tags:
 - Peaks & Mountains
-- Moderate Hike, Difficult Ascent
-- Hiking
+- Moderate
+- Day Hiking
 - Scrambling
 stats:
 - label: Event Type
@@ -13,7 +13,7 @@ stats:
   value: About 6 Miles RT. (P. Pass 2.7 & 1300')
 - label: Elevation Gain
   icon: elevation-rise
-  value: "2005' gain. 643\u2019 from Pass to Summit."
+  value: 2005' gain. 643’ from Pass to Summit.
 - label: Acres
   icon: vector-square
   value: '6.5'
@@ -25,7 +25,7 @@ stats:
   value: IPNF-Kaniksu N. F., USG-Pyramid Peak
 - label: GPS
   icon: crosshairs-gps
-  value: "48\xB0 48\u2019 19.7\"n 116\xB0 35\u2019 57.7\"w"
+  value: 48° 48’ 19.7"n 116° 35’ 57.7"w
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561

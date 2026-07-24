@@ -1,7 +1,7 @@
 ---
 tags:
 - Trails & Scrambles
-- Easy to Moderate
+- Moderate
 - Day Hiking
 stats:
 - label: Event Type
@@ -12,7 +12,7 @@ stats:
   value: Less then a mile within the botanical area.
 - label: Elevation Gain
   icon: elevation-rise
-  value: "about 2400\u2019 to Bloom Peak."
+  value: about 2400’ to Bloom Peak.
 - label: Difficulty
   icon: speedometer
   value: easy to moderate
@@ -21,7 +21,7 @@ stats:
   value: Idaho Panhandle N.F., Burke topo
 - label: GPS
   icon: crosshairs-gps
-  value: "Trailhead 47\xB042\u201934\" N -115\xB049\u201936\" W"
+  value: Trailhead 47°42’34" N -115°49’36" W
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000

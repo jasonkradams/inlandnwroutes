@@ -1,23 +1,23 @@
 ---
 tags:
-  - Paddling & Rivers
-  - Lakes
+- Paddling
+- Lakes
 stats:
-  - label: Paddle Distance
-    icon: map-marker-distance
-    value: Varies
-  - label: Elevation
-    icon: terrain
-    value: 2,128'
-  - label: Length & Acreage
-    icon: vector-square
-    value: Varies
-  - label: Launch GPS
-    icon: crosshairs-gps
-    value: 47°27'56" N 114°45'53" W
-  - label: Shoshone County Sheriff
-    icon: shield-account
-    value: CALL 911 FIRST or 208.446.1300
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: Varies
+- label: Elevation
+  icon: terrain
+  value: 2,128'
+- label: Length & Acreage
+  icon: vector-square
+  value: Varies
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 47°27'56" N 114°45'53" W
+- label: Shoshone County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.446.1300
 ---
 
 # Anderson Lake / Thompson Lake Launch

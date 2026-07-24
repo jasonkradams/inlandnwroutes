@@ -1,7 +1,7 @@
 ---
 tags:
 - Lakes
-- Hiking
+- Day Hiking
 - Backpacking
 - Scrambling
 stats:
@@ -13,18 +13,18 @@ stats:
   value: Lake 12 miles RT. Lake basin circuit about 5 miles RT
 - label: Elevation
   icon: terrain
-  value: "St Joe Lake 6472\u2019, Unnamed Peak 7260\u2019, Graves Peak 7235\u2019\
-    , Illinois Peak 7690\u2019, Gold Crown Peak 7374\u2019"
+  value: St Joe Lake 6472’, Unnamed Peak 7260’, Graves Peak 7235’, Illinois Peak 7690’,
+    Gold Crown Peak 7374’
 - label: Difficulty
   icon: speedometer
-  value: "St Joe Lake Moderate, Unnamed Peak 7260\u2019 Difficult, Graves Peak Moderate,\
-    \ Illinois Peak Moderate, Gold Crown Peak Difficult"
+  value: St Joe Lake Moderate, Unnamed Peak 7260’ Difficult, Graves Peak Moderate,
+    Illinois Peak Moderate, Gold Crown Peak Difficult
 - label: Maps
   icon: map
   value: IPNF - St Joe N.F., Illinois Peak, MT-ID
 - label: GPS
   icon: crosshairs-gps
-  value: "n47\xB0 1\u2019 3.71\" w115\xB0 4\u2019 51.49\""
+  value: n47° 1’ 3.71" w115° 4’ 51.49"
 - label: Shoshone County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114

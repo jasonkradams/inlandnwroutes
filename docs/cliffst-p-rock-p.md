@@ -1,7 +1,7 @@
 ---
 tags:
 - Trails & Scrambles
-- Hiking
+- Day Hiking
 - Backpacking
 - Climbing
 - Fishing
@@ -29,7 +29,7 @@ stats:
   value: Kootenai National Forest, Elephant Peak topo
 - label: GPS
   icon: crosshairs-gps
-  value: "48\xB004\u201921\" n 115\xB040\u201942\" w"
+  value: 48°04’21" n 115°40’42" w
 - label: Ranger District
   icon: pine-tree
   value: Cabinet R.D. 406.827.3533

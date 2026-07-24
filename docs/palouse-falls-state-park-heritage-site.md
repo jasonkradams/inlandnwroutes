@@ -3,7 +3,7 @@ tags:
 - Waterfalls
 - Easy
 - Camping
-- Hiking
+- Day Hiking
 - Sightseeing
 stats:
 - label: Event Type
@@ -23,7 +23,7 @@ stats:
   value: Palouse Falls State Park brochure, Palouse Falls & Starbucks W Topos
 - label: GPS
   icon: crosshairs-gps
-  value: "46\xB039\u201950\" n 118\xB013\u201938\" w"
+  value: 46°39’50" n 118°13’38" w
 - label: Managing Agency
   icon: domain
   value: w.s.p.& r. 509.646.9218

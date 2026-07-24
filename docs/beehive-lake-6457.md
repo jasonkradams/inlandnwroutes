@@ -1,7 +1,7 @@
 ---
 tags:
 - Lakes
-- Hiking
+- Day Hiking
 - Backpacking
 - Scrambling
 stats:
@@ -13,7 +13,7 @@ stats:
   value: Beehive Lake 7.2 miles RT, Loop about 11 miles
 - label: Elevation Gain
   icon: elevation-rise
-  value: "2040\u2019"
+  value: 2040’
 - label: Acres
   icon: vector-square
   value: '12'
@@ -25,7 +25,7 @@ stats:
   value: IPNF - Kaniksu N.F., USGS - The Wigwams, ID
 - label: GPS
   icon: crosshairs-gps
-  value: "Beehive Lake 48\xB0 38\u2019 59.3\"N 116\xB0 37\u2019 25.0\"W"
+  value: Beehive Lake 48° 38’ 59.3"N 116° 37’ 25.0"W
 - label: Ranger District
   icon: pine-tree
   value: Sandpoint R.D. 208.263.5111

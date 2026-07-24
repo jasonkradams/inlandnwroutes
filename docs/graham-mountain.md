@@ -1,10 +1,10 @@
 ---
 tags:
 - Peaks & Mountains
-- Moderately Difficult
-- Day Hike
+- Moderate
+- Day Hiking
 - Backpacking
-- Snowshoeing
+- Skiing & Snowshoeing
 stats:
 - label: Event Type
   icon: hiking
@@ -23,7 +23,7 @@ stats:
   value: IPNF, Kellogg topo
 - label: GPS
   icon: crosshairs-gps
-  value: "47\xB036\u201911\" n. 116\xB008\u201907\" w"
+  value: 47°36’11" n. 116°08’07" w
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000

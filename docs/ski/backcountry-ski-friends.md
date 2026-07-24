@@ -1,7 +1,7 @@
 ---
-title: "Backcountry Ski Friends"
+title: Backcountry Ski Friends
 tags:
-  - ski
+- Skiing & Snowshoeing
 ---
 
 # Backcountry Ski Friends

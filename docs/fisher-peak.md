@@ -1,7 +1,7 @@
 ---
 tags:
 - Peaks & Mountains
-- Extremely Strenuous
+- Strenuous
 - Scrambling
 stats:
 - label: Event Type
@@ -12,7 +12,7 @@ stats:
   value: 11.1 miles RT
 - label: Elevation Gain
   icon: elevation-rise
-  value: "5208\u2019"
+  value: 5208’
 - label: Difficulty
   icon: speedometer
   value: Extremely strenuous
@@ -21,10 +21,10 @@ stats:
   value: Cranbrook 82 G/NE-NW
 - label: GPS
   icon: crosshairs-gps
-  value: "Trailhead 49\xB038\u201901\"N 115\xB030\u201942\"W"
+  value: Trailhead 49°38’01"N 115°30’42"W
 notes:
 - label: Summit GPS
-  value: "49\xB038\u201947\"N 115\xB029\u201904\"W"
+  value: 49°38’47"N 115°29’04"W
 ---
 
 # Fisher Peak

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Paddling & Rivers
+- Paddling
 ---
 
 # Paddling Safety & Kayaking Guide

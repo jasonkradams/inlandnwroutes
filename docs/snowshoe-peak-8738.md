@@ -1,7 +1,7 @@
 ---
 tags:
 - Peaks & Mountains
-- Extremely Difficult
+- Difficult
 - Scrambling
 - Climbing
 stats:
@@ -22,7 +22,7 @@ stats:
   value: Kootenai N.F., Libby District, Snowshoe Peak topo. 406.293.8861
 - label: GPS
   icon: crosshairs-gps
-  value: "48\xB013\u201922\"n 115\xB041\u201920\"w"
+  value: 48°13’22"n 115°41’20"w
 - label: Ranger District
   icon: pine-tree
   value: 'Libby R.D.: 406.293.7773'

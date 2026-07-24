@@ -4,7 +4,7 @@ tags:
 - Moderate
 - Day Hiking
 - Backpacking
-- Mt Biking
+- Mountain Biking
 stats:
 - label: Event Type
   icon: hiking
@@ -14,7 +14,7 @@ stats:
   value: About 6.6 miles RT and about 7.8 if you go to Hazel Lake also.
 - label: Elevation
   icon: terrain
-  value: "1920\u2019"
+  value: 1920’
 - label: Acres
   icon: vector-square
   value: Hub 5.6, Hazel 7.6, Square 12.4
@@ -26,7 +26,7 @@ stats:
   value: IPNF, Lolo N.F., DeBorgia South topo
 - label: GPS
   icon: crosshairs-gps
-  value: "47\xB016'31\" N 115\xB022'29\" W"
+  value: 47°16'31" N 115°22'29" W
 - label: Superior Ranger District
   icon: pine-tree
   value: 406.822.4233

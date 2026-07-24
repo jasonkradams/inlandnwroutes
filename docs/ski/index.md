@@ -1,7 +1,7 @@
 ---
-title: "Ski History & Avalanche Safety"
+title: Ski History & Avalanche Safety
 tags:
-  - ski
+- Skiing & Snowshoeing
 ---
 
 # Ski History & Avalanche Safety

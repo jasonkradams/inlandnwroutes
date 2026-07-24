@@ -1,7 +1,7 @@
 ---
-title: "Instant Birthday Cake"
+title: Instant Birthday Cake
 tags:
-  - recipes
+- Recipes
 ---
 
 # Instant Birthday Cake

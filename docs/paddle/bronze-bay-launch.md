@@ -1,17 +1,17 @@
 ---
 tags:
-  - Paddling & Rivers
-  - Lakes
+- Paddling
+- Lakes
 stats:
-  - label: Length & Acreage
-    icon: vector-square
-    value: 1,445 acres
-  - label: Launch GPS
-    icon: crosshairs-gps
-    value: 47°45'42" N 116°41'30" W
-  - label: Kootenai County Sheriff
-    icon: shield-account
-    value: CALL 911 FIRST or 208.263.8417
+- label: Length & Acreage
+  icon: vector-square
+  value: 1,445 acres
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 47°45'42" N 116°41'30" W
+- label: Kootenai County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 208.263.8417
 ---
 
 # Bronze Bay Launch

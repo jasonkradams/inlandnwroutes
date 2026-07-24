@@ -1,11 +1,11 @@
 ---
 tags:
 - Lakes
-- Moderately Difficult
-- Hiking
+- Moderate
+- Day Hiking
 - Backpacking
 - Fishing
-- Backcountry Skiing
+- Skiing & Snowshoeing
 stats:
 - label: Event Type
   icon: hiking
@@ -28,7 +28,7 @@ stats:
   value: IPNF, Lolo N.F. Mullan topo
 - label: GPS
   icon: crosshairs-gps
-  value: "47\xB043\u201938\" N 115\xB047\u201944\" W"
+  value: 47°43’38" N 115°47’44" W
 - label: Ranger District
   icon: pine-tree
   value: Coeur d'Alene River R.D. 208.769.3000

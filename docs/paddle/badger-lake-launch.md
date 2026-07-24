@@ -1,26 +1,26 @@
 ---
 tags:
-  - Paddling & Rivers
-  - Lakes
+- Paddling
+- Lakes
 stats:
-  - label: Paddle Distance
-    icon: map-marker-distance
-    value: 6.7 miles
-  - label: Elevation
-    icon: terrain
-    value: 2,177'
-  - label: Length & Acreage
-    icon: vector-square
-    value: 2.73 miles (244 acres)
-  - label: Maps
-    icon: map
-    value: Amber Lake Topo
-  - label: Launch GPS
-    icon: crosshairs-gps
-    value: 47°20'32" N 117°38'17" W
-  - label: Spokane County Sheriff
-    icon: shield-account
-    value: CALL 911 FIRST or 509.477.2240
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: 6.7 miles
+- label: Elevation
+  icon: terrain
+  value: 2,177'
+- label: Length & Acreage
+  icon: vector-square
+  value: 2.73 miles (244 acres)
+- label: Maps
+  icon: map
+  value: Amber Lake Topo
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 47°20'32" N 117°38'17" W
+- label: Spokane County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 509.477.2240
 ---
 
 # Badger Lake Launch

@@ -1,10 +1,10 @@
 ---
 tags:
 - Trails & Scrambles
-- Hike
+- Day Hiking
 - Scrambling
-- Backpack
-- Climb
+- Backpacking
+- Climbing
 stats:
 - label: Event Type
   icon: hiking
@@ -24,7 +24,7 @@ stats:
   value: IPNF, Kaniksu N.F., The Wigwams
 - label: GPS
   icon: crosshairs-gps
-  value: "48\xB042\u201949\" n -116\xB044\u201949\" w"
+  value: 48°42’49" n -116°44’49" w
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561

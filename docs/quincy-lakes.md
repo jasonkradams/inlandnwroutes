@@ -1,39 +1,38 @@
 ---
 tags:
-  - Lakes
-  - Easy to Slightly Moderate
-  - Day Hiking
-  - Backpacking
-  - Mt Biking
-  - Wandering
+- Lakes
+- Easy
+- Day Hiking
+- Backpacking
+- Mountain Biking
 stats:
-  - label: Event Type
-    icon: hiking
-    value: Day hiking, backpacking, mt biking, wandering
-  - label: Distance
-    icon: map-marker-distance
-    value: 4.5 miles RT to Ancient Lake, 6 miles RT to Dusty Lake
-  - label: Elevation
-    icon: terrain
-    value: 280' to Ancient Lake, 350' to Dusty Lake
-  - label: Acres
-    icon: vector-square
-    value: "54"
-  - label: Difficulty
-    icon: speedometer
-    value: Easy to slightly moderate
-  - label: Maps
-    icon: map
-    value: W.D.F.& W., Columbia Wildlife Area, Babcock Bench
-  - label: GPS
-    icon: crosshairs-gps
-    value: 47°01'38" N 119°59'52" W
-  - label: Managing Agency
-    icon: domain
-    value: W.D.F.& W. & Columbia Basin Wildlife Area (509.765.6641)
-  - label: Grant County Sheriff
-    icon: shield-account
-    value: CALL 911 FIRST or 509.754.2011
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, mt biking, wandering
+- label: Distance
+  icon: map-marker-distance
+  value: 4.5 miles RT to Ancient Lake, 6 miles RT to Dusty Lake
+- label: Elevation
+  icon: terrain
+  value: 280' to Ancient Lake, 350' to Dusty Lake
+- label: Acres
+  icon: vector-square
+  value: '54'
+- label: Difficulty
+  icon: speedometer
+  value: Easy to slightly moderate
+- label: Maps
+  icon: map
+  value: W.D.F.& W., Columbia Wildlife Area, Babcock Bench
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°01'38" N 119°59'52" W
+- label: Managing Agency
+  icon: domain
+  value: W.D.F.& W. & Columbia Basin Wildlife Area (509.765.6641)
+- label: Grant County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 509.754.2011
 ---
 
 # Quincy Lakes

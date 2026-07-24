@@ -1,7 +1,7 @@
 ---
 tags:
 - Trails & Scrambles
-- Easy +
+- Easy
 - Day Hiking
 stats:
 - label: Event Type
@@ -21,7 +21,7 @@ stats:
   value: ipnf, kaniksu n. f.
 - label: GPS
   icon: crosshairs-gps
-  value: "48\xB018\u201939 n 116\xB034\u201905\" w"
+  value: 48°18’39 n 116°34’05" w
 - label: Ranger District
   icon: pine-tree
   value: Sandpoint R.D. 208.263.5111

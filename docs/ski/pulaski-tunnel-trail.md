@@ -1,6 +1,6 @@
 ---
 tags:
-- Winter & Skiing
+- Skiing & Snowshoeing
 - Easy
 - Day Hiking
 - History
@@ -13,7 +13,7 @@ stats:
   value: 4 miles RT
 - label: Elevation
   icon: terrain
-  value: "800\u2019"
+  value: 800’
 - label: Difficulty
   icon: speedometer
   value: easy
@@ -22,7 +22,7 @@ stats:
   value: IPNF, Pulaski Tunnel Trail Brochure, Wallace topo
 - label: GPS
   icon: crosshairs-gps
-  value: "47\xB045\u201987\" n 115\xB093\u201957\" w"
+  value: 47°45’87" n 115°93’57" w
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000

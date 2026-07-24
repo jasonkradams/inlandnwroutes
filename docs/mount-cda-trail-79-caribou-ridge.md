@@ -4,7 +4,7 @@ tags:
 - Difficult
 - Day Hiking
 - Backpacking
-- Mt. Biking
+- Mountain Biking
 - Equestrian
 stats:
 - label: Event Type
@@ -15,7 +15,7 @@ stats:
   value: '10.6 miles RT. About a 14 mile loop with Trail #257'
 - label: Elevation
   icon: terrain
-  value: "2112\u2019"
+  value: 2112’
 - label: Difficulty
   icon: speedometer
   value: difficult
@@ -24,7 +24,7 @@ stats:
   value: IPNF, CDA River Ranger District, Mount CDA Topo
 - label: GPS
   icon: crosshairs-gps
-  value: "Beauty Bay CG. 47\xB036\u201927\" N 116\xB040\u2019 08\" W."
+  value: Beauty Bay CG. 47°36’27" N 116°40’ 08" W.
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000

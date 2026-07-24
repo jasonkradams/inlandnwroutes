@@ -1,38 +1,38 @@
 ---
 tags:
-  - Lakes
-  - Moderate
-  - Day Hiking
-  - Backpacking
-  - Mt Biking
+- Lakes
+- Moderate
+- Day Hiking
+- Backpacking
+- Mountain Biking
 stats:
-  - label: Event Type
-    icon: hiking
-    value: Day hiking, backpacking, Mt biking
-  - label: Distance
-    icon: map-marker-distance
-    value: About 6.6 miles RT (about 7.8 miles if you go to Hazel Lake also)
-  - label: Elevation
-    icon: terrain
-    value: 1920’
-  - label: Acres
-    icon: vector-square
-    value: Hub 5.6, Hazel 7.6, Square 12.4
-  - label: Difficulty
-    icon: speedometer
-    value: Moderate
-  - label: Maps
-    icon: map
-    value: IPNF, Lolo N.F., DeBorgia topo
-  - label: GPS
-    icon: crosshairs-gps
-    value: 47°16’20" N 115°22’28" W
-  - label: Ranger District
-    icon: pine-tree
-    value: CDA River R.D. 208.769.3000
-  - label: Mineral County Sheriff
-    icon: shield-account
-    value: 911 or 406.822.3555
+- label: Event Type
+  icon: hiking
+  value: Day hiking, backpacking, Mt biking
+- label: Distance
+  icon: map-marker-distance
+  value: About 6.6 miles RT (about 7.8 miles if you go to Hazel Lake also)
+- label: Elevation
+  icon: terrain
+  value: 1920’
+- label: Acres
+  icon: vector-square
+  value: Hub 5.6, Hazel 7.6, Square 12.4
+- label: Difficulty
+  icon: speedometer
+  value: Moderate
+- label: Maps
+  icon: map
+  value: IPNF, Lolo N.F., DeBorgia topo
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°16’20" N 115°22’28" W
+- label: Ranger District
+  icon: pine-tree
+  value: CDA River R.D. 208.769.3000
+- label: Mineral County Sheriff
+  icon: shield-account
+  value: 911 or 406.822.3555
 ---
 
 # Hub Lake

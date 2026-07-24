@@ -1,10 +1,10 @@
 ---
 tags:
 - Lakes
-- Easy to Moderate
-- Hike
-- Backpack
-- Mountain Bike
+- Moderate
+- Day Hiking
+- Backpacking
+- Mountain Biking
 stats:
 - label: Event Type
   icon: hiking
@@ -26,7 +26,7 @@ stats:
   value: Pyramid Lake 6.5, Ball Lake 6.4
 - label: GPS
   icon: crosshairs-gps
-  value: "48\xB0 48\u2019 19.7\"n 116\xB0 35\u2019 57.7\"w"
+  value: 48° 48’ 19.7"n 116° 35’ 57.7"w
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561

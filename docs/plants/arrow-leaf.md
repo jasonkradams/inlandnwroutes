@@ -1,7 +1,7 @@
 ---
-title: "Arrow Leaf"
+title: Arrow Leaf
 tags:
-  - plants
+- Flora & Plants
 ---
 
 # Arrow Leaf

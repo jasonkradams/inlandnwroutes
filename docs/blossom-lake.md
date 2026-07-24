@@ -1,7 +1,7 @@
 ---
 tags:
 - Lakes
-- Easy to Moderately Easy
+- Easy
 - Day Hiking
 - Backpacking
 - Camping
@@ -24,7 +24,7 @@ stats:
   value: IPNF, Lolo N.F., Thompson Pass
 - label: GPS
   icon: crosshairs-gps
-  value: "47\xB055\u201915\" N 115\xB074\u201947\" W"
+  value: 47°55’15" N 115°74’47" W
 - label: CdA River Ranger District
   icon: pine-tree
   value: 208.752.1221

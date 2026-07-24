@@ -1,37 +1,37 @@
 ---
 tags:
-  - Lakes
-  - Easy
-  - Day Hiking
-  - Historical Hike
+- Lakes
+- Easy
+- Day Hiking
+- History
 stats:
-  - label: Event Type
-    icon: hiking
-    value: Day hiking, historical hike
-  - label: Distance
-    icon: map-marker-distance
-    value: 3 miles RT
-  - label: Elevation Gain
-    icon: terrain
-    value: 200'
-  - label: Acres
-    icon: vector-square
-    value: 1,670 total
-  - label: Difficulty
-    icon: speedometer
-    value: Easy
-  - label: Maps
-    icon: map
-    value: Sun Lakes-Dry Falls State Park & WDFW, Banks Lake & Moses Lake topos
-  - label: GPS
-    icon: crosshairs-gps
-    value: 47°32’03"N 119°29’38"W
-  - label: Managing Agency
-    icon: domain
-    value: WDFW 509.486.7275
-  - label: Grant County Sheriff
-    icon: shield-account
-    value: CALL 911 FIRST or 509.754.2011
+- label: Event Type
+  icon: hiking
+  value: Day hiking, historical hike
+- label: Distance
+  icon: map-marker-distance
+  value: 3 miles RT
+- label: Elevation Gain
+  icon: terrain
+  value: 200'
+- label: Acres
+  icon: vector-square
+  value: 1,670 total
+- label: Difficulty
+  icon: speedometer
+  value: Easy
+- label: Maps
+  icon: map
+  value: Sun Lakes-Dry Falls State Park & WDFW, Banks Lake & Moses Lake topos
+- label: GPS
+  icon: crosshairs-gps
+  value: 47°32’03"N 119°29’38"W
+- label: Managing Agency
+  icon: domain
+  value: WDFW 509.486.7275
+- label: Grant County Sheriff
+  icon: shield-account
+  value: CALL 911 FIRST or 509.754.2011
 ---
 
 # Lake Lenore Caves & Mesa

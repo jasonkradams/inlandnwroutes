@@ -1,7 +1,7 @@
 ---
 tags:
 - Peaks & Mountains
-- Moderately Difficult
+- Moderate
 - Day Hiking
 - Backpacking
 - Equestrian
@@ -14,7 +14,7 @@ stats:
   value: 3.6 miles RT
 - label: Elevation Gain
   icon: elevation-rise
-  value: "1295\u2019"
+  value: 1295’
 - label: Difficulty
   icon: speedometer
   value: moderately difficult
@@ -23,7 +23,7 @@ stats:
   value: Priest Lake NW, Upper Priest Lake
 - label: GPS
   icon: crosshairs-gps
-  value: "48\xB042\u201943\" n 116\xB055\u201905\""
+  value: 48°42’43" n 116°55’05"
 - label: Ranger District
   icon: pine-tree
   value: Priest River R.D. 208.443.2512

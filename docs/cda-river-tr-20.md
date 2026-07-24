@@ -1,7 +1,7 @@
 ---
 tags:
-- Paddling & Rivers
-- Day Hike
+- Paddling
+- Day Hiking
 - Backpacking
 - Fishing
 stats:
@@ -22,7 +22,7 @@ stats:
   value: IPNF, Lolo NF, Cathedral Peak, Jordan Creek Topos
 - label: GPS
   icon: crosshairs-gps
-  value: "47\xB052'58\" N 116\xB007'52\" W"
+  value: 47°52'58" N 116°07'52" W
 - label: CdA River Ranger District
   icon: pine-tree
   value: 208.446.1300

@@ -97,7 +97,9 @@ hooks:
 
 nav:
 - Home: index.md
-- Blog: blog/index.md
+- Blog:
+  - blog/index.md
+  - Browse by Tag: tags.md
 - Blog Archive:
   - 34 Cabinet Mountain Wilderness: blog/posts/34-cabinet-mountain-wilderness.md
   - Airflare Rescue App For Your Phone: blog/posts/airflare-rescue-app-for-your-phone.md
@@ -498,7 +500,6 @@ nav:
   - Boundrary Dam: boundary-dam.md
   - Brides Bonnet: plants/brides-bonnet.md
   - Broad Leaf Sweet Pea: broad-leaf-sweet-pea.md
-  - Browse by Tag: tags.md
   - Cabinet Divide Trail 360: cabinet-divide-trail-360.md
   - California Creek: california-creek.md
   - Camas: plants/camas.md
@@ -783,4 +784,3 @@ nav:
   - About Us: about-us.md
   - Contact: contact.md
   - Liability Release: liability-release.md
-

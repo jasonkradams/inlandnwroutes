@@ -1,10 +1,10 @@
 ---
 tags:
 - Lakes
-- Moderately Easy
-- Hike
-- Backpack
-- Mountain Bike
+- Moderate
+- Day Hiking
+- Backpacking
+- Mountain Biking
 stats:
 - label: Event Type
   icon: hiking
@@ -26,7 +26,7 @@ stats:
   value: IPNF-Kaniksu N. F., USGS Pyramid Peak
 - label: GPS
   icon: crosshairs-gps
-  value: "48\xB0 48\u2019 15.6\" N 116\xB0 36\u2019 02.0\" W"
+  value: 48° 48’ 15.6" N 116° 36’ 02.0" W
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561

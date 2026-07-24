@@ -5,7 +5,7 @@ tags:
 - Day Hiking
 - Backpacking
 - Fishing
-- Backcountry. Skiing
+- Skiing & Snowshoeing
 stats:
 - label: Event Type
   icon: hiking
@@ -27,7 +27,7 @@ stats:
   value: I.P.N.F., LOLO N.F., Lookout Pass topo
 - label: GPS
   icon: crosshairs-gps
-  value: "47\xB042\u201965\" n -115\xB075\u201910\" w"
+  value: 47°42’65" n -115°75’10" w
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000

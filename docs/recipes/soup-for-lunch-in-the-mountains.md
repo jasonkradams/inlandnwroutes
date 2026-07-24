@@ -1,7 +1,7 @@
 ---
-title: "Soup For Lunch In The Mountains"
+title: Soup For Lunch In The Mountains
 tags:
-  - recipes
+- Recipes
 ---
 
 # Soup For Lunch In The Mountains

@@ -2,11 +2,11 @@
 tags:
 - Peaks & Mountains
 - Moderate to Difficult
-- Hiking
+- Day Hiking
 - Sshoe Backpacking
 - Photography
 - Scrambling
-- Backcountry Skiing
+- Skiing & Snowshoeing
 stats:
 - label: Event Type
   icon: hiking
@@ -26,8 +26,8 @@ stats:
   value: IPNF & Mullan Topo
 - label: GPS
   icon: crosshairs-gps
-  value: "Summer trailhead: 47\xB027'15\" N 115\xB045'58\" W. Winter trailhead: 47\xB0\
-    27'56\" N 115\xB045'33\" W"
+  value: 'Summer trailhead: 47°27''15" N 115°45''58" W. Winter trailhead: 47°27''56"
+    N 115°45''33" W'
 - label: Ranger District
   icon: pine-tree
   value: CDA River Ranger District 208.769.3000

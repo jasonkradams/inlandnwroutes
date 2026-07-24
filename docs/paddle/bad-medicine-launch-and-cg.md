@@ -1,26 +1,26 @@
 ---
 tags:
-  - Lakes
-  - Paddling & Rivers
+- Lakes
+- Paddling
 stats:
-  - label: Paddle Distance
-    icon: map-marker-distance
-    value: 4.5 miles
-  - label: Elevation
-    icon: terrain
-    value: "2320'"
-  - label: Length and Acreage
-    icon: vector-square
-    value: 4.5 miles & 1202 acres
-  - label: Maps
-    icon: map
-    value: Kootenai N. F., Bull Lake Topo
-  - label: Launch GPS
-    icon: crosshairs-gps
-    value: 48°13’11" N 115°51’22" W
-  - label: Lincoln County Sheriff
-    icon: shield-account
-    value: 406.293.4112
+- label: Paddle Distance
+  icon: map-marker-distance
+  value: 4.5 miles
+- label: Elevation
+  icon: terrain
+  value: 2320'
+- label: Length and Acreage
+  icon: vector-square
+  value: 4.5 miles & 1202 acres
+- label: Maps
+  icon: map
+  value: Kootenai N. F., Bull Lake Topo
+- label: Launch GPS
+  icon: crosshairs-gps
+  value: 48°13’11" N 115°51’22" W
+- label: Lincoln County Sheriff
+  icon: shield-account
+  value: 406.293.4112
 ---
 
 # Bad Medicine Launch and Campground

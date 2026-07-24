@@ -1,6 +1,6 @@
 ---
 tags:
-- Winter & Skiing
+- Skiing & Snowshoeing
 stats:
 - label: Genesis Name
   icon: book-open-variant
@@ -19,22 +19,22 @@ stats:
     disorders, ovarian cysts, fibroid tumors, and tonsillitis.
 - label: Features
   icon: information-outline
-  value: "Snowbrush is easy to identify by its shiny, often sticky, evergreen leaves\
-    \ with 3 main veins. Its small, creamy white flowers are borne in pyramidal clusters.\
-    \ he clusters of fragrant, creamy-white flowers contrast well with the dark, balsam-scented,\
-    \ sticky foliage of this 3-5 ft. broadleaf evergreen shrub. Snowbrush\u2019s stems\
-    \ are stout and much-branched, lending a spreading, round-topped habit. The entire\
-    \ plant is pleasantly aromatic."
+  value: Snowbrush is easy to identify by its shiny, often sticky, evergreen leaves
+    with 3 main veins. Its small, creamy white flowers are borne in pyramidal clusters.
+    he clusters of fragrant, creamy-white flowers contrast well with the dark, balsam-scented,
+    sticky foliage of this 3-5 ft. broadleaf evergreen shrub. Snowbrush’s stems are
+    stout and much-branched, lending a spreading, round-topped habit. The entire plant
+    is pleasantly aromatic.
 - label: Leaves
   icon: leaf
-  value: "Glossy, evergreen leaves have a heavy, spicy-resinous fragrance when crushed\
-    \ or wafted into the air on hot days. Alternate leaves, 3\u201310 cm long, have\
-    \ stalks, 3 main veins from the base, are curled, and are oval- to egg-shaped\
-    \ with finely toothed edges. On the upper surface, leaves are dark green, shiny,\
-    \ somewhat sticky with resin, and often bronze tinged. On the lower surface, leaves\
-    \ are sparsely gray-haired to velvety-haired; specimens in drier areas often have\
-    \ thicker velvet to prevent excess water loss. A pair of stipules (leaf-like appendages),\
-    \ each 1 mm long, attach to stems at leaf stalks"
+  value: Glossy, evergreen leaves have a heavy, spicy-resinous fragrance when crushed
+    or wafted into the air on hot days. Alternate leaves, 3–10 cm long, have stalks,
+    3 main veins from the base, are curled, and are oval- to egg-shaped with finely
+    toothed edges. On the upper surface, leaves are dark green, shiny, somewhat sticky
+    with resin, and often bronze tinged. On the lower surface, leaves are sparsely
+    gray-haired to velvety-haired; specimens in drier areas often have thicker velvet
+    to prevent excess water loss. A pair of stipules (leaf-like appendages), each
+    1 mm long, attach to stems at leaf stalks
 notes:
 - label: Snowbrush is a member of the buckthorn family (family Rhamnaceae), which
     includes shrubs, woody vines, and small to large trees (rarely herbs). There are

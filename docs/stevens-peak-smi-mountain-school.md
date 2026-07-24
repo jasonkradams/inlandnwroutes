@@ -2,7 +2,7 @@
 tags:
 - Peaks & Mountains
 - Roped Snow
-- Ice Travel Training
+- Climbing
 stats:
 - label: Event Type
   icon: hiking
@@ -21,7 +21,7 @@ stats:
   value: '**IPNF, Stevens Lakes topo**'
 - label: GPS
   icon: crosshairs-gps
-  value: "**Lower 47\xB043\u201936\" N -115\xB075\u201996\" W"
+  value: '**Lower 47°43’36" N -115°75’96" W'
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000

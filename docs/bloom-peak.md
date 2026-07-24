@@ -4,7 +4,7 @@ tags:
 - Easy
 - Day Hiking
 - Backpacking
-- Mt Biking
+- Mountain Biking
 - Equestrian
 - Photography
 stats:
@@ -25,7 +25,7 @@ stats:
   value: IPNF, Burke & Bloom Peak topos
 - label: GPS
   icon: crosshairs-gps
-  value: "47\xB045'17\" N 115\xB049'48\" W"
+  value: 47°45'17" N 115°49'48" W
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000

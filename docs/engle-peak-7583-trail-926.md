@@ -2,8 +2,8 @@
 tags:
 - Peaks & Mountains
 - Backpacking
-- Hiking
-- Backcountry Skiing
+- Day Hiking
+- Skiing & Snowshoeing
 stats:
 - label: Event Type
   icon: hiking
@@ -22,7 +22,7 @@ stats:
   value: Kaniksu National Forest, Cabinet Mountain Wilderness and Goat Peak
 - label: GPS
   icon: crosshairs-gps
-  value: "47\xB097\u201930\" n -115\xB076\u201910\""
+  value: 47°97’30" n -115°76’10"
 - label: Ranger District
   icon: pine-tree
   value: Cabinet R.D. 406.827.3533

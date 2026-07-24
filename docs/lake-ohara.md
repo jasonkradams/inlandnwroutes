@@ -1,31 +1,31 @@
 ---
 tags:
-  - Lakes
-  - Easy
-  - Hiking
-  - Backpacking
+- Lakes
+- Easy
+- Day Hiking
+- Backpacking
 stats:
-  - label: Event Type
-    icon: hiking
-    value: Bus into campground and day hike alpine routes
-  - label: Elevation
-    icon: terrain
-    value: 6,939'
-  - label: Distance
-    icon: map-marker-distance
-    value: 1.75 miles around lake (plus alpine routes)
-  - label: Elevation Gain
-    icon: elevation-rise
-    value: Minor ups and downs around lake (1,000'+ on alpine circuit)
-  - label: Difficulty
-    icon: speedometer
-    value: Easy around lake, Moderate to Exposed on Alpine Circuit
-  - label: Maps
-    icon: map
-    value: Lake O'Hara Trail Map - Yoho National Park, Canada
-  - label: GPS
-    icon: crosshairs-gps
-    value: 51°21'23.7"N 116°20'03.0"W
+- label: Event Type
+  icon: hiking
+  value: Bus into campground and day hike alpine routes
+- label: Elevation
+  icon: terrain
+  value: 6,939'
+- label: Distance
+  icon: map-marker-distance
+  value: 1.75 miles around lake (plus alpine routes)
+- label: Elevation Gain
+  icon: elevation-rise
+  value: Minor ups and downs around lake (1,000'+ on alpine circuit)
+- label: Difficulty
+  icon: speedometer
+  value: Easy around lake, Moderate to Exposed on Alpine Circuit
+- label: Maps
+  icon: map
+  value: Lake O'Hara Trail Map - Yoho National Park, Canada
+- label: GPS
+  icon: crosshairs-gps
+  value: 51°21'23.7"N 116°20'03.0"W
 ---
 
 # Lake O'Hara (6,939')

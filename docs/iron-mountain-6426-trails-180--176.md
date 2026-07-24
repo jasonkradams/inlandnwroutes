@@ -2,7 +2,7 @@
 tags:
 - Peaks & Mountains
 - Difficult
-- Hiking
+- Day Hiking
 - Backpacking
 stats:
 - label: Event Type
@@ -22,7 +22,7 @@ stats:
   value: IPNF-Kaniksu N.F., Clifty Mt, Leana
 - label: GPS
   icon: crosshairs-gps
-  value: "48\xB054\u201949\" n 116\xB041\u201906\" w"
+  value: 48°54’49" n 116°41’06" w
 - label: Ranger District
   icon: pine-tree
   value: Sandpoint R.D. 208.263.5111
