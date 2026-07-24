@@ -35,4 +35,4 @@ The mountains are my church that heals my hurts.
 
 ---
 
-[Email Protected]
+info@inlandnwroutes.com
