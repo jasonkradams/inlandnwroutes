@@ -40,6 +40,9 @@ notes:
 
 # Revett Lake & Granite Peak (Trail #9)
 
+![Revett Lake](assets/images/img-0165_orig.jpg)
+_Revett Lake_
+
 ## Description
 
 Revett Lake is a pristine 20-acre subalpine lake nestled in a steep glacial cirque right along the
@@ -157,4 +160,5 @@ _Rare large cluster of Mariposa Lilies along the trail._
     of stones. Next to the two rock cairns are large slabs stacked as backrests. As you sit comfortably
     on rock, the views of three states and two countries surround you. The songs of birds as they soar
     in the wind bring peace.
+
     — Chic Burge (September 14, 2011)

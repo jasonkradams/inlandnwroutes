@@ -27,11 +27,15 @@ stats:
 
 ## Description
 
-Amber Lake features a public boat launch located about midway along the lake on its north side. To the west, the lake narrows significantly and eventually leads to a quiet, sheltered pool at its western end, making it an ideal destination for paddlecraft and fishing.
+Amber Lake features a public boat launch located about midway along the lake on its north side. To the west,
+the lake narrows significantly and eventually leads to a quiet, sheltered pool at its western end, making it
+an ideal destination for paddlecraft and fishing.
 
 ## Access & Directions
 
-Drive through Cheney and turn left (south) onto S. Mullnix Road. Continue for 9.7 miles, then turn right (west) onto W. Pine Springs Road toward Amber. In Amber, turn left (southeast) onto S. Houck Ave and follow it to the launch.
+Drive through Cheney and turn left (south) onto S. Mullnix Road. Continue for 9.7 miles, then turn right
+(west) onto W. Pine Springs Road toward Amber. In Amber, turn left (southeast) onto S. Houck Ave and follow
+it to the launch.
 
 ## Nearby Points of Interest
 

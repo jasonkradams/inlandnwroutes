@@ -24,7 +24,11 @@ stats:
 
 ## Description
 
-The Anderson Lake boat launch is situated along Highway 97 as it crosses the Coeur d'Alene River northeast of Harrison, Idaho. Directly across the Coeur d'Alene River northeast of the Highway 97 bridge lies an inlet leading into Anderson Lake. As paddlers explore Anderson Lake, Bell Canyon forms a scenic cove off the main body. From this launch site, paddlers can also navigate out into the main body of Lake Coeur d'Alene via the Coeur d'Alene River.
+The Anderson Lake boat launch is situated along Highway 97 as it crosses the Coeur d'Alene River northeast
+of Harrison, Idaho. Directly across the Coeur d'Alene River northeast of the Highway 97 bridge lies an inlet
+leading into Anderson Lake. As paddlers explore Anderson Lake, Bell Canyon forms a scenic cove off the main
+body. From this launch site, paddlers can also navigate out into the main body of Lake Coeur d'Alene via the
+Coeur d'Alene River.
 
 ## Key Attractions
 
@@ -35,14 +39,18 @@ The Anderson Lake boat launch is situated along Highway 97 as it crosses the Coe
 
 !!! warning "Coeur d'Alene River Basin Health Advisory"
 
-    Please observe all posted health advisories when handling sediment or water along the lower Coeur d'Alene River basin.
+    Please observe all posted health advisories when handling sediment or water along the lower Coeur
+    d'Alene River basin.
 
     ![CDA River Health Advisory](assets/images/5132025306p-2.jpg)
     _CDA River Health Advisory._
 
 ## Access & Directions
 
-From Spokane, drive east on I-90 over 4th of July Pass and take the Rose Lake exit (Hwy 3). Turn right (south) onto Highway 3 and drive southwest to the junction with Highway 97. Turn right (northwest) onto Highway 97 and proceed through Harrison to the Highway 97 river bridge. The launch is located on the north side of the river.
+From Spokane, drive east on I-90 over 4th of July Pass and take the Rose Lake exit (Hwy 3). Turn right
+(south) onto Highway 3 and drive southwest to the junction with Highway 97. Turn right (northwest) onto
+Highway 97 and proceed through Harrison to the Highway 97 river bridge. The launch is located on the north
+side of the river.
 
 ## Nearby Points of Interest
 

@@ -27,7 +27,9 @@ stats:
 
 ## Description
 
-Badger Lake is a narrow, scenic "S"-shaped lake stretching 2.73 miles in length and covering 244 acres southwest of Cheney in Spokane County. The public boat launch provides easy access to the lake, which features a small, picturesque island located about 1.4 miles northeast of the launch site.
+Badger Lake is a narrow, scenic "S"-shaped lake stretching 2.73 miles in length and covering 244 acres
+southwest of Cheney in Spokane County. The public boat launch provides easy access to the lake, which
+features a small, picturesque island located about 1.4 miles northeast of the launch site.
 
 ## Key Attractions
 
@@ -37,7 +39,9 @@ Badger Lake is a narrow, scenic "S"-shaped lake stretching 2.73 miles in length 
 
 ## Access & Directions
 
-From Cheney, drive south on Cheney-Plaza Road and turn right (west) onto Williams Lake Road. Within 2 miles, turn right onto Badger Lake Road. Follow Badger Lake Road for 1.3 miles, then turn right at the sign for the Public Boat Launch.
+From Cheney, drive south on Cheney-Plaza Road and turn right (west) onto Williams Lake Road. Within 2 miles,
+turn right onto Badger Lake Road. Follow Badger Lake Road for 1.3 miles, then turn right at the sign for the
+Public Boat Launch.
 
 ## Nearby Points of Interest
 
