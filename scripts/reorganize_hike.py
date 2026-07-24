@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: "St. Joe Lake & Illinois Peak"
 tags:
   - Trails & Scrambles
@@ -21,7 +23,7 @@ stats:
   - label: Maps
     value: "IPNF - St. Joe N.F., Illinois Peak Quad (MT-ID)"
   - label: Trailhead GPS
-    value: "47°01'03.71"N, 115°04'51.49"W"
+    value: "47°01'03.71\"N, 115°04'51.49\"W"
 notes:
   - label: St. Joe Ranger District Weather & Trail Alerts
     url: https://forecast.weather.gov
@@ -134,3 +136,9 @@ _High ridge traverse above St. Joe Lake._
 
 ![Overview of St. Joe Lake basin](assets/images/img-1826.jpg)
 _Overview of St. Joe Lake basin._
+"""
+
+with open("docs/hike.md", "w", encoding="utf-8") as fp:
+    fp.write(content)
+
+print("Refactored docs/hike.md successfully")
