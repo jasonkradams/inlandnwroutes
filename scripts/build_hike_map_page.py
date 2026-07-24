@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 title: Hiking & Scrambling Guides
 tags:
   - Trails & Scrambles
@@ -75,3 +77,9 @@ document.addEventListener("DOMContentLoaded", function() {
     - **Weather & Conditions:** Always check local weather and Forest Service trail alerts before heading into backcountry areas.
     - **14 Essentials:** Carry proper navigation (map & GPS), layers, sun protection, hydration, and emergency shelter.
     - **Bear & Wildlife Safety:** Carry bear spray in an accessible location and practice Leave No Trace principles across all trail networks.
+"""
+
+with open("docs/hike.md", "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Generated interactive map docs/hike.md successfully")
