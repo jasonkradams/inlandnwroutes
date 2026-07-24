@@ -1,146 +1,106 @@
 ---
 tags:
-- Peaks & Mountains
-- Hiking
-- Backpacking
-- No Trail. Yahooo
+  - Peaks & Mountains
+  - Hiking
+  - Backpacking
+  - Off-Trail Ridge Walk
 stats:
-- label: Event Type
-  icon: hiking
-  value: Hiking, backpacking and equestrian. Maybe some mt biking to Cutoff Peak,
-    but the very long ridge towards Smith Peak has many blow downs, and no trail.
-    Yahooo
-- label: Distance
-  icon: map-marker-distance
-  value: Cutoff Peak about 6 miles RT. Smith Peak from Cutoff Peak 8 miles RT
-- label: Elevation
-  icon: terrain
-  value: To Cutoff Peak 1440' gain To Smith Peak about 2700'+
-- label: Difficulty
-  icon: speedometer
-  value: Moderate to Cutoff Peak Difficult to Smith Peak
-- label: Maps
-  icon: map
-  value: IPNF - Kaniksu N.F., USGS - Shorty Peak & Smith Peak
-- label: GPS
-  icon: crosshairs-gps
-  value: 48° 53’ 46.0"n 116° 38’ 41.5"w
-- label: Ranger District
-  icon: pine-tree
-  value: Bonners Ferry R.D. 208.267.5561
-- label: Boundary County Sheriff
-  icon: shield-account
-  value: CALL 911 FIRST or 208.267.3151
+  - label: Event Type
+    icon: hiking
+    value: Hiking, backpacking, off-trail ridge walking
+  - label: Distance
+    icon: map-marker-distance
+    value: Cutoff Peak approx. 6 miles RT; Smith Peak extension approx. 8 miles RT from Cutoff
+  - label: Elevation Gain
+    icon: terrain
+    value: Cutoff Peak 1440' gain; Smith Peak extension 2700'+ total gain
+  - label: Difficulty
+    icon: speedometer
+    value: Moderate to Cutoff Peak; Difficult off-trail scramble to Smith Peak
+  - label: Maps
+    icon: map
+    value: IPNF - Kaniksu N.F., USGS - Shorty Peak & Smith Peak
+  - label: GPS
+    icon: crosshairs-gps
+    value: 48°53'46.0" N 116°38'41.5" W
+  - label: Ranger District
+    icon: pine-tree
+    value: Bonners Ferry R.D. 208.267.5561
+  - label: Boundary County Sheriff
+    icon: shield-account
+    value: CALL 911 FIRST or 208.267.3151
 notes:
-- Idaho panhandle national forest/alerts
-- url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
+  - label: "Idaho Panhandle National Forests Alerts"
+    url: "https://www.fs.usda.gov/alerts/ipnf/alerts-notices"
 ---
 
-# Cutoff Peak 6844 And Smith Peaks North Ridge
-
-## Cutoff peak 6844' and smith peak's 7653’ north ridge
+# Cutoff Peak 6844 and Smith Peak's North Ridge
 
 ## Description
 
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an emergency ocurrs, evaluate your circumstances and call only if needed. The first part of this
-trail is on an old roadbed for about .5 miles, then picks up Trail #17 for about 2.5 miles to Cutoff Peak.
-Along this section of the trail, it climbs steeply to a ridge top, with views of Cutoff Peak in the
-distance. A short distance on the ridge, Trail #17 meets up with Trail #18. As the trail continues south, it
-skirts Cutoff Peak and summits on the south flank. Once on the ridge, head north a short distance to a
-dilapidated old cabin. Wander about this area to the east for views of the Long Canyon drainage. Once back
-on Trail #18, the trial undulates to a higher point, where there is an excellent camp site. Although there
-is no trail to Smith Peak 4 miles one way, the ridge is wide and spectacular. There are several bumps along
-the ridge before a taller one closer to Smith Peak. About half way up this bump, there is a route to skirt
-the bump towards Smith Peak. As you access the saddle below Smith Peak and start climbing, you should skirt
-the NW side of Smith Peak to the west side. From here it's just a scramble up thru the trees and scree to
-the summit.
+The initial portion of this route follows an old roadbed for about 0.5 miles before joining Trail #17 for 2.5 miles to Cutoff Peak (6,844'). The trail climbs steeply to a ridgetop with views of Cutoff Peak in the distance. Shortly along the ridge, Trail #17 intersects Trail #18. Continuing south, the trail skirts Cutoff Peak and summits on its south flank.
+
+From the ridge, head north a short distance to a historic, dilapidated cabin. Explore east of the cabin for views of the Long Canyon drainage. Returning to Trail #18, the route undulates to a high point featuring an excellent campsite.
+
+Beyond Cutoff Peak, there is no official trail for the 4-mile (one-way) ridge walk to Smith Peak (7,653'), but the ridgeline is wide and spectacular. Cross several prominent high points along the ridge. About halfway up the final large point before Smith Peak, skirt the NW side towards the saddle below Smith Peak. From the saddle, scramble up through open trees and scree to the summit.
 
 ## Directions
 
-Drive north past Bonners Ferry to State Highway 1 and follow it for about a mile to the Copeland turn off
-onto SH #45. In another mile bear left (west) across the Kootenai River to the West Side Road # 417. Turn
-right (NW) for 9
-
-miles and
-
-stay to the left that switchbacks onto the Smith Creek Road #281. Road 281 is paved for about 6.5 miles,
-where you will turn left ( east) onto FR # 2443. Continue for 6.6 miles to the trailhead.
+Drive north past Bonners Ferry on State Highway 1 for about 1 mile to the Copeland turnoff onto SH-45. Drive 1 mile and bear left (west) across the Kootenai River onto West Side Road #417. Turn right (NW) for 9 miles and stay left onto Smith Creek Road #281. Road #281 is paved for 6.5 miles to where you turn left (east) onto F.R. #2443. Continue 6.6 miles on F.R. #2443 to the trailhead.
 
 ## Hazards
 
-Once past Cutoff Peak, there is no real "trail", just a wide ridge line to stay centered on. There is no
-water source along this route. Carry more then you will need.
+Once past Cutoff Peak, there is no maintained trail—stay centered on the wide ridgeline and use map/GPS navigation. There is no water source along the entire ridge; carry more than you expect to need.
 
-## Cool things close by
+## Cool Things Close By
 
-Red Top Mt, Shorty and Lone Tree Peaks, and West Fork Lake.
+Red Top Mountain, Shorty Peak, Lone Tree Peak, and West Fork Lake.
 
 ## R & P
 
-Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
+Jalapeños, Mr. Sub, Burger Express, and Eichardt's in Sandpoint.
 
----
+## Trip Planning
 
-## Plan your trip
+- [Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=8000&polygon=48.756%2C-116.664%2C48.879%2C-116.843%2C48.964%2C-116.592%2C&area=NaN)
 
-[Click for Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=8000&polygon=48.756%2C-116.664%2C48.879%2C-116.843%2C48.964%2C-116.592%2C&area=NaN)
+## Photo Gallery
 
-![Picture](assets/images/6142025641p.jpg)
+![Near the start of the trail to Cutoff Peak on the way to Smith Peak](assets/images/6142025641p.jpg)
+_Near the start of the trail to Cutoff Peak on the way to Smith Peak_
 
-## Photo gallery
+![Old lookout cabin ruins on Cutoff Peak on the way to Smith Peak](assets/images/68a4ad15-0410-4a7c-ae68-346834a4c8f2.jpg)
+_Old lookout cabin ruins on Cutoff Peak on the way to Smith Peak_
 
-![Picture](assets/images/68a4ad15-0410-4a7c-ae68-346834a4c8f2.jpg)
+![Old lookout log cabin on Cutoff Peak](assets/images/c548ec36-9304-4016-981b-0a5c30f0f86f.jpg)
+_Old lookout log cabin on Cutoff Peak_
 
-## Near the start of the trail to cutoff peak on way to smith peak
+![Chris on Cutoff Peak](assets/images/997aec07-d053-4ec0-b4a3-cf22929e2991.jpg)
+_Chris on Cutoff Peak_
 
-![Picture](assets/images/c548ec36-9304-4016-981b-0a5c30f0f86f.jpg)
+![Chris walking in a beautiful forest on the way to Smith Peak](assets/images/7515cfd6-fd72-4246-a14b-241813106c41.jpg)
+_Chris walking in a beautiful forest on the way to Smith Peak_
 
-## An old lookout cabin on cutoff peak on way to smith peak
+![Campsite about halfway along the ridge to Smith Peak](assets/images/2021116-60-jpeg-1.jpg)
+_Campsite about halfway along the ridge to Smith Peak_
 
-##
+![Along the ridge to Smith Peak](assets/images/p179.png)
+_Along the ridge to Smith Peak_
 
-![Picture](assets/images/997aec07-d053-4ec0-b4a3-cf22929e2991.jpg)
+![The ridge walk to Smith Peak (Smith Peak top left)](assets/images/p180.png)
+_The ridge walk to Smith Peak (Smith Peak top left)_
 
-## chris on cutoff peak
+![On the ridge between Cutoff Peak and Smith Peak. Image by Chris Herath](assets/images/110620211026p.jpg)
+_On the ridge between Cutoff Peak and Smith Peak. Image by Chris Herath_
 
-![Picture](assets/images/7515cfd6-fd72-4246-a14b-241813106c41.jpg)
+![Smith Lake with Lionhead on the next ridge. Image by Chris Herath](assets/images/110620211029p.jpg)
+_Smith Lake with Lionhead on the next ridge. Image by Chris Herath_
 
-## Chris walking in a cool forest on the way to smith peak
+![The summit of Smith Peak. Image by Chris Herath](assets/images/100620211053p.jpg)
+_The summit of Smith Peak. Image by Chris Herath_
 
-![Picture](assets/images/2021116-60-jpeg-1.jpg)
+![Looking back towards Cutoff Peak; the obvious ridge is the route. Image by Chris Herath](assets/images/110620211050p.jpg)
+_Looking back towards Cutoff Peak; the obvious ridge is the route. Image by Chris Herath_
 
-## The campsite about half way along the ridge
-
-![Picture](assets/images/p179.png)
-
-## Along the ridge to smith peak
-
-![Picture](assets/images/p180.png)
-
-## The ridge walk to smith peak, smith peak top left
-
----
-
-![Picture](assets/images/110620211026p.jpg)
-
-## On the ridge between cut off peak and smith peak image by chris herath
-
-![Picture](assets/images/110620211029p.jpg)
-
-## Smith lake with lion head on the next ridge image by chris herath
-
-![Picture](assets/images/100620211053p.jpg)
-
-## The summit of smith peak image by chris herath
-
-![Picture](assets/images/110620211050p.jpg)
-
-## Looking back towards cut off peak. the obvious ridge is the route. Image by chris herath
-
-![Picture](assets/images/110620211107p.jpg)
-
-## One last look back at the summit of smith peak Image by chris herath
-
-Wondering the mountains takes us on a path thru our soul. While a path thru our soul takes us to new
-heights. New heights expand our love of wandering. chic. 7.29.11
+![One last look back at the summit of Smith Peak. Image by Chris Herath](assets/images/110620211107p.jpg)
+_One last look back at the summit of Smith Peak. Image by Chris Herath_

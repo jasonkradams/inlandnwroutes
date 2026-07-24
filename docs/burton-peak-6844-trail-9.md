@@ -1,122 +1,86 @@
 ---
 tags:
-- Peaks & Mountains
-- Moderate
-- Hiking
-- Backpacking
-- Ridge Walking
+  - Peaks & Mountains
+  - Moderate
+  - Hiking
+  - Backpacking
+  - Ridge Walking
 stats:
-- label: Event Type
-  icon: hiking
-  value: Hiking, backpacking, ridge walking
-- label: Distance
-  icon: map-marker-distance
-  value: 5.2 miles RT with more up Cascade Ridge to the west
-- label: Elevation Gain
-  icon: elevation-rise
-  value: 1724 verts
-- label: Difficulty
-  icon: speedometer
-  value: Moderate
-- label: Maps
-  icon: map
-  value: IPNF-Kaniksu N.F., Farnham, Moravia, Pyramid Peak
-- label: GPS
-  icon: crosshairs-gps
-  value: 48° 43’ 56.1"n 116° 28’ 22.5"w
-- label: Ranger District
-  icon: pine-tree
-  value: Bonners Ferry R.D. 208.267.5561
-- label: Boundary County Sheriff
-  icon: shield-account
-  value: CALL 911 FIRST or 208.267.3151
+  - label: Event Type
+    icon: hiking
+    value: Hiking, backpacking, ridge walking
+  - label: Distance
+    icon: map-marker-distance
+    value: 5.2 miles RT with option to extend along Cascade Ridge
+  - label: Elevation Gain
+    icon: elevation-rise
+    value: 1724 verts
+  - label: Difficulty
+    icon: speedometer
+    value: Moderate
+  - label: Maps
+    icon: map
+    value: IPNF-Kaniksu N.F., Farnham, Moravia, Pyramid Peak
+  - label: GPS
+    icon: crosshairs-gps
+    value: 48°43'56.1" N 116°28'22.5" W
+  - label: Ranger District
+    icon: pine-tree
+    value: Bonners Ferry R.D. 208.267.5561
+  - label: Boundary County Sheriff
+    icon: shield-account
+    value: CALL 911 FIRST or 208.267.3151
 notes:
-- Idaho panhandle national forest/alerts
-- url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
+  - label: "Idaho Panhandle National Forests Alerts"
+    url: "https://www.fs.usda.gov/alerts/ipnf/alerts-notices"
 ---
 
 # Burton Peak 6844 Trail 9
 
 ## Description
 
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an emergency ocurrs, evaluate your circumstances and call only if needed. The trail starts out in a
-forest of old growth Larch, younger Lodgepole Pine and Douglas Fir. As you climb higher, the views of the
-Myrtle Creek drainage is to the SW. After the switchbacks the trail leads you back to the ridge where the
-trail opens up. As the trail opens up, there are views of the old lookout cabin high above. In the fall, the
-grasses that grow around the trail turn yellow and frame the path to the old lookout cabin above. Once at
-the cabin, walk around it and check out the different weathering of the wood on all 4 sides. If you are
-looking for a good lunch spot out of the wind, continue further up the Cascade Ridge to the next summit. Off
-to the right (north) and down off the summit is a bench for lunch, out of the wind.
+The trail starts out in a forest of old-growth Larch, younger Lodgepole Pine, and Douglas Fir. As you climb higher, views of the Myrtle Creek drainage open to the SW. After switchbacking up, the trail returns to the open ridge.
 
-## Options #1
+As the trail breaks out of the trees, views of the old lookout cabin appear high above. In the fall, native grasses turn golden and frame the path to the historic cabin. Once at the cabin, take time to view the weathered timbers on all four sides. If looking for a sheltered lunch spot out of the wind, continue further up Cascade Ridge to the next summit. Just north and down off that summit is a bench sheltered from prevailing winds.
 
-From the old lookout cabin, there are two more summits further west up the Cascade Range. If the winds are
-up, there is a place on the north side of the second summit on the ridge to eat. Further west is another
-summit that is a good spot to view the Selkirks from the east.
+## Option #1: Cascade Ridge Extension
+
+From the old lookout cabin, two additional summits lie further west up Cascade Ridge. If winds are strong, the north side of the second summit offers wind protection. Further west, a third summit provides excellent views of the Selkirks from the east.
 
 ## Directions
 
-From the Kootenai National Wildlife Refuge, drive 1.3 miles to the Myrtle Creek Road #633, and turn left
-(west) for 2 miles to the junction with FR #2411. Turn right for 6.3 miles to another junction . Turn left
-(SW) onto FR
+From the Kootenai National Wildlife Refuge, drive 1.3 miles to Myrtle Creek Road #633 and turn left (west) for 2 miles to the junction with F.R. #2411. Turn right for 6.3 miles to another junction. Turn left (SW) onto F.R. #2692 for 1.5 miles to the trailhead.
 
-## 2692 for 1.5
+Along the drive up, pull over at the sharp switchbacks for panoramic views of the Purcell Trench, Kootenai National Wildlife Refuge, and Northwest Peaks Scenic Area.
 
-miles to the trailhead.
+## Cool Things Close By
 
-Along the roads up, pull over to each sharp switchback for incredible views of the Purcell Trench, the
-Kootenai National Wildlife Refuge, and the Northwest Peaks Scenic Area, across the historic Purcell Trench.
+Kootenai National Wildlife Refuge, Myrtle Falls, Snow Creek Falls, Myrtle Creek Preserve, Bonners Ferry, and the Purcell Trench.
 
 ## Hazards
 
-None of note.
-
-## Cool things close by
-
-Kootenai National Wildlife Refuge, Myrtle Falls, Snow Creek Falls, the Myrtle Creek Preserve, and Bonners
-Ferry, Idaho & the Purcell Trench.
+None of note under normal conditions.
 
 ## R & P
 
-Jalapeños, Eichardts, Burger Express, Mr. Sub! All in Sandpoint
+Jalapeños, Eichardt's, Burger Express, and Mr. Sub in Sandpoint.
 
----
+## Photo Gallery
 
-### Picture (Image missing)
+![The auto tour road next to the channel, from the road to Burton Peak](assets/images/11162021843.jpg)
+_The auto tour road next to the channel, from the road to Burton Peak_
 
-## Photo gallery
+![The old lookout cabin on Burton Peak](assets/images/p56.png)
+_The old lookout cabin on Burton Peak_
 
-![Picture](assets/images/11162021843.jpg)
+![Weathered logs of the Burton Peak fire lookout cabin](assets/images/p166.png)
+_Weathered logs of the Burton Peak fire lookout cabin_
 
-## The "auto tour road" next the the channel, from the road to burton peak
+![Burton Peak from further up Cascade Ridge, a good spot to eat lunch](assets/images/p167.png)
+_Burton Peak from further up Cascade Ridge, a good spot to eat lunch_
 
-### Picture (Image missing) Details
+![Burton Peak from the Kootenai National Wildlife Refuge auto route](assets/images/p55.png)
+_Burton Peak from the Kootenai National Wildlife Refuge auto route_
 
-## The kootenai national wildlife refuge from the myrtle peak road
-
-![Picture](assets/images/p56.png)
-
-## The old lookout cabin on burton peak
-
----
-
-![Picture](assets/images/p166.png)
-
-## Weathered logs of the burton peak fire lookout cabin
-
-![Picture](assets/images/p167.png)
-
-## Burton peak from further up the cascade ridge a good spot to eat lunch
-
----
-
-![Picture](assets/images/p55.png)
-
-## Burton peak from the kootenai national wildlife refuge auto route
-
-![Picture](assets/images/p57.png)
-
-## Cascade ridge from pyramid peak trail
-
-Live simply. Love carefully. Exist lightly. Speak well of others. Play often. chic 2012
+![Cascade Ridge from Pyramid Peak Trail](assets/images/p57.png)
+_Cascade Ridge from Pyramid Peak Trail_

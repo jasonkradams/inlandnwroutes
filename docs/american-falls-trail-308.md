@@ -1,122 +1,97 @@
 ---
 tags:
-- Waterfalls
-- Easy
-- Day Hike
-- Backpack
-- Mt. Biking
-- Swimming
+  - Waterfalls
+  - Easy
+  - Day Hike
+  - Backpack
+  - Mt. Biking
+  - Swimming
 stats:
-- label: Event Type
-  icon: waterfall
-  value: Day hike, backpack, Mt. Biking, swimming
-- label: Distance
-  icon: map-marker-distance
-  value: 16.2 miles RT
-- label: Elevation Gain
-  icon: elevation-rise
-  value: 640’
-- label: Difficulty
-  icon: speedometer
-  value: easy
-- label: Maps
-  icon: map
-  value: I.P.N.F., Kaniksu N.F., Continental Mountain
-- label: GPS
-  icon: crosshairs-gps
-  value: 48°53’45" n 116°57’51" w
-- label: Ranger District
-  icon: pine-tree
-  value: Priest Lake r.d. 208.443.2512
-- label: Boundary County Sheriff
-  icon: shield-account
-  value: CALL 911 FIRST or 208. 267.3151
+  - label: Event Type
+    icon: waterfall
+    value: Day hike, backpack, mountain biking, swimming
+  - label: Distance
+    icon: map-marker-distance
+    value: 16.2 miles RT
+  - label: Elevation Gain
+    icon: elevation-rise
+    value: 640' gain
+  - label: Difficulty
+    icon: speedometer
+    value: Easy
+  - label: Maps
+    icon: map
+    value: IPNF, Kaniksu NF, Continental Mountain Topo
+  - label: GPS
+    icon: crosshairs-gps
+    value: 48°53'45" N 116°57'51" W
+  - label: Ranger District
+    icon: pine-tree
+    value: Priest Lake RD (208.443.2512)
+  - label: Boundary County Sheriff
+    icon: shield-account
+    value: CALL 911 FIRST or 208.267.3151
 notes:
-- label: Idaho Panhandle National Forests Alerts
-  url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices
+  - label: Idaho Panhandle National Forests Alerts
+    url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 
 # American Falls Trail 308
 
 ## Description
 
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an emergency ocurrs, evaluate your circumstances and call only if needed. Altho this trail seems
-long, it is a beautiful trail to hike on the hottest day of the year. Most of Trail
+The Upper Priest River Trail (#308) to American Falls (also known as Upper Priest River Falls) is one of the most magnificent ancient forest hikes in the Pacific Northwest. Flanking the Upper Priest River near the Canadian border, Trail #308 wanders through one of the largest intact old-growth cedar and hemlock groves in the region, with giant trees measuring up to 10 feet in diameter.
 
-## 308 is
+The trail follows gentle terrain along the river with extensive wooden boardwalks protecting fragile mossy soil. Keep an eye out for bright orange peel fungus growing near the falls.
 
-surrounded by large Hemlocks and Cedars.
+## Route Options
 
-For the most part, this trail skirts the Upper Priest River. Along your hike or mt. bike, there are numerous
-wood walkways to protect the fragile, often moist ground. Trees make this hike a real memory. And this area
-is one of the largest, in tact old growth forests in the Pacific Northwest. Some of the trees are up to 10
-feet in diameter. For a shorter hike, you can drive up FR1013, and turn onto FR 1388 to the Continental
-Trailhead. The hike is 1.5 miles and 1040 verts down to Trail #308. From 308, it’s another mile to American
-Falls, aka Upper Priest Falls. But it won’t be as cool as hiking the 308 trail. Cool meaning temps and
-beauty.
+### Full Upper Priest River Hike (16.2 miles RT)
 
-For mt. bikers, drive past, Trail 308 trailhead, leaving a shuttle car and turn up FR 1388 after it crosses
-Continental Creek to the end. You will be at the Continental Trail #28. This route is 14 miles back to the
-Trail #308 trailhead where you left a shuttle car. It is a 1040 foot drop down to Trail #308.
+Hike the full length of Trail #308 along the Upper Priest River from the main trailhead to American Falls and back.
 
-While at American Falls, look around for Orange Peel Fungus.
+### Short Cut via Continental Trail #28 (2.5 miles RT)
 
-## Directions
+For a shorter hike, drive past the main trailhead onto FR-1388 to the Continental Trailhead. Hike 1.5 miles down the Continental Trail (#28), descending 1,040 feet to intersect Trail #308, then continue 1 mile north to American Falls.
 
-From Priest River, drive north on Hwy 57 for about 37 miles to Nordman. Continue 14 miles on FR #302 to
-Granite Creek and the Stagger Inn Campground. Take a moment here to visit Granite Falls and the Roosevelt
-Grove of Ancient Cedars. From here drive 1.6 miles to the FR #1013 junction. Take the middle fork nearly 12
-miles, and look for the parking area on the left.
+### Mountain Bike Shuttle (14 miles Point-to-Point)
 
-For the upper trailhead, drive further up 1013, to the #28 trailhead at the end of the road.
+Mountain bikers can leave a shuttle car at the Trail #308 trailhead, drive up FR-1388 past Continental Creek to the Trail #28 trailhead, and ride 14 miles descending 1,040 feet back down to the lower trailhead.
 
----
+## Access & Directions
 
-## Cool things close by
+From Priest River, drive north on Highway 57 for 37 miles to Nordman. Continue 14 miles on Forest Road #302 to Granite Creek and Stagger Inn Campground (take a moment to visit Roosevelt Grove of Ancient Cedars and Granite Falls). Drive 1.6 miles to the FR-1013 junction. Take the middle fork for nearly 12 miles to the Trail #308 parking area on the left.
 
-Hughes Meadows & Ridge, Little Snowy Top, and Snowy Top.
+## Safety & Wildlife
 
-## Hazards
+!!! warning "Grizzly Bear & Moose Habitat"
 
-The hiking, and biking hazards are simple. If you gawk too much, you will leave the trail. On Trail #28, you
-just pay attention to the trail as it drops 140’.
+    This remote northern corridor near the Canadian border is active grizzly bear and moose habitat. Make noise while hiking or biking to avoid surprising wildlife, carry EPA-approved bear spray in an accessible location, and maintain a safe distance.
 
-This area is frequented by moose and grizzly bears. make lots of noise to alert them that you are in the
-area.
+## Historical Reflections
 
-## R & P
+!!! quote "Reflections on Wilderness"
 
-Burger Express in Priest River.
+    There are two things I like about life... living it, and living in nature. The solitude is deafening.
+    — Chic Burge (January 1, 2023)
 
-## Photo gallery
+## Nearby Points of Interest
 
----
+- **Roosevelt Grove of Ancient Cedars & Granite Falls**
+- **Hughes Meadows & Hughes Ridge**
+- **Little Snowy Top & Snowy Top Mountain**
 
-![Picture](assets/images/p380.png)
+## Photo Gallery
 
-## A section of the american falls trail #308
+![A section of the American Falls Trail #308 through old-growth cedar](assets/images/p380.png)
+_A section of the American Falls Trail #308 through old-growth cedar._
 
-### Picture (Image missing)
+![Upper Priest River Falls, also known as American Falls](assets/images/p168.png)
+_Upper Priest River Falls, also known as American Falls._
 
-## American falls, aka, upper priest river falls
+![Long exposure view of American Falls cascading over granite ledges](assets/images/10232023120p.jpg)
+_Long exposure view of American Falls cascading over granite ledges._
 
----
+## Plan Your Trip
 
-![Picture](assets/images/p168.png)
-
-## The upper priest river falls, aka american falls
-
----
-
-![Picture](assets/images/10232023120p.jpg)
-
-## A long exposure of american falls
-
----
-
-There are two things I like about life… Living it, and living in nature. The solitude is deafening.
-
-chic 1.1.2023
-
----
+- [Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)

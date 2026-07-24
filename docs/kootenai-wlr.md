@@ -1,162 +1,108 @@
 ---
 tags:
-- Trails & Scrambles
-- All Routes Are Easy
-- Hiking
-- Auto Tour
-- Bird
-- Animal Viewing
+  - Trails & Scrambles
+  - All Routes Are Easy
+  - Hiking
+  - Auto Tour
+  - Bird
+  - Animal Viewing
 stats:
-- label: Event Type
-  icon: hiking
-  value: Hiking, auto tour, bird and animal viewing,
-- label: Distance
-  icon: map-marker-distance
-  value: Longest trail is 2.2 miles. Auto Tour is a 4.5 mile drive with pullouts.
-- label: Elevation
-  icon: terrain
-  value: Level 1787’ base elevation
-- label: Difficulty
-  icon: speedometer
-  value: All routes are easy
-- label: Maps
-  icon: map
-  value: Stop by the refuge headquarters for a brochure, viewing guide and restrooms.
-- label: GPS
-  icon: crosshairs-gps
-  value: 48°42’25"n 116°24’54"w
-- label: Ranger District
-  icon: pine-tree
-  value: Bonners Ferry R.D. 208.267.5561
-- label: Boundary County Sheriff
-  icon: shield-account
-  value: CALL 911 FIRST or 208.267.3151
+  - label: Event Type
+    icon: hiking
+    value: Hiking, auto tour, bird and animal viewing
+  - label: Distance
+    icon: map-marker-distance
+    value: Longest trail is 2.2 miles. Auto Tour is a 4.5 mile drive with pullouts.
+  - label: Elevation
+    icon: terrain
+    value: Level 1,787' base elevation
+  - label: Difficulty
+    icon: speedometer
+    value: All routes are easy
+  - label: Maps
+    icon: map
+    value: Stop by refuge headquarters for a brochure, viewing guide, and restrooms.
+  - label: GPS
+    icon: crosshairs-gps
+    value: 48° 42' 25" N 116° 24' 54" W
+  - label: Ranger District
+    icon: pine-tree
+    value: Bonners Ferry R.D. [208.267.5561](tel:208.267.5561)
+  - label: Boundary County Sheriff
+    icon: shield-account
+    value: "CALL 911 FIRST or [208.267.3151](tel:208.267.3151)"
 notes:
-- Idaho panhandle national forest/alerts
-- url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
+  - label: Idaho Panhandle National Forest Alerts & Notices
+    url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 
-# Kootenai Wlr
-
-## Kootenai national wildlife refuge
+# Kootenai National Wildlife Refuge
 
 ## Description
 
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an emergency ocurrs, evaluate your circumstances and call only if needed. The Kootenai National
-Wildlife Refuge was established in 1964, and contains 2775 acres. There are over 300 species of vertebrate
-animals that stop over throughout the year. Stop by the headquarters and pick up a free brochure that
-outlines which species are around for the time you are visiting the refuge. There are over 220 species of
-migratory birds. Moose, deer, elk, otter, and Bald Eagles are regulars at the refuge. Within the refuge are
-5 hiking trails, the longest is 2.2 miles, one of which is a 1/4 mile trail to Myrtle Falls. At the
-headquarters are restrooms
+We have added the area's sheriff's emergency phone numbers for each trip write-up under the ranger district info. If an emergency occurs, evaluate your circumstances and call only if needed.
 
-## Option #1
+The Kootenai National Wildlife Refuge was established in 1964 and encompasses 2,775 acres. Over 300 species of vertebrate animals stop over throughout the year. Stop by headquarters to pick up a free brochure outlining active seasonal species. Over 220 species of migratory birds pass through the refuge. Moose, deer, elk, otter, and Bald Eagles are regular inhabitants. The refuge features five hiking trails (the longest being 2.2 miles), including a 0.9-mile trail to Myrtle Falls. Restrooms are available at headquarters.
 
-The Deep Creek Trail is 2.2 miles and starts on the SW corner along Riverside Road, and skirts Deep Creek,
-to Frontage Road 417, and back.
+## Tour & Hiking Options
 
-## Option #2
+### Option #1: Deep Creek Trail
 
-The Island Pond Trail starts on Frontage Road 417, and circles Island Pond for 1.5 miles.
+The Deep Creek Trail is 2.2 miles long and starts at the southwest corner along Riverside Road, skirting Deep Creek to Frontage Road 417 and back.
 
-## Option #3
+### Option #2: Island Pond Trail
 
-The Myrtle Falls Trail is across from the headquarters to the west. It has its own parking area. The hike to
-the Myrtle Falls Overlook is only .9 of a mile along Myrtle Creek. A steel bridge crosses the creek as it
-gently ascends to the overlook, via several switchbacks. Along the way, be sure to admire Myrtle Creek. It
-can be followed north along Frontage Road 417 to the bridge at the north end of the headquarters, near the
-Auto Tour Road. The Myrtle Creek is spectacular in the winter. Don't miss it. There is a hazard here you
-must pay attention to. at the falls overlook is an unprotected viewing area. please watch your children very
-carefully here.
+The Island Pond Trail begins on Frontage Road 417 and circles Island Pond for 1.5 miles.
 
-## Option #4
+### Option #3: Myrtle Falls Trail
 
-The Auto Tour starts just north of the refuge headquarters parking area. This car tour is 4.5 miles long and
-circles the main body of the refuge. Along the way are viewing points and restrooms. While on the east side
-of the tour, near the restroom, look up and west. High above the refuge is Burton Peak. An abandon USFS
-lookout cabin sits on the east point of the Cascade Ridge. Please don’t hurry on this tour. The slower you
-go, the higher the odds of seeing wildlife, and enjoying the refuge ponds.
+The Myrtle Falls Trail starts west of headquarters across the road, featuring its own parking area. The hike to Myrtle Falls Overlook is 0.9 miles along Myrtle Creek. A steel bridge crosses the creek as the trail gently ascends via several switchbacks to the overlook. Myrtle Creek is particularly spectacular in winter.
+
+!!! warning "Waterfall Overlook Hazard"
+    The viewing area at Myrtle Falls Overlook is unprotected. Keep close watch over children in this area.
+
+### Option #4: Auto Tour Route
+
+The Auto Tour begins just north of the refuge headquarters parking area. This 4.5-mile driving loop circles the main body of the refuge, offering viewing turnouts and restroom facilities. On the east side of the loop near the restroom, look west toward Burton Peak and the historic USFS lookout cabin perched on Cascade Ridge. Drive slowly to maximize wildlife viewing opportunities.
 
 ## Directions
 
-Drive thru Bonners Ferry to the old section of the city. Just before the Kootenai River Bridge, turn left
-onto Riverside Road, and head west for about 4.7 miles to a slow right onto Frontage Road 417. The
-headquarters are about .3 of a mile on your right.
+Drive through Bonners Ferry toward the historic downtown district. Just before the Kootenai River Bridge, turn left onto Riverside Road and head west for 4.7 miles to a gentle right onto Frontage Road 417. Refuge headquarters will be 0.3 miles ahead on your right.
 
 ## Hazards
 
-As stated above in option#3, be very careful with your children at the falls overlook.
+- As noted in Option #3, exercise extreme caution with children at the Myrtle Falls Overlook.
 
-## Cool things close by
+## Cool Things Close By
 
-Burton Peak, Myrtle Peak & Lake, Pyramid Lakes & Peak, Long Mountain Lake & Peak, Roman Nose Lakes & Peak
-with Upper & Lower Snow Creek Falls, ( don’t miss these falls.) They are less then 3/8 of a mile on a great
-trail), Trout Lake & Peak, with Big Fisher Lake beyond, 2 Mouth Lakes, and the MIghty Kootenai River.
+- Burton Peak, Myrtle Peak & Lake
+- Pyramid Lakes & Peak, Long Mountain Lake & Peak
+- Roman Nose Lakes & Peak (with Upper & Lower Snow Creek Falls—less than 3/8 mile on a great trail)
+- Trout Lake & Peak, Big Fisher Lake, Two Mouth Lakes
+- The Kootenai River
 
-## R & P
+## Restaurants & Provisions
 
-Jalapeños, Eichardt’s, Burger Express, and Mr. Sub in Sandpoint.
+- Jalapeños (Sandpoint, WA/ID)
+- Eichardt's (Sandpoint, ID)
+- Burger Express (Sandpoint, ID)
+- Mr. Sub (Sandpoint, ID)
 
----
+## Photo Gallery
 
-## Photo gallery
+To read more about the Purcell Trench, the American Selkirks, and the Cabinet Mountain Wilderness, select the region name from the site navigation.
 
-To read more about the purcell trench, the american selkirks, and the cabinet mountain wilderness, double
-click on the regions name in the drop down menu
+![Two photographers trying to get a good image next to the meeting room barn](assets/images/28140013.jpg)
+_Two photographers trying to get a good image next to the meeting room barn_
 
-![Picture](assets/images/28140013.jpg)
+![The Kootenai National Wildlife Refuge from Myrtle Lake Road](assets/images/2021116-61-jpeg-1.jpg)
+_The Kootenai National Wildlife Refuge from Myrtle Lake Road_
 
-## Two photog friends trying to get a good image next to the meeting room barn
+![Early morning fog over the Purcell Trench](assets/images/11162021843.jpg)
+_Early morning fog over the Purcell Trench_
 
-### Picture (Image missing)
+![A moose along the Auto Tour Drive](assets/images/p732.png)
+_A moose along the Auto Tour Drive_
 
-## This is an image looking east into the purcell trench
-
-### Picture (Image missing) Details
-
-## Aspens near the "auto tour route"
-
-### Picture (Image missing) Details (2)
-
-## The kootenai national wildlife refuge from road #18, south side
-
-![Picture](assets/images/2021116-61-jpeg-1.jpg)
-
-## The kootenai national wildlife refuge from the myrtle lake road
-
-### Picture (Image missing) Details (3)
-
-## The kootenai national wildlife refuge from the burton peak road
-
-![Picture](assets/images/11162021843.jpg)
-
-## This image shows the "auto tour road" on the outside of channel
-
-### Picture (Image missing) Details (4)
-
-## Early morning fog on the purcell trench
-
-### Picture (Image missing) Details (5)
-
-## The kootenai national wildlife refuge in the summer
-
-![Picture](assets/images/p732.png)
-
-## A moose from along the auto tour drive
-
----
-
-### Picture (Image missing) Details (6)
-
-## A northern section of the kootenai national wildlife refuge
-
-![Picture](assets/images/110620211250p-1.jpg)
-
----
-
-## Myrtlre falls
-
-### Picture (Image missing) Details (7)
-
-## Burton peak & old lookout cabin from the k.n.w.r. auto tour route
+![A northern section of the Kootenai National Wildlife Refuge](assets/images/110620211250p-1.jpg)
+_A northern section of the Kootenai National Wildlife Refuge_

@@ -1,130 +1,186 @@
-# Trees
-
+---
+tags:
+  - Flora & Wildlife
 ---
 
-## Trees (2)
+# Trees
 
-### Treespnw
+## Identification Resource
 
-I have spent my life trying, unsuccessfully to identify trees I see on my hikes. A year or so ago, I
-stumbled on a resource that makes identification easy. TREESPNW is not an app, but rather a download to your
-phone that is accessible anywhere you hike. Even without cell coverage. It is the only method of
-identification that I've found, that works for me. Search the App Store to download this free service.
+I have spent my life trying, unsuccessfully, to identify trees I see on my hikes. A year or so ago, I stumbled on a resource that makes identification easy. **TREESPNW** is not an app, but rather a download to your phone that is accessible anywhere you hike—even without cell coverage. It is the only method of identification that I've found that works for me. Search the App Store to download this free service.
 
-## Click on the image to enlarge
+## Photo Gallery
 
-![Image](assets/images/122120217071p.jpg "\"CIRCLING CEDAR\" ON TRAIL #165 TO STEVENS LAKES")
+!["Circling Cedar" on Trail #165 to Stevens Lakes](assets/images/122120217071p.jpg)
+_"Circling Cedar" on Trail #165 to Stevens Lakes_
 
-![Image](assets/images/12212021708p.jpg)
+![Trees in Inland Northwest](assets/images/12212021708p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12212021710p.jpg)
+![Trees in Inland Northwest](assets/images/12212021710p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12212021713p.jpg "\"CIRCLING CEDAR\"")
+!["Circling Cedar"](assets/images/12212021713p.jpg)
+_"Circling Cedar"_
 
-![Image](assets/images/12212021707p.jpg "\"CIRCLING CEDAR\" YOU WILL SEE THIS TREE MANY TIMES. IVE BEEN PHOTOGRAPHING THIS CEDARS FOR OVER 50 YEARS IN ALL SEASONS.")
+!["Circling Cedar"](assets/images/12212021707p.jpg)
+_"Circling Cedar"_
 
-![Image](assets/images/12212021709p.jpg)
+![Trees in Inland Northwest](assets/images/12212021709p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12212021714p.jpg)
+![Trees in Inland Northwest](assets/images/12212021714p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12212021711p.jpg)
+![Trees in Inland Northwest](assets/images/12212021711p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12212021712p.jpg)
+![Trees in Inland Northwest](assets/images/12212021712p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12212021715p.jpg)
+![Trees in Inland Northwest](assets/images/12212021715p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12212021716p.jpg "\"WHISKER RIDGE\" IS MY DESIGNATIONFOR THIS BURNED FOREST  ON THE SOUTH RIDGE OF ROMAN NOSE, FROM THE SUNDANCE FIRE OF 9.1.67")
+!["Whisker Ridge" burned forest on south ridge of Roman Nose](assets/images/12212021716p.jpg)
+_"Whisker Ridge" burned forest on south ridge of Roman Nose_
 
-![Image](assets/images/12212021717p.jpg "\"CIRCLING CEDAR\" AND THE SPOKANE MOUNTAINEERS STEVENS LAKES TRAIL WORK PARTY")
+!["Circling Cedar" and trail work party](assets/images/12212021717p.jpg)
+_"Circling Cedar" and trail work party_
 
-![Image](assets/images/122120217171p.jpg)
+![Trees in Inland Northwest](assets/images/122120217171p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/1221202178p.jpg)
+![Trees in Inland Northwest](assets/images/1221202178p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12212021719p.jpg "\"CIRCLING CEDAR\" IN WINTER ON THE STEVENS LAKES TRAIL #165")
+!["Circling Cedar" in winter](assets/images/12212021719p.jpg)
+_"Circling Cedar" in winter_
 
-![Image](assets/images/12212021721p.jpg "\"CIRCLING CEDAR\"")
+!["Circling Cedar"](assets/images/12212021721p.jpg)
+_"Circling Cedar"_
 
-![Image](assets/images/12212021722p.jpg)
+![Trees in Inland Northwest](assets/images/12212021722p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12212021723p.jpg)
+![Trees in Inland Northwest](assets/images/12212021723p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12212021724p.jpg)
+![Trees in Inland Northwest](assets/images/12212021724p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/2212021725p.jpg)
+![Trees in Inland Northwest](assets/images/2212021725p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12212021726p.jpg)
+![Trees in Inland Northwest](assets/images/12212021726p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12212021727p.jpg)
+![Trees in Inland Northwest](assets/images/12212021727p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12212021728p.jpg)
+![Trees in Inland Northwest](assets/images/12212021728p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12212021729p.jpg)
+![Trees in Inland Northwest](assets/images/12212021729p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12212021730p.jpg)
+![Trees in Inland Northwest](assets/images/12212021730p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12212021732p.jpg)
+![Trees in Inland Northwest](assets/images/12212021732p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12212021733p.jpg)
+![Trees in Inland Northwest](assets/images/12212021733p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12212021734p.jpg)
+![Trees in Inland Northwest](assets/images/12212021734p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12212021735p.png)
+![Trees in Inland Northwest](assets/images/12212021735p.png)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12212021736p.jpg)
+![Trees in Inland Northwest](assets/images/12212021736p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12212021737p.jpg)
+![Trees in Inland Northwest](assets/images/12212021737p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12262021400p.jpg)
+![Trees in Inland Northwest](assets/images/12262021400p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12262021401p.jpg)
+![Trees in Inland Northwest](assets/images/12262021401p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12262021402p.jpg)
+![Trees in Inland Northwest](assets/images/12262021402p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12262021405p.jpg)
+![Trees in Inland Northwest](assets/images/12262021405p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12262021407p.jpg)
+![Trees in Inland Northwest](assets/images/12262021407p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12262021408p.jpg)
+![Trees in Inland Northwest](assets/images/12262021408p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12262021409p.jpg)
+![Trees in Inland Northwest](assets/images/12262021409p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12262021411p.jpg)
+![Trees in Inland Northwest](assets/images/12262021411p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12262021412p.jpg)
+![Trees in Inland Northwest](assets/images/12262021412p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12262021413p.jpg)
+![Trees in Inland Northwest](assets/images/12262021413p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12262021414p.jpg "I CALL THESE TREES \"CANDLESTICKS TREES\" THEY ARE LOCATED IN THE C.M.W.")
+!["Candlestick Trees"](assets/images/12262021414p.jpg)
+_"Candlestick Trees"_
 
-![Image](assets/images/12262021415p.jpg)
+![Trees in Inland Northwest](assets/images/12262021415p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12262021410p.jpg)
+![Trees in Inland Northwest](assets/images/12262021410p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/12262021442p.jpg)
+![Trees in Inland Northwest](assets/images/12262021442p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/6172022807p.jpg "\"CIRCULING CEDAR 6.15.2022")
+!["Circling Cedar"](assets/images/6172022807p.jpg)
+_"Circling Cedar"_
 
-![Image](assets/images/21540015.jpg)
+![Trees in Inland Northwest](assets/images/21540015.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/1720221219p.jpg)
+![Trees in Inland Northwest](assets/images/1720221219p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/6172022811p.jpg)
+![Trees in Inland Northwest](assets/images/6172022811p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/6172022813p.jpg)
+![Trees in Inland Northwest](assets/images/6172022813p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/9102022617p.jpg)
+![Trees in Inland Northwest](assets/images/9102022617p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/6172022822p.jpg)
+![Trees in Inland Northwest](assets/images/6172022822p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/3222023915p.jpg)
+![Trees in Inland Northwest](assets/images/3222023915p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/3222023918p.jpg)
+![Trees in Inland Northwest](assets/images/3222023918p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/962024356p.jpg)
+![Trees in Inland Northwest](assets/images/962024356p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/972024415p.jpg)
+![Trees in Inland Northwest](assets/images/972024415p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/8152025409p.jpg)
+![Trees in Inland Northwest](assets/images/8152025409p.jpg)
+_Trees in Inland Northwest_
 
-![Image](assets/images/8252025352p.jpg)
+![Trees in Inland Northwest](assets/images/8252025352p.jpg)
+_Trees in Inland Northwest_

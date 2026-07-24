@@ -1,113 +1,108 @@
-# Kintla Lake
-
-## Kintla lake 4,008’
-
 ---
+tags:
+  - Lakes
+  - Paddling
+  - Camping
+  - Backpacking
+stats:
+  - label: Elevation
+    icon: terrain
+    value: 4,008'
+  - label: Managing Agency
+    icon: domain
+    value: Glacier National Park
+  - label: Flathead County Sheriff
+    icon: shield-account
+    value: 406.758.5610
+notes:
+  - label: Kintla Lake Campground Details
+    url: https://www.nps.gov/applications/glac/cgstatus/camping_detail.cfm?cg=Kintla%20Lake
+  - label: Glacier National Park Campground Status
+    url: https://www.nps.gov/applications/glac/cgstatus/cgstatus.cfm
+  - label: Glacier National Park Dashboard
+    url: https://www.nps.gov/applications/glac/dashboard/
+---
+
+# Kintla Lake (4,008')
 
 ## Description
 
-Flathead county sheriff: 406.758.5610
+It takes a bit of effort and planning to get to Kintla Lake, but the paddling can be magical. The water is as clear as glass, reflecting the sky like a polished mirror while revealing the lake bottom below. Elk bugle through the night and morning, and under clear skies, night paddlers and stargazers may catch views of the Northern Lights.
 
-It takes a bit of effort and planning to get to Kentla but the paddling can be magical. The water was as
-clear as glass and you could see bottom below you yet at the same time it reflected the sky like a polished
-mirror. We heard elk bugling each night and morning. The skies were clear and we got a view of the Northern
-Lights too.
+The campground has approximately 12 campsites. Spots along the outlet offer the soothing sound of running water, while sites right on the lake provide sweeping mountain views.
 
-The camp has approximately 12 camp spots. The spots along the outlet offer the sound of running water and
-the spots on the lake offer a view.
+This is also an exceptional trailhead for backpacking. Hikers can trek 6.4 miles to the campground at the head of the lake or embark on a multi-day through-hike to Logan Pass or Waterton Lakes National Park.
 
-This is a great trail head for backpacking. You could hike 6.4 miles to the camp ground at the head of the
-lake or do a multi-day through hike to Logan's Pass or Waterton Lakes N. P. for a grand tour of the local
-backcountry.
+With minimal light pollution, Kintla Lake is ideal for stargazing; on clear nights, astronomers and visitors gather in the day-use area to view the night sky.
 
-This is a great spot for star gazing too. There is very little light pollution so faint objects appear
-brighter. The day use area was filled with astronomers at midnight.
+---
 
 ## Directions
 
-Instead of going in the west entrance we went north out of Columbia Falls and camped at Big Creek camp
-ground outside of the park. Continue north to Polebridge. It takes approximately one hour from Polebridge to
-get to the lake.
+From Columbia Falls, head north past Big Creek Campground to Polebridge. From Polebridge, drive north for approximately 20 miles (30–40 minutes) to reach Kintla Lake.
 
-If you bring a boat you must have it inspected for invasive species at Apgar prior to arriving at Kintla.
-The boat inspection opens at 7:00 AM and is located across the street from the boat ramp.
+!!! warning "Watercraft Inspection Required"
+    If bringing a boat or kayak, you **must** have it inspected for invasive species at Apgar prior to arriving at Kintla. The boat inspection station opens at 7:00 AM and is located across the street from the boat ramp.
 
-Information specific to Kintla CG. can be found here:
-[<https://www.nps.gov/applications/glac/cgstatus/camping>\_detail.cfm?cg=Kintla%20Lake](https://www.nps.gov/applications/glac/cgstatus/camping_detail.cfm?cg=Kintla%20Lake)
-The [Park CG. status](https://www.nps.gov/applications/glac/cgstatus/cgstatus.cfm) website page tells you by
-day and hour when the CG. filled up in the past. The Ranger station at the North entrance was able to
-confirm how many available spots there were at Kintla before we headed up the road.
+### Resource & Status Links
 
-Here is the new status page for parking lots, camp grounds and weather:
-<https://www.nps.gov/applications/glac/dashboard/>
+- [Kintla Lake Campground Details](https://www.nps.gov/applications/glac/cgstatus/camping_detail.cfm?cg=Kintla%20Lake)
+- [Glacier National Park Campground Status](https://www.nps.gov/applications/glac/cgstatus/cgstatus.cfm) — Check historic fill times by day and hour.
+- [Glacier National Park Dashboard](https://www.nps.gov/applications/glac/dashboard/) — Real-time parking, campground, and weather status.
 
 ---
 
-## Option #1
+## Route & Trip Options
 
-Car camp, swim, fish, hike, star gaze and paddle from camp.
+### Option 1: Car Camping & Day Use
 
-## Option #2
+Car camp, swim, fish, hike, stargaze, and paddle directly from camp.
 
-Paddle 6.4 miles and kayak camp at the Lake Head CG. Day hike to the upper lake from there.
+### Option 2: Kayak Camping at Lake Head
 
-## Option #3
+Paddle 6.4 miles to kayak camp at the Lake Head Campground. Explore day hikes to Upper Kintla Lake from camp.
 
-Camp at Kintla the first night so you can get an early start and do a multi day trip to Logan's Pass or hike
-to the southern end of
-[Waterton Lake](https://www.nationalgeographic.com/travel/parks/waterton-lakes-canada-park/#/36748.jpg) and
-catch the ferry and stay in the Hotel for the night.
+### Option 3: Backpacking Traverse to Logan Pass or Waterton
 
----
-
-## Cool things close by
-
-Bowman Lake, Flathead River, Waterton Lakes N. P., Bob Marshall Wilderness
-
-## Hazards
-
-Be aware... the road from polebridge to kinyla lake is a car killer. its about 20 miles +-, and takes 30 to
-40 minutes. Do not drive it on iffy tires.
-
-A potential hazard is the current at the outlet stream. The camp ground beach wraps around to the mouth of
-the outlet stream and depending on the season there could be a considerable amount of flow there that could
-sweep you down stream. Brown bears and mountain lions could get you or your food. Store your food properly.
-A cooler is not bear proof. The wind can come up on the lake and produce big waves and rough paddling
-conditions. Cold water can kill. You are in a remote area and calling for help will be difficult.
-
-## R & P
-
-The Polebridge Mechantile is a favorite for their coffee and pastries. Northern Lights Saloon and Cafe is an
-option too.
+Camp at Kintla the first night to secure an early start, then hike a multi-day route to Logan Pass or to the southern end of Waterton Lake. Catch the ferry at Waterton Lake and stay overnight at the hotel.
 
 ---
 
-## Plan your trip
+## Cool Things Close By
 
-[Click for Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
-
-## Photo gallery
+Bowman Lake, Flathead River, Waterton Lakes National Park, Bob Marshall Wilderness.
 
 ---
 
-![Image](assets/images/p241-1.png)
+## Hazards & Safety
 
-## Kintla lake at sunrise
-
-![Picture](assets/images/11112021918p.jpg)
+!!! caution "Road & Wilderness Hazards"
+    - **Rough Access Road:** The 20-mile road from Polebridge to Kintla Lake is unpaved and notoriously rough. Do not drive it on worn or low-clearance tires.
+    - **Outlet Currents:** Current at the outlet stream can be strong depending on season and water level; exercise caution near the stream mouth to avoid being swept downstream.
+    - **Wildlife:** Grizzly bears, black bears, and mountain lions inhabit the area. Store all food properly in bear lockers. Standard coolers are not bear-proof.
+    - **Weather & Wind:** High winds can quickly build large waves on the lake. Cold water immersion is life-threatening. Remote location means emergency response will be delayed.
 
 ---
 
-## What a day to be on kintla lake
+## Refreshments & Dining (R & P)
 
-![Picture](assets/images/11112021921p.jpg)
+The Polebridge Mercantile is a local favorite for coffee and fresh pastries. Northern Lights Saloon & Cafe is another great option.
 
-## A group of spokane mountaineers paddling the south shore
+---
 
-### Picture (Image missing)
+## Weather & Planning
 
-## Ya just can't beat a day like this
+- [Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
 
-### Picture (Image missing) Details
+---
 
-## At the back of the lake is a small camp site and the trail to upper kintla lake
+## Photo Gallery
+
+![Kintla Lake at sunrise](assets/images/p241-1.png)
+_Kintla Lake at sunrise._
+
+![What a day to be on Kintla Lake](assets/images/11112021918p.jpg)
+_What a day to be on Kintla Lake._
+
+![A group of Spokane Mountaineers paddling the south shore](assets/images/11112021921p.jpg)
+_A group of Spokane Mountaineers paddling the south shore._

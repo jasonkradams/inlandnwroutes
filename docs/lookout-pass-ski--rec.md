@@ -1,225 +1,97 @@
 ---
 tags:
-- Winter & Skiing
+  - Winter & Skiing
 stats:
-- label: Phone
-  icon: phone
-  value: 208.744.1234
-- label: Acres
-  icon: vector-square
-  value: '1023'
-- label: Average Snow Fall
-  icon: weather-snowy-heavy
-  value: 400+
-- label: Summit Elevation
-  icon: terrain
-  value: 6150'
-- label: Base Elevation
-  icon: terrain
-  value: 4500'
-- label: Verts
-  icon: arrow-expand-vertical
-  value: 1650'
+  - label: Phone
+    icon: phone
+    value: "208.744.1234"
+  - label: Acres
+    icon: vector-square
+    value: "1023"
+  - label: Average Snow Fall
+    icon: weather-snowy-heavy
+    value: "400+"
+  - label: Summit Elevation
+    icon: terrain
+    value: "6150'"
+  - label: Base Elevation
+    icon: terrain
+    value: "4500'"
+  - label: Verts
+    icon: arrow-expand-vertical
+    value: "1650'"
 notes:
-- label: Skilookout.com
-  url: https://skilookout.com
+  - label: "Skilookout.com"
+    url: "https://skilookout.com"
 ---
 
-# Lookout Pass Ski  Rec
+# Lookout Pass Ski & Recreation Area
 
-## Lookout pass ski & recreation area
+## Overview
 
-## of named runs: 52
-
-## of lifts: 5
-
-Miles from spokane: 94 miles Other amenities: route of the hiawatha, scenic bike trails described as the
-most scenic stretch of rail-to-trail.
-
----
+- **Location:** Lookout Pass (Idaho / Montana Border)
+- **Named Runs:** 52
+- **Lifts:** 5
+- **Distance from Spokane:** 94 miles
+- **Summer Amenities:** Route of the Hiawatha scenic rail-to-trail bike trail
 
 ## Description
 
-The hiawatha trail LOOKOUT PASS also operates the ROUTE OF THE HIAWATHA - SCENIC BIKE TRAIL. Described as
-"The Most Scenic
+Lookout Pass operates the **Route of the Hiawatha - Scenic Bike Trail**, described as "The Most Scenic Stretch of Rail-to-Trail Adventure in the Country". The trail features 10 dark tunnels and 7 sky-high trestles along a 15-mile all-downhill route. Learn more at [www.RideTheHiawatha.com](https://www.ridethehiawatha.com/).
 
-Stretch of
+## Master Development Plan & Expansion
 
-Rail-to-Trail Adventure in the Country", Offering 10 Dark Tunnels & 7 Sky-High Trestles. This 15 mile all
-downhill trail is open daily 8:30a to 5p (PST) May 28 thru Sept. 19, 2021. Learn more:
-[www.RideTheHiawatha.com](https://www.ridethehiawatha.com/)
+Lookout Pass's long-range master plan includes expanding lift-served terrain by approximately 2,000 acres onto two 6,200-foot peaks west-southwest of the existing ski area at the gateway to the St. Regis basin.
 
----
+### Phase I Expansion
 
-## Photo gallery
+Approved by the U.S. Forest Service on May 19, 2017, Phase I increased the special-use permit area by 458 acres (expanding total acreage from 538 to 1,023 acres). Phase I includes two chairlifts to the summit of Eagle Peak (top elevation 6,150 feet), accessing 14 new runs plus glades and raising total vertical drop to 1,650 feet. It also includes a 14,000 square foot base lodge in Idaho, maintenance facilities, and 130 additional parking spaces.
 
----
+### Phase II Concept
 
-## To contribute, contact chic via this website
+Conceptual Phase II encompasses a new lodge and parking at the base of a second peak covering roughly 30 acres. The new base area would be accessed from Exit 0 on I-90 via old Highway 10. No real estate development is planned.
 
-Future expansion Lookout’s Long Range Vision
+## History of Lookout Pass
 
-In a timeline spanning the next 20 years, Lookout Pass is hoping to expand lift-served terrain by about
-2,000 acres. Our future master plan includes opening two additional 6,200-foot peaks west-southwest of the
-existing ski area that stand as the gateway to the St. Regis basin. The concept includes a new 20,000
-square-foot base lodge on what is currently the back side of the ski area. The existing lodge—the oldest
-continuously operating ski lodge in Idaho, will continue to offer full services.
+Lookout’s original historic base lodge built in 1941 is the second-oldest ski lodge in the Pacific Northwest.
 
-### Phase I Expansion: HAS BEEN APPROVED BY THE USFS (May 19, 2017) and the first trail was cut in Oct. 2017.  More development on the 1st Phase is now ongoing
+- **Winter 1935–36:** The Idaho Ski Club is born. Ski pioneers build a rope tow powered by an engine from an abandoned car found on the old Yellowstone Highway (now I-90) and use a highway maintenance shed as a warming hut.
+- **1940:** Lookout’s Famous Free Ski School is founded. Over 80 years, volunteer instructors have introduced more than 75,000 youth to skiing and riding.
+- **1941:** The Civilian Conservation Corps (CCC) and US Forest Service construct Lookout’s historic lodge.
+- **1950s:** The volunteer Idaho Ski Club operates the hill and sells lift tickets for 50 cents.
+- **1980:** Chair One is financed through contributions from local mining companies.
+- **1992:** With the local mining industry in decline, a local group purchases the mountain to maintain operations.
+- **1999:** Lookout Associates LLC acquires the mountain, initiating major terrain expansions and facility upgrades.
+- **2003:** Timber Wolf double chairlift (Chair 2) opens on the Montana side, adding five runs and expanding vertical drop to 1,150 feet.
+- **2005:** A three-story, 6,000 square foot lodge expansion opens with expanded dining, retail, and loft lounge.
+- **2007:** North Star double chairlift opens expert terrain on the northern aspect.
+- **2011:** U.S. Forest Service accepts Phase One of the long-range expansion plan.
+- **2017:** Phase One expansion receives final USFS approval and trail cutting commences on Eagle Peak.
+- **2018:** Lookout finishes the season with 503 inches of snowfall and sets attendance records on the Route of the Hiawatha.
 
-### Picture (Image missing)
+## Photo Gallery
 
-### Phase I of the expansion plan has undergone the process required by the National Environmental Protection Act and the U.S. Forest Service has approved Phase One through a Record of Decision signed by IPNF Forest Supervisor Mary Farnsworth and Lolo NF Supervisor Tim Garcia, during the week of May 15th
+![The Original Lodge at Lookout Pass](assets/images/12132022253p.jpg)
+_The Original Lodge at Lookout Pass_
 
-### The Phase I expansion increases the special-use permit area by 458 acres (expanding the area from 538 acres currently, to a total of 1,023 acres), and includes two new chairlifts to the summit of Eagle Peak (shown in the photo below) with a top elevation of 6,150'. The two new chairlifts will access 14 runs, plus gladed areas, on the north and east aspects of the new peak. Lookout's vertical drop will increase to 1,650'. An additional base lodge located in Idaho (14,000 square feet from a previous approval) and maintenance facilties are also included in the Phase I Master Development Plan plus 130 additional parking spaces
+![Postcard Before the Ski Area Opened](assets/images/12132022255p.jpg)
+_Postcard Before the Ski Area Opened_
 
----
+![Lookout Pass Postcard from the 1960s](assets/images/12132022257p.jpg)
+_Lookout Pass Postcard from the 1960s_
 
-### Picture (Image missing) Details
+![Lookout Pass Lodge in the 1940s](assets/images/3102024648p.jpg)
+_Lookout Pass Lodge in the 1940s_
 
-### Picture (Image missing) Details (2)
+![Skiers Standing in Lift Lines](assets/images/3102024649p.jpg)
+_Skiers Standing in Lift Lines_
 
-### Conceptual Phase II
+![Bottom of the Rope Tow](assets/images/3102024710p.jpg)
+_Bottom of the Rope Tow_
 
-The conceptual Phase II of the long-range plan includes a new lodge and parking at the base of a second
-additional peak in an area covering about 30 acres. The new base area will continue to be accessed by Exit 0
-on I-90, but instead of taking a right turn into the existing parking lot, visitors will take a left and
-drive down old Highway 10 – the route over Lookout Pass before the interstate was built. About a mile down
-the road the new base area will take shape, when and if the plan is ever accepted for NEPA review by the
-USFS. No real estate development is planned.
+![Skier Haul on Rope Tow with Cars Parked on Highway 10](assets/images/3102024731p.jpg)
+_Skier Haul on Rope Tow with Cars Parked on Highway 10_
 
-**Phase I projects were initiated starting the summer of 2017 with the construction of the Tamarack Trail
-and will continue this summer and fall. Specific projects are subject to logging bids, road engineering
-approvals and contracts plus additional ski lift and building plan review. We will announce the proposed
-projects timeline, as soon as possible.**
+## Contributing Photos
 
-## The history of lookout pass ski area
-
-### Picture (Image missing) Details (3)
-
-## Info sign telling of lookout's history
-
-### Picture (Image missing) Details (4)
-
-## The original lodge at lookout pass skin area
-
-![Picture](assets/images/12132022253p.jpg)
-
-## A postcard from before the ski area
-
-![Picture](assets/images/12132022255p.jpg)
-
-## A postcard from the 60's
-
-![Picture](assets/images/12132022257p.jpg)
-
-## Early skiing at lookout. that's a ropetow
-
-### Picture (Image missing) Details (5)
-
-## Parking next to hwy 10 (now i-90) in the 40's
-
-### Picture (Image missing) Details (6)
-
-## Lookouts lodge in the 40's
-
-![Picture](assets/images/3102024648p.jpg)
-
-## Part of skiing is standing in lift lines
-
-![Picture](assets/images/3102024649p.jpg)
-
-## The bottom of a very long rope tow
-
-![Picture](assets/images/3102024710p.jpg)
-
-##
-
-![Picture](assets/images/3102024731p.jpg)
-
-## A skier is hauled up the slope on a rope tow notice the line of parked cars on hwy 10
-
-history of lookout pass
-
-**Lookout’s original historic base lodge** is the second-oldest ski lodge in the northwest - here are a few
-
-key chapters
-
-from Lookout's rich past.
-
-Winter 1935-36
-
-- **The Idaho Ski Club is born.** A few ardent ski pioneers built a rope tow powered by the engine from an
-  abandoned car they found on the old Yellowstone Highway, which is now I-90. They used a highway
-  maintenance shed on Lookout Pass as a warming hut.
-
-1940
-
-- **Lookout’s Famous Free Ski School founded.** Over 80 years, volunteer instructors have introduced more
-  than 75,000 kids to the world of skiing and riding.
-
-### 1941
-
-- **Lookout’s historic lodge built.** The U.S. Forest Service commissioned the Civilian Conservation Corps
-  (CCC) to build the original phase of the expanded lodge still in use today, the second-oldest ski lodge
-  in the Pacific Northwest next to the Timberline Lodge on Mt. Hood in Oregon.
-
-1950s
-
-- **The Idaho Ski Club,** the group of volunteers that operated Lookout Pass, sold lift tickets for 50
-  cents.
-
-1980
-
-- **Lookout’s first chairlift**– Chair One, was financed with contributions from local mining companies to
-  provide winter recreation for their employees.
-
-1992
-
-- **Idaho Ski Club sells out.** With the mining industry in decline, Lookout’s volunteer staff dwindled. A
-  group of locals who wanted to keep Lookout open takes over.
-
-1999
-
-- **Lookout Associates LLC acquires the mountain**. Lookout’s current owners launch a new era of expanding
-  terrain and improved services for greater numbers of skiers and riders.
-
-2003
-
-- **Timber Wolf double chairlift installed.** The addition of Timber Wolf (chair 2) on the Montana side of
-  the mountain added five named runs and glades, boosted vertical drop to **1,150 feet** and opened
-  spectacular views to
-
-the St. Regis and Copper basins.
-
-2005
-
-- **Lodge expansion**. A three-story, 6,000 square foot addition greatly expands food service seating and
-  includes a retail shop, more restrooms, locker rooms, the Loft pub and grub lounge on the top level and
-  panoramic slopeside views.
-
-2007
-
-- **North Star double chairlift installed.**North Star opens access to expert terrain on the prime north
-  aspect of the mountain with expert terrain and a bird’s eye view of the Coeur d’Alene River Valley.
-
-2011
-
-- **Phase One of new expansion accepted.**In April the U.S. Forest Service accepted the first phase of a
-  long-range plan to expand Lookout Pass.
-
-2017
-
-- **Phase One of new expansion officially approved by the U.S. Forest Service.**Trails remarked in July by
-  Phil Edholm so the forest service can perform a lumber survey. Lumber survey will take place in the fall
-  of 2017. It is our hope that we can get two new trails cut & cleared and open for winter 2017-18. The
-  other trails we hope will come on board the followng year or soon thereafter. In addition to the new
-  trails there will be two new chairlifts and an additional Base Lodge with seperate road access and
-  parking to serve the new and higher Eagle Peak area. This is the first phase of a long-range plan to
-  expand Lookout Pass **to two additional peaks encompassing a total of 2,000 acres.**New roof added to
-  Rentals Shop.
-
-2018
-
-- **Finish the season with 503 inches of snow! Though not a record, it is a very strong season.**Our summer
-  attraction, The Route of the Hiawatha has set a new record for summer attendance!
+To contribute images, contact Chic via this website.

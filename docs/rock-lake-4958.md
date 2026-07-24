@@ -1,85 +1,67 @@
 ---
 tags:
-- Lakes
-- Moderate
-- Paddling
-- Backpacking
-- Climbing
+  - Lakes
+  - Moderate
+  - Paddling
+  - Backpacking
+  - Climbing
 stats:
-- label: Event Type
-  icon: hiking
-  value: Day hiking, paddling, backpacking and climbing
-- label: Distance
-  icon: map-marker-distance
-  value: 8.2 miles RT
-- label: Elevation Gain
-  icon: elevation-rise
-  value: 1708’ gain
-- label: Acres
-  icon: vector-square
-  value: '47.1'
-- label: Difficulty
-  icon: speedometer
-  value: Moderate
-- label: Maps
-  icon: map
-  value: Kootenai N.F., Cabinet Mountain Wilderness, Elephant Peak topo
-- label: GPS
-  icon: crosshairs-gps
-  value: 48°04’00"N 115°68’00"W
-- label: Sanders County Sheriff
-  icon: shield-account
-  value: CALL 911 FIRST or 406.827.3584
+  - label: Event Type
+    icon: hiking
+    value: Day hiking, paddling, backpacking and climbing
+  - label: Distance
+    icon: map-marker-distance
+    value: 8.2 miles RT
+  - label: Elevation Gain
+    icon: elevation-rise
+    value: 1708' gain
+  - label: Acres
+    icon: vector-square
+    value: "47.1"
+  - label: Difficulty
+    icon: speedometer
+    value: Moderate
+  - label: Maps
+    icon: map
+    value: Kootenai N.F., Cabinet Mountain Wilderness, Elephant Peak topo
+  - label: GPS
+    icon: crosshairs-gps
+    value: 48°04'00"N 115°68'00"W
+  - label: Sanders County Sheriff
+    icon: shield-account
+    value: CALL 911 FIRST or 406.827.3584
 notes:
-- label: Cabinet Ranger District Alerts
-  url: https://www.fs.usda.gov/alerts/kootenai/alerts-notices
+  - label: Cabinet Ranger District Alerts
+    url: https://www.fs.usda.gov/alerts/kootenai/alerts-notices
 ---
 
 # Rock Lake 4958
 
 ## Description
 
-We have added the area sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. If an emergency occurs, evaluate your circumstances and call only if needed.
+We have added the area sheriff’s emergency phone numbers for each trip write up under the ranger district info. If an emergency occurs, evaluate your circumstances and call only if needed.
 
-The Rock Lake Trail has several stream crossings to navigate near the beginning. Spring runoff can be
-tricky. About a mile in, the road passes near an old mining claim, and heads N.E. past several old mine
-buildings and Rock Creek Meadows for 2.5 miles to the eastern wall. For about 2 miles the old mining road
-gains about 593’. In about a mile past the meadows as the trail climbs, is the old Heidelberg mining
-operation. Its boiler and gravity pump equipment, as well as Rock Creek Falls, are a good place to spend a
-moment looking over the old equipment. The trail to the lake is about 40’ back down the trail off to the
-left (E). After 7 switchbacks, the trail walks out next to the outlet creek to the main body of the lake.
+The Rock Lake Trail has several stream crossings to navigate near the beginning. Spring runoff can be tricky. About a mile in, the road passes near an old mining claim, and heads N.E. past several old mine buildings and Rock Creek Meadows for 2.5 miles to the eastern wall. For about 2 miles the old mining road gains about 593’. In about a mile past the meadows as the trail climbs, is the old Heidelberg mining operation. Its boiler and gravity pump equipment, as well as Rock Creek Falls, are a good place to spend a moment looking over the old equipment. The trail to the lake is about 40’ back down the trail off to the left (E). After 7 switchbacks, the trail walks out next to the outlet creek to the main body of the lake.
 
-There are some campsites on the right (east) side on a small peninsula, and near the NW end of the lake on
-the left side (W). The lake has two small islands on the near east side, and a larger peninsula on the N.W.
-end. Rock Peak 7583’ towers to the west, St. Paul Peak 7714’ is to the N.W., while Ojibway Peak 7303’ is to
-the east.
+There are some campsites on the right (east) side on a small peninsula, and near the NW end of the lake on the left side (W). The lake has two small islands on the near east side, and a larger peninsula on the N.W. end. Rock Peak 7583’ towers to the west, St. Paul Peak 7714’ is to the N.W., while Ojibway Peak 7303’ is to the east.
 
 ## Route Options
 
 ### Option 1: St. Paul Pass & Lake
 
-At the far end of Rock Lake is the St. Paul Pass at about 1.7 miles. Above the Pass are the three Libby
-Lakes to the right (N). One can continue N.W. from the pass to St. Paul Lake or St. Paul Peak. The scramble
-of Rock Peak is best from Cliff Lake.
+At the far end of Rock Lake is the St. Paul Pass at about 1.7 miles. Above the Pass are the three Libby Lakes to the right (N). One can continue N.W. from the pass to St. Paul Lake or St. Paul Peak. The scramble of Rock Peak is best from Cliff Lake.
 
 ### Option 2: Ojibway Peak Scramble
 
-If you are a hardy hiker, Ojibway Peak towers high above to the east. Ojibway Peak’s S.W. Face is a
-destination for climbing. It is a steep scramble for any but the best climbers and scramblers.
+If you are a hardy hiker, Ojibway Peak towers high above to the east. Ojibway Peak’s S.W. Face is a destination for climbing. It is a steep scramble for any but the best climbers and scramblers.
 
 ## Directions
 
-From Hwy 200 at two miles or milepost 17 past the Noxon turnoff is the Rock Creek Road #150. The turnoff is
-past a steel bridge and has a specialty lumber cutting operation on Road 150. In about 400 feet the road
-forks. Take the right fork and drive about 6 miles to a junction with Road #150A. Take 150A about 1.5 miles
-to the trailhead.
+From Hwy 200 at two miles or milepost 17 past the Noxon turnoff is the Rock Creek Road #150. The turnoff is past a steel bridge and has a specialty lumber cutting operation on Road 150. In about 400 feet the road forks. Take the right fork and drive about 6 miles to a junction with Road #150A. Take 150A about 1.5 miles to the trailhead.
 
 ## Hazards & Safety Tips
 
-Up road from the trailhead are two creeks that are difficult in the spring. Please use caution and bring
-water sandals. Rock Creek Meadows is a place where bears are frequently seen. Move quickly past the meadows
-and make plenty of noise.
+Up road from the trailhead are two creeks that are difficult in the spring. Please use caution and bring water sandals. Rock Creek Meadows is a place where bears are frequently seen. Move quickly past the meadows and make plenty of noise.
 
 ## Nearby Attractions
 
@@ -87,8 +69,7 @@ Rock Peak, Ojibway Peak, St. Paul Pass, and Libby Lakes.
 
 ## Refreshments & Dining (R & P)
 
-Henry’s & Pizza Hut, The Shed in Libby. Clark Fork Pantry & Squeeze Inn in Clark Fork. Eichardt's, Mr Sub,
-Burger Express, & Jalapeños in Sandpoint.
+Henry’s & Pizza Hut, The Shed in Libby. Clark Fork Pantry & Squeeze Inn in Clark Fork. Eichardt's, Mr Sub, Burger Express, & Jalapeños in Sandpoint.
 
 ## Photo Gallery
 
@@ -166,7 +147,6 @@ _SE corner along the trail out looking toward Engle Peak._
 
 !!! quote "Reflections on Wilderness"
 
-    What do you call a place so beautiful, so pristine, that you are in awe the whole time you visit it?
-    What do you call a place without houses, roads, people, and traffic? I call it a wilderness.
+    What do you call a place so beautiful, so pristine, that you are in awe the whole time you visit it? What do you call a place without houses, roads, people, and traffic? I call it a wilderness.
 
     — Chic Burge (June 16, 2016)

@@ -1,84 +1,81 @@
 ---
 tags:
-- Trails & Scrambles
-- Easy
-- Day Hiking
-- Camping
-- Fishing
+  - Trails & Scrambles
+  - Easy
+  - Day Hiking
+  - Camping
+  - Fishing
 stats:
-- label: Event Type
-  icon: hiking
-  value: Day hiking, camping, and fishing
-- label: Distance
-  icon: map-marker-distance
-  value: 6.2 miles RT
-- label: Elevation
-  icon: terrain
-  value: South trailhead to Emerald Lake is 244 verts down. NW trailhead to Emerald
-    Lake is 744 verts up.
-- label: Difficulty
-  icon: speedometer
-  value: easy
-- label: Maps
-  icon: map
-  value: Colville National Forest Map, , and Kettle Falls topos, Bangs Mt., and Boyds
-    Mt Topos
-- label: GPS
-  icon: crosshairs-gps
-  value: South trailhead. 48°37’33" N 118°15’26" W
-- label: Managing Agency
-  icon: domain
-  value: Three Rivers R.D. 509.738.6111
-- label: Ferry County Sheriff
-  icon: shield-account
-  value: CALL 911 FIRST or 509.775.3132
+  - label: Event Type
+    icon: hiking
+    value: Day hiking, camping, and fishing
+  - label: Distance
+    icon: map-marker-distance
+    value: 6.2 miles RT
+  - label: Elevation
+    icon: terrain
+    value: South trailhead to Emerald Lake is 244' down. NW trailhead to Emerald Lake is 744' up.
+  - label: Difficulty
+    icon: speedometer
+    value: Easy
+  - label: Maps
+    icon: map
+    value: Colville National Forest Map, Kettle Falls, Bangs Mt., and Boyds Mt. topos
+  - label: GPS
+    icon: crosshairs-gps
+    value: 48° 37' 33" N 118° 15' 26" W
+  - label: Managing Agency
+    icon: domain
+    value: Three Rivers R.D. [509.738.6111](tel:509.738.6111)
+  - label: Ferry County Sheriff
+    icon: shield-account
+    value: "CALL 911 FIRST or [509.775.3132](tel:509.775.3132)"
 notes:
-- NW trailhead. 48°39’46" N 118°16’ 50 W
+  - label: NW Trailhead Coordinates
+    url: 48° 39' 46" N 118° 16' 50" W
 ---
 
 # Hoodoo Canyon
 
-## Hoodoo canyon & emerald lake trail #17
-
 ## Description
 
-NW Trailhead at F.R. #9565
+Hoodoo Canyon & Emerald Lake Trail #17 features dramatic rock walls, outcroppings, and scenic mountain lakes tucked into a steep canyon.
 
-The first thing you will notice about this trail is the great rock walls and outcroppings. The trail drops
-down and crosses Deadman Creek on a nice footbridge before it starts its climb up and over a high point of
-about 3740 verts. This high point is almost 1.5 miles from the trailhead, and about a mile to Emerald Lake.
-In about 2 miles along Trail #1, there is a view of Lily Lake about 500 verts below. Also near the 2 mile
-mark, is the junction down to Emerald Lake, which is a bit more then .5 miles away.
+### Northwest Trailhead (F.R. #9565)
 
-Altho the lake isn’t deep, it’s beautiful in it’s setting in Hoodoo Canyon.
+From Forest Road #9565, the trail drops down and crosses Deadman Creek on a sturdy footbridge before ascending to a high point of approximately 3,740 feet. This summit point is nearly 1.5 miles from the trailhead and about 1 mile from Emerald Lake. At the 2-mile mark along Trail #17, hikers are treated to a viewpoint overlooking Lily Lake 500 feet below. Nearby is the junction for the spur trail down to Emerald Lake, located a little over 0.5 miles away.
 
-SOUTH Trailhead at F.R. #070
+Although Emerald Lake is shallow, its setting within Hoodoo Canyon is exceptionally scenic.
 
-The south trail has been repaired. From the Trout Lake Campground, hike the south section of Trail #17, NW
-around the right (east) side of Trout Lake for about a mile to Emerald Lake.
+### South Trailhead (F.R. #070)
+
+From Trout Lake Campground, hike the south section of Trail #17 northwest around the east side of Trout Lake for about 1 mile to reach Emerald Lake.
 
 ## Directions
 
-North trailhead On Hwy 20, drive west of Kettle Falls, and cross the Colombia River. Turn right (north) onto
-395 for about 6 miles and turn left (west) onto F.R 460. In about 6 miles turn SW onto F.R. 9565. The
-trailhead is about 3 miles on the left. South trailhead From Kettle Falls, drive west over the Columbia
-River, and turn left (SW) onto Hwy 20. At about 5.2 miles to F.R. #070, in the Sherman Creek Wildlife
-Recreation Area. Continue NW to the Trout Lake Campgrounds and trailhead.
+### Northwest Trailhead
 
-## Cool things close by
+On US-20, drive west of Kettle Falls and cross the Columbia River. Turn right (north) onto US-395 for about 6 miles, then turn left (west) onto F.R. 460. In 6 miles, turn southwest onto F.R. 9565. The trailhead is approximately 3 miles ahead on the left.
 
-Columbia River National Recreation Area & the Franklin Roosevelt Lake. Sherman Creek Wildlife Recreation
-Area, Sherman Peak, Republic, Colville, and the Colville Indian Reservation. Crystal Falls, Douglas Falls,
-and the Salmo-Priest Wilderness.
+### South Trailhead
+
+From Kettle Falls, drive west across the Columbia River and turn left (southwest) onto US-20. Drive approximately 5.2 miles to F.R. #070 in the Sherman Creek Wildlife Recreation Area. Continue northwest to the Trout Lake Campground and trailhead.
+
+## Cool Things Close By
+
+- Lake Roosevelt National Recreation Area & Columbia River
+- Sherman Creek Wildlife Recreation Area & Sherman Peak
+- Republic, Colville, and the Colville Indian Reservation
+- Crystal Falls, Douglas Falls, and the Salmo-Priest Wilderness
 
 ## Hazards
 
-The trail down into the Hoodoo Canyon is rocky and can be dangerous.
+- The trail descending into Hoodoo Canyon is rocky, steep, and can be loose underfoot. Use caution and wear sturdy footwear.
 
-## R & P
+## Restaurants & Provisions
 
-NA
+N/A
 
-## Photo gallery
+## Photo Gallery
 
-## Images coming soon. to contribute, contact chic
+Images coming soon. To contribute photos, please contact Chic.

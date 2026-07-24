@@ -1,72 +1,63 @@
 ---
 tags:
-- Peaks & Mountains
+  - Winter & Skiing
+  - Peaks & Mountains
 stats:
-- label: Phone
-  icon: phone
-  value: 509.663.
-- label: Acres
-  icon: vector-square
-  value: '2000'
-- label: Average Snow Fall
-  icon: weather-snowy-heavy
-  value: 200"
-- label: Summit Elevation
-  icon: terrain
-  value: 6820'
-- label: Base Elevation
-  icon: terrain
-  value: 4570'
-- label: Verts
-  icon: arrow-expand-vertical
-  value: 2250'
+  - label: Phone
+    icon: phone
+    value: "509.663..."
+  - label: Acres
+    icon: vector-square
+    value: "2000"
+  - label: Average Snow Fall
+    icon: weather-snowy-heavy
+    value: '200"'
+  - label: Summit Elevation
+    icon: terrain
+    value: "6820'"
+  - label: Base Elevation
+    icon: terrain
+    value: "4570'"
+  - label: Verts
+    icon: arrow-expand-vertical
+    value: "2250'"
 notes:
-- label: Missionridge.com
-  url: https://missionridge.com
+  - label: "Missionridge.com"
+    url: "https://missionridge.com"
 ---
 
-# Mission Ridge Ski  Board Resort
+# Mission Ridge Ski & Board Resort
 
-## Mission ridge ski & board resort wenatchee, wa
+## Overview
 
-## of named runs: 36
+- **Location:** Wenatchee, WA
+- **Named Runs:** 36
+- **Lifts:** 6
+- **Distance from Spokane:** 180 miles
 
-## of lifts: 6
+## Photo Gallery
 
-Miles from spokane: 180 miles Other amenities: ???
+![Top of Chair #2 with Mount Stuart on the Left](assets/images/12042021836p.jpg)
+_Top of Chair #2 with Mount Stuart on the Left_
 
----
+![Summit of the Quad Chair with the Columbia River in the Distance](assets/images/12042021839p.jpg)
+_Summit of the Quad Chair with the Columbia River in the Distance_
 
----
+![The Microwave along Windy Ridge](assets/images/12042021842p.jpg)
+_The Microwave along Windy Ridge_
 
-## Photo gallery
+![Part of the Bomber Cliffs](assets/images/12042021843p.jpg)
+_Part of the Bomber Cliffs_
 
----
+![The Bomber Cliffs Chutes](assets/images/12042021845p.jpg)
+_The Bomber Cliffs Chutes_
 
-![Picture](assets/images/12042021836p.jpg)
+![Microwave Ridge viewed from Near the Bomber Cliffs](assets/images/12042021847p.jpg)
+_Microwave Ridge viewed from Near the Bomber Cliffs_
 
-## This image is taken from the top of chair #2 Thats mount stuart on the left
+![Mount Stuart Telephoto View](assets/images/12042021851p.jpg)
+_Mount Stuart Telephoto View_
 
-![Picture](assets/images/12042021839p.jpg)
+## Contributing Photos
 
-## The summit of the quad chair with the columbia river in the distance
-
-![Picture](assets/images/12042021842p.jpg)
-
-## The microwave along windy ridge
-
-![Picture](assets/images/12042021843p.jpg)
-
-## Part of the bomber cliffs
-
-![Picture](assets/images/12042021845p.jpg)
-
-## The bomber cliffs some of the chutes are great skiing
-
-![Picture](assets/images/12042021847p.jpg)
-
-## The microwave ridge from near the bomber cliffs
-
-![Picture](assets/images/12042021851p.jpg)
-
-## Mount stuart, taken with a long telephoto
+To contribute images, contact Chic via this website.

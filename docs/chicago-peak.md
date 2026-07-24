@@ -1,235 +1,104 @@
 ---
 tags:
-- Peaks & Mountains
-- Day Hike
-- Backpacking
-- Climbing
-- Scrambling
-- Wildlife Viewing
-- Photography
+  - Peaks & Mountains
+  - Day Hike
+  - Backpacking
+  - Climbing
+  - Scrambling
+  - Wildlife Viewing
+  - Photography
 stats:
-- label: Event Type
-  icon: hiking
-  value: Day hike, backpacking, climbing, scrambling, wildlife viewing, and photography
-- label: Distance
-  icon: map-marker-distance
-  value: about .5 of a mile
-- label: Elevation
-  icon: terrain
-  value: Almost 650verts
-- label: Difficulty
-  icon: speedometer
-  value: Easy to get to, moderate to scale
-- label: Maps
-  icon: map
-  value: Kootenai National Forest, Elephant Peak topo
-- label: GPS
-  icon: crosshairs-gps
-  value: 48° 04’ 26' n" 115° ?41’12" w
-- label: Ranger District
-  icon: pine-tree
-  value: cabinet r.d. 406.827.3533
-- label: Sanders County Sheriff
-  icon: shield-account
-  value: call 911 first or 406.827.3584
+  - label: Event Type
+    icon: hiking
+    value: Day hike, backpacking, climbing, scrambling, wildlife viewing, and photography
+  - label: Distance
+    icon: map-marker-distance
+    value: About 0.5 miles from trailhead to bench
+  - label: Elevation Gain
+    icon: terrain
+    value: Almost 650 verts
+  - label: Difficulty
+    icon: speedometer
+    value: Easy to access bench, moderate scramble to summit
+  - label: Maps
+    icon: map
+    value: Kootenai National Forest, Elephant Peak topo
+  - label: GPS
+    icon: crosshairs-gps
+    value: 48°04'26" N 115°41'12" W
+  - label: Ranger District
+    icon: pine-tree
+    value: Cabinet R.D. 406.827.3533
+  - label: Sanders County Sheriff
+    icon: shield-account
+    value: CALL 911 FIRST or 406.827.3584
 notes:
-- Kootenai national forest/alerts
-- url: https://www.fs.usda.gov/alerts/kootenai/alerts-notices
+  - label: "Kootenai National Forest Alerts"
+    url: "https://www.fs.usda.gov/alerts/ipnf/alerts-notices"
 ---
 
 # Chicago Peak
 
-!!! warning "Before you go"
+!!! warning "Before You Go"
 
-    A warning about the road to the cliff lake, St paul peak and rock peak road. After visiting the area
-    wednesday 8.4.22, I want to tell you about the road. From f.r. 150, f.r. 2741 up to the trailhead,
-    Is extremely rough' and cars wont make it to the trailhead. The walk up the road to the trailhead Is
-    about 2.4 miles. and will save your vehicles from damage. Please use caution
-
-## Chicago peak 7018'
+    Forest Road #2741 (from F.R. #150 up to the trailhead for Cliff Lake, St. Paul Peak, and Chicago Peak) is extremely rough and low-clearance passenger cars will not make it. Walking up the road to the trailhead adds about 2.4 miles each way and will save your vehicle from severe damage. Drive F.R. #2741 at your own risk!
 
 ## Description
 
-Chicago Peak is located on an easy trail to Cliff Lake, and is only .5 miles from the trailhead. As you come
-to the area next to Chicago Peak, walk to your right to the cliffs beneath and above the overlook. In the
-near distance is Cliff Lake, and above the lake is St. Paul Peak 7714'. Off to the ESE is Rock Peak 7583'
-Continue along the bench that skirts Chicago Peak to its north end. The north end of the peak is higher than
-most of the rest of the peak. Look for a gully to the right side of peak, that is your ascent route. A WORD
-OF WARNING.....it's pretty easy to climb using the abundant Bear Grass and many Sub-Alpine trees. But the
-descent is more difficult and can be dangerous. i descended the slope, facing uphill, so i could use the
-bear grass as hand holds. Once on the upper ridge, walk north around the rocks to the summit rock. The views
-all around are more than worth the effort to get there. Please use extreme caution going up and especially
-coming down.
+Chicago Peak is accessed via an easy trail towards Cliff Lake, located only 0.5 miles from the trailhead. As you reach the bench next to Chicago Peak, walk to your right to the cliffs above and below the overlook. In the near distance lies Cliff Lake, with St. Paul Peak (7,714') looming above. Off to the ESE is Rock Peak (7,583').
 
-## Option #1
+Continue along the bench that skirts Chicago Peak to its north end. The north end of the peak is higher than most of the rest of the mountain. Look for an ascending gully on the right side of the peak. A WORD OF WARNING: while ascending using abundant bear grass and subalpine trees for handholds is manageable, descending is steep and dangerous. Descend facing uphill using bear grass handholds where necessary. Once on the upper ridge, walk north around rocks to the summit block. The 360-degree views are worth every bit of effort.
 
-Cliff lake After you have visited Chicago Peak, take a walk east to Cliff Lake. There are several campsites
-around the lake, and if you don't see a lot of Mountain Goats, you made too much noise.
+## Option #1: Cliff Lake
 
-## Option #2
+After visiting Chicago Peak, continue walking east to Cliff Lake. Several campsites sit around the shore. Mountain goats are frequently seen here.
 
-St. paul peak 7714' From the NE corner of the lake, walk upward around the NE flank, and pick your route to
-the top of St. Paul Peak 7714'. The views here are outstanding to say the least. To the north, the massive
-of Snowshoe Peak 8738' and A Peak 8634' fill your view. To the south is Rock Peak 7583', Ojibway Peak 7303',
-and off to the ENE is Elephant Peak 7938' . use caution descending st. paul peak
+## Option #2: St. Paul Peak (7,714')
 
-## Option #3
+From the NE corner of Cliff Lake, walk upward around the NE flank and select a scramble route to the summit of St. Paul Peak. Views from the summit look north to the massive forms of Snowshoe Peak (8,738') and A Peak (8,634'). To the south is Rock Peak (7,583') and Ojibway Peak (7,303'), with Elephant Peak (7,938') to the ENE. Exercise caution on the descent.
 
-Rock peak 7583' This route is not for beginners. its very steep and good route finding skills are a must.
-From Cliff Lake, walk around the end of the lake, and notice the low elevation "Ridgeline" that drops down
-and over to the base of Rock Peak. This serious scramble heads SE and ascends steeply towards the north
-summit. Up near the top of the ascent, look for a route that you are comfortable with. You may want to head
-SE and skirt the loose scree. Once on top, the views all around are amazing. Rock Lake is 2629verts below
-you, and looks like a narrow pond between two very steep peaks.
+## Option #3: Rock Peak (7,583')
 
-Use caution descending rock peak.
-
----
+This route is strictly for experienced scramblers with strong route-finding skills. From Cliff Lake, skirt the lake edge to the low-elevation ridgeline that drops towards the base of Rock Peak. This serious scramble heads SE, ascending steeply towards the north summit. Near the top, choose a line to skirt loose scree. The summit overlooks Rock Lake 2,629 vertical feet below.
 
 ## Directions
 
-From Sandpoint, drive east on SH #200 towards Clark Fork and into Montana. Pass SH #56 road and two miles
-past Noxon, Montana, near milepost 17, turn left (east) onto the Rock Creek Road # 150. After about 400 feet
-take the
+From Sandpoint, drive east on SH-200 past Clark Fork into Montana. Two miles past Noxon near milepost 17, turn left (east) onto Rock Creek Road #150. After 400 feet, take the right fork and drive 8 miles to Chicago Peak Road #2741. Turn right onto F.R. #2741 for 7.1 miles to the trailhead (high-clearance 4WD required).
 
-right fork for
+## Cool Things Close By
 
-about 8 miles to the Chicago Peak Road #2741.
-
-You will pass the Engle Peak turnoff, the Rock Lake turnoff, then come to FR #2741. Turn right for about 7.1
-miles.
-
-but be aware… this road is not maintained for cars or low clearance vehicles, and is very rough. An Outback
-could make it, but you will wish you hadn’t. At this turn, you may not be able to get any higher due to
-rocky and rough road beds. You can park here and hike the 7.1 miles, to the trailhead. My suggestion is…
-ONLY DRIVE FR #2741 AT YOUR OWN RISK.
-
-The creators of this website can not be held responsible for any damage to your vehicle. you have been
-warned.
-
----
-
-## Cool things close by
-
-Engle Peak, Rock Lake, Star Peak, Pillick Ridge, and Wanless Lake
+Engle Peak, Rock Lake, Star Peak, Pillick Ridge, and Wanless Lake.
 
 ## Hazards
 
-The road to the trailhead, after the FR#2741, eats cars. The towing fee could easily reach 1000$.
-
-None to Cliff Lake. Sure footedness and lots of experience should be used going up and down, to reach St
-Paul Peak. Summiting Rock Peak, take strength, endurance, experience. Do not attempt, unless you are well
-experienced in near vertical rock hopping.
+Forest Road #2741 is extremely rough; high clearance and 4WD are required. Reaching St. Paul Peak and Rock Peak requires advanced scrambling experience on near-vertical rock and loose scree.
 
 ## R & P
 
-Kaiju Bar & Grill 419 W 9th, Henry’s & Pizza Hut, in Libby, Clark Fork Pantry, Eicharts, Mr Sub & Jalapeños
-in Sandpoint
+Kaiju Bar & Grill, Henry's, and Pizza Hut in Libby; Clark Fork Pantry in Clark Fork; Eichardt's, Mr. Sub, and Jalapeños in Sandpoint.
 
----
+## Photo Gallery
 
-### Picture (Image missing)
+![Ancient subalpine fir trees (krummholz) along the Chicago Peak bench trail](assets/images/101620241045p.jpg)
+_Ancient subalpine fir trees (krummholz) along the Chicago Peak bench trail_
 
-## Photo gallery
+![Chris next to Cabinet Mountains Wilderness boundary sign](assets/images/101620241042p.jpg)
+_Chris next to Cabinet Mountains Wilderness boundary sign_
 
----
+![Exceptional views from the Chicago Peak bench](assets/images/101620241059p.jpg)
+_Exceptional views from the Chicago Peak bench_
 
-### Picture (Image missing) Details
+![The ascent route up Chicago Peak. Image by Chris](assets/images/101620241109p.jpg)
+_The ascent route up Chicago Peak. Image by Chris_
 
-One of the joys of visiting the cliff lake area, Is the views from along forest road #2741 To the west is
-the
+![Steep scrambling near the summit of Chicago Peak. Image by Chris](assets/images/101620241117p.jpg)
+_Steep scrambling near the summit of Chicago Peak. Image by Chris_
 
-proposed
+![Chic on the summit of Chicago Peak. Image by Chris](assets/images/101620241121p.jpg)
+_Chic on the summit of Chicago Peak. Image by Chris_
 
-scotchman peak wilderness
+![The low ridgeline from St. Paul Lake to Rock Peak. Image by Chris](assets/images/101620241127p.jpg)
+_The low ridgeline from St. Paul Lake to Rock Peak. Image by Chris_
 
-![Picture](assets/images/101620241045p.jpg)
-
-This is the trail to the bench that chicago peak is next to. These trees are very special. they are a form
-of sub-alpine firs, that are called krummholz. A krummholz knee high, can be over 100 years old. These
-krummholz are well over 6' tall and can are ancient. refer to <https://www.treespnw.com/>
-
-![Picture](assets/images/101620241042p.jpg)
-
-## Chris posing next to the cabinet mountain wilderness boundary sign
-
-![Picture](assets/images/101620241059p.jpg)
-
-## As you walk out over the bench, walk to your right for exceptional views
-
-### Picture (Image missing) Details (2)
-
-## This image shows the bench that chicago peak sits on. cliff lake is below
-
-![Picture](assets/images/101620241109p.jpg)
-
-## Our ascent route is directly above me  image by chris
-
-### Picture (Image missing) Details (3)
-
-## This image shows the steepness of the ascent. st. paul peak is on the right
-
-![Picture](assets/images/101620241117p.jpg)
-
-The rock above left is the high point of chicago peak Rock peak is off in the distance image by chris
-
-![Picture](assets/images/101620241121p.jpg)
-
-## Chic on the summit of chicago peak image by chris
-
-### Picture (Image missing) Details (4)
-
-## Copper lake sits below chicago peak image by chris
-
-![Picture](assets/images/101620241127p.jpg)
-
-## This image shows the low ridge line from st. paul lake to rock peak image by chris
-
-![Picture](assets/images/10172024122p.jpg)
-
-## The clark fork river from the summit of chicago peak image by chris
-
-### Picture (Image missing) Details (5)
-
-From the summit of chicago peak, look north to see the high point of the cabinet mountain wilderness From
-left
-
-is ibex
-
-peak, on the right snowshoe peak (tallest) and a peak to its left image by chris
-
-### Picture (Image missing) Details (6)
-
-From the summit of these peaks, the proposed scotchman peaks wilderness stretches out to the west
-
-### Picture (Image missing) Details (7)
-
-## This is the ascent route to st. paul peak
-
-### Picture (Image missing) Details (8)
-
-## This is the view of the snowshoe area to the north, is from the summit of st. paul peak
-
-### Picture (Image missing) Details (9)
-
-Chris captured this image of rock lake from the north summit of rock peak Rock lake is in the genter of this
-
-image.
-
-directly above rock lake is ojibway 7303'
-
----
-
----
-
-Our view is influenced by our perspective. Our perspective is dictated by our outlook. Our outlook
-
-is enhanced by our view. chic. 8.14.2014
-
----
-
----
-
----
-
----
+![Clark Fork River valley seen from Chicago Peak summit. Image by Chris](assets/images/10172024122p.jpg)
+_Clark Fork River valley seen from Chicago Peak summit. Image by Chris_
