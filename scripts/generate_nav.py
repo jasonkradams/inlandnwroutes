@@ -88,7 +88,7 @@ def main():
     
     # Add explicit base nav items
     nav_structure.append({"Home": "index.md"})
-    nav_structure.append({"Blog": "blog.md"})
+    nav_structure.append({"Blog": "blog/index.md"})
     
     # Add generated categories (omit empty ones)
     for cat in sorted(categories.keys()):

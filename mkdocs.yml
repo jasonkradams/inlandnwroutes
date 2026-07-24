@@ -87,7 +87,7 @@ hooks:
 
 nav:
 - Home: index.md
-- Blog: blog.md
+- Blog: blog/index.md
 - Blog Archive:
   - Blog 100 What Hiking Does For Our Well Being: blog/posts/blog-100-what-hiking-does-for-our-well-being.md
   - Blog 102 Winter Hikes In The Scabs: blog/posts/blog-102-winter-hikes-in-the-scabs.md
