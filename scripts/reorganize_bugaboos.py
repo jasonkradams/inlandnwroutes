@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 title: "The Bugaboos (Bugaboo Provincial Park)"
 tags:
   - Trails & Scrambles
@@ -17,7 +19,7 @@ stats:
   - label: Maps
     value: "Howser Creek Topo (82K/10)"
   - label: GPS Coordinates
-    value: "50°44'15"N, 116°45'45"W (Conrad Kain Hut)"
+    value: "50°44'15\"N, 116°45'45\"W (Conrad Kain Hut)"
 notes:
   - label: Alpine Club of Canada - Conrad Kain Hut Reservations
     url: https://www.alpineclubofcanada.ca/huts/conrad-kain-hut/
@@ -127,3 +129,9 @@ _Hikers traversing switchbacks toward Cobalt Lake._
 
 ![Trail view looking toward the Bugaboo Spires](assets/images/p330.png)
 _Trail view looking toward the Bugaboo Spires._
+"""
+
+with open("docs/the-bugaboos.md", "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Reorganized docs/the-bugaboos.md successfully")
