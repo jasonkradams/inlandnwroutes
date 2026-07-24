@@ -1,3 +1,8 @@
+---
+title: "Liability Release"
+tags:
+---
+
 # Liability Release
 
 ## Liability and user release

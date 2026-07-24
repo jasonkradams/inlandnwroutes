@@ -1,3 +1,8 @@
+---
+title: "Adages"
+tags:
+---
+
 # Adages
 
 Adages... we encourage you to send us your writing on human powered sports. please keep them clean and

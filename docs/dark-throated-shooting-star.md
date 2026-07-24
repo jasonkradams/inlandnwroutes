@@ -36,10 +36,11 @@ stats:
     unusual blooms in a shooting star-like appearance. They grow best in moist, humusy
     well-drained soil in part shade.
 notes:
-- Common shooting star blooms in mid-spring from May to June. The plant forms rosettes
-  of long narrow leaves and singular slender stems. The flowers hang in umbels from
-  the stems and are **white to bright pink**. ... These dangle down from the center
-  and may be a pale yellow, pink, or even soft purple color.
+- label: Common shooting star blooms in mid-spring from May to June. The plant forms
+    rosettes of long narrow leaves and singular slender stems. The flowers hang in
+    umbels from the stems and are **white to bright pink**. ... These dangle down
+    from the center and may be a pale yellow, pink, or even soft purple color.
+  url: '#'
 ---
 
 # Dark Throated Shooting Star

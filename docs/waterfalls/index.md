@@ -1,3 +1,9 @@
+---
+title: "Waterfalls"
+tags:
+  - waterfalls
+---
+
 # Waterfalls
 
 ## How to shoot waterfalls like a pro

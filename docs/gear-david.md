@@ -1,3 +1,8 @@
+---
+title: "Gear David"
+tags:
+---
+
 # Gear David
 
 We are providing information on gear based on our own personal experience and opinions of gear we use. On

@@ -33,15 +33,19 @@ stats:
     with smaller leaves and flowers. The middle leaflet of its leaves also has a short
     rachis.
 notes:
-- '.SEASON: August thru Roctober'
-- The seed pods are 2 to 3 mm (~0.08 to 0.12 in) long, contain a single seed, and
-  are borne on a short stem..[2]
-- The broad somewhat ovate stipules of T. campestre can help distinguish it from T.
-  aureum with its prolonged lanceolate-ovate stipules.[11]
-- There are relatively few yellow clovers. Gillett and Taylor[2] by my count, list
-  and describe 228 clover species. Relatively few of them have yellow or yellowish
-  flowers and some of these can have other colors as well, sometimes changing to these
-  colors (most commonly pinks or purples) with age.
+- label: '.SEASON: August thru Roctober'
+  url: '#'
+- label: The seed pods are 2 to 3 mm (~0.08 to 0.12 in) long, contain a single seed,
+    and are borne on a short stem..[2]
+  url: '#'
+- label: The broad somewhat ovate stipules of T. campestre can help distinguish it
+    from T. aureum with its prolonged lanceolate-ovate stipules.[11]
+  url: '#'
+- label: There are relatively few yellow clovers. Gillett and Taylor[2] by my count,
+    list and describe 228 clover species. Relatively few of them have yellow or yellowish
+    flowers and some of these can have other colors as well, sometimes changing to
+    these colors (most commonly pinks or purples) with age.
+  url: '#'
 ---
 
 # Large Hop Clover

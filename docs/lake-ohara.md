@@ -32,25 +32,37 @@ stats:
 
 ## Description
 
-The Lake O'Hara basin in Yoho National Park is remarkable in many ways. It is surrounded by glacier-carved peaks and several hanging valleys, each housing an extraordinary alpine lake.
+The Lake O'Hara basin in Yoho National Park is remarkable in many ways. It is surrounded by glacier-carved
+peaks and several hanging valleys, each housing an extraordinary alpine lake.
 
-To conserve the delicate environment and maintain a tranquil experience, Parks Canada operates a strict permit system limiting access to 42 people in the basin per night. Private vehicles are not allowed; visitors must ride the shuttle bus into and out of the campground.
+To conserve the delicate environment and maintain a tranquil experience, Parks Canada operates a strict
+permit system limiting access to 42 people in the basin per night. Private vehicles are not allowed;
+visitors must ride the shuttle bus into and out of the campground.
 
 ### Campground Amenities
 
-The campground offers exceptional facilities for a tent camp. Sleeping areas are separated from cooking/eating areas. Each site features a generous tent pad, a private bear-proof food locker, picnic tables, fire rings, two warming huts with pot-belly stoves, clean pit toilets, wash basins, a wood pile, and a gear storage room. The bus ride and campground fee is $11.50 per night.
+The campground offers exceptional facilities for a tent camp. Sleeping areas are separated from
+cooking/eating areas. Each site features a generous tent pad, a private bear-proof food locker, picnic
+tables, fire rings, two warming huts with pot-belly stoves, clean pit toilets, wash basins, a wood pile, and
+a gear storage room. The bus ride and campground fee is $11.50 per night.
 
 ### Lake O'Hara Lodge
 
-A short 5-minute walk up the road leads to the lake and the historic Lake O'Hara Lodge located at the outlet. While lodge rooms cost upwards of $400 a night, non-lodge guests are welcome to enjoy afternoon tea at the lodge—a wonderful treat after a day of alpine hiking, featuring tea, wine, beer, and baked goods.
+A short 5-minute walk up the road leads to the lake and the historic Lake O'Hara Lodge located at the
+outlet. While lodge rooms cost upwards of $400 a night, non-lodge guests are welcome to enjoy afternoon tea
+at the lodge—a wonderful treat after a day of alpine hiking, featuring tea, wine, beer, and baked goods.
 
 ---
 
 ## Trail & Route Overview
 
-Leaving the campground, walk up the trail along either side of the outlet stream to the lake, or take the road to the lodge. A flat, well-maintained 1.75-mile trail circumnavigates Lake O'Hara (taking about an hour).
+Leaving the campground, walk up the trail along either side of the outlet stream to the lake, or take the
+road to the lodge. A flat, well-maintained 1.75-mile trail circumnavigates Lake O'Hara (taking about an
+hour).
 
-Spur trails lead up from the lake trail to the **Alpine Circuit**—a series of ledge routes looping around hanging valleys 1,000 feet above Lake O'Hara. The trails in this basin are exceptionally well-maintained, wide, and clearly signed at intersections.
+Spur trails lead up from the lake trail to the **Alpine Circuit**—a series of ledge routes looping around
+hanging valleys 1,000 feet above Lake O'Hara. The trails in this basin are exceptionally well-maintained,
+wide, and clearly signed at intersections.
 
 ---
 
@@ -58,36 +70,45 @@ Spur trails lead up from the lake trail to the **Alpine Circuit**—a series of 
 
 ### Option 1: Wiwaxy Gap Alpine Route
 
-Ascend steep switchbacks to Wiwaxy Gap for high-alpine views before connecting to the Hub Ledges or Lake Oesa.
+Ascend steep switchbacks to Wiwaxy Gap for high-alpine views before connecting to the Hub Ledges or Lake
+Oesa.
 
 ### Option 2: Yukness Ledges Alpine Route
 
-Traverse scenic rock ledges between Lake Oesa and Opabin Plateau, offering dramatic views down to Lake O'Hara.
+Traverse scenic rock ledges between Lake Oesa and Opabin Plateau, offering dramatic views down to Lake
+O'Hara.
 
 ### Option 3: All Souls' Alpine Route
 
-Ascend to All Souls' Prospect above Schaffer Lake for sweeping vistas across the entire basin towards Wiwaxy Gap.
+Ascend to All Souls' Prospect above Schaffer Lake for sweeping vistas across the entire basin towards Wiwaxy
+Gap.
 
 ---
 
 ## Directions
 
-Take Highway 95 north across the Canadian border to Radium Hot Springs, then turn east onto Highway 93 through Kootenay and Yoho National Parks. At Castle Junction, take Highway 1 west past Lake Louise toward Kicking Horse Pass and Field, BC.
+Take Highway 95 north across the Canadian border to Radium Hot Springs, then turn east onto Highway 93
+through Kootenay and Yoho National Parks. At Castle Junction, take Highway 1 west past Lake Louise toward
+Kicking Horse Pass and Field, BC.
 
-Just west of the pass, before reaching the Kicking Horse campground, turn south onto the access road for Lake O'Hara. Parking and restrooms are located near the shuttle bus pickup area.
+Just west of the pass, before reaching the Kicking Horse campground, turn south onto the access road for
+Lake O'Hara. Parking and restrooms are located near the shuttle bus pickup area.
 
 ---
 
 ## Cool Things Close By
 
-Abbot Pass and Hut (ACC), Elizabeth Parker Hut (ACC), Sentinel Pass, Lake Oesa, Lake McArthur, Opabin Plateau.
+Abbot Pass and Hut (ACC), Elizabeth Parker Hut (ACC), Sentinel Pass, Lake Oesa, Lake McArthur, Opabin
+Plateau.
 
 ---
 
 ## Hazards & Safety
 
 !!! caution "Alpine Ledge Exposure"
-    While the Lake O'Hara Shoreline Trail is suitable for all ages, sections of the Alpine Circuit (Wiwaxy Gap, Yukness Ledges, All Souls' Prospect) feature steep drops and exposed ledges. Exercise caution and maintain secure footing.
+    While the Lake O'Hara Shoreline Trail is suitable for all ages, sections of the Alpine Circuit (Wiwaxy
+    Gap, Yukness Ledges, All Souls' Prospect) feature steep drops and exposed ledges. Exercise caution
+    and maintain secure footing.
 
 ---
 

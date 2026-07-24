@@ -15,17 +15,17 @@ stats:
   value: 5 miles RT
 - label: Elevation
   icon: terrain
-  value: 912’ gain to Ward Peak, with 812’ loss to the saddle, 833’ gain to Eagle
-    Peak from saddle
+  value: "912\u2019 gain to Ward Peak, with 812\u2019 loss to the saddle, 833\u2019\
+    \ gain to Eagle Peak from saddle"
 - label: Difficulty
   icon: speedometer
   value: moderately easy
 - label: Maps
   icon: map
-  value: IPNF, Lolo N.F., Haugen, Mt.- I’d
+  value: "IPNF, Lolo N.F., Haugen, Mt.- I\u2019d"
 - label: GPS
   icon: crosshairs-gps
-  value: 47°28’27" n 115°38’ 38" w
+  value: "47\xB028\u201927\" n 115\xB038\u2019 38\" w"
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
@@ -33,7 +33,8 @@ stats:
   icon: shield-account
   value: CALL 911 FIRST or 406.822.3555
 notes:
-- Lolo national forest/alerts
+- label: Lolo national forest/alerts
+  url: '#'
 - label: Lolo National Forest Alerts
   url: https://www.fs.usda.gov/alerts/lolo/alerts-notices
 ---

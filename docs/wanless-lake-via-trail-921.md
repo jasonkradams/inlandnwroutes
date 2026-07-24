@@ -13,7 +13,7 @@ stats:
   value: 18 miles RT
 - label: Elevation
   icon: terrain
-  value: 3500’
+  value: "3500\u2019"
 - label: Acres
   icon: vector-square
   value: '111.5'
@@ -25,7 +25,7 @@ stats:
   value: Kootenai N.F., Noxon Rapids, Howard Lake, Goat Peak
 - label: GPS
   icon: crosshairs-gps
-  value: 48°00’45" n 45°34’53" w
+  value: "48\xB000\u201945\" n 45\xB034\u201953\" w"
 - label: Ranger District
   icon: pine-tree
   value: Cabinet Ranger District 406.827.3533
@@ -33,7 +33,8 @@ stats:
   icon: shield-account
   value: CALL 911 FIRST or 406.293.4112
 notes:
-- Kootenai national forest/alerts
+- label: Kootenai national forest/alerts
+  url: '#'
 - url: https://www.fs.usda.gov/alerts/kootenai/alerts-notices
 ---
 

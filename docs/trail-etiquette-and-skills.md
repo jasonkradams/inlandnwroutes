@@ -1,3 +1,8 @@
+---
+title: "Trail Etiquette And Skills"
+tags:
+---
+
 # Trail Etiquette And Skills
 
 As you read this section, please understand that it is designed to inform you. But more importantly, all

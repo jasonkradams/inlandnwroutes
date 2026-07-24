@@ -13,7 +13,7 @@ stats:
   value: 16 miles RT
 - label: Elevation
   icon: terrain
-  value: 4000’
+  value: "4000\u2019"
 - label: Difficulty
   icon: speedometer
   value: Strenuous
@@ -22,12 +22,13 @@ stats:
   value: Kootenai N.F., Crowell Creek topo
 - label: GPS
   icon: crosshairs-gps
-  value: 48°23’11" n 115°47’28" w
+  value: "48\xB023\u201911\" n 115\xB047\u201928\" w"
 - label: Lincoln County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.293.4112
 notes:
-- Libby ranger district. 406.293.7773
+- label: Libby ranger district. 406.293.7773
+  url: '#'
 - label: Kootenai National Forest Alerts
   url: https://www.fs.usda.gov/alerts/kootenai/alerts-notices
 ---

@@ -27,7 +27,7 @@ stats:
   value: IPNF-Kaniksu N.F., USGS-Smith Peak, Shorty Peak & Caribou Creek
 - label: GPS
   icon: crosshairs-gps
-  value: 48° 51’ 54.0"n 116° 44’ 19.8"w
+  value: "48\xB0 51\u2019 54.0\"n 116\xB0 44\u2019 19.8\"w"
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561
@@ -35,7 +35,8 @@ stats:
   icon: shield-account
   value: CALL 911 FIRST or 208.267.3151
 notes:
-- Idaho panhandle national forest/alerts
+- label: Idaho panhandle national forest/alerts
+  url: '#'
 - url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 

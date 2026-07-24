@@ -44,8 +44,9 @@ stats:
     drupe is bright red in color and approximately 1/4 of an inch to 1/2 of an inch
     (7 to 10 mm) in width.
 notes:
-- '* **Notable features**: The branches are long, flexible, rooting, and velvety brownish-red
-  in color. Pure stands of Kinnikinnick can grow to be very dense.'
+- label: '* **Notable features**: The branches are long, flexible, rooting, and velvety
+    brownish-red in color. Pure stands of Kinnikinnick can grow to be very dense.'
+  url: '#'
 ---
 
 # Kinnikinnick

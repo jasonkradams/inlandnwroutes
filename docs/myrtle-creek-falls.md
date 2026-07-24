@@ -26,23 +26,35 @@ stats:
 
 ## Description
 
-Myrtle Falls and Creek are located within the Kootenai National Wildlife Refuge, and are easy to get to. However, the overlook can be very dangerous; stay behind the cable and watch your children very carefully.
+Myrtle Falls and Creek are located within the Kootenai National Wildlife Refuge, and are easy to get to.
+However, the overlook can be very dangerous; stay behind the cable and watch your children very carefully.
 
-From the Refuge office and restrooms, walk across the street to the parking area. The trail heads west and soon crosses a bridge built to last any water surges. Continue a short distance up to the overlook. You will notice the waterfall slices through the rock cliffs. Near the bottom is a tier that splashes water out towards the overlook, but the water never reaches the overlook.
+From the Refuge office and restrooms, walk across the street to the parking area. The trail heads west and
+soon crosses a bridge built to last any water surges. Continue a short distance up to the overlook. You will
+notice the waterfall slices through the rock cliffs. Near the bottom is a tier that splashes water out
+towards the overlook, but the water never reaches the overlook.
 
 ### Option #1
 
-Once done at the overlook, walk back towards the bridge. In low water, you can drop down the creek and walk the very scenic creek for about .1 miles to where Myrtle Creek crosses the road. In the winter, this falls and creek are exceptionally photogenic.
+Once done at the overlook, walk back towards the bridge. In low water, you can drop down the creek and walk
+the very scenic creek for about .1 miles to where Myrtle Creek crosses the road. In the winter, this falls
+and creek are exceptionally photogenic.
 
 ## Directions
 
-As you drive through Bonners Ferry, you will come to the Kootenai River. Before crossing the river, turn left (W) onto Riverside Street. Be sure to drive no faster than the posted speed limit. Continue west on Riverside Street along the Kootenai River where it will turn left (W) over Deep Creek. Stay on Riverside to where it meets up with West Side Road #18 (was F.R. 418 on older maps).
+As you drive through Bonners Ferry, you will come to the Kootenai River. Before crossing the river, turn
+left (W) onto Riverside Street. Be sure to drive no faster than the posted speed limit. Continue west on
+Riverside Street along the Kootenai River where it will turn left (W) over Deep Creek. Stay on Riverside to
+where it meets up with West Side Road #18 (was F.R. 418 on older maps).
 
-The road bears right, and in a short distance you will see the Myrtle Falls parking area. There is a restroom across the street with parking.
+The road bears right, and in a short distance you will see the Myrtle Falls parking area. There is a
+restroom across the street with parking.
 
 ## Cool Things Close By
 
-U. & L. Snow Creek Falls, Roman Nose Lakes & Peak, Cooks Lake, Trout & Big Fisher Lakes, Burton Peak, Myrtle Lake & Peak, Pyramid-Ball Lakes, Fisher Peak, Long Mountain Lake, Parker Peak, and West Fork Lake, Peak, and Lookout.
+U. & L. Snow Creek Falls, Roman Nose Lakes & Peak, Cooks Lake, Trout & Big Fisher Lakes, Burton Peak, Myrtle
+Lake & Peak, Pyramid-Ball Lakes, Fisher Peak, Long Mountain Lake, Parker Peak, and West Fork Lake, Peak, and
+Lookout.
 
 ## Hazards
 

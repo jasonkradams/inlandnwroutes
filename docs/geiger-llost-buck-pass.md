@@ -20,7 +20,7 @@ stats:
   value: Lower Lake 1000 verts, Upper Lake 1600 verts
 - label: Acres
   icon: vector-square
-  value: lower 34.4…..upper 12.5
+  value: "lower 34.4\u2026..upper 12.5"
 - label: Difficulty
   icon: speedometer
   value: Moderate
@@ -29,7 +29,7 @@ stats:
   value: Kaniksu N.F., Goat Peak Topo
 - label: GPS
   icon: crosshairs-gps
-  value: 48°00’58" n 115°32’08" w
+  value: "48\xB000\u201958\" n 115\xB032\u201908\" w"
 - label: Ranger District
   icon: pine-tree
   value: Libby R.D. 406.293.7773
@@ -37,7 +37,8 @@ stats:
   icon: shield-account
   value: CALL 911 FIRST or 406.293.4112
 notes:
-- Kootenai national forest/alerts
+- label: Kootenai national forest/alerts
+  url: '#'
 - url: https://www.fs.usda.gov/alerts/kootenai/alerts-notices
 ---
 

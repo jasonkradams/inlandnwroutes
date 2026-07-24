@@ -34,23 +34,31 @@ stats:
 
 ## Description & Paddling Instructions
 
-The paddle to Echo Bay starts at the Bayview public launch or the Farragut State Park Eagle Boat Launch. From either site, paddle due east across Idlewilde Bay to Bernard Point (2.5 miles from Bayview or 1.3 miles from Eagle Boat Launch).
+The paddle to Echo Bay starts at the Bayview public launch or the Farragut State Park Eagle Boat Launch.
+From either site, paddle due east across Idlewilde Bay to Bernard Point (2.5 miles from Bayview or 1.3 miles
+from Eagle Boat Launch).
 
-Paddle along the shoreline below Bernard Peak beneath massive, near-vertical granite cliffs. As you paddle northeast along the shoreline toward Echo Bay, keep an eye out for mountain goats high above on the cliffs.
+Paddle along the shoreline below Bernard Peak beneath massive, near-vertical granite cliffs. As you paddle
+northeast along the shoreline toward Echo Bay, keep an eye out for mountain goats high above on the cliffs.
 
-A major attraction in one-mile-long Echo Bay is its shaded shoreline beach, which features several sunny spots to catch rays and an endless supply of near-perfect skipping rocks.
+A major attraction in one-mile-long Echo Bay is its shaded shoreline beach, which features several sunny
+spots to catch rays and an endless supply of near-perfect skipping rocks.
 
 ---
 
 ## Route Options & Extensions
 
-You may choose to paddle further around the shoreline toward Lakeview. From Lakeview, you can retrace your strokes back along the shore, or if Lake Pend Oreille is calm, paddle 2.25 miles straight across Idlewilde Bay to Cape Horn, and south back to Bayview.
+You may choose to paddle further around the shoreline toward Lakeview. From Lakeview, you can retrace your
+strokes back along the shore, or if Lake Pend Oreille is calm, paddle 2.25 miles straight across Idlewilde
+Bay to Cape Horn, and south back to Bayview.
 
 ---
 
 ## Directions
 
-From Coeur d'Alene, drive north on Hwy 95 toward Sandpoint. At Athol, exit right (east) onto State Highway 54. Drive 4 miles to the roundabout pay station. Continue 1/4 mile along SH-54 to South Road, turn right, and continue to the Eagle Boat Launch inside Farragut State Park.
+From Coeur d'Alene, drive north on Hwy 95 toward Sandpoint. At Athol, exit right (east) onto State
+Highway 54. Drive 4 miles to the roundabout pay station. Continue 1/4 mile along SH-54 to South Road, turn right,
+and continue to the Eagle Boat Launch inside Farragut State Park.
 
 ---
 

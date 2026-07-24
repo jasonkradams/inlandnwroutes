@@ -1,3 +1,8 @@
+---
+title: "Blank"
+tags:
+---
+
 # Blank
 
 ## Recipe name

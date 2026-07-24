@@ -13,7 +13,7 @@ stats:
   value: 9.2 miles RT
 - label: Elevation
   icon: terrain
-  value: 650’
+  value: "650\u2019"
 - label: Difficulty
   icon: speedometer
   value: easy
@@ -22,12 +22,13 @@ stats:
   value: Colville N. F., Metaline Falls Topo
 - label: GPS
   icon: crosshairs-gps
-  value: North shore beach 48°50’ 14" N 117°16’34" W
+  value: "North shore beach 48\xB050\u2019 14\" N 117\xB016\u201934\" W"
 - label: Pend Orielle County Sheriff
   icon: shield-account
   value: 509.447.3151
 notes:
-- 'M,ANGING AGENCY: C.N.F. & Sullivan Lake R.D. 509.446.7500'
+- label: 'M,ANGING AGENCY: C.N.F. & Sullivan Lake R.D. 509.446.7500'
+  url: '#'
 ---
 
 # Sullivan Lake Shore Line

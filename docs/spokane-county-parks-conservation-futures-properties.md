@@ -1,3 +1,8 @@
+---
+title: "Spokane County Parks Conservation Futures Properties"
+tags:
+---
+
 # Spokane County Parks Conservation Futures Properties
 
 Conservation FuturesConservation Futures Program The Spokane County Conservation Futures Program was

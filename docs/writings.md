@@ -1,3 +1,8 @@
+---
+title: "Writings"
+tags:
+---
+
 # Writings
 
 Writings.... we encourage you to send us your writing on human powered sports. please keep them clean and

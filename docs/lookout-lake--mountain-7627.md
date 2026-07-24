@@ -15,7 +15,7 @@ stats:
   value: 5 mile RT
 - label: Elevation Gain
   icon: elevation-rise
-  value: 1523’
+  value: "1523\u2019"
 - label: Difficulty
   icon: speedometer
   value: easy
@@ -24,7 +24,7 @@ stats:
   value: IPNF, Kootenai National Forest, Caribou Creek
 - label: GPS
   icon: crosshairs-gps
-  value: 48°47’17"n 116° 47’ 41"w
+  value: "48\xB047\u201917\"n 116\xB0 47\u2019 41\"w"
 - label: Ranger District
   icon: pine-tree
   value: Idaho Dept. of Lands, Priest River. 208.448.2302
@@ -32,7 +32,8 @@ stats:
   icon: shield-account
   value: CALL 911 FIRST or 208.267.3151
 notes:
-- Idaho panhandle national forest/alerts
+- label: Idaho panhandle national forest/alerts
+  url: '#'
 - url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 

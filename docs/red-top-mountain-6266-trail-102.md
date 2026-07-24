@@ -21,7 +21,7 @@ stats:
   value: IPNF - Kaniksu N.F., USGS - Grass Mt. and Shorty Peak
 - label: GPS
   icon: crosshairs-gps
-  value: 48° 54’ 49.0"n 116° 41’ 06.6"w
+  value: "48\xB0 54\u2019 49.0\"n 116\xB0 41\u2019 06.6\"w"
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561
@@ -29,7 +29,8 @@ stats:
   icon: shield-account
   value: CALL 911 FIRST or 208.67.3151
 notes:
-- Idaho panhandle national forest/alerts
+- label: Idaho panhandle national forest/alerts
+  url: '#'
 - url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 

@@ -25,13 +25,14 @@ stats:
   value: Kootenai N. F., Treasure Mountain
 - label: GPS
   icon: crosshairs-gps
-  value: Upper Sky Lake. 48°19’12" N 115°42’55" W Hanging Valley. (Lake). 48°19’04"
-    N 115°41’18" w.
+  value: "Upper Sky Lake. 48\xB019\u201912\" N 115\xB042\u201955\" W Hanging Valley.\
+    \ (Lake). 48\xB019\u201904\" N 115\xB041\u201918\" w."
 - label: Lincoln County Sheriff
   icon: shield-account
   value: CALL 911 FIRST, or 406.293.4112
 notes:
-- libby ranger district 406.293.7773
+- label: libby ranger district 406.293.7773
+  url: '#'
 - label: Kootenai National Forest Alerts
   url: https://www.fs.usda.gov/alerts/kootenai/alerts-notices
 ---

@@ -1,3 +1,8 @@
+---
+title: "Spokane Canoe And Kayak Club"
+tags:
+---
+
 # Spokane Canoe And Kayak Club
 
 ## Spokane canoe and kayak club (2)

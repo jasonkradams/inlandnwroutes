@@ -1,46 +1,50 @@
 ---
 tags:
-  - Lakes
-  - Hiking
-  - Backpacking
-  - Scrambling
+- Lakes
+- Hiking
+- Backpacking
+- Scrambling
 stats:
-  - label: Event Type
-    icon: hiking
-    value: Hiking, backpacking, and scrambling
-  - label: Distance
-    icon: map-marker-distance
-    value: Beehive Lake 7.2 miles RT, Loop about 11 miles
-  - label: Elevation Gain
-    icon: elevation-rise
-    value: 2040’
-  - label: Acres
-    icon: vector-square
-    value: "12"
-  - label: Difficulty
-    icon: speedometer
-    value: Moderately difficult to Beehive Lake
-  - label: Maps
-    icon: map
-    value: IPNF - Kaniksu N.F., USGS - The Wigwams, ID
-  - label: GPS
-    icon: crosshairs-gps
-    value: Beehive Lake 48° 38’ 59.3"N 116° 37’ 25.0"W
-  - label: Ranger District
-    icon: pine-tree
-    value: Sandpoint R.D. 208.263.5111
+- label: Event Type
+  icon: hiking
+  value: Hiking, backpacking, and scrambling
+- label: Distance
+  icon: map-marker-distance
+  value: Beehive Lake 7.2 miles RT, Loop about 11 miles
+- label: Elevation Gain
+  icon: elevation-rise
+  value: "2040\u2019"
+- label: Acres
+  icon: vector-square
+  value: '12'
+- label: Difficulty
+  icon: speedometer
+  value: Moderately difficult to Beehive Lake
+- label: Maps
+  icon: map
+  value: IPNF - Kaniksu N.F., USGS - The Wigwams, ID
+- label: GPS
+  icon: crosshairs-gps
+  value: "Beehive Lake 48\xB0 38\u2019 59.3\"N 116\xB0 37\u2019 25.0\"W"
+- label: Ranger District
+  icon: pine-tree
+  value: Sandpoint R.D. 208.263.5111
 notes:
-  - label: "Idaho Panhandle National Forests Alerts"
-    url: "https://www.fs.usda.gov/alerts/ipnf/alerts-notices"
-  - label: "Boundary County Sheriff: CALL 911 FIRST, or 208.267.3151"
-    url: "tel:208.267.3151"
+- label: Idaho Panhandle National Forests Alerts
+  url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
+- label: 'Boundary County Sheriff: CALL 911 FIRST, or 208.267.3151'
+  url: tel:208.267.3151
 ---
 
 # Beehive Lake 6457
 
 ## Description
 
-From the trailhead, head east across a bridge over the Pack River. The trail is wide and a nice hike with a few switchbacks to the lake. The trail wanders up between two east/west ridges and over Beehive Creek, as it passes two of Beehive's lower lakes (not worth the effort). About a half a mile from the lake, the trail goes onto the famous Selkirk Granite. Soon the granite leads you to the NE end of the lake. Up to the left (south) is an area to camp and have great views of the lake and the Selkirk Crest high above.
+From the trailhead, head east across a bridge over the Pack River. The trail is wide and a nice hike with a
+few switchbacks to the lake. The trail wanders up between two east/west ridges and over Beehive Creek, as it
+passes two of Beehive's lower lakes (not worth the effort). About a half a mile from the lake, the trail
+goes onto the famous Selkirk Granite. Soon the granite leads you to the NE end of the lake. Up to the left
+(south) is an area to camp and have great views of the lake and the Selkirk Crest high above.
 
 !!! warning "Trail Condition Notice"
     - This trail's conditions have decayed substantially in recent seasons. Please allot more uphill hiking time.
@@ -50,31 +54,51 @@ From the trailhead, head east across a bridge over the Pack River. The trail is 
 
 ### Option 1: North Twin & Selkirk Crest Traverse
 
-For those wishing to do a nice scramble, walk south along the shore to the SE corner of the lake. Above you is the North Twin. Head in that direction and start ascending. There are two forested benches above you; head to the highest of the two. After a nice lunch with a view, climb up towards the Selkirk Crest, skirting the North Twin. Keep heading north below the crest to the divide between Beehive Lake and Little Harrison Lake. Spend some time here admiring Beehive below and Lookout Mountain to the west. From here you have a few options: hike back down to Beehive Lake, or hike over the ridge and descend to Little Harrison Lake.
+For those wishing to do a nice scramble, walk south along the shore to the SE corner of the lake. Above you
+is the North Twin. Head in that direction and start ascending. There are two forested benches above you;
+head to the highest of the two. After a nice lunch with a view, climb up towards the Selkirk Crest, skirting
+the North Twin. Keep heading north below the crest to the divide between Beehive Lake and Little Harrison
+Lake. Spend some time here admiring Beehive below and Lookout Mountain to the west. From here you have a few
+options: hike back down to Beehive Lake, or hike over the ridge and descend to Little Harrison Lake.
 
 ### Option 2: Beehive Ridge to Little Harrison Lake
 
-From Beehive Lake, look to your right (north) for a faint trail that takes you up and over the ridge to Little Harrison Lake. The scramble up and over the ridge is difficult, but lands you at the beautiful Little Harrison Lake. You can hike around the lake, but you must go back to your descent route to get back to Beehive Lake.
+From Beehive Lake, look to your right (north) for a faint trail that takes you up and over the ridge to
+Little Harrison Lake. The scramble up and over the ridge is difficult, but lands you at the beautiful Little
+Harrison Lake. You can hike around the lake, but you must go back to your descent route to get back to
+Beehive Lake.
 
 ### Option 3: Harrison Lake & Upper Pack River Loop
 
-On September 15, 2022, we hiked into Harrison Lake, looking for a scramble in its basin. We chose to head my regular route to the Selkirk Crest on Harrison Lake's west wall. After boulder hopping around the lake, we headed up to the second lowest notch in the back wall. When you can hike up through greenery, do so, but soon you will have to start a really fun scramble to the crest. Just above the ridge to the left (south) is a great place to rest and grab snacks and images.
+On September 15, 2022, we hiked into Harrison Lake, looking for a scramble in its basin. We chose to head my
+regular route to the Selkirk Crest on Harrison Lake's west wall. After boulder hopping around the lake, we
+headed up to the second lowest notch in the back wall. When you can hike up through greenery, do so, but
+soon you will have to start a really fun scramble to the crest. Just above the ridge to the left (south) is
+a great place to rest and grab snacks and images.
 
-As we were eating, we noticed cool high meadows to the NW of the lake and below us to the SE. We dropped off the crest and headed SSW to the far ridge line east of Peak 7171'. Once on this ridge, head east high above the lake, staying centered on the ridge (do not allow your path to drop off either side). As you get closer to the campsite area at Harrison Lake, work your way carefully to the north down a steep but safe patch of greenery to the Upper Pack River. Walk back out to the lake to marvel at the route you just completed before heading to the trailhead.
+As we were eating, we noticed cool high meadows to the NW of the lake and below us to the SE. We dropped off
+the crest and headed SSW to the far ridge line east of Peak 7171'. Once on this ridge, head east high above
+the lake, staying centered on the ridge (do not allow your path to drop off either side). As you get closer
+to the campsite area at Harrison Lake, work your way carefully to the north down a steep but safe patch of
+greenery to the Upper Pack River. Walk back out to the lake to marvel at the route you just completed before
+heading to the trailhead.
 
-*Note: None of Option 3 is on any established trail, so yell "yahoo!" along the way.*
+#### Note: None of Option 3 is on any established trail, so yell "yahoo!" along the way
 
 ## Directions
 
-From Sandpoint, drive north on Hwy 95 to Samuels. Turn left (west) onto Pack River Road #231 for 19 miles to the Beehive Lake trailhead.
+From Sandpoint, drive north on Hwy 95 to Samuels. Turn left (west) onto Pack River Road #231 for 19 miles to
+the Beehive Lake trailhead.
 
 ## Cool Things Close By
 
-Little Harrison Lake, Harrison Lake, Harrison Peak, Fault Lake, Kootenai National Wildlife Refuge, Purcell Trench, Sandpoint, and Lake Pend Oreille.
+Little Harrison Lake, Harrison Lake, Harrison Peak, Fault Lake, Kootenai National Wildlife Refuge, Purcell
+Trench, Sandpoint, and Lake Pend Oreille.
 
 ## Hazards & Safety Tips
 
-The trail is easy to moderate, just longish. Whenever you are on granite, be careful not to fall and watch for rocks that move when walked on. Always yell "ROCK N ROLL!" to alert hikers behind you.
+The trail is easy to moderate, just longish. Whenever you are on granite, be careful not to fall and watch
+for rocks that move when walked on. Always yell "ROCK N ROLL!" to alert hikers behind you.
 
 ## Rest & Provisions
 

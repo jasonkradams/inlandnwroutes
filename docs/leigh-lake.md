@@ -30,7 +30,8 @@ stats:
   value: Cabinet Mountain Wilderness, Kootenai N.F., Snowshoe Peak
 - label: GPS
   icon: crosshairs-gps
-  value: '[48°13’28"n](https://goo.gl/maps/GDAcZfwdD5ZRiU3h7) [115°39’39"w](https://goo.gl/maps/GDAcZfwdD5ZRiU3h7)'
+  value: "[48\xB013\u201928\"n](https://goo.gl/maps/GDAcZfwdD5ZRiU3h7) [115\xB039\u2019\
+    39\"w](https://goo.gl/maps/GDAcZfwdD5ZRiU3h7)"
 - label: Ranger District
   icon: pine-tree
   value: libby ranger district 406.293.7773
@@ -38,7 +39,8 @@ stats:
   icon: shield-account
   value: CALL 911 FIRST or 406.827.3584
 notes:
-- Kootenai national forest/alerts
+- label: Kootenai national forest/alerts
+  url: '#'
 - url: https://www.fs.usda.gov/alerts/kootenai/alerts-notices
 ---
 

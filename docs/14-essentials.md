@@ -1,3 +1,8 @@
+---
+title: "14 Essentials"
+tags:
+---
+
 # 14 Essentials
 
 as you read this section, please understand that it is designed to inform you. but more importantly, all

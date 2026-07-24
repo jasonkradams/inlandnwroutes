@@ -23,13 +23,14 @@ stats:
   value: IPNF - Kaniksu N.F., USGS - The Wigwams, Roman Nose, ID
 - label: GPS
   icon: crosshairs-gps
-  value: Harrison Lake 48° 42’ 12.5"N 116° 37’ 23.4"W, Beehive Lake 48° 38’ 59.3"n
-    116° 37’ 25.0"w
+  value: "Harrison Lake 48\xB0 42\u2019 12.5\"N 116\xB0 37\u2019 23.4\"W, Beehive\
+    \ Lake 48\xB0 38\u2019 59.3\"n 116\xB0 37\u2019 25.0\"w"
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 911 or 208.267.5561
 notes:
-- Idaho panhandle national forest/alerts
+- label: Idaho panhandle national forest/alerts
+  url: '#'
 - url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 

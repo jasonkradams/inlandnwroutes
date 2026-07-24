@@ -37,21 +37,32 @@ stats:
 
 ## Description
 
-The Thirteenmile Canyon Trail (#23) climbs out of the Sanpoil River valley, skirting dramatic cliffs along the western boundary of the nearly 13,000-acre Thirteenmile Roadless Area in the Colville National Forest. The lower trail passes ancient Ponderosa pines—some of the largest specimens in Washington State—and vibrant spring wildflower displays. 
+The Thirteenmile Canyon Trail (#23) climbs out of the Sanpoil River valley, skirting dramatic cliffs along
+the western boundary of the nearly 13,000-acre Thirteenmile Roadless Area in the Colville National Forest.
+The lower trail passes ancient Ponderosa pines—some of the largest specimens in Washington State—and vibrant
+spring wildflower displays.
 
-At just under 2 miles, the trail reaches a prominent rock overlook offering commanding views back down into the canyon. Continuing past 3 miles, the terrain opens into high bunchgrass steppes and flattens out near a small wetland and the ruins of an old sheep herder's camp.
+At just under 2 miles, the trail reaches a prominent rock overlook offering commanding views back down into
+the canyon. Continuing past 3 miles, the terrain opens into high bunchgrass steppes and flattens out near a
+small wetland and the ruins of an old sheep herder's camp.
 
 ## Access & Directions
 
-Drive US-2 West from Spokane to Wilbur. At Wilbur, turn right (north) onto WA-21 North and drive 56 miles toward Republic. Take the Keller Ferry across the Columbia River and continue north along the Sanpoil River past Rattlesnake Gulch. The Thirteenmile Trailhead is located a little over 1 mile past Rattlesnake Gulch on a wide left turn.
+Drive US-2 West from Spokane to Wilbur. At Wilbur, turn right (north) onto WA-21 North and drive 56 miles
+toward Republic. Take the Keller Ferry across the Columbia River and continue north along the Sanpoil River
+past Rattlesnake Gulch. The Thirteenmile Trailhead is located a little over 1 mile past Rattlesnake Gulch on
+a wide left turn.
 
-*Note: Check Keller Ferry operating status during high wind or wildfire season.*
+### Note: Check Keller Ferry operating status during high wind or wildfire season
 
 ## Safety & Hazards
 
 !!! warning "Ticks & Rattlesnakes"
 
-    Ticks and rattlesnakes are common in the dry Sanpoil River canyon. Wear light-colored pants tucked into boot tops or snake gaiters to spot ticks quickly. Rattlesnakes frequently sun themselves on rocky ledges during morning hours—do not step over rocks without checking the landing area. Carry ample water on hot summer days.
+    Ticks and rattlesnakes are common in the dry Sanpoil River canyon. Wear light-colored pants tucked into
+    boot tops or snake gaiters to spot ticks quickly. Rattlesnakes frequently sun themselves on rocky
+    ledges during morning hours—do not step over rocks without checking the landing area. Carry ample
+    water on hot summer days.
 
 ## Nearby Points of Interest
 

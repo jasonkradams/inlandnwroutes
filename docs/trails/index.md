@@ -1,3 +1,9 @@
+---
+title: "Trails"
+tags:
+  - trails
+---
+
 # Trails
 
 ---

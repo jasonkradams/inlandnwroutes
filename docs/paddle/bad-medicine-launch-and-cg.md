@@ -1,0 +1,61 @@
+---
+tags:
+  - Lakes
+  - Paddling & Rivers
+stats:
+  - label: Paddle Distance
+    icon: map-marker-distance
+    value: 4.5 miles
+  - label: Elevation
+    icon: terrain
+    value: "2320'"
+  - label: Length and Acreage
+    icon: vector-square
+    value: 4.5 miles & 1202 acres
+  - label: Maps
+    icon: map
+    value: Kootenai N. F., Bull Lake Topo
+  - label: Launch GPS
+    icon: crosshairs-gps
+    value: 48°13’11" N 115°51’22" W
+  - label: Lincoln County Sheriff
+    icon: shield-account
+    value: 406.293.4112
+---
+
+# Bad Medicine Launch and Campground
+
+## Description
+
+The Bad Medicine Campground and launch are located on the SW end of Bull Lake. The launch is located south
+of the campground near the south end of the lake. There is plenty of parking, but the turnaround to launch
+is tight, so if your boat is large, you might want to use the Dorr Skeel Campground launch on the north end
+of the lake. The main body is a little over 2 miles long where the lake narrows before passing by Angel
+Island. Past the island, the lake continues for about 2 miles.
+
+## Attractions
+
+Bull Lake is located west of the Cabinet Mountain Wilderness along Highway 56.
+
+## Directions
+
+From Clark Fork, drive east on Highway 200 for about 18 miles, passing the Idaho-Montana border at 7.6
+miles. Turn left (north) onto Highway 56 for about 17 miles to the turnoff for Bad Medicine & Ross Creek
+Cedars. Turn left (west) and follow the road to the boat launch.
+
+## Cool Things Close By
+
+Cabinet Mountain Wilderness, Lake Koocanusa, Libby, Rock Lake, Proposed Scotchman Peaks Wilderness, and
+Kootenai Falls.
+
+## R & P
+
+Clark Fork Pantry in Clark Fork, Henry's in Libby.
+
+## Plan Your Trip
+
+[Click for Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
+
+## Photo Gallery
+
+### Images coming soon

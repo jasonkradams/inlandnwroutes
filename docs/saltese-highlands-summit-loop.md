@@ -1,3 +1,8 @@
+---
+title: "Saltese Highlands Summit Loop"
+tags:
+---
+
 # Saltese Highlands Summit Loop
 
 ## Saltese highlands summit loop (2)

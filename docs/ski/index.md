@@ -1,3 +1,9 @@
+---
+title: "Ski History & Avalanche Safety"
+tags:
+  - ski
+---
+
 # Ski History & Avalanche Safety
 
 This page collects five pieces: a world timeline of ski history compiled by FIS (the International Ski
@@ -1457,7 +1463,7 @@ temperature gradients within the snowpack. As long as the ground has an insulati
 warm — near freezing — even in very cold air (the exceptions being permafrost areas or very thin snow cover
 combined with very cold temperatures). The snow surface, meanwhile, can get extremely cold, especially under
 a clear sky, creating one of the most common temperature-gradient conditions — especially in early winter,
-when cold temperatures combine with a thin snowpack to breed depth hoar near the ground. &nbsp; *Looks
+when cold temperatures combine with a thin snowpack to breed depth hoar near the ground.   *Looks
 like:* sparkly, larger-grained; beginning and intermediate facets are square, 1–3 mm; advanced
 
 facets can be cup-shaped, 4–10 mm. *Feels like:* loose, granular, runs through your fingers, crunchy
@@ -1764,7 +1770,7 @@ cold humid air pools, or in a "bathtub ring" band where thin clouds sit in a con
 open slopes rather than in trees, and because it's fragile, any small disturbance — especially wind — can
 destroy it in one spot but leave it in another, making it "pockety." It's often invisible in a snowpit wall,
 revealing itself only when you get a clean shear and look at the bottom of the block for flat, feathery,
-sparkly crystals. &nbsp; *How it forms:* on a clear night, snow radiates heat away and the surface gets very
+sparkly crystals.   *How it forms:* on a clear night, snow radiates heat away and the surface gets very
 cold; since warm
 
 air holds more water vapor than cold air, vapor from the air above condenses onto the cold surface — frozen
@@ -1775,7 +1781,7 @@ becomes more humid, often pooling in valley bottoms and basins — exactly where
 The third ingredient is calm air: too much wind destroys the fragile crystals and prevents cold air from
 pooling and humidifying; about 3 mph is considered ideal, fast enough to keep bringing humid air to the
 surface without destroying it. In summary, surface hoar needs: clear sky, no or very weak direct sun, calm
-or light wind (~3 mph), an open slope exposed to clear sky, and humid air. &nbsp; *Distribution:* surface
+or light wind (~3 mph), an open slope exposed to clear sky, and humid air.   *Distribution:* surface
 hoar doesn't grow under evergreen trees, whose branches disrupt back-radiation,
 
 but grows fine in sparse aspen groves that don't block much radiation. Because cool air is more humid and
@@ -1788,7 +1794,7 @@ the top of a low stratus layer with mountaintops poking through. Once formed, it
 light wind can blow or sublimate it away, so once buried it can be devilishly patchy — a snowpit in one spot
 might show nothing while one ten feet away shows a fragile layer. It's much more common in maritime climates
 (needs humid air) than continental ones, and grows especially thick in high-latitude climates like Alaska,
-where the sun is too weak in mid-winter to melt it off during the day. &nbsp; *Mechanical properties:*
+where the sun is too weak in mid-winter to melt it off during the day.   *Mechanical properties:*
 surface hoar may be the perfect avalanche weak layer — thin, very weak,
 
 notoriously persistent, and it commonly forms on hard (and slippery) bed surfaces; thin weak layers also
@@ -1799,7 +1805,7 @@ crushing it, until one tap of a finger crushes it instantly). This is probably t
 for surface hoar and other persistent weak layers: often the first or second storm on top doesn't add enough
 weight, but the third or fourth finally tips it over. It can also fail in shear if the first snowfall lays
 the crystals over on their side, leaving a paper-thin, poorly bonded discontinuity — though laid-over
-crystals tend to bond up faster than standing ones. &nbsp; *Types:* surface hoar crystals come in roughly
+crystals tend to bond up faster than standing ones.   *Types:* surface hoar crystals come in roughly
 three forms — needles, feathers, and wedges — with
 
 danger and persistence increasing in that order (wedges are worst). Needles form at very cold temperatures
@@ -1813,7 +1819,7 @@ exists *before* new snow buries it — every loading event afterward
 takes on life-and-death importance. A particular trap: during a multi-day storm, the wind can die and the
 sky clear for just a few hours overnight without you noticing, growing a thin layer of surface hoar that
 gets buried by the next round of snow — the next day's soft-slab avalanches, instead of calming down as
-usual, keep going for days, and only digging reveals the culprit. &nbsp; *Best detection method:* shovel
+usual, keep going for days, and only digging reveals the culprit.   *Best detection method:* shovel
 shear test or compression test, looking at the bottom of the block for
 
 the crystals. *Forecasting considerations:* map the distribution before it's buried, and be suspicious
@@ -1914,3 +1920,9 @@ breaks at your feet instead of above you.
 skiers, 5 snowboarders, and 8 snowmobilers were among the reported deaths (the source data available for
 this figure didn't break out the remaining categories). For current-season statistics, see
 [avalanche.org](http://www.avalanche.org/).
+
+---
+
+## Biking
+
+##

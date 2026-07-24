@@ -1,3 +1,8 @@
+---
+title: "Gear Chic"
+tags:
+---
+
 # Gear Chic
 
 ---

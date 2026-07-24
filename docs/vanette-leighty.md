@@ -1,3 +1,8 @@
+---
+title: "Vanette Leighty"
+tags:
+---
+
 # Vanette Leighty
 
 ---

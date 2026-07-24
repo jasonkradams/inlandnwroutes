@@ -1,3 +1,8 @@
+---
+title: "Medical Information"
+tags:
+---
+
 # Medical Information
 
 As you read this section, please understand that it is designed to inform you. but more importantly, all

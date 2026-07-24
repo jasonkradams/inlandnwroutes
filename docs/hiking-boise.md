@@ -1,3 +1,8 @@
+---
+title: "Hiking Boise"
+tags:
+---
+
 # Hiking Boise
 
 ## About Me

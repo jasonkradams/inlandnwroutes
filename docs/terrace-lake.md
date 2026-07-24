@@ -21,7 +21,7 @@ stats:
   value: Lolo National Forest, Vermillion Peak top
 - label: GPS
   icon: crosshairs-gps
-  value: n47°77'00" w-115°25'71"
+  value: "n47\xB077'00\" w-115\xB025'71\""
 - label: Ranger District
   icon: pine-tree
   value: thompson falls ranger district 406.826.3821
@@ -29,7 +29,8 @@ stats:
   icon: shield-account
   value: call 911 first
 notes:
-- Lolo national forest/alertS
+- label: Lolo national forest/alertS
+  url: '#'
 - label: Lolo National Forest Alerts
   url: https://www.fs.usda.gov/alerts/lolo/alerts-notices
 ---

@@ -1,3 +1,8 @@
+---
+title: "Restaurants And Pubs"
+tags:
+---
+
 # Restaurants And Pubs
 
 ## Restaurants and pubs (2)

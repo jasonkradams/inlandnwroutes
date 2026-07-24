@@ -26,7 +26,7 @@ stats:
   value: IPNF - Kaniksu N.F., USGS - Roman Nose, ID
 - label: GPS
   icon: crosshairs-gps
-  value: 48° 43’ 13.3"n 116° 37’ 30.3"w
+  value: "48\xB0 43\u2019 13.3\"n 116\xB0 37\u2019 30.3\"w"
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561
@@ -34,7 +34,8 @@ stats:
   icon: shield-account
   value: 911 or 208.267.3151
 notes:
-- Idaho panhandle national forest/alerts
+- label: Idaho panhandle national forest/alerts
+  url: '#'
 - url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 

@@ -27,9 +27,11 @@ stats:
 
 ## Description
 
-We have added the area's sheriff emergency phone numbers for each trip write-up under the ranger district info. If an emergency occurs, evaluate your circumstances and call only if needed.
+We have added the area's sheriff emergency phone numbers for each trip write-up under the ranger district
+info. If an emergency occurs, evaluate your circumstances and call only if needed.
 
-Newman Lake is a semi-long lake with six bays to explore. Disregard the N. Honeysuckle launch mark on the map above.
+Newman Lake is a semi-long lake with six bays to explore. Disregard the N. Honeysuckle launch mark on the
+map above.
 
 ## Attractions
 
@@ -37,7 +39,8 @@ McKenzie Conservation Area offers hiking trails and scenic natural shorelines.
 
 ## Directions
 
-Drive east on Highway 290 (E. Trent Road) to Moab, WA. Turn left (N) onto N. Star Road and drive to the "T" intersection with E. Hauser Lake Road for less than 0.5 miles to the Newman Lake Public Fishing Area launch.
+Drive east on Highway 290 (E. Trent Road) to Moab, WA. Turn left (N) onto N. Star Road and drive to the "T"
+intersection with E. Hauser Lake Road for less than 0.5 miles to the Newman Lake Public Fishing Area launch.
 
 ## Cool Things Close By
 

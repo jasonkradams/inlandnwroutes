@@ -1,3 +1,8 @@
+---
+title: "Idaho A Climbing Guide"
+tags:
+---
+
 # Idaho A Climbing Guide
 
 ## IDAHO: A Climbing Guide | Mountaineering in Idaho

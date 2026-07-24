@@ -1,3 +1,8 @@
+---
+title: "Bitterroots"
+tags:
+---
+
 # Bitterroots
 
 History of the Bitterroot National Forest

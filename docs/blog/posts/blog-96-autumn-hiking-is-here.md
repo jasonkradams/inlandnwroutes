@@ -21,13 +21,13 @@ encountered this season, this Autumn promises some of the best fall colors in re
 - **Red Top Mountain & Hidden Lake:** [Red Top Mountain Guide](../../mountains/index.md). The hardest part
   of this hike is the drive (~3 hours to trailhead via Copeland, Idaho). Once on the trail, you will walk
   a forested ridge line that lights up in the fall, taking you to Joe Peak and down to Hidden Lake.
-- **Marie Creek Trail #241:** [Marie Creek Guide](../../trails/index.md). Located north of Wolf Lodge Bay.
+- **Marie Creek Trail #241:** [Marie Creek Guide](../../mountains/index.md). Located north of Wolf Lodge Bay.
   Takes you along Marie Creek after walking through forest for ~1 mile to a washed-out creek crossing at 2
   miles. On your return, check out the rock cliff campsite built from surrounding talus.
 - **Spokane County Conservation Futures Properties:**
-  [Spokane County Conservation Futures](../../trails/index.md). Spokane County features 17+ hiking areas
+  [Spokane County Conservation Futures](../../mountains/index.md). Spokane County features 17+ hiking areas
   offering easy to moderate terrain through diverse habitats.
-- **Saltese Uplands & Flats:** [Saltese Flats Wetland Trail](../../trails/index.md). Features moderate
+- **Saltese Uplands & Flats:** [Saltese Flats Wetland Trail](../../mountains/index.md). Features moderate
   uphill hiking with views of Mica Peak and surrounding wetlands that color up earlier than high-country
   routes.
 - **Wallace L. Forest Conservation Area (BLM):** Managed by the BLM, this 736-acre area features forest,
@@ -53,10 +53,10 @@ encountered this season, this Autumn promises some of the best fall colors in re
 
 The next two hikes are so incredible you won’t want to miss either of them:
 
-- **Upper & Lower Stevens Lakes, Idaho:** [Stevens Lakes Guide](../../lakes/index.md). Located 3.5 miles SSE
+- **Upper & Lower Stevens Lakes, Idaho:** [Stevens Lakes Guide](../../mountains/index.md). Located 3.5 miles SSE
   of Mullan, Idaho up Willow Creek (5 miles RT, 1,780' elevation gain). A rugged trail leading to dramatic
   cirque lakes with unmatched fall colors.
-- **Lone Lake & the Upper Sanctuary:** [Lone Lake Guide](../../lakes/index.md). Offers views of Stevens Peak
+- **Lone Lake & the Upper Sanctuary:** [Lone Lake Guide](../../mountains/index.md). Offers views of Stevens Peak
   (6,838'). Walk the west shoreline past a waterfall and stream into the Upper Sanctuary rock mounds for
   spectacular fall vistas.
 

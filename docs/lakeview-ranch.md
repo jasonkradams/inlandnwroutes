@@ -17,7 +17,7 @@ stats:
   value: Up to 2.5 miles depending on route
 - label: Elevation
   icon: terrain
-  value: 600’
+  value: "600\u2019"
 - label: Difficulty
   icon: speedometer
   value: Easy
@@ -26,12 +26,13 @@ stats:
   value: BLM, Pacific Lake, Sullivan Lake topos
 - label: GPS
   icon: crosshairs-gps
-  value: 47°24’38" n 118°44’47" w
+  value: "47\xB024\u201938\" n 118\xB044\u201947\" w"
 - label: Lincoln County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 509.725.3501
 notes:
-- 'm,anaging agency: blm. 509.536.1200 509.920.1778'
+- label: 'm,anaging agency: blm. 509.536.1200 509.920.1778'
+  url: '#'
 ---
 
 # Lakeview Ranch

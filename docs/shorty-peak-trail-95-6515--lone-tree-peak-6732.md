@@ -23,7 +23,7 @@ stats:
   value: IPNF-Kaniksu N. F., Shorty Peak
 - label: GPS
   icon: crosshairs-gps
-  value: n48° 57’ 12"w116° 39’ 02"
+  value: "n48\xB0 57\u2019 12\"w116\xB0 39\u2019 02\""
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561
@@ -31,7 +31,8 @@ stats:
   icon: shield-account
   value: 911 or 208.267.3151
 notes:
-- Idaho panhandle national forest/alerts
+- label: Idaho panhandle national forest/alerts
+  url: '#'
 - url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 

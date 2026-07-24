@@ -32,9 +32,10 @@ stats:
     Few large, brilliant pink or rose, bilaterally symmetrical flowers in many racemes,
     often forming a dense display, above thick mats of stems and leaves.
 notes:
-- This is one of the West's most beautiful wildflowers. Although there are only a
-  few flowers in any one raceme, there are many racemes, and in full bloom the plant
-  is a swatch of bright, glowing pink.
+- label: This is one of the West's most beautiful wildflowers. Although there are
+    only a few flowers in any one raceme, there are many racemes, and in full bloom
+    the plant is a swatch of bright, glowing pink.
+  url: '#'
 ---
 
 # Cliff Penstemon

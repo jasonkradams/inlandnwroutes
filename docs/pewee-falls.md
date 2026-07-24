@@ -16,9 +16,10 @@ stats:
   value: Colville N. F., Sullivan Lake topo 509.447.7300
 - label: GPS
   icon: crosshairs-gps
-  value: Boundary Dam Boat Launch. 48°??589’58" N 117°21’02" W
+  value: "Boundary Dam Boat Launch. 48\xB0??589\u201958\" N 117\xB021\u201902\" W"
 notes:
-- 'DISTANCE CAR, BOAT TO FALLS: Less then 1 mile'
+- label: 'DISTANCE CAR, BOAT TO FALLS: Less then 1 mile'
+  url: '#'
 ---
 
 # Pewee Falls

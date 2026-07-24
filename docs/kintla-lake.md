@@ -1,54 +1,65 @@
 ---
 tags:
-  - Lakes
-  - Paddling
-  - Camping
-  - Backpacking
+- Lakes
+- Paddling
+- Camping
+- Backpacking
 stats:
-  - label: Elevation
-    icon: terrain
-    value: 4,008'
-  - label: Managing Agency
-    icon: domain
-    value: Glacier National Park
-  - label: Flathead County Sheriff
-    icon: shield-account
-    value: 406.758.5610
+- label: Elevation
+  icon: terrain
+  value: 4,008'
+- label: Managing Agency
+  icon: domain
+  value: Glacier National Park
+- label: Flathead County Sheriff
+  icon: shield-account
+  value: 406.758.5610
 notes:
-  - label: Kintla Lake Campground Details
-    url: https://www.nps.gov/applications/glac/cgstatus/camping_detail.cfm?cg=Kintla%20Lake
-  - label: Glacier National Park Campground Status
-    url: https://www.nps.gov/applications/glac/cgstatus/cgstatus.cfm
-  - label: Glacier National Park Dashboard
-    url: https://www.nps.gov/applications/glac/dashboard/
+- label: Kintla Lake Campground Details
+  url: https://www.nps.gov/applications/glac/cgstatus/camping_detail.cfm?cg=Kintla%20Lake
+- label: Glacier National Park Campground Status
+  url: https://www.nps.gov/applications/glac/cgstatus/cgstatus.cfm
+- label: Glacier National Park Dashboard
+  url: https://www.nps.gov/applications/glac/dashboard/
 ---
 
 # Kintla Lake (4,008')
 
 ## Description
 
-It takes a bit of effort and planning to get to Kintla Lake, but the paddling can be magical. The water is as clear as glass, reflecting the sky like a polished mirror while revealing the lake bottom below. Elk bugle through the night and morning, and under clear skies, night paddlers and stargazers may catch views of the Northern Lights.
+It takes a bit of effort and planning to get to Kintla Lake, but the paddling can be magical. The water is
+as clear as glass, reflecting the sky like a polished mirror while revealing the lake bottom below. Elk
+bugle through the night and morning, and under clear skies, night paddlers and stargazers may catch views of
+the Northern Lights.
 
-The campground has approximately 12 campsites. Spots along the outlet offer the soothing sound of running water, while sites right on the lake provide sweeping mountain views.
+The campground has approximately 12 campsites. Spots along the outlet offer the soothing sound of running
+water, while sites right on the lake provide sweeping mountain views.
 
-This is also an exceptional trailhead for backpacking. Hikers can trek 6.4 miles to the campground at the head of the lake or embark on a multi-day through-hike to Logan Pass or Waterton Lakes National Park.
+This is also an exceptional trailhead for backpacking. Hikers can trek 6.4 miles to the campground at the
+head of the lake or embark on a multi-day through-hike to Logan Pass or Waterton Lakes National Park.
 
-With minimal light pollution, Kintla Lake is ideal for stargazing; on clear nights, astronomers and visitors gather in the day-use area to view the night sky.
+With minimal light pollution, Kintla Lake is ideal for stargazing; on clear nights, astronomers and visitors
+gather in the day-use area to view the night sky.
 
 ---
 
 ## Directions
 
-From Columbia Falls, head north past Big Creek Campground to Polebridge. From Polebridge, drive north for approximately 20 miles (30–40 minutes) to reach Kintla Lake.
+From Columbia Falls, head north past Big Creek Campground to Polebridge. From Polebridge, drive north for
+approximately 20 miles (30–40 minutes) to reach Kintla Lake.
 
 !!! warning "Watercraft Inspection Required"
-    If bringing a boat or kayak, you **must** have it inspected for invasive species at Apgar prior to arriving at Kintla. The boat inspection station opens at 7:00 AM and is located across the street from the boat ramp.
+    If bringing a boat or kayak, you **must** have it inspected for invasive species at Apgar prior to
+    arriving at Kintla. The boat inspection station opens at 7:00 AM and is located across the street
+    from the boat ramp.
 
 ### Resource & Status Links
 
 - [Kintla Lake Campground Details](https://www.nps.gov/applications/glac/cgstatus/camping_detail.cfm?cg=Kintla%20Lake)
-- [Glacier National Park Campground Status](https://www.nps.gov/applications/glac/cgstatus/cgstatus.cfm) — Check historic fill times by day and hour.
-- [Glacier National Park Dashboard](https://www.nps.gov/applications/glac/dashboard/) — Real-time parking, campground, and weather status.
+- [Glacier National Park Campground Status](https://www.nps.gov/applications/glac/cgstatus/cgstatus.cfm) —
+  Check historic fill times by day and hour.
+- [Glacier National Park Dashboard](https://www.nps.gov/applications/glac/dashboard/) — Real-time parking,
+  campground, and weather status.
 
 ---
 
@@ -60,11 +71,13 @@ Car camp, swim, fish, hike, stargaze, and paddle directly from camp.
 
 ### Option 2: Kayak Camping at Lake Head
 
-Paddle 6.4 miles to kayak camp at the Lake Head Campground. Explore day hikes to Upper Kintla Lake from camp.
+Paddle 6.4 miles to kayak camp at the Lake Head Campground. Explore day hikes to Upper Kintla Lake from
+camp.
 
 ### Option 3: Backpacking Traverse to Logan Pass or Waterton
 
-Camp at Kintla the first night to secure an early start, then hike a multi-day route to Logan Pass or to the southern end of Waterton Lake. Catch the ferry at Waterton Lake and stay overnight at the hotel.
+Camp at Kintla the first night to secure an early start, then hike a multi-day route to Logan Pass or to the
+southern end of Waterton Lake. Catch the ferry at Waterton Lake and stay overnight at the hotel.
 
 ---
 
@@ -86,7 +99,8 @@ Bowman Lake, Flathead River, Waterton Lakes National Park, Bob Marshall Wilderne
 
 ## Refreshments & Dining (R & P)
 
-The Polebridge Mercantile is a local favorite for coffee and fresh pastries. Northern Lights Saloon & Cafe is another great option.
+The Polebridge Mercantile is a local favorite for coffee and fresh pastries. Northern Lights Saloon & Cafe
+is another great option.
 
 ---
 

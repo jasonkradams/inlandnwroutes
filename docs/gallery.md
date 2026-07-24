@@ -1,3 +1,8 @@
+---
+title: "Gallery"
+tags:
+---
+
 # Gallery
 
 ---

@@ -11,7 +11,7 @@ stats:
   value: 1580, gain to Lower, 1780 to Upper
 - label: Acres
   icon: vector-square
-  value: (lower) 28….(upper) 12
+  value: "(lower) 28\u2026.(upper) 12"
 - label: Difficulty
   icon: speedometer
   value: Moderate to Moderately Difficult
@@ -20,7 +20,7 @@ stats:
   value: IPNF, LOLO N.F., IPNF, Stevens Lakes topo
 - label: GPS
   icon: crosshairs-gps
-  value: Lower 47°43’36" N -115°75’96" W
+  value: "Lower 47\xB043\u201936\" N -115\xB075\u201996\" W"
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
@@ -28,9 +28,12 @@ stats:
   icon: shield-account
   value: call** **208.556.1114 or****911 ONLY IN AN EMERGENCY or**
 notes:
-- '**EVENT TYPE: Hiking, backpacking, camping, scrambling, and photography'
-- Upper 47°42’80" N -115°76’25" W
-- Idaho panhandle national forest/alerts
+- label: '**EVENT TYPE: Hiking, backpacking, camping, scrambling, and photography'
+  url: '#'
+- label: "Upper 47\xB042\u201980\" N -115\xB076\u201925\" W"
+  url: '#'
+- label: Idaho panhandle national forest/alerts
+  url: '#'
 - url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 

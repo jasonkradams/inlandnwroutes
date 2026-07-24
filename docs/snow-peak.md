@@ -14,7 +14,7 @@ stats:
   value: 9.6 miles RT
 - label: Elevation
   icon: terrain
-  value: 2660’
+  value: "2660\u2019"
 - label: Difficulty
   icon: speedometer
   value: moderate
@@ -23,7 +23,7 @@ stats:
   value: IPNF-St Joe District at Avery, Bathtub Mountain, Montana Peak topos
 - label: GPS
   icon: crosshairs-gps
-  value: Trailhead 47°04’40" N 115°34’41" W
+  value: "Trailhead 47\xB004\u201940\" N 115\xB034\u201941\" W"
 - label: Ranger District
   icon: pine-tree
   value: Avery R. D. 208.245.4517

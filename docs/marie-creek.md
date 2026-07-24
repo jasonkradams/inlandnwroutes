@@ -16,13 +16,13 @@ stats:
   value: About 300 verts verts, about 700 verts to do the loop.
 - label: Difficulty
   icon: speedometer
-  value: along the creek it’s easy. Beyond the creek it’s moderate
+  value: "along the creek it\u2019s easy. Beyond the creek it\u2019s moderate"
 - label: Maps
   icon: map
   value: ipnf,
 - label: GPS
   icon: crosshairs-gps
-  value: 47°40’37" n 116°35’08" w
+  value: "47\xB040\u201937\" n 116\xB035\u201908\" w"
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000

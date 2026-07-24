@@ -24,7 +24,7 @@ stats:
   value: IPNF, Kaniksu N.F., The Wigwams
 - label: GPS
   icon: crosshairs-gps
-  value: 48°42’49" n -116°44’49" w
+  value: "48\xB042\u201949\" n -116\xB044\u201949\" w"
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561
@@ -32,7 +32,8 @@ stats:
   icon: shield-account
   value: 911 or 208.267.3151
 notes:
-- Idaho panhandle national forest/alerts
+- label: Idaho panhandle national forest/alerts
+  url: '#'
 - url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 

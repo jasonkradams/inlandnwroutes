@@ -27,7 +27,7 @@ stats:
   value: I.P.N.F., LOLO N.F., Lookout Pass topo
 - label: GPS
   icon: crosshairs-gps
-  value: 47°42’65" n -115°75’10" w
+  value: "47\xB042\u201965\" n -115\xB075\u201910\" w"
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
@@ -35,7 +35,8 @@ stats:
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
 notes:
-- Idaho panhandle national forest/alerts
+- label: Idaho panhandle national forest/alerts
+  url: '#'
 - url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 

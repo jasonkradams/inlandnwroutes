@@ -25,7 +25,7 @@ stats:
   value: IPNF - Kaniksu N.F., USGS - Pyramid Peak, ID
 - label: GPS
   icon: crosshairs-gps
-  value: 48° 48’ 19.7"n 116° 35’ 57.7"w
+  value: "48\xB0 48\u2019 19.7\"n 116\xB0 35\u2019 57.7\"w"
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561
@@ -33,7 +33,8 @@ stats:
   icon: shield-account
   value: 911 or 208.267.3151
 notes:
-- Idaho panhandle national forest/alerts
+- label: Idaho panhandle national forest/alerts
+  url: '#'
 - url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 

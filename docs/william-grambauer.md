@@ -22,12 +22,13 @@ stats:
   value: K.N.F., Kootenai Falls topo
 - label: GPS
   icon: crosshairs-gps
-  value: 48°12’11" n 115°44’66" w
+  value: "48\xB012\u201911\" n 115\xB044\u201966\" w"
 - label: Lincoln County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or 406.293.4112
 notes:
-- Three Rivers Ranger District 406.295.4693
+- label: Three Rivers Ranger District 406.295.4693
+  url: '#'
 - label: Kootenai National Forest Alerts
   url: https://www.fs.usda.gov/alerts/kootenai/alerts-notices
 ---

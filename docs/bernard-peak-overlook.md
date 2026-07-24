@@ -35,13 +35,18 @@ notes:
 
 ## Description
 
-The trail is very well signed for the first 2.5 miles. In the logged area, flagging is pretty scarce; continue eastbound along the southern periphery of the logged area and you'll find the trail without too much problem. Don't take any of the southbound roads. Once past the logged area, the trail is very well maintained and easy to follow.
+The trail is very well signed for the first 2.5 miles. In the logged area, flagging is pretty scarce;
+continue eastbound along the southern periphery of the logged area and you'll find the trail without too
+much problem. Don't take any of the southbound roads. Once past the logged area, the trail is very well
+maintained and easy to follow.
 
-While this summit does not offer the wide panoramic views of some other Lake Pend Oreille summits, it is an outstanding hike nonetheless. The silence up here is deafening!
+While this summit does not offer the wide panoramic views of some other Lake Pend Oreille summits, it is an
+outstanding hike nonetheless. The silence up here is deafening!
 
 ## Directions
 
-From Highway 95 at Athol, turn east onto SH-54 into Farragut State Park. Follow park signs to the Visitor Center and the trailhead for Trail #37 (High Point / Bernard Peak Trail).
+From Highway 95 at Athol, turn east onto SH-54 into Farragut State Park. Follow park signs to the Visitor
+Center and the trailhead for Trail #37 (High Point / Bernard Peak Trail).
 
 ## Cool Things Close By
 
@@ -57,4 +62,4 @@ Local eateries in Bayview and Athol.
 
 ## Photo Gallery
 
-_Check out the High Point Trail next time you visit Farragut State Park!_
+### Check out the High Point Trail next time you visit Farragut State Park!

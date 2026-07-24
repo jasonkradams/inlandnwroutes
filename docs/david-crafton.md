@@ -1,3 +1,8 @@
+---
+title: "David Crafton"
+tags:
+---
+
 # David Crafton
 
 ---

@@ -23,7 +23,7 @@ stats:
   value: Palouse Falls State Park brochure, Palouse Falls & Starbucks W Topos
 - label: GPS
   icon: crosshairs-gps
-  value: 46°39’50" n 118°13’38" w
+  value: "46\xB039\u201950\" n 118\xB013\u201938\" w"
 - label: Managing Agency
   icon: domain
   value: w.s.p.& r. 509.646.9218
@@ -31,9 +31,10 @@ stats:
   icon: shield-account
   value: Franklin CALL 911 FIRST or 509.545.3501, Whitman 911 or 509.297.6266
 notes:
-- Washington s.p. has issued a closure for areas that have cliffs people can walk
-  along and the 'castles' near the top of the falls. we can still walk to the observation
-  area, but must stay within the fenced area. 2.4.2022
+- label: Washington s.p. has issued a closure for areas that have cliffs people can
+    walk along and the 'castles' near the top of the falls. we can still walk to the
+    observation area, but must stay within the fenced area. 2.4.2022
+  url: '#'
 ---
 
 # Palouse Falls State Park Heritage Site

@@ -38,29 +38,45 @@ stats:
 
 ## Description
 
-Banks Lake is a massive 26.7-mile long, 26,890-acre reservoir created in the Upper Grand Coulee during the construction of the Grand Coulee Dam to supply irrigation water across the Washington scablands. Framed by dramatic basalt coulee walls and granite monoliths, Banks Lake offers endless opportunities for hiking, rock climbing, paddling, scramble routes, and camping.
+Banks Lake is a massive 26.7-mile long, 26,890-acre reservoir created in the Upper Grand Coulee during the
+construction of the Grand Coulee Dam to supply irrigation water across the Washington scablands. Framed by
+dramatic basalt coulee walls and granite monoliths, Banks Lake offers endless opportunities for hiking, rock
+climbing, paddling, scramble routes, and camping.
 
-Steamboat Rock dominates the center of the lake, rising 700 feet above the water with an upper loop trail around its expansive mesa plateau. Near the north end of Steamboat Rock, hikers can view an active bald eagle nest from above. Nearby Northrop Canyon features a scenic trail past historic settlement cabins and a 1930s dam construction workers' camp to a secluded canyon lake. Northrop Canyon and the Roadside Climbing Area along Highway 155 also offer superb rock climbing, with routes ranging up to 5.9+. Paddlers can kayak out to dozens of granite islands and climb directly out of their boats.
+Steamboat Rock dominates the center of the lake, rising 700 feet above the water with an upper loop trail
+around its expansive mesa plateau. Near the north end of Steamboat Rock, hikers can view an active bald
+eagle nest from above. Nearby Northrop Canyon features a scenic trail past historic settlement cabins and a
+1930s dam construction workers' camp to a secluded canyon lake. Northrop Canyon and the Roadside Climbing
+Area along Highway 155 also offer superb rock climbing, with routes ranging up to 5.9+. Paddlers can kayak
+out to dozens of granite islands and climb directly out of their boats.
 
 ## Route Options
 
 ### Option 1: Northrop Canyon & Ridge Loop
 
-Follow the trail past historic ranch cabins toward Northrop Lake. As the lake comes into view, bear left off-trail to ascend the bluff above the lake for panoramic views and prime lunch spots. Short spires and granite walls near the canyon entrance offer climbing options. Stay within the canyon for the return route, as the eastern high ridge presents difficult terrain and loose rock.
+Follow the trail past historic ranch cabins toward Northrop Lake. As the lake comes into view, bear left
+off-trail to ascend the bluff above the lake for panoramic views and prime lunch spots. Short spires and
+granite walls near the canyon entrance offer climbing options. Stay within the canyon for the return route,
+as the eastern high ridge presents difficult terrain and loose rock.
 
 ### Option 2: Island & Inlet Kayaking
 
-Paddling Banks Lake is a unique experience. Explore a labyrinth of granite islets, deep coves, and quiet side channels along the eastern shore and northern bay.
+Paddling Banks Lake is a unique experience. Explore a labyrinth of granite islets, deep coves, and quiet
+side channels along the eastern shore and northern bay.
 
 ## Access & Directions
 
-From Spokane, drive west on US-2 for approximately 2 hours to the junction with WA-155 at Coulee City. Turn right (north) onto WA-155 North and continue for 18 miles along the east shore of Banks Lake to Steamboat Rock State Park.
+From Spokane, drive west on US-2 for approximately 2 hours to the junction with WA-155 at Coulee City. Turn
+right (north) onto WA-155 North and continue for 18 miles along the east shore of Banks Lake to Steamboat
+Rock State Park.
 
 ## Hazards & Safety
 
 !!! warning "Rattlesnake Country & Scabland Navigation"
 
-    Western rattlesnakes are common throughout the scablands, particularly around sunny rock piles and ledges. Wear sturdy boots and snake gaiters, do not step blindly over rocks, and keep dogs on a leash. Carry a map and compass, stay on established trails, and monitor landmarks closely.
+    Western rattlesnakes are common throughout the scablands, particularly around sunny rock piles and
+    ledges. Wear sturdy boots and snake gaiters, do not step blindly over rocks, and keep dogs on a
+    leash. Carry a map and compass, stay on established trails, and monitor landmarks closely.
 
 ## Nearby Points of Interest
 

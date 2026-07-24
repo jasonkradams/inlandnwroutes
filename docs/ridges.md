@@ -1,3 +1,8 @@
+---
+title: "Ridges"
+tags:
+---
+
 # Ridges
 
 ---

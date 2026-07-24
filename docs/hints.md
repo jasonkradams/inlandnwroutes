@@ -1,3 +1,8 @@
+---
+title: "Hints"
+tags:
+---
+
 # Hints
 
 as you read this section, please understand that it is designed to inform you. but more importantly, all

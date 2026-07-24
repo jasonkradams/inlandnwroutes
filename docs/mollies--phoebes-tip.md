@@ -14,7 +14,7 @@ stats:
   value: 3 miles RT to The Mollies Lake. 5 miles RT to The Mollies summit
 - label: Elevation Gain
   icon: elevation-rise
-  value: 1651 verts to The Mollies. To Pheobe’s Tip is NA
+  value: "1651 verts to The Mollies. To Pheobe\u2019s Tip is NA"
 - label: Difficulty
   icon: speedometer
   value: moderate to The Mollies
@@ -23,7 +23,7 @@ stats:
   value: Kaniksu N.F., Caribou Creek & Grass Mountain topos
 - label: GPS
   icon: crosshairs-gps
-  value: 48°50’43" n 116°50’19" w
+  value: "48\xB050\u201943\" n 116\xB050\u201919\" w"
 - label: Ranger District
   icon: pine-tree
   value: Priest River R.D. 208.443.2512
@@ -31,7 +31,8 @@ stats:
   icon: shield-account
   value: CALL 911 FIRST or 208.267.3151
 notes:
-- Idaho panhandle national forest/alerts
+- label: Idaho panhandle national forest/alerts
+  url: '#'
 - url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 

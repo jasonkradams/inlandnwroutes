@@ -24,7 +24,7 @@ stats:
     Mountain topos
 - label: GPS
   icon: crosshairs-gps
-  value: 46°54’29" n 114°48’12" w
+  value: "46\xB054\u201929\" n 114\xB048\u201912\" w"
 - label: Nine Mile Ranger District
   icon: pine-tree
   value: 406.626.5201

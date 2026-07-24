@@ -24,12 +24,13 @@ stats:
   value: Lake Roosevelt National Recreation Area
 - label: GPS
   icon: crosshairs-gps
-  value: 47°81’09" n 118°31’04" w
+  value: "47\xB081\u201909\" n 118\xB031\u201904\" w"
 - label: Managing Agency
   icon: domain
   value: w.s.p& r 509.754.7800
 notes:
-- 'LINCOLN COUNTY, Wash. SHERIFF: CALL 911 FIRST or 509.725.3501'
+- label: 'LINCOLN COUNTY, Wash. SHERIFF: CALL 911 FIRST or 509.725.3501'
+  url: '#'
 ---
 
 # Hawk Creek S P

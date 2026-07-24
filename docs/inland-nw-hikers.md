@@ -1,3 +1,8 @@
+---
+title: "Inland Nw Hikers"
+tags:
+---
+
 # Inland Nw Hikers
 
 ## Inland new hikers

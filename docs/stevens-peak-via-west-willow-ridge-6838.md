@@ -23,7 +23,7 @@ stats:
   value: USGS - IPNF, St. Joe N.F., & Mullan, Idaho topo
 - label: GPS
   icon: crosshairs-gps
-  value: 47°25'34.5"n 115°46'20.6"w
+  value: "47\xB025'34.5\"n 115\xB046'20.6\"w"
 - label: Ranger District
   icon: pine-tree
   value: CDA River R.D. 208.769.3000
@@ -31,7 +31,8 @@ stats:
   icon: shield-account
   value: CALL 911 FIRST or 208.556.1114
 notes:
-- Idaho panhandle national forest/alerts
+- label: Idaho panhandle national forest/alerts
+  url: '#'
 - url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 

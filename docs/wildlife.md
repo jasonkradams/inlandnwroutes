@@ -1,3 +1,8 @@
+---
+title: "Wildlife"
+tags:
+---
+
 # Wildlife
 
 ---

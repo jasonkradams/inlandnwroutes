@@ -1,3 +1,8 @@
+---
+title: "Notes"
+tags:
+---
+
 # Notes
 
 Notes... we encourage you to send us your writing on human powered sports. please keep them clean and short.
@@ -275,3 +280,11 @@ Spokesman-Review Weathers
 The sight of a woman’s cleavage reduces a man’s ability to think clearly by 50%… per boob.
 
 Unknown
+
+---
+
+## Recipe name
+
+---
+
+Enter recipe here

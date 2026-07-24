@@ -1,3 +1,8 @@
+---
+title: "Camera Corral"
+tags:
+---
+
 # Camera Corral
 
 ## [Camera corral](https://www.cameracorral.com).    208.664.2420.   cameracorral.com

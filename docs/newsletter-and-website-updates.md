@@ -1,3 +1,8 @@
+---
+title: "Newsletter And Website Updates"
+tags:
+---
+
 # Newsletter And Website Updates
 
 ## Register to get route updates
@@ -111,10 +116,10 @@ David Crafton and Chic Burge
 
 ## 20-june-2020
 
-We started working on the [Paddle Routes](paddle/index.md) section. Check back over the next couple weeks as
+We started working on the [Paddle Routes](mountains/index.md) section. Check back over the next couple weeks as
 we update the routes.
 
-[*Picture (Image missing)*](paddle/index.md)
+[*Picture (Image missing)*](mountains/index.md)
 
 ---
 
@@ -152,7 +157,7 @@ we update the routes.
 
 ## 20-april-2020
 
-[Added Cedar Lake in the Cabinet Mountain Wilderness](cedar-lake-5914.md)
+[Added Cedar Lake in the Cabinet Mountain Wilderness](plants/cedar-lake-5914.md)
 
 ![Picture](assets/images/img-0101.jpg)
 

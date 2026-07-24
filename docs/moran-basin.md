@@ -14,7 +14,7 @@ stats:
   value: 26 miles RT
 - label: Elevation
   icon: terrain
-  value: 3800’
+  value: "3800\u2019"
 - label: Difficulty
   icon: speedometer
   value: Difficult
@@ -23,7 +23,7 @@ stats:
   value: Kaniksu N.F., Elephant Peak topo.
 - label: GPS
   icon: crosshairs-gps
-  value: 48°5’49" n 115°41’40" w
+  value: "48\xB05\u201949\" n 115\xB041\u201940\" w"
 - label: Ranger District
   icon: pine-tree
   value: Cabinet Ranger District. 406.827.3533

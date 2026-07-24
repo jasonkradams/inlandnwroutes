@@ -1,3 +1,8 @@
+---
+title: "Fungi   Rooms"
+tags:
+---
+
 # Fungi   Rooms
 
 ---

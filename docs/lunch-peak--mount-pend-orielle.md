@@ -24,7 +24,7 @@ stats:
   value: IPNF, Mount Pend Oreille
 - label: GPS
   icon: crosshairs-gps
-  value: Lunch Peak. 48°22’ 29" N 116°11’36"
+  value: "Lunch Peak. 48\xB022\u2019 29\" N 116\xB011\u201936\""
 - label: Ranger District
   icon: pine-tree
   value: Sandpoint R.D. 208.263.5111

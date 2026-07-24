@@ -1,3 +1,8 @@
+---
+title: "Spokane Mountaineers"
+tags:
+---
+
 # Spokane Mountaineers
 
 ## Spokane mountaineers (2)

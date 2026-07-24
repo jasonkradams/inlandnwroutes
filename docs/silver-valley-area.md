@@ -1,3 +1,8 @@
+---
+title: "Silver Valley Area"
+tags:
+---
+
 # Silver Valley Area
 
 ## Silver valley history
@@ -207,7 +212,7 @@ Independence Creek Trail #22
 
 LaTour Frosty Elsie Lakes & Striped Peak Trails #106 & 16
 
-[Settlers Grove of Ancient Cedars Trail #162](settlers-grove-of-ancient-cedars.md)
+[Settlers Grove of Ancient Cedars Trail #162](plants/settlers-grove-of-ancient-cedars.md)
 
 Bloom Peak Little Guard Lookout & Ridge Trail #81
 

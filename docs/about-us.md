@@ -1,3 +1,8 @@
+---
+title: "About Us"
+tags:
+---
+
 # About Us
 
 ## Chic's story

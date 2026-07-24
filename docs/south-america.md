@@ -1,3 +1,8 @@
+---
+title: "South America"
+tags:
+---
+
 # South America
 
 Click to set custom HTML

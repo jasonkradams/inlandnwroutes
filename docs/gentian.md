@@ -37,7 +37,8 @@ stats:
     The plants **grow from edible tubers**, which can swell to the size of an egg.
     ... Cook grows Gentian sage from seed, which he starts every year in the greenhouse.
 notes:
-- '.Poisonous: no'
+- label: '.Poisonous: no'
+  url: '#'
 ---
 
 # Gentian

@@ -27,17 +27,29 @@ stats:
 ## Description
 
 !!! warning
-    THERE IS A CAUTION AGAINST GETTING WET AT FERNAN ON JULY 22nd. Algae blooms can make you or your pet sick.
+    THERE IS A CAUTION AGAINST GETTING WET AT FERNAN ON JULY 22nd. Algae blooms can make you or your pet
+    sick.
 
-The best time to paddle FERNAN is after the ice thaws, and as the temps get colder. The south (right) side has no houses, but is privately owned. I’ve seen Eagles, Osprey, beavers, and Great Blue Herons. At one time, just as you head East, there are three dead trees about 100’ off the water. They are dead because of the dozens and dozens of heron, roosting in the trees years ago. Further east along the shore line are 5 bays to explore or get out of the sun. After the second bay, watch for a variety of wildlife all away to the east launch. From the west launch, paddle along the north (left) shore past several waterfront houses. Soon the houses end, and the E. Fernan Road continues to the East Fernan Lake Launch. Stay for shore as you paddle the north shore. There usually are dozens of fishermen & women. When you get to the east end, you will be in water lilies.
+    The best time to paddle FERNAN is after the ice thaws, and as the temps get colder. The south (right)
+    side has no houses, but is privately owned. I’ve seen Eagles, Osprey, beavers, and Great Blue
+    Herons. At one time, just as you head East, there are three dead trees about 100’ off the water.
+    They are dead because of the dozens and dozens of heron, roosting in the trees years ago. Further
+    east along the shore line are 5 bays to explore or get out of the sun. After the second bay, watch
+    for a variety of wildlife all away to the east launch. From the west launch, paddle along the north
+    (left) shore past several waterfront houses. Soon the houses end, and the E. Fernan Road continues
+    to the East Fernan Lake Launch. Stay for shore as you paddle the north shore. There usually are
+    dozens of fishermen & women. When you get to the east end, you will be in water lilies.
 
 ## Attractions
 
-Wildlife, peaceful paddle, and trying to keep up with the college racing shells rowers. I guarantee you can’t keep up with them.
+Wildlife, peaceful paddle, and trying to keep up with the college racing shells rowers. I guarantee you
+can’t keep up with them.
 
 ## Directions
 
-From downtown CDA, drive East on Sherman Avenue, passing under the freeway. To get to the west launch, you will pass the Fernan Ranger Station. The next street, Theis Drive. Turn right (south) and continue to the launch.
+From downtown CDA, drive East on Sherman Avenue, passing under the freeway. To get to the west launch, you
+will pass the Fernan Ranger Station. The next street, Theis Drive. Turn right (south) and continue to the
+launch.
 
 ## Cool things close by
 
@@ -45,7 +57,8 @@ CDA Lake, Hayden Lake, the Idaho Panhandle National Forest, Fernan Saddle, and t
 
 ## R & P
 
-Michael D’s for breakfast, the Moon Time, Franklins Hoagies, Mexican Food Factory, and the Trails End Brewery.
+Michael D’s for breakfast, the Moon Time, Franklins Hoagies, Mexican Food Factory, and the Trails End
+Brewery.
 
 ## Plan your trip
 

@@ -43,9 +43,11 @@ stats:
   value: The name fireweed stems **from its ability to colonize areas burned by fire
     rapidly**. It was one of the first .
 notes:
-- I have two friends that toured Alaska a few years ago. They called their presentation
-  "Following the Fireweed". They spent 15 weeks in Canada, starting where fireweed
-  first starts, and followed it until it stopped blooming at the end of it's season.
+- label: I have two friends that toured Alaska a few years ago. They called their
+    presentation "Following the Fireweed". They spent 15 weeks in Canada, starting
+    where fireweed first starts, and followed it until it stopped blooming at the
+    end of it's season.
+  url: '#'
 ---
 
 # Fireweed

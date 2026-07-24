@@ -38,31 +38,39 @@ stats:
 
 ## Description
 
-We have added the area's sheriff's emergency phone numbers for each trip write-up under the ranger district info. If an emergency occurs, evaluate your circumstances and call only if needed.
+We have added the area's sheriff's emergency phone numbers for each trip write-up under the ranger district
+info. If an emergency occurs, evaluate your circumstances and call only if needed.
 
 ### Key Facts
 
 - 75,000 individual waterfowl roost and loaf here.
 - 50,000 square miles of Washington, Oregon, and Idaho are covered in basalt.
 - In places, the basalt is nearly three miles thick.
-- Lake Missoula covered 3,000 square miles and contained an estimated 500 cubic miles of water at a maximum depth of 2,000 feet.
+- Lake Missoula covered 3,000 square miles and contained an estimated 500 cubic miles of water at a maximum
+  depth of 2,000 feet.
 - The flow rate of the Missoula Flood is estimated at 600 million cubic feet per second.
 - There may have been as many as 100 separate flood events.
-- The Drumheller Channels National Natural Landmark area is one of the most spectacularly eroded areas of its size in the world.
-- Moses Lake, 15 miles to the north, was one of the largest permanent Native American encampments. Up to 6,000 people lived or traded here, including tribes from the Dakotas, Montana, and the Pacific coast.
-- The local Sinkiuse-Columbia Tribe exchanged Columbia River salmon, camas roots, and fiber from dogbane with other tribes.
+- The Drumheller Channels National Natural Landmark area is one of the most spectacularly eroded areas of
+  its size in the world.
+- Moses Lake, 15 miles to the north, was one of the largest permanent Native American encampments. Up to
+  6,000 people lived or traded here, including tribes from the Dakotas, Montana, and the Pacific coast.
+- The local Sinkiuse-Columbia Tribe exchanged Columbia River salmon, camas roots, and fiber from dogbane
+  with other tribes.
 
 ### Hiking Closures & Regulations
 
-- The areas including Marsh Loop, Crab Creek, Frog Lake, and Upper/Lower Hampton Lake are closed for hiking October 1 to March 1.
+- The areas including Marsh Loop, Crab Creek, Frog Lake, and Upper/Lower Hampton Lake are closed for hiking
+  October 1 to March 1.
 - The area around Royal Lake is closed year-round.
 - Marsh Unit #1 and Corfu Road fields are closed February 1 to April 30.
-- The mesa west of Marsh Unit #2 is open year-round and is adjacent to Washington Department of Fish and Wildlife (WDFW) areas that appear to be open for public use.
+- The mesa west of Marsh Unit #2 is open year-round and is adjacent to Washington Department of Fish and
+  Wildlife (WDFW) areas that appear to be open for public use.
 
 ### Birding Locations
 
 - Royal Lake offers the best viewing of large numbers of birds from a distance.
-- Marsh Unit #1 has large numbers of Sandhill Cranes between February 1 and April 30, again viewed from a distance.
+- Marsh Unit #1 has large numbers of Sandhill Cranes between February 1 and April 30, again viewed from a
+  distance.
 - Fields planted in corn the previous year will attract large flocks of birds.
 
 ### Bird Counts
@@ -89,11 +97,14 @@ Hike north cross-country from the Hampton Lake boat launch.
 
 ## Directions
 
-Take I-90 to exit 182, turn left onto Rd O NE, turn right onto Rd 2 SE, turn left onto Rd M SE, and turn right onto WA-262 W. Follow WA-262 W for 2.5 miles and, just before the dam, turn left into the refuge.
+Take I-90 to exit 182, turn left onto Rd O NE, turn right onto Rd 2 SE, turn left onto Rd M SE, and turn
+right onto WA-262 W. Follow WA-262 W for 2.5 miles and, just before the dam, turn left into the refuge.
 
 ## Cool Things Close By
 
-Othello hosts a three-day Sandhill Crane Festival. Information is available at [Othello Sandhill Crane Festival](https://www.othellosandhillcranefestival.org). Nearby destinations include Othello Mesas, Dry Creek Trail, Hanford Reach, and Potholes Reservoir State Park.
+Othello hosts a three-day Sandhill Crane Festival. Information is available at
+[Othello Sandhill Crane Festival](https://www.othellosandhillcranefestival.org). Nearby destinations include
+Othello Mesas, Dry Creek Trail, Hanford Reach, and Potholes Reservoir State Park.
 
 ## Hazards
 
@@ -101,7 +112,8 @@ Othello hosts a three-day Sandhill Crane Festival. Information is available at [
 
 ## Restaurants & Provisions
 
-If you like Mexican food, Chuy's Mi Carniceria will have just about anything you want, including desserts, fresh fruits, and hot food to go.
+If you like Mexican food, Chuy's Mi Carniceria will have just about anything you want, including desserts,
+fresh fruits, and hot food to go.
 
 ## Photo Gallery
 

@@ -37,27 +37,39 @@ stats:
 
 ## Description
 
-We have added the area's sheriff's emergency phone numbers for each trip write-up under the ranger district info. If an emergency occurs, evaluate your circumstances and call only if needed.
+We have added the area's sheriff's emergency phone numbers for each trip write-up under the ranger district
+info. If an emergency occurs, evaluate your circumstances and call only if needed.
 
-From the parking area, the trail heads northeast for about 0.2 miles to a "Y" junction; bear right. After another 0.2 miles, bear right (east) into the coulee. About 2 miles up the coulee, notice the seasonal waterfall cascading along the north rim. As you pass beneath the power lines, walk toward the waterfall. Note that this fall is agricultural runoff; do not drink or filter this water.
+From the parking area, the trail heads northeast for about 0.2 miles to a "Y" junction; bear right. After
+another 0.2 miles, bear right (east) into the coulee. About 2 miles up the coulee, notice the seasonal
+waterfall cascading along the north rim. As you pass beneath the power lines, walk toward the waterfall.
+Note that this fall is agricultural runoff; do not drink or filter this water.
 
-In early spring, the canyon floor is carpeted with wildflowers. Hiking in the Washington Scablands during summer is very hot and dry—carry plenty of extra water and sun protection. Vault toilets are available near The Feathers climbing area and campground.
+In early spring, the canyon floor is carpeted with wildflowers. Hiking in the Washington Scablands during
+summer is very hot and dry—carry plenty of extra water and sun protection. Vault toilets are available near
+The Feathers climbing area and campground.
 
 ## Hiking Options
 
 ### Option #1: Coulee Extension & High Rim Traverse
 
-To extend your hike, walk the old road for about 0.4 miles above the falls and out of the coulee. Retrace your steps back to the cars, or walk west along the high rim back toward Babcock Bench for panoramic views of the Columbia River.
+To extend your hike, walk the old road for about 0.4 miles above the falls and out of the coulee. Retrace
+your steps back to the cars, or walk west along the high rim back toward Babcock Bench for panoramic views
+of the Columbia River.
 
 ## Directions
 
-Drive I-90 west to Exit 143 and turn right (north) onto Silica Road. After 0.8 miles, turn left (west) onto Vantage Road (old Highway 10). Follow Vantage Road for 3.6 miles as it descends into Frenchman Coulee.
+Drive I-90 west to Exit 143 and turn right (north) onto Silica Road. After 0.8 miles, turn left (west) onto
+Vantage Road (old Highway 10). Follow Vantage Road for 3.6 miles as it descends into Frenchman Coulee.
 
 ## Hazards
 
-- **Do Not Drink Surface Water:** Surface water in this area is agricultural runoff; filtration and purification tablets will not remove chemical runoff. Carry all drinking water.
-- **Rattlesnakes:** Watch for rattlesnakes basking in sunlit areas around rocks and brush. Snake gaiters/shin guards are recommended for off-trail exploration.
-- **Navigation:** Scabland terrain can be disorienting. Identify prominent high points and landmarks to maintain orientation, carry topographical maps, and keep hiking groups together.
+- **Do Not Drink Surface Water:** Surface water in this area is agricultural runoff; filtration and
+  purification tablets will not remove chemical runoff. Carry all drinking water.
+- **Rattlesnakes:** Watch for rattlesnakes basking in sunlit areas around rocks and brush. Snake
+  gaiters/shin guards are recommended for off-trail exploration.
+- **Navigation:** Scabland terrain can be disorienting. Identify prominent high points and landmarks to
+  maintain orientation, carry topographical maps, and keep hiking groups together.
 
 ## Cool Things Close By
 

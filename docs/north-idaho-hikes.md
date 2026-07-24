@@ -1,3 +1,8 @@
+---
+title: "North Idaho Hikes"
+tags:
+---
+
 # North Idaho Hikes
 
 **Even though Euro-Americans didn’t arrive in the Priest Lake region the early 1800’s with the Lewis and

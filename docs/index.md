@@ -1,3 +1,8 @@
+---
+title: "Welcome to Inland NW Routes"
+tags:
+---
+
 # Welcome to Inland NW Routes
 
 ## Your comprehensive guide to hiking, scrambling, skiing, and paddling in the Inland Northwest

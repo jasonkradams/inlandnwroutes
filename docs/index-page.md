@@ -1,3 +1,8 @@
+---
+title: "Index Page"
+tags:
+---
+
 # Index Page
 
 Site index and navigation.

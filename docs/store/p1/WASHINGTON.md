@@ -1,3 +1,8 @@
+---
+title: "Store/P1/Washington"
+tags:
+---
+
 # Store/P1/Washington
 
 <!-- Missing Image: <!-- Missing Image: [<!-- Missing Image:

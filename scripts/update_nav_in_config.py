@@ -1,8 +1,9 @@
+import sys
 import subprocess
 
 def update_config():
     # run generate_nav.py
-    nav_yaml = subprocess.check_output(["python", "scripts/generate_nav.py"], text=True)
+    nav_yaml = subprocess.check_output([sys.executable, "scripts/generate_nav.py"], text=True)
     
     with open("mkdocs.yml", "r", encoding="utf-8") as f:
         config = f.read()

@@ -1,3 +1,8 @@
+---
+title: "Washington Trails Association"
+tags:
+---
+
 # Washington Trails Association
 
 ## Washington trails association (2)

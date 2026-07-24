@@ -23,7 +23,7 @@ stats:
   value: IPNF, Scotchmans Peak & Clark Fork topos
 - label: GPS
   icon: crosshairs-gps
-  value: 48°11’18" n 116°69’16" w
+  value: "48\xB011\u201918\" n 116\xB069\u201916\" w"
 - label: Ranger District
   icon: pine-tree
   value: Sandpoint R.D. 208.263.5111

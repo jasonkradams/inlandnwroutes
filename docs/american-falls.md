@@ -26,9 +26,11 @@ stats:
 
 ## Description
 
-Trail #308 hikes up the Upper Priest River for about 8 miles one way. The trail only gains 640 feet, making it a great backpack, mountain bike, or long day hike.
+Trail #308 hikes up the Upper Priest River for about 8 miles one way. The trail only gains 640 feet, making
+it a great backpack, mountain bike, or long day hike.
 
-Most of the trail wanders up through cedar forests. On the hottest day of the summer, this walk is around 20° cooler. The plant life, large or small, is worth the effort.
+Most of the trail wanders up through cedar forests. On the hottest day of the summer, this walk is around
+20° cooler. The plant life, large or small, is worth the effort.
 
 ### Option #1
 
@@ -36,15 +38,20 @@ If your time is short, take your mountain bikes. It's a nice trail even for begi
 
 ### Option #2
 
-For a one way bike, you can leave one car at Trail #308's trailhead. With the second car, you can drive up F.R. #1013 to Trail #28. It's a 2.3 mile descent to near American Falls, then about 8 miles to the 308 trailhead. This bike trip is great for beginners and able kids.
+For a one way bike, you can leave one car at Trail #308's trailhead. With the second car, you can drive up
+F.R. #1013 to Trail #28. It's a 2.3 mile descent to near American Falls, then about 8 miles to the 308
+trailhead. This bike trip is great for beginners and able kids.
 
 ## Directions
 
-From Priest River, drive north on Hwy 57 for about 37 miles to Nordman. Continue up F.R. #302 to the Stagger Inn Campground. Take the middle fork for 1.6 miles at the junction onto F.R. #1013. Drive about 12 miles and look for the trail sign and parking area on the left.
+From Priest River, drive north on Hwy 57 for about 37 miles to Nordman. Continue up F.R. #302 to the Stagger
+Inn Campground. Take the middle fork for 1.6 miles at the junction onto F.R. #1013. Drive about 12 miles and
+look for the trail sign and parking area on the left.
 
 ## Cool Things Close By
 
-Salmo-Priest Wilderness, Gypsy Peak, Hughes Meadows & Ridge, Upper Priest Lake, Trapper Falls, Granite Falls, and the Roosevelt Grove of Ancient Cedars.
+Salmo-Priest Wilderness, Gypsy Peak, Hughes Meadows & Ridge, Upper Priest Lake, Trapper Falls, Granite
+Falls, and the Roosevelt Grove of Ancient Cedars.
 
 ## Hazards
 

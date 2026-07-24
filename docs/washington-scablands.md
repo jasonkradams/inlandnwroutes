@@ -1,3 +1,8 @@
+---
+title: "Washington Scablands"
+tags:
+---
+
 # Washington Scablands
 
 ## Washington scablands ice age floods

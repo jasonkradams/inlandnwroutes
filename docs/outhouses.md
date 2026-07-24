@@ -1,3 +1,8 @@
+---
+title: "Outhouses"
+tags:
+---
+
 # Outhouses
 
 ---

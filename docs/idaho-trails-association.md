@@ -1,3 +1,8 @@
+---
+title: "Idaho Trails Association"
+tags:
+---
+
 # Idaho Trails Association
 
 ## Idaho trails association (2)

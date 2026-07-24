@@ -1,3 +1,7 @@
+---
+tags:
+---
+
 # Inland NW Routes Blog
 
 Welcome to the Inland NW Routes blog! Explore trail updates, safety guides, forest closure alerts, and
@@ -187,7 +191,7 @@ wilderness reports from around the Inland Northwest.
 - **2024-03-06**: [Blog # 49: Spring wildflowers](posts/blog-49-spring-wildflowers.md)
 - **2024-02-02**: [Blog # 45: El niño and winter sports](posts/blog-45-el-nino-and-winter-sports.md)
 - **2023-12-20**: [Blog #44: Determining snow depth](posts/blog-44-determining-snow-depth.md)
-- **2023-12-20**: [Blog #44: Determining snow depth](posts/blog-44-determining-snow-depth2654081.md)
+- **2023-12-20**: [Blog #44: Determining snow depth](posts/blog-44-determining-snow-depth.md)
 - **2023-09-19**: [Blog #34: Cabinet Mountain Wilderness](posts/34-cabinet-mountain-wilderness.md)
 - **2023-08-04**:
   [Blog #25: Stevens lakes & peak massive avalan...](posts/stevens-lakes-peak-massive-avalanche.md)

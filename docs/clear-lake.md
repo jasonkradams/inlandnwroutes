@@ -23,15 +23,26 @@ stats:
 
 ## Description
 
-One year after a ski trip to Mounts Bachelor & Hood, I decided to drive home on a different route than I had done in the past. I had my kayaks with me so I stopped at Clear Lake south of Mt. Jefferson. As I started my paddle away from the dock, I noticed that the water was so clear, I could see every detail of the bottom. As I got further out in the lake, I was amazed at how clear it really is. It seems the 148-acre lake is fed by fresh water springs, and the water temps are just above freezing year-round. In ancient times a lava flow stopped up the area creating the lake. What I saw as I paddled Clear Lake was hundreds of trees petrified and frozen in time below the surface. Some of these trees are still partially intact. As I continued around the lake, yet another very unusual sight was in the water. Flowing near the outlet to Clear Lake is an underwater field of algae. The strands of the algae were 25 to 40 feet long, and flowed like long hair in a stream. This algae covered an area about half the size of a city block.
+One year after a ski trip to Mounts Bachelor & Hood, I decided to drive home on a different route than I had
+done in the past. I had my kayaks with me so I stopped at Clear Lake south of Mt. Jefferson. As I started my
+paddle away from the dock, I noticed that the water was so clear, I could see every detail of the bottom. As
+I got further out in the lake, I was amazed at how clear it really is. It seems the 148-acre lake is fed by
+fresh water springs, and the water temps are just above freezing year-round. In ancient times a lava flow
+stopped up the area creating the lake. What I saw as I paddled Clear Lake was hundreds of trees petrified
+and frozen in time below the surface. Some of these trees are still partially intact. As I continued around
+the lake, yet another very unusual sight was in the water. Flowing near the outlet to Clear Lake is an
+underwater field of algae. The strands of the algae were 25 to 40 feet long, and flowed like long hair in a
+stream. This algae covered an area about half the size of a city block.
 
 ## Directions
 
-From Bend or Mount Bachelor, drive NW through Sisters and Camp Sherman, turning off onto Hwy 126 heading south. Drive about 4 miles to Clear Lake.
+From Bend or Mount Bachelor, drive NW through Sisters and Camp Sherman, turning off onto Hwy 126 heading
+south. Drive about 4 miles to Clear Lake.
 
 ## Hazards
 
-Clear Lake has a constant temperature just above freezing. Be careful about water immersion hypothermia. On my paddle, I decided to go for a dip. As I stepped out of my kayak, I never touched the bottom.
+Clear Lake has a constant temperature just above freezing. Be careful about water immersion hypothermia. On
+my paddle, I decided to go for a dip. As I stepped out of my kayak, I never touched the bottom.
 
 ## Cool Things Close By
 
@@ -43,4 +54,4 @@ Mount Jefferson, Three Finger Jack, The Sisters, and the Warm Springs Reservoir.
 
 ## Photo Gallery
 
-_Images coming soon._
+### Images coming soon

@@ -32,17 +32,23 @@ stats:
 
 ## Description
 
-The Banks Lake North Trail is a 12-mile loop route located along the quiet northern arm of Banks Lake in Grant County. Traversing open sagebrush steppes and rugged basalt coulee terrain, the trail offers solitude and wide-open views across the Upper Grand Coulee region.
+The Banks Lake North Trail is a 12-mile loop route located along the quiet northern arm of Banks Lake in
+Grant County. Traversing open sagebrush steppes and rugged basalt coulee terrain, the trail offers solitude
+and wide-open views across the Upper Grand Coulee region.
 
 ## Access & Directions
 
-From Spokane, drive west on US-2 to Grand Coulee. At the junction of WA-174 and WA-155, follow WA-174 heading west to Barker Canyon Rex Road. Turn left (south) onto Barker Canyon Rex Road and drive approximately 6 miles to the Barker Canyon parking area.
+From Spokane, drive west on US-2 to Grand Coulee. At the junction of WA-174 and WA-155, follow WA-174
+heading west to Barker Canyon Rex Road. Turn left (south) onto Barker Canyon Rex Road and drive
+approximately 6 miles to the Barker Canyon parking area.
 
 ## Hazards & Safety
 
 !!! warning "Rattlesnakes & Sun Exposure"
 
-    Western rattlesnakes are common in the dry scablands of Grant County. Stay alert, watch your foot placement near rocks, and keep pets on a leash. The trail is fully exposed to sun and wind—bring plenty of drinking water and sun protection.
+    Western rattlesnakes are common in the dry scablands of Grant County. Stay alert, watch your foot
+    placement near rocks, and keep pets on a leash. The trail is fully exposed to sun and wind—bring
+    plenty of drinking water and sun protection.
 
 ## Nearby Points of Interest
 

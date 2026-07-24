@@ -1,3 +1,8 @@
+---
+title: "Quotes"
+tags:
+---
+
 # Quotes
 
 Quotes... we encourage you to send us your writing on human powered sports. please keep them clean and

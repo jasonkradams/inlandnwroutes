@@ -23,8 +23,9 @@ stats:
   value: pyramid Peak & Farnham Peak
 - label: GPS
   icon: crosshairs-gps
-  value: 'Trail #12 N48° 49’ 13.8" W116° 32’ 40" & N48° 47’ 47.0" W116° 31’ 32.6",
-    Trail #92 N48° 48’ 34.4" w116° 32’ 27"'
+  value: "Trail #12 N48\xB0 49\u2019 13.8\" W116\xB0 32\u2019 40\" & N48\xB0 47\u2019\
+    \ 47.0\" W116\xB0 31\u2019 32.6\", Trail #92 N48\xB0 48\u2019 34.4\" w116\xB0\
+    \ 32\u2019 27\""
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561
@@ -32,7 +33,8 @@ stats:
   icon: shield-account
   value: 911 or 208.267.3151
 notes:
-- Idaho panhandle national forest/alerts
+- label: Idaho panhandle national forest/alerts
+  url: '#'
 - url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 

@@ -24,7 +24,7 @@ stats:
   value: 'IPNF-Kaniksu N. F., USGS: Smith Peak, Pyramid Peak, Shorty Peak'
 - label: GPS
   icon: crosshairs-gps
-  value: n48° 57’ 20.7" w116° 32’ 43.3"
+  value: "n48\xB0 57\u2019 20.7\" w116\xB0 32\u2019 43.3\""
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 2-8.267.5561
@@ -32,7 +32,8 @@ stats:
   icon: shield-account
   value: CALL 911 FIRST or 208.267.3151
 notes:
-- Idaho panhandle national forest/alerts
+- label: Idaho panhandle national forest/alerts
+  url: '#'
 - url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 

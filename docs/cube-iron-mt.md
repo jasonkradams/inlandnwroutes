@@ -15,7 +15,7 @@ stats:
   value: 8.5 miles RT
 - label: Elevation Gain
   icon: elevation-rise
-  value: 2950’
+  value: "2950\u2019"
 - label: Difficulty
   icon: speedometer
   value: Moderate
@@ -24,7 +24,7 @@ stats:
   value: Lolo N. F., Plains-Thompson Falls
 - label: GPS
   icon: crosshairs-gps
-  value: 47°68’72" n 115°29’07" w
+  value: "47\xB068\u201972\" n 115\xB029\u201907\" w"
 - label: Plains/thompson Falls Ranger District
   icon: pine-tree
   value: 406.826.3821
@@ -32,7 +32,8 @@ stats:
   icon: shield-account
   value: CALL 911 FIRST or 406.827.3584
 notes:
-- Lolo national forest/alerts
+- label: Lolo national forest/alerts
+  url: '#'
 - label: Lolo National Forest Alerts
   url: https://www.fs.usda.gov/alerts/lolo/alerts-notices
 ---

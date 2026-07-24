@@ -19,7 +19,7 @@ stats:
   value: Easy
 - label: GPS
   icon: crosshairs-gps
-  value: N48° 47’42" W116° 54’ 38" Navigation Campground
+  value: "N48\xB0 47\u201942\" W116\xB0 54\u2019 38\" Navigation Campground"
 - label: Ranger District
   icon: pine-tree
   value: 'priest river ranger district: 208.443.2512'
@@ -27,7 +27,8 @@ stats:
   icon: shield-account
   value: CALL 911 FIRST or 208.267.3151
 notes:
-- Idaho panhandle national forest/alerts
+- label: Idaho panhandle national forest/alerts
+  url: '#'
 - url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 
