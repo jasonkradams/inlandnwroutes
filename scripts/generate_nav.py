@@ -32,7 +32,15 @@ def get_title(filepath):
 def categorize(filepath):
     filename = os.path.basename(filepath).lower()
     title = get_title(filepath).lower()
-    
+
+    # Blog posts must win regardless of what their title talks about (e.g. a
+    # post titled "Stevens Lakes Peak Massive Avalanche" is still a blog post,
+    # not a lake guide) -- check this before any topic keyword.
+    if filepath.startswith(os.path.join(DOCS_DIR, "blog", "posts") + os.sep):
+        return "Blog Archive"
+    if any(k in filename or k in title for k in ["blog-", "newsletter"]):
+        return "Blog Archive"
+
     # Search keywords
     if any(k in filename or k in title for k in ["lake", "pond", "reservoir"]):
         return "Lakes"
@@ -44,8 +52,6 @@ def categorize(filepath):
         return "Waterfalls"
     if any(k in filename or k in title for k in ["paddle", "kayak", "canoe", "boat", "launch", "river", "bay"]):
         return "Paddling & Rivers"
-    if any(k in filename or k in title for k in ["blog-", "newsletter"]):
-        return "Blog Archive"
     if filepath.startswith(os.path.join(DOCS_DIR, "store")):
         return "Store"
     if any(k in filename or k in title for k in ["wildflower", "flora", "plant", "lily", "moss", "tree"]):

@@ -36,7 +36,6 @@ notes:
     tip) and apiculate (short, sharp tip).'
   url: '#'
 - label: 'Sepals: 15-25 mm long.'
-  url: '#'
 - label: 'Petals: Outside is white, drying yellowish, and serrulate on the margins.
     Inside the petals are hairy (or strongly bearded), white, and at the base it is
     yellow with a small (1.5 mm), circular, dark, central gland.'
@@ -44,6 +43,8 @@ notes:
 ---
 
 # Baker's Mariposa Lily
+
+![Baker's Mariposa Lily](../assets/images/11232021825_orig.jpg)
 
 ## Description
 

@@ -1,19 +1,13 @@
 ---
-title: "Index"
+title: "Lakes"
 tags:
+  - backpacking
+  - hiking
   - lakes
+  - paddling
 ---
 
-# Index
-
----
-tags:
-
-- Lakes
-- Hiking
-- Backpacking
-
-## - Paddling
+# Lakes
 
 ## Alpine & Regional Lakes of the Inland Northwest
 

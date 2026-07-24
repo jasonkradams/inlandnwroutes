@@ -1,5 +1,6 @@
 
 site_name: INLAND NW ROUTES
+site_url: http://localhost:8000
 site_description: A comprehensive guide to hiking and scrambling in the American Selkirks, Cabinet Mountain Wilderness, the Bitterroots and more.
 theme:
   name: material
@@ -32,13 +33,21 @@ theme:
     text: Plus Jakarta Sans
     code: Roboto Mono
   features:
-    - navigation.tabs
-    - navigation.top
-    - search.suggest
-    - search.highlight
-    - navigation.indexes
-    - content.code.copy
     - content.action.edit
+    - content.code.copy
+    # - navigation.indexes
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.path
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.suggest
+    - toc.follow
+    - toc.integrate
 
 markdown_extensions:
   - admonition
@@ -84,18 +93,29 @@ plugins:
 hooks:
   - hooks/stat_card.py
   - hooks/tags_index.py
+  - hooks/blog_index.py
 
 nav:
 - Home: index.md
 - Blog: blog/index.md
 - Blog Archive:
+  - 34 Cabinet Mountain Wilderness: blog/posts/34-cabinet-mountain-wilderness.md
+  - Airflare Rescue App For Your Phone: blog/posts/airflare-rescue-app-for-your-phone.md
+  - August 15Th 2023: blog/posts/august-15th-2023.md
+  - August 22Nd 2023: blog/posts/august-22nd-2023.md
+  - August 25Th 2023: blog/posts/august-25th-2023.md
+  - Be A Good Stewart: blog/posts/be-a-good-stewart.md
+  - Bears Cats And Other Critters: blog/posts/bears-cats-and-other-critters.md
   - Blog 100 What Hiking Does For Our Well Being: blog/posts/blog-100-what-hiking-does-for-our-well-being.md
+  - Blog 101 Have You Prepared Your Ski Clothes For Winter Yet: blog/posts/blog-101-have-you-prepared-your-ski-clothes-for-winter-yet.md
   - Blog 102 Winter Hikes In The Scabs: blog/posts/blog-102-winter-hikes-in-the-scabs.md
   - Blog 103 Taking The Bad With The Good: blog/posts/blog-103-taking-the-bad-with-the-good.md
+  - Blog 105 Its Waterfall Season: blog/posts/blog-105-its-waterfall-season.md
   - Blog 106 What A Rescue Looks Like And What You Need To Know: blog/posts/blog-106-what-a-rescue-looks-like-and-what-you-need-to-know.md
   - Blog 107 Forest Alerts And Closures: blog/posts/blog-107-forest-alerts-and-closures.md
   - Blog 108 Hydration: blog/posts/blog-108-hydration.md
   - Blog 108 Our Trails Need Our Help: blog/posts/blog-108-our-trails-need-our-help.md
+  - Blog 44 Determining Snow Depth: blog/posts/blog-44-determining-snow-depth.md
   - Blog 45 El Nino And Winter Sports: blog/posts/blog-45-el-nino-and-winter-sports.md
   - Blog 46 Forest Road 634 Is Open: blog/posts/blog-46-forest-road-634-is-open.md
   - Blog 47 Historical Articles: blog/posts/blog-47-historical-articles.md
@@ -109,6 +129,7 @@ nav:
   - Blog 55 Plan Ahead: blog/posts/blog-55-plan-ahead.md
   - Blog 56 The Best Of The Best Regional Hikes: blog/posts/blog-56-the-best-of-the-best-regional-hikes.md
   - Blog 57 The Best Of The Best: blog/posts/blog-57-the-best-of-the-best.md
+  - Blog 58 Proposed Scotchman Peak Wilderness: blog/posts/blog-58-proposed-scotchman-peak-wilderness.md
   - Blog 59 The Colors Of Auroras Explained: blog/posts/blog-59-the-colors-of-auroras-explained.md
   - Blog 60 Washington Scablands: blog/posts/blog-60-washington-scablands.md
   - Blog 62 Be Preparedbe Safe: blog/posts/blog-62-be-preparedbe-safe.md
@@ -118,11 +139,14 @@ nav:
   - Blog 67 Camp Fires: blog/posts/blog-67-camp-fires.md
   - Blog 68 The Stories Of East Willow Creek: blog/posts/blog-68-the-stories-of-east-willow-creek.md
   - Blog 70 Weather Planning For Your Outing: blog/posts/blog-70-weather-planning-for-your-outing.md
+  - Blog 71 Fall Hikes Around Our Region: blog/posts/blog-71-fall-hikes-around-our-region.md
   - Blog 73 Camp Fire Etiquette: blog/posts/blog-73-camp-fire-etiquette.md
+  - Blog 76 Toilet Paper And Slobs In The Mountains: blog/posts/blog-76-toilet-paper-and-slobs-in-the-mountains.md
   - Blog 77 Home Page Clean Up And More: blog/posts/blog-77-home-page-clean-up-and-more.md
   - Blog 78 What Do You Do In The Winter To Stay Fit: blog/posts/blog-78-what-do-you-do-in-the-winter-to-stay-fit.md
   - Blog 80 Winter Sshoeng And Hiking: blog/posts/blog-80-winter-sshoeng-and-hiking.md
   - Blog 81 An Article On Gps Units: blog/posts/blog-81-an-article-on-gps-units.md
+  - Blog 82 Freezing Temperature While Hiking Or Skiing: blog/posts/blog-82-freezing-temperature-while-hiking-or-skiing.md
   - Blog 83 A Way To Soothe Your Soul: blog/posts/blog-83-a-way-to-soothe-your-soul.md
   - Blog 84 Our Trails And Forests Are In Peril: blog/posts/blog-84-our-trails-and-forests-are-in-peril.md
   - Blog 85 Start Preparing Your Pack For Spring Hiking: blog/posts/blog-85-start-preparing-your-pack-for-spring-hiking.md
@@ -136,7 +160,50 @@ nav:
   - Blog 95 Crowded Hikes And Our New Responsibilities: blog/posts/blog-95-crowded-hikes-and-our-new-responsibilities.md
   - Blog 96 Autumn Hiking Is Here: blog/posts/blog-96-autumn-hiking-is-here.md
   - Blog 97 Proper Protection For Hikers During Hunting Season: blog/posts/blog-97-proper-protection-for-hikers-during-hunting-season.md
+  - Blog 98 Autumn And Early Winter Hiking Snowshoeing: blog/posts/blog-98-autumn-and-early-winter-hiking-snowshoeing.md
   - Blog 99 Winter Hiking: blog/posts/blog-99-winter-hiking.md
+  - Call 911 Only In An Emergency: blog/posts/call-911-only-in-an-emergency.md
+  - Call The Ranger District Before You Go: blog/posts/call-the-ranger-district-before-you-go.md
+  - David And I Would Like Your Help: blog/posts/david-and-i-would-like-your-help.md
+  - December 07Th 2024: blog/posts/december-07th-2024.md
+  - Do Not Wear Cotton In The Mountains: blog/posts/do-not-wear-cotton-in-the-mountains.md
+  - Early Season Hiking: blog/posts/early-season-hiking.md
+  - Fall Hiking: blog/posts/fall-hiking.md
+  - Geology Geography And History: blog/posts/geology-geography-and-history.md
+  - Going To The Office In The Wallowas: blog/posts/going-to-the-office-in-the-wallowas.md
+  - Human Caused Wildfires: blog/posts/human-caused-wildfires.md
+  - Hydration: blog/posts/hydration.md
+  - Inaturalist: blog/posts/inaturalist.md
+  - Its Always Fun To Find Your First Flower When The Snow Melts Yellow Bells Fritillaria Pudica: blog/posts/its-always-fun-to-find-your-first-flower-when-the-snow-melts-yellow-bells-fritillaria-pudica.md
+  - July 06Th 2023: blog/posts/july-06th-2023.md
+  - July 29Th 2023: blog/posts/july-29th-2023.md
+  - Learn And Be Safe: blog/posts/learn-and-be-safe.md
+  - Learn To Observe Your Surroundings: blog/posts/learn-to-observe-your-surroundings.md
+  - Liability Release: blog/posts/liability-release.md
+  - Litter: blog/posts/litter.md
+  - March 18Th 2023: blog/posts/march-18th-2023.md
+  - May 05Th 2023: blog/posts/may-05th-2023.md
+  - May 25Th 2024: blog/posts/may-25th-2024.md
+  - National Forest Alerts Blm Alerts And Wildfire Info: blog/posts/national-forest-alerts-blm-alerts-and-wildfire-info.md
+  - November 19Th 2023: blog/posts/november-19th-2023.md
+  - October 03Rd 2024: blog/posts/october-03rd-2024.md
+  - October 16Th 2024: blog/posts/october-16th-2024.md
+  - Othello Sandhill Crane Festival: blog/posts/othello-sandhill-crane-festival.md
+  - Regional Forest Closures: blog/posts/regional-forest-closures.md
+  - Rock Wren Lower Crab Creek: blog/posts/rock-wren-lower-crab-creek.md
+  - September 21St 2023: blog/posts/september-21st-2023.md
+  - Sprained Ankles: blog/posts/sprained-ankles.md
+  - Sshoeing Areas Close To Nearby Roads: blog/posts/sshoeing-areas-close-to-nearby-roads.md
+  - Stevens Lakes Peak Massive Avalanche: blog/posts/stevens-lakes-peak-massive-avalanche.md
+  - Sun Protection: blog/posts/sun-protection.md
+  - The Best Fall Colors Hikes In Our Region: blog/posts/the-best-fall-colors-hikes-in-our-region.md
+  - The Importance Of Carrying A Pack 13 Essentials: blog/posts/the-importance-of-carrying-a-pack-13-essentials.md
+  - The Latest From The Montana Fwp: blog/posts/the-latest-from-the-montana-fwp.md
+  - Time To Treat Your Outdoor Gear: blog/posts/time-to-treat-your-outdoor-gear.md
+  - Treespnwcom: blog/posts/treespnwcom.md
+  - Usfs Other Age Closures Alertsncies: blog/posts/usfs-other-age-closures-alertsncies.md
+  - Using Your Phone To Navigate A Hike: blog/posts/using-your-phone-to-navigate-a-hike.md
+  - What Does A Rescue Look Like: blog/posts/what-does-a-rescue-look-like.md
   - Newsletter And Website Updates: newsletter-and-website-updates.md
 - Flora & Wildlife:
   - Baker's Mariposa Lily: plants/bakers-mariposa-lily.md
@@ -144,9 +211,9 @@ nav:
   - Sego Lily: plants/sego-lily.md
   - Star-Flowered Lily of the Valley: plants/star-flowered-lily-of-the-valley.md
   - Trees: trees.md
-  - Treespnwcom: blog/posts/treespnwcom.md
   - Western Moss Heather: plants/western-moss-heather.md
 - Lakes:
+  - lakes/index.md
   - Amber Lake Launch: paddle/amber-lake-launch.md
   - Anderson Lake / Thompson Lake Launch: paddle/anderson-lakethompson-lake-launch.md
   - Anthony Lakes Mountain Resort: ski/anthony-lakes-mt-resort.md
@@ -233,7 +300,6 @@ nav:
   - St Paul Lake: st-paul-lake.md
   - St Paul Lake Falls: st-paul-lake-falls.md
   - St Regis Lakes Upper  Lower: st-regis-lakes-upper--lower.md
-  - Stevens Lakes Peak Massive Avalanche: blog/posts/stevens-lakes-peak-massive-avalanche.md
   - Sullivan Lake Shore Line: sullivan-lake-shore-line.md
   - Sun Lakes S P Dry Falls Area: sun-lakes-s-p-dry-falls-area.md
   - Terrace Lake: terrace-lake.md
@@ -320,7 +386,6 @@ nav:
   - Upper Cda River Landing: paddle/upper-cda-river-landing.md
   - Windy Bay Launch: paddle/windy-bay-launch.md
 - Peaks & Mountains:
-  - 34 Cabinet Mountain Wilderness: blog/posts/34-cabinet-mountain-wilderness.md
   - A Peak 8634: a-peak-8634.md
   - Abercrombie Mountain: abercrombie-mountain.md
   - Apex Mountain Resort: ski/apex-mountain-resort.md
@@ -328,8 +393,6 @@ nav:
   - Blacktail Mountain: blacktail-mountain.md
   - Blacktail Mountain Overlook: blacktail-mountain-overlook.md
   - Blacktail Mountain Ski Area: ski/blacktail-mountain-ski-area.md
-  - Blog 58 Proposed Scotchman Peak Wilderness: blog/posts/blog-58-proposed-scotchman-peak-wilderness.md
-  - Blog 76 Toilet Paper And Slobs In The Mountains: blog/posts/blog-76-toilet-paper-and-slobs-in-the-mountains.md
   - Bloom Peak: bloom-peak.md
   - Bridger Bowl: bridger-bowl.md
   - Brundage Mountain Resort: ski/brundage-mountain-resort.md
@@ -338,7 +401,6 @@ nav:
   - Chicago Peak: chicago-peak.md
   - Clifty Mountain to Katka Peak: clifty-mountain-to-katka-peak.md
   - Cutoff Peak 6844 and Smith Peak's North Ridge: cutoff-peak-6844-and-smith-peaks-north-ridge.md
-  - Do Not Wear Cotton In The Mountains: blog/posts/do-not-wear-cotton-in-the-mountains.md
   - Dome Mountain: dome-mountain.md
   - Engle Peak 7583 Trail 926: engle-peak-7583-trail-926.md
   - Fisher Peak: fisher-peak.md
@@ -409,25 +471,18 @@ nav:
 - Trails & Scrambles:
   - 0Xeye Daisy: plants/0xeye-daisy.md
   - 13 Mile Canyon Trail 23: 13-mile-canyon-trail-23.md
-  - About: about.md
   - Adages: adages.md
-  - Airflare Rescue App For Your Phone: blog/posts/airflare-rescue-app-for-your-phone.md
   - Alpine Laurel: plants/alpine-laurel.md
   - Alpine Sweet Vetch: plants/alpine-sweet-vetch.md
   - American Selkirks: american-selkirks.md
   - Amy Voeller: amy-voeller.md
   - Arrow Leaf: plants/arrow-leaf.md
   - Atmosphere: atmosphere.md
-  - August 15Th 2023: blog/posts/august-15th-2023.md
-  - August 22Nd 2023: blog/posts/august-22nd-2023.md
-  - August 25Th 2023: blog/posts/august-25th-2023.md
   - Balkan Toadflax: plants/balkan-toadflax.md
   - Ballhead Waterleaf: plants/ballhead-waterleaf.md
   - Baneberry: plants/baneberry.md
   - Basil Shrimp Poscuitto Ham Wraps: recipes/basil-shrimp-poscuitto-ham-wraps.md
-  - Be A Good Stewart: blog/posts/be-a-good-stewart.md
   - Bear Grass: bear-grass.md
-  - Bears Cats And Other Critters: blog/posts/bears-cats-and-other-critters.md
   - Bellflower: plants/bellflower.md
   - Birdsfoot Trefoil: plants/birdsfoot-trefoil.md
   - Bishops Marina: paddle/bishops-marina.md
@@ -442,8 +497,6 @@ nav:
   - Browse by Tag: tags.md
   - Cabinet Divide Trail 360: cabinet-divide-trail-360.md
   - California Creek: california-creek.md
-  - Call 911 Only In An Emergency: blog/posts/call-911-only-in-an-emergency.md
-  - Call The Ranger District Before You Go: blog/posts/call-the-ranger-district-before-you-go.md
   - Camas: plants/camas.md
   - Camera Corral: camera-corral.md
   - Canada Outdoor Routes & Regional Guide: canada.md
@@ -458,15 +511,12 @@ nav:
   - Crawford State Park & Gardner Cave: crawford-sp-gardner-cave.md
   - Cube Iron Mt: cube-iron-mt.md
   - Dark Throated Shooting Star: dark-throated-shooting-star.md
-  - David And I Would Like Your Help: blog/posts/david-and-i-would-like-your-help.md
   - David Crafton: david-crafton.md
-  - December 07Th 2024: blog/posts/december-07th-2024.md
   - Denton Slough: denton-slough.md
   - Deserts  Scablands: deserts--scablands.md
   - Devils Club: plants/devils-club.md
   - Dorr Skeels Camp Ground: dorr-skeels-camp-ground.md
   - Dwarf Yellow Fleabane: dwarf-yellow-fleabane.md
-  - Early Season Hiking: blog/posts/early-season-hiking.md
   - Eastern Washington1: eastern-washington1.md
   - Easy Quality Gravy: recipes/easy-quality-gravy.md
   - Elephants Head: plants/elephants-head.md
@@ -486,12 +536,10 @@ nav:
   - Gear David: gear-david.md
   - Geiger Llost Buck Pass: geiger-llost-buck-pass.md
   - Gentian: gentian.md
-  - Geology Geography And History: blog/posts/geology-geography-and-history.md
   - Giant Cedar Grove Trail: plants/giant-cedar-grove-trail.md
   - Ginkgo Petrified Forest: ginkgo-petrified-forest.md
   - Glacier Lilies: plants/glacier-lilies.md
   - Glacier Np: glacier-np.md
-  - Going To The Office In The Wallowas: blog/posts/going-to-the-office-in-the-wallowas.md
   - Granite Creek Landing: paddle/granite-creek-landing.md
   - Grass Widow: plants/grass-widow.md
   - Harrison Slough: harrison-slough.md
@@ -506,12 +554,9 @@ nav:
   - Hoodoo Canyon: hoodoo-canyon.md
   - Hop Goodena: hop-goodena.md
   - Hot Springs Rev3: hot-springs-rev3.md
-  - Human Caused Wildfires: blog/posts/human-caused-wildfires.md
-  - Hydration: blog/posts/hydration.md
   - Idaho: idaho.md
   - Idaho A Climbing Guide: idaho-a-climbing-guide.md
   - Idaho Trails Association: idaho-trails-association.md
-  - Inaturalist: blog/posts/inaturalist.md
   - Independence Creek: independence-creek.md
   - Index: lakes/index.md
   - Index Page: index-page.md
@@ -519,8 +564,6 @@ nav:
   - Inland Nw Hikers: inland-nw-hikers.md
   - Instant Birthday Cake: recipes/instant-birthday-cake.md
   - John Day Fossil Bed National Monument: john-day-fossil-bed-national-monument.md
-  - July 06Th 2023: blog/posts/july-06th-2023.md
-  - July 29Th 2023: blog/posts/july-29th-2023.md
   - Juniper Dunes Wilderness: juniper-dunes-wilderness.md
   - Kalispell Rock: kalispell-rock.md
   - Kinnikinnick: kinnikinnick.md
@@ -528,22 +571,15 @@ nav:
   - Large Flower Clarkia: plants/large-flower-clarkia.md
   - Large Flowered Triteleia: plants/large-flowered-triteleia.md
   - Large Hop Clover: large-hop-clover.md
-  - Learn And Be Safe: blog/posts/learn-and-be-safe.md
-  - Learn To Observe Your Surroundings: blog/posts/learn-to-observe-your-surroundings.md
   - Lewis Monkey Flower: plants/lewis-monkey-flower.md
-  - Liability Release: blog/posts/liability-release.md
-  - Litter: blog/posts/litter.md
   - Little Guard Lookout: little-guard-lookout.md
   - Lolo National Forest: lolo-national-forest.md
   - Long Canyon Trail 16: long-canyon-trail-16.md
   - Lupine: lupine.md
   - Maiden Rock Trail: maiden-rock-trail.md
   - Managing Agencies: managing-agencies.md
-  - March 18Th 2023: blog/posts/march-18th-2023.md
   - Marie Creek: marie-creek.md
   - Marmot Basin: marmot-basin.md
-  - May 05Th 2023: blog/posts/may-05th-2023.md
-  - May 25Th 2024: blog/posts/may-25th-2024.md
   - Meadowsweet: plants/meadowsweet.md
   - Medical Information: medical-information.md
   - Mertens Coralroot: plants/mertens-coralroot.md
@@ -559,21 +595,16 @@ nav:
   - Mount Hood Meadows: mount-hood-meadows.md
   - Mount Norquay: mount-norquay.md
   - Mount Roothaan (7326') and Chimney Rock (7124') Trail 256: mount-roothaan-7326-and-chimney-rock-7124-trail-256.md
-  - National Forest Alerts Blm Alerts And Wildfire Info: blog/posts/national-forest-alerts-blm-alerts-and-wildfire-info.md
   - Navigation Trail 291: navigation-trail-291.md
   - Nic Dike Road Landing: paddle/nic-dike-road-landing.md
   - Nine Mile Recreation Area: nine-mile-recreation-area.md
   - North Idaho Hikes: north-idaho-hikes.md
   - Northrup Canyon: northrup-canyon.md
   - Notes: notes.md
-  - November 19Th 2023: blog/posts/november-19th-2023.md
   - Noxon Ramp: paddle/noxon-ramp.md
   - Nuttalls Larkspur: plants/nuttalls-larkspur.md
-  - October 03Rd 2024: blog/posts/october-03rd-2024.md
-  - October 16Th 2024: blog/posts/october-16th-2024.md
   - Odessa Area: odessa-area.md
   - Oregon: oregon.md
-  - Othello Sandhill Crane Festival: blog/posts/othello-sandhill-crane-festival.md
   - Outhouses: outhouses.md
   - Panorama: panorama.md
   - Patagonia: patagonia.md
@@ -587,9 +618,7 @@ nav:
   - Red Indian Paint Brush: plants/red-indian-paint-brush.md
   - Red Lodge: red-lodge.md
   - Red Twinberry: plants/red-twinberry.md
-  - Regional Forest Closures: blog/posts/regional-forest-closures.md
   - Restaurants And Pubs: restaurants-and-pubs.md
-  - Rock Wren Lower Crab Creek: blog/posts/rock-wren-lower-crab-creek.md
   - Rocks: rocks.md
   - Roosevelt Grove Of Ancient Cedars: plants/roosevelt-grove-of-ancient-cedars.md
   - Ross Creek Cedars: plants/ross-creek-cedars.md
@@ -602,7 +631,6 @@ nav:
   - Scarlet Beebalm: plants/scarlet-beebalm.md
   - Scarlet Gilia: plants/scarlet-gilia.md
   - Scotchman No 2: scotchman-no-2.md
-  - September 21St 2023: blog/posts/september-21st-2023.md
   - Service Berry Saskatoon: plants/service-berry-saskatoon.md
   - Settlers Grove Of Ancient Cedars: plants/settlers-grove-of-ancient-cedars.md
   - Shoshone Medical Center Wellness Trail: shoshone-medical-center-wellness-trail.md
@@ -618,26 +646,20 @@ nav:
   - South America: south-america.md
   - Spokane County Conservation Futures: spokane-county-conservation-futures.md
   - Spokane County Parks Conservation Futures Properties: spokane-county-parks-conservation-futures-properties.md
-  - Sprained Ankles: blog/posts/sprained-ankles.md
   - Spreading Dogbane: plants/spreading-dogbane.md
   - Spring Beauties: plants/spring-beauties.md
-  - Sshoeing Areas Close To Nearby Roads: blog/posts/sshoeing-areas-close-to-nearby-roads.md
   - Sticky Geranium: plants/sticky-geranium.md
   - Stories: stories.md
   - Stream Violet: stream-violet.md
-  - Sun Protection: blog/posts/sun-protection.md
   - Talache Landing: paddle/talache-landing.md
   - Tansy: plants/tansy.md
   - Tcda Curried Rice: recipes/tcda-curried-rice.md
   - The Bugaboos: the-bugaboos.md
   - The Green Monarchs: the-green-monarchs.md
-  - The Importance Of Carrying A Pack 13 Essentials: blog/posts/the-importance-of-carrying-a-pack-13-essentials.md
-  - The Latest From The Montana Fwp: blog/posts/the-latest-from-the-montana-fwp.md
   - The Wigwams 7033: the-wigwams-7033.md
   - Thimbelberry: plants/thimbelberry.md
   - Threadleaf Phacilia: plants/threadleaf-phacilia.md
   - Threeleaf Foamflower: plants/threeleaf-foamflower.md
-  - Time To Treat Your Outdoor Gear: blog/posts/time-to-treat-your-outdoor-gear.md
   - Trail Heros: trail-heros.md
   - Trails: trails/index.md
   - Trails End Brewery: trails-end-brewery.md
@@ -646,15 +668,12 @@ nav:
   - Turnbull Nwr: turnbull-nwr.md
   - Uncle Chucks Manhatten Style Clam Chowder: recipes/uncle-chucks-manhatten-style-clam-chowder.md
   - Uncle Chucks World Famous Blondies: recipes/uncle-chucks-world-famous-blondies.md
-  - Usfs Other Age Closures Alertsncies: blog/posts/usfs-other-age-closures-alertsncies.md
-  - Using Your Phone To Navigate A Hike: blog/posts/using-your-phone-to-navigate-a-hike.md
   - Vanette Leighty: vanette-leighty.md
   - Washington Scablands: washington-scablands.md
   - Washington State Outdoor Routes & Regional Guide: washington.md
   - Washington Trails Association: washington-trails-association.md
   - Weather Thunderstorms And Lightning: weather-thunderstorms-and-lightning.md
   - Website Notes: website-notes.md
-  - What Does A Rescue Look Like: blog/posts/what-does-a-rescue-look-like.md
   - Whiskey Rock Camp Ground Landing: paddle/whiskey-rock-camp-ground-landing.md
   - Whistler Blackcomb: whistler-blackcomb.md
   - Whiteswan Provintial Park: whiteswan-provintial-park.md
@@ -670,8 +689,6 @@ nav:
 - Waterfalls:
   - American Falls: american-falls.md
   - American Falls Trail 308: american-falls-trail-308.md
-  - Blog 105 Its Waterfall Season: blog/posts/blog-105-its-waterfall-season.md
-  - Blog 71 Fall Hikes Around Our Region: blog/posts/blog-71-fall-hikes-around-our-region.md
   - Cascade Falls: cascade-falls.md
   - Copper Falls: copper-falls.md
   - Crystal Falls: crystal-falls.md
@@ -679,7 +696,6 @@ nav:
   - Douglas Falls Grange Parkb: douglas-falls-grange-parkb.md
   - Elk Creek Falls National Recreation Area: elk-creek-falls-national-recreation-area.md
   - Elk Creek Falls Recreation Area: elk-creek-falls-recreation-area.md
-  - Fall Hiking: blog/posts/fall-hiking.md
   - Falls Creek Falls Idaho: falls-creek-falls-idaho.md
   - Fern Shadow  Centennial Falls: fern-shadow--centennial-falls.md
   - Granite Falls: granite-falls.md
@@ -703,7 +719,6 @@ nav:
   - Silver Falls Sp: silver-falls-sp.md
   - Silver Falls State Park: silver-falls-state-park.md
   - Sweet Creek Falls: sweet-creek-falls.md
-  - The Best Fall Colors Hikes In Our Region: blog/posts/the-best-fall-colors-hikes-in-our-region.md
   - Thompson Falls State Park: thompson-falls-state-park.md
   - Torrelle Falls: torrelle-falls.md
   - Towell Falls: towell-falls.md
@@ -718,10 +733,6 @@ nav:
   - Alta Ski Area: ski/alta-ski-area.md
   - Backcountry Ski Friends: ski/backcountry-ski-friends.md
   - Big Sky Resort: ski/big-sky-resort.md
-  - Blog 101 Have You Prepared Your Ski Clothes For Winter Yet: blog/posts/blog-101-have-you-prepared-your-ski-clothes-for-winter-yet.md
-  - Blog 44 Determining Snow Depth: blog/posts/blog-44-determining-snow-depth.md
-  - Blog 82 Freezing Temperature While Hiking Or Skiing: blog/posts/blog-82-freezing-temperature-while-hiking-or-skiing.md
-  - Blog 98 Autumn And Early Winter Hiking Snowshoeing: blog/posts/blog-98-autumn-and-early-winter-hiking-snowshoeing.md
   - Bogus Basin Ski Resort: ski/bogus-basin-ski-resort.md
   - Brighton Resort: ski/brighton-resort.md
   - Deer Creek Nordic Sno Park: deer-creek-nordic-sno-park.md
@@ -729,7 +740,6 @@ nav:
   - Discovery Ski Area: ski/discovery-ski-area.md
   - Fernie Alpine Resort: ski/fernie-alpine-resort.md
   - Grand Targhee Ski Resort: ski/grand-targhee-ski-resort.md
-  - Its Always Fun To Find Your First Flower When The Snow Melts Yellow Bells Fritillaria Pudica: blog/posts/its-always-fun-to-find-your-first-flower-when-the-snow-melts-yellow-bells-fritillaria-pudica.md
   - Jackson Hole Ski Resort: ski/jackson-hole-ski-resort.md
   - Kicking Horse Mt Resort: ski/kicking-horse-mt-resort.md
   - Kimberrly Alpine Resort: ski/kimberrly-alpine-resort.md
@@ -762,9 +772,9 @@ nav:
   - Whitewater Ski Resort: ski/whitewater-ski-resort.md
 - 14+ Essentials: 14-essentials.md
 - About:
-  - 'Biography :: Chic': biography--chic.md
-  - 'Biography :: David': biography--david.md
-  - About Us: about-us.md
-  - Contact: contact.md
-  - Liability Release: liability-release.md
-
+  - About: about/index.md
+  - 'Biography :: Chic': about/biography--chic.md
+  - 'Biography :: David': about/biography--david.md
+  - About Us: about/about-us.md
+  - Contact: about/contact.md
+  - Liability Release: about/liability-release.md
