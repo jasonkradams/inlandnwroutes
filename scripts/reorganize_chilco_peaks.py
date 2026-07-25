@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 tags:
   - Peaks & Mountains
   - Moderate
@@ -192,3 +194,10 @@ _Ridge path continuing north of North Chilco Peak._
 
 ![Telephoto view of North and South Chilco Peaks on the horizon from Silver Mountain Chair 5](../../../assets/images/1202022308p.jpg)
 _Telephoto view of North and South Chilco Peaks on the horizon from Silver Mountain Chair 5._
+"""
+
+target_path = "docs/hike/idaho/north-idaho-hikes/north-and-south-chilco-peak.md"
+with open(target_path, "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Reorganized north-and-south-chilco-peak.md successfully")
