@@ -33,7 +33,7 @@ California Creek is a mountain biking trail within the Mica Peak Conservation Ar
 <div id="846190900543377736" align="center" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">
 <div class="TrailforksWidgetTrail" data-w="800px" data-h="350px" data-trailid="196610" data-activitytype="1" data-map="1" data-elevation="1" data-photos="0" data-title="1" data-info="1" data-trail_opacity="25" data-v="2"></div>
 
-[California Creek](https://www.trailforks.com/trails/california-creek-196610/) on [Trailforks.com](https://www.trailforks.com/)
+<a href="https://www.trailforks.com/trails/california-creek-196610/">California Creek</a> on <a href="https://www.trailforks.com/">Trailforks.com</a>
 
 <script type="application/javascript" src="https://es.pinkbike.org/326/sprt/j/trailforks/iframeResizer.min.js"></script>
 <script type="text/javascript">
