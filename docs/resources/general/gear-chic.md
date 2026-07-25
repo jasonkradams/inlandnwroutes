@@ -20,11 +20,11 @@ out for yourself. Especially if you suffer from cold feet. Keep in mind, they go
 thick and soft on the ankles. They fit all toys like sshoes. I wear them year round, because they are
 waterproof
 
-![Picture](assets/images/1206202392p.jpg)
+![Picture](../../assets/images/1206202392p.jpg)
 
 ## Picture (Image missing)
 
-![Picture](assets/images/12062023923.jpg)
+![Picture](../../assets/images/12062023923.jpg)
 
 ### Picture (Image missing) Details
 
@@ -36,11 +36,11 @@ then i
 have worn them skiing, winter hiking & sshoeing. I buy a size larger to create more loft. These thermos are
 very warm, but lack style i highly recommend them
 
-![Picture](assets/images/12062023933p.jpg)
+![Picture](../../assets/images/12062023933p.jpg)
 
 ### Picture (Image missing) Details (2)
 
-![Picture](assets/images/12062023934p.jpg)
+![Picture](../../assets/images/12062023934p.jpg)
 
 Jet fuel by test pilot I bought this product at lookout sports in kellogg. it is very good in most all
 conditions including wet snow

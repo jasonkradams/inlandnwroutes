@@ -17,7 +17,7 @@ have this form in their
 
 packs.
 
-![Download file: medical_emergency_card.pdf](assets/images/pdf.png)
+![Download file: medical_emergency_card.pdf](../../assets/images/pdf.png)
 _Download file: medical_emergency_card.pdf_
 
 | | |
@@ -220,7 +220,7 @@ globe, obtained via two satellites operated by the National Oceanic and Atmosphe
 These data are then used to produce a forecast of ozone levels for the next day at various points around the
 country.
 
-![Picture](assets/images/482022832p.jpg)
+![Picture](../../assets/images/482022832p.jpg)
 
 ### Sunscreen
 
@@ -463,9 +463,9 @@ be lower than outside. Some ways to reduce exposure are to limit indoor and outd
 fine particles (for example, burning candles indoors or open burning outdoors) and avoid strenuous activity
 in areas where fine particle levels are high. Who can I contact if I have more questions?If you would like
 additional information about the health effects of fine particles, you can call the NYS Department of Health
-at [518-402-7800](tel:518-402-7800)or [800-458-1158](tel:800-458-1158). To find out if an advisory has been
+at [518-402-7800](../../tel:518-402-7800)or [800-458-1158](../../tel:800-458-1158). To find out if an advisory has been
 issued or to learn more about air quality, you can call the Department of Environmental Conservation's
-toll-free air quality hotline: [1-800-535-1345](tel:1-800-535-1345) or visit their
+toll-free air quality hotline: [1-800-535-1345](../../tel:1-800-535-1345) or visit their
 [Air Quality Index (AQI)](http://www.dec.ny.gov/cfmx/extapps/aqi/aqi_forecast.cfm) website where you can
 also view state PM2.5maps and real-time monitoring data for PM2.5.
 

@@ -27,35 +27,35 @@ special events, have opportunities for ski lessons, and more!
 
 # Spokane Nordic Ski Association
 
-![Image](../assets/images/202210021210.jpg)
+![Image](../../assets/images/202210021210.jpg)
 
 ---
 
-![Picture](../assets/images/202210021211.jpg)
+![Picture](../../assets/images/202210021211.jpg)
 
 ---
 
-![Picture](../assets/images/202210021212.jpg)
+![Picture](../../assets/images/202210021212.jpg)
 
 ---
 
-![Picture](../assets/images/202210021213.jpg)
+![Picture](../../assets/images/202210021213.jpg)
 
 ---
 
-![Picture](../assets/images/202210021214.jpg)
+![Picture](../../assets/images/202210021214.jpg)
 
 ---
 
-![Picture](../assets/images/202210021215.jpg)
+![Picture](../../assets/images/202210021215.jpg)
 
 ---
 
-![Picture](../assets/images/202210021216.jpg)
+![Picture](../../assets/images/202210021216.jpg)
 
 ---
 
-![Picture](../assets/images/202210021217.jpg)
+![Picture](../../assets/images/202210021217.jpg)
 
 ---
 

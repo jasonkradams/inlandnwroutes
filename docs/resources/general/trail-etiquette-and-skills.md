@@ -120,7 +120,7 @@ are planning to fail."
 On each branch, there tend to be three leaves that droop. Do not touch them. But if you do, do not touch
 yourself anywhere — if you have to pee, do not touch yourself.
 
-![Picture](assets/images/12272021744p.png)
+![Picture](../../assets/images/12272021744p.png)
 
 Poison ivy grows along the base of cliffs and rocks and can extend out from them. Its stems grow to about
 12–16 inches, with three leaves that droop down around the stem. The only sure way to tell it's dangerous to
@@ -488,13 +488,13 @@ medications and make tick checks a regular part of your routine.
 
 images](https://identify.us.com/idmybug/ticks/tick-images/index.html).
 
-![Picture](assets/images/12272021724p.png)
+![Picture](../../assets/images/12272021724p.png)
 
-![Picture](assets/images/332025817p.png)
+![Picture](../../assets/images/332025817p.png)
 
-![Picture](assets/images/332025843p.jpg)
+![Picture](../../assets/images/332025843p.jpg)
 
-![Picture](assets/images/12272021722p.jpg)
+![Picture](../../assets/images/12272021722p.jpg)
 
 ### Rattlesnakes
 
@@ -783,7 +783,7 @@ icons; scroll down NOAA's home page for the "Hourly Weather Forecast," a graph t
 weather conditions in detail. Two buttons at the top right of the graph move the forecast ahead two days at
 a time.
 
-![Picture](assets/images/plotter-php.png)
+![Picture](../../assets/images/plotter-php.png)
 
 ## Using Your Phone For Navigation
 
@@ -801,4 +801,4 @@ you can see, for instance, the undulation of a ridgeline you'll be walking.
 
 ### Horizontal Image Of Parker Peak's Ridge
 
-![Picture](assets/images/20201115103709.png)
+![Picture](../../assets/images/20201115103709.png)

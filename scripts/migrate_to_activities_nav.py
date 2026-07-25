@@ -177,6 +177,329 @@ BIKE = {None: {None: [
     ("Arrow Leaf", "arrow-leaf"), ("California Creek", "california-creek"),
 ]}}
 
+PADDLE = {
+    "Washington": {
+        "Scablands": [
+            ("Amber Lake Launch", "amber-lake-launch"), ("Badger Lake Launch", "badger-lake-launch"),
+            ("Banks Lake Kayak and Hike", "banks-lake-kayak-and-hike"), ("Bonnie Lake Landing", "bonnie-lake-landing"),
+            ("Clear Lake Launch", "clear-lake-launch"), ("Fishtrap Lake, WA", "fishtrap-lake-wa"),
+            ("Marshall Lake Launch", "marshall-lake-launch"), ("Medical Lake Launch", "medical-lake-launch"),
+            ("West Medical Lake", "west-medical-lake"), ("Palouse River Launch", "palouse-river-launch"),
+            ("Potholes Reservoir", "potholes-reservoir"),
+        ],
+        "Eastern Washington": [
+            ("9 Mile Recreation Area Launch", "9-mile-recreation-area-launch"), ("Bead Lake Launch", "bead-lake-launch"),
+            ("Bear Lake Launch", "bear-lake-launch"), ("Davis Lake Launch", "davis-lake-launch"),
+            ("Eloika Lake Launch", "eloika-lake-launch"), ("3rd Street Launch", "3rd-street-launch"),
+            ("Liberty Lake Regional Park", "liberty-lake-regional-park"), ("Long Lake Launch", "long-lake-launch1"),
+            ("Loon Lake Launch", "loon-lake-launch"), ("Newman Lake Road", "newman-lake-road"),
+            ("Pewee Falls, Pend Orielle River", "pewee-falls-pend-orielle-river"), ("Boulder Bay Landing", "boulder-bay-landing"),
+            ("Gateway Regional Park", "gateway-regional-park"), ("Nine Mile Recreation Area", "nine-mile-recreation-area"),
+            ("Long Lake Launch (North)", "long-lake-launch"),
+        ],
+    },
+    "Idaho": {
+        "North Idaho Launch Sites - CDA Lake": [
+            ("Blackwell Island Launch", "blackwell-island-launch"), ("Blue Bay Landing", "blue-bay-landing"),
+            ("Booth Park Launch", "booth-park-launch"), ("Carlin Bay Launch", "carlin-bay-launch"),
+            ("Cougar Bay Landing", "cougar-bay-landing"), ("Gould's Launch", "goulds-launch"),
+            ("Harrison, Idaho Launch", "harrison-idaho-launch"), ("Harrison Slough", "harrison-slough"),
+            ("Hawley's Landing", "hawleys-landing"), ("Heyburn S.P./Lake Chatcolet Launch", "heyburn-splakechatcolet-launch"),
+            ("Higgins Point Launch", "higgins-point-launc"), ("Kidd Island Bay Launch", "kidd-island-bay-launch"),
+            ("Loffs Bay Launch", "loffs-bay-launch"), ("Mica Bay Launch", "mica-bay-launch"),
+            ("Mineral Ridge Launch", "mineral-ridge-launch"), ("Neachen Bay Launch", "neachen-bay-launch"),
+            ("N.I.C. Dike Road Landing", "nic-dike-road-landing"), ("Old Mission Launch", "old-mission-launch1"),
+            ("Rockford Bay Launch", "rockford-bay-launch"), ("Sanders Beach Landing", "sanders-beach-landing"),
+            ("Spokane Point Launch", "spokane-point-launch"), ("Sun Up Bay Launch", "sun-up-bay-launch"),
+            ("Windy Bay Launch", "windy-bay-launch"),
+        ],
+        "CDA River Chain Lakes": [
+            ("Anderson Lake/Thompson Lake Launch", "anderson-lakethompson-lake-launch"), ("Black Lake Launch", "black-lake-launch"),
+            ("Killarney Lake Launch", "killarney-lake-launch"), ("Medimont Lake Launch", "medimont-lake-launch"),
+            ("Old Mission Launch", "old-mission-launch"), ("Rainy Hill Launch", "rainy-hill-launch"),
+            ("Rose Lake Launch", "rose-lake-launch"),
+        ],
+        "Additional Launches": [
+            ("Upper CDA River Landing", "upper-cda-river-landing"), ("Cocolalla Access Launch", "cocolalla-access-launch"),
+            ("Fernan Lake Park West", "fernan-lake-park-west"), ("Fernan Lake Launch East", "fernan-lake-launch-east"),
+            ("Honeysuckle Launch", "honeysuckle-launch"), ("Sportsman Access Launch", "sportsman-access-launch"),
+            ("Hauser Lake Park Launch", "hauser-lake-park-launch"),
+        ],
+        "Pend Orielle Lake": [
+            ("Echo Bay Lake Pend Orielle", "echo-bay-lake-pend-orielle"), ("Bayview City Launch", "bayview-city-launch"),
+            ("Denton Slough", "denton-slough"), ("Farrugut State Park Launch", "farrugut-state-park-launch"),
+            ("Garfield Bay Launch", "garfield-bay-launch"), ("Granite Creek Landing", "granite-creek-landing"),
+            ("Hope Launch", "hope-launch"), ("Johnson Creek Launch", "johnson-creek-launch"),
+            ("Lakeview Launch", "lakeview-launch"), ("Pack River and Hwy-95 Launch", "pack-river-and-hwy-95-launch"),
+            ("Pringle Park Launch", "pringle-park-launch"), ("Sam Owen Camp Ground Launch", "sam-owen-camp-ground-launch"),
+            ("Sandpoint City Beach Launch", "sandpoint-city-beach-launch"), ("Sunnyside Park Launch", "sunnyside-park-launch"),
+            ("Talache Landing", "talache-landing"), ("Trestle Creek Recreation Area Launch", "trestle-creek-recreation-area-launch"),
+            ("Whiskey Rock Camp Ground Landing", "whiskey-rock-camp-ground-landing"),
+        ],
+        "Pend Orielle River": [
+            ("Albeni Cove Launch", "albeni-cove-launch"), ("Cary Launch", "cary-launch"), ("Laclede Launch", "laclede-launch"),
+            ("Memorial Field Launch", "memorial-field-launch"), ("Metaline Launch", "metaline-launch"),
+            ("Morton Slough", "morton-slough"), ("Priest River City Park Launch", "priest-river-city-park-launch"),
+            ("Priest River Recreation Area Launch", "priest-river-recreation-area-launch"), ("Rieley Creek Launch", "rieley-creek-launch"),
+            ("Springy Point Camp Ground Launch", "springy-point-camp-ground-launch"),
+        ],
+        "Lower Priest Lake": [
+            ("Blue Diamond Marina", "blue-diamond-marina"), ("Bishop's Marina", "bishops-marina"),
+            ("Cavanaugh Bay Launch", "cavanaugh-bay-launch"), ("Coolin Bay Docks and Ramp", "coolin-bay-docks-and-ramp"),
+            ("Indian Creek Camp Ground Launch", "indian-creek-camp-ground-launch"), ("Kalispell Bay Launch", "kalispell-bay-launch"),
+            ("Tule Bay/Beaver Creek Landing", "tule-baybeaver-creek-landing"),
+        ],
+        "Spokane River": [
+            ("Bronze Bay Launch", "bronze-bay-launch"), ("Q'emiln Park Launch", "qemiln-park-launch"),
+            ("East Riverview Landing/Launch", "east-riverview-landinglaunch"),
+        ],
+        "Spirit Lake": [
+            ("Bronze Bay Launch (Spirit)", "bronze-bay-launch1"), ("Maiden Rock Launch", "maiden-rock-launch"),
+            ("Spirit Lake Boat Launch", "spirit-lake-boat-launch"),
+        ],
+        "St. Joe and St. Maries Rivers": [
+            ("Aqua Park Launch", "aqua-park-launch"), ("Cherry Bend Park Launch", "cherry-bend-park-launch"),
+            ("First Street Launch", "first-street-launch"), ("Silvertip Landing", "silvertip-landing"),
+        ],
+        "Twin Lakes": [
+            ("Lower Twin Lakes Launch", "lower-twin-lakes-launch"), ("Twin Lakes Narrows", "twin-lakes-narrows"),
+            ("Upper Twin Lakes Launch", "upper-twin-lakes-launch"),
+        ],
+    },
+    "Montana": {
+        "Bull Lake": [("Bad Medicine Launch and CG", "bad-medicine-launch-and-cg"), ("Dorr Skeels Camp Ground", "dorr-skeels-camp-ground")],
+        "Bull River": [("Bull River North", "bull-river-north"), ("Bull River Middle", "bull-river-middle"), ("Bull River South", "bull-river-south")],
+        "Clark Fork River": [
+            ("Big Eddy Camp Ground and Launch", "big-eddy-camp-ground-and-launch"), ("Grass Widow", "grass-widow"),
+            ("Noxon Ramp", "noxon-ramp"), ("Thompson Falls State Park", "thompson-falls-state-park"),
+        ],
+        "Glacier National Park": [("Kintla Lake", "kintla-lake")],
+        None: [("Sanders County", "sanders-county")],
+    },
+    "Oregon": {None: [("Clear Lake", "clear-lake")]},
+    "Canada": {None: [("Whiteswan Provintial Park", "whiteswan-provintial-park")]},
+}
+
+SKI = {
+    "Backcountry": {None: [
+        ("Backcountry Ski Friends", "backcountry-ski-friends"), ("Deer Creek Nordic Sno-Park", "deer-creek-nordic-sno-park"),
+        ("Mount Spokane Snowshoe/Nordic Ski/BC Ski", "mount-spokane-snowshoenordic-skibc-ski"),
+    ]},
+    "USA": {
+        "Washington": [
+            ("Bluewood", "bluewood"), ("49°N Ski Area", "49degn-ski-area"), ("Loup Loup Ski Bowl", "loup-loup-ski-bowl"),
+            ("Mission Ridge Ski & Board Resort", "mission-ridge-ski--board-resort"),
+            ("Mount Spokane Ski & Snowboard Park", "mount-spokane-ski--snowboard-park"),
+        ],
+        "Idaho": [
+            ("Bogus Basin Ski Resort", "bogus-basin-ski-resort"), ("Brundage Mountain Resort", "brundage-mountain-resort"),
+            ("Lookout Pass Ski & Rec.", "lookout-pass-ski--rec"), ("Schweitzer Mountain Resort", "schweitzer-mountain-resort"),
+            ("Silver Mountain Resort", "silver-mountain-resort"),
+        ],
+        "Montana": [
+            ("Big Sky Resort", "big-sky-resort"), ("Blacktail Mountain Ski Area", "blacktail-mountain-ski-area"),
+            ("Bridger Bowl", "bridger-bowl"), ("Discovery Ski Area", "discovery-ski-area"),
+            ("Red Lodge Mountain", "red-lodge-mountain"), ("Teton Pass Resort", "teton-pass-resort"),
+            ("Tamarack Resort", "tamarack-resort"), ("Turner Mountain Ski Area", "turner-mountain-ski-area"),
+            ("Whitefish Mountain Resort", "whitefish-mountain-resort"),
+        ],
+        "Oregon": [
+            ("Mount Bachelor Ski Resort", "mount-bachelor-ski-resort"), ("Anthony Lakes Mt. Resort", "anthony-lakes-mt-resort"),
+            ("Mount Hood Meadows", "mount-hood-meadows"), ("Mount Hood Ski Bowl", "mount-hood-ski-bowl"),
+            ("Timberline Lodge Ski Area", "timberline-lodge-ski-area"),
+        ],
+        "Utah": [
+            ("Alta Ski Area", "alta-ski-area"), ("Brighton Resort", "brighton-resort"), ("Deer Valley Resort", "deer-valley-resort"),
+            ("Park City Ski Area", "park-city-ski-area"), ("Powder Mountain Resort", "powder-mountain-resort"),
+            ("Snow Basin Resort", "snow-basin-resort"), ("Snowbird Ski Area", "snowbird-ski-area"),
+            ("Solitude Mountain", "solitude-mountain"), ("Sundance Ski Resort", "sundance-ski-resort"),
+        ],
+        "Wyoming": [
+            ("Grand Targhee Ski Resort", "grand-targhee-sku-resort"), ("Jackson Hole Ski Resort", "jackson-hole-ski-resort"),
+            ("Snowking Ski Resort", "snowking-ski-resort"),
+        ],
+    },
+    "Canada": {
+        "British Columbia": [
+            ("Apex Mountain Resort", "apex-mountain-resort"), ("Mount Baldy Ski Resort", "mount-baldy-ski-resort"),
+            ("Fernie Alpine Resort", "fernie-alpine-resort"), ("Kicking Horse Mt. Resort", "kicking-horse-mt-resort"),
+            ("Kimberrly Alpine Resort", "kimberrly-alpine-resort"), ("Panorama Mountain Resort", "panorama-mountain-resort"),
+            ("Red Mountain Resort", "red-mountain-resort"), ("Revelstoke Mt. Resort", "revelstoke-mt-resort"),
+            ("Salmo Ski Area", "salmo-ski-area"), ("Silver Star Mountain Resort", "silver-star-mountain-resort"),
+            ("Sun Peaks Resort", "sun-peaks-resort"), ("Whistler Blackcomb", "whistler-blackcomb"),
+            ("Whitewater Ski Resort", "whitewater-ski-resort"),
+        ],
+        "Alberta": [
+            ("Lake Louise Ski Resort", "lake-louise-ski-resort"), ("Marmot Basin", "marmot-basin"),
+            ("Mount Norquay", "mount-norquay"), ("Sunshine Ski Resort", "sunshine-ski-resort"),
+        ],
+    },
+}
+
+WATERFALLS = {
+    "Washington": {None: [
+        ("Crystal Falls", "crystal-falls"), ("Douglas Falls Grange Parkb", "douglas-falls-grange-parkb"),
+        ("Dry Falls, Sun Lakes S.P.", "dry-falls-sun-lakes-sp"), ("Finch Arboretum", "finch-arboretum"),
+        ("Granite Falls & La Sota Fallsb", "granite-falls--la-sota-fallsb"), ("Hawk Creek Falls S.P.", "hawk-creek-falls-sp"),
+        ("Liberty Creek Falls", "liberty-creek-falls"), ("Palisades Creek Falls", "palisades-creek-falls"),
+        ("U. & L. Palouse Falls", "u--l-palouse-falls"), ("Boundrary Dam", "boundary-dam"),
+        ("Pewee Falls", "pewee-falls"), ("Sweet Creek Falls", "sweet-creek-falls"), ("Towell Falls", "towell-falls"),
+    ]},
+    "Idaho": {None: [
+        ("American Falls", "american-falls"), ("Copper Falls", "copper-falls"),
+        ("Elk Creek Falls Recreation Area", "elk-creek-falls-recreation-area"),
+        ("Falls Creek Falls, Idaho", "falls-creek-falls-idaho"),
+        ("Fern, Shadow & Centennial Falls", "fern-shadow--centennial-falls"),
+        ("Hunt Creek Falls", "hunt-creek-falls"), ("Moyie Falls", "moyie-falls"),
+        ("Little Harrison Lake Falls", "little-harrison-lake-falls"), ("Myrtle Creek Falls", "myrtle-creek-falls"),
+        ("Post Falls, Falls", "post-falls-falls"), ("Revett Falls", "revett-falls"),
+        ("U. & L. Snow Creek Falls", "u--l-snow-creek-falls"), ("Torrelle Falls", "torrelle-falls"),
+        ("Wellington Falls", "wellington-falls"), ("Willow Creek Falls East", "willow-creek-falls-east"),
+        ("Willow Creek West Cascades", "willow-creek-west-cascades"),
+    ]},
+    "Montana": {None: [
+        ("Cascade Falls", "cascade-falls"), ("Dipper Falls", "dipper-falls"), ("Granite Falls", "granite-falls"),
+        ("Graves Creek Falls", "graves-creek-falls"), ("Kootenai Falls", "kootenai-falls"),
+        ("Leigh Lake Falls Upper", "leigh-lake-falls-upper"), ("Leigh Lake Falls Lower", "leigh-lake-falls-lower"),
+        ("Rock Creek Falls", "rock-creek-falls"), ("St. Paul Lake Falls", "st-paul-lake-falls"),
+        ("Vermillion Falls", "vermillion-falls"), ("Upper Yaak Falls", "upper-yaak-falls"), ("Lower Yaak Falls", "lower-yaak-falls"),
+    ]},
+    "Oregon": {None: [("Silver Falls State Park", "silver-falls-state-park")]},
+}
+
+WILDFLOWERS = {
+    "Red and Pink": {None: [
+        ("Alpine Laurel", "alpine-laurel"), ("Bitterroot", "bitterroot"), ("Grass Widow", "grass-widow1"),
+        ("Kinnikinnick", "kinnikinnick"), ("Mountain Spiraea", "mountain-spiraea"), ("Red Dead Nettle", "red-dead-nettle"),
+        ("Red Indian Paint Brush", "red-indian-paint-brush"), ("Red Twinberry", "red-twinberry"),
+        ("Scarlet Beebalm", "scarlet-beebalm"), ("Scarlet Gilia", "scarlet-gilia"), ("Showy Phlox", "showy-phlox"),
+        ("Spreading Dogbane", "spreading-dogbane"), ("Sticky Geranium", "sticky-geranium"),
+        ("Western Moss Heather", "western-moss-heather"),
+    ]},
+    "Orange": {None: [
+        ("Orange Day-Lily", "orange-day-lily"), ("Merten's Coralroot", "mertens-coralroot"), ("Wild Honeysuckle", "wild-honeysuckle"),
+    ]},
+    "Yellow": {None: [
+        ("Balkan Toadflax", "balkan-toadflax"), ("Bird'sfoot Trefoil", "birdsfoot-trefoil"),
+        ("Dwarf Yellow Fleabane", "dwarf-yellow-fleabane"), ("False Hellebore", "false-hellebore"),
+        ("Glacier Lilies", "glacier-lilies"), ("Hop Goodena", "hop-goodena"), ("Large Hop Clover", "large-hop-clover"),
+        ("Saint John's Wort", "saint-johns-wort"), ("Shrubby Cinquefoil", "shrubby-cinquefoil"),
+        ("Stream Violet", "stream-violet"), ("Tansy", "tansy"), ("Yellow Columbine", "yellow-columbine"),
+        ("Cliff Penstemon", "cliff-penstemon"),
+    ]},
+    "Blue": {None: [
+        ("Camas", "camas"), ("Gentian", "gentian"), ("Mountain Kittentail", "mountain-kittentail"),
+        ("Nuttall's Larkspur", "nuttalls-larkspur"), ("Lupine", "lupine"),
+    ]},
+    "Purple": {None: [
+        ("Ballhead Waterleaf", "ballhead-waterleaf"), ("Broad-Leaf Sweet Pea", "broad-leaf-sweet-pea"),
+        ("Alpine Sweet-Vetch", "alpine-sweet-vetch"), ("Elephant's Head", "elephants-head"), ("Fireweed", "fireweed"),
+        ("Devil's Club", "devils-club"), ("Woodland Pinedrop", "woodland-pinedrop"),
+        ("Dark Throated Shooting Star", "dark-throated-shooting-star"), ("Large-Flower Clarkia", "large-flower-clarkia"),
+        ("Large-Flowered Triteleia", "large-flowered-triteleia"), ("Lewis' Monkey Flower", "lewis-monkey-flower"),
+        ("Sagebrush Mariposa", "sagebrush-mariposa"), ("Bellflower", "bellflower"), ("Threadleaf Phacilia", "threadleaf-phacilia"),
+    ]},
+    "White": {None: [
+        ("Baker's Mariposa Lily", "bakers-mariposa-lily"), ("Baneberry", "baneberry"), ("Bear Grass", "bear-grass"),
+        ("Bride's Bonnet", "brides-bonnet"), ("0xeye Daisy", "0xeye-daisy"), ("Polemonium", "polemonium"),
+        ("Service Berry Saskatoon", "service-berry-saskatoon"), ("Sitka Valerian", "sitka-valerian"),
+        ("Snowbrush Ceanothus", "snowbrush-ceanothus"), ("Spring Beauties", "spring-beauties"),
+        ("Star Flowered Lily of the Valley", "star-flowered-lily-of-the-valley"), ("Thimbelberry", "thimbelberry"),
+        ("Threeleaf Foamflower", "threeleaf-foamflower"), ("Meadowsweet", "meadowsweet"), ("Trillium", "trillium"),
+        ("Woodland Star", "woodland-star"), ("Mountain Deathcamas", "mountain-deathcamas"), ("Sego Lily", "sego-lily"),
+    ]},
+}
+
+RESOURCES = {
+    "Conservation and Like-Minded Organizations": {None: [
+        ("Washington Trails Association", "washington-trails-association"),
+        ("Idaho Trails Association", "idaho-trails-association"),
+        ("Spokane Mountaineers", "spokane-mountaineers"),
+        ("Spokane Canoe and Kayak Club", "spokane-canoe-and-kayak-club"),
+        ("Spokane Nordic Ski Association", "spokane-nordic-ski-association"),
+    ]},
+    "General": {None: [
+        ("Managing Agencies", "managing-agencies"),
+        ("Idaho: A Climbing Guide", "idaho-a-climbing-guide"),
+        ("Hiking Boise", "hiking-boise"),
+        ("Evans Outdoor Adventures", "evans-outdoor-adventures"),
+        ("Camera Corral", "camera-corral"),
+        ("Hiking From Here", "hiking-from-here"),
+        ("Inland NW Hikers", "inland-nw-hikers"),
+        ("Silverlight", "silverlight"),
+        ("Silverstreak Zipline Tours", "silverstreak-zipline-tours"),
+        ("Trails End Brewery", "trails-end-brewery"),
+        ("Medical Information", "medical-information"),
+        ("Weather, Thunderstorms and Lightning", "weather-thunderstorms-and-lightning"),
+        ("Trail Etiquette and Skills", "trail-etiquette-and-skills"),
+        ("Gear :: David", "gear-david"),
+        ("Gear :: Chic", "gear-chic"),
+        ("Photography", "photography"),
+        ("Wildlife", "wildlife"),
+        ("Hints", "hints"),
+        ("Restaurants and Pubs", "restaurants-and-pubs"),
+    ]},
+}
+
+GALLERY = {
+    "Contributors": {None: [
+        ("Amy Voeller", "amy-voeller"),
+        ("Chris Herath", "chris-herath"),
+        ("David Crafton", "david-crafton"),
+        ("Tony Kozlowski", "tony-kozlowski"),
+        ("Vanette Leighty", "vanette-leighty"),
+    ]},
+    "Categories": {None: [
+        ("Panorama", "panorama"),
+        ("Streams to Rivers", "streams-to-rivers"),
+        ("Wildlife", "wildlife"),
+        ("Deserts & Scablands", "deserts--scablands"),
+        ("Atmosphere", "atmosphere"),
+        ("Trails", "trails"),
+        ("Rocks", "rocks"),
+        ("Trees", "trees"),
+        ("Trail Heros", "trail-heros"),
+        ("Outhouses", "outhouses"),
+        ("Faces", "faces"),
+        ("Winter", "winter"),
+        ("Fungi - Rooms", "fungi---rooms"),
+        ("Phenomenon", "phenomenon"),
+        ("Fireworks", "fireworks"),
+    ]},
+}
+
+WRITINGS = {None: {None: [
+    ("Adages", "adages"),
+    ("Essays", "essays"),
+    ("Notes", "notes"),
+    ("Poems", "poems"),
+    ("Quotes", "quotes"),
+    ("Stories", "stories"),
+]}}
+
+RECIPES = {
+    "Soups": {None: [
+        ("Chicken and Rice Soup", "chicken-and-rice-soup"),
+        ("Moma Moreno's Chicken Green Chili Soup", "moma-morenos-chicken-green-chili-soup"),
+        ("Chicken Mushroom Mashed Potato Soup", "chicken-mushroom-mashed-potato-soup"),
+        ("Uncle Chuck's Manhatten Style Clam Chowder", "uncle-chucks-manhatten-style-clam-chowder"),
+        ("Soup for Lunch in the Mountains", "soup-for-lunch-in-the-mountains"),
+    ]},
+    "Desserts": {None: [
+        ("Uncle Chuck's World Famous Blondies", "uncle-chucks-world-famous-blondies"),
+        ("Instant Birthday Cake", "instant-birthday-cake"),
+    ]},
+    "Brines, Marinades and Sauces": {None: [
+        ("Easy Quality Gravy", "easy-quality-gravy"),
+    ]},
+    "Main Dishes": {None: [
+        ("Basil Shrimp Poscuitto Ham Wraps", "basil-shrimp-poscuitto-ham-wraps"),
+        ("Clammy Cabbage Over Pasta", "clammy-cabbage-over-pasta"),
+        ("Tcda Curried Rice", "tcda-curried-rice"),
+        ("Lunch in the Mountains", "lunch-in-the-mountains"),
+    ]},
+}
+
 # ---------------------------------------------------------------------------
 # region overview pages that become the index.md of their new folder
 # key: (activity_base_folder, region_display_name, subregion_display_name_or_None)
@@ -214,11 +537,26 @@ SLUG_OVERRIDES = {
     "sawtooth-mountain1": "sawtooth-mountain",
     "ross-creek-cedars1": "ross-creek-cedars",
     "pillick-ridge-61671": "pillick-ridge-6167",
+    "long-lake-launch1": "long-lake-launch",     # same old-site duplicate-URL pattern as above
+    "old-mission-launch1": "old-mission-launch",
+    "bronze-bay-launch1": "bronze-bay-launch",
+    "farrugut-state-park-launch": "farragut-state-park-launch",  # old-site typo
+    "tule-baybeaver-creek-landing": "tule-bay-beaver-creek-landing",  # old-site typo
+    "49degn-ski-area": "49-degrees-north-ski-area",
+    "grand-targhee-sku-resort": "grand-targhee-ski-resort",  # old-site typo ("sku")
 }
 
 ACTIVITIES = {
     "hike": HIKE,
     "bike": BIKE,
+    "paddle": PADDLE,
+    "ski": SKI,
+    "waterfalls": WATERFALLS,
+    "wildflowers": WILDFLOWERS,
+    "resources": RESOURCES,
+    "gallery": GALLERY,
+    "writings": WRITINGS,
+    "recipes": RECIPES,
 }
 
 
@@ -319,6 +657,14 @@ def migrate(base_folder, data):
     return nav_regions, moved, top_index_path
 
 
+def _yaml_key(title):
+    # A bare "Title: Rest" breaks unquoted YAML `key: value` mapping syntax
+    # (the second colon looks like another mapping separator).
+    if ":" in title or title.startswith(("'", '"')):
+        return "'" + title.replace("'", "''") + "'"
+    return title
+
+
 def print_nav_yaml(section_title, nav_regions, top_index=None, indent=2):
     pad = " " * indent
     print(f"{pad}- {section_title}:")
@@ -327,18 +673,18 @@ def print_nav_yaml(section_title, nav_regions, top_index=None, indent=2):
     for region, region_items in nav_regions:
         if region is None:
             for _, (title, path) in region_items:
-                print(f"{pad}  - {title}: {path}")
+                print(f"{pad}  - {_yaml_key(title)}: {path}")
             continue
-        print(f"{pad}  - {region}:")
+        print(f"{pad}  - {_yaml_key(region)}:")
         for entry in region_items:
             if entry[0] == "__flat__":
                 title, path = entry[1]
-                print(f"{pad}    - {title}: {path}")
+                print(f"{pad}    - {_yaml_key(title)}: {path}")
             else:
                 subregion, items = entry
-                print(f"{pad}    - {subregion}:")
+                print(f"{pad}    - {_yaml_key(subregion)}:")
                 for title, path in items:
-                    print(f"{pad}      - {title}: {path}")
+                    print(f"{pad}      - {_yaml_key(title)}: {path}")
 
 
 # ---------------------------------------------------------------------------

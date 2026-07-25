@@ -21,7 +21,7 @@ circled in red
 
 below. it takes a few seconds to load, and you can lengthen time shown
 
-![Picture](assets/images/71220241214p.jpg)
+![Picture](../../assets/images/71220241214p.jpg)
 
 As you can see in this image that shows the western section of the United States, you can see in real time
 images, where fires are, and the direction their smoke plumes are blowing.
@@ -364,7 +364,7 @@ threat from ground current (lightning that travels outward from the strike point
 I recently found this information on the noaa website Please know what to do if thunder is within ear shot
 thanks noaa for your expertise
 
-![Picture](assets/images/512025907p.jpg)
+![Picture](../../assets/images/512025907p.jpg)
 
 ### Picture (Image missing) Details
 
@@ -372,7 +372,7 @@ Click to set custom HTML
 
 ## Noaa's hourly weather forecast sample
 
-![Picture](assets/images/202171955.jpg)
+![Picture](../../assets/images/202171955.jpg)
 
 The below is information on a variety of interesting topics Why is the sky blue? The sun shines white and
 black light to our planet. the white light has all the colors in it. in our upper atmosphere, we have dust
@@ -382,7 +382,7 @@ blue. now, during sunrise and sunset, the light traveling through atmosphere is 
 if you were to look up high in the sky. there are more dust particles and oxygen molecules at the horizon,
 so that is why you see such pretty colors like red, oranges and yellows
 
-![Picture](assets/images/11252021748.gif)
+![Picture](../../assets/images/11252021748.gif)
 
 ## What is an upside-down rainbow?
 
@@ -409,7 +409,7 @@ the sky. in the southern hemisphere, it is called the aurora australis.
 
 ## **What causes the auroras?**
 
-![Picture](assets/images/11252021806.jpg)
+![Picture](../../assets/images/11252021806.jpg)
 
 ### Picture (Image missing) Details (2)
 
@@ -422,7 +422,7 @@ anywhere between a few minutes to several hours. auroras are most common in pola
 colors, of which green and red predominate, are the results of various light emissions from oxygen and
 nitrogen gases being energized by the solar particles.
 
-![Picture](assets/images/11252021808a.jpg)
+![Picture](../../assets/images/11252021808a.jpg)
 
 ## **What are crepuscular rays?**
 
