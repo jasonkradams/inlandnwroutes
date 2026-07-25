@@ -348,7 +348,9 @@ body,
 }
 
 /* Captions directly under photos */
-.md-typeset p > em {
+.md-typeset p > a.glightbox + em,
+.md-typeset p > img + em,
+.md-typeset p > em:only-child {
     display: block;
     clear: both;
     margin-top: 0.35rem;
