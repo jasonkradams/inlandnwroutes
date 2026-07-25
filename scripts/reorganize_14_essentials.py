@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: "The 14+ Essentials Checklist"
 tags:
   - Backcountry Safety
@@ -106,3 +108,9 @@ _Spokane Mountaineers Logo_
 Founded in 1915, the Spokane Mountaineers is an outdoor club devoted to mountain conservation, education, and recreation. The club hosts year-round hiking, climbing, skiing, and paddling outings alongside annual backcountry safety clinics.
 
 - **Learn More:** Read our full [Spokane Mountaineers Guide](resources/conservation-and-like-minded-organizations/spokane-mountaineers.md) or visit [spokanemountaineers.org](https://www.spokanemountaineers.org).
+"""
+
+with open("docs/14-essentials.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized 14-essentials.md successfully")

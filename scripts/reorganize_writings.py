@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: "Mountain Writings, Poetry & Reflections"
 tags:
   - Writings
@@ -83,3 +85,9 @@ Welcome to Chic Burge's collection of mountain poetry, backcountry field journal
 
 - **Stevens Lakes Trail Maintenance (June 2017):** "The constant roar of cascading water smoothes the climb up its steep path... When the trail turns sharply in the woods, there's the unforgettable sounds of falling water. The cirque I am standing in encompasses my whole self. All around me is beauty." — *Chic (June 25, 2017)*
 - **Turkey Vulturing at Canfield Mountain (Aug 2017):** "As I sat looking out at scenic Hayden Lake, I caught sight of a large bird circling the gully in front of me. I made squeaking sounds and attracted its attention... It was a very large Turkey Vulture gliding gracefully over the ridge." — *Chic (Aug 24, 2017)*
+"""
+
+with open("docs/writings/index.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized writings/index.md successfully")
