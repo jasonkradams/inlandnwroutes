@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 tags:
   - Resources
   - Managing Agencies
@@ -174,3 +176,9 @@ offices directly. **In any active emergency, dial 911.**
 | **Box Canyon Dam Flow** | 509-442-3232 | [Pend Oreille PUD](https://popud.org) |
 | **Poison Control Center Hotline** | 800-222-1222 | [poison.org](https://www.poison.org) |
 | **Suicide & Crisis Lifeline** | Dial 988 | [988lifeline.org](https://988lifeline.org) |
+"""
+
+with open("docs/resources/general/managing-agencies.md", "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Updated managing-agencies.md for complete MD013 compliance")
