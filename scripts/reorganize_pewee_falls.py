@@ -31,9 +31,6 @@ notes:
 
 The paddle trip along the northernmost stretch of the Pend Oreille River to Pewee Falls and Z Canyon is widely regarded as one of the most spectacular water routes in the Inland Northwest. Paddling south from the launch near Boundary Dam, watercraft navigate beneath 300-foot sheer limestone canyon cliffs, explore sea-like shoreline caves, view 200-foot waterfalls cascading directly into the river, and experience unique daily river level shifts created by dam operations.
 
-![Pewee Falls Cascading 200 Feet into the Pend Oreille River](../../../assets/images/p52_orig.png)
-_Pewee Falls Cascading 200 Feet into the Pend Oreille River._
-
 !!! warning "Critical Water Level Fluctuation & Navigation Warnings"
 
     - **5 to 16 Foot Daily Water Level Fluctuations:** Boundary Dam and Box Canyon Dam generate hydroelectric power for Seattle throughout the day. Water levels rise and fall by 5 to 16 feet every 24 hours.
@@ -84,44 +81,22 @@ _Pewee Falls Cascading 200 Feet into the Pend Oreille River._
 
 ## Photo Gallery
 
-![Pend Oreille River Canyon near Z Canyon](../../../assets/images/6182025208p.jpg)
-_Pend Oreille River Canyon near Z Canyon._
-
-![Boundary Dam Campground and Launch Site](../../../assets/images/p135.png)
-_Boundary Dam Campground and Launch Site._
-
-![Ratt Island on the Pend Oreille River at Low Water](../../../assets/images/11062021206p.jpg)
-_Ratt Island on the Pend Oreille River at Low Water._
-
-![Ratt Island on the Pend Oreille River at High Water](../../../assets/images/20216101015.jpg)
-_Ratt Island on the Pend Oreille River at High Water._
-
-![Approaching Pewee Falls Bay on the Pend Oreille River](../../../assets/images/p137.png)
-_Approaching Pewee Falls Bay on the Pend Oreille River._
-
-![200-Foot Plunge of Pewee Falls](../../../assets/images/20216101019.jpg)
-_200-Foot Plunge of Pewee Falls._
-
-![Pewee Falls Plunge Pool Boulders Exposed at Low Water](../../../assets/images/20216101025.jpg)
-_Pewee Falls Plunge Pool Boulders Exposed at Low Water._
-
-![Shoreline Cave Entry Along Z Canyon Walls](../../../assets/images/11062021155p.jpg)
-_Shoreline Cave Entry Along Z Canyon Walls._
-
-![Pend Oreille River Canyon with Hooknose Peak Above](../../../assets/images/20216101030.jpg)
-_Pend Oreille River Canyon with Hooknose Peak Above._
-
-![Waterfall Cascading into the Pend Oreille River Canyon](../../../assets/images/20216101033.jpg)
-_Waterfall Cascading into the Pend Oreille River Canyon._
-
-![Boundary Dam View from the Vista House Overlook](../../../assets/images/2021631104-jpeg-1-1.jpg)
-_Boundary Dam View from the Vista House Overlook._
-
-![Aurora Borealis Over Boundary Dam Power Lines](../../../assets/images/20126101044-copy.jpg)
-_Aurora Borealis Over Boundary Dam Power Lines._
+- ![Pewee Falls Cascading 200 Feet into the Pend Oreille River](../../../assets/images/p52_orig.png)
+- ![Pend Oreille River Canyon near Z Canyon](../../../assets/images/6182025208p.jpg)
+- ![Boundary Dam Campground and Launch Site](../../../assets/images/p135.png)
+- ![Ratt Island on the Pend Oreille River at Low Water](../../../assets/images/11062021206p.jpg)
+- ![Ratt Island on the Pend Oreille River at High Water](../../../assets/images/20216101015.jpg)
+- ![Approaching Pewee Falls Bay on the Pend Oreille River](../../../assets/images/p137.png)
+- ![200-Foot Plunge of Pewee Falls](../../../assets/images/20216101019.jpg)
+- ![Pewee Falls Plunge Pool Boulders Exposed at Low Water](../../../assets/images/20216101025.jpg)
+- ![Shoreline Cave Entry Along Z Canyon Walls](../../../assets/images/11062021155p.jpg)
+- ![Pend Oreille River Canyon with Hooknose Peak Above](../../../assets/images/20216101030.jpg)
+- ![Waterfall Cascading into the Pend Oreille River Canyon](../../../assets/images/20216101033.jpg)
+- ![Boundary Dam View from the Vista House Overlook](../../../assets/images/2021631104-jpeg-1-1.jpg)
+- ![Aurora Borealis Over Boundary Dam Power Lines](../../../assets/images/20126101044-copy.jpg)
 """
 
 with open("docs/paddle/washington/eastern-washington/pewee-falls-pend-orielle-river.md", "w", encoding="utf-8") as f:
     f.write(content)
 
-print("Reorganized pewee-falls-pend-orielle-river.md successfully")
+print("Updated pewee-falls-pend-orielle-river.md with 3-wide display grid gallery successfully")
