@@ -1,35 +1,58 @@
 ---
+title: Liberty Lake 3rd Street Launch
 tags:
-- Paddling & Rivers stats:
-- label: Paddle Distance icon: map-marker-distance value: 4.7 mile loop
-- label: Elevation icon: terrain value: 2047’
-- label: Length and Acreage icon: vector-square value: 1.7 miles long and 708 acres
-- label: Maps icon: map value: Liberty Lake Regional Park,
-- label: Launch GPS icon: crosshairs-gps
-## value: 47°39’14" n 117°05’02" w
-## 3Rd Street Launch
-## LIBERTY LAKE 3rd STREET LAUNCH
-## Description
-We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
-info. if an emergency ocurrs, evaluate your circumstances and call only if needed. Liberty Lake is a largish
-nearly round lake nestled between and north of both Mica Peaks. The launch is located on the north shore in
-a dense housing area. Parking and access to the launch can be difficult during busy periods. At the south
-end of the lake is the Liberty Lake Regional Park with all its amenities.
-## Attractions
-A nice lake near Spokane for easy afternoon paddles.
-## Directions
-Take the Liberty Lake exit off the freeway, and drive south on N. Liberty Lake Road to E.Sprague Ave. and
-turn left (E) to S. Molter Road and turn right (S). Head south to E. 3rd Ave. and turn left to the launch.
-## Cool things close by
-Both Mica Peaks, Liberty Lake Regional Park,
-## R & P
-NA
+  - Paddling & Rivers
+  - Spokane County
+  - Liberty Lake
+stats:
+  - label: Waterbody
+    value: Liberty Lake
+  - label: Lake Area
+    value: 708 Acres
+  - label: Paddle Distance
+    value: 4.7 Mile Perimeter Loop
+  - label: Elevation
+    value: 2,047'
+  - label: Launch Coordinates
+    value: 47°39′14″N 117°05′02″W
+notes:
+  - label: Spokane County Parks Information
+    url: https://www.spokanecounty.org/parks
+  - label: Spokane County Sheriff Emergency Contact
+    url: tel:5094772240
 ---
 
-# 3Rd Street Launch
+The 3rd Street Launch provides public boat access on the north shore of Liberty Lake, a 708-acre body of water situated just south of Interstate 90 between Spokane and the Idaho state line. Framed by the forested ridges of Mica Peak to the south, Liberty Lake offers an enjoyable 4.7-mile perimeter paddle close to the Spokane metropolitan area.
 
-## Plan your trip
+!!! info "Trip Planning & Access Notes"
 
-[Click for Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
+    - **Parking & Congestion:** Paved launch access is located in a residential neighborhood along E. 3rd Avenue. Parking can be tight during peak summer weekends.
+    - **Weather Forecast:** Check [NOAA Weather Conditions for Liberty Lake](https://forecast.weather.gov/MapClick.php?lat=47.6539&lon=-117.0839) before paddling.
+    - **Clean, Drain, Dry:** Clean all watercraft prior to launching to prevent the spread of aquatic invasive species.
 
-## Photo gallery
+---
+
+## Paddle Route & Highlights
+
+- **4.7-Mile Perimeter Loop:** A complete circuit of Liberty Lake covers 4.7 miles of shoreline paddling past residential north shore docks, quiet reed beds, and timbered southern slopes.
+- **Wildlife & Birding:** Bald eagles, osprey, waterfowl, and songbirds nest in the wetlands and forest canopy around the lake.
+- **South End Recreation:** Paddle 1.7 miles south across the open lake to Liberty Lake Regional Park for swimming beaches, picnic shelters, and trail access.
+
+---
+
+## Driving Directions
+
+1. From Interstate 90, take **Exit 296** (Liberty Lake / Otis Orchards).
+2. Drive south on **N. Liberty Lake Road** to **E. Sprague Avenue**.
+3. Turn left (east) onto E. Sprague Avenue and continue to **S. Molter Road**.
+4. Turn right (south) onto S. Molter Road and proceed to **E. 3rd Avenue**.
+5. Turn left (east) onto E. 3rd Avenue to reach the launch at the end of the street.
+
+---
+
+## Nearby Destinations
+
+- Liberty Lake Regional Park (South Shore Launch & Trailhead)
+- Mica Peak Conservation Area
+- Saltese Flats Conservation Area
+- Spokane River Water Trail
