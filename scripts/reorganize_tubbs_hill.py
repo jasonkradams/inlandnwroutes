@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 tags:
   - Trails & Scrambles
   - Easy
@@ -191,3 +193,10 @@ _South bay shoreline looking east from Tubbs Hill Point._
 
 ![Secluded cove and beach on the south shore of Tubbs Hill](../../../assets/images/2021116-76-jpeg-1.jpg)
 _Secluded cove and beach on the south shore of Tubbs Hill._
+"""
+
+target_path = "docs/hike/idaho/north-idaho-hikes/tubbs-hill.md"
+with open(target_path, "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Reorganized tubbs-hill.md successfully")
