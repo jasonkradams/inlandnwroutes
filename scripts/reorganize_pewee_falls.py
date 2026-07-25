@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: Pewee Falls & Pend Oreille River
 tags:
   - Paddling & Rivers
@@ -117,3 +119,9 @@ _Boundary Dam View from the Vista House Overlook._
 
 ![Aurora Borealis Over Boundary Dam Power Lines](../../../assets/images/20126101044-copy.jpg)
 _Aurora Borealis Over Boundary Dam Power Lines._
+"""
+
+with open("docs/paddle/washington/eastern-washington/pewee-falls-pend-orielle-river.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized pewee-falls-pend-orielle-river.md successfully")
