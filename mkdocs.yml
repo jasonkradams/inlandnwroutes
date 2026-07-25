@@ -755,32 +755,31 @@ nav:
     - Spokane Mountaineers: resources/conservation-and-like-minded-organizations/spokane-mountaineers.md
     - Spokane Canoe and Kayak Club: resources/conservation-and-like-minded-organizations/spokane-canoe-and-kayak-club.md
     - Spokane Nordic Ski Association: resources/conservation-and-like-minded-organizations/spokane-nordic-ski-association.md
+  - Trail Etiquette and Skills:
+    - Overview: resources/trail-etiquette-and-skills/index.md
+    - Route Finding & Navigation: resources/trail-etiquette-and-skills/route-finding.md
+    - Wildlife & Trail Hazards: resources/trail-etiquette-and-skills/wildlife-hazards.md
+    - Trail Etiquette & Leave No Trace: resources/trail-etiquette-and-skills/trail-etiquette.md
+    - Camp Etiquette & Logistics: resources/trail-etiquette-and-skills/camp-etiquette-and-logistics.md
+    - Hiking Techniques & Hydration: resources/trail-etiquette-and-skills/hiking-techniques.md
   - General:
-    - Managing Agencies: resources/general/managing-agencies.md
-    - 'Idaho: A Climbing Guide': resources/general/idaho-a-climbing-guide.md
-    - Hiking Boise: resources/general/hiking-boise.md
-    - Evans Outdoor Adventures: resources/general/evans-outdoor-adventures.md
     - Camera Corral: resources/general/camera-corral.md
+    - Evans Outdoor Adventures: resources/general/evans-outdoor-adventures.md
+    - 'Gear :: Chic': resources/general/gear-chic.md
+    - 'Gear :: David': resources/general/gear-david.md
+    - Hiking Boise: resources/general/hiking-boise.md
     - Hiking From Here: resources/general/hiking-from-here.md
+    - Hints: resources/general/hints.md
+    - 'Idaho: A Climbing Guide': resources/general/idaho-a-climbing-guide.md
     - Inland NW Hikers: resources/general/inland-nw-hikers.md
+    - Managing Agencies: resources/general/managing-agencies.md
+    - Medical Information: resources/general/medical-information.md
+    - Photography: resources/general/photography.md
+    - Restaurants and Pubs: resources/general/restaurants-and-pubs.md
     - Silverlight: resources/general/silverlight.md
     - Silverstreak Zipline Tours: resources/general/silverstreak-zipline-tours.md
     - Trails End Brewery: resources/general/trails-end-brewery.md
-    - Medical Information: resources/general/medical-information.md
     - Weather, Thunderstorms and Lightning: resources/general/weather-thunderstorms-and-lightning.md
-    - Trail Etiquette and Skills:
-      - Overview: resources/trail-etiquette-and-skills/index.md
-      - Route Finding & Navigation: resources/trail-etiquette-and-skills/route-finding.md
-      - Wildlife & Trail Hazards: resources/trail-etiquette-and-skills/wildlife-hazards.md
-      - Trail Etiquette & Leave No Trace: resources/trail-etiquette-and-skills/trail-etiquette.md
-      - Camp Etiquette & Logistics: resources/trail-etiquette-and-skills/camp-etiquette-and-logistics.md
-      - Hiking Techniques & Hydration: resources/trail-etiquette-and-skills/hiking-techniques.md
-    - 'Gear :: David': resources/general/gear-david.md
-    - 'Gear :: Chic': resources/general/gear-chic.md
-    - Photography: resources/general/photography.md
-    - Wildlife: resources/general/wildlife.md
-    - Hints: resources/general/hints.md
-    - Restaurants and Pubs: resources/general/restaurants-and-pubs.md
 - Gallery:
   - Gallery: gallery/index.md
   - Contributors:
