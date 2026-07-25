@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: "Post-Hike Restaurants & Pubs"
 tags:
   - Resources
@@ -85,3 +87,9 @@ After a long day of hiking, climbing, paddling, or skiing in the mountains, a wa
 | **Big Sky Pantry** | 1018 Hwy 200, Heron / Noxon area | (406) 847-2662 | Near Hwy 200 & Hwy 56 junction; bulk foods, baked goods & deli. |
 | **Rosauers Deli** | 703 9th St, Libby, MT | (406) 293-2743 | Quick deli counter for trail supplies and sandwiches. |
 | **Pizza Hut** | 903 California Ave, Libby, MT | (406) 293-7744 | Standard pizza & wings. |
+"""
+
+with open("docs/resources/general/restaurants-and-pubs.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized restaurants-and-pubs.md successfully")
