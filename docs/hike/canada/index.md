@@ -87,5 +87,5 @@ Rockies)</td> <td><a href="../../ski/canada/alberta/lake-louise-ski-resort.md">L
 ## Waterways & Paddling Access
 
 The Kootenay and Columbia river systems, along with mountain lakes across British Columbia, provide
-exceptional kayaking and canoeing options. See the [Paddling Safety & Kayaking Guide](../../mountains/index.md) for
+exceptional kayaking and canoeing options. See the [Paddling Safety & Kayaking Guide](../../gallery/mountains.md) for
 regional access guidelines.

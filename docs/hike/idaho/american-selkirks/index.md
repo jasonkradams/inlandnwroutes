@@ -371,9 +371,9 @@ populations).
 
 | Destination / Peak | Elevation / Trail Details | Route Guide Link |
 | :--- | :--- | :--- |
-| **Beehive Lake** | 6,457' | [Beehive Lake 6457'](../../../mountains/index.md) |
+| **Beehive Lake** | 6,457' | [Beehive Lake 6457'](../../../gallery/mountains.md) |
 | **Burton Peak** | 6,844' (Trail #9) | [Burton Peak 6844' Trail #9](burton-peak-6844-trail-9.md) |
-| **Cooks Lake & Peak** | 5,993' (Trail #236) | [Cooks Lake & Peak 5993'](../../../mountains/index.md) |
+| **Cooks Lake & Peak** | 5,993' (Trail #236) | [Cooks Lake & Peak 5993'](../../../gallery/mountains.md) |
 | **Fault Lake & Hunt Peak** | 5,980' / 7,058' (Trail #59) | [Fault Lake 5980' & Hunt Peak 7058'](fault-lake-5980--hunt-peak-7058-trail-59.md) |
 | **Harrison Lake & Peak** | 7,292' (Trail #217) | [Harrison Lake & Peak 7292'](harrison-lake--peak-7292-trial--217.md) |
 | **Hunt Lake & Gunsight Peak** | 5,813' / 7,352' | [Hunt Lake 5813' & Gunsight Peak 7352'](hunt-lake-5813-gunsight-peak-7352.md) |
@@ -388,5 +388,5 @@ populations).
 | **Pyramid & Ball Lakes** | Trail #43 | [Pyramid and Ball Lakes Trail #43](pyramid-and-ball-lakes-trail-43.md) |
 | **Red Top Mountain** | 6,266' (Trail #102) | [Red Top Mountain 6266' Trail #102](red-top-mountain-6266-trail-102.md) |
 | **Russell Peak & Russell Ridge** | 6,618' (Trails #12 & #92) | [Russell Peak 6618' Trail #12 & Russell Ridge #92](russell-peak-6618-trail-12--russell-ridge-92.md) |
-| **Roman Nose Lakes & Peak** | 7,260' (Trails #165 & #160) | [Roman Nose Lakes & Peak 7260'](../../../mountains/index.md) |
+| **Roman Nose Lakes & Peak** | 7,260' (Trails #165 & #160) | [Roman Nose Lakes & Peak 7260'](../../../gallery/mountains.md) |
 | **Two Mouth Lakes & Kent Lake Ridge** | 5,785' / 7,243' (Trail #286) | [Two Mouth Lakes to The Wigwams High Traverse](two-mouth-lakes-to-the-wigwams-high-traverse.md) |

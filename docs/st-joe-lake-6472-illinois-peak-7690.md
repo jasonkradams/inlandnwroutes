@@ -113,7 +113,7 @@ Radio Brewing in Kellogg, City Limits Pub in Wallace
 
 ## spring in august
 
-[*Picture (Image missing)*](mountains/index.md)
+[*Picture (Image missing)*](gallery/mountains.md)
 
 ---
 

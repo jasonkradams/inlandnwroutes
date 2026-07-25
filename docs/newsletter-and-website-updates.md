@@ -116,10 +116,10 @@ David Crafton and Chic Burge
 
 ## 20-june-2020
 
-We started working on the [Paddle Routes](mountains/index.md) section. Check back over the next couple weeks as
+We started working on the [Paddle Routes](gallery/mountains.md) section. Check back over the next couple weeks as
 we update the routes.
 
-[*Picture (Image missing)*](mountains/index.md)
+[*Picture (Image missing)*](gallery/mountains.md)
 
 ---
 

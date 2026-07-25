@@ -16,11 +16,11 @@ in the mountains and with her photography. enjoy
 
 ##
 
-![Picture](assets/images/10272024919p.jpg)
+![Picture](../../../../assets/images/10272024919p.jpg)
 
 ##
 
-![Picture](assets/images/10272024916p.jpg)
+![Picture](../../../../assets/images/10272024916p.jpg)
 
 ##
 
@@ -28,11 +28,11 @@ in the mountains and with her photography. enjoy
 
 ##
 
-![Picture](assets/images/10272024915p.jpg)
+![Picture](../../../../assets/images/10272024915p.jpg)
 
 ##
 
-![Picture](assets/images/10272024923p.jpg)
+![Picture](../../../../assets/images/10272024923p.jpg)
 
 ##
 
@@ -40,15 +40,15 @@ in the mountains and with her photography. enjoy
 
 ##
 
-![Picture](assets/images/10272024928p.jpg)
+![Picture](../../../../assets/images/10272024928p.jpg)
 
 ##
 
-![Picture](assets/images/10272024929p.jpg)
+![Picture](../../../../assets/images/10272024929p.jpg)
 
 ##
 
-![Picture](assets/images/10272024929p.jpg)
+![Picture](../../../../assets/images/10272024929p.jpg)
 
 ##
 

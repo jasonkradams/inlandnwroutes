@@ -774,17 +774,37 @@ nav:
     - Wildlife: resources/general/wildlife.md
     - Hints: resources/general/hints.md
     - Restaurants and Pubs: resources/general/restaurants-and-pubs.md
-- Flora & Wildlife:
-  - Trees: trees.md
+- Gallery:
+  - Contributors:
+    - Amy Voeller: gallery/contributors/amy-voeller.md
+    - Chris Herath: gallery/contributors/chris-herath.md
+    - David Crafton: gallery/contributors/david-crafton.md
+    - Tony Kozlowski: gallery/contributors/tony-kozlowski.md
+    - Vanette Leighty: gallery/contributors/vanette-leighty.md
+  - Categories:
+    - Mountains: gallery/mountains.md
+    - Lakes: gallery/lakes.md
+    - Panorama: gallery/categories/panorama.md
+    - Streams to Rivers: gallery/categories/streams-to-rivers.md
+    - Wildlife: gallery/categories/wildlife.md
+    - Deserts & Scablands: gallery/categories/deserts--scablands.md
+    - Atmosphere: gallery/categories/atmosphere.md
+    - Rocks: gallery/categories/rocks.md
+    - Trails: gallery/trails.md
+    - Trees: gallery/categories/trees.md
+    - Trail Heros: gallery/categories/trail-heros.md
+    - Outhouses: gallery/categories/outhouses.md
+    - Faces: gallery/categories/faces.md
+    - Winter: gallery/categories/winter.md
+    - Fungi - Rooms: gallery/categories/fungi---rooms.md
+    - Phenomenon: gallery/categories/phenomenon.md
+    - Fireworks: gallery/categories/fireworks.md
 - Lakes:
-  - Lakes: lakes/index.md
   - St Joe Lake 6472Rsquo Illinois Peak 7690Rsquo: st-joe-lake-6472-illinois-peak-7690.md
 - Paddling & Rivers:
   - Paddling Safety & Kayaking Guide: paddle/index.md
-  - Streams To Rivers: streams-to-rivers.md
 - Peaks & Mountains:
   - Lunch In The Mountains: lunch-in-the-mountains.md
-  - Mountains: mountains/index.md
   - Ridges: ridges.md
   - Scenic Lodge Rathdrum Mountain: scenic-lodge-rathdrum-mountain.md
   - Soup For Lunch In The Mountains: recipes/soup-for-lunch-in-the-mountains.md
@@ -795,25 +815,17 @@ nav:
   - About: about/index.md
   - About Us: about/about-us.md
   - Adages: adages.md
-  - Amy Voeller: amy-voeller.md
-  - Atmosphere: atmosphere.md
   - Basil Shrimp Poscuitto Ham Wraps: recipes/basil-shrimp-poscuitto-ham-wraps.md
   - Biography  Chic: about/biography--chic.md
   - Biography  David: about/biography--david.md
   - Blank: blank.md
   - Chicken And Rice Soup: recipes/chicken-and-rice-soup.md
   - Chicken Mushroom Mashed Potoaoe Soup: recipes/chicken-mushroom-mashed-potato-soup.md
-  - Chris Herath: chris-herath.md
   - Clammy Cabbage Over Pasta: plants/clammy-cabbage-over-pasta.md
   - Contact: about/contact.md
-  - David Crafton: david-crafton.md
-  - Deserts  Scablands: deserts--scablands.md
   - Eastern Washington1: eastern-washington1.md
   - Easy Quality Gravy: recipes/easy-quality-gravy.md
   - Essays: essays.md
-  - Faces in Nature: faces.md
-  - Fireworks: fireworks.md
-  - Fungi   Rooms: fungi---rooms.md
   - Gallery: gallery.md
   - Glacier Np: glacier-np.md
   - Home: home.md
@@ -824,32 +836,23 @@ nav:
   - Liability Release: about/liability-release.md
   - Moma Morenos Chicken Green Chili Soup: recipes/moma-morenos-chicken-green-chili-soup.md
   - Notes: notes.md
-  - Outhouses: outhouses.md
-  - Panorama: panorama.md
-  - Phenomenon: phenomenon.md
   - Poems: poems.md
   - Quotes: quotes.md
   - Red Lodge: red-lodge.md
-  - Rocks: rocks.md
   - Route Title Here: route_template.md
   - Scotchman No 2: scotchman-no-2.md
   - Spokane County Parks Conservation Futures Properties: spokane-county-parks-conservation-futures-properties.md
   - Stories: stories.md
   - Tcda Curried Rice: recipes/tcda-curried-rice.md
-  - Trail Heros: trail-heros.md
-  - Trails: trails/index.md
   - Uncle Chucks Manhatten Style Clam Chowder: recipes/uncle-chucks-manhatten-style-clam-chowder.md
   - Uncle Chucks World Famous Blondies: recipes/uncle-chucks-world-famous-blondies.md
-  - Vanette Leighty: vanette-leighty.md
   - Website Notes: website-notes.md
-  - Winter: winter.md
   - Writings: writings.md
 - Waterfalls:
   - Waterfalls: waterfalls/index.md
 - Winter & Skiing:
   - Ski: ski/ski.md
   - Ski History & Avalanche Safety: ski/index.md
-  - Tony Kozlowski: ski/tony-kozlowski.md
 - About:
   - 'Biography :: Chic': biography--chic.md
   - 'Biography :: David': biography--david.md

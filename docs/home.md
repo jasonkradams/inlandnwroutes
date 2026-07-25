@@ -7,9 +7,9 @@ tags:
 
 - [Hike](hike/index.md) — Info from day hikes to multi-week adventures
 
-- [Ski](mountains/index.md) — Hiking to the office
+- [Ski](gallery/mountains.md) — Hiking to the office
 
-- [Paddle](mountains/index.md) — Lakes, rivers and the Puget Sound
+- [Paddle](gallery/mountains.md) — Lakes, rivers and the Puget Sound
 
 ## Join in on the Fun and Give Back
 
