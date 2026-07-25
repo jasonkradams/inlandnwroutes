@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: "First Street Launch (St. Maries)"
 tags:
   - Rivers
@@ -64,3 +66,9 @@ The First Street Launch is a convenient municipal water access site located at t
 - **St. Joe River Access Sites:** Explore [Aqua Park Launch](aqua-park-launch.md), [Cherry Bend Park Launch](cherry-bend-park-launch.md), and [Silvertip Landing](silvertip-landing.md).
 - **Regional Destinations:** Heyburn State Park, St. Joe National Forest, and the Route of the Hiawatha rail-trail.
 - **Rest & Provisions:** Full groceries, restaurants, breweries, gas, and outfitters are located right in downtown St. Maries within walking distance of the launch.
+"""
+
+with open("docs/paddle/idaho/st-joe-and-st-maries-rivers/first-street-launch.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized first-street-launch.md successfully")
