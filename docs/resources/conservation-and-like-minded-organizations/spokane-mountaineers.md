@@ -15,7 +15,8 @@ stats:
   - label: Educational Offerings
     value: "15+ Schools, Clinics & Seminars (Climbing, Backpacking, Skiing, MTB, WFA)"
   - label: Official Website
-    value: "[spokanemountaineers.org](https://www.spokanemountaineers.org)"
+    value: "spokanemountaineers.org"
+    url: "https://www.spokanemountaineers.org"
 notes:
   - label: Spokane Mountaineers Official Website
     url: https://www.spokanemountaineers.org

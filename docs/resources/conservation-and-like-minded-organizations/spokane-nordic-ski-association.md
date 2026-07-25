@@ -15,7 +15,8 @@ stats:
   - label: Mailing Address
     value: "PO Box 501, Spokane, WA 99210"
   - label: Official Website
-    value: "[spokanenordic.org](https://www.spokanenordic.org)"
+    value: "spokanenordic.org"
+    url: "https://www.spokanenordic.org"
 notes:
   - label: Spokane Nordic Ski Association Official Website
     url: https://www.spokanenordic.org

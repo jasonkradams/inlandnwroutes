@@ -13,7 +13,8 @@ stats:
   - label: Region & Scope
     value: "Inland Northwest Rivers, Lakes & Whitewater Streams"
   - label: Official Website
-    value: "[sckc.club](https://www.sckc.club)"
+    value: "sckc.club"
+    url: "https://www.sckc.club"
 notes:
   - label: Spokane Canoe & Kayak Club (SCKC Official Site)
     url: https://www.sckc.club

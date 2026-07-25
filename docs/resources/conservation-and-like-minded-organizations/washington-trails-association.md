@@ -13,7 +13,8 @@ stats:
   - label: Annual Volunteer Effort
     value: "3,800+ Volunteers / 120,000+ Volunteer Trail Work Hours"
   - label: Official Website
-    value: "[wta.org](https://www.wta.org)"
+    value: "wta.org"
+    url: "https://www.wta.org"
 notes:
   - label: Washington Trails Association (WTA Official Site)
     url: https://www.wta.org

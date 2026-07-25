@@ -49,7 +49,14 @@
       <p class="admonition-title">Quick Facts & Trip Stats</p>
       <ul>
         {% for item in page.meta.stats %}
-          <li><strong>{{ item.label }}:</strong> {{ item.value }}</li>
+          <li>
+            <strong>{{ item.label }}:</strong>
+            {% if item.url %}
+              <a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.value or item.url }}</a>
+            {% else %}
+              {{ item.value }}
+            {% endif %}
+          </li>
         {% endfor %}
       </ul>
     </div>

@@ -11,7 +11,8 @@ stats:
   - label: Region & Scope
     value: "Idaho Public Lands & Backcountry Wilderness Trails"
   - label: Official Website
-    value: "[idahotrailsassociation.org](https://www.idahotrailsassociation.org)"
+    value: "idahotrailsassociation.org"
+    url: "https://www.idahotrailsassociation.org"
 notes:
   - label: Idaho Trails Association (ITA Official Site)
     url: https://www.idahotrailsassociation.org
