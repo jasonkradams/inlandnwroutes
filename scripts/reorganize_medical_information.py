@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: Wilderness Medical Information & Safety
 tags:
   - Resources
@@ -178,3 +180,9 @@ Wildfire smoke and particulate matter present serious respiratory hazards during
 - **PM2.5:** Fine inhalable particles ≤ 2.5 micrometers (30x smaller than a human hair). Fine particles penetrate deep into lung tissue and the bloodstream.
 - **Health Risks:** Shortness of breath, eye/throat irritation, coughing, reduced lung function, and aggravation of asthma or cardiac conditions.
 - **Monitoring:** Check [AirNow.gov](https://www.airnow.gov) for daily Air Quality Index (AQI) forecasts before heading into the mountains. Limit strenuous outdoor activities when AQI reaches unhealthy levels.
+"""
+
+with open("docs/resources/general/medical-information.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized medical-information.md successfully")
