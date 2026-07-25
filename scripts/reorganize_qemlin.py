@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 tags:
   - Trails & Scrambles
   - Moderate
@@ -175,3 +177,10 @@ _Whitewater gorge in the south channel of the Spokane River near Avista Power Ho
 
 ![Avista Generating Station overflow waterfall and roaring Spokane River gorge](../../../assets/images/2021116-41-jpeg-1.jpg)
 _Avista Generating Station overflow waterfall and roaring Spokane River gorge._
+"""
+
+target_path = "docs/hike/idaho/north-idaho-hikes/qemlin-park.md"
+with open(target_path, "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Reorganized qemlin-park.md successfully")
