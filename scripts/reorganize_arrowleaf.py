@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: "Arrowleaf Trail (Antoine Peak)"
 tags:
   - Mountain Biking
@@ -59,3 +61,9 @@ _Overlooking Spokane Valley and southern foothills from the Arrowleaf Trail._
 
 ![Arrowleaf balsamroot blooms along Antoine Peak](../assets/images/202204170141-1.jpg)
 _Arrowleaf balsamroot blooms along the lower Antoine Peak singletrack network._
+"""
+
+with open("docs/bike/arrow-leaf.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized arrow-leaf.md successfully")
