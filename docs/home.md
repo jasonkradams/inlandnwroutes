@@ -5,7 +5,7 @@ tags:
 
 # Home
 
-- [Hike](hike.md) — Info from day hikes to multi-week adventures
+- [Hike](hike/index.md) — Info from day hikes to multi-week adventures
 
 - [Ski](mountains/index.md) — Hiking to the office
 

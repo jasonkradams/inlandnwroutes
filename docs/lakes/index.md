@@ -39,18 +39,18 @@ pristine alpine cirque lakes.
 
 | Lake & Elevation | Trail Details | Featured Route Guide |
 | :--- | :--- | :--- |
-| **Beehive Lake** (6,457') | 7.2 mi RT, 2,040' gain (#279) | [Beehive Lake Guide](../beehive-lake-6457.md) |
-| **Harrison Lake & Peak** | 4.6 mi RT, 1,450' gain (#217) | [Harrison Lake](../harrison-lake--peak-7292-trial--217.md) |
-| **Little Harrison Lake** | Off-trail scramble | [Little Harrison](../little-harrison-lake-6271--peak-7292.md) |
-| **Fault Lake** (5,980') | 12.0 mi RT, 2.7k' gain (#59) | [Fault Lake](../fault-lake-5980--hunt-peak-7058-trail-59.md) |
-| **Hunt Lake** (5,813') | 2.5 mi RT, boulder scramble | [Hunt Lake Guide](../hunt-lake-5813-gunsight-peak-7352.md) |
-| **Two Mouth Lakes** (5,785') | 8.8 mi RT, 2,100' gain (#286) | [Two Mouth Lakes Guide](../two-mouth-lakes-5785.md) |
-| **Bottleneck Lake** | 6.0 mi RT (Trail #10) | [Bottleneck Lake Guide](../bottleneck-lake--peak.md) |
-| **Roman Nose Lakes** | 4.0 mi RT loop (#165) | [Roman Nose Lakes](../roman-nose-lakes--peak-idaho.md) |
-| **Myrtle Lake** (5,950') | 6.0 mi RT (Trail #286) | [Myrtle Lake](../myrtle-lake-5950--myrtle-peak-7122-trail-286.md) |
-| **Pyramid & Ball Lakes** | 4.0 mi RT (Trail #43) | [Pyramid & Ball Lakes](../pyramid-and-ball-lakes-trail-43.md) |
-| **Cedar Lake** (5,914') | 5.5 mi RT (Trail #14) | [Cedar Lake Guide](../plants/cedar-lake-5914.md) |
-| **Trout & Big Fisher** | 9.0 mi RT | [Trout & Big Fisher](../trout-6352--big-fisher-6732-lakes-trail-13--41.md) |
+| **Beehive Lake** (6,457') | 7.2 mi RT, 2,040' gain (#279) | [Beehive Lake Guide](../hike/idaho/american-selkirks/beehive-lake-6457.md) |
+| **Harrison Lake & Peak** | 4.6 mi RT, 1,450' gain (#217) | [Harrison Lake](../hike/idaho/american-selkirks/harrison-lake--peak-7292-trial--217.md) |
+| **Little Harrison Lake** | Off-trail scramble | [Little Harrison](../hike/idaho/american-selkirks/little-harrison-lake-6271--peak-7292.md) |
+| **Fault Lake** (5,980') | 12.0 mi RT, 2.7k' gain (#59) | [Fault Lake](../hike/idaho/american-selkirks/fault-lake-5980--hunt-peak-7058-trail-59.md) |
+| **Hunt Lake** (5,813') | 2.5 mi RT, boulder scramble | [Hunt Lake Guide](../hike/idaho/american-selkirks/hunt-lake-5813-gunsight-peak-7352.md) |
+| **Two Mouth Lakes** (5,785') | 8.8 mi RT, 2,100' gain (#286) | [Two Mouth Lakes Guide](../hike/idaho/american-selkirks/two-mouth-lakes-5785.md) |
+| **Bottleneck Lake** | 6.0 mi RT (Trail #10) | [Bottleneck Lake Guide](../hike/idaho/american-selkirks/bottleneck-lake--peak.md) |
+| **Roman Nose Lakes** | 4.0 mi RT loop (#165) | [Roman Nose Lakes](../hike/idaho/american-selkirks/roman-nose-lakes--peak-idaho.md) |
+| **Myrtle Lake** (5,950') | 6.0 mi RT (Trail #286) | [Myrtle Lake](../hike/idaho/american-selkirks/myrtle-lake-5950--myrtle-peak-7122-trail-286.md) |
+| **Pyramid & Ball Lakes** | 4.0 mi RT (Trail #43) | [Pyramid & Ball Lakes](../hike/idaho/american-selkirks/pyramid-and-ball-lakes-trail-43.md) |
+| **Cedar Lake** (5,914') | 5.5 mi RT (Trail #14) | [Cedar Lake Guide](../hike/montana/cabinet-mountains-wilderness/cedar-lake-5914.md) |
+| **Trout & Big Fisher** | 9.0 mi RT | [Trout & Big Fisher](../hike/idaho/american-selkirks/trout-6352--big-fisher-6732-lakes-trail-13--41.md) |
 
 ## Cabinet Mountain Wilderness Lakes
 
@@ -59,14 +59,14 @@ Western Montana host some of the deepest alpine tarns in the Pacific Northwest.
 
 | Lake & Elevation | Trail Details | Featured Route Guide |
 | :--- | :--- | :--- |
-| **Wanless Lake** | 18.0 mi RT, 3,400' gain (#912) | [Wanless Lake Guide](../wanless-lake-via-trail-912.md) |
-| **Leigh Lake** | 3.0 mi RT, steep climb | [Leigh Lake Guide](../leigh-lake.md) |
-| **St. Paul Lake** | 7.0 mi RT (Trail #646) | [St. Paul Lake Guide](../st-paul-lake.md) |
-| **Baree Lake** | 7.5 mi RT (Trail #489) | [Baree Lake Guide](../baree-lake.md) |
-| **Granite Lake** (4,629') | 6.0 mi RT (Trail #165) | [Granite Lake Guide](../granite-lake-4629.md) |
-| **Minor Lake** | 8.0 mi RT (Trail #317) | [Minor Lake Guide](../minor-lake.md) |
-| **Parmenter Lake** | 10.0 mi RT (Trail #140) | [Parmenter Lake Guide](../parmenter-lake.md) |
-| **Little Spar Lake** | 8.0 mi RT (Trail #143) | [Little Spar Lake](../spar-peak-little-spar-lake--horseshoe-pond.md) |
+| **Wanless Lake** | 18.0 mi RT, 3,400' gain (#912) | [Wanless Lake Guide](../hike/montana/cabinet-mountains-wilderness/wanless-lake-via-trail-912.md) |
+| **Leigh Lake** | 3.0 mi RT, steep climb | [Leigh Lake Guide](../hike/montana/cabinet-mountains-wilderness/leigh-lake.md) |
+| **St. Paul Lake** | 7.0 mi RT (Trail #646) | [St. Paul Lake Guide](../hike/montana/cabinet-mountains-wilderness/st-paul-lake.md) |
+| **Baree Lake** | 7.5 mi RT (Trail #489) | [Baree Lake Guide](../hike/montana/cabinet-mountains-wilderness/baree-lake.md) |
+| **Granite Lake** (4,629') | 6.0 mi RT (Trail #165) | [Granite Lake Guide](../hike/montana/cabinet-mountains-wilderness/granite-lake-4629.md) |
+| **Minor Lake** | 8.0 mi RT (Trail #317) | [Minor Lake Guide](../hike/montana/cabinet-mountains-wilderness/minor-lake.md) |
+| **Parmenter Lake** | 10.0 mi RT (Trail #140) | [Parmenter Lake Guide](../hike/montana/cabinet-mountains-wilderness/parmenter-lake.md) |
+| **Little Spar Lake** | 8.0 mi RT (Trail #143) | [Little Spar Lake](../hike/montana/proposed-scotchman-peaks-wilderness/spar-peak-little-spar-lake--horseshoe-pond.md) |
 
 ## Bitterroot & Silver Valley Lakes
 
@@ -75,14 +75,14 @@ hikes, historic mining ruins, and vibrant wildflower displays.
 
 | Lake & Elevation | Trail Details | Featured Route Guide |
 | :--- | :--- | :--- |
-| **Stevens Lakes** | 9.0 mi RT, 2,100' gain (#165) | [Stevens Lakes Guide](../upper-and-lower-stevens-lake.md) |
-| **Revett Lake** | 3.0 mi RT, family hike | [Revett Lake Guide](../revett-lake.md) |
-| **Glidden Lakes** | 4.0 mi RT (Trail #138) | [Glidden Lakes](../glidden-lakes-upper-and-lower.md) |
-| **Blossom Lake** | 6.0 mi RT (Trail #204) | [Blossom Lake Guide](../blossom-lake.md) |
-| **Heart Lake** | 7.0 mi RT (Trail #204) | [Heart Lake Guide](../heart-lake.md) |
-| **Hub Lake** | 8.0 mi RT (Trail #280) | [Hub Lake Guide](../hub-lake.md) |
-| **Lone & Long Lakes** | 6.5 mi RT (Trail #138) | [Lone & Long Lakes Guide](../lone-long-lake-lakes.md) |
-| **Rock Lake** (4,958') | 7.0 mi RT | [Rock Lake Guide](../rock-lake-4958.md) |
+| **Stevens Lakes** | 9.0 mi RT, 2,100' gain (#165) | [Stevens Lakes Guide](../hike/idaho/silver-valley-area/upper-and-lower-stevens-lake.md) |
+| **Revett Lake** | 3.0 mi RT, family hike | [Revett Lake Guide](../hike/idaho/silver-valley-area/revett-lake.md) |
+| **Glidden Lakes** | 4.0 mi RT (Trail #138) | [Glidden Lakes](../hike/idaho/silver-valley-area/glidden-lakes-upper-and-lower.md) |
+| **Blossom Lake** | 6.0 mi RT (Trail #204) | [Blossom Lake Guide](../hike/montana/lolo-national-forest/blossom-lake.md) |
+| **Heart Lake** | 7.0 mi RT (Trail #204) | [Heart Lake Guide](../hike/montana/lolo-national-forest/heart-lake.md) |
+| **Hub Lake** | 8.0 mi RT (Trail #280) | [Hub Lake Guide](../hike/montana/bitterroots/hub-lake.md) |
+| **Lone & Long Lakes** | 6.5 mi RT (Trail #138) | [Lone & Long Lakes Guide](../hike/idaho/silver-valley-area/lone-long-lake-lakes.md) |
+| **Rock Lake** (4,958') | 7.0 mi RT | [Rock Lake Guide](../hike/montana/cabinet-mountains-wilderness/rock-lake-4958.md) |
 | **St. Joe Lake** | 8.0 mi RT (#49) | [St. Joe Lake](../st-joe-lake-6472-illinois-peak-7690.md) |
 
 ## Lowland Lakes & Paddling Access
@@ -95,10 +95,10 @@ scenic water accesses.
 | **Liberty Lake Regional Park** | Lake Trail Loop & Paddling | [Liberty Lake Guide](../liberty-lake-regional-park.md) |
 | **Amber Lake Launch** | Fishing & Flatwater Paddling | [Amber Lake Guide](../paddle/amber-lake-launch.md) |
 | **Badger Lake Launch** | Public Launch Access | [Badger Lake Guide](../paddle/badger-lake-launch.md) |
-| **Banks Lake & Sun Lakes** | Scablands Kayaking | [Banks Lake Guide](../banks-lake.md) |
+| **Banks Lake & Sun Lakes** | Scablands Kayaking | [Banks Lake Guide](../hike/washington/scablands/banks-lake.md) |
 | **Clear Lake Launch** | Boat Ramp & Beach | [Clear Lake Guide](../paddle/clear-lake-launch.md) |
 | **Eloika Lake Launch** | Shallow Water Paddling | [Eloika Lake Guide](../paddle/eloika-lake-launch.md) |
-| **Fishtrap Lake** | Scablands Rock Formations | [Fishtrap Lake Guide](../fishtrap-lake.md) |
+| **Fishtrap Lake** | Scablands Rock Formations | [Fishtrap Lake Guide](../hike/washington/scablands/fishtrap-lake.md) |
 | **Spirit Lake Launch** | Lake Access Ramp | [Spirit Lake Guide](../paddle/spirit-lake-boat-launch.md) |
 | **Twin Lakes Narrows** | Channel | [Twin Lakes Guide](../twin-lakes-narrows.md) |
 

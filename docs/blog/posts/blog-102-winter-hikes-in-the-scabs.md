@@ -57,18 +57,18 @@ All of the below hikes are detailed on this local website.
 
 | Destination / Trail | Difficulty | Route Guide Link |
 | :--- | :--- | :--- |
-| **Steamboat Rock** | Easy | [Steamboat Rock Guide](../../steamboat-rock.md) |
-| **Fishtrap Lake** | Easy | [Fishtrap Lake Guide](../../fishtrap-lake.md) |
-| **Hawk Creek Falls S.P.** | Easy | [Hawk Creek Falls Guide](../../hawk-creek-s-p.md) |
-| **Lake Lenore Caves & Lake** | Easy | [Lake Lenore Caves Guide](../../lake-lenore-caves--mesa.md) |
-| **Palouse Falls S.P.** | Easy | [Palouse Falls Guide](../../palouse-falls-state-park-heritage-site.md) |
-| **Sun Lakes S.P. / Dry Falls** | Easy | [Sun Lakes Guide](../../sun-lakes-s-p-dry-falls-area.md) |
-| **Turnbull NWR** | Easy | [Turnbull NWR Guide](../../turnbull-nwr.md) |
-| **Hog Canyon Falls** | Moderate | [Hog Canyon Falls Guide](../../hog-canyon--falls.md) |
-| **Northrup Canyon** | Moderate | [Northrup Canyon Guide](../../northrup-canyon.md) |
-| **Escure Ranch & Towell Falls** | Moderate | [Escure Ranch Guide](../../escure-ranch.md) |
-| **Quincy & Ancient Lakes** | Moderate | [Ancient & Dusty Lakes Guide](../../breezy-hill-ancient-and-dusty-lakes.md) |
-| **Frenchman's Coulee** | Moderate | [Frenchman's Coulee Guide](../../frenchmans-coulee.md) |
+| **Steamboat Rock** | Easy | [Steamboat Rock Guide](../../hike/washington/scablands/steamboat-rock.md) |
+| **Fishtrap Lake** | Easy | [Fishtrap Lake Guide](../../hike/washington/scablands/fishtrap-lake.md) |
+| **Hawk Creek Falls S.P.** | Easy | [Hawk Creek Falls Guide](../../hike/washington/scablands/hawk-creek-s-p.md) |
+| **Lake Lenore Caves & Lake** | Easy | [Lake Lenore Caves Guide](../../hike/washington/scablands/lake-lenore-caves--mesa.md) |
+| **Palouse Falls S.P.** | Easy | [Palouse Falls Guide](../../hike/washington/scablands/palouse-falls-state-park-heritage-site.md) |
+| **Sun Lakes S.P. / Dry Falls** | Easy | [Sun Lakes Guide](../../hike/washington/scablands/sun-lakes-s-p-dry-falls-area.md) |
+| **Turnbull NWR** | Easy | [Turnbull NWR Guide](../../hike/washington/scablands/turnbull-nwr.md) |
+| **Hog Canyon Falls** | Moderate | [Hog Canyon Falls Guide](../../hike/washington/scablands/hog-canyon--falls.md) |
+| **Northrup Canyon** | Moderate | [Northrup Canyon Guide](../../hike/washington/scablands/northrup-canyon.md) |
+| **Escure Ranch & Towell Falls** | Moderate | [Escure Ranch Guide](../../hike/washington/scablands/escure-ranch.md) |
+| **Quincy & Ancient Lakes** | Moderate | [Ancient & Dusty Lakes Guide](../../hike/washington/scablands/breezy-hill-ancient-and-dusty-lakes.md) |
+| **Frenchman's Coulee** | Moderate | [Frenchman's Coulee Guide](../../hike/washington/scablands/frenchmans-coulee.md) |
 
 ---
 
@@ -76,7 +76,7 @@ All of the below hikes are detailed on this local website.
 
 ### Steamboat Rock
 
-[Steamboat Rock Guide](../../steamboat-rock.md)
+[Steamboat Rock Guide](../../hike/washington/scablands/steamboat-rock.md)
 
 Steamboat Rock is a mass of basalt that is 1 sq mile in size and stands 700’ above the campgrounds. Once
 on top, walk either way around the elongated rock. Take a phone picture of where you summited the rock,
@@ -89,14 +89,14 @@ Because the rock is basalt, I strongly suggest sturdy boots and hiking poles.
 
 ### Fishtrap Lake
 
-[Fishtrap Lake Guide](../../fishtrap-lake.md)
+[Fishtrap Lake Guide](../../hike/washington/scablands/fishtrap-lake.md)
 
 Fishtrap Lake is only about 25 miles west of Spokane, and offers an easy up to 6.5 mile hike around the
 lake. In some places, there are hooknose beaches and potholes to see. Waterfowl is very common here.
 
 ### Hawk Creek Falls State Park
 
-[Hawk Creek Falls Guide](../../hawk-creek-s-p.md)
+[Hawk Creek Falls Guide](../../hike/washington/scablands/hawk-creek-s-p.md)
 
 As you drive to Hawk Falls, you may think it’s in a blah setting. But that will change as soon as you
 turn off the Miles Creston Road N, and once you see this waterfall you’ll be hooked. The slightly more
@@ -105,14 +105,14 @@ Winter, several caves, and a small sand dune below a steep cliff.
 
 ### Lake Lenore Caves & Lake
 
-[Lake Lenore Caves Guide](../../lake-lenore-caves--mesa.md)
+[Lake Lenore Caves Guide](../../hike/washington/scablands/lake-lenore-caves--mesa.md)
 
 The walk to the caves is easy and interesting to see. To extend your walk, look for a route above to the
 basalt cliffs. Wander about on these mesas for views.
 
 ### Palouse Falls State Park
 
-[Palouse Falls Guide](../../palouse-falls-state-park-heritage-site.md)
+[Palouse Falls Guide](../../hike/washington/scablands/palouse-falls-state-park-heritage-site.md)
 
 The Palouse Falls are the official waterfalls of Washington State. It can be viewed from several
 observation points along the rim. But be aware… it is a very popular park to visit. The falls drop 198’
@@ -120,7 +120,7 @@ into a spectacular plunge pool.
 
 ### Sun Lakes State Park
 
-[Sun Lakes Guide](../../sun-lakes-s-p-dry-falls-area.md)
+[Sun Lakes Guide](../../hike/washington/scablands/sun-lakes-s-p-dry-falls-area.md)
 
 This park offers many very interesting attractions, like the cliff and plunge pool of what was once the
 largest waterfall on earth. There are hikes down around the plunge pool lakes and gigantic basalt mesas.
@@ -128,7 +128,7 @@ It’s also a full amenity campground.
 
 ### Turnbull National Wildlife Refuge
 
-[Turnbull NWR Guide](../../turnbull-nwr.md)
+[Turnbull NWR Guide](../../hike/washington/scablands/turnbull-nwr.md)
 
 This area is a short distance west of Spokane and offers nice walking trails and wildlife viewing. Be sure
 to take your binoculars. Many bird species migrate through this area, and moose are seen there.
@@ -139,7 +139,7 @@ to take your binoculars. Many bird species migrate through this area, and moose 
 
 ### Hog Canyon Falls
 
-[Hog Canyon Falls Guide](../../hog-canyon--falls.md)
+[Hog Canyon Falls Guide](../../hike/washington/scablands/hog-canyon--falls.md)
 
 Real close to Spokane is a stair-step waterfall named Hog Canyon. Technically it’s part of the Fishtrap
 Lake area, but requires a different area to walk to. The falls drop seven times through a narrow
@@ -147,7 +147,7 @@ channel, and are best viewed from across an area where you first view the falls.
 
 ### Northrup Canyon
 
-[Northrup Canyon Guide](../../northrup-canyon.md)
+[Northrup Canyon Guide](../../hike/washington/scablands/northrup-canyon.md)
 
 This area was added to Steamboat Rock S.P. years ago and is a must-see. It is a 7+ mile round trip hike
 with a gain of about 570’.
@@ -160,7 +160,7 @@ here.
 
 ### Escure Ranch & Towell Falls
 
-[Escure Ranch Guide](../../escure-ranch.md) | [Towell Falls Guide](../../towell-falls.md)
+[Escure Ranch Guide](../../hike/washington/scablands/escure-ranch.md) | [Towell Falls Guide](../../towell-falls.md)
 
 The first thing you notice driving into the parking area is the unique farm buildings across Rock Creek.
 While hiking here, walk over to the buildings and see how to build a building that will last many
@@ -173,7 +173,7 @@ different from the falls. In full runoff, there are 4 falls, but only two are co
 
 ### Quincy Lakes, Ancient Lakes & Dusty Lake
 
-[Ancient & Dusty Lakes Guide](../../breezy-hill-ancient-and-dusty-lakes.md)
+[Ancient & Dusty Lakes Guide](../../hike/washington/scablands/breezy-hill-ancient-and-dusty-lakes.md)
 
 These hikes are a bit more complicated, but well worth your time to see what makes this whole area a
 geological wonder. And there are several falls and lakes to photograph. They are located NE of the Gorge
@@ -181,7 +181,7 @@ Amphitheater.
 
 ### Frenchman's Coulee
 
-[Frenchman's Coulee Guide](../../frenchmans-coulee.md)
+[Frenchman's Coulee Guide](../../hike/washington/scablands/frenchmans-coulee.md)
 
 For those who want to see some great scabland geology, this hike is for you. There are several lakes,
 and sometimes more than three waterfalls. This hike is a must-do.

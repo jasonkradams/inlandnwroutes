@@ -110,11 +110,11 @@ Shore scouting is mandatory. Not suitable for open canoes or recreational kayaks
 
 | Region | Route Guide Link | Description |
 | :--- | :--- | :--- |
-| **Canada** | [Canada Routes](../canada.md) | Kootenay, Columbia, and British Columbia waterway access. |
-| **Washington** | [Washington Routes](../washington.md) | Eastern WA rivers, Spokane River, and lake launches. |
-| **Idaho** | [Idaho Routes](../idaho.md) | Priest Lake, Lake Pend Oreille, St. Joe, and CDA water routes. |
-| **Montana** | [Montana Routes](../montana.md) | Clark Fork, Kootenai River, and MT river access. |
-| **Oregon** | [Oregon Routes](../oregon.md) | Columbia River and Oregon regional paddling destinations. |
+| **Canada** | [Canada Routes](../hike/canada/index.md) | Kootenay, Columbia, and British Columbia waterway access. |
+| **Washington** | [Washington Routes](../hike/washington/index.md) | Eastern WA rivers, Spokane River, and lake launches. |
+| **Idaho** | [Idaho Routes](../hike/idaho/index.md) | Priest Lake, Lake Pend Oreille, St. Joe, and CDA water routes. |
+| **Montana** | [Montana Routes](../hike/montana/index.md) | Clark Fork, Kootenai River, and MT river access. |
+| **Oregon** | [Oregon Routes](../hike/oregon/index.md) | Columbia River and Oregon regional paddling destinations. |
 
 ---
 

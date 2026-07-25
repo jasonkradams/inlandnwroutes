@@ -14,10 +14,10 @@ Explore high-resolution photography showcasing the rugged mountain ranges across
 
 | Mountain Range / Region | High Point / Peak Highlights | Primary Guides |
 | :--- | :--- | :--- |
-| **American Selkirks** | Parker Peak (7,670'), Chimney Rock (7,124') | [Selkirks Guide](../american-selkirks.md) |
+| **American Selkirks** | Parker Peak (7,670'), Chimney Rock (7,124') | [Selkirks Guide](../hike/idaho/american-selkirks/index.md) |
 | **Cabinet Mountains Wilderness** | Snowshoe Peak (8,736'), A Peak (8,634') | [Cabinet Wilderness Guide](../blog/posts/34-cabinet-mountain-wilderness.md) |
 | **Proposed Scotchman Peaks** | Scotchman Peak (7,709') | [Scotchman Guide](../blog/posts/blog-58-proposed-scotchman-peak-wilderness.md) |
-| **Bitterroots & State Line** | Stevens Peak (6,838'), Ward Peak (7,312') | [Silver Valley Guide](../silver-valley-area.md) |
+| **Bitterroots & State Line** | Stevens Peak (6,838'), Ward Peak (7,312') | [Silver Valley Guide](../hike/idaho/silver-valley-area/index.md) |
 | **Cascades & Canadian Rockies** | Fisher Peak (9,336'), Mount Hood (11,249') | [Regional Routes](../index.md) |
 
 ---

@@ -125,17 +125,17 @@ we update the routes.
 
 ## 05-june-2020
 
-[Added Saltese Flats Wetland Trail](saltese-flats-wetland-trail.md)
+[Added Saltese Flats Wetland Trail](hike/washington/spokane-county-parks/saltese-flats-wetland-trail.md)
 
-[*Picture (Image missing)*](saltese-flats-wetland-trail.md)
+[*Picture (Image missing)*](hike/washington/spokane-county-parks/saltese-flats-wetland-trail.md)
 
 ---
 
 ## 30-may-2020
 
-[Added Stevens Peak via West Willow Ridge](stevens-peak-via-west-willow-ridge-6838.md)
+[Added Stevens Peak via West Willow Ridge](hike/idaho/silver-valley-area/stevens-peak-via-west-willow-ridge-6838.md)
 
-[*Picture (Image missing)*](stevens-peak-via-west-willow-ridge-6838.md)
+[*Picture (Image missing)*](hike/idaho/silver-valley-area/stevens-peak-via-west-willow-ridge-6838.md)
 
 ---
 
@@ -157,7 +157,7 @@ we update the routes.
 
 ## 20-april-2020
 
-[Added Cedar Lake in the Cabinet Mountain Wilderness](plants/cedar-lake-5914.md)
+[Added Cedar Lake in the Cabinet Mountain Wilderness](hike/montana/cabinet-mountains-wilderness/cedar-lake-5914.md)
 
 ![Picture](assets/images/img-0101.jpg)
 
@@ -165,17 +165,17 @@ we update the routes.
 
 ## 3-april-2020
 
-[Added Burton Peak in the Selkirks](burton-peak-6844-trail-9.md)
+[Added Burton Peak in the Selkirks](hike/idaho/american-selkirks/burton-peak-6844-trail-9.md)
 
-[*Picture (Image missing)*](burton-peak-6844-trail-9.md)
+[*Picture (Image missing)*](hike/idaho/american-selkirks/burton-peak-6844-trail-9.md)
 
 ---
 
 ## 25-mar-2020
 
-Updated many routes including: [Little Harrison Lake 6271'](little-harrison-lake-6271--peak-7292.md)
-Selkirks [Harrison Lake & Peak 7292'](harrison-lake--peak-7292-trial--217.md). Selkirks
-[Mount Roothaan and Chimney Rock 7124'](mount-roothaan-7326-and-chimney-rock-7124-trail-256.md) Selkirks
+Updated many routes including: [Little Harrison Lake 6271'](hike/idaho/american-selkirks/little-harrison-lake-6271--peak-7292.md)
+Selkirks [Harrison Lake & Peak 7292'](hike/idaho/american-selkirks/harrison-lake--peak-7292-trial--217.md). Selkirks
+[Mount Roothaan and Chimney Rock 7124'](hike/idaho/american-selkirks/mount-roothaan-7326-and-chimney-rock-7124-trail-256.md) Selkirks
 Rock Lake, C.M.W. Granite Lake CMW Lower & Upper Geiger Lakes & Lost Buck Pass CMW Cliff Lake, Chicago Peak,
 St. Paul Peak CMW Ward & Eagle Peaks Bitterroots Lower & Upper Blossom Lakes. Bitterroots & Silver Valley
 Area Red Top. Selkirks Little Harrison Lake. CMW Beehive Lakes. CMW Long Mountain Lake & Peak. Selkirks Hunt

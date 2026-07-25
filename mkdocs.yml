@@ -211,13 +211,203 @@ nav:
 - 14+ Essentials: 14-essentials.md
 - Activities:
   - Hike:
-    - hike.md
-    - St. Joe Lake & Illinois Peak: st-joe-lake--illinois-peak.md
+    - hike/index.md
     - Canada:
-      - The Bugaboos: the-bugaboos.md
+      - The Bugaboos: hike/canada/the-bugaboos.md
+      - Fisher Peak: hike/canada/fisher-peak.md
+      - Lake O'Hara: hike/canada/lake-ohara.md
     - Idaho:
-      - American Selkirks: american-selkirks.md
-#               - Bottleneck Lake Peak: bottleneck-lake--peak.md
+      - American Selkirks:
+        - Bottleneck Lake & Peak: hike/idaho/american-selkirks/bottleneck-lake--peak.md
+        - Beehive Lake 6457': hike/idaho/american-selkirks/beehive-lake-6457.md
+        - Burton Peak 6844' Trail #9: hike/idaho/american-selkirks/burton-peak-6844-trail-9.md
+        - Cutoff Peak 6844' and Smith Peak's North Ridge: hike/idaho/american-selkirks/cutoff-peak-6844-and-smith-peaks-north-ridge.md
+        - Fault Lake 5980' & Hunt Peak 7058' Trail #59: hike/idaho/american-selkirks/fault-lake-5980--hunt-peak-7058-trail-59.md
+        - Fisher Peak Trail #27: hike/idaho/american-selkirks/fisher-peak-trail-27.md
+        - Hunt Lake 5813' Gunsight Peak 7352': hike/idaho/american-selkirks/hunt-lake-5813-gunsight-peak-7352.md
+        - Harrison Lake & Peak 7292' Trail #217: hike/idaho/american-selkirks/harrison-lake--peak-7292-trial--217.md
+        - Little Harrison Lake 6271' & Peak 7292': hike/idaho/american-selkirks/little-harrison-lake-6271--peak-7292.md
+        - Iron Mountain 6426' Trails #180 & 176: hike/idaho/american-selkirks/iron-mountain-6426-trails-180--176.md
+        - Kootenai W.L.R.: hike/idaho/american-selkirks/kootenai-wlr.md
+        - Long Canyon Trail #16: hike/idaho/american-selkirks/long-canyon-trail-16.md
+        - Long Mountain 7265' and Lake: hike/idaho/american-selkirks/long-mountain-7265-and-lake.md
+        - Lookout Lake & Mountain 7627': hike/idaho/american-selkirks/lookout-lake--mountain-7627.md
+        - Mollies & Phoebes Tip: hike/idaho/american-selkirks/mollies--phoebes-tip.md
+        - Mount Roothaan 7326' and Chimney Rock 7124' Trail #256: hike/idaho/american-selkirks/mount-roothaan-7326-and-chimney-rock-7124-trail-256.md
+        - Myrtle Lake 5950' & Myrtle Peak 7122' Trail #286: hike/idaho/american-selkirks/myrtle-lake-5950--myrtle-peak-7122-trail-286.md
+        - Parker Peak 7670': hike/idaho/american-selkirks/parker-peak-7670.md
+        - Pyramid Peak 7355' Trail #13: hike/idaho/american-selkirks/pyramid-peak-7355-trail-13.md
+        - Red Top Mountain 6266' Trail #102: hike/idaho/american-selkirks/red-top-mountain-6266-trail-102.md
+        - Roman Nose Lakes & Peak, Idaho: hike/idaho/american-selkirks/roman-nose-lakes--peak-idaho.md
+        - Russell Peak 6618' Trail #12 & Russell Ridge #92: hike/idaho/american-selkirks/russell-peak-6618-trail-12--russell-ridge-92.md
+        - Pyramid and Ball Lakes Trail #43: hike/idaho/american-selkirks/pyramid-and-ball-lakes-trail-43.md
+        - Selkirk Crest High Traverse: hike/idaho/american-selkirks/selkirk-crest-high-traverse.md
+        - Shorty Peak Trail #95 6515' & Lone Tree Peak 6732': hike/idaho/american-selkirks/shorty-peak-trail-95-6515--lone-tree-peak-6732.md
+        - Snow Lake & Peak: hike/idaho/american-selkirks/snow-l--p.md
+        - Trout 6352' & Big Fisher 6732' Lakes Trail #13 & 41: hike/idaho/american-selkirks/trout-6352--big-fisher-6732-lakes-trail-13--41.md
+        - Two Mouth Lakes to the Wigwams High Traverse: hike/idaho/american-selkirks/two-mouth-lakes-to-the-wigwams-high-traverse.md
+        - Two Mouth Lakes 5785': hike/idaho/american-selkirks/two-mouth-lakes-5785.md
+        - The Wigwams 7033': hike/idaho/american-selkirks/the-wigwams-7033.md
+        - West Fork Lake, Mountain 6416' & Lookout Tower Trail #347: hike/idaho/american-selkirks/west-fork-lake-mountain-6416--lookout-tower-trail-347.md
+      - North Idaho Hikes:
+        - Lake Estelle: hike/idaho/north-idaho-hikes/lake-estelle.md
+        - Moose Mountain Loop Hike: hike/idaho/north-idaho-hikes/moose-mountain-loop-hike.md
+        - American Falls Trail #308: hike/idaho/north-idaho-hikes/american-falls-trail-308.md
+        - Bernard Peak Overlook: hike/idaho/north-idaho-hikes/bernard-peak-overlook.md
+        - Blacktail Mountain: hike/idaho/north-idaho-hikes/blacktail-mountain.md
+        - Blacktail Mountain Overlook: hike/idaho/north-idaho-hikes/blacktail-mountain-overlook.md
+        - Clifty Mountain to Katka Peak: hike/idaho/north-idaho-hikes/clifty-mountain-to-katka-peak.md
+        - North and South Chilco Peak: hike/idaho/north-idaho-hikes/north-and-south-chilco-peak.md
+        - Elk Creek Falls National Recreation Area: hike/idaho/north-idaho-hikes/elk-creek-falls-national-recreation-area.md
+        - Five Lakes Butte: hike/idaho/north-idaho-hikes/five-lakes-butte.md
+        - Giant Cedar Grove Trail: hike/idaho/north-idaho-hikes/giant-cedar-grove-trail.md
+        - Graham Mountain: hike/idaho/north-idaho-hikes/graham-mountain.md
+        - The Green Monarchs: hike/idaho/north-idaho-hikes/the-green-monarchs.md
+        - Little Guard Peak & Lookout: hike/idaho/north-idaho-hikes/little-guard-peak--lookout.md
+        - Lunch Peak & Mount Pend Orielle: hike/idaho/north-idaho-hikes/lunch-peak--mount-pend-orielle.md
+        - Maiden Rock Trail: hike/idaho/north-idaho-hikes/maiden-rock-trail.md
+        - Marie Creek: hike/idaho/north-idaho-hikes/marie-creek.md
+        - Mickinnick Trail: hike/idaho/north-idaho-hikes/mickinnick-trail.md
+        - Mineral Ridge: hike/idaho/north-idaho-hikes/mineral-ridge.md
+        - Morris Creek Old Growth Cedar Grove: hike/idaho/north-idaho-hikes/morris-creek-old-growth-cedar-grove.md
+        - Mount CDA Trail #79 Caribou Ridge: hike/idaho/north-idaho-hikes/mount-cda-trail-79-caribou-ridge.md
+        - Mount CDA Trail #257: hike/idaho/north-idaho-hikes/mount-cda-trail-257.md
+        - Myrtle Peak Trail: hike/idaho/north-idaho-hikes/myrtle-peak-trail.md
+        - Navigation Trail #291: hike/idaho/north-idaho-hikes/navigation-trail-291.md
+        - Packsaddle Mountain: hike/idaho/north-idaho-hikes/packsaddle-mountain.md
+        - Shefoot Mountain: hike/idaho/north-idaho-hikes/shefoot-mountain.md
+        - Short Peak 6515' and Lone Tree Peak 6732': hike/idaho/north-idaho-hikes/short-peak-6515-and-lone-tree-peak-6732.md
+        - Snow Peak: hike/idaho/north-idaho-hikes/snow-peak.md
+        - Tubbs Hill: hike/idaho/north-idaho-hikes/tubbs-hill.md
+        - Q'emlin Park: hike/idaho/north-idaho-hikes/qemlin-park.md
+      - Proposed Scotchman Peaks Wilderness:
+        - Scotchman's Peak: hike/idaho/proposed-scotchman-peaks-wilderness/scotchmans-peak.md
+        - Star Peak: hike/idaho/proposed-scotchman-peaks-wilderness/star-peak.md
+        - Sawtooth Mountain: hike/idaho/proposed-scotchman-peaks-wilderness/sawtooth-mountain.md
+        - Ross Creek Cedars: hike/idaho/proposed-scotchman-peaks-wilderness/ross-creek-cedars.md
+        - Pillick Ridge 6167': hike/idaho/proposed-scotchman-peaks-wilderness/pillick-ridge-6167.md
+      - Silver Valley Area:
+        - Bloom Peak: hike/idaho/silver-valley-area/bloom-peak.md
+        - CDA River Tr 20: hike/idaho/silver-valley-area/cda-river-tr-20.md
+        - Crystal Lake: hike/idaho/silver-valley-area/crystal-lake.md
+        - Elsie Lakes-Striped Peak-Trail 16: hike/idaho/silver-valley-area/elsie-lakes-striped-peak-trail-16.md
+        - Glidden Lakes Upper and Lower: hike/idaho/silver-valley-area/glidden-lakes-upper-and-lower.md
+        - Graham Mountain: hike/idaho/north-idaho-hikes/graham-mountain.md
+        - Trail 7 to Granite Peak: hike/idaho/silver-valley-area/trail-7-to-granite-peak.md
+        - Independence Creek: hike/idaho/silver-valley-area/independence-creek.md
+        - Latour-Frosty Peaks: hike/idaho/silver-valley-area/latour-frosty-peaks.md
+        - Little Guard Lookout: hike/idaho/silver-valley-area/little-guard-lookout.md
+        - Lone (& Long Lake) Lakes: hike/idaho/silver-valley-area/lone-long-lake-lakes.md
+        - Pulaski Tunnel Trail: hike/idaho/silver-valley-area/pulaski-tunnel-trail.md
+        - Revett Lake: hike/idaho/silver-valley-area/revett-lake.md
+        - Settlers Grove of Ancient Cedars: hike/idaho/silver-valley-area/settlers-grove-of-ancient-cedars.md
+        - Shefoot Mountain: hike/idaho/north-idaho-hikes/shefoot-mountain.md
+        - Shoshone Medical Center Wellness Trail: hike/idaho/silver-valley-area/shoshone-medical-center-wellness-trail.md
+        - State Line Ridge Trail: hike/idaho/silver-valley-area/state-line-ridge-trail.md
+        - Upper and Lower Stevens Lake: hike/idaho/silver-valley-area/upper-and-lower-stevens-lake.md
+        - Stevens Peak via West Willow Ridge 6838': hike/idaho/silver-valley-area/stevens-peak-via-west-willow-ridge-6838.md
+        - Stevens Peak SMI Mountain School: hike/idaho/silver-valley-area/stevens-peak-smi-mountain-school.md
+        - Upper & Lower St Regis Lakes: hike/idaho/silver-valley-area/upper--lower-st-regis-lakes.md
+    - Montana:
+      - Bitterroots:
+        - Hub Lake: hike/montana/bitterroots/hub-lake.md
+        - St Joe Lake 6472' Illinois Peak 7690': hike/montana/bitterroots/st-joe-lake--illinois-peak.md
+        - Ward Peak 7312' & Eagle Peak 7333' Trail #250: hike/montana/bitterroots/ward-peak-7312--eagle-peak-7333-trail-250.md
+        - Cliff Lake & Eagle Cliff Peak: hike/montana/bitterroots/cliff-lake--eagle-cliff-peak.md
+      - Proposed Scotchman Peaks Wilderness:
+        - Scotchman's Peak: hike/idaho/proposed-scotchman-peaks-wilderness/scotchmans-peak.md
+        - Spar Peak, Little Spar Lake & Horseshoe Pond: hike/montana/proposed-scotchman-peaks-wilderness/spar-peak-little-spar-lake--horseshoe-pond.md
+        - Star Peak: hike/idaho/proposed-scotchman-peaks-wilderness/star-peak.md
+        - Sawtooth Mountain: hike/idaho/proposed-scotchman-peaks-wilderness/sawtooth-mountain.md
+        - Ross Creek Cedars: hike/idaho/proposed-scotchman-peaks-wilderness/ross-creek-cedars.md
+        - Pillick Ridge 6167': hike/idaho/proposed-scotchman-peaks-wilderness/pillick-ridge-6167.md
+      - Cabinet Mountains Wilderness:
+        - A Peak 8,634': hike/montana/cabinet-mountains-wilderness/a-peak-8634.md
+        - Bear Lake: hike/montana/cabinet-mountains-wilderness/bear-lake.md
+        - Baree Lake: hike/montana/cabinet-mountains-wilderness/baree-lake.md
+        - Bramlet Lake: hike/montana/cabinet-mountains-wilderness/bramlet-lake.md
+        - Cabinet Divide Trail #360: hike/montana/cabinet-mountains-wilderness/cabinet-divide-trail-360.md
+        - Cedar Lake 5914': hike/montana/cabinet-mountains-wilderness/cedar-lake-5914.md
+        - Cliff/St P/Rock P: hike/montana/cabinet-mountains-wilderness/cliffst-p-rock-p.md
+        - Chicago Peak: hike/montana/cabinet-mountains-wilderness/chicago-peak.md
+        - Dome Mountain: hike/montana/cabinet-mountains-wilderness/dome-mountain.md
+        - Engle Peak 7583' Trail #926: hike/montana/cabinet-mountains-wilderness/engle-peak-7583-trail-926.md
+        - Geiger L/Lost Buck Pass: hike/montana/cabinet-mountains-wilderness/geiger-llost-buck-pass.md
+        - Granite Lake 4629': hike/montana/cabinet-mountains-wilderness/granite-lake-4629.md
+        - Leigh Lake: hike/montana/cabinet-mountains-wilderness/leigh-lake.md
+        - Little Ibex Lake: hike/montana/cabinet-mountains-wilderness/little-ibex-lake.md
+        - Minor Lake: hike/montana/cabinet-mountains-wilderness/minor-lake.md
+        - Rock Lake 4958': hike/montana/cabinet-mountains-wilderness/rock-lake-4958.md
+        - Scenery Mountain: hike/montana/cabinet-mountains-wilderness/scenery-mountain.md
+        - Sky/Hanging Valley: hike/montana/cabinet-mountains-wilderness/skyhanging-valley.md
+        - Snowshoe Peak 8738': hike/montana/cabinet-mountains-wilderness/snowshoe-peak-8738.md
+        - St Paul Lake: hike/montana/cabinet-mountains-wilderness/st-paul-lake.md
+        - Taylor Peak: hike/montana/cabinet-mountains-wilderness/taylor-peak.md
+        - William Grambauer: hike/montana/cabinet-mountains-wilderness/william-grambauer.md
+        - Moran Basin: hike/montana/cabinet-mountains-wilderness/moran-basin.md
+        - Parmenter Lake: hike/montana/cabinet-mountains-wilderness/parmenter-lake.md
+        - Wanless Lake: hike/montana/cabinet-mountains-wilderness/wanless-lake.md
+        - Wanless Lake via Trail #912: hike/montana/cabinet-mountains-wilderness/wanless-lake-via-trail-912.md
+        - Wanless Lake via Trail #921: hike/montana/cabinet-mountains-wilderness/wanless-lake-via-trail-921.md
+        - Wanless Lake via Trail's #656, #360, #912: hike/montana/cabinet-mountains-wilderness/wanless-lake-via-trails-656-360-912.md
+      - Lolo National Forest:
+        - Blossom Lake: hike/montana/lolo-national-forest/blossom-lake.md
+        - Cliff Lake & Eagle Cliff Peak: hike/montana/bitterroots/cliff-lake--eagle-cliff-peak.md
+        - Cube Iron Mt: hike/montana/lolo-national-forest/cube-iron-mt.md
+        - Heart Lake: hike/montana/lolo-national-forest/heart-lake.md
+        - Hub Lake & Dipper Falls: hike/montana/lolo-national-forest/hub-lake--dipper-falls.md
+        - Revett Lake: hike/idaho/silver-valley-area/revett-lake.md
+        - Siamese Lake Loop: hike/montana/lolo-national-forest/siamese-lake-loop.md
+        - St Regis Lakes Upper & Lower: hike/montana/lolo-national-forest/st-regis-lakes-upper--lower.md
+        - Terrace Lake: hike/montana/lolo-national-forest/terrace-lake.md
+    - Oregon:
+      - John Day Fossil Bed National Monument: hike/oregon/john-day-fossil-bed-national-monument.md
+      - Silver Falls S.P.: hike/oregon/silver-falls-sp.md
+      - Smith Rocks: hike/oregon/smith-rocks.md
+      - South Sister Mountain 10,358': hike/oregon/south-sister-mountain-10358.md
+    - Washington:
+      - Colville National Forest:
+        - Hall Mountain 6233' Trail #588: hike/washington/colville-national-forest/hall-mountain-6233-trail-588.md
+      - Scablands:
+        - Banks Lake North Trail: hike/washington/scablands/banks-lake-north-trail.md
+        - Banks Lake: hike/washington/scablands/banks-lake.md
+        - Breezy Hill, Ancient and Dusty Lakes: hike/washington/scablands/breezy-hill-ancient-and-dusty-lakes.md
+        - Columbia National Wildlife Refuge: hike/washington/scablands/columbia-national-wildlife-refuge.md
+        - Escure Ranch: hike/washington/scablands/escure-ranch.md
+        - Fishtrap Lake: hike/washington/scablands/fishtrap-lake.md
+        - Frenchman's Coulee: hike/washington/scablands/frenchmans-coulee.md
+        - Ginkgo Petrified Forest: hike/washington/scablands/ginkgo-petrified-forest.md
+        - Hawk Creek S P: hike/washington/scablands/hawk-creek-s-p.md
+        - Hog Canyon & Falls: hike/washington/scablands/hog-canyon--falls.md
+        - Juniper Dunes Wilderness: hike/washington/scablands/juniper-dunes-wilderness.md
+        - Lake Lenore Caves & Mesa: hike/washington/scablands/lake-lenore-caves--mesa.md
+        - Lakeview Ranch: hike/washington/scablands/lakeview-ranch.md
+        - Lions Ferry to Palouse Falls: hike/washington/scablands/lions-ferry-to-palouse-falls.md
+        - Northrup Canyon: hike/washington/scablands/northrup-canyon.md
+        - Odessa Area: hike/washington/scablands/odessa-area.md
+        - Palouse Falls State Park Heritage Site: hike/washington/scablands/palouse-falls-state-park-heritage-site.md
+        - Quincy Lakes: hike/washington/scablands/quincy-lakes.md
+        - Steamboat Rock: hike/washington/scablands/steamboat-rock.md
+        - Sun Lakes S P Dry Falls Area: hike/washington/scablands/sun-lakes-s-p-dry-falls-area.md
+        - Turnbull N.W.R.: hike/washington/scablands/turnbull-nwr.md
+        - Twin Lakes: hike/washington/scablands/twin-lakes1.md
+      - Spokane County Parks:
+        - Saltese Flats Wetland Trail: hike/washington/spokane-county-parks/saltese-flats-wetland-trail.md
+        - Spokane County Conservation Futures: hike/washington/spokane-county-parks/spokane-county-conservation-futures.md
+      - Eastern Washington:
+        - 13 Mile Canyon Trail #23: hike/washington/eastern-washington/13-mile-canyon-trail-23.md
+        - Abercrombie Mountain: hike/washington/eastern-washington/abercrombie-mountain.md
+        - Crawford S.P., Gardner Cave: hike/washington/eastern-washington/crawford-sp-gardner-cave.md
+        - Gypsy Peak: hike/washington/eastern-washington/gypsy-peak.md
+        - Hoodoo Canyon: hike/washington/eastern-washington/hoodoo-canyon.md
+        - Hooknose Mountain: hike/washington/eastern-washington/hooknose-mountain.md
+        - Kalispell Rock: hike/washington/eastern-washington/kalispell-rock.md
+        - Roosevelt Grove of Ancient Cedars: hike/washington/eastern-washington/roosevelt-grove-of-ancient-cedars.md
+        - Sullivan Lake Shore Line: hike/washington/eastern-washington/sullivan-lake-shore-line.md
+    - Mexico:
+      - Sayulita, Nayarit: hike/mexico/sayulita-nayarit.md
+    - South America:
+      - Patagonia: hike/south-america/patagonia.md
 - Flora & Wildlife:
   - Baker's Mariposa Lily: plants/bakers-mariposa-lily.md
   - Orange Day Lily: plants/orange-day-lily.md
@@ -230,105 +420,45 @@ nav:
   - Anderson Lake / Thompson Lake Launch: paddle/anderson-lakethompson-lake-launch.md
   - Anthony Lakes Mountain Resort: ski/anthony-lakes-mt-resort.md
   - Badger Lake Launch: paddle/badger-lake-launch.md
-  - Banks Lake: banks-lake.md
   - Banks Lake Kayak & Hike: banks-lake-kayak-and-hike.md
-  - Banks Lake North Trail: banks-lake-north-trail.md
-  - Baree Lake: baree-lake.md
   - Bead Lake Launch: paddle/bead-lake-launch.md
-  - Bear Lake: bear-lake.md
   - Bear Lake Launch: paddle/bear-lake-launch.md
-  - Beehive Lake 6457: beehive-lake-6457.md
   - Black Lake Launch: paddle/black-lake-launch.md
-  - Blossom Lake: blossom-lake.md
   - Bonnie Lake Landing: paddle/bonnie-lake-landing.md
-  - Bottleneck Lake & Peak: bottleneck-lake--peak.md
-  - Bramlet Lake: bramlet-lake.md
-  - Breezy Hill Ancient and Dusty Lakes: breezy-hill-ancient-and-dusty-lakes.md
-  - Cedar Lake 5914: plants/cedar-lake-5914.md
   - Clear Lake: clear-lake.md
   - Clear Lake Launch: paddle/clear-lake-launch.md
-  - Cliff Lake & Eagle Cliff Peak: cliff-lake--eagle-cliff-peak.md
-  - Crystal Lake: crystal-lake.md
   - Davis Lake Launch: paddle/davis-lake-launch.md
   - Dry Falls & Sun Lakes State Park: dry-falls-sun-lakes-sp.md
   - Echo Bay & Lake Pend Oreille (2,057'): echo-bay-lake-pend-orielle.md
   - Eloika Lake Launch: paddle/eloika-lake-launch.md
-  - Elsie Lakes Striped Peak Trail 16: elsie-lakes-striped-peak-trail-16.md
-  - Fault Lake 5980 Hunt Peak 7058 Trail 59: fault-lake-5980--hunt-peak-7058-trail-59.md
   - Fernan Lake Launch East: paddle/fernan-lake-launch-east.md
   - Fernan Lake Park West: fernan-lake-park-west.md
-  - Fishtrap Lake: fishtrap-lake.md
   - Fishtrap Lake Wa: fishtrap-lake-wa.md
-  - Five Lakes Butte: five-lakes-butte.md
-  - Glidden Lakes Upper and Lower: glidden-lakes-upper-and-lower.md
-  - Granite Lake 4629: granite-lake-4629.md
-  - 'Harrison Lake & Peak 7292 (Trail #217 & #6)': harrison-lake--peak-7292-trial--217.md
   - Hauser Lake Park Launch: paddle/hauser-lake-park-launch.md
-  - Heart Lake: heart-lake.md
   - Heyburn S.P. Lake Chatcolet Launch: paddle/heyburn-splakechatcolet-launch.md
-  - Hub Lake: hub-lake.md
-  - Hub Lake & Dipper Falls: hub-lake--dipper-falls.md
-  - Hunt Lake (5,813') & Gunsight Peak (7,352'): hunt-lake-5813-gunsight-peak-7352.md
   - Killarney Lake Launch: paddle/killarney-lake-launch.md
   - Kintla Lake (4,008'): kintla-lake.md
-  - 'Lake Estelle & Moose Lake Trail System (Trail #36)': lake-estelle.md
-  - Lake Lenore Caves & Mesa: lake-lenore-caves--mesa.md
   - Lake Louise Ski Resort: ski/lake-louise-ski-resort.md
-  - Lake O'Hara (6,939'): lake-ohara.md
   - Lakes: lakes/index.md
   - Lakeview Launch: paddle/lakeview-launch.md
-  - Lakeview Ranch: lakeview-ranch.md
-  - Leigh Lake: leigh-lake.md
   - Leigh Lake Falls Lower: leigh-lake-falls-lower.md
   - Leigh Lake Falls Upper: leigh-lake-falls-upper.md
   - Liberty Lake Regional Park: liberty-lake-regional-park.md
-  - Little Harrison Lake (6,271') & Peak 7292: little-harrison-lake-6271--peak-7292.md
   - Little Harrison Lake Falls: little-harrison-lake-falls.md
-  - Little Ibex Lake: little-ibex-lake.md
-  - Lone & Long Lakes: lone-long-lake-lakes.md
   - Long Lake Launch: paddle/long-lake-launch.md
-  - Long Mountain Peak 7,265' & Lake: long-mountain-7265-and-lake.md
-  - Lookout Lake  Mountain 7627: lookout-lake--mountain-7627.md
   - Loon Lake Launch: paddle/loon-lake-launch.md
   - Lower Twin Lakes Launch: paddle/lower-twin-lakes-launch.md
   - Marshall Lake Launch: paddle/marshall-lake-launch.md
   - Medical Lake Launch: paddle/medical-lake-launch.md
   - Medimont Lake Launch: paddle/medimont-lake-launch.md
-  - Minor Lake: minor-lake.md
-  - Myrtle Lake 5950 & Myrtle Peak 7122 Trail 286: myrtle-lake-5950--myrtle-peak-7122-trail-286.md
   - Newman Lake Road Launch: newman-lake-road.md
-  - Parmenter Lake: parmenter-lake.md
   - Potholes Reservoir: potholes-reservoir.md
-  - Pyramid and Ball Lakes Trail 43: pyramid-and-ball-lakes-trail-43.md
-  - Quincy Lakes: quincy-lakes.md
-  - 'Revett Lake & Granite Peak (Trail #9)': revett-lake.md
-  - Rock Lake 4958: rock-lake-4958.md
-  - 'Roman Nose Lakes & Peak (Trail #160 & #165)': roman-nose-lakes--peak-idaho.md
   - Rose Lake Launch: paddle/rose-lake-launch.md
-  - Siamese Lake Loop: siamese-lake-loop.md
-  - 'Snow Lake & Peak (Trail #163)': snow-l--p.md
-  - Spar Peak Little Spar Lake  Horseshoe Pond: spar-peak-little-spar-lake--horseshoe-pond.md
   - Spirit Lake Boat Launch: paddle/spirit-lake-boat-launch.md
   - St Joe Lake 6472Rsquo Illinois Peak 7690Rsquo: st-joe-lake-6472-illinois-peak-7690.md
-  - St Paul Lake: st-paul-lake.md
   - St Paul Lake Falls: st-paul-lake-falls.md
-  - St Regis Lakes Upper  Lower: st-regis-lakes-upper--lower.md
-  - Sullivan Lake Shore Line: sullivan-lake-shore-line.md
-  - Sun Lakes S P Dry Falls Area: sun-lakes-s-p-dry-falls-area.md
-  - Terrace Lake: terrace-lake.md
-  - Trout 6352  Big Fisher 6732 Lakes Trail 13  41: trout-6352--big-fisher-6732-lakes-trail-13--41.md
   - Twin Lakes Narrows: twin-lakes-narrows.md
-  - Twin Lakes1: twin-lakes1.md
-  - Two Mouth Lakes 5785: two-mouth-lakes-5785.md
-  - Two Mouth Lakes To The Wigwams High Traverse: two-mouth-lakes-to-the-wigwams-high-traverse.md
-  - Upper  Lower St Regis Lakes: upper--lower-st-regis-lakes.md
-  - Upper And Lower Stevens Lake: upper-and-lower-stevens-lake.md
   - Upper Twin Lakes Launch: paddle/upper-twin-lakes-launch.md
-  - 'Wanless Lake (Trail #912)': wanless-lake.md
-  - Wanless Lake Via Trail 921: wanless-lake-via-trail-921.md
-  - Wanless Lake Via Trailrsquos 656 360 912: wanless-lake-via-trails-656-360-912.md
-  - 'Wanless Lake via Swamp Creek (Trail #912 & #912A)': wanless-lake-via-trail-912.md
-  - West Fork Lake Mountain 6416  Lookout Tower Trail 347: west-fork-lake-mountain-6416--lookout-tower-trail-347.md
   - West Medical Lake: west-medical-lake.md
 - Paddling & Rivers:
   - 3Rd Street Launch: paddle/3rd-street-launch.md
@@ -351,7 +481,6 @@ nav:
   - Cavanaugh Bay Launch: paddle/cavanaugh-bay-launch.md
   - Cherry Bend Park Launch: paddle/cherry-bend-park-launch.md
   - Cocolalla Access Launch: paddle/cocolalla-access-launch.md
-  - Coeur d'Alene River Trail 20: cda-river-tr-20.md
   - Coolin Bay Docks And Ramp: paddle/coolin-bay-docks-and-ramp.md
   - Cougar Bay Landing: paddle/cougar-bay-landing.md
   - East Riverview Landinglaunch: paddle/east-riverview-landinglaunch.md
@@ -390,7 +519,6 @@ nav:
   - Spokane Point Launch: paddle/spokane-point-launch.md
   - Sportsman Access Launch: paddle/sportsman-access-launch.md
   - Springy Point Camp Ground Launch: paddle/springy-point-camp-ground-launch.md
-  - Steamboat Rock: steamboat-rock.md
   - Streams To Rivers: streams-to-rivers.md
   - Sun Up Bay Launch: paddle/sun-up-bay-launch.md
   - Sunnyside Park Launch: paddle/sunnyside-park-launch.md
@@ -399,91 +527,38 @@ nav:
   - Upper Cda River Landing: paddle/upper-cda-river-landing.md
   - Windy Bay Launch: paddle/windy-bay-launch.md
 - Peaks & Mountains:
-  - A Peak 8634: a-peak-8634.md
-  - Abercrombie Mountain: abercrombie-mountain.md
   - Apex Mountain Resort: ski/apex-mountain-resort.md
-  - Bernard Peak Overlook: bernard-peak-overlook.md
-  - Blacktail Mountain: blacktail-mountain.md
-  - Blacktail Mountain Overlook: blacktail-mountain-overlook.md
   - Blacktail Mountain Ski Area: ski/blacktail-mountain-ski-area.md
-  - Bloom Peak: bloom-peak.md
   - Bridger Bowl: bridger-bowl.md
   - Brundage Mountain Resort: ski/brundage-mountain-resort.md
-  - Burton Peak 6844 Trail 9: burton-peak-6844-trail-9.md
-  - Cabinet Mountains Wilderness: cabinet-mountains-wilderness.md
-  - Chicago Peak: chicago-peak.md
-  - Clifty Mountain to Katka Peak: clifty-mountain-to-katka-peak.md
-  - Cutoff Peak 6844 and Smith Peak's North Ridge: cutoff-peak-6844-and-smith-peaks-north-ridge.md
-  - Dome Mountain: dome-mountain.md
-  - Engle Peak 7583 Trail 926: engle-peak-7583-trail-926.md
-  - Fisher Peak: fisher-peak.md
-  - Fisher Peak Trail 27: fisher-peak-trail-27.md
-  - Graham Mountain: graham-mountain.md
-  - Gypsy Peak: gypsy-peak.md
-  - Hall Mountain 6233 Trail 588: hall-mountain-6233-trail-588.md
-  - Hooknose Mountain: hooknose-mountain.md
-  - Iron Mountain 6426 Trails 180 & 176: iron-mountain-6426-trails-180--176.md
-  - Latour Frosty Peaks: latour-frosty-peaks.md
-  - Little Guard Peak  Lookout: little-guard-peak--lookout.md
   - Lunch In The Mountains: lunch-in-the-mountains.md
-  - Lunch Peak  Mount Pend Orielle: lunch-peak--mount-pend-orielle.md
-  - Mineral Ridge: mineral-ridge.md
   - Mineral Ridge Launch: paddle/mineral-ridge-launch.md
   - Mission Ridge Ski & Board Resort: ski/mission-ridge-ski--board-resort.md
-  - Moose Mountain Loop Hike: moose-mountain-loop-hike.md
-  - Mount Cda Trail 79 Caribou Ridge: mount-cda-trail-79-caribou-ridge.md
   - Mountain Deathcamas: plants/mountain-deathcamas.md
   - Mountain Kittentail: plants/mountain-kittentail.md
   - Mountain Spiraea: plants/mountain-spiraea.md
   - Mountains: mountains/index.md
-  - Myrtle Peak Trail: myrtle-peak-trail.md
-  - North And South Chilco Peak: north-and-south-chilco-peak.md
-  - Packsaddle Mountain: packsaddle-mountain.md
   - Panorama Mountain Resort: ski/panorama-mountain-resort.md
-  - Parker Peak 7670: parker-peak-7670.md
-  - Pillick Ridge 6167: pillick-ridge-6167.md
   - Powder Mountain Resort: ski/powder-mountain-resort.md
-  - Proposed Scotchman Peaks Wilderness: proposed-scotchman-peaks-wilderness.md
-  - Pyramid Peak (7355') Trail 13: pyramid-peak-7355-trail-13.md
   - Red Lodge Mountain: red-lodge-mountain.md
   - Red Mountain Resort: ski/red-mountain-resort.md
-  - Red Top Mountain 6266 Trail 102: red-top-mountain-6266-trail-102.md
   - Ridges: ridges.md
-  - Russell Peak 6618 Trail 12  Russell Ridge 92: russell-peak-6618-trail-12--russell-ridge-92.md
   - Saltese Highlands Summit Loop: saltese-highlands-summit-loop.md
-  - Sawtooth Mountain: sawtooth-mountain.md
-  - Scenery Mountain: scenery-mountain.md
   - Scenic Lodge Rathdrum Mountain: scenic-lodge-rathdrum-mountain.md
   - Schweitzer Mountain Resort: ski/schweitzer-mountain-resort.md
-  - Scotchmans Peak: scotchmans-peak.md
-  - Selkirk Crest High Traverse: selkirk-crest-high-traverse.md
-  - Shefoot Mountain: shefoot-mountain.md
-  - Short Peak 6515 And Lone Tree Peak 6732: short-peak-6515-and-lone-tree-peak-6732.md
-  - Shorty Peak Trail 95 6515  Lone Tree Peak 6732: shorty-peak-trail-95-6515--lone-tree-peak-6732.md
   - Silver Mountain Resort: ski/silver-mountain-resort.md
   - Silver Star Mountain Resort: ski/silver-star-mountain-resort.md
-  - Snow Peak: snow-peak.md
-  - Snowshoe Peak 8738: snowshoe-peak-8738.md
   - Solitude Mountain: solitude-mountain.md
   - Soup For Lunch In The Mountains: recipes/soup-for-lunch-in-the-mountains.md
-  - South Sister Mountain 10358: south-sister-mountain-10358.md
   - Spokane Mountaineers: spokane-mountaineers.md
-  - Star Peak: star-peak.md
-  - State Line Ridge Trail: state-line-ridge-trail.md
-  - Stevens Peak Smi Mountain School: stevens-peak-smi-mountain-school.md
-  - Stevens Peak Via West Willow Ridge 6838: stevens-peak-via-west-willow-ridge-6838.md
   - Sun Peaks Resort: ski/sun-peaks-resort.md
-  - Taylor Peak: taylor-peak.md
-  - Trail 7 To Granite Peak: trail-7-to-granite-peak.md
   - Turner Mountain Ski Area: ski/turner-mountain-ski-area.md
-  - Ward Peak 7312  Eagle Peak 7333 Trail 250: ward-peak-7312--eagle-peak-7333-trail-250.md
   - Whitefish Mountain Resort: ski/whitefish-mountain-resort.md
 - Store:
   - Store/C1/Featured_Products: store/c1/Featured_Products.md
   - Store/P1/Washington: store/p1/WASHINGTON.md
 - Trails & Scrambles:
   - 0Xeye Daisy: plants/0xeye-daisy.md
-  - 13 Mile Canyon Trail 23: 13-mile-canyon-trail-23.md
   - About: about/index.md
   - About Us: about/about-us.md
   - Adages: adages.md
@@ -503,29 +578,21 @@ nav:
   - Birdsfoot Trefoil: plants/birdsfoot-trefoil.md
   - Bishops Marina: paddle/bishops-marina.md
   - Bitterroot: bitterroot.md
-  - Bitterroots: bitterroots.md
   - Blank: blank.md
   - Blue Diamond Marina: paddle/blue-diamond-marina.md
   - Bluewood: bluewood.md
   - Boundrary Dam: boundary-dam.md
   - Brides Bonnet: plants/brides-bonnet.md
   - Broad Leaf Sweet Pea: broad-leaf-sweet-pea.md
-  - Cabinet Divide Trail 360: cabinet-divide-trail-360.md
   - California Creek: california-creek.md
   - Camas: plants/camas.md
   - Camera Corral: camera-corral.md
-  - Canada Outdoor Routes & Regional Guide: canada.md
   - Chicken And Rice Soup: recipes/chicken-and-rice-soup.md
   - Chicken Mushroom Mashed Potoaoe Soup: recipes/chicken-mushroom-mashed-potato-soup.md
   - Chris Herath: chris-herath.md
   - Clammy Cabbage Over Pasta: plants/clammy-cabbage-over-pasta.md
   - Cliff Penstemon: cliff-penstemon.md
-  - Cliffst P Rock P: cliffst-p-rock-p.md
-  - Columbia National Wildlife Refuge: columbia-national-wildlife-refuge.md
-  - Colville National Forest: colville-national-forest.md
   - Contact: about/contact.md
-  - Crawford State Park & Gardner Cave: crawford-sp-gardner-cave.md
-  - Cube Iron Mt: cube-iron-mt.md
   - Dark Throated Shooting Star: dark-throated-shooting-star.md
   - David Crafton: david-crafton.md
   - Denton Slough: denton-slough.md
@@ -536,7 +603,6 @@ nav:
   - Eastern Washington1: eastern-washington1.md
   - Easy Quality Gravy: recipes/easy-quality-gravy.md
   - Elephants Head: plants/elephants-head.md
-  - Escure Ranch: escure-ranch.md
   - Essays: essays.md
   - Evans Outdoor Adventures: evans-outdoor-adventures.md
   - Faces in Nature: faces.md
@@ -544,91 +610,58 @@ nav:
   - Finch Arboretum: finch-arboretum.md
   - Fireweed: fireweed.md
   - Fireworks: fireworks.md
-  - Frenchman's Coulee: frenchmans-coulee.md
   - Fungi   Rooms: fungi---rooms.md
   - Gallery: gallery.md
   - Gateway Regional Park: gateway-regional-park.md
   - Gear Chic: gear-chic.md
   - Gear David: gear-david.md
-  - Geiger Llost Buck Pass: geiger-llost-buck-pass.md
   - Gentian: gentian.md
-  - Giant Cedar Grove Trail: plants/giant-cedar-grove-trail.md
-  - Ginkgo Petrified Forest: ginkgo-petrified-forest.md
   - Glacier Lilies: plants/glacier-lilies.md
   - Glacier Np: glacier-np.md
   - Granite Creek Landing: paddle/granite-creek-landing.md
   - Grass Widow: plants/grass-widow.md
   - Harrison Slough: harrison-slough.md
-  - Hawk Creek S P: hawk-creek-s-p.md
   - Hawleys Landing: paddle/hawleys-landing.md
   - Higgins Point Launc: higgins-point-launc.md
-  - Hike: hike.md
   - Hiking Boise: hiking-boise.md
   - Hiking From Here: hiking-from-here.md
   - Hints: hints.md
   - Home: home.md
-  - Hoodoo Canyon: hoodoo-canyon.md
   - Hop Goodena: hop-goodena.md
   - Hot Springs Rev3: hot-springs-rev3.md
-  - Idaho: idaho.md
   - Idaho A Climbing Guide: idaho-a-climbing-guide.md
   - Idaho Trails Association: idaho-trails-association.md
-  - Independence Creek: independence-creek.md
   - Index Page: index-page.md
   - Inland NW Routes Blog: blog/index.md
   - Inland Nw Hikers: inland-nw-hikers.md
   - Instant Birthday Cake: recipes/instant-birthday-cake.md
-  - John Day Fossil Bed National Monument: john-day-fossil-bed-national-monument.md
-  - Juniper Dunes Wilderness: juniper-dunes-wilderness.md
-  - Kalispell Rock: kalispell-rock.md
   - Kinnikinnick: kinnikinnick.md
-  - Kootenai National Wildlife Refuge: kootenai-wlr.md
   - Large Flower Clarkia: plants/large-flower-clarkia.md
   - Large Flowered Triteleia: plants/large-flowered-triteleia.md
   - Large Hop Clover: large-hop-clover.md
   - Lewis Monkey Flower: plants/lewis-monkey-flower.md
   - Liability Release: about/liability-release.md
-  - Little Guard Lookout: little-guard-lookout.md
-  - Lolo National Forest: lolo-national-forest.md
-  - Long Canyon Trail 16: long-canyon-trail-16.md
   - Lupine: lupine.md
-  - Maiden Rock Trail: maiden-rock-trail.md
   - Managing Agencies: managing-agencies.md
-  - Marie Creek: marie-creek.md
   - Marmot Basin: marmot-basin.md
   - Meadowsweet: plants/meadowsweet.md
   - Medical Information: medical-information.md
   - Mertens Coralroot: plants/mertens-coralroot.md
-  - Mexico: mexico.md
-  - Mickinnick Trail: mickinnick-trail.md
-  - Mollies  Phoebes Tip: mollies--phoebes-tip.md
   - Moma Morenos Chicken Green Chili Soup: recipes/moma-morenos-chicken-green-chili-soup.md
-  - Montana: montana.md
-  - Moran Basin: moran-basin.md
-  - Morris Creek Old Growth Cedar Grove: plants/morris-creek-old-growth-cedar-grove.md
   - Morton Slough: morton-slough.md
-  - Mount CDA Trail 257: mount-cda-trail-257.md
   - Mount Hood Meadows: mount-hood-meadows.md
   - Mount Norquay: mount-norquay.md
-  - Mount Roothaan (7326') and Chimney Rock (7124') Trail 256: mount-roothaan-7326-and-chimney-rock-7124-trail-256.md
-  - Navigation Trail 291: navigation-trail-291.md
   - Nic Dike Road Landing: paddle/nic-dike-road-landing.md
   - Nine Mile Recreation Area: nine-mile-recreation-area.md
-  - North Idaho Hikes: north-idaho-hikes.md
-  - Northrup Canyon: northrup-canyon.md
   - Notes: notes.md
   - Noxon Ramp: paddle/noxon-ramp.md
   - Nuttalls Larkspur: plants/nuttalls-larkspur.md
-  - Odessa Area: odessa-area.md
-  - Oregon: oregon.md
   - Outhouses: outhouses.md
   - Panorama: panorama.md
-  - Patagonia: patagonia.md
   - Phenomenon: phenomenon.md
   - Photography: photography.md
   - Poems: poems.md
   - Polemonium: plants/polemonium.md
-  - Qemlin Park: qemlin-park.md
   - Quotes: quotes.md
   - Red Dead Nettle: plants/red-dead-nettle.md
   - Red Indian Paint Brush: plants/red-indian-paint-brush.md
@@ -636,32 +669,21 @@ nav:
   - Red Twinberry: plants/red-twinberry.md
   - Restaurants And Pubs: restaurants-and-pubs.md
   - Rocks: rocks.md
-  - Roosevelt Grove Of Ancient Cedars: plants/roosevelt-grove-of-ancient-cedars.md
-  - Ross Creek Cedars: plants/ross-creek-cedars.md
   - Route Title Here: route_template.md
   - Sagebrush Mariposa: plants/sagebrush-mariposa.md
   - Saint Johns Wort: plants/saint-johns-wort.md
-  - Saltese Flats Wetland Trail: saltese-flats-wetland-trail.md
   - Sanders Beach Landing: paddle/sanders-beach-landing.md
   - Sanders County: sanders-county.md
-  - Sayulita Nayarit: sayulita-nayarit.md
   - Scarlet Beebalm: plants/scarlet-beebalm.md
   - Scarlet Gilia: plants/scarlet-gilia.md
   - Scotchman No 2: scotchman-no-2.md
   - Service Berry Saskatoon: plants/service-berry-saskatoon.md
-  - Settlers Grove Of Ancient Cedars: plants/settlers-grove-of-ancient-cedars.md
-  - Shoshone Medical Center Wellness Trail: shoshone-medical-center-wellness-trail.md
   - Showy Phlox: plants/showy-phlox.md
   - Shrubby Cinquefoil: plants/shrubby-cinquefoil.md
-  - Silver Valley Area: silver-valley-area.md
   - Silverlight: silverlight.md
   - Silverstreak Zipline Tours: silverstreak-zipline-tours.md
   - Silvertip Landing: paddle/silvertip-landing.md
   - Sitka Valerian: plants/sitka-valerian.md
-  - Skyhanging Valley: skyhanging-valley.md
-  - Smith Rocks: smith-rocks.md
-  - South America: south-america.md
-  - Spokane County Conservation Futures: spokane-county-conservation-futures.md
   - Spokane County Parks Conservation Futures Properties: spokane-county-parks-conservation-futures-properties.md
   - Spreading Dogbane: plants/spreading-dogbane.md
   - Spring Beauties: plants/spring-beauties.md
@@ -671,9 +693,6 @@ nav:
   - Talache Landing: paddle/talache-landing.md
   - Tansy: plants/tansy.md
   - Tcda Curried Rice: recipes/tcda-curried-rice.md
-  - The Bugaboos: the-bugaboos.md
-  - The Green Monarchs: the-green-monarchs.md
-  - The Wigwams 7033: the-wigwams-7033.md
   - Thimbelberry: plants/thimbelberry.md
   - Threadleaf Phacilia: plants/threadleaf-phacilia.md
   - Threeleaf Foamflower: plants/threeleaf-foamflower.md
@@ -681,13 +700,9 @@ nav:
   - Trails: trails/index.md
   - Trails End Brewery: trails-end-brewery.md
   - Trillium: plants/trillium.md
-  - Tubbs Hill: tubbs-hill.md
-  - Turnbull Nwr: turnbull-nwr.md
   - Uncle Chucks Manhatten Style Clam Chowder: recipes/uncle-chucks-manhatten-style-clam-chowder.md
   - Uncle Chucks World Famous Blondies: recipes/uncle-chucks-world-famous-blondies.md
   - Vanette Leighty: vanette-leighty.md
-  - Washington Scablands: washington-scablands.md
-  - Washington State Outdoor Routes & Regional Guide: washington.md
   - Washington Trails Association: washington-trails-association.md
   - Weather Thunderstorms And Lightning: weather-thunderstorms-and-lightning.md
   - Website Notes: website-notes.md
@@ -696,7 +711,6 @@ nav:
   - Whiteswan Provintial Park: whiteswan-provintial-park.md
   - Wild Honeysuckle: plants/wild-honeysuckle.md
   - Wildlife: wildlife.md
-  - William Grambauer: william-grambauer.md
   - Willow Creek West Cascades: willow-creek-west-cascades.md
   - Winter: winter.md
   - Woodland Pinedrop: plants/woodland-pinedrop.md
@@ -705,35 +719,29 @@ nav:
   - Yellow Columbine: plants/yellow-columbine.md
 - Waterfalls:
   - American Falls: american-falls.md
-  - American Falls Trail 308: american-falls-trail-308.md
   - Cascade Falls: cascade-falls.md
   - Copper Falls: copper-falls.md
   - Crystal Falls: crystal-falls.md
   - Dipper Falls: dipper-falls.md
   - Douglas Falls Grange Parkb: douglas-falls-grange-parkb.md
-  - Elk Creek Falls National Recreation Area: elk-creek-falls-national-recreation-area.md
   - Elk Creek Falls Recreation Area: elk-creek-falls-recreation-area.md
   - Falls Creek Falls Idaho: falls-creek-falls-idaho.md
   - Fern Shadow  Centennial Falls: fern-shadow--centennial-falls.md
   - Granite Falls: granite-falls.md
   - Graves Creek Falls: graves-creek-falls.md
   - Hawk Creek Falls Sp: hawk-creek-falls-sp.md
-  - Hog Canyon Falls: hog-canyon--falls.md
   - Hunt Creek Falls: hunt-creek-falls.md
   - Kootenai Falls: kootenai-falls.md
   - Liberty Creek Falls: liberty-creek-falls.md
-  - Lions Ferry To Palouse Falls: lions-ferry-to-palouse-falls.md
   - Lower Yaak Falls: lower-yaak-falls.md
   - Moyie Falls: moyie-falls.md
   - Myrtle Creek Falls: myrtle-creek-falls.md
   - Palisades Creek Falls: palisades-creek-falls.md
-  - Palouse Falls State Park Heritage Site: palouse-falls-state-park-heritage-site.md
   - Pewee Falls: pewee-falls.md
   - Pewee Falls Pend Orielle River: pewee-falls-pend-orielle-river.md
   - Post Falls Falls: post-falls-falls.md
   - Revett Falls: revett-falls.md
   - Rock Creek Falls: rock-creek-falls.md
-  - Silver Falls Sp: silver-falls-sp.md
   - Silver Falls State Park: silver-falls-state-park.md
   - Sweet Creek Falls: sweet-creek-falls.md
   - Thompson Falls State Park: thompson-falls-state-park.md
@@ -768,7 +776,6 @@ nav:
   - Mount Spokane Ski  Snowboard Park: ski/mount-spokane-ski--snowboard-park.md
   - Mount Spokane Snowshoenordic Skibc Ski: ski/mount-spokane-snowshoenordic-skibc-ski.md
   - Park City Ski Area: ski/park-city-ski-area.md
-  - Pulaski Tunnel Trail: ski/pulaski-tunnel-trail.md
   - Revelstoke Mt Resort: ski/revelstoke-mt-resort.md
   - Salmo Ski Area: ski/salmo-ski-area.md
   - Ski: ski/ski.md

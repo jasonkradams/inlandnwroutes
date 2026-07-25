@@ -21,7 +21,7 @@ Site index and navigation.
 
 ### Eastern Washington
 
-1. [Abercrombie Mountain](abercrombie-mountain.md)
+1. [Abercrombie Mountain](hike/washington/eastern-washington/abercrombie-mountain.md)
 
 2. Gypsy Peak
 
