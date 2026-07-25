@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 tags:
   - Photography
   - Coeur d'Alene
@@ -72,3 +74,10 @@ Click any image to enlarge and view high-resolution photo and caption.
 - ![Multi-Shell Fireworks Burst Over Coeur d'Alene Lake](../../assets/images/11242022412p.jpg)
 - ![Coeur d'Alene 4th of July Fireworks Celebration](../../assets/images/11212021106a.jpg)
 - ![Grand Finale Fireworks Sky Bursts Over Coeur d'Alene Resort](../../assets/images/11242022416p.jpg)
+"""
+
+target_path = "docs/gallery/categories/fireworks.md"
+with open(target_path, "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Reorganized fireworks.md successfully")
