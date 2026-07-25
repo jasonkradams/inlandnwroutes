@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 tags:
   - Peaks & Mountains
   - Easy to Moderate
@@ -108,3 +110,10 @@ Check local weather forecasts before departing:
 
 - **NOAA Weather Forecast:** [National Weather Service Athol / Bayview Forecast](https://forecast.weather.gov)
 - **State Park Info:** [Farragut State Park Official Portal](https://parksandrecreation.idaho.gov/parks/farragut/)
+"""
+
+target_path = "docs/hike/idaho/north-idaho-hikes/bernard-peak-overlook.md"
+with open(target_path, "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Reorganized bernard-peak-overlook.md successfully")
