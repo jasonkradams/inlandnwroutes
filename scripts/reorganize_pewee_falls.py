@@ -31,8 +31,8 @@ notes:
 
 The paddle trip along the northernmost stretch of the Pend Oreille River to Pewee Falls and Z Canyon is widely regarded as one of the most spectacular water routes in the Inland Northwest. Paddling south from the launch near Boundary Dam, watercraft navigate beneath 300-foot sheer limestone canyon cliffs, explore sea-like shoreline caves, view 200-foot waterfalls cascading directly into the river, and experience unique daily river level shifts created by dam operations.
 
-![Pewee Falls Cascading 200 Feet into the Pend Oreille River](../../../assets/images/p52_orig.png)
-_Pewee Falls Cascading 200 Feet into the Pend Oreille River._
+![Aerial Satellite Map of Pend Oreille River, Boundary Dam, Crawford State Park, and US-Canada Border](../../../assets/images/p52_orig.png)
+_Aerial Satellite Map of Pend Oreille River, Boundary Dam, Crawford State Park, and US-Canada Border._
 
 !!! warning "Critical Water Level Fluctuation & Navigation Warnings"
 
@@ -103,4 +103,4 @@ _Pend Oreille River Canyon near Z Canyon._
 with open("docs/paddle/washington/eastern-washington/pewee-falls-pend-orielle-river.md", "w", encoding="utf-8") as f:
     f.write(content)
 
-print("Restored landing image and route image to guide body successfully")
+print("Updated landing image description to Satellite Map of Pend Oreille River & Boundary Dam successfully")
