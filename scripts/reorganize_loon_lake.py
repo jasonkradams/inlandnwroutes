@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: Loon Lake Launch
 tags:
   - Paddling & Rivers
@@ -57,3 +59,9 @@ The WDFW Public Access Site provides water access to Loon Lake, an 1,100-acre la
 - Deer Lake Launch
 - Diamond Lake Launch
 - Spokane River Water Trail
+"""
+
+with open("docs/paddle/washington/eastern-washington/loon-lake-launch.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized loon-lake-launch.md successfully")
