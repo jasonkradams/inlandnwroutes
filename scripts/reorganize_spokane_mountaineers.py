@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 tags:
   - Resources
   - Conservation & Organizations
@@ -130,3 +132,9 @@ The Spokane Mountaineers is governed 100% by volunteer members.
   of hours annually to pass along backcountry skills to the next generation.
 
 To learn more, view course schedules, or become a member, visit the [Spokane Mountaineers Official Website](https://www.spokanemountaineers.org).
+"""
+
+with open("docs/resources/conservation-and-like-minded-organizations/spokane-mountaineers.md", "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Updated docs/resources/conservation-and-like-minded-organizations/spokane-mountaineers.md for MD013 compliance")
