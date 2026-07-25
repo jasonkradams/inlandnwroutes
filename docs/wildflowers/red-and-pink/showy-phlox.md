@@ -57,4 +57,4 @@ styles, inflorescences dense, terminal, with leaf-like bracts below, pedicels sl
 
 ### Picture (Image missing)
 
-![Picture](../assets/images/11262021234p.jpg)
+![Picture](../../assets/images/11262021234p.jpg)

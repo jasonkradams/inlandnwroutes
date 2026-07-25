@@ -44,7 +44,7 @@ notes:
 
 # Baker's Mariposa Lily
 
-![Baker's Mariposa Lily](../assets/images/11232021825_orig.jpg)
+![Baker's Mariposa Lily](../../assets/images/11232021825_orig.jpg)
 
 ## Description
 
@@ -54,8 +54,8 @@ small, dark circular gland near the base; anthers lanceolate, apiculate. Capsule
 
 ## Photo Gallery
 
-![Baker's Mariposa Lily](../assets/images/11232021919.jpg)
+![Baker's Mariposa Lily](../../assets/images/11232021919.jpg)
 _Baker's Mariposa Lily_
 
-![Long narrow leaves are lupine, not mariposa leaves](../assets/images/11232021920.jpg)
+![Long narrow leaves are lupine, not mariposa leaves](../../assets/images/11232021920.jpg)
 _Long narrow leaves are lupine, not mariposa leaves_

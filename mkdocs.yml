@@ -674,13 +674,81 @@ nav:
       - Lower Yaak Falls: waterfalls/montana/lower-yaak-falls.md
     - Oregon:
       - Silver Falls State Park: waterfalls/oregon/silver-falls-state-park.md
+  - Wildflowers:
+    - Red and Pink:
+      - Alpine Laurel: wildflowers/red-and-pink/alpine-laurel.md
+      - Bitterroot: wildflowers/red-and-pink/bitterroot.md
+      - Kinnikinnick: wildflowers/red-and-pink/kinnikinnick.md
+      - Mountain Spiraea: wildflowers/red-and-pink/mountain-spiraea.md
+      - Red Dead Nettle: wildflowers/red-and-pink/red-dead-nettle.md
+      - Red Indian Paint Brush: wildflowers/red-and-pink/red-indian-paint-brush.md
+      - Red Twinberry: wildflowers/red-and-pink/red-twinberry.md
+      - Scarlet Beebalm: wildflowers/red-and-pink/scarlet-beebalm.md
+      - Scarlet Gilia: wildflowers/red-and-pink/scarlet-gilia.md
+      - Showy Phlox: wildflowers/red-and-pink/showy-phlox.md
+      - Spreading Dogbane: wildflowers/red-and-pink/spreading-dogbane.md
+      - Sticky Geranium: wildflowers/red-and-pink/sticky-geranium.md
+      - Western Moss Heather: wildflowers/red-and-pink/western-moss-heather.md
+    - Orange:
+      - Orange Day-Lily: wildflowers/orange/orange-day-lily.md
+      - Merten's Coralroot: wildflowers/orange/mertens-coralroot.md
+      - Wild Honeysuckle: wildflowers/orange/wild-honeysuckle.md
+    - Yellow:
+      - Balkan Toadflax: wildflowers/yellow/balkan-toadflax.md
+      - Bird'sfoot Trefoil: wildflowers/yellow/birdsfoot-trefoil.md
+      - Dwarf Yellow Fleabane: wildflowers/yellow/dwarf-yellow-fleabane.md
+      - False Hellebore: wildflowers/yellow/false-hellebore.md
+      - Glacier Lilies: wildflowers/yellow/glacier-lilies.md
+      - Hop Goodena: wildflowers/yellow/hop-goodena.md
+      - Large Hop Clover: wildflowers/yellow/large-hop-clover.md
+      - Saint John's Wort: wildflowers/yellow/saint-johns-wort.md
+      - Shrubby Cinquefoil: wildflowers/yellow/shrubby-cinquefoil.md
+      - Stream Violet: wildflowers/yellow/stream-violet.md
+      - Tansy: wildflowers/yellow/tansy.md
+      - Yellow Columbine: wildflowers/yellow/yellow-columbine.md
+      - Cliff Penstemon: wildflowers/yellow/cliff-penstemon.md
+    - Blue:
+      - Camas: wildflowers/blue/camas.md
+      - Gentian: wildflowers/blue/gentian.md
+      - Mountain Kittentail: wildflowers/blue/mountain-kittentail.md
+      - Nuttall's Larkspur: wildflowers/blue/nuttalls-larkspur.md
+      - Lupine: wildflowers/blue/lupine.md
+    - Purple:
+      - Ballhead Waterleaf: wildflowers/purple/ballhead-waterleaf.md
+      - Broad-Leaf Sweet Pea: wildflowers/purple/broad-leaf-sweet-pea.md
+      - Alpine Sweet-Vetch: wildflowers/purple/alpine-sweet-vetch.md
+      - Elephant's Head: wildflowers/purple/elephants-head.md
+      - Fireweed: wildflowers/purple/fireweed.md
+      - Devil's Club: wildflowers/purple/devils-club.md
+      - Woodland Pinedrop: wildflowers/purple/woodland-pinedrop.md
+      - Dark Throated Shooting Star: wildflowers/purple/dark-throated-shooting-star.md
+      - Large-Flower Clarkia: wildflowers/purple/large-flower-clarkia.md
+      - Large-Flowered Triteleia: wildflowers/purple/large-flowered-triteleia.md
+      - Lewis' Monkey Flower: wildflowers/purple/lewis-monkey-flower.md
+      - Sagebrush Mariposa: wildflowers/purple/sagebrush-mariposa.md
+      - Bellflower: wildflowers/purple/bellflower.md
+      - Threadleaf Phacilia: wildflowers/purple/threadleaf-phacilia.md
+    - White:
+      - Baker's Mariposa Lily: wildflowers/white/bakers-mariposa-lily.md
+      - Baneberry: wildflowers/white/baneberry.md
+      - Bear Grass: wildflowers/white/bear-grass.md
+      - Bride's Bonnet: wildflowers/white/brides-bonnet.md
+      - 0xeye Daisy: wildflowers/white/0xeye-daisy.md
+      - Polemonium: wildflowers/white/polemonium.md
+      - Service Berry Saskatoon: wildflowers/white/service-berry-saskatoon.md
+      - Sitka Valerian: wildflowers/white/sitka-valerian.md
+      - Snowbrush Ceanothus: wildflowers/white/snowbrush-ceanothus.md
+      - Spring Beauties: wildflowers/white/spring-beauties.md
+      - Star Flowered Lily of the Valley: wildflowers/white/star-flowered-lily-of-the-valley.md
+      - Thimbelberry: wildflowers/white/thimbelberry.md
+      - Threeleaf Foamflower: wildflowers/white/threeleaf-foamflower.md
+      - Meadowsweet: wildflowers/white/meadowsweet.md
+      - Trillium: wildflowers/white/trillium.md
+      - Woodland Star: wildflowers/white/woodland-star.md
+      - Mountain Deathcamas: wildflowers/white/mountain-deathcamas.md
+      - Sego Lily: wildflowers/white/sego-lily.md
 - Flora & Wildlife:
-  - Baker's Mariposa Lily: plants/bakers-mariposa-lily.md
-  - Orange Day Lily: plants/orange-day-lily.md
-  - Sego Lily: plants/sego-lily.md
-  - Star-Flowered Lily of the Valley: plants/star-flowered-lily-of-the-valley.md
   - Trees: trees.md
-  - Western Moss Heather: plants/western-moss-heather.md
 - Lakes:
   - Lakes: lakes/index.md
   - St Joe Lake 6472Rsquo Illinois Peak 7690Rsquo: st-joe-lake-6472-illinois-peak-7690.md
@@ -690,9 +758,6 @@ nav:
   - Streams To Rivers: streams-to-rivers.md
 - Peaks & Mountains:
   - Lunch In The Mountains: lunch-in-the-mountains.md
-  - Mountain Deathcamas: plants/mountain-deathcamas.md
-  - Mountain Kittentail: plants/mountain-kittentail.md
-  - Mountain Spiraea: plants/mountain-spiraea.md
   - Mountains: mountains/index.md
   - Ridges: ridges.md
   - Scenic Lodge Rathdrum Mountain: scenic-lodge-rathdrum-mountain.md
@@ -702,61 +767,38 @@ nav:
   - Store/C1/Featured_Products: store/c1/Featured_Products.md
   - Store/P1/Washington: store/p1/WASHINGTON.md
 - Trails & Scrambles:
-  - 0Xeye Daisy: plants/0xeye-daisy.md
   - About: about/index.md
   - About Us: about/about-us.md
   - Adages: adages.md
-  - Alpine Laurel: plants/alpine-laurel.md
-  - Alpine Sweet Vetch: plants/alpine-sweet-vetch.md
   - Amy Voeller: amy-voeller.md
   - Atmosphere: atmosphere.md
-  - Balkan Toadflax: plants/balkan-toadflax.md
-  - Ballhead Waterleaf: plants/ballhead-waterleaf.md
-  - Baneberry: plants/baneberry.md
   - Basil Shrimp Poscuitto Ham Wraps: recipes/basil-shrimp-poscuitto-ham-wraps.md
-  - Bear Grass: bear-grass.md
-  - Bellflower: plants/bellflower.md
   - Biography  Chic: about/biography--chic.md
   - Biography  David: about/biography--david.md
-  - Birdsfoot Trefoil: plants/birdsfoot-trefoil.md
-  - Bitterroot: bitterroot.md
   - Blank: blank.md
-  - Brides Bonnet: plants/brides-bonnet.md
-  - Broad Leaf Sweet Pea: broad-leaf-sweet-pea.md
-  - Camas: plants/camas.md
   - Camera Corral: camera-corral.md
   - Chicken And Rice Soup: recipes/chicken-and-rice-soup.md
   - Chicken Mushroom Mashed Potoaoe Soup: recipes/chicken-mushroom-mashed-potato-soup.md
   - Chris Herath: chris-herath.md
   - Clammy Cabbage Over Pasta: plants/clammy-cabbage-over-pasta.md
-  - Cliff Penstemon: cliff-penstemon.md
   - Contact: about/contact.md
-  - Dark Throated Shooting Star: dark-throated-shooting-star.md
   - David Crafton: david-crafton.md
   - Deserts  Scablands: deserts--scablands.md
-  - Devils Club: plants/devils-club.md
-  - Dwarf Yellow Fleabane: dwarf-yellow-fleabane.md
   - Eastern Washington1: eastern-washington1.md
   - Easy Quality Gravy: recipes/easy-quality-gravy.md
-  - Elephants Head: plants/elephants-head.md
   - Essays: essays.md
   - Evans Outdoor Adventures: evans-outdoor-adventures.md
   - Faces in Nature: faces.md
-  - False Hellebore: plants/false-hellebore.md
-  - Fireweed: fireweed.md
   - Fireworks: fireworks.md
   - Fungi   Rooms: fungi---rooms.md
   - Gallery: gallery.md
   - Gear Chic: gear-chic.md
   - Gear David: gear-david.md
-  - Gentian: gentian.md
-  - Glacier Lilies: plants/glacier-lilies.md
   - Glacier Np: glacier-np.md
   - Hiking Boise: hiking-boise.md
   - Hiking From Here: hiking-from-here.md
   - Hints: hints.md
   - Home: home.md
-  - Hop Goodena: hop-goodena.md
   - Hot Springs Rev3: hot-springs-rev3.md
   - Idaho A Climbing Guide: idaho-a-climbing-guide.md
   - Idaho Trails Association: idaho-trails-association.md
@@ -764,79 +806,44 @@ nav:
   - Inland NW Routes Blog: blog/index.md
   - Inland Nw Hikers: inland-nw-hikers.md
   - Instant Birthday Cake: recipes/instant-birthday-cake.md
-  - Kinnikinnick: kinnikinnick.md
-  - Large Flower Clarkia: plants/large-flower-clarkia.md
-  - Large Flowered Triteleia: plants/large-flowered-triteleia.md
-  - Large Hop Clover: large-hop-clover.md
-  - Lewis Monkey Flower: plants/lewis-monkey-flower.md
   - Liability Release: about/liability-release.md
-  - Lupine: lupine.md
   - Managing Agencies: managing-agencies.md
-  - Meadowsweet: plants/meadowsweet.md
   - Medical Information: medical-information.md
-  - Mertens Coralroot: plants/mertens-coralroot.md
   - Moma Morenos Chicken Green Chili Soup: recipes/moma-morenos-chicken-green-chili-soup.md
   - Notes: notes.md
-  - Nuttalls Larkspur: plants/nuttalls-larkspur.md
   - Outhouses: outhouses.md
   - Panorama: panorama.md
   - Phenomenon: phenomenon.md
   - Photography: photography.md
   - Poems: poems.md
-  - Polemonium: plants/polemonium.md
   - Quotes: quotes.md
-  - Red Dead Nettle: plants/red-dead-nettle.md
-  - Red Indian Paint Brush: plants/red-indian-paint-brush.md
   - Red Lodge: red-lodge.md
-  - Red Twinberry: plants/red-twinberry.md
   - Restaurants And Pubs: restaurants-and-pubs.md
   - Rocks: rocks.md
   - Route Title Here: route_template.md
-  - Sagebrush Mariposa: plants/sagebrush-mariposa.md
-  - Saint Johns Wort: plants/saint-johns-wort.md
-  - Scarlet Beebalm: plants/scarlet-beebalm.md
-  - Scarlet Gilia: plants/scarlet-gilia.md
   - Scotchman No 2: scotchman-no-2.md
-  - Service Berry Saskatoon: plants/service-berry-saskatoon.md
-  - Showy Phlox: plants/showy-phlox.md
-  - Shrubby Cinquefoil: plants/shrubby-cinquefoil.md
   - Silverlight: silverlight.md
   - Silverstreak Zipline Tours: silverstreak-zipline-tours.md
-  - Sitka Valerian: plants/sitka-valerian.md
   - Spokane County Parks Conservation Futures Properties: spokane-county-parks-conservation-futures-properties.md
-  - Spreading Dogbane: plants/spreading-dogbane.md
-  - Spring Beauties: plants/spring-beauties.md
-  - Sticky Geranium: plants/sticky-geranium.md
   - Stories: stories.md
-  - Stream Violet: stream-violet.md
-  - Tansy: plants/tansy.md
   - Tcda Curried Rice: recipes/tcda-curried-rice.md
-  - Thimbelberry: plants/thimbelberry.md
-  - Threadleaf Phacilia: plants/threadleaf-phacilia.md
-  - Threeleaf Foamflower: plants/threeleaf-foamflower.md
   - Trail Heros: trail-heros.md
   - Trails: trails/index.md
   - Trails End Brewery: trails-end-brewery.md
-  - Trillium: plants/trillium.md
   - Uncle Chucks Manhatten Style Clam Chowder: recipes/uncle-chucks-manhatten-style-clam-chowder.md
   - Uncle Chucks World Famous Blondies: recipes/uncle-chucks-world-famous-blondies.md
   - Vanette Leighty: vanette-leighty.md
   - Washington Trails Association: washington-trails-association.md
   - Weather Thunderstorms And Lightning: weather-thunderstorms-and-lightning.md
   - Website Notes: website-notes.md
-  - Wild Honeysuckle: plants/wild-honeysuckle.md
   - Wildlife: wildlife.md
   - Winter: winter.md
-  - Woodland Pinedrop: plants/woodland-pinedrop.md
-  - Woodland Star: plants/woodland-star.md
   - Writings: writings.md
-  - Yellow Columbine: plants/yellow-columbine.md
 - Waterfalls:
   - Waterfalls: waterfalls/index.md
 - Winter & Skiing:
   - Ski: ski/ski.md
   - Ski History & Avalanche Safety: ski/index.md
-  - Snowbrush Ceanothus: snowbrush-ceanothus.md
   - Spokane Nordic Ski Association: ski/spokane-nordic-ski-association.md
   - Tony Kozlowski: ski/tony-kozlowski.md
   - Trail Etiquette And Skills: trail-etiquette-and-skills.md

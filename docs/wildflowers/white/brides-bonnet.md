@@ -73,6 +73,6 @@ before they flower. It suffers damage from slugs.
 
 ---
 
-![Picture](../assets/images/11282021739p.jpg)
+![Picture](../../assets/images/11282021739p.jpg)
 
-![Picture](../assets/images/11282021740p.jpg)
+![Picture](../../assets/images/11282021740p.jpg)

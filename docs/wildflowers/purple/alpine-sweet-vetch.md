@@ -48,4 +48,4 @@ portions of alpine sweetvetch, and roots are consumed by grizzly bears.
 
 ---
 
-![Picture](../assets/images/11202021734.jpg)
+![Picture](../../assets/images/11202021734.jpg)

@@ -151,14 +151,14 @@ each year, they definitely are a late bloomer considering the first flower takes
 
 ## Photo gallery
 
-![Picture](../assets/images/11232021627.jpg)
+![Picture](../../assets/images/11232021627.jpg)
 
 The below images are trilliums that are past their prime. Which gives notice to insects that the flower is
 past it's pollination stage. Found in the i.p.n.f
 
 ##
 
-![Picture](../assets/images/11232021628.jpg)
+![Picture](../../assets/images/11232021628.jpg)
 
 ### Picture (Image missing)
 

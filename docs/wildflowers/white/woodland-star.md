@@ -31,6 +31,6 @@ usually divided into three toothlike lobes.
 
 ---
 
-![Picture](../assets/images/11262021416p.jpg)
+![Picture](../../assets/images/11262021416p.jpg)
 
 ## Woodland star, one of my favorite wildflowers

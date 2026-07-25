@@ -71,7 +71,7 @@ pollinated," meaning that they require a certain frequency of vibration from
 
 ---
 
-![Picture](assets/images/11202021902.jpg)
+![Picture](../../assets/images/11202021902.jpg)
 
 If you ever get the chance to see shooting stars in the wild, spend some time, photograph them, and revel in
 their beauty

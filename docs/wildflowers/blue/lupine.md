@@ -128,6 +128,6 @@ and escaped cultivation.
 
 ## On the trail to lunch peak & mount pend orielle The lead in image is also from lunch peak
 
-![Picture](assets/images/110820211216p.jpg)
+![Picture](../../assets/images/110820211216p.jpg)
 
 ##

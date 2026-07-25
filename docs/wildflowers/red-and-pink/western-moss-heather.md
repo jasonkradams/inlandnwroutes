@@ -51,8 +51,8 @@ rocky crevices.
 
 ## Photo Gallery
 
-![Western Moss Heather](../assets/images/11262021833p.jpg)
+![Western Moss Heather](../../assets/images/11262021833p.jpg)
 _Western Moss Heather_
 
-![Western Moss Heather](../assets/images/11262021834p.jpg)
+![Western Moss Heather](../../assets/images/11262021834p.jpg)
 _Western Moss Heather_

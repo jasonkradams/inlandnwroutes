@@ -62,5 +62,5 @@ finally deep red.
 
 ## Photo Gallery
 
-![Star-Flowered Lily of the Valley](../assets/images/11262021746p.jpg)
+![Star-Flowered Lily of the Valley](../../assets/images/11262021746p.jpg)
 _Star-Flowered Lily of the Valley_

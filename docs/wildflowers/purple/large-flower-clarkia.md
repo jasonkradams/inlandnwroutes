@@ -33,6 +33,6 @@ safe around kids and pets.
 
 ---
 
-![Picture](../assets/images/73120231135a.jpg)
+![Picture](../../assets/images/73120231135a.jpg)
 
 Image by james colquhoun

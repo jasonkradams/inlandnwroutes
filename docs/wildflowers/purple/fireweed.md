@@ -102,6 +102,6 @@ lots of pollinators.
 
 ## This image was taken above the settler's grove of ancient cedars
 
-![Picture](assets/images/11082021815p.jpg)
+![Picture](../../assets/images/11082021815p.jpg)
 
 ##

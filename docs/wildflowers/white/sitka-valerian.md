@@ -85,4 +85,4 @@ than pink.
 
 ---
 
-![Picture](../assets/images/112520211248.jpg)
+![Picture](../../assets/images/112520211248.jpg)

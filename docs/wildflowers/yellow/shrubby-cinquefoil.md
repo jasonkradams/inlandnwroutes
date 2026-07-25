@@ -39,4 +39,4 @@ July. Notice the plants meaty leaves. Later in the season, they are all you see.
 
 ## I photographed this shrubby cinquefoil along the west side of lower stevens lake, idaho
 
-![Picture](../assets/images/112020211209.jpg)
+![Picture](../../assets/images/112020211209.jpg)

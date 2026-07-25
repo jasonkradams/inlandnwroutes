@@ -42,4 +42,4 @@ long stems above foliage Fruit is bean-like pod with green 'peas' inside
 
 ---
 
-![Picture](assets/images/11202021837.jpg)
+![Picture](../../assets/images/11202021837.jpg)

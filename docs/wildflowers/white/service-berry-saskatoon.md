@@ -47,4 +47,4 @@ Fall color is orange to red and takes place for long periods.
 
 ### Picture (Image missing) Details
 
-![Picture](../assets/images/11252021119.jpg)
+![Picture](../../assets/images/11252021119.jpg)

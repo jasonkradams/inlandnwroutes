@@ -111,7 +111,7 @@ notably.
 
 ---
 
-![Picture](../assets/images/11092021708p.jpg)
+![Picture](../../assets/images/11092021708p.jpg)
 
 ##
 

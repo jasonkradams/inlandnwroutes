@@ -82,4 +82,4 @@ Read more at Gardening Know How: Oxeye Daisies In The Landscape – How To Contr
 
 ---
 
-![Picture](../assets/images/112520211158.jpg)
+![Picture](../../assets/images/112520211158.jpg)
