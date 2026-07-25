@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 tags:
   - Peaks & Mountains
   - Day Hiking
@@ -122,3 +124,9 @@ _Large cottonwood trees standing in front of the Scenic Lodge speakeasy site._
 
 ![Concrete entrance steps leading into the historical Scenic Lodge speakeasy foundation](assets/images/202311180703.jpg)
 _Concrete entrance steps leading into the historical Scenic Lodge speakeasy foundation._
+"""
+
+with open("docs/scenic-lodge-rathdrum-mountain.md", "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Updated scenic-lodge-rathdrum-mountain.md with valid YAML frontmatter")
