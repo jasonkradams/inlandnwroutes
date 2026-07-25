@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 tags:
   - Resources
   - Conservation & Organizations
@@ -67,3 +69,9 @@ WTA's advocacy voice is backed by the year-round dedication of thousands of volu
 
 To read crowd-sourced trip reports, find a hiking guide, or sign up for a volunteer trail work party, visit the
 [Washington Trails Association Website](https://www.wta.org).
+"""
+
+with open("docs/resources/conservation-and-like-minded-organizations/washington-trails-association.md", "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Reorganized washington-trails-association.md successfully")
