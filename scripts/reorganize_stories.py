@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: Mountain Stories & Journals
 tags:
   - Writings
@@ -194,3 +196,9 @@ Autumn colors are the colors of life near its end—so brilliant they inspire wr
 
     "Rainy days are a mixed blessing. Without them, we would not have lush green forests, forest fire risks would escalate, and we wouldn't have much-needed rest days to clean our sunny-day messes. Rainy days clean the air and wash the forest."
     — **Chic Burge** *(October 10, 2011)*
+"""
+
+with open("docs/writings/stories.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized stories.md successfully")
