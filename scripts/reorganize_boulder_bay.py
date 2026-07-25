@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: Boulder Beach Landing
 tags:
   - Paddling & Rivers
@@ -63,3 +65,9 @@ _Aerial Satellite Map of Boulder Beach Landing on the Spokane River._
 
 - ![Aerial Satellite Map of Boulder Beach Landing on the Spokane River](../../../assets/images/2021527321-jpeg-1_orig.jpeg)
 - ![Spokane River Water Health Alert Notice](../../../assets/images/5132025306p-2.jpg)
+"""
+
+with open("docs/paddle/washington/eastern-washington/boulder-bay-landing.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized boulder-bay-landing.md successfully")
