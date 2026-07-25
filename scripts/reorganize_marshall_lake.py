@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: "Marshall Lake Launch"
 tags:
   - Lakes
@@ -58,3 +60,9 @@ Surrounded by mixed conifer forests of Douglas fir, western red cedar, and larch
 - **Nearby Waterways:** Combine your paddle with visits to nearby [Bead Lake Launch Guide](../eastern-washington/bead-lake-launch.md), Diamond Lake, or the Pend Oreille River.
 - **Scenic Highlights:** Explore Sweet Creek Falls near Ione, WA, or drive scenic USFS backcountry roads into the Kaniksu National Forest.
 - **Rest & Provisions:** Full services, groceries, gas, and dining are available 15 minutes south in Newport, WA.
+"""
+
+with open("docs/paddle/washington/scablands/marshall-lake-launch.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized marshall-lake-launch.md successfully")
