@@ -45,7 +45,7 @@ tallest mountain in Oregon.
 
 ---
 
-![Picture](../assets/images/6820221144a.jpg)
+![Picture](../../../assets/images/6820221144a.jpg)
 
 ## Timberline lodge
 
@@ -62,7 +62,7 @@ awe-inspiring, it's a tribute to the rugged spirit of the Pacific Northwest. Dec
 Landmark in 1977, Timberline Lodge is one of Oregon’s most popular tourist attractions, drawing nearly two
 million visitors every year.
 
-![Picture](../assets/images/12122021435p.jpg)
+![Picture](../../../assets/images/12122021435p.jpg)
 
 the great depression & new deal In 1929, the stock market crash sent the United States into the Great
 Depression until 1939. Workers in the country were desperate for jobs due to a high unemployment rate
@@ -95,7 +95,7 @@ natural local materials and a design that blended into the landscape. His origin
 focused on a central headhouse, which holds the 800,000 pound great stone chimney. The headhouse is flanked
 by two uneven wings where the dining room, guestrooms, and other facilities are located.
 
-![Picture](../assets/images/12122021442p.jpg)
+![Picture](../../../assets/images/12122021442p.jpg)
 
 cascadian architecture William I. Turner, Forest Service architect, used this term to describe the design of
 Timberline Lodge because the roofline, with the steep pitch of the headhouse roof, mimicked the nearby peak
@@ -105,7 +105,7 @@ Architecture.
 Turner and Linn Forrest, U.S. Forest Service architect, took Underwood’s original design and changed the
 headhouse from an octagon to a hexagon which opened up the wings.
 
-![Picture](../assets/images/12122021443p.jpg)
+![Picture](../../../assets/images/12122021443p.jpg)
 
 construction The first phase of the lodge was to frame and roof the lodge in four months’ time. Considering
 the altitude of 6,000 feet, the short summer season, and harsh alpine climate, this project was a challenge.
@@ -116,7 +116,7 @@ so as to teach them traditional skills in arts, crafts, and construction trades.
 for building trade laborers, 75 cents an hour for common laborers, and 55 cents an hour for unskilled
 laborers. By today’s standards, that would be $15.36, $13.00, and $9.54 an hour, respectively.
 
-![Picture](../assets/images/12122021449p.jpg)
+![Picture](../../../assets/images/12122021449p.jpg)
 
 wpa camp life The WPA workers’ camp was located outside the town of Government Camp in what today is called
 Summit Meadows. The camp included numerous eight-man canvas tents, a mess hall, and infrastructure for up to
@@ -138,7 +138,7 @@ Kubrick was asked not to depict Room 217 (featured in the book) in The Shining, 
 Lodge might be afraid to stay there. So a nonexistent room, Room 237, was substituted in the film.
 Curiously, and somewhat ironically, Room 217 is requested more often than any other room at Timberline.
 
-![Picture](../assets/images/12122021453p.jpg)
+![Picture](../../../assets/images/12122021453p.jpg)
 
 STEWARDSHIP OF THE LODGER.L.K. and Company, the U.S. Forest Service, Friends of Timberline, and the State
 Historic Preservation Office provides collaborative stewardship of this special place, and so does your
@@ -152,7 +152,7 @@ around, explore our public spaces, view the artworks, and enjoy your visit. That
 
 ---
 
-![Picture](../assets/images/12122-021456p.jpg)
+![Picture](../../../assets/images/12122-021456p.jpg)
 
 historic hotels of america Timberline Lodge is a member of
 [Historic Hotels of America®](https://www.historichotels.org/hotels-resorts/timberline-lodge/?from=search),

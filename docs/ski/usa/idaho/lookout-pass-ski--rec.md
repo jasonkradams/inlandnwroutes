@@ -90,25 +90,25 @@ Northwest.
 
 ## Photo Gallery
 
-![The Original Lodge at Lookout Pass](../assets/images/12132022253p.jpg)
+![The Original Lodge at Lookout Pass](../../../assets/images/12132022253p.jpg)
 _The Original Lodge at Lookout Pass_
 
-![Postcard Before the Ski Area Opened](../assets/images/12132022255p.jpg)
+![Postcard Before the Ski Area Opened](../../../assets/images/12132022255p.jpg)
 _Postcard Before the Ski Area Opened_
 
-![Lookout Pass Postcard from the 1960s](../assets/images/12132022257p.jpg)
+![Lookout Pass Postcard from the 1960s](../../../assets/images/12132022257p.jpg)
 _Lookout Pass Postcard from the 1960s_
 
-![Lookout Pass Lodge in the 1940s](../assets/images/3102024648p.jpg)
+![Lookout Pass Lodge in the 1940s](../../../assets/images/3102024648p.jpg)
 _Lookout Pass Lodge in the 1940s_
 
-![Skiers Standing in Lift Lines](../assets/images/3102024649p.jpg)
+![Skiers Standing in Lift Lines](../../../assets/images/3102024649p.jpg)
 _Skiers Standing in Lift Lines_
 
-![Bottom of the Rope Tow](../assets/images/3102024710p.jpg)
+![Bottom of the Rope Tow](../../../assets/images/3102024710p.jpg)
 _Bottom of the Rope Tow_
 
-![Skier Haul on Rope Tow with Cars Parked on Highway 10](../assets/images/3102024731p.jpg)
+![Skier Haul on Rope Tow with Cars Parked on Highway 10](../../../assets/images/3102024731p.jpg)
 _Skier Haul on Rope Tow with Cars Parked on Highway 10_
 
 ## Contributing Photos

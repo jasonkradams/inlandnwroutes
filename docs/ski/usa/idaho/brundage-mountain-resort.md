@@ -45,19 +45,19 @@ Trips on 18,000 acres of backcountry terrain, guided snowmobile tours, snowmobil
 
 ## Photo Gallery
 
-![Light up the night on New Year's - Image by Mel & Tony Kozlowski](../assets/images/12042021943p.jpg)
+![Light up the night on New Year's - Image by Mel & Tony Kozlowski](../../../assets/images/12042021943p.jpg)
 _Light up the night on New Year's - Image by Mel & Tony Kozlowski_
 
-![Lower section of run Temptation - Image by Mel & Tony Kozlowski, McCall, Idaho](../assets/images/12042021946.jpg)
+![Lower section of run Temptation - Image by Mel & Tony Kozlowski, McCall, Idaho](../../../assets/images/12042021946.jpg)
 _Lower section of run Temptation - Image by Mel & Tony Kozlowski, McCall, Idaho_
 
-![Near the summit of Brundage Mountain - Image by Mel & Tony Kozlowski](../assets/images/12042021950p.jpg)
+![Near the summit of Brundage Mountain - Image by Mel & Tony Kozlowski](../../../assets/images/12042021950p.jpg)
 _Near the summit of Brundage Mountain - Image by Mel & Tony Kozlowski_
 
-![Ski patrol hut on top of Brundage - Image by Mel & Tony Kozlowski](../assets/images/12042021951.jpg)
+![Ski patrol hut on top of Brundage - Image by Mel & Tony Kozlowski](../../../assets/images/12042021951.jpg)
 _Ski patrol hut on top of Brundage - Image by Mel & Tony Kozlowski_
 
-![Easy Street after a day's work - Image by Mel & Tony Kozlowski](../assets/images/12042021955p.jpg)
+![Easy Street after a day's work - Image by Mel & Tony Kozlowski](../../../assets/images/12042021955p.jpg)
 _Easy Street after a day's work - Image by Mel & Tony Kozlowski_
 
 ## History

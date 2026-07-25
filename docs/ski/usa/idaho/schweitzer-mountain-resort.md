@@ -264,7 +264,7 @@ proud of that." *[Press Release (Oct 24, 2018) - Schweitzer Contracts Installati
 
 2019/20](https://www.schweitzer.com/installation-of-two-new-lifts/)*
 
-![Picture](../assets/images/121122021603p.jpg)
+![Picture](../../../assets/images/121122021603p.jpg)
 
 Phase Two of the Master Plan Schweitzer finalized plans and broke ground on an additional 30 unit boutique
 hotel in the village. "The Board of Directors is motivated to find a solution for our lack of accommodations
@@ -296,7 +296,7 @@ Hotel](https://www.schweitzer.com/new-30-unit-boutique-hotel/)*
 
 ## Phase Three of the Master Plan
 
-![Picture](../assets/images/12112021612p.jpg)
+![Picture](../../../assets/images/12112021612p.jpg)
 
 The third phase of Schweitzer’s master plan is arguably the most unique from any other plan put forward for
 the resort. "Growth has been huge the last few years and we need to find solutions for our parking issues

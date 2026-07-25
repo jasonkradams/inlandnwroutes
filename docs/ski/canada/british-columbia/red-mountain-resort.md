@@ -37,7 +37,7 @@ notes:
 
 !!! warning "Before you go"
 
-    ![Picture](../assets/images/123120211112a.jpg)
+    ![Picture](../../../assets/images/123120211112a.jpg)
 
 ## Description
 

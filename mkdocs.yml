@@ -558,6 +558,75 @@ nav:
       - Clear Lake: paddle/oregon/clear-lake.md
     - Canada:
       - Whiteswan Provintial Park: paddle/canada/whiteswan-provintial-park.md
+  - Ski:
+    - Ski History & Avalanche Safety: ski/index.md
+    - Backcountry:
+      - Backcountry Ski Friends: ski/backcountry/backcountry-ski-friends.md
+      - Deer Creek Nordic Sno-Park: ski/backcountry/deer-creek-nordic-sno-park.md
+      - Mount Spokane Snowshoe/Nordic Ski/BC Ski: ski/backcountry/mount-spokane-snowshoenordic-skibc-ski.md
+    - USA:
+      - Washington:
+        - Bluewood: ski/usa/washington/bluewood.md
+        - 49°N Ski Area: ski/usa/washington/49-degrees-north-ski-area.md
+        - Loup Loup Ski Bowl: ski/usa/washington/loup-loup-ski-bowl.md
+        - Mission Ridge Ski & Board Resort: ski/usa/washington/mission-ridge-ski--board-resort.md
+        - Mount Spokane Ski & Snowboard Park: ski/usa/washington/mount-spokane-ski--snowboard-park.md
+      - Idaho:
+        - Bogus Basin Ski Resort: ski/usa/idaho/bogus-basin-ski-resort.md
+        - Brundage Mountain Resort: ski/usa/idaho/brundage-mountain-resort.md
+        - Lookout Pass Ski & Rec.: ski/usa/idaho/lookout-pass-ski--rec.md
+        - Schweitzer Mountain Resort: ski/usa/idaho/schweitzer-mountain-resort.md
+        - Silver Mountain Resort: ski/usa/idaho/silver-mountain-resort.md
+      - Montana:
+        - Big Sky Resort: ski/usa/montana/big-sky-resort.md
+        - Blacktail Mountain Ski Area: ski/usa/montana/blacktail-mountain-ski-area.md
+        - Bridger Bowl: ski/usa/montana/bridger-bowl.md
+        - Discovery Ski Area: ski/usa/montana/discovery-ski-area.md
+        - Red Lodge Mountain: ski/usa/montana/red-lodge-mountain.md
+        - Teton Pass Resort: ski/usa/montana/teton-pass-resort.md
+        - Tamarack Resort: ski/usa/montana/tamarack-resort.md
+        - Turner Mountain Ski Area: ski/usa/montana/turner-mountain-ski-area.md
+        - Whitefish Mountain Resort: ski/usa/montana/whitefish-mountain-resort.md
+      - Oregon:
+        - Mount Bachelor Ski Resort: ski/usa/oregon/mount-bachelor-ski-resort.md
+        - Anthony Lakes Mt. Resort: ski/usa/oregon/anthony-lakes-mt-resort.md
+        - Mount Hood Meadows: ski/usa/oregon/mount-hood-meadows.md
+        - Mount Hood Ski Bowl: ski/usa/oregon/mount-hood-ski-bowl.md
+        - Timberline Lodge Ski Area: ski/usa/oregon/timberline-lodge-ski-area.md
+      - Utah:
+        - Alta Ski Area: ski/usa/utah/alta-ski-area.md
+        - Brighton Resort: ski/usa/utah/brighton-resort.md
+        - Deer Valley Resort: ski/usa/utah/deer-valley-resort.md
+        - Park City Ski Area: ski/usa/utah/park-city-ski-area.md
+        - Powder Mountain Resort: ski/usa/utah/powder-mountain-resort.md
+        - Snow Basin Resort: ski/usa/utah/snow-basin-resort.md
+        - Snowbird Ski Area: ski/usa/utah/snowbird-ski-area.md
+        - Solitude Mountain: ski/usa/utah/solitude-mountain.md
+        - Sundance Ski Resort: ski/usa/utah/sundance-ski-resort.md
+      - Wyoming:
+        - Grand Targhee Ski Resort: ski/usa/wyoming/grand-targhee-ski-resort.md
+        - Jackson Hole Ski Resort: ski/usa/wyoming/jackson-hole-ski-resort.md
+        - Snowking Ski Resort: ski/usa/wyoming/snowking-ski-resort.md
+    - Canada:
+      - British Columbia:
+        - Apex Mountain Resort: ski/canada/british-columbia/apex-mountain-resort.md
+        - Mount Baldy Ski Resort: ski/canada/british-columbia/mount-baldy-ski-resort.md
+        - Fernie Alpine Resort: ski/canada/british-columbia/fernie-alpine-resort.md
+        - Kicking Horse Mt. Resort: ski/canada/british-columbia/kicking-horse-mt-resort.md
+        - Kimberrly Alpine Resort: ski/canada/british-columbia/kimberrly-alpine-resort.md
+        - Panorama Mountain Resort: ski/canada/british-columbia/panorama-mountain-resort.md
+        - Red Mountain Resort: ski/canada/british-columbia/red-mountain-resort.md
+        - Revelstoke Mt. Resort: ski/canada/british-columbia/revelstoke-mt-resort.md
+        - Salmo Ski Area: ski/canada/british-columbia/salmo-ski-area.md
+        - Silver Star Mountain Resort: ski/canada/british-columbia/silver-star-mountain-resort.md
+        - Sun Peaks Resort: ski/canada/british-columbia/sun-peaks-resort.md
+        - Whistler Blackcomb: ski/canada/british-columbia/whistler-blackcomb.md
+        - Whitewater Ski Resort: ski/canada/british-columbia/whitewater-ski-resort.md
+      - Alberta:
+        - Lake Louise Ski Resort: ski/canada/alberta/lake-louise-ski-resort.md
+        - Marmot Basin: ski/canada/alberta/marmot-basin.md
+        - Mount Norquay: ski/canada/alberta/mount-norquay.md
+        - Sunshine Ski Resort: ski/canada/alberta/sunshine-ski-resort.md
 - Flora & Wildlife:
   - Baker's Mariposa Lily: plants/bakers-mariposa-lily.md
   - Orange Day Lily: plants/orange-day-lily.md
@@ -566,9 +635,7 @@ nav:
   - Trees: trees.md
   - Western Moss Heather: plants/western-moss-heather.md
 - Lakes:
-  - Anthony Lakes Mountain Resort: ski/anthony-lakes-mt-resort.md
   - Dry Falls & Sun Lakes State Park: dry-falls-sun-lakes-sp.md
-  - Lake Louise Ski Resort: ski/lake-louise-ski-resort.md
   - Lakes: lakes/index.md
   - Leigh Lake Falls Lower: leigh-lake-falls-lower.md
   - Leigh Lake Falls Upper: leigh-lake-falls-upper.md
@@ -580,31 +647,15 @@ nav:
   - Spokane Canoe And Kayak Club: spokane-canoe-and-kayak-club.md
   - Streams To Rivers: streams-to-rivers.md
 - Peaks & Mountains:
-  - Apex Mountain Resort: ski/apex-mountain-resort.md
-  - Blacktail Mountain Ski Area: ski/blacktail-mountain-ski-area.md
-  - Bridger Bowl: bridger-bowl.md
-  - Brundage Mountain Resort: ski/brundage-mountain-resort.md
   - Lunch In The Mountains: lunch-in-the-mountains.md
-  - Mission Ridge Ski & Board Resort: ski/mission-ridge-ski--board-resort.md
   - Mountain Deathcamas: plants/mountain-deathcamas.md
   - Mountain Kittentail: plants/mountain-kittentail.md
   - Mountain Spiraea: plants/mountain-spiraea.md
   - Mountains: mountains/index.md
-  - Panorama Mountain Resort: ski/panorama-mountain-resort.md
-  - Powder Mountain Resort: ski/powder-mountain-resort.md
-  - Red Lodge Mountain: red-lodge-mountain.md
-  - Red Mountain Resort: ski/red-mountain-resort.md
   - Ridges: ridges.md
   - Scenic Lodge Rathdrum Mountain: scenic-lodge-rathdrum-mountain.md
-  - Schweitzer Mountain Resort: ski/schweitzer-mountain-resort.md
-  - Silver Mountain Resort: ski/silver-mountain-resort.md
-  - Silver Star Mountain Resort: ski/silver-star-mountain-resort.md
-  - Solitude Mountain: solitude-mountain.md
   - Soup For Lunch In The Mountains: recipes/soup-for-lunch-in-the-mountains.md
   - Spokane Mountaineers: spokane-mountaineers.md
-  - Sun Peaks Resort: ski/sun-peaks-resort.md
-  - Turner Mountain Ski Area: ski/turner-mountain-ski-area.md
-  - Whitefish Mountain Resort: ski/whitefish-mountain-resort.md
 - Store:
   - Store/C1/Featured_Products: store/c1/Featured_Products.md
   - Store/P1/Washington: store/p1/WASHINGTON.md
@@ -628,7 +679,6 @@ nav:
   - Birdsfoot Trefoil: plants/birdsfoot-trefoil.md
   - Bitterroot: bitterroot.md
   - Blank: blank.md
-  - Bluewood: bluewood.md
   - Boundrary Dam: boundary-dam.md
   - Brides Bonnet: plants/brides-bonnet.md
   - Broad Leaf Sweet Pea: broad-leaf-sweet-pea.md
@@ -682,13 +732,10 @@ nav:
   - Liability Release: about/liability-release.md
   - Lupine: lupine.md
   - Managing Agencies: managing-agencies.md
-  - Marmot Basin: marmot-basin.md
   - Meadowsweet: plants/meadowsweet.md
   - Medical Information: medical-information.md
   - Mertens Coralroot: plants/mertens-coralroot.md
   - Moma Morenos Chicken Green Chili Soup: recipes/moma-morenos-chicken-green-chili-soup.md
-  - Mount Hood Meadows: mount-hood-meadows.md
-  - Mount Norquay: mount-norquay.md
   - Notes: notes.md
   - Nuttalls Larkspur: plants/nuttalls-larkspur.md
   - Outhouses: outhouses.md
@@ -737,7 +784,6 @@ nav:
   - Washington Trails Association: washington-trails-association.md
   - Weather Thunderstorms And Lightning: weather-thunderstorms-and-lightning.md
   - Website Notes: website-notes.md
-  - Whistler Blackcomb: whistler-blackcomb.md
   - Wild Honeysuckle: plants/wild-honeysuckle.md
   - Wildlife: wildlife.md
   - Willow Creek West Cascades: willow-creek-west-cascades.md
@@ -781,46 +827,13 @@ nav:
   - Wellington Falls: wellington-falls.md
   - Willow Creek Falls East: willow-creek-falls-east.md
 - Winter & Skiing:
-  - 49 Degrees North Ski Area: ski/49-degrees-north-ski-area.md
-  - Alta Ski Area: ski/alta-ski-area.md
-  - Backcountry Ski Friends: ski/backcountry-ski-friends.md
-  - Big Sky Resort: ski/big-sky-resort.md
-  - Bogus Basin Ski Resort: ski/bogus-basin-ski-resort.md
-  - Brighton Resort: ski/brighton-resort.md
-  - Deer Creek Nordic Sno Park: deer-creek-nordic-sno-park.md
-  - Deer Valley Resort: ski/deer-valley-resort.md
-  - Discovery Ski Area: ski/discovery-ski-area.md
-  - Fernie Alpine Resort: ski/fernie-alpine-resort.md
-  - Grand Targhee Ski Resort: ski/grand-targhee-ski-resort.md
-  - Jackson Hole Ski Resort: ski/jackson-hole-ski-resort.md
-  - Kicking Horse Mt Resort: ski/kicking-horse-mt-resort.md
-  - Kimberrly Alpine Resort: ski/kimberrly-alpine-resort.md
-  - Lookout Pass Ski & Recreation Area: ski/lookout-pass-ski--rec.md
-  - Loup Loup Ski Bowl: ski/loup-loup-ski-bowl.md
-  - Mount Bachelor Ski Resort: ski/mount-bachelor-ski-resort.md
-  - Mount Baldy Ski Resort: ski/mount-baldy-ski-resort.md
-  - Mount Hood Ski Bowl: ski/mount-hood-ski-bowl.md
-  - Mount Spokane Ski  Snowboard Park: ski/mount-spokane-ski--snowboard-park.md
-  - Mount Spokane Snowshoenordic Skibc Ski: ski/mount-spokane-snowshoenordic-skibc-ski.md
-  - Park City Ski Area: ski/park-city-ski-area.md
-  - Revelstoke Mt Resort: ski/revelstoke-mt-resort.md
-  - Salmo Ski Area: ski/salmo-ski-area.md
   - Ski: ski/ski.md
   - Ski History & Avalanche Safety: ski/index.md
-  - Snow Basin Resort: ski/snow-basin-resort.md
-  - Snowbird Ski Area: ski/snowbird-ski-area.md
   - Snowbrush Ceanothus: snowbrush-ceanothus.md
-  - Snowking Ski Resort: ski/snowking-ski-resort.md
   - Spokane Nordic Ski Association: ski/spokane-nordic-ski-association.md
-  - Sundance Ski Resort: ski/sundance-ski-resort.md
-  - Sunshine Ski Resort: ski/sunshine-ski-resort.md
-  - Tamarack Resort: ski/tamarack-resort.md
-  - Teton Pass Resort: ski/teton-pass-resort.md
-  - Timberline Lodge Ski Area: ski/timberline-lodge-ski-area.md
   - Tony Kozlowski: ski/tony-kozlowski.md
   - Trail Etiquette And Skills: trail-etiquette-and-skills.md
   - Upper & Lower Snow Creek Falls: u--l-snow-creek-falls.md
-  - Whitewater Ski Resort: ski/whitewater-ski-resort.md
 - About:
   - 'Biography :: Chic': biography--chic.md
   - 'Biography :: David': biography--david.md

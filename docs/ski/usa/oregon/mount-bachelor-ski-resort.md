@@ -39,7 +39,7 @@ Miles from spokane: 407 miles Other amenities: ???
 
 ## Description
 
-![Picture](../assets/images/120620211147a.jpg)
+![Picture](../../../assets/images/120620211147a.jpg)
 
 ## Info above & below courtesy of mt.bachelor
 

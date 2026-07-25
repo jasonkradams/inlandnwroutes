@@ -91,11 +91,11 @@ Washington's mountain ranges host premier alpine ski resorts and Sno-Parks for w
 
 | Ski Resort | Location & Mountain Range | Route Guide Link |
 | :--- | :--- | :--- |
-| **49 Degrees North** | Chewelah, WA (Calispell Peak) | [49 Degrees North Guide](../../ski/49-degrees-north-ski-area.md) |
-| **Mount Spokane** | Mead, WA (Mt. Spokane State Park) | [Mt. Spokane Guide](../../ski/mount-spokane-ski--snowboard-park.md) |
-| **Ski Bluewood** | Dayton, WA (Blue Mountains) | [Ski Bluewood Guide](../../bluewood.md) |
-| **Loup Loup Ski Bowl** | Twisp, WA (Okanogan Valley) | [Loup Loup Guide](../../ski/loup-loup-ski-bowl.md) |
-| **Mission Ridge** | Wenatchee, WA (Cascade Mountains) | [Mission Ridge Guide](../../ski/mission-ridge-ski--board-resort.md) |
+| **49 Degrees North** | Chewelah, WA (Calispell Peak) | [49 Degrees North Guide](../../ski/usa/washington/49-degrees-north-ski-area.md) |
+| **Mount Spokane** | Mead, WA (Mt. Spokane State Park) | [Mt. Spokane Guide](../../ski/usa/washington/mount-spokane-ski--snowboard-park.md) |
+| **Ski Bluewood** | Dayton, WA (Blue Mountains) | [Ski Bluewood Guide](../../ski/usa/washington/bluewood.md) |
+| **Loup Loup Ski Bowl** | Twisp, WA (Okanogan Valley) | [Loup Loup Guide](../../ski/usa/washington/loup-loup-ski-bowl.md) |
+| **Mission Ridge** | Wenatchee, WA (Cascade Mountains) | [Mission Ridge Guide](../../ski/usa/washington/mission-ridge-ski--board-resort.md) |
 
 ---
 

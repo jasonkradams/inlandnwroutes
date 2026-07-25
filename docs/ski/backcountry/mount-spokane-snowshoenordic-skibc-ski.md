@@ -48,7 +48,7 @@ easy to difficult so you can choose to take the hard way from point A to B or th
 
 # Mount Spokane Snowshoenordic Skibc Ski
 
-![Picture](../assets/images/11272021806p.jpg)
+![Picture](../../assets/images/11272021806p.jpg)
 
 ## Picture (Image missing)
 
@@ -78,11 +78,11 @@ Foggy Bottom Lounge, Big Barn Brewery
 
 ---
 
-![Picture](../assets/images/img-7044.jpg)
+![Picture](../../assets/images/img-7044.jpg)
 
 ---
 
-![Picture](../assets/images/img-7048.jpg)
+![Picture](../../assets/images/img-7048.jpg)
 
 ## Co-author david crafton snowshoeing on mount spokane
 
@@ -94,7 +94,7 @@ Foggy Bottom Lounge, Big Barn Brewery
 
 ---
 
-![Picture](../assets/images/img-5129.jpg)
+![Picture](../../assets/images/img-5129.jpg)
 
 ## The vista house on mount spokane's summit, on a busy day
 

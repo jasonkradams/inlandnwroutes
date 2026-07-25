@@ -193,6 +193,6 @@ Cliff Lake, Chicago Peak, St. Paul Peak
 
 ## 22-jan-2020
 
-[Added Deer Creek Nordic Sno-Park](deer-creek-nordic-sno-park.md)
+[Added Deer Creek Nordic Sno-Park](ski/backcountry/deer-creek-nordic-sno-park.md)
 
-[*Picture (Image missing)*](deer-creek-nordic-sno-park.md)
+[*Picture (Image missing)*](ski/backcountry/deer-creek-nordic-sno-park.md)

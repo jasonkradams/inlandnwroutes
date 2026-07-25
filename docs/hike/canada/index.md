@@ -66,21 +66,21 @@ the world.
 
 <table> <thead> <tr> <th>Resort Name</th> <th>Region & Location</th> <th>Route Guide Link</th> </tr>
 </thead> <tbody> <tr> <td><strong>Fernie Alpine Resort</strong></td> <td>Fernie, BC (Lizard Range)</td>
-<td><a href="../../ski/fernie-alpine-resort.md">Fernie Ski Guide</a></td> </tr> <tr> <td><strong>Kicking Horse
+<td><a href="../../ski/canada/british-columbia/fernie-alpine-resort.md">Fernie Ski Guide</a></td> </tr> <tr> <td><strong>Kicking Horse
 Mountain Resort</strong></td> <td>Golden, BC (Purcell Mountains)</td> <td><a
-href="../../ski/kicking-horse-mt-resort.md">Kicking Horse Guide</a></td> </tr> <tr> <td><strong>Kimberley Alpine
+href="../../ski/canada/british-columbia/kicking-horse-mt-resort.md">Kicking Horse Guide</a></td> </tr> <tr> <td><strong>Kimberley Alpine
 Resort</strong></td> <td>Kimberley, BC (Purcell Mountains)</td> <td><a
-href="../../ski/kimberrly-alpine-resort.md">Kimberley Guide</a></td> </tr> <tr> <td><strong>Panorama Mountain
+href="../../ski/canada/british-columbia/kimberrly-alpine-resort.md">Kimberley Guide</a></td> </tr> <tr> <td><strong>Panorama Mountain
 Resort</strong></td> <td>Invermere, BC (Purcell Mountains)</td> <td><a
-href="../../ski/panorama-mountain-resort.md">Panorama Guide</a></td> </tr> <tr> <td><strong>RED Mountain
-Resort</strong></td> <td>Rossland, BC (Monashee Mountains)</td> <td><a href="../../ski/red-mountain-resort.md">RED
+href="../../ski/canada/british-columbia/panorama-mountain-resort.md">Panorama Guide</a></td> </tr> <tr> <td><strong>RED Mountain
+Resort</strong></td> <td>Rossland, BC (Monashee Mountains)</td> <td><a href="../../ski/canada/british-columbia/red-mountain-resort.md">RED
 Mountain Guide</a></td> </tr> <tr> <td><strong>Revelstoke Mountain Resort</strong></td> <td>Revelstoke, BC
-(Selkirk Mountains)</td> <td><a href="../../ski/revelstoke-mt-resort.md">Revelstoke Guide</a></td> </tr> <tr>
+(Selkirk Mountains)</td> <td><a href="../../ski/canada/british-columbia/revelstoke-mt-resort.md">Revelstoke Guide</a></td> </tr> <tr>
 <td><strong>Whitewater Ski Resort</strong></td> <td>Nelson, BC (Selkirk Mountains)</td> <td><a
-href="../../ski/whitewater-ski-resort.md">Whitewater Guide</a></td> </tr> <tr> <td><strong>Whistler
-Blackcomb</strong></td> <td>Whistler, BC (Coast Mountains)</td> <td><a href="../../whistler-blackcomb.md">Whistler
+href="../../ski/canada/british-columbia/whitewater-ski-resort.md">Whitewater Guide</a></td> </tr> <tr> <td><strong>Whistler
+Blackcomb</strong></td> <td>Whistler, BC (Coast Mountains)</td> <td><a href="../../ski/canada/british-columbia/whistler-blackcomb.md">Whistler
 Guide</a></td> </tr> <tr> <td><strong>Lake Louise Ski Resort</strong></td> <td>Lake Louise, AB (Canadian
-Rockies)</td> <td><a href="../../ski/lake-louise-ski-resort.md">Lake Louise Guide</a></td> </tr> </tbody> </table>
+Rockies)</td> <td><a href="../../ski/canada/alberta/lake-louise-ski-resort.md">Lake Louise Guide</a></td> </tr> </tbody> </table>
 
 ---
 

@@ -75,11 +75,11 @@ courtesy of silver mountain
 
 ## Chair 3 in the distance, with chair 4 in the foreground
 
-![Picture](../assets/images/12082021305p.jpg)
+![Picture](../../../assets/images/12082021305p.jpg)
 
 ## Kellogg peak's ski terrain Image courtesy of silver mountain
 
-![Picture](../assets/images/2021614722-jpeg-1-1.jpg)
+![Picture](../../../assets/images/2021614722-jpeg-1-1.jpg)
 
 On top of kellogg peak is a replica of a fire lookout cabin On a sunny ski day, the temps are in the 70°
 range and is a great spot to have lunch with a view
@@ -92,7 +92,7 @@ range and is a great spot to have lunch with a view
 
 ## Looking north north east from the lookout
 
-![Picture](../assets/images/2021614722-1.jpg)
+![Picture](../../../assets/images/2021614722-1.jpg)
 
 ## An illusive snowbird perched on a limb
 
@@ -104,11 +104,11 @@ mile walk
 
 out
 
-![Picture](../assets/images/11242021714p.jpg)
+![Picture](../../../assets/images/11242021714p.jpg)
 
 ## The rimmed trees near the top of chair 2
 
-![Picture](../assets/images/11242021719p.jpg)
+![Picture](../../../assets/images/11242021719p.jpg)
 
 ## The gang onn the way to the top of wardner peak
 
@@ -165,7 +165,7 @@ navigation system east to ***Silver Mountain***.
 
 chic. 1.26.2017
 
-![Picture](../assets/images/11242021724p.jpg)
+![Picture](../../../assets/images/11242021724p.jpg)
 
 ## Silver's spring party
 

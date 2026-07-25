@@ -37,25 +37,25 @@ notes:
 
 ## Photo Gallery
 
-![Top of Chair #2 with Mount Stuart on the Left](../assets/images/12042021836p.jpg)
+![Top of Chair #2 with Mount Stuart on the Left](../../../assets/images/12042021836p.jpg)
 _Top of Chair #2 with Mount Stuart on the Left_
 
-![Summit of the Quad Chair with the Columbia River in the Distance](../assets/images/12042021839p.jpg)
+![Summit of the Quad Chair with the Columbia River in the Distance](../../../assets/images/12042021839p.jpg)
 _Summit of the Quad Chair with the Columbia River in the Distance_
 
-![The Microwave along Windy Ridge](../assets/images/12042021842p.jpg)
+![The Microwave along Windy Ridge](../../../assets/images/12042021842p.jpg)
 _The Microwave along Windy Ridge_
 
-![Part of the Bomber Cliffs](../assets/images/12042021843p.jpg)
+![Part of the Bomber Cliffs](../../../assets/images/12042021843p.jpg)
 _Part of the Bomber Cliffs_
 
-![The Bomber Cliffs Chutes](../assets/images/12042021845p.jpg)
+![The Bomber Cliffs Chutes](../../../assets/images/12042021845p.jpg)
 _The Bomber Cliffs Chutes_
 
-![Microwave Ridge viewed from Near the Bomber Cliffs](../assets/images/12042021847p.jpg)
+![Microwave Ridge viewed from Near the Bomber Cliffs](../../../assets/images/12042021847p.jpg)
 _Microwave Ridge viewed from Near the Bomber Cliffs_
 
-![Mount Stuart Telephoto View](../assets/images/12042021851p.jpg)
+![Mount Stuart Telephoto View](../../../assets/images/12042021851p.jpg)
 _Mount Stuart Telephoto View_
 
 ## Contributing Photos

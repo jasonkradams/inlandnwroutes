@@ -29,11 +29,11 @@ To contribute images, contact chic via this website
 
 ---
 
-![Picture](../assets/images/11242021736p.gif)
+![Picture](../../../assets/images/11242021736p.gif)
 
 ## The world's first double chairlift, built by riblet company, sppokane
 
-![Picture](../assets/images/11242021737p.jpg)
+![Picture](../../../assets/images/11242021737p.jpg)
 
 ## The chairlift was an ore hauler in a mine in wallace
 
@@ -41,11 +41,11 @@ To contribute images, contact chic via this website
 
 ## The author skiing in 1956
 
-![Picture](../assets/images/11242021742p.jpg)
+![Picture](../../../assets/images/11242021742p.jpg)
 
 ## An aerial image of the vista house
 
-![Picture](../assets/images/11242021744p.jpg)
+![Picture](../../../assets/images/11242021744p.jpg)
 
 ## The vista house in deep snow
 
@@ -84,7 +84,7 @@ mountain biking, snowmobiling, horseback riding, and hiking.
 
 ##
 
-![Picture](../assets/images/12112021357p.png)
+![Picture](../../../assets/images/12112021357p.png)
 
 Mount Spokane. What is it and why visit? The summit of Mount Spokane provides visitors with grand views of
 eastern Washington. Sharp eyes can even glimpse mountains in the Cascades and Canada. The 5,883 foot-high

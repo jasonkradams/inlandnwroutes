@@ -83,7 +83,7 @@ replace "The World's Longest T-Bar", and dreams to grow the ski area have been s
 *Installing the new ski lift on Turner Mountain during the summer of 2001. Photos by Steve LeFever.* (Click
 on pictures for larger view)
 
-### [406-293-2468](tel:406-293-2468)
+### [406-293-2468](../../tel:406-293-2468)
 
 [www.skiturner.com](http://www.skiturner.com/) [**Email Protected**](mailto:protected@example.com)
 
