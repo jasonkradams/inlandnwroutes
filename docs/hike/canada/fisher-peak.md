@@ -29,6 +29,9 @@ notes:
 
 # Fisher Peak
 
+![Fisher Peak](../../assets/images/62670003_orig.jpg)
+_Fisher Peak_
+
 ## Description
 
 If you have ever visited Cranbrook, you may have noticed Fisher Peak to the East. Fisher Peak is in the

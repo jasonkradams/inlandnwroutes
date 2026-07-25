@@ -27,6 +27,9 @@ notes:
 
 # Brundage Mountain Resort
 
+![Brundage Mountain Resort](../../../assets/images/112320211003p_orig.jpg)
+_Brundage Mountain Resort_
+
 ## Overview
 
 - **Location:** McCall, ID

@@ -36,6 +36,9 @@ notes:
 
 # Iron Mountain 6426 Trails 180 & 176
 
+![Iron Mountain 6426 Trails 180 & 176](../../../assets/images/112820221217p_orig.jpg)
+_Iron Mountain 6426 Trails 180 & 176_
+
 ## Description
 
 We have added the area's sheriff emergency phone numbers for each trip write-up under the ranger district

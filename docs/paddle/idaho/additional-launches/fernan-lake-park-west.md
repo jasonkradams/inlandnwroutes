@@ -24,6 +24,9 @@ stats:
 
 # Fernan Lake Park West
 
+![Fernan Lake Park West](../../../assets/images/20200911143520_orig.png)
+_Fernan Lake Park West_
+
 ## Description
 
 !!! warning

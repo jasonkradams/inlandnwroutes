@@ -34,6 +34,9 @@ notes:
 
 # Navigation Trail 291
 
+![Navigation Trail 291](../../../assets/images/61720221257p_orig.jpeg)
+_Navigation Trail 291_
+
 ## Navigation trail #291 to upper priest lake
 
 ## Description

@@ -27,6 +27,9 @@ notes:
 
 # Snowbird Ski Area
 
+![Snowbird Ski Area](../../../assets/images/11262021635p_orig.jpg)
+_Snowbird Ski Area_
+
 ## of named runs: 140
 
 ## of lifts: 10

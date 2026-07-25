@@ -27,6 +27,9 @@ notes:
 
 # Timberline Lodge Ski Area
 
+![Timberline Lodge Ski Area](../../../assets/images/112520211021p_orig.jpg)
+_Timberline Lodge Ski Area_
+
 ## Timberline lodge ski area government camp, or
 
 ## of named runs: 36

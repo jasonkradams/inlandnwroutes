@@ -6,6 +6,9 @@ description: >-
 
 # Welcome to Inland NW Routes
 
+![Welcome to Inland NW Routes](assets/images/772026152p_orig.jpg)
+_Welcome to Inland NW Routes_
+
 ## Your Comprehensive Guide to Hiking, Scrambling, Skiing, and Paddling in the Inland Northwest
 
 Welcome to Inland NW Routes—your community resource for exploring the alpine peaks, glaciated lakes, rivers, and

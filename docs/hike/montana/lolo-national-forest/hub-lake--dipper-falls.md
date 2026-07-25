@@ -40,6 +40,9 @@ notes:
 
 # Hub Lake & Dipper Falls
 
+![Hub Lake & Dipper Falls](../../../assets/images/hub-l-eagle-p_orig.jpg)
+_Hub Lake & Dipper Falls_
+
 !!! info
     We have added the area's sheriff emergency phone numbers for each trip write-up under the ranger
     district info. If an emergency occurs, evaluate your circumstances and call only if needed.

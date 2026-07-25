@@ -38,6 +38,9 @@ notes:
 
 # Little Guard Lookout
 
+![Little Guard Lookout](../../../assets/images/392022825p_orig.jpg)
+_Little Guard Lookout_
+
 ## Little guard lookout rental 6031’
 
 ## Description

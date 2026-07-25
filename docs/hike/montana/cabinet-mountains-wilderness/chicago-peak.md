@@ -39,6 +39,9 @@ notes:
 
 # Chicago Peak
 
+![Chicago Peak](../../../assets/images/10162024930p_orig.jpg)
+_Chicago Peak_
+
 !!! warning "Before You Go"
 
     Forest Road #2741 (from F.R. #150 up to the trailhead for Cliff Lake, St. Paul Peak, and Chicago Peak)

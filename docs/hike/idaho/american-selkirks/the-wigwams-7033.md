@@ -39,6 +39,9 @@ notes:
 
 # The Wigwams 7033
 
+![The Wigwams 7033](../../../assets/images/p227_orig.png)
+_The Wigwams 7033_
+
 ## Description
 
 Be aware, the last mile of this road to The Wigwams trailhead is a difficult road that all should use

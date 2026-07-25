@@ -30,6 +30,9 @@ stats:
 
 # Banks Lake North Trail
 
+![Banks Lake North Trail](../../../assets/images/52920221056p_orig.jpeg)
+_Banks Lake North Trail_
+
 ## Description
 
 The Banks Lake North Trail is a 12-mile loop route located along the quiet northern arm of Banks Lake in

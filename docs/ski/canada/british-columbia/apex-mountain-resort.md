@@ -27,6 +27,9 @@ notes:
 
 # Apex Mountain Resort
 
+![Apex Mountain Resort](../../../assets/images/11262021739p_1.jpg)
+_Apex Mountain Resort_
+
 ## Overview
 
 - **Location:** Penticton, B.C., Canada

@@ -40,6 +40,9 @@ notes:
 
 # Trout 6352  Big Fisher 6732 Lakes Trail 13  41
 
+![Trout 6352  Big Fisher 6732 Lakes Trail 13  41](../../../assets/images/img-0210_orig.jpeg)
+_Trout 6352  Big Fisher 6732 Lakes Trail 13  41_
+
 ## Description
 
 From the Pyramid Lakes trailhead, take Trail # 13 for about 1/2 a mile to the trail sign in box, and take

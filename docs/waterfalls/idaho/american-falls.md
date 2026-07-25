@@ -24,6 +24,9 @@ stats:
 
 # American Falls
 
+![American Falls](../../assets/images/11012021807_orig.jpg)
+_American Falls_
+
 ## Description
 
 Trail #308 hikes up the Upper Priest River for about 8 miles one way. The trail only gains 640 feet, making

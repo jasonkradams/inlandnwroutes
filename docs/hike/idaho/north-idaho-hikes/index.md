@@ -5,6 +5,9 @@ tags:
 
 # North Idaho Hikes
 
+![North Idaho Hikes](../../../assets/images/1028842119.jpg)
+_North Idaho Hikes_
+
 **Even though Euro-Americans didn’t arrive in the Priest Lake region the early 1800’s with the Lewis and
 Clark expeditions, there is evidence of humans as far back as 10,000 years ago known as Paleo-Indians
 (Wuerthner, 1995), brought in by good hunting and fishing (Wuerthner, 1995). The Lewis and Clark expeditions

@@ -34,6 +34,9 @@ notes:
 
 # Stevens Peak Smi Mountain School
 
+![Stevens Peak Smi Mountain School](../../../assets/images/495296155.jpg)
+_Stevens Peak Smi Mountain School_
+
 ## Stevens peak smi mountain school 6838’
 
 ## Description

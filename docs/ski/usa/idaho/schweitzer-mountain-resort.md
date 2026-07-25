@@ -27,6 +27,9 @@ notes:
 
 # Schweitzer Mountain Resort
 
+![Schweitzer Mountain Resort](../../../assets/images/112420211100aa_orig.jpg)
+_Schweitzer Mountain Resort_
+
 ## Schweitzer mountain resort sandpoint, id
 
 ## of named runs: 92

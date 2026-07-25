@@ -24,6 +24,9 @@ stats:
 
 # Towell Falls
 
+![Towell Falls](../../assets/images/930652_orig.jpg)
+_Towell Falls_
+
 ## Description
 
 When you drive west on Hwy 2, I-90, or Hwy 26, you notice the area looks vacant and dry. But when you stop

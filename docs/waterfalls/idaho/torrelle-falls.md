@@ -24,6 +24,9 @@ stats:
 
 # Torrelle Falls
 
+![Torrelle Falls](../../assets/images/img-0081_136.jpg)
+_Torrelle Falls_
+
 ## Description
 
 Add description.

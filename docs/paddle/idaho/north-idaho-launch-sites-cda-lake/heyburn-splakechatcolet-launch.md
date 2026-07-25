@@ -24,6 +24,9 @@ stats:
 
 # Heyburn S.P. Lake Chatcolet Launch
 
+![Heyburn S.P. Lake Chatcolet Launch](../../../assets/images/2021520324_orig.jpeg)
+_Heyburn S.P. Lake Chatcolet Launch_
+
 ## Description
 
 We have added the area's sheriff’s emergency phone numbers for each trip write-up under the ranger district

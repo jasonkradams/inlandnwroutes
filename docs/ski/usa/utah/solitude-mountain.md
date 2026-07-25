@@ -27,6 +27,9 @@ notes:
 
 # Solitude Mountain
 
+![Solitude Mountain](../../../assets/images/1262021648p_orig.jpg)
+_Solitude Mountain_
+
 ## Solitude ski resort solitude, ut
 
 ## of named runs: 82

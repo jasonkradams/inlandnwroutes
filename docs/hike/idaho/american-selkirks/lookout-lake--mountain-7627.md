@@ -39,6 +39,9 @@ notes:
 
 # Lookout Lake  Mountain 7627
 
+![Lookout Lake  Mountain 7627](../../../assets/images/img-0142_orig.jpg)
+_Lookout Lake  Mountain 7627_
+
 ## Lookout lake, mountain 6727’ & two lookout towers
 
 ## Description

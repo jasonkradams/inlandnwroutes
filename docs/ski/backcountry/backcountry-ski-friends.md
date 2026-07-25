@@ -6,6 +6,9 @@ tags:
 
 # Backcountry Ski Friends
 
+![Backcountry Ski Friends](../../assets/images/cropped-logo-1-1_orig.jpg)
+_Backcountry Ski Friends_
+
 [Backcountry ski friends](https://www.backcountryskifriends.com)
 
 ## About

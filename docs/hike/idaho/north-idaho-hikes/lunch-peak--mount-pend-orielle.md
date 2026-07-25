@@ -37,6 +37,9 @@ notes:
 
 # Lunch Peak  Mount Pend Orielle
 
+![Lunch Peak  Mount Pend Orielle](../../../assets/images/7262025316p_orig.jpg)
+_Lunch Peak  Mount Pend Orielle_
+
 ## Lunch peak 6412’ & Mount pend oreille 6755’ trail #67
 
 ## Description

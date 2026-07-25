@@ -37,6 +37,9 @@ notes:
 
 # Blacktail Mountain
 
+![Blacktail Mountain](../../../assets/images/20201116053958_orig.jpg)
+_Blacktail Mountain_
+
 ## Blacktail mountain 5495' trail #292
 
 ## Description

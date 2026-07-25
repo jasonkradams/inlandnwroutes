@@ -22,6 +22,9 @@ stats:
 
 # Mica Bay Launch
 
+![Mica Bay Launch](../../../assets/images/20200917062802_orig.jpg)
+_Mica Bay Launch_
+
 ## Description
 
 We have added the area's sheriff emergency phone numbers for each trip write-up under the ranger district

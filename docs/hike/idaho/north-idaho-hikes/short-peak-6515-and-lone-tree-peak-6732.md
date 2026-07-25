@@ -38,6 +38,9 @@ notes:
 
 # Short Peak 6515 And Lone Tree Peak 6732
 
+![Short Peak 6515 And Lone Tree Peak 6732](../../../assets/images/2120211116_orig.jpg)
+_Short Peak 6515 And Lone Tree Peak 6732_
+
 ## Short peak 6515' and lone tree peak 6732' #95
 
 ## Description

@@ -79,6 +79,9 @@ notes:
 
 # Birdsfoot Trefoil
 
+![Birdsfoot Trefoil](../../assets/images/772022735p_orig.jpeg)
+_Birdsfoot Trefoil_
+
 ## Bird'sfoot trefoil
 
 ## Description

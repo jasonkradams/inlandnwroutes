@@ -5,6 +5,9 @@ tags:
 
 # Pewee Falls Pend Orielle River
 
+![Pewee Falls Pend Orielle River](../../../assets/images/p52_orig.png)
+_Pewee Falls Pend Orielle River_
+
 ---
 tags:
 

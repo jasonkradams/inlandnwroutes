@@ -5,6 +5,9 @@ tags:
 
 # Spokane County Parks Conservation Futures Properties
 
+![Spokane County Parks Conservation Futures Properties](assets/images/1664054130.jpeg)
+_Spokane County Parks Conservation Futures Properties_
+
 Conservation FuturesConservation Futures Program The Spokane County Conservation Futures Program was
 conceived in 1994 with the voters approval of an advisory ballot measure authorizing a property tax levy of
 (up-to) 6.25-cents per $1000 of property value, in order to acquire and preserve Spokane County's open

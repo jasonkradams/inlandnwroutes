@@ -6,6 +6,9 @@ tags:
 
 # Threadleaf Phacilia
 
+![Threadleaf Phacilia](../../assets/images/11142021533_117.jpg)
+_Threadleaf Phacilia_
+
 ## Common name
 
 ---

@@ -37,6 +37,9 @@ stats:
 
 # Hub Lake
 
+![Hub Lake](../../../assets/images/p522.png)
+_Hub Lake_
+
 Hub Lake & Dipper Falls.
 
 ## Description

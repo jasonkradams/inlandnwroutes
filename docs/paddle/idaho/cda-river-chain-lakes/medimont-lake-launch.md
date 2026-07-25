@@ -25,6 +25,9 @@ stats:
 
 # Medimont Lake Launch
 
+![Medimont Lake Launch](../../../assets/images/202162926-jpeg-1_orig.jpeg)
+_Medimont Lake Launch_
+
 ## Description
 
 The Medimont Launch services Cave Lake and Medicine Lake. To paddle to Cave Lake, paddle west to the bridge

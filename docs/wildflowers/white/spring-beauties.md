@@ -50,6 +50,9 @@ notes:
 
 # Spring Beauties
 
+![Spring Beauties](../../assets/images/11092021644p_orig.jpeg)
+_Spring Beauties_
+
 ## Description
 
 This plant is native to western North America as far south as

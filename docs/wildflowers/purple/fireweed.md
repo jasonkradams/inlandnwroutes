@@ -52,6 +52,9 @@ notes:
 
 # Fireweed
 
+![Fireweed](../../assets/images/11222021933_orig.jpg)
+_Fireweed_
+
 !!! warning "Before you go"
 
     i have revised this section.

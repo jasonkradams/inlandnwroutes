@@ -39,6 +39,9 @@ notes:
 
 # Bloom Peak
 
+![Bloom Peak](../../../assets/images/img-0081_33.jpg)
+_Bloom Peak_
+
 ## Description
 
 One of the highlight features of Bloom Peak is that you can drive to within 161 vertical feet of the summit.

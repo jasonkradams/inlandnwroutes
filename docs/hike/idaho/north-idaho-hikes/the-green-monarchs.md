@@ -37,6 +37,9 @@ notes:
 
 # The Green Monarchs
 
+![The Green Monarchs](../../../assets/images/img-0081_81.jpg)
+_The Green Monarchs_
+
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district

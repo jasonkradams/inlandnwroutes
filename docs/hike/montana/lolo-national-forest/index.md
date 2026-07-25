@@ -5,6 +5,9 @@ tags:
 
 # Lolo National Forest
 
+![Lolo National Forest](../../../assets/images/506875603.jpg)
+_Lolo National Forest_
+
 Lolo National ForestLocated west of the continental divide, the Lolo National Forest is influenced by both
 continental and maritime climates, which provide for a wide range of environmental gradients producing a
 forest of high diversity. The diverse ecosystems of the Lolo are home for 17 conifer and 5 hardwood tree

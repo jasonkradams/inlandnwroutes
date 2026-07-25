@@ -39,6 +39,9 @@ notes:
 
 # Little Harrison Lake (6,271') & Peak 7292
 
+![Little Harrison Lake (6,271') & Peak 7292](../../../assets/images/112820221206p_orig.jpg)
+_Little Harrison Lake (6,271') & Peak 7292_
+
 ## Description
 
 We have added the area's sheriff emergency phone numbers for each trip write-up under the ranger district

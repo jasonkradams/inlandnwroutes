@@ -25,6 +25,9 @@ notes:
 
 # Kintla Lake (4,008')
 
+![Kintla Lake (4,008')](../../../assets/images/20211130911_orig.jpg)
+_Kintla Lake (4,008')_
+
 ## Description
 
 It takes a bit of effort and planning to get to Kintla Lake, but the paddling can be magical. The water is
@@ -90,10 +93,14 @@ Bowman Lake, Flathead River, Waterton Lakes National Park, Bob Marshall Wilderne
 ## Hazards & Safety
 
 !!! caution "Road & Wilderness Hazards"
-    - **Rough Access Road:** The 20-mile road from Polebridge to Kintla Lake is unpaved and notoriously rough. Do not drive it on worn or low-clearance tires.
-    - **Outlet Currents:** Current at the outlet stream can be strong depending on season and water level; exercise caution near the stream mouth to avoid being swept downstream.
-    - **Wildlife:** Grizzly bears, black bears, and mountain lions inhabit the area. Store all food properly in bear lockers. Standard coolers are not bear-proof.
-    - **Weather & Wind:** High winds can quickly build large waves on the lake. Cold water immersion is life-threatening. Remote location means emergency response will be delayed.
+    - **Rough Access Road:** The 20-mile road from Polebridge to Kintla Lake is unpaved and notoriously rough.
+      Do not drive it on worn or low-clearance tires.
+    - **Outlet Currents:** Current at the outlet stream can be strong depending on season and water level;
+      exercise caution near the stream mouth to avoid being swept downstream.
+    - **Wildlife:** Grizzly bears, black bears, and mountain lions inhabit the area. Store all food properly
+      in bear lockers. Standard coolers are not bear-proof.
+    - **Weather & Wind:** High winds can quickly build large waves on the lake. Cold water immersion is
+      life-threatening. Remote location means emergency response will be delayed.
 
 ---
 

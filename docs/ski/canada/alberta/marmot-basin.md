@@ -27,6 +27,9 @@ notes:
 
 # Marmot Basin
 
+![Marmot Basin](../../../assets/images/11272021320p_orig.jpg)
+_Marmot Basin_
+
 ## Marmot basin jasper, alberta, canada
 
 ## of named runs: 91

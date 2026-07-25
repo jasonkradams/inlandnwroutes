@@ -39,6 +39,9 @@ notes:
 
 # Upper And Lower Stevens Lake
 
+![Upper And Lower Stevens Lake](../../../assets/images/img-6848_orig.jpg)
+_Upper And Lower Stevens Lake_
+
 ## Lower & upper stevens lakes, alpine lakes region, idaho
 
 ## Description

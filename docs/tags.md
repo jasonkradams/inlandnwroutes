@@ -33,6 +33,7 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
     <button type="button" class="tag-pill-btn" data-tag="Photography">Photography <span class="tag-count">(10)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Recipes">Recipes <span class="tag-count">(10)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Fire Lookout Rental">Fire Lookout Rental <span class="tag-count">(5)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Flora & Wildlife">Flora & Wildlife <span class="tag-count">(3)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Loop">Loop <span class="tag-count">(3)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Scenery">Scenery <span class="tag-count">(3)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Swimming">Swimming <span class="tag-count">(3)</span></button>
@@ -644,6 +645,17 @@ Found **11** guides tagged with **Flora & Plants**:
 - [Trees](gallery/categories/trees.md)
 - [Wild Honeysuckle](wildflowers/orange/wild-honeysuckle.md)
 - [Woodland Pinedrop](wildflowers/purple/woodland-pinedrop.md)
+
+</div>
+<div class="static-tag-section" data-tag="Flora & Wildlife" markdown="1">
+
+## Flora & Wildlife
+
+Found **3** guides tagged with **Flora & Wildlife**:
+
+- [Sego Lily](wildflowers/white/sego-lily.md)
+- [Threeleaf Foamflower](wildflowers/white/threeleaf-foamflower.md)
+- [Western Moss Heather](wildflowers/red-and-pink/western-moss-heather.md)
 
 </div>
 <div class="static-tag-section" data-tag="Hiking" markdown="1">
@@ -4350,6 +4362,27 @@ Found **1** guide tagged with **waterfalls**:
     "url": "/waterfalls/",
     "tags": [
       "waterfalls"
+    ]
+  },
+  {
+    "title": "Western Moss Heather",
+    "url": "/wildflowers/red-and-pink/western-moss-heather/",
+    "tags": [
+      "Flora & Wildlife"
+    ]
+  },
+  {
+    "title": "Sego Lily",
+    "url": "/wildflowers/white/sego-lily/",
+    "tags": [
+      "Flora & Wildlife"
+    ]
+  },
+  {
+    "title": "Threeleaf Foamflower",
+    "url": "/wildflowers/white/threeleaf-foamflower/",
+    "tags": [
+      "Flora & Wildlife"
     ]
   }
 ]

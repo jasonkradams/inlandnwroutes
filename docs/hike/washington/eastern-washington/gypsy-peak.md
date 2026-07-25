@@ -37,6 +37,9 @@ notes:
 
 # Gypsy Peak
 
+![Gypsy Peak](../../../assets/images/2021511512_orig.jpg)
+_Gypsy Peak_
+
 ## Description
 
 Because of the distance and the road to the trailhead, I would suggest you drive to the trailhead the night

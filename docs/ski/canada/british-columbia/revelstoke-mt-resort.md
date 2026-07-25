@@ -27,6 +27,9 @@ notes:
 
 # Revelstoke Mt Resort
 
+![Revelstoke Mt Resort](../../../assets/images/11272021227p_orig.jpeg)
+_Revelstoke Mt Resort_
+
 ## Revelstoke mountain resort revelstoke, b.c
 
 ## of named runs: 75

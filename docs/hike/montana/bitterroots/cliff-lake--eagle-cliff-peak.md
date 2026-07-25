@@ -38,6 +38,9 @@ notes:
 
 # Cliff Lake & Eagle Cliff Peak
 
+![Cliff Lake & Eagle Cliff Peak](../../../assets/images/img-9665-copy_orig.jpg)
+_Cliff Lake & Eagle Cliff Peak_
+
 ## Description
 
 We have added the area's sheriff’s emergency phone numbers for each trip write-up under the ranger district

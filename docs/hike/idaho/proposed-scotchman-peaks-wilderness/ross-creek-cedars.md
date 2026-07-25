@@ -33,6 +33,9 @@ notes:
 
 # Ross Creek Cedars
 
+![Ross Creek Cedars](../../../assets/images/20200909060151_1.jpg)
+_Ross Creek Cedars_
+
 ## Ross creek cedars scenic area. trail #405
 
 ## Description

@@ -37,6 +37,9 @@ notes:
 
 # Burton Peak 6844 Trail 9
 
+![Burton Peak 6844 Trail 9](../../../assets/images/img-0061-2_orig.jpg)
+_Burton Peak 6844 Trail 9_
+
 ## Description
 
 The trail starts out in a forest of old-growth Larch, younger Lodgepole Pine, and Douglas Fir. As you climb

@@ -5,6 +5,9 @@ tags:
 
 # Proposed Scotchman Peaks Wilderness
 
+![Proposed Scotchman Peaks Wilderness](../../../assets/images/1286551040.jpg)
+_Proposed Scotchman Peaks Wilderness_
+
 ## proposed scotchman peak wilderness
 
 Click to set custom HTML

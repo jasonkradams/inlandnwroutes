@@ -27,6 +27,9 @@ notes:
 
 # Rocky Mountain Gentian (Gentiana affinis)
 
+![Rocky Mountain Gentian (Gentiana affinis)](../../assets/images/11092021241p_orig.jpeg)
+_Rocky Mountain Gentian (Gentiana affinis)_
+
 Rocky Mountain Gentian (*Gentiana affinis*), also known as Pleated Gentian or Trailing Gentian, is a striking
 perennial wildflower in the gentian family (*Gentianaceae*). Renowned for its vivid "gentian blue" trumpet-shaped
 blossoms, it blooms during late summer and early autumn when most other subalpine wildflowers have set seed.

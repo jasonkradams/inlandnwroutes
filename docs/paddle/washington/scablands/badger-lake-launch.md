@@ -25,6 +25,9 @@ stats:
 
 # Badger Lake Launch
 
+![Badger Lake Launch](../../../assets/images/20201206153432_orig.jpg)
+_Badger Lake Launch_
+
 ## Description
 
 Badger Lake is a narrow, scenic "S"-shaped lake stretching 2.73 miles in length and covering 244 acres

@@ -45,6 +45,9 @@ notes:
 
 # Leigh Lake
 
+![Leigh Lake](../../../assets/images/p788_orig.png)
+_Leigh Lake_
+
 ## Leigh lake 5144’, cabinet mountain wilderness
 
 ## Description

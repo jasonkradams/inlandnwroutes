@@ -62,6 +62,9 @@ notes:
 
 # Glacier Lilies
 
+![Glacier Lilies](../../assets/images/11202021126_orig.jpeg)
+_Glacier Lilies_
+
 ## Glacier lilies. aka fawn lilies, dogtooth violet
 
 ## Description

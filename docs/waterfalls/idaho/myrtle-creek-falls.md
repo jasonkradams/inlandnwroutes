@@ -24,6 +24,9 @@ stats:
 
 # Myrtle Creek Falls
 
+![Myrtle Creek Falls](../../assets/images/28150032_orig.jpg)
+_Myrtle Creek Falls_
+
 ## Description
 
 Myrtle Falls and Creek are located within the Kootenai National Wildlife Refuge, and are easy to get to.

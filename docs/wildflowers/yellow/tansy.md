@@ -58,6 +58,9 @@ notes:
 
 # Tansy
 
+![Tansy](../../assets/images/11202021336_orig.jpg)
+_Tansy_
+
 ## Description
 
 Tansy ragwort is a biennial, perennial, or winter annual herb. Typically, it remains a rosette the first

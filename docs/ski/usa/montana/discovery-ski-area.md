@@ -27,6 +27,9 @@ notes:
 
 # Discovery Ski Area
 
+![Discovery Ski Area](../../../assets/images/112620211051a_orig.jpg)
+_Discovery Ski Area_
+
 ## Overview
 
 - **Location:** Philipsburg, MT

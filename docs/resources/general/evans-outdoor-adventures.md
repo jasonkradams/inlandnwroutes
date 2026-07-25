@@ -5,6 +5,9 @@ tags:
 
 # Evans Outdoor Adventures
 
+![Evans Outdoor Adventures](../../assets/images/cropped-04-17-17-bighorn-upper-calf-142-2-scaled-1_orig.jpg)
+_Evans Outdoor Adventures_
+
 ## Meet Jason & Lusha
 
 Hello and thank you for visiting Evans Outdoor Adventures! We love to hike, backpack, fly fish, kayak,

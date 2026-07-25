@@ -30,6 +30,9 @@ stats:
 
 # Lake O'Hara (6,939')
 
+![Lake O'Hara (6,939')](../../assets/images/36107917.jpg)
+_Lake O'Hara (6,939')_
+
 ## Description
 
 The Lake O'Hara basin in Yoho National Park is remarkable in many ways. It is surrounded by glacier-carved

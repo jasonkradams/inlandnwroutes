@@ -41,6 +41,9 @@ notes:
 
 # Lake Estelle & Moose Lake Trail System (Trail #36)
 
+![Lake Estelle & Moose Lake Trail System (Trail #36)](../../../assets/images/20200911060734_orig.jpg)
+_Lake Estelle & Moose Lake Trail System (Trail #36)_
+
 ## Description
 
 The Moose Lake Trailhead provides an outhouse, ample parking, and an informative trail system map. For the

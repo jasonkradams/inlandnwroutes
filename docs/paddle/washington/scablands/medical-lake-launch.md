@@ -25,6 +25,9 @@ stats:
 
 # Medical Lake Launch
 
+![Medical Lake Launch](../../../assets/images/20201206152742_orig.jpg)
+_Medical Lake Launch_
+
 ## Description
 
 We have added the area's sheriff emergency phone numbers for each trip write-up under the ranger district

@@ -25,6 +25,9 @@ stats:
 
 # Little Harrison Lake Falls
 
+![Little Harrison Lake Falls](../../assets/images/11052021721p_orig.jpg)
+_Little Harrison Lake Falls_
+
 ## Description
 
 To get to Little Harrison Lake, you must first hike to Beehive Lake on Trail #279 for 3.8 miles.

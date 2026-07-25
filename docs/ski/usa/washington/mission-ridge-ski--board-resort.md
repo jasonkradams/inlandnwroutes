@@ -28,6 +28,9 @@ notes:
 
 # Mission Ridge Ski & Board Resort
 
+![Mission Ridge Ski & Board Resort](../../../assets/images/11232021816p_orig.jpg)
+_Mission Ridge Ski & Board Resort_
+
 ## Overview
 
 - **Location:** Wenatchee, WA

@@ -5,6 +5,9 @@ tags:
 
 # Website Notes
 
+![Website Notes](assets/images/124059074.jpg)
+_Website Notes_
+
 ## Project Plan/Action Items
 
 To Do

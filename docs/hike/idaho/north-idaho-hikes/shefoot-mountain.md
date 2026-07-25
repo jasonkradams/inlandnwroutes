@@ -25,6 +25,9 @@ notes:
 
 # Shefoot Mountain
 
+![Shefoot Mountain](../../../assets/images/img-0081_93.jpg)
+_Shefoot Mountain_
+
 ## Big dick point 5419’& shefoot mountain 6349’
 
 ## Description

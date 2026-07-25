@@ -53,6 +53,9 @@ notes:
 
 # 0Xeye Daisy
 
+![0Xeye Daisy](../../assets/images/112520211157_orig.jpg)
+_0Xeye Daisy_
+
 ## Oxeye daisy. aka field daisy
 
 ## Description

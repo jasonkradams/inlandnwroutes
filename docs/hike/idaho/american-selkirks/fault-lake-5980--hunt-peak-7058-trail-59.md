@@ -41,6 +41,9 @@ notes:
 
 # Fault Lake 5980 Hunt Peak 7058 Trail 59
 
+![Fault Lake 5980 Hunt Peak 7058 Trail 59](../../../assets/images/202095146_orig.jpg)
+_Fault Lake 5980 Hunt Peak 7058 Trail 59_
+
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district

@@ -27,6 +27,9 @@ notes:
 
 # Common Camas (Camassia quamash)
 
+![Common Camas (Camassia quamash)](../../assets/images/110820211252p_orig.jpg)
+_Common Camas (Camassia quamash)_
+
 Common Camas (*Camassia quamash*), also known as Small Camas or Indian Camas, is a stout perennial herb in the
 asparagus family (*Asparagaceae*). Growing from an edible underground bulb, it produces dense, showy racemes of
 sky-blue to deep blue-violet star-shaped flowers that frequently carpet entire moist subalpine meadows across the

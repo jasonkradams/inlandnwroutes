@@ -8,6 +8,9 @@ tags:
 
 # Canada Outdoor Routes & Regional Guide
 
+![Canada Outdoor Routes & Regional Guide](../../assets/images/1213721965.jpg)
+_Canada Outdoor Routes & Regional Guide_
+
 ## Overview & Regional Topography
 
 Just north of the U.S. border in British Columbia and Alberta lie some of North America's most spectacular

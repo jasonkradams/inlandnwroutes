@@ -40,6 +40,9 @@ notes:
 
 # Myrtle Lake 5950 & Myrtle Peak 7122 Trail 286
 
+![Myrtle Lake 5950 & Myrtle Peak 7122 Trail 286](../../../assets/images/202212010516_orig.jpg)
+_Myrtle Lake 5950 & Myrtle Peak 7122 Trail 286_
+
 ## Description
 
 We have added the area's sheriff emergency phone numbers for each trip write-up under the ranger district

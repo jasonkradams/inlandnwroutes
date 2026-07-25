@@ -27,6 +27,9 @@ notes:
 
 # Big Sky Resort
 
+![Big Sky Resort](../../../assets/images/11252021744p_orig.jpg)
+_Big Sky Resort_
+
 ## Overview
 
 - **Location:** Big Sky, MT

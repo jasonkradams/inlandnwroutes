@@ -39,6 +39,9 @@ notes:
 
 # Settlers Grove Of Ancient Cedars
 
+![Settlers Grove Of Ancient Cedars](../../../assets/images/202098931_orig.jpg)
+_Settlers Grove Of Ancient Cedars_
+
 !!! warning "Before you go"
     Settlers grove of ancient cedars
 
@@ -77,7 +80,9 @@ Lakes, Revette Lake, and Blossom Lakes.
 
 ## R & P
 
-## Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ & Saloon, Wallace Brewing Co., Muchacho’s Tacos in Wallace. Radio Brewing in Kellogg. The Snake Pit north of Kingston. And Moon Time in CDA
+Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ &
+Saloon, Wallace Brewing Co., Muchacho's Tacos in Wallace. Radio Brewing in Kellogg. The Snake Pit north of
+Kingston. And Moon Time in CDA.
 
 ## Settlers Grove Of Ancient Cedars (2)
 

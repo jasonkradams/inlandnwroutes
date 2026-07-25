@@ -40,6 +40,9 @@ notes:
 
 # Long Mountain Peak 7,265' & Lake
 
+![Long Mountain Peak 7,265' & Lake](../../../assets/images/202095206_orig.jpg)
+_Long Mountain Peak 7,265' & Lake_
+
 ## Description
 
 We have added the area's sheriff emergency phone numbers for each trip write-up under the ranger district

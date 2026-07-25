@@ -24,6 +24,9 @@ stats:
 
 # Fernan Lake Launch East
 
+![Fernan Lake Launch East](../../../assets/images/20200812190220_orig.png)
+_Fernan Lake Launch East_
+
 ## Description
 
 WEST END LAUNCH: The west end has an unusual designation. It's outlet flows in both directions, depending on

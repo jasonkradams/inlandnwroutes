@@ -5,6 +5,9 @@ tags:
 
 # Hop Goodena
 
+![Hop Goodena](../../assets/images/11072021741p_orig.jpeg)
+_Hop Goodena_
+
 ## Hop goodenia
 
 ---

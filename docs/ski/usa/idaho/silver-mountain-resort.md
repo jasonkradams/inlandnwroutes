@@ -27,6 +27,9 @@ notes:
 
 # Silver Mountain Resort
 
+![Silver Mountain Resort](../../../assets/images/112420211111a_orig.jpg)
+_Silver Mountain Resort_
+
 ## Silver mountain resort kellogg, id
 
 ## of named runs: 82

@@ -32,6 +32,9 @@ stats:
 
 # Echo Bay & Lake Pend Oreille (2,057')
 
+![Echo Bay & Lake Pend Oreille (2,057')](../../../assets/images/2020126446a_orig.jpg)
+_Echo Bay & Lake Pend Oreille (2,057')_
+
 ## Description & Paddling Instructions
 
 The paddle to Echo Bay starts at the Bayview public launch or the Farragut State Park Eagle Boat Launch.
@@ -67,8 +70,11 @@ and continue to the Eagle Boat Launch inside Farragut State Park.
 !!! caution "High Wind & Open Water Hazards"
     Lake Pend Oreille is a massive, deep body of water subject to sudden, severe winds and large waves.
 
-    - **Wind Response:** If winds pick up, pull your boat onto the nearest shore immediately. Do not attempt to paddle across open water in high winds.
-    - **Boat Handling:** Secure your cockpit cover and place all loose items below deck. Paddle carefully toward the closest shoreline. Never allow wind or waves to hit your boat broadside, as it can capsize your craft.
+    - **Wind Response:** If winds pick up, pull your boat onto the nearest shore immediately. Do not attempt
+      to paddle across open water in high winds.
+    - **Boat Handling:** Secure your cockpit cover and place all loose items below deck. Paddle carefully
+      toward the closest shoreline. Never allow wind or waves to hit your boat broadside, as it can capsize
+      your craft.
 
 ---
 

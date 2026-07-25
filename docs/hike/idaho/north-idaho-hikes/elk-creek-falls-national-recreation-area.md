@@ -36,6 +36,9 @@ notes:
 
 # Elk Creek Falls National Recreation Area
 
+![Elk Creek Falls National Recreation Area](../../../assets/images/10242023432p.jpg)
+_Elk Creek Falls National Recreation Area_
+
 ---
 
 ## Description

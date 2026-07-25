@@ -36,6 +36,9 @@ stats:
 
 # Banks Lake
 
+![Banks Lake](../../../assets/images/110620211202p_orig.jpg)
+_Banks Lake_
+
 ## Description
 
 Banks Lake is a massive 26.7-mile long, 26,890-acre reservoir created in the Upper Grand Coulee during the

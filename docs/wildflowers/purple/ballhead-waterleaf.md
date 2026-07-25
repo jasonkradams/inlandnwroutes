@@ -35,6 +35,9 @@ notes:
 
 # Ballhead Waterleaf
 
+![Ballhead Waterleaf](../../assets/images/12282021457a_orig.jpeg)
+_Ballhead Waterleaf_
+
 ## Description
 
 The genus *Hydrophyllum* contains just eight species, all native to North America. Linnaeus came up with the

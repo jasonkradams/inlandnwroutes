@@ -27,6 +27,9 @@ notes:
 
 # Salmo Ski Area
 
+![Salmo Ski Area](../../../assets/images/1127202109p_orig.jpeg)
+_Salmo Ski Area_
+
 ## Salmo ski hill salmo, b.c
 
 ## of named runs: 5

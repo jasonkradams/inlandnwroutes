@@ -39,6 +39,9 @@ notes:
 
 # Tubbs Hill
 
+![Tubbs Hill](../../../assets/images/2021116-69-jpeg-1_orig.jpeg)
+_Tubbs Hill_
+
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district

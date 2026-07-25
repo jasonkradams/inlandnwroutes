@@ -37,6 +37,9 @@ notes:
 
 # Mount Roothaan (7326') and Chimney Rock (7124') Trail 256
 
+![Mount Roothaan (7326') and Chimney Rock (7124') Trail 256](../../../assets/images/0a14f129-fc1a-4f97-ac33-e4cd46810d95_orig.jpeg)
+_Mount Roothaan (7326') and Chimney Rock (7124') Trail 256_
+
 ## Description
 
 We have added the area's sheriff's emergency phone numbers for each trip write-up under the ranger district

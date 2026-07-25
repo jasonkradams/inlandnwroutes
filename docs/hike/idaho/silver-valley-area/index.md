@@ -5,6 +5,9 @@ tags:
 
 # Silver Valley Area
 
+![Silver Valley Area](../../../assets/images/1416081438.jpg)
+_Silver Valley Area_
+
 ## Silver valley history
 
 Shoshone Shoshone County was formed under the Territory of Washington on January 9, 1861. Washington

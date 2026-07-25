@@ -41,6 +41,9 @@ notes:
 
 # Ward Peak 7312  Eagle Peak 7333 Trail 250
 
+![Ward Peak 7312  Eagle Peak 7333 Trail 250](../../../assets/images/img-0506_orig.jpg)
+_Ward Peak 7312  Eagle Peak 7333 Trail 250_
+
 ## Ward & eagle peaks, trail #250
 
 ## Description

@@ -27,6 +27,9 @@ notes:
 
 # Whitefish Mountain Resort
 
+![Whitefish Mountain Resort](../../../assets/images/11232021919p_orig.jpg)
+_Whitefish Mountain Resort_
+
 ## Whitefish mountain resort whitefish, mt
 
 ## of named runs: 111

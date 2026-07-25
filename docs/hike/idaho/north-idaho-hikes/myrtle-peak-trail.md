@@ -37,6 +37,9 @@ notes:
 
 # Myrtle Peak Trail
 
+![Myrtle Peak Trail](../../../assets/images/img-0081_91.jpg)
+_Myrtle Peak Trail_
+
 ## Description
 
 We have added the area's sheriff's emergency phone numbers for each trip write-up under the ranger district

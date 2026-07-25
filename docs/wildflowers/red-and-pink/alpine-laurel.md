@@ -37,6 +37,9 @@ notes:
 
 # Alpine Laurel
 
+![Alpine Laurel](../../assets/images/11192021844_orig.jpg)
+_Alpine Laurel_
+
 ## Description
 
 **Kalmia microphylla** grows mainly in the Sierra Nevada and states to the north, and the northern Rocky

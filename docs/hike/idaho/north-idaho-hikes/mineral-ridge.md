@@ -36,6 +36,9 @@ notes:
 
 # Mineral Ridge
 
+![Mineral Ridge](../../../assets/images/20201219201655_orig.jpg)
+_Mineral Ridge_
+
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district

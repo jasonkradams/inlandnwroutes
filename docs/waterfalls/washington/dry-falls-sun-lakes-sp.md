@@ -26,6 +26,9 @@ stats:
 
 # Dry Falls & Sun Lakes State Park
 
+![Dry Falls & Sun Lakes State Park](../../assets/images/11142021939p_orig.jpeg)
+_Dry Falls & Sun Lakes State Park_
+
 ## Description
 
 If you have never been to the Dry Falls area, you will be amazed at what the landscape represents. The last

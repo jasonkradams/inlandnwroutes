@@ -5,6 +5,9 @@ tags:
 
 # Idaho A Climbing Guide
 
+![Idaho A Climbing Guide](../../assets/images/202511011424_orig.jpg)
+_Idaho A Climbing Guide_
+
 ## IDAHO: A Climbing Guide | Mountaineering in Idaho
 
 Welcome to Idaho: A Climbing Guide–The Website This website supplements Idaho: A Climbing Guide. The site

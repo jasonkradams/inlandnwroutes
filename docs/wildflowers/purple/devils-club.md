@@ -50,6 +50,9 @@ notes:
 
 # Devils Club
 
+![Devils Club](../../assets/images/11282021807p_orig.jpg)
+_Devils Club_
+
 ## Devil's club. aka devil's walking stick
 
 ## Description

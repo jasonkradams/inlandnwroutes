@@ -27,6 +27,9 @@ notes:
 
 # Bogus Basin Ski Resort
 
+![Bogus Basin Ski Resort](../../../assets/images/11232021945p_orig.jpg)
+_Bogus Basin Ski Resort_
+
 ## Overview
 
 - **Location:** Boise, ID

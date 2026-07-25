@@ -47,6 +47,9 @@ notes:
 
 # Red Indian Paint Brush
 
+![Red Indian Paint Brush](../../assets/images/11142021533_orig.jpg)
+_Red Indian Paint Brush_
+
 ## RED Indian paintbrush
 
 ## Description

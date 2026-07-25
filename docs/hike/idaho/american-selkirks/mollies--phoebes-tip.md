@@ -38,6 +38,9 @@ notes:
 
 # Mollies  Phoebes Tip
 
+![Mollies  Phoebes Tip](../../../assets/images/2021115333-jpeg-1_orig.jpeg)
+_Mollies  Phoebes Tip_
+
 ## The mollies 6512’ and phoebes tip 6658’
 
 ## Description

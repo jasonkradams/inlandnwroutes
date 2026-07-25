@@ -36,6 +36,9 @@ stats:
 
 # Fishtrap Lake
 
+![Fishtrap Lake](../../../assets/images/11062021842p_orig.jpeg)
+_Fishtrap Lake_
+
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district

@@ -26,6 +26,9 @@ notes:
 
 # Black Lake Launch
 
+![Black Lake Launch](../../../assets/images/20201024185905_orig.jpg)
+_Black Lake Launch_
+
 ## Description
 
 We have added the area's sheriff’s emergency phone numbers for each trip write up under the ranger district

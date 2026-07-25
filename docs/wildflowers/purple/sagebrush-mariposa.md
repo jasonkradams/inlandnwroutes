@@ -47,6 +47,9 @@ notes:
 
 # Sagebrush Mariposa
 
+![Sagebrush Mariposa](../../assets/images/110820211145a_orig.jpg)
+_Sagebrush Mariposa_
+
 ## Description
 
 The flowers of this plant can only be described as stunning! Bob emailed us recently wondering about the

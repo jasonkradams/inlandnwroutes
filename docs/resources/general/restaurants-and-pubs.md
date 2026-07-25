@@ -5,6 +5,9 @@ tags:
 
 # Restaurants And Pubs
 
+![Restaurants And Pubs](../../assets/images/1664054130.jpeg)
+_Restaurants And Pubs_
+
 ## Restaurants and pubs (2)
 
 ### As we wander in the mountains, the end of the day, may require food and drink

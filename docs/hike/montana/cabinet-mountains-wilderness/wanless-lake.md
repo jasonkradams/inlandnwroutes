@@ -27,6 +27,9 @@ notes:
 
 # Wanless Lake (Trail #912)
 
+![Wanless Lake (Trail #912)](../../../assets/images/202111535396-jpeg-1-copy_orig.jpeg)
+_Wanless Lake (Trail #912)_
+
 ## Description
 
 Wanless Lake is the largest mountain lake in the Cabinet Mountain Wilderness, spanning over 1.5 miles in

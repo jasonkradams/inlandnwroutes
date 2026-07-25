@@ -5,6 +5,9 @@ tags:
 
 # Paddling Safety & Kayaking Guide
 
+![Paddling Safety & Kayaking Guide](../assets/images/915109717.jpg)
+_Paddling Safety & Kayaking Guide_
+
 ## Useful Information All Paddlers Need to Know
 
 Like in all outdoor sports, there are inherent hazards in paddling. Your primary responsibility is to

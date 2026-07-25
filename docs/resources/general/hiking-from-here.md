@@ -5,6 +5,9 @@ tags:
 
 # Hiking From Here
 
+![Hiking From Here](../../assets/images/20201115104529_orig.jpg)
+_Hiking From Here_
+
 ## [Hiking from here](https://www.hikingfromhere.com/index.html)
 
 Welcome to my website dedicated to hiking for those who live in or near Lewiston and Moscow in Idaho, or

@@ -35,6 +35,9 @@ notes:
 
 # Mickinnick Trail
 
+![Mickinnick Trail](../../../assets/images/103120231007p_orig.jpg)
+_Mickinnick Trail_
+
 ## Mickinnick trail #13
 
 ## Description

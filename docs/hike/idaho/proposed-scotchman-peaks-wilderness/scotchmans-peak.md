@@ -37,6 +37,9 @@ notes:
 
 # Scotchmans Peak
 
+![Scotchmans Peak](../../../assets/images/20201217175447_orig.jpg)
+_Scotchmans Peak_
+
 ## Scotchmans peak 7009’
 
 ## Description

@@ -40,6 +40,9 @@ notes:
 
 # Cube Iron Mt
 
+![Cube Iron Mt](../../../assets/images/1827073031.png)
+_Cube Iron Mt_
+
 ## Cube iron mountain 7110’. trail #459 & 450
 
 ## Description

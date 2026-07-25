@@ -27,6 +27,9 @@ notes:
 
 # Park City Ski Area
 
+![Park City Ski Area](../../../assets/images/11262021704p_orig.jpeg)
+_Park City Ski Area_
+
 ## Park city mountain resort park city, ut
 
 ## of named runs: 330

@@ -39,6 +39,9 @@ notes:
 
 # Pyramid Peak (7355') Trail 13
 
+![Pyramid Peak (7355') Trail 13](../../../assets/images/img-0084_orig.jpg)
+_Pyramid Peak (7355') Trail 13_
+
 ## Description
 
 We have added the area's sheriff's emergency phone numbers for each trip write-up under the ranger district

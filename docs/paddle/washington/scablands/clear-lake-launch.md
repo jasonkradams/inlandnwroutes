@@ -24,6 +24,9 @@ stats:
 
 # Clear Lake Launch
 
+![Clear Lake Launch](../../../assets/images/20201024170704_orig.jpg)
+_Clear Lake Launch_
+
 ## Description
 
 This 2-mile long lake has one small island, and many houses around the lake.

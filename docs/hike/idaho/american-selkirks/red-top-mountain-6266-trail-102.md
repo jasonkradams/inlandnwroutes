@@ -36,6 +36,9 @@ notes:
 
 # Red Top Mountain 6266 Trail 102
 
+![Red Top Mountain 6266 Trail 102](../../../assets/images/202095234_orig.jpg)
+_Red Top Mountain 6266 Trail 102_
+
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district

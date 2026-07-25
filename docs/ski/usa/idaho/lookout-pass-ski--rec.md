@@ -27,6 +27,9 @@ notes:
 
 # Lookout Pass Ski & Recreation Area
 
+![Lookout Pass Ski & Recreation Area](../../../assets/images/112720211142a_orig.jpg)
+_Lookout Pass Ski & Recreation Area_
+
 ## Overview
 
 - **Location:** Lookout Pass (Idaho / Montana Border)

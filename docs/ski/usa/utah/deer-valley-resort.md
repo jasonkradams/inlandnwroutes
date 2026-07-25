@@ -27,6 +27,9 @@ notes:
 
 # Deer Valley Resort
 
+![Deer Valley Resort](../../../assets/images/112620211251p_orig.jpg)
+_Deer Valley Resort_
+
 ## Overview
 
 - **Named Runs:** 103

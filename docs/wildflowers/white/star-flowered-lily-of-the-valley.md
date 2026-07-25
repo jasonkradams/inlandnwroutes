@@ -51,6 +51,9 @@ notes:
 
 # Star-Flowered Lily of the Valley
 
+![Star-Flowered Lily of the Valley](../../assets/images/11262021745p_orig.jpeg)
+_Star-Flowered Lily of the Valley_
+
 ## Description
 
 ***Maianthemum stellatum*** (**star-flowered**, **starry**, or **little false Solomon's seal**, or simply

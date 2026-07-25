@@ -27,6 +27,9 @@ notes:
 
 # Mount Hood Meadows
 
+![Mount Hood Meadows](../../../assets/images/11252021945p_orig.jpg)
+_Mount Hood Meadows_
+
 ## Mountn hood meadows mount hood, or
 
 ## of named runs: 85

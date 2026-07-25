@@ -37,6 +37,9 @@ notes:
 
 # Terrace Lake
 
+![Terrace Lake](../../../assets/images/8620241023p_orig.jpeg)
+_Terrace Lake_
+
 ## Terrace lake Stoney lake fishtrap lake & campground
 
 ## Description

@@ -36,6 +36,9 @@ notes:
 
 # Snowshoe Peak 8738
 
+![Snowshoe Peak 8738](../../../assets/images/img-0030_orig.jpg)
+_Snowshoe Peak 8738_
+
 ## Description
 
 Climbing Snowshoe from any direction is a very challenging endeavor. The easiest, if you can call it that,

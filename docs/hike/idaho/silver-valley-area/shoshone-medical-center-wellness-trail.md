@@ -39,6 +39,9 @@ notes:
 
 # Shoshone Medical Center Wellness Trail
 
+![Shoshone Medical Center Wellness Trail](../../../assets/images/20200513190517-1_orig.jpg)
+_Shoshone Medical Center Wellness Trail_
+
 ## Shoshone medical center’s wellness trail
 
 ## Description

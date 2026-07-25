@@ -38,6 +38,9 @@ notes:
 
 # Maiden Rock Trail
 
+![Maiden Rock Trail](../../../assets/images/12192021856p_orig.jpg)
+_Maiden Rock Trail_
+
 ## Description
 
 We have added the area's sheriff's emergency phone numbers for each trip write-up under the ranger district

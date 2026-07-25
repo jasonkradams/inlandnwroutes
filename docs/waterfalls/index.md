@@ -6,6 +6,9 @@ tags:
 
 # Waterfalls
 
+![Waterfalls](../assets/images/915109717.jpg)
+_Waterfalls_
+
 ## How to shoot waterfalls like a pro
 
 (Check out the camera instruction segment under RESOURCES.)

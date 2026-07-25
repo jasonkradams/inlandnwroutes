@@ -27,6 +27,9 @@ notes:
 
 # Bluewood
 
+![Bluewood](../../../assets/images/11232021715p_orig.jpg)
+_Bluewood_
+
 ## Overview
 
 - **Location:** Dayton, WA

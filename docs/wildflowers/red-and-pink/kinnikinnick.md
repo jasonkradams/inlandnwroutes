@@ -51,6 +51,9 @@ notes:
 
 # Kinnikinnick
 
+![Kinnikinnick](../../assets/images/8152023858p_orig.jpg)
+_Kinnikinnick_
+
 ## Description
 
 A mat-forming evergreen shrub which produces lovely pink flowers that later turn into red berries and grows

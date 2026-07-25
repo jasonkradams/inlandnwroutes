@@ -35,6 +35,9 @@ notes:
 
 # Red Mountain Resort
 
+![Red Mountain Resort](../../../assets/images/123120211109a_orig.jpg)
+_Red Mountain Resort_
+
 !!! warning "Before you go"
 
     ![Picture](../../../assets/images/123120211112a.jpg)

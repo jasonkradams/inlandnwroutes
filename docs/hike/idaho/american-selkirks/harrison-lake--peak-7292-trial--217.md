@@ -43,6 +43,9 @@ notes:
 
 # Harrison Lake & Peak 7292 (Trail #217 & #6)
 
+![Harrison Lake & Peak 7292 (Trail #217 & #6)](../../../assets/images/20201213093945_orig.jpg)
+_Harrison Lake & Peak 7292 (Trail #217 & #6)_
+
 !!! warning "Before You Go"
 
     Good news, F.R. #231 is open to the Harrison Lake trailhead as of 3/12/26.

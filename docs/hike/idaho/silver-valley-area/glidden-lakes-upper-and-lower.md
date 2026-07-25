@@ -36,6 +36,9 @@ notes:
 
 # Glidden Lakes Upper and Lower
 
+![Glidden Lakes Upper and Lower](../../../assets/images/11072021603p-orig_orig.jpg)
+_Glidden Lakes Upper and Lower_
+
 Lower Glidden Lake (5,616’) & Upper Glidden Lake (5,935’).
 
 ## Description

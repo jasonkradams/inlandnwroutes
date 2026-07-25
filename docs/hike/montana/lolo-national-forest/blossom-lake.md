@@ -41,6 +41,9 @@ notes:
 
 # Blossom Lake
 
+![Blossom Lake](../../../assets/images/20200428-6-30-09_orig.jpg)
+_Blossom Lake_
+
 ## Lower & Upper Blossom Lakes (ID/MT Border)
 
 ## Description

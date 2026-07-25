@@ -39,6 +39,9 @@ notes:
 
 # Roman Nose Lakes & Peak (Trail #160 & #165)
 
+![Roman Nose Lakes & Peak (Trail #160 & #165)](../../../assets/images/387fa9a0-95d3-43bf-952d-eaefbebba47c_orig.jpeg)
+_Roman Nose Lakes & Peak (Trail #160 & #165)_
+
 ## Description
 
 The views from the summit of Roman Nose Peak are among the finest in the American Selkirks. One of the

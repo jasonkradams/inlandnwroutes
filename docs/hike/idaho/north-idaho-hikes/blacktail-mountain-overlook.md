@@ -36,6 +36,9 @@ notes:
 
 # Blacktail Mountain Overlook
 
+![Blacktail Mountain Overlook](../../../assets/images/61570003_orig.jpg)
+_Blacktail Mountain Overlook_
+
 !!! warning "Before You Go"
 
     Trail #117 has loose rock due to motorcycle use. Maiden Rock Trail drops steeply to the lake—remember

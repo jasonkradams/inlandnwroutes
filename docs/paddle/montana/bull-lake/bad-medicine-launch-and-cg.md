@@ -25,6 +25,9 @@ stats:
 
 # Bad Medicine Launch and Campground
 
+![Bad Medicine Launch and Campground](../../../assets/images/20200917065516_orig.jpg)
+_Bad Medicine Launch and Campground_
+
 ## Description
 
 The Bad Medicine Campground and launch are located on the SW end of Bull Lake. The launch is located south

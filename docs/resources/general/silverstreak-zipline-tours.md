@@ -5,6 +5,9 @@ tags:
 
 # Silverstreak Zipline Tours
 
+![Silverstreak Zipline Tours](../../assets/images/silver-streak-logo1_orig.jpg)
+_Silverstreak Zipline Tours_
+
 ## About Silver Streak Zipline Tours
 
 Silver Streak Zipline Tours offers a total of 10 ziplines on 250 acres of privately owned, undisturbed,

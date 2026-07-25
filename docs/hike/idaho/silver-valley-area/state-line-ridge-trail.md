@@ -41,6 +41,9 @@ notes:
 
 # State Line Ridge Trail
 
+![State Line Ridge Trail](../../../assets/images/10142024719p_orig.jpg)
+_State Line Ridge Trail_
+
 ## State line ridge sshoe & hike
 
 ## Description

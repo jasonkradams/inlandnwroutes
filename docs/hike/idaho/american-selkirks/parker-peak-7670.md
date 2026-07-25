@@ -36,6 +36,9 @@ notes:
 
 # Parker Peak 7670
 
+![Parker Peak 7670](../../../assets/images/20200818195147_orig.jpg)
+_Parker Peak 7670_
+
 ## Parker Peak 7670' Trail #16, #7 & #221
 
 ## Description

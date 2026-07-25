@@ -24,6 +24,9 @@ stats:
 
 # Copper Falls
 
+![Copper Falls](../../assets/images/11052021736_orig.jpg)
+_Copper Falls_
+
 ## Description
 
 Copper Falls is a tall falls tucked back in the woods very close to the U.S.-Canadian border in N. Idaho. It

@@ -5,6 +5,9 @@ tags:
 
 # Bitterroots
 
+![Bitterroots](../../../assets/images/506875603.jpg)
+_Bitterroots_
+
 History of the Bitterroot National Forest
 
 The Bitterroot National Forest has been occupied by humans for at least 8,000 years or longer, and is the

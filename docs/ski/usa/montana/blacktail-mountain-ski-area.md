@@ -27,6 +27,9 @@ notes:
 
 # Blacktail Mountain Ski Area
 
+![Blacktail Mountain Ski Area](../../../assets/images/11232021843p_orig.jpg)
+_Blacktail Mountain Ski Area_
+
 ## Overview
 
 - **Location:** Lakeside / Elmo, MT

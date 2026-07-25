@@ -5,6 +5,9 @@ tags:
 
 # Spokane Canoe And Kayak Club
 
+![Spokane Canoe And Kayak Club](../../assets/images/142708914.jpg)
+_Spokane Canoe And Kayak Club_
+
 ## Spokane canoe and kayak club (2)
 
 Rushing whitewater, quiet mountain lakes, meandering rivers - the Inland Northwest has them all, and the

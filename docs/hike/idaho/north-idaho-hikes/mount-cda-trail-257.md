@@ -38,6 +38,9 @@ notes:
 
 # Mount CDA Trail 257
 
+![Mount CDA Trail 257](../../../assets/images/img-0081_90.jpg)
+_Mount CDA Trail 257_
+
 ## Description
 
 We have added the area's sheriff's emergency phone numbers for each trip write-up under the ranger district

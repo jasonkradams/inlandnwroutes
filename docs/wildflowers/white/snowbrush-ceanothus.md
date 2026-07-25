@@ -48,6 +48,9 @@ notes:
 
 # Snowbrush Ceanothus
 
+![Snowbrush Ceanothus](../../assets/images/11082021810p_orig.jpeg)
+_Snowbrush Ceanothus_
+
 ## Snowbrush ceanothus. aka wild lilac
 
 ## Description

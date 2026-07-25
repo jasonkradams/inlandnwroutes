@@ -22,6 +22,9 @@ stats:
 
 # Anderson Lake / Thompson Lake Launch
 
+![Anderson Lake / Thompson Lake Launch](../../../assets/images/20201024185502_orig.jpg)
+_Anderson Lake / Thompson Lake Launch_
+
 ## Description
 
 The Anderson Lake boat launch is situated along Highway 97 as it crosses the Coeur d'Alene River northeast

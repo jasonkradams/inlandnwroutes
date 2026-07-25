@@ -5,6 +5,9 @@ tags:
 
 # South America
 
+![South America](../../assets/images/646384002.jpg)
+_South America_
+
 Click to set custom HTML
 
 ## The following information is credited to the "new world encyclopedia  thank you

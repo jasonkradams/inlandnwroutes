@@ -24,6 +24,9 @@ stats:
 
 # Davis Lake Launch
 
+![Davis Lake Launch](../../../assets/images/20201012175847_orig.jpg)
+_Davis Lake Launch_
+
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district

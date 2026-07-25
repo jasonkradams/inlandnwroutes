@@ -5,6 +5,9 @@ tags:
 
 # Home
 
+![Home](assets/images/484779548.png)
+_Home_
+
 - [Hike](hike/index.md) — Info from day hikes to multi-week adventures
 
 - [Ski](gallery/mountains.md) — Hiking to the office

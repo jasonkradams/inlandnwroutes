@@ -38,6 +38,9 @@ notes:
 
 # Kootenai National Wildlife Refuge
 
+![Kootenai National Wildlife Refuge](../../../assets/images/12082021924p_orig.jpg)
+_Kootenai National Wildlife Refuge_
+
 ## Description
 
 We have added the area's sheriff's emergency phone numbers for each trip write-up under the ranger district

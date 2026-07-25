@@ -37,6 +37,9 @@ notes:
 
 # Giant Cedar Grove Trail
 
+![Giant Cedar Grove Trail](../../../assets/images/1202022329p_orig.jpg)
+_Giant Cedar Grove Trail_
+
 ## Description
 
 We have added the area's sheriff's emergency phone numbers for each trip write-up under the ranger district

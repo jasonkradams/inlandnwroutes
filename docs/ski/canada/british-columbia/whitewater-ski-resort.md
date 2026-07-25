@@ -27,6 +27,9 @@ notes:
 
 # Whitewater Ski Resort
 
+![Whitewater Ski Resort](../../../assets/images/121220211051p_orig.jpeg)
+_Whitewater Ski Resort_
+
 ## of named runs: 82
 
 ## of lifts: 4

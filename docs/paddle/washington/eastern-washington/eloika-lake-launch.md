@@ -24,6 +24,9 @@ stats:
 
 # Eloika Lake Launch
 
+![Eloika Lake Launch](../../../assets/images/20201013201306_orig.jpg)
+_Eloika Lake Launch_
+
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district

@@ -37,6 +37,9 @@ notes:
 
 # Pillick Ridge 6167
 
+![Pillick Ridge 6167](../../../assets/images/20201128174144_1.jpeg)
+_Pillick Ridge 6167_
+
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district

@@ -45,6 +45,9 @@ notes:
 
 # Dark Throated Shooting Star
 
+![Dark Throated Shooting Star](../../assets/images/12202021900_orig.jpg)
+_Dark Throated Shooting Star_
+
 ## Description
 
 Dark-throat shooting star is an attractive perennial which should be fairly easy to grow in the garden

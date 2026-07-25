@@ -36,6 +36,9 @@ notes:
 
 # Selkirk Crest High Traverse
 
+![Selkirk Crest High Traverse](../../../assets/images/42ffea92-7edb-44e1-8e3d-68bd8e938eb2_orig.jpeg)
+_Selkirk Crest High Traverse_
+
 ## Selkirk crest high traverse. trails # 217 & 279
 
 ## Description

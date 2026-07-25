@@ -38,6 +38,9 @@ notes:
 
 # Packsaddle Mountain
 
+![Packsaddle Mountain](../../../assets/images/1202022825p_orig.jpg)
+_Packsaddle Mountain_
+
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district

@@ -37,6 +37,9 @@ notes:
 
 # Moose Mountain Loop Hike
 
+![Moose Mountain Loop Hike](../../../assets/images/20200903194951_orig.jpg)
+_Moose Mountain Loop Hike_
+
 ## Moose Mountain 6543' Loop Hike
 
 ## Description

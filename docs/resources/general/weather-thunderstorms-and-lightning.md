@@ -5,6 +5,9 @@ tags:
 
 # Weather Thunderstorms And Lightning
 
+![Weather Thunderstorms And Lightning](../../assets/images/1664054130.jpeg)
+_Weather Thunderstorms And Lightning_
+
 as you read this section, please understand that it is designed to inform you. but more importantly, all
 these topics are things you should do your own research on to further your knowledge. The most important
 thing you can take with you on your outing is…… Knowledge

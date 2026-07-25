@@ -5,6 +5,9 @@ tags:
 
 # Idaho Trails Association
 
+![Idaho Trails Association](../../assets/images/italogo_orig.png)
+_Idaho Trails Association_
+
 ## Idaho trails association (2)
 
 As the voice for Idaho’s hikers, Idaho Trails Association promotes the conservation and enjoyment of Idaho’s

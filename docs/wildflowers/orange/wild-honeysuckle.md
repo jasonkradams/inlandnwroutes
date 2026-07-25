@@ -6,6 +6,9 @@ tags:
 
 # Wild Honeysuckle
 
+![Wild Honeysuckle](../../assets/images/11142021533_101.jpg)
+_Wild Honeysuckle_
+
 ## Common name
 
 ---

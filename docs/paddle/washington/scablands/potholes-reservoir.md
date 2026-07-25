@@ -24,6 +24,9 @@ stats:
 
 # Potholes Reservoir
 
+![Potholes Reservoir](../../../assets/images/20201024183139_orig.jpg)
+_Potholes Reservoir_
+
 ## Description
 
 We have added the area's sheriff's emergency phone numbers for each trip write-up under the ranger district

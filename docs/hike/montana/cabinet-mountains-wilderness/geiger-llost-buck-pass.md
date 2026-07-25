@@ -44,6 +44,9 @@ notes:
 
 # Geiger Llost Buck Pass
 
+![Geiger Llost Buck Pass](../../../assets/images/img-0363.jpg)
+_Geiger Llost Buck Pass_
+
 ## Lower 4749’ & upper 5333’ geiger lakes
 
 ![Picture](../../../assets/images/61420251141a.jpg)

@@ -27,6 +27,9 @@ notes:
 
 # Tamarack Resort
 
+![Tamarack Resort](../../../assets/images/11252021639p_orig.jpg)
+_Tamarack Resort_
+
 ## Tamarack resort tamarack, id
 
 ## of named runs: 50

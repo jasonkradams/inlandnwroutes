@@ -36,6 +36,9 @@ notes:
 
 # Coeur d'Alene River Trail 20
 
+![Coeur d'Alene River Trail 20](../../../assets/images/212022359p_orig.jpg)
+_Coeur d'Alene River Trail 20_
+
 ## Description
 
 The Coeur d'Alene River National Recreation Trail (#20) is one of the flagship river canyon routes in the

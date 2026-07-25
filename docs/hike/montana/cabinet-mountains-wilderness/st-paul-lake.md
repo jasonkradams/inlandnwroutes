@@ -42,6 +42,9 @@ notes:
 
 # St Paul Lake
 
+![St Paul Lake](../../../assets/images/20200721163506_orig.jpeg)
+_St Paul Lake_
+
 ## St. paul lake & waterfalls
 
 ## Description

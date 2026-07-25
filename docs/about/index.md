@@ -5,6 +5,9 @@ tags:
 
 # About
 
+![About](../assets/images/484779548.png)
+_About_
+
 This is the reason we do what we do!
 
 ---

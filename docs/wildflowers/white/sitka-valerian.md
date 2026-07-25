@@ -58,6 +58,9 @@ notes:
 
 # Sitka Valerian
 
+![Sitka Valerian](../../assets/images/112520211250_orig.jpeg)
+_Sitka Valerian_
+
 ## Sitka valeriaan
 
 ## Description

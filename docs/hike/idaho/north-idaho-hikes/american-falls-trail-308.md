@@ -38,6 +38,9 @@ notes:
 
 # American Falls Trail 308
 
+![American Falls Trail 308](../../../assets/images/20201115093034_orig.jpg)
+_American Falls Trail 308_
+
 ## Description
 
 The Upper Priest River Trail (#308) to American Falls (also known as Upper Priest River Falls) is one of the

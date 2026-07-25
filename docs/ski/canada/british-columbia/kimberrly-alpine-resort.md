@@ -26,6 +26,9 @@ notes:
 
 # Kimberrly Alpine Resort
 
+![Kimberrly Alpine Resort](../../../assets/images/112720211246p_orig.png)
+_Kimberrly Alpine Resort_
+
 ## Kimberly alpine resort, kimberly, b.c
 
 ## of named runs: 80

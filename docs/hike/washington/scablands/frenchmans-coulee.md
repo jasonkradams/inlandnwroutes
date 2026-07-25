@@ -36,6 +36,9 @@ stats:
 
 # Frenchman's Coulee
 
+![Frenchman's Coulee](../../../assets/images/2021511403_orig.jpg)
+_Frenchman's Coulee_
+
 ## Description
 
 We have added the area's sheriff's emergency phone numbers for each trip write-up under the ranger district

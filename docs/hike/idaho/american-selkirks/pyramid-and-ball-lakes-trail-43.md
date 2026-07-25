@@ -40,6 +40,9 @@ notes:
 
 # Pyramid and Ball Lakes Trail 43
 
+![Pyramid and Ball Lakes Trail 43](../../../assets/images/img-0126_orig.jpg)
+_Pyramid and Ball Lakes Trail 43_
+
 ## Description
 
 The cool thing about these lakes is how easy and family-friendly they are. From the trailhead (5,920'), take

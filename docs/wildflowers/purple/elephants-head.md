@@ -47,6 +47,9 @@ notes:
 
 # Elephants Head
 
+![Elephants Head](../../assets/images/112620211145a_orig.jpeg)
+_Elephants Head_
+
 ## Elephant's head
 
 ## Description

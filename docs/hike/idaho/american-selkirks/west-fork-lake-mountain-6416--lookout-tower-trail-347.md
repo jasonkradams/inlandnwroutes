@@ -42,6 +42,9 @@ notes:
 
 # West Fork Lake Mountain 6416  Lookout Tower Trail 347
 
+![West Fork Lake Mountain 6416  Lookout Tower Trail 347](../../../assets/images/7302025431p_orig.jpg)
+_West Fork Lake Mountain 6416  Lookout Tower Trail 347_
+
 ## Description
 
 The hardest part of this nice hike is the drive from Rathdrum. it is a 2.5 hour drive. Begin this hike on

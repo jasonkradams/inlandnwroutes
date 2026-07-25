@@ -27,6 +27,9 @@ notes:
 
 # Kicking Horse Mt Resort
 
+![Kicking Horse Mt Resort](../../../assets/images/112720211218p_orig.jpeg)
+_Kicking Horse Mt Resort_
+
 ## Kicking horse mountain resort. golden, b.c
 
 ## of named runs: 120+

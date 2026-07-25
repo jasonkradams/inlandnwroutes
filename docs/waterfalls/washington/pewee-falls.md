@@ -24,6 +24,9 @@ notes:
 
 # Pewee Falls
 
+![Pewee Falls](../../assets/images/930335_orig.jpg)
+_Pewee Falls_
+
 ## Description
 
 There isn't a good way to walk to Pewee Falls.

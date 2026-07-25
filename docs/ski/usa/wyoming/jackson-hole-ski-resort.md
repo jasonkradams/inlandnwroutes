@@ -27,6 +27,9 @@ notes:
 
 # Jackson Hole Ski Resort
 
+![Jackson Hole Ski Resort](../../../assets/images/2021614722-jpeg-1_orig.jpeg)
+_Jackson Hole Ski Resort_
+
 ## Overview
 
 - **Location:** Teton Village, WY

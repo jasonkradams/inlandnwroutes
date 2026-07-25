@@ -39,6 +39,9 @@ notes:
 
 # Skyhanging Valley
 
+![Skyhanging Valley](../../../assets/images/img-0081_20.jpg)
+_Skyhanging Valley_
+
 ## Sky lakes 6230’ & hanging valley upper lake 5966’
 
 ## Description

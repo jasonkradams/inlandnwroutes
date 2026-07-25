@@ -37,6 +37,9 @@ notes:
 
 # Stevens Peak Via West Willow Ridge 6838
 
+![Stevens Peak Via West Willow Ridge 6838](../../../assets/images/20200530094732_orig.jpg)
+_Stevens Peak Via West Willow Ridge 6838_
+
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district

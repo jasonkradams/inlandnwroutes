@@ -75,6 +75,9 @@ notes:
 
 # Thimbelberry
 
+![Thimbelberry](../../assets/images/11092021732p_orig.jpg)
+_Thimbelberry_
+
 ## Thimbleberry
 
 ## Description

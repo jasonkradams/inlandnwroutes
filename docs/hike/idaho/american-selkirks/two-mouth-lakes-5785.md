@@ -38,6 +38,9 @@ notes:
 
 # Two Mouth Lakes 5785
 
+![Two Mouth Lakes 5785](../../../assets/images/20200909061556_orig.jpg)
+_Two Mouth Lakes 5785_
+
 !!! warning "Before you go"
 
     A friend told me that this hike has a new trailhead, .25 miles beyond the old trailhead

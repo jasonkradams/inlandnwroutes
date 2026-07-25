@@ -36,6 +36,9 @@ notes:
 
 # Engle Peak 7583 Trail 926
 
+![Engle Peak 7583 Trail 926](../../../assets/images/p479_orig.png)
+_Engle Peak 7583 Trail 926_
+
 ## Description
 
 We have added the area's sheriff emergency phone numbers for each trip write-up under the ranger district

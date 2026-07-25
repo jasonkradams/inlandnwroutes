@@ -48,6 +48,9 @@ notes:
 
 # Brides Bonnet
 
+![Brides Bonnet](../../assets/images/11282021738p_orig.jpeg)
+_Brides Bonnet_
+
 ## Bride's bonnet. aka queen's cup
 
 ## Description

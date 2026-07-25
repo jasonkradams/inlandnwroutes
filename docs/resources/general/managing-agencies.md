@@ -5,6 +5,9 @@ tags:
 
 # Managing Agencies
 
+![Managing Agencies](../../assets/images/1664054130.jpeg)
+_Managing Agencies_
+
 ## **Managing agencies**
 
 ### When starting a hike there often are kiosks with hiking info and a registration box

@@ -27,6 +27,9 @@ notes:
 
 # Grand Targhee Ski Resort
 
+![Grand Targhee Ski Resort](../../../assets/images/112720211054a_orig.jpg)
+_Grand Targhee Ski Resort_
+
 ## Overview
 
 - **Location:** Alta, Wyoming

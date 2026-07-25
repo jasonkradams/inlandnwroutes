@@ -36,6 +36,9 @@ notes:
 
 # Marie Creek
 
+![Marie Creek](../../../assets/images/51820221135a_orig.jpg)
+_Marie Creek_
+
 ## Marie creek trail #241
 
 ## Description

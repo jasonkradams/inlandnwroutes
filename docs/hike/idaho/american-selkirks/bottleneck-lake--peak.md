@@ -39,6 +39,9 @@ notes:
 
 # Bottleneck Lake & Peak
 
+![Bottleneck Lake & Peak](../../../assets/images/20210109175623_orig.jpg)
+_Bottleneck Lake & Peak_
+
 ## Description
 
 We have added the area's sheriff’s emergency phone numbers for each trip write-up under the ranger district

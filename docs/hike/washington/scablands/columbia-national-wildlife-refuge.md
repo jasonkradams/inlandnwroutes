@@ -36,6 +36,9 @@ stats:
 
 # Columbia National Wildlife Refuge
 
+![Columbia National Wildlife Refuge](../../../assets/images/img-4573-1_orig.jpg)
+_Columbia National Wildlife Refuge_
+
 ## Description
 
 We have added the area's sheriff's emergency phone numbers for each trip write-up under the ranger district

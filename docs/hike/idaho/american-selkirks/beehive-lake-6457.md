@@ -38,6 +38,9 @@ notes:
 
 # Beehive Lake 6457
 
+![Beehive Lake 6457](../../../assets/images/1242317066.jpg)
+_Beehive Lake 6457_
+
 ## Description
 
 From the trailhead, head east across a bridge over the Pack River. The trail is wide and a nice hike with a

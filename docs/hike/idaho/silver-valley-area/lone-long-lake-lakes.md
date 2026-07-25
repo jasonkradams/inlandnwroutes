@@ -42,6 +42,9 @@ notes:
 
 # Lone & Long Lakes
 
+![Lone & Long Lakes](../../../assets/images/2146815275_orig.png)
+_Lone & Long Lakes_
+
 ## Description
 
 We have added the area's sheriff emergency phone numbers for each trip write-up under the ranger district

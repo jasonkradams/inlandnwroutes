@@ -24,6 +24,9 @@ notes:
 
 # Mount Baldy Ski Resort
 
+![Mount Baldy Ski Resort](../../../assets/images/12262021759p_orig.jpg)
+_Mount Baldy Ski Resort_
+
 ## Overview
 
 - **Location:** Oliver, B.C., Canada

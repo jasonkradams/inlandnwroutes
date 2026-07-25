@@ -27,6 +27,9 @@ notes:
 
 # Turner Mountain Ski Area
 
+![Turner Mountain Ski Area](../../../assets/images/11232021904p_orig.jpg)
+_Turner Mountain Ski Area_
+
 ## Turner mountain ski area libby, mt
 
 ## of named runs: 22

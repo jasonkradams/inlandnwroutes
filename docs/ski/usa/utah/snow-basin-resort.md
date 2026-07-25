@@ -27,6 +27,9 @@ notes:
 
 # Snow Basin Resort
 
+![Snow Basin Resort](../../../assets/images/11262021104p_orig.jpg)
+_Snow Basin Resort_
+
 ## Snow basin resort huntsville, ut
 
 ## of named runs: 104

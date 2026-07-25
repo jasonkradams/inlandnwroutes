@@ -5,6 +5,9 @@ tags:
 
 # Oregon
 
+![Oregon](../../assets/images/506875603.jpg)
+_Oregon_
+
 Fun facts about oregon
 
 1. Oregon’s state flag pictures a beaver on its reverse side. It is the only state flag to carry two

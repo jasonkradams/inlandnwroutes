@@ -5,6 +5,9 @@ tags:
 
 # Saltese Highlands Summit Loop
 
+![Saltese Highlands Summit Loop](../assets/images/375476475.jpg)
+_Saltese Highlands Summit Loop_
+
 ## Saltese highlands summit loop (2)
 
 ---

@@ -27,6 +27,9 @@ notes:
 
 # Bridger Bowl
 
+![Bridger Bowl](../../../assets/images/11252021720p_orig.jpg)
+_Bridger Bowl_
+
 ## Overview
 
 - **Location:** Bozeman, MT

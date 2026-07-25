@@ -27,6 +27,9 @@ notes:
 
 # 49 Degrees North Ski Area
 
+![49 Degrees North Ski Area](../../../assets/images/11232021738p_orig.jpg)
+_49 Degrees North Ski Area_
+
 ## Overview
 
 - **Location:** Chewelah, WA

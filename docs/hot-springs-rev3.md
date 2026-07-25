@@ -5,6 +5,9 @@ tags:
 
 # Hot Springs Rev3
 
+![Hot Springs Rev3](assets/images/img-0081_211.jpg)
+_Hot Springs Rev3_
+
 ## Hot springs
 
 ---

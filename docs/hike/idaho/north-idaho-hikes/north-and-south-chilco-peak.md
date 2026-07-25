@@ -39,6 +39,9 @@ notes:
 
 # North And South Chilco Peak
 
+![North And South Chilco Peak](../../../assets/images/952023622p_orig.jpg)
+_North And South Chilco Peak_
+
 !!! warning "Before you go"
 
     Fyi.....the bunco road to north chilco is closed to all visitors until roctober 9, 2025. a logging

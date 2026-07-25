@@ -37,6 +37,9 @@ notes:
 
 # Anthony Lakes Mountain Resort
 
+![Anthony Lakes Mountain Resort](../../../assets/images/12122021409p_orig.jpg)
+_Anthony Lakes Mountain Resort_
+
 ## Overview
 
 Anthony Lakes Mountain Resort is a high-alpine ski area nestled in the scenic Elkhorn Mountains near North

@@ -37,6 +37,9 @@ notes:
 
 # Fisher Peak Trail 27
 
+![Fisher Peak Trail 27](../../../assets/images/202153357_orig.jpg)
+_Fisher Peak Trail 27_
+
 ## Description
 
 We have added the area's sheriff emergency phone numbers for each trip write-up under the ranger district

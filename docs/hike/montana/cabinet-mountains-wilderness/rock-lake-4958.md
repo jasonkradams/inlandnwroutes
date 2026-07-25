@@ -37,6 +37,9 @@ notes:
 
 # Rock Lake 4958
 
+![Rock Lake 4958](../../../assets/images/20201011152959_orig.jpg)
+_Rock Lake 4958_
+
 ## Description
 
 We have added the area sheriff’s emergency phone numbers for each trip write up under the ranger district

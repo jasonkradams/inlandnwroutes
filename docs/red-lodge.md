@@ -21,6 +21,9 @@ notes:
 
 # Red Lodge
 
+![Red Lodge](assets/images/img-0081_194.jpg)
+_Red Lodge_
+
 ## Red lodge mountain
 
 ## of named runs: ???

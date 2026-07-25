@@ -27,6 +27,9 @@ notes:
 
 # Brighton Resort
 
+![Brighton Resort](../../../assets/images/112620211225p_orig.jpg)
+_Brighton Resort_
+
 ## Overview
 
 - **Location:** Big Cottonwood Canyon, UT

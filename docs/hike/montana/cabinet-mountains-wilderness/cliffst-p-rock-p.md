@@ -44,6 +44,9 @@ notes:
 
 # Cliffst P Rock P
 
+![Cliffst P Rock P](../../../assets/images/img-0198_orig.jpg)
+_Cliffst P Rock P_
+
 !!! warning "Before you go"
 
     A warning about the road to the cliff lake, St paul peak and rock peak road. After visiting the area

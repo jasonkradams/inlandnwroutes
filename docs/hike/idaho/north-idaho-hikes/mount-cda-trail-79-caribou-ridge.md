@@ -39,6 +39,9 @@ notes:
 
 # Mount Cda Trail 79 Caribou Ridge
 
+![Mount Cda Trail 79 Caribou Ridge](../../../assets/images/1202022743p_orig.jpg)
+_Mount Cda Trail 79 Caribou Ridge_
+
 ## Mount cda trail n.r.t.#79 caribou ridge
 
 ## Description

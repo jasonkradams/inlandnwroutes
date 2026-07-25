@@ -36,6 +36,9 @@ notes:
 
 # Morris Creek Old Growth Cedar Grove
 
+![Morris Creek Old Growth Cedar Grove](../../../assets/images/img-0081_88.jpg)
+_Morris Creek Old Growth Cedar Grove_
+
 ## Description
 
 We have added the area's sheriff's emergency phone numbers for each trip write-up under the ranger district

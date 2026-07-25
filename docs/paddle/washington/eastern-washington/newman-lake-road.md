@@ -25,6 +25,9 @@ stats:
 
 # Newman Lake Road Launch
 
+![Newman Lake Road Launch](../../../assets/images/20201014183422_orig.jpg)
+_Newman Lake Road Launch_
+
 ## Description
 
 We have added the area's sheriff emergency phone numbers for each trip write-up under the ranger district

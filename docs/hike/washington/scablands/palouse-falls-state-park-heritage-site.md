@@ -39,6 +39,9 @@ notes:
 
 # Palouse Falls State Park Heritage Site
 
+![Palouse Falls State Park Heritage Site](../../../assets/images/1805040117.jpg)
+_Palouse Falls State Park Heritage Site_
+
 ## Description
 
 Recently, Palouse Falls was designated by the Washington Legislature, as the State’s Waterfall. From the

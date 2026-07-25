@@ -33,6 +33,9 @@ stats:
 
 # Hog Canyon Falls
 
+![Hog Canyon Falls](../../../assets/images/2021611513_orig.jpg)
+_Hog Canyon Falls_
+
 !!! info
     We have added the area's sheriff emergency phone numbers for each trip write-up under the ranger
     district info. If an emergency occurs, evaluate your circumstances and call only if needed.

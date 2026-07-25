@@ -60,6 +60,9 @@ notes:
 
 # Red Twinberry
 
+![Red Twinberry](../../assets/images/11152021426_orig.jpeg)
+_Red Twinberry_
+
 ## Red Twinberry, AKA Utah Honeysuckle
 
 ## Description

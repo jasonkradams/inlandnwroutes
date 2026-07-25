@@ -27,6 +27,9 @@ notes:
 
 # Silver Star Mountain Resort
 
+![Silver Star Mountain Resort](../../../assets/images/11272021128p_orig.jpg)
+_Silver Star Mountain Resort_
+
 ## of named runs: 132
 
 ## of lifts: 5

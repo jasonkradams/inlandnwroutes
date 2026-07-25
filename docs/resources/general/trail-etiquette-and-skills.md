@@ -5,6 +5,9 @@ tags:
 
 # Trail Etiquette And Skills
 
+![Trail Etiquette And Skills](../../assets/images/1664054130.jpeg)
+_Trail Etiquette And Skills_
+
 As you read this section, please understand that it is designed to inform you. But more importantly, all
 these topics are things you should do your own research on to further your knowledge. The most important
 thing you can take with you on your outing is... knowledge.

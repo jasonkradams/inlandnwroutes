@@ -27,6 +27,9 @@ notes:
 
 # Whistler Blackcomb
 
+![Whistler Blackcomb](../../../assets/images/11272021244p_orig.jpeg)
+_Whistler Blackcomb_
+
 ## of named runs: 100+
 
 ## of lifts: 19

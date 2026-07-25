@@ -32,6 +32,9 @@ stats:
 
 # Crawford State Park & Gardner Cave
 
+![Crawford State Park & Gardner Cave](../../../assets/images/12132022240p_orig.jpg)
+_Crawford State Park & Gardner Cave_
+
 ## Description
 
 Gardner Cave is located northwest of Boundary Dam in northeastern Washington at Crawford State Park. The

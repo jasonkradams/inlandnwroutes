@@ -61,6 +61,9 @@ notes:
 
 # Balkan Toadflax
 
+![Balkan Toadflax](../../assets/images/11072021734p_orig.jpeg)
+_Balkan Toadflax_
+
 ## Description
 
 ---

@@ -46,6 +46,9 @@ notes:
 
 # Polemonium
 
+![Polemonium](../../assets/images/11092021620p_orig.jpeg)
+_Polemonium_
+
 ## Jacob's ladder. aka. polemonium
 
 ## Description

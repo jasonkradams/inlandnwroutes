@@ -27,6 +27,9 @@ notes:
 
 # Nuttall's Larkspur (Delphinium nuttallianum)
 
+![Nuttall's Larkspur (Delphinium nuttallianum)](../../assets/images/11282021357a_orig.jpeg)
+_Nuttall's Larkspur (Delphinium nuttallianum)_
+
 Nuttall's Larkspur (*Delphinium nuttallianum*), also known as Low Larkspur or Two-Lobe Larkspur, is a striking
 native perennial wildflower in the buttercup family (*Ranunculaceae*). Named after 19th-century naturalist Thomas
 Nuttall, it is one of more than 60 species of larkspur native to North America.

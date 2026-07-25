@@ -6,6 +6,9 @@ tags:
 
 # Ski
 
+![Ski](../assets/images/61593355.jpg)
+_Ski_
+
 ## Included below are three articles on the history of skiing. enjoy
 
 ## Fis timeline. a ski history

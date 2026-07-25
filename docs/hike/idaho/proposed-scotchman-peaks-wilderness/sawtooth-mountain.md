@@ -37,6 +37,9 @@ notes:
 
 # Sawtooth Mountain
 
+![Sawtooth Mountain](../../../assets/images/img-0025_1.jpeg)
+_Sawtooth Mountain_
+
 ## Sawtooth mountain 6758’
 
 ## Description

@@ -25,6 +25,9 @@ stats:
 
 # Upper & Lower Snow Creek Falls
 
+![Upper & Lower Snow Creek Falls](../../assets/images/14580025_orig.jpg)
+_Upper & Lower Snow Creek Falls_
+
 ## Description
 
 The best of the best waterfalls in our area. There are few falls in our area that match the quality and

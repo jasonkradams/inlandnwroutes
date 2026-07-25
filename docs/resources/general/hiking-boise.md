@@ -5,6 +5,9 @@ tags:
 
 # Hiking Boise
 
+![Hiking Boise](../../assets/images/202503151224-jpg_orig.webp)
+_Hiking Boise_
+
 ## About Me
 
 ### Greg Hart

@@ -41,6 +41,9 @@ notes:
 
 # Latour Frosty Peaks
 
+![Latour Frosty Peaks](../../../assets/images/20200909171031_orig.jpg)
+_Latour Frosty Peaks_
+
 ## Latour baldy 6232’ & frosty peak
 
 ## Description

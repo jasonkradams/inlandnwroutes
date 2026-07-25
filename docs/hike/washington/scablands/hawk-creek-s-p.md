@@ -35,6 +35,9 @@ notes:
 
 # Hawk Creek S P
 
+![Hawk Creek S P](../../../assets/images/20200916062858_orig.jpg)
+_Hawk Creek S P_
+
 ## Hawk creek falls state park
 
 ## Description

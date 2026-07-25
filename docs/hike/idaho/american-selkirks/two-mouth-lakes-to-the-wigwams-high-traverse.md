@@ -41,6 +41,9 @@ notes:
 
 # Two Mouth Lakes To The Wigwams High Traverse
 
+![Two Mouth Lakes To The Wigwams High Traverse](../../../assets/images/img-0287_orig.jpg)
+_Two Mouth Lakes To The Wigwams High Traverse_
+
 ## Two mouth lakes to the wigwams high traverse trails 286
 
 ## Description

@@ -40,6 +40,9 @@ notes:
 
 # Little Guard Peak  Lookout
 
+![Little Guard Peak  Lookout](../../../assets/images/51020221227p_orig.jpg)
+_Little Guard Peak  Lookout_
+
 ## Little guard peak 6031’ & lookout trail #81
 
 ## Description

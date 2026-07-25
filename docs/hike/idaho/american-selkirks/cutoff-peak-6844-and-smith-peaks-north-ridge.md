@@ -37,6 +37,9 @@ notes:
 
 # Cutoff Peak 6844 and Smith Peak's North Ridge
 
+![Cutoff Peak 6844 and Smith Peak's North Ridge](../../../assets/images/100620211033p_orig.jpg)
+_Cutoff Peak 6844 and Smith Peak's North Ridge_
+
 ## Description
 
 The initial portion of this route follows an old roadbed for about 0.5 miles before joining Trail #17

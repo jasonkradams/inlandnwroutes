@@ -4,6 +4,9 @@ tags:
 
 # Inland NW Routes Blog
 
+![Inland NW Routes Blog](../assets/images/872935692.jpeg)
+_Inland NW Routes Blog_
+
 Welcome to the Inland NW Routes blog! Explore trail updates, safety guides, forest closure alerts,
 and wilderness reports from around the Inland Northwest.
 

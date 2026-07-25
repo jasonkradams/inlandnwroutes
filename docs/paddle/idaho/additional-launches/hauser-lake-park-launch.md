@@ -24,6 +24,9 @@ stats:
 
 # Hauser Lake Park Launch
 
+![Hauser Lake Park Launch](../../../assets/images/202163727-jpeg-1_orig.jpeg)
+_Hauser Lake Park Launch_
+
 ## Description
 
 The Hauser Lake Launch is modern with all the amenities including a dock for swimming, pit toilets, and

@@ -40,6 +40,9 @@ notes:
 
 # Cliff Penstemon
 
+![Cliff Penstemon](../../assets/images/11292021451p_orig.jpg)
+_Cliff Penstemon_
+
 ## Description
 
 **Penstemon rupicola** is one of the low-growing members of this large genus, due in part to its preferred

@@ -5,6 +5,9 @@ tags:
 
 # About Us
 
+![About Us](../assets/images/c7dd7a32-249b-40ec-84fc-15fb3bb2f620_orig.jpeg)
+_About Us_
+
 ## Chic's story
 
 ---

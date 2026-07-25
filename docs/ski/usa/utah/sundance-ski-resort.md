@@ -27,6 +27,9 @@ notes:
 
 # Sundance Ski Resort
 
+![Sundance Ski Resort](../../../assets/images/11262021727p_orig.jpg)
+_Sundance Ski Resort_
+
 ## Sundance ski resort. sundance, ut
 
 ## of named runs: 41

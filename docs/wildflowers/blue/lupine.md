@@ -76,6 +76,9 @@ notes:
 
 # Lupine
 
+![Lupine](../../assets/images/112320212241_orig.jpg)
+_Lupine_
+
 ## Description
 
 Although the silver (or silvery) lupine is found in most states west of the Mississippi River, the variety

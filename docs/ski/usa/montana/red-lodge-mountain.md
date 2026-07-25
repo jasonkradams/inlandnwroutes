@@ -24,6 +24,9 @@ notes:
 
 # Red Lodge Mountain
 
+![Red Lodge Mountain](../../../assets/images/112520211117a_orig.jpg)
+_Red Lodge Mountain_
+
 ## of named runs: 70
 
 ## of lifts: 7

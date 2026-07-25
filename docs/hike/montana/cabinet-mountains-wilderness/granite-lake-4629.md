@@ -40,6 +40,9 @@ notes:
 
 # Granite Lake 4629
 
+![Granite Lake 4629](../../../assets/images/img-6209_orig.jpg)
+_Granite Lake 4629_
+
 Granite Lake, Cabinet Mountains Wilderness (4,629’).
 
 ## Description

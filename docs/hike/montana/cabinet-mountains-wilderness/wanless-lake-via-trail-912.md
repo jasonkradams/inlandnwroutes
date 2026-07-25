@@ -27,6 +27,9 @@ notes:
 
 # Wanless Lake via Swamp Creek (Trail #912 & #912A)
 
+![Wanless Lake via Swamp Creek (Trail #912 & #912A)](../../../assets/images/20210117095608_orig.jpeg)
+_Wanless Lake via Swamp Creek (Trail #912 & #912A)_
+
 ## Description
 
 Swamp Creek Trail #912 follows the scenic Swamp Creek drainage deep into the Cabinet Mountain Wilderness,

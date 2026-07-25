@@ -5,6 +5,9 @@ tags:
 
 # Newsletter And Website Updates
 
+![Newsletter And Website Updates](assets/images/img-9803_orig.jpg)
+_Newsletter And Website Updates_
+
 ## Register to get route updates
 
 \* Indicates required field
@@ -175,7 +178,8 @@ we update the routes.
 
 Updated many routes including: [Little Harrison Lake 6271'](hike/idaho/american-selkirks/little-harrison-lake-6271--peak-7292.md)
 Selkirks [Harrison Lake & Peak 7292'](hike/idaho/american-selkirks/harrison-lake--peak-7292-trial--217.md). Selkirks
-[Mount Roothaan and Chimney Rock 7124'](hike/idaho/american-selkirks/mount-roothaan-7326-and-chimney-rock-7124-trail-256.md) Selkirks
+[Mount Roothaan and Chimney Rock 7124'](hike/idaho/american-selkirks/mount-roothaan-7326-and-chimney-rock-7124-trail-256.md)
+Selkirks
 Rock Lake, C.M.W. Granite Lake CMW Lower & Upper Geiger Lakes & Lost Buck Pass CMW Cliff Lake, Chicago Peak,
 St. Paul Peak CMW Ward & Eagle Peaks Bitterroots Lower & Upper Blossom Lakes. Bitterroots & Silver Valley
 Area Red Top. Selkirks Little Harrison Lake. CMW Beehive Lakes. CMW Long Mountain Lake & Peak. Selkirks Hunt

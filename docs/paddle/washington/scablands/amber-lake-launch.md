@@ -25,6 +25,9 @@ stats:
 
 # Amber Lake Launch
 
+![Amber Lake Launch](../../../assets/images/20200820190144_orig.jpg)
+_Amber Lake Launch_
+
 ## Description
 
 Amber Lake features a public boat launch located about midway along the lake on its north side. To the west,

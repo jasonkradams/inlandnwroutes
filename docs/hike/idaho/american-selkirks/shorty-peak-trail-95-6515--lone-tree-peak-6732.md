@@ -38,6 +38,9 @@ notes:
 
 # Shorty Peak Trail 95 6515  Lone Tree Peak 6732
 
+![Shorty Peak Trail 95 6515  Lone Tree Peak 6732](../../../assets/images/dsc0924_orig.jpg)
+_Shorty Peak Trail 95 6515  Lone Tree Peak 6732_
+
 ## Description
 
 Like several other hikes in this area, the drive is the hard part. Its about 3 hours to the trailhead from

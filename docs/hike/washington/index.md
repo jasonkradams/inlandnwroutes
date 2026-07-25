@@ -7,6 +7,9 @@ tags:
 
 # Washington State Outdoor Routes & Regional Guide
 
+![Washington State Outdoor Routes & Regional Guide](../../assets/images/1664054130.jpeg)
+_Washington State Outdoor Routes & Regional Guide_
+
 ## Overview & Regional Topography
 
 Washington State offers some of the most diverse outdoor recreation in the Pacific Northwest. From the

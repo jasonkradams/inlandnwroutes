@@ -5,6 +5,9 @@ tags:
 
 # Medical Information
 
+![Medical Information](../../assets/images/1664054130.jpeg)
+_Medical Information_
+
 As you read this section, please understand that it is designed to inform you. but more importantly, all
 these topics are things you should do your own research on to further your knowledge. The most important
 thing you can take with you on your outing is…… Knowledge
@@ -224,37 +227,28 @@ country.
 
 ### Sunscreen
 
-### Why You Need It. How it Works for You
+#### Why You Need It: How It Works for You
 
-### The big picture: Sunscreen is an important part of a complete sun protection strategy. But sunscreen alone isn’t enough to keep you safe in the sun
+The big picture: sunscreen is an important part of a complete sun protection strategy. But sunscreen alone
+isn't enough to keep you safe in the sun. When used as directed, sunscreen is proven to:
 
-### When used as directed, sunscreen is proven to
+- **Decrease your risk of skin cancers and skin precancers.** Regular daily use of SPF 15 sunscreen can
+  reduce your risk of developing [squamous cell
+  carcinoma](http://skincancer.org/skin-cancer-information/squamous-cell-carcinoma/) (SCC) by about 40
+  percent, and lower your [melanoma](http://skincancer.org/skin-cancer-information/melanoma/) risk by 50
+  percent.
+- **Help prevent premature skin aging** caused by the sun, including wrinkles, sagging and age spots.
 
-**Decrease your risk of skin cancers and skin precancers. Regular daily use of SPF 15 sunscreen can reduce
-your risk of developing** [**squamous cell
+The 5 W's (& H) of sunscreen:
 
-carcinoma**](http://skincancer.org/skin-cancer-information/squamous-cell-carcinoma/) **(SCC) by about 40
-percent, and lower your** [**melanoma**](http://skincancer.org/skin-cancer-information/melanoma/) **risk by
-50 percent.**
-
-### Help prevent premature skin aging caused by the sun, including wrinkles, sagging and age spots
-
-- Who should use sunscreen?
-
-- What type of sunscreen should I use?
-
-- When should I apply sunscreen?
-
-- Where should I apply sunscreen?
-
-- How much sunscreen should I use?
-
-- Why should I use sunscreen?
-
-Know the 5 w’s (& h) of sunscreen WHO: Everyone under the sun WHAT: Broad spectrum SPF 15 or higher; SPF 30
-or higher for a day outdoors WHEN: Every day; 30 minutes prior to going outdoors. Reapply every two hours
-WHERE: All exposed skin HOW: One ounce (shot glass full) to entire body for each application WHY: Reduce
-your risk of skin damage and skin cancer!
+| | |
+| :--- | :--- |
+| **Who** | Everyone under the sun |
+| **What** | Broad spectrum SPF 15 or higher; SPF 30 or higher for a day outdoors |
+| **When** | Every day, 30 minutes prior to going outdoors; reapply every two hours |
+| **Where** | All exposed skin |
+| **How** | One ounce (shot glass full) to entire body for each application |
+| **Why** | Reduce your risk of skin damage and skin cancer! |
 
 ### Who should use sunscreen?
 

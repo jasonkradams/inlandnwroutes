@@ -36,6 +36,9 @@ notes:
 
 # Qemlin Park
 
+![Qemlin Park](../../../assets/images/20201219192848_orig.jpg)
+_Qemlin Park_
+
 ## Q'emiln park
 
 ## Description

@@ -42,6 +42,9 @@ notes:
 
 # Upper  Lower St Regis Lakes
 
+![Upper  Lower St Regis Lakes](../../../assets/images/img-0288a_orig.jpg)
+_Upper  Lower St Regis Lakes_
+
 ## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district

@@ -37,6 +37,9 @@ notes:
 
 # Clifty Mountain to Katka Peak
 
+![Clifty Mountain to Katka Peak](../../../assets/images/11302022348p_orig.jpg)
+_Clifty Mountain to Katka Peak_
+
 ## Description
 
 Trail #182 climbs out of a high ridgeline switchback, ascending steeply onto a bench before circling the

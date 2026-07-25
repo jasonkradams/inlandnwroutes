@@ -5,6 +5,9 @@ tags:
 
 # Gear David
 
+![Gear David](../../assets/images/202212030844_orig.jpeg)
+_Gear David_
+
 We are providing information on gear based on our own personal experience and opinions of gear we use. On
 occasion manufacturers send us free samples. We do not get any income from our reviews or money for
 advertisement. Manufactures have no input on our reports. Links to products are provided for your

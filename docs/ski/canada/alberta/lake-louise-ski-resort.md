@@ -38,6 +38,9 @@ notes:
 
 # Lake Louise Ski Resort
 
+![Lake Louise Ski Resort](../../../assets/images/11272021301p_orig.jpeg)
+_Lake Louise Ski Resort_
+
 ## Description
 
 Located in Lake Louise, Alberta (354 miles from Spokane), Lake Louise Ski Resort encompasses over 4,200

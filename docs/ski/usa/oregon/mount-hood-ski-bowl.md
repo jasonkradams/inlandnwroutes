@@ -27,6 +27,9 @@ notes:
 
 # Mount Hood Ski Bowl
 
+![Mount Hood Ski Bowl](../../../assets/images/112520211005p_orig.jpg)
+_Mount Hood Ski Bowl_
+
 ## Overview
 
 - **Location:** Government Camp, OR

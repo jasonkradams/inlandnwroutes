@@ -40,6 +40,9 @@ notes:
 
 # Snow Lake & Peak (Trail #163)
 
+![Snow Lake & Peak (Trail #163)](../../../assets/images/20200606174753_orig.jpg)
+_Snow Lake & Peak (Trail #163)_
+
 ## Description
 
 For the most part, the trail is on an old logging road nearly to the lake. In 1967, the Sundance Fire burned

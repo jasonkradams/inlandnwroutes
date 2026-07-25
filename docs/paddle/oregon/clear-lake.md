@@ -21,6 +21,9 @@ stats:
 
 # Clear Lake
 
+![Clear Lake](../../assets/images/202106150538_orig.jpg)
+_Clear Lake_
+
 ## Description
 
 One year after a ski trip to Mounts Bachelor & Hood, I decided to drive home on a different route than I had

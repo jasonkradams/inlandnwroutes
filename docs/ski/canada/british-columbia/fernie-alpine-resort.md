@@ -27,6 +27,9 @@ notes:
 
 # Fernie Alpine Resort
 
+![Fernie Alpine Resort](../../../assets/images/11142022732p_orig.jpg)
+_Fernie Alpine Resort_
+
 ## Fernie alpine resort, fernie, b.c., canada
 
 ## of named runs: 142/36 night skiing

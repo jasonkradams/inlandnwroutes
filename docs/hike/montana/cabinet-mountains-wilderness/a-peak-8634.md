@@ -35,6 +35,9 @@ notes:
 
 # A Peak 8634
 
+![A Peak 8634](../../../assets/images/110820211057p_orig.jpg)
+_A Peak 8634_
+
 !!! warning "Before You Go"
 
     This hike is for the most seasoned of scramblers. If you haven't hiked this kind of terrain for decades,
@@ -98,9 +101,8 @@ _A Peak & Snowshoe Peak from below Pine Ridge, C.M.W. Image by Chris Herath_
 ![A Peak top left of center & Snowshoe Peak from Schweitzer Mountain Resort. Image by Chris Herath](../../../assets/images/11062021112p.jpg)
 _A Peak top left of center & Snowshoe Peak from Schweitzer Mountain Resort. Image by Chris Herath_
 
-![Along the Snow Lake Trail. This corner is where you ascend to the A Peak ridge, and a place to camp with water nearby. Image by Chris Herath](../../../assets/images/11082021923p.jpg)
-_Along the Snow Lake Trail. This corner is where you ascend to the A Peak ridge, and a place to camp with
-water nearby. Image by Chris Herath_
+![Along the Snow Lake Trail near the A Peak ridge camp. Photo: Chris Herath](../../../assets/images/11082021923p.jpg)
+_Along the Snow Lake Trail near the A Peak ridge camp. Photo: Chris Herath_
 
 ![The lower section of the route. Image by Chris Herath](../../../assets/images/11082021940p.jpg)
 _The lower section of the route. Image by Chris Herath_

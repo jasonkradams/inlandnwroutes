@@ -27,6 +27,9 @@ notes:
 
 # Alta Ski Area
 
+![Alta Ski Area](../../../assets/images/112620211213p_orig.jpg)
+_Alta Ski Area_
+
 ## Overview
 
 - **Location:** Alta, UT

@@ -25,6 +25,9 @@ stats:
 
 # Old Mission Launch
 
+![Old Mission Launch](../../../assets/images/20201206163154_orig.jpg)
+_Old Mission Launch_
+
 ## Description
 
 The Old Mission Launch is located adjacent to Interstate 90 at Old Mission State Park along the Coeur

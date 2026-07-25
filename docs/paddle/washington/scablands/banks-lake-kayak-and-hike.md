@@ -25,6 +25,9 @@ stats:
 
 # Banks Lake Kayak & Hike
 
+![Banks Lake Kayak & Hike](../../../assets/images/20201011145542_orig.jpg)
+_Banks Lake Kayak & Hike_
+
 ## Description
 
 Banks Lake is an expansive 26.7-mile long, 26,890-acre reservoir filling the Upper Grand Coulee in Eastern

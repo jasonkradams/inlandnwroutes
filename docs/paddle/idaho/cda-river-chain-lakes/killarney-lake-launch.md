@@ -25,6 +25,9 @@ stats:
 
 # Killarney Lake Launch
 
+![Killarney Lake Launch](../../../assets/images/202162755-jpeg-1_orig.jpeg)
+_Killarney Lake Launch_
+
 ## Description
 
 Killarney Lake is tucked away to the north of State Hwy 3 that starts up north at I-90 and heads down to

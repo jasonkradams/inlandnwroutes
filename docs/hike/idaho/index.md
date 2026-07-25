@@ -5,6 +5,9 @@ tags:
 
 # Idaho
 
+![Idaho](../../assets/images/1664054130.jpeg)
+_Idaho_
+
 ## Links to Route Descriptions
 
 **Moyie Falls** Take US Highway 2, exiting just west of the Moyie River Bridge at Moyie Springs; proceed

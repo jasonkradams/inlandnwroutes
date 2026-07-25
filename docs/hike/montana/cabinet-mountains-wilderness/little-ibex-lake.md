@@ -38,6 +38,9 @@ notes:
 
 # Little Ibex Lake
 
+![Little Ibex Lake](../../../assets/images/20200915062739_orig.jpg)
+_Little Ibex Lake_
+
 ## Little ibex lake, trails # 978 & 980
 
 ## Description

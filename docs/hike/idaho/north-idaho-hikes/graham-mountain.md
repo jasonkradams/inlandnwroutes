@@ -37,6 +37,9 @@ notes:
 
 # Graham Mountain
 
+![Graham Mountain](../../../assets/images/img-0081_80.jpg)
+_Graham Mountain_
+
 ## Description
 
 We have added the area's sheriff emergency phone numbers for each trip write-up under the ranger district

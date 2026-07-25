@@ -36,6 +36,9 @@ notes:
 
 # Cabinet Divide Trail 360
 
+![Cabinet Divide Trail 360](../../../assets/images/img-9495-copy_orig.jpg)
+_Cabinet Divide Trail 360_
+
 ## Description
 
 The Cabinet Divide Trail (#360) is a rugged, high-alpine ridge traverse running along the crest of the

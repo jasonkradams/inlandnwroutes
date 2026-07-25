@@ -5,6 +5,9 @@ tags:
 
 # Colville National Forest
 
+![Colville National Forest](../../../assets/images/1514470544.jpg)
+_Colville National Forest_
+
 Colville National ForestThe 1.1 million-acre Colville National Forest was first shaped more than 10,000
 years ago by Ice Age glaciers that carved three major valleys of today's Columbia River. The Colville
 National Forest has a rich natural and cultural history that started during the last ice age thousands of

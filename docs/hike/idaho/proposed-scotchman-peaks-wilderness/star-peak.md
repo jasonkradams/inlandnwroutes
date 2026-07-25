@@ -37,6 +37,9 @@ notes:
 
 # Star Peak
 
+![Star Peak](../../../assets/images/img-7578_2.jpg)
+_Star Peak_
+
 ## Star peak 6167’. trail #998
 
 ## Description
