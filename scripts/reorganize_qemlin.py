@@ -37,10 +37,10 @@ notes:
 ![Q'emiln Park and Post Falls Community Forest along the Spokane River](../../../assets/images/20201219192848_orig.jpg)
 _Q'emiln Park and Post Falls Community Forest along the Spokane River._
 
-Located on the south bank of the Spokane River in Post Falls, Idaho, **Q'emiln Park** (pronounced *"Ka-mee-lin"*, a
-Coeur d'Alene Tribal word meaning "water falls") is a 78-acre city park connected to the 500+ acre **Post Falls
-Community Forest**. Renowned across the Pacific Northwest for premier granite crag climbing, roaring river gorge views,
-and expansive hiking loops, Q'emiln offers a diverse outdoor sanctuary just minutes from I-90.
+Located on the south bank of the Spokane River in Post Falls, Idaho,
+**Q'emiln Park** (pronounced *"Ka-mee-lin"*, a Coeur d'Alene Tribal word meaning "water falls") is a 78-acre city park
+connected to the 500+ acre **Post Falls Community Forest**. Renowned across the Pacific Northwest for premier granite
+crag climbing, roaring river gorge views, and expansive hiking loops, Q'emiln offers a diverse outdoor sanctuary.
 
 ---
 
@@ -60,6 +60,25 @@ and expansive hiking loops, Q'emiln offers a diverse outdoor sanctuary just minu
       routes, top-rope anchors, and bouldering problems.
     - **Color-Coded Trail System:** The 500+ acre Community Forest utilizes a color-coded dot system on trail markers to
       guide hikers through intersecting loops.
+
+The main 2.5-mile perimeter loop trail circles the peninsula, connecting scenic overlooks, woodland habitats, and
+rocky coves. Informational markers (8" x 10" plaques mounted 8 feet high) correspond to brochure guides available at
+the trailhead, highlighting native trees, wildlife, and geological formations.
+
+Plan for at least 1.5 to 2 hours to walk the main loop. Leashed dogs are welcome (poop bags are provided at entry
+points).
+
+---
+
+## Cultural History & Land Preservation
+
+The park is named after **Tony A. Tubbs**, a German immigrant who arrived in Coeur d'Alene in 1882. Tubbs served as the
+city's first Justice of the Peace and built its first hotel, acquiring 135 acres of lakefront wilderness. He preserved
+most of the land in its wild state, allowing access only by foot.
+
+Between 1936 and 1977, the City of Coeur d'Alene acquired the property in four separate land purchases, incorporating it
+into a permanent public park system. Today, the non-profit **Tubbs Hill Foundation** works with the city to preserve its
+wild character and maintain trails.
 
 ---
 
@@ -183,4 +202,4 @@ target_path = "docs/hike/idaho/north-idaho-hikes/qemlin-park.md"
 with open(target_path, "w", encoding="utf-8") as fp:
     fp.write(md_content)
 
-print("Reorganized qemlin-park.md successfully")
+print("Updated line breaks in qemlin-park.md successfully")
