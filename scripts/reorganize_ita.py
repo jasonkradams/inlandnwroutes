@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 tags:
   - Resources
   - Conservation & Organizations
@@ -51,3 +53,9 @@ trail systems:
 
 To sign up for a volunteer trail project or support backcountry trail stewardship in Idaho, visit the
 [Idaho Trails Association Website](https://www.idahotrailsassociation.org).
+"""
+
+with open("docs/resources/conservation-and-like-minded-organizations/idaho-trails-association.md", "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Reorganized idaho-trails-association.md successfully")
