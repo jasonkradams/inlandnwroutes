@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 tags:
   - Wildflowers
   - Trails & Scrambles
@@ -110,3 +112,9 @@ _Cluster of Gentiana affinis blossoms along stem._
 
 ![Side profile showing opposite sessile leaves](../../assets/images/11092021248p.jpg)
 _Side profile showing opposite sessile leaves._
+"""
+
+with open("docs/wildflowers/blue/gentian.md", "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Updated docs/wildflowers/blue/gentian.md notes wrapping")
