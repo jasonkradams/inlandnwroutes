@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: "Silvertip Landing (St. Joe River Access)"
 tags:
   - Rivers
@@ -65,3 +67,9 @@ Silvertip Landing is a scenic river access point and campground along the upper 
 - **St. Joe River Launches:** Explore [Aqua Park Launch](aqua-park-launch.md), [Cherry Bend Park Launch](cherry-bend-park-launch.md), and [First Street Launch](first-street-launch.md).
 - **Historic Sites:** Visit the historic town of Avery, ID, the Avery Fish Hatchery, and the Route of the Hiawatha rail-trail.
 - **Provisions:** Supplies, gas, and dining are available upstream at the Avery Store or downstream in St. Maries, ID.
+"""
+
+with open("docs/paddle/idaho/st-joe-and-st-maries-rivers/silvertip-landing.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized silvertip-landing.md successfully")
