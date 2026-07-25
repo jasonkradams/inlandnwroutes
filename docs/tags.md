@@ -11,33 +11,33 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
     <span id="filter-count-badge" class="filter-count-badge"></span>
   </div>
   <div id="tag-cloud-container" class="tag-cloud-container">
-    <button type="button" class="tag-pill-btn" data-tag="Day Hiking">Day Hiking <span class="tag-count">(139)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Day Hiking">Day Hiking <span class="tag-count">(140)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Backpacking">Backpacking <span class="tag-count">(116)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Lakes">Lakes <span class="tag-count">(88)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Trails & Scrambles">Trails & Scrambles <span class="tag-count">(74)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Peaks & Mountains">Peaks & Mountains <span class="tag-count">(66)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Trails & Scrambles">Trails & Scrambles <span class="tag-count">(76)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Peaks & Mountains">Peaks & Mountains <span class="tag-count">(67)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Skiing & Snowshoeing">Skiing & Snowshoeing <span class="tag-count">(51)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Moderate">Moderate <span class="tag-count">(48)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Scrambling">Scrambling <span class="tag-count">(35)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Easy">Easy <span class="tag-count">(33)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Paddling">Paddling <span class="tag-count">(30)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Easy">Easy <span class="tag-count">(34)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Paddling">Paddling <span class="tag-count">(29)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Equestrian">Equestrian <span class="tag-count">(28)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Difficult">Difficult <span class="tag-count">(19)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Difficult">Difficult <span class="tag-count">(20)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Fishing">Fishing <span class="tag-count">(19)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Mountain Biking">Mountain Biking <span class="tag-count">(18)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Mountain Biking">Mountain Biking <span class="tag-count">(19)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Climbing">Climbing <span class="tag-count">(17)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Camping">Camping <span class="tag-count">(14)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Camping">Camping <span class="tag-count">(15)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Waterfalls">Waterfalls <span class="tag-count">(13)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Flora & Plants">Flora & Plants <span class="tag-count">(11)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Photography">Photography <span class="tag-count">(11)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Strenuous">Strenuous <span class="tag-count">(11)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Photography">Photography <span class="tag-count">(10)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Recipes">Recipes <span class="tag-count">(10)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Paddling & Rivers">Paddling & Rivers <span class="tag-count">(7)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Paddling & Rivers">Paddling & Rivers <span class="tag-count">(8)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Resources">Resources <span class="tag-count">(6)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Conservation & Organizations">Conservation & Organizations <span class="tag-count">(5)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Fire Lookout Rental">Fire Lookout Rental <span class="tag-count">(5)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Hiking">Hiking <span class="tag-count">(4)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Flora & Wildlife">Flora & Wildlife <span class="tag-count">(3)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Hiking">Hiking <span class="tag-count">(3)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Loop">Loop <span class="tag-count">(3)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Scenery">Scenery <span class="tag-count">(3)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Swimming">Swimming <span class="tag-count">(3)</span></button>
@@ -45,7 +45,10 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
     <button type="button" class="tag-pill-btn" data-tag="Birding">Birding <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="History">History <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Picnicking">Picnicking <span class="tag-count">(2)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Priest Lake">Priest Lake <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Regional Routes">Regional Routes <span class="tag-count">(2)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Sightseeing">Sightseeing <span class="tag-count">(2)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="State Parks">State Parks <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Trail Maintenance">Trail Maintenance <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="ADA Accessible">ADA Accessible <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Animal Viewing">Animal Viewing <span class="tag-count">(1)</span></button>
@@ -54,6 +57,9 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
     <button type="button" class="tag-pill-btn" data-tag="British Columbia">British Columbia <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Canada">Canada <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Canadian Rockies">Canadian Rockies <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Coeur d'Alene">Coeur d'Alene <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Easy to Moderate">Easy to Moderate <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Exceptional Beauty">Exceptional Beauty <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="History & Speakeasy">History & Speakeasy <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Hut Stays">Hut Stays <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Inland Northwest">Inland Northwest <span class="tag-count">(1)</span></button>
@@ -71,8 +77,9 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
     <button type="button" class="tag-pill-btn" data-tag="Off-Trail Ridge Walk">Off-Trail Ridge Walk <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Old Growth & Cedars">Old Growth & Cedars <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Orving">Orving <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Paddles">Paddles <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Paddling & Water Sports">Paddling & Water Sports <span class="tag-count">(1)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Priest Lake">Priest Lake <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Post Falls">Post Falls <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Regions">Regions <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Resort">Resort <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Ridge Walking">Ridge Walking <span class="tag-count">(1)</span></button>
@@ -84,13 +91,10 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
     <button type="button" class="tag-pill-btn" data-tag="Scenic Overlook">Scenic Overlook <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Selkirks">Selkirks <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Sight Seeing">Sight Seeing <span class="tag-count">(1)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Sightseeing">Sightseeing <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Spelunking Made Easy">Spelunking Made Easy <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Sshoe Backpacking">Sshoe Backpacking <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Sshoeing">Sshoeing <span class="tag-count">(1)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="State Parks">State Parks <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Strenuous to Very Strenuous">Strenuous to Very Strenuous <span class="tag-count">(1)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Sun Bathing">Sun Bathing <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Very Difficult, Exposure">Very Difficult, Exposure <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Very Strenuous">Very Strenuous <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Walking">Walking <span class="tag-count">(1)</span></button>
@@ -161,7 +165,7 @@ Found **116** guides tagged with **Backpacking**:
 - [Baree Lake](hike/montana/cabinet-mountains-wilderness/baree-lake.md)
 - [Bear Lake](hike/montana/cabinet-mountains-wilderness/bear-lake.md)
 - [Beehive Lake 6457](hike/idaho/american-selkirks/beehive-lake-6457.md)
-- [Blacktail Mountain](hike/idaho/north-idaho-hikes/blacktail-mountain.md)
+- [Blacktail Mountain (5,495') — Trail #292](hike/idaho/north-idaho-hikes/blacktail-mountain.md)
 - [Bloom Peak](hike/idaho/silver-valley-area/bloom-peak.md)
 - [Blossom Lake](hike/montana/lolo-national-forest/blossom-lake.md)
 - [Bottleneck Lake & Peak](hike/idaho/american-selkirks/bottleneck-lake--peak.md)
@@ -224,7 +228,7 @@ Found **116** guides tagged with **Backpacking**:
 - [Myrtle Lake 5950 & Myrtle Peak 7122 Trail 286](hike/idaho/american-selkirks/myrtle-lake-5950--myrtle-peak-7122-trail-286.md)
 - [Myrtle Peak Trail](hike/idaho/north-idaho-hikes/myrtle-peak-trail.md)
 - [Navigation Trail #291 to Upper Priest Lake](hike/idaho/north-idaho-hikes/navigation-trail-291.md)
-- [North And South Chilco Peak](hike/idaho/north-idaho-hikes/north-and-south-chilco-peak.md)
+- [North & South Chilco Peak National Recreation Trail #14](hike/idaho/north-idaho-hikes/north-and-south-chilco-peak.md)
 - [Packsaddle Mountain (Trail #76)](hike/idaho/north-idaho-hikes/packsaddle-mountain.md)
 - [Parker Peak 7670](hike/idaho/american-selkirks/parker-peak-7670.md)
 - [Parmenter Lake](hike/montana/cabinet-mountains-wilderness/parmenter-lake.md)
@@ -240,13 +244,13 @@ Found **116** guides tagged with **Backpacking**:
 - [Scenery Mountain](hike/montana/cabinet-mountains-wilderness/scenery-mountain.md)
 - [Scotchmans Peak](hike/idaho/proposed-scotchman-peaks-wilderness/scotchmans-peak.md)
 - [Selkirk Crest High Traverse](hike/idaho/american-selkirks/selkirk-crest-high-traverse.md)
-- [Shefoot Mountain](hike/idaho/north-idaho-hikes/shefoot-mountain.md)
-- [Short Peak 6515 And Lone Tree Peak 6732](hike/idaho/north-idaho-hikes/short-peak-6515-and-lone-tree-peak-6732.md)
+- [Shefoot Mountain (6,349') & Big Dick Point (5,419')](hike/idaho/north-idaho-hikes/shefoot-mountain.md)
+- [Shorty Peak (6,515') & Lone Tree Peak (6,706')](hike/idaho/north-idaho-hikes/short-peak-6515-and-lone-tree-peak-6732.md)
 - [Shorty Peak Trail 95 6515  Lone Tree Peak 6732](hike/idaho/american-selkirks/shorty-peak-trail-95-6515--lone-tree-peak-6732.md)
 - [Siamese Lake Loop](hike/montana/lolo-national-forest/siamese-lake-loop.md)
 - [Skyhanging Valley](hike/montana/cabinet-mountains-wilderness/skyhanging-valley.md)
 - [Snow Lake & Peak (Trail #163)](hike/idaho/american-selkirks/snow-l--p.md)
-- [Snow Peak](hike/idaho/north-idaho-hikes/snow-peak.md)
+- [Snow Peak (6,760') — Wildlife Management Area Trail #55](hike/idaho/north-idaho-hikes/snow-peak.md)
 - [Spar Peak Little Spar Lake  Horseshoe Pond](hike/montana/proposed-scotchman-peaks-wilderness/spar-peak-little-spar-lake--horseshoe-pond.md)
 - [St Joe Lake 6472Rsquo Illinois Peak 7690Rsquo](st-joe-lake-6472-illinois-peak-7690.md)
 - [St Paul Lake](hike/montana/cabinet-mountains-wilderness/st-paul-lake.md)
@@ -294,7 +298,7 @@ Found **1** guide tagged with **British Columbia**:
 
 ## Camping
 
-Found **14** guides tagged with **Camping**:
+Found **15** guides tagged with **Camping**:
 
 - [Blossom Lake](hike/montana/lolo-national-forest/blossom-lake.md)
 - [Cedar Lake 5914](hike/montana/cabinet-mountains-wilderness/cedar-lake-5914.md)
@@ -302,6 +306,7 @@ Found **14** guides tagged with **Camping**:
 - [Crystal Lake](hike/idaho/silver-valley-area/crystal-lake.md)
 - [Hawk Creek S P](hike/washington/scablands/hawk-creek-s-p.md)
 - [Hoodoo Canyon](hike/washington/eastern-washington/hoodoo-canyon.md)
+- [John Day Fossil Bed National Monument](hike/oregon/john-day-fossil-bed-national-monument.md)
 - [Kintla Lake (4,008')](paddle/montana/glacier-national-park/kintla-lake.md)
 - [Lake Estelle & Moose Lake Trail System (Trail #36)](hike/idaho/north-idaho-hikes/lake-estelle.md)
 - [Lakeview Ranch](hike/washington/scablands/lakeview-ranch.md)
@@ -347,12 +352,21 @@ Found **17** guides tagged with **Climbing**:
 - [Leigh Lake](hike/montana/cabinet-mountains-wilderness/leigh-lake.md)
 - [Little Ibex Lake](hike/montana/cabinet-mountains-wilderness/little-ibex-lake.md)
 - [Mount Roothaan (7326') and Chimney Rock (7124') Trail 256](hike/idaho/american-selkirks/mount-roothaan-7326-and-chimney-rock-7124-trail-256.md)
-- [Qemlin Park](hike/idaho/north-idaho-hikes/qemlin-park.md)
+- [Q'emiln Park & Post Falls Community Forest](hike/idaho/north-idaho-hikes/qemlin-park.md)
 - [Rock Lake 4958](hike/montana/cabinet-mountains-wilderness/rock-lake-4958.md)
 - [Snowshoe Peak 8738](hike/montana/cabinet-mountains-wilderness/snowshoe-peak-8738.md)
 - [Stevens Peak Smi Mountain School](hike/idaho/silver-valley-area/stevens-peak-smi-mountain-school.md)
 - [The Wigwams 7033](hike/idaho/american-selkirks/the-wigwams-7033.md)
-- [Tubbs Hill](hike/idaho/north-idaho-hikes/tubbs-hill.md)
+- [Tubbs Hill Nature Trails](hike/idaho/north-idaho-hikes/tubbs-hill.md)
+
+</div>
+<div class="static-tag-section" data-tag="Coeur d'Alene" markdown="1">
+
+## Coeur d'Alene
+
+Found **1** guide tagged with **Coeur d'Alene**:
+
+- [Tubbs Hill Nature Trails](hike/idaho/north-idaho-hikes/tubbs-hill.md)
 
 </div>
 <div class="static-tag-section" data-tag="Conservation & Organizations" markdown="1">
@@ -372,7 +386,7 @@ Found **5** guides tagged with **Conservation & Organizations**:
 
 ## Day Hiking
 
-Found **139** guides tagged with **Day Hiking**:
+Found **140** guides tagged with **Day Hiking**:
 
 - [13 Mile Canyon Trail 23](hike/washington/eastern-washington/13-mile-canyon-trail-23.md)
 - [A Peak 8634](hike/montana/cabinet-mountains-wilderness/a-peak-8634.md)
@@ -384,8 +398,9 @@ Found **139** guides tagged with **Day Hiking**:
 - [Baree Lake](hike/montana/cabinet-mountains-wilderness/baree-lake.md)
 - [Bear Lake](hike/montana/cabinet-mountains-wilderness/bear-lake.md)
 - [Beehive Lake 6457](hike/idaho/american-selkirks/beehive-lake-6457.md)
-- [Blacktail Mountain](hike/idaho/north-idaho-hikes/blacktail-mountain.md)
-- [Blacktail Mountain Overlook](hike/idaho/north-idaho-hikes/blacktail-mountain-overlook.md)
+- [Bernard Peak Overlook & High Point Trail #37](hike/idaho/north-idaho-hikes/bernard-peak-overlook.md)
+- [Blacktail Mountain (5,495') — Trail #292](hike/idaho/north-idaho-hikes/blacktail-mountain.md)
+- [Blacktail Mountain Overlook & Maiden Rock Beach](hike/idaho/north-idaho-hikes/blacktail-mountain-overlook.md)
 - [Bloom Peak](hike/idaho/silver-valley-area/bloom-peak.md)
 - [Blossom Lake](hike/montana/lolo-national-forest/blossom-lake.md)
 - [Bottleneck Lake & Peak](hike/idaho/american-selkirks/bottleneck-lake--peak.md)
@@ -460,7 +475,7 @@ Found **139** guides tagged with **Day Hiking**:
 - [Myrtle Lake 5950 & Myrtle Peak 7122 Trail 286](hike/idaho/american-selkirks/myrtle-lake-5950--myrtle-peak-7122-trail-286.md)
 - [Myrtle Peak Trail](hike/idaho/north-idaho-hikes/myrtle-peak-trail.md)
 - [Navigation Trail #291 to Upper Priest Lake](hike/idaho/north-idaho-hikes/navigation-trail-291.md)
-- [North And South Chilco Peak](hike/idaho/north-idaho-hikes/north-and-south-chilco-peak.md)
+- [North & South Chilco Peak National Recreation Trail #14](hike/idaho/north-idaho-hikes/north-and-south-chilco-peak.md)
 - [Packsaddle Mountain (Trail #76)](hike/idaho/north-idaho-hikes/packsaddle-mountain.md)
 - [Palouse Falls State Park Heritage Site](hike/washington/scablands/palouse-falls-state-park-heritage-site.md)
 - [Parker Peak 7670](hike/idaho/american-selkirks/parker-peak-7670.md)
@@ -469,7 +484,7 @@ Found **139** guides tagged with **Day Hiking**:
 - [Pulaski Tunnel Trail](hike/idaho/silver-valley-area/pulaski-tunnel-trail.md)
 - [Pyramid Peak (7355') Trail 13](hike/idaho/american-selkirks/pyramid-peak-7355-trail-13.md)
 - [Pyramid and Ball Lakes Trail 43](hike/idaho/american-selkirks/pyramid-and-ball-lakes-trail-43.md)
-- [Qemlin Park](hike/idaho/north-idaho-hikes/qemlin-park.md)
+- [Q'emiln Park & Post Falls Community Forest](hike/idaho/north-idaho-hikes/qemlin-park.md)
 - [Quincy Lakes](hike/washington/scablands/quincy-lakes.md)
 - [Red Top Mountain 6266 Trail 102](hike/idaho/american-selkirks/red-top-mountain-6266-trail-102.md)
 - [Revett Lake & Granite Peak (Trail #9)](hike/idaho/silver-valley-area/revett-lake.md)
@@ -481,14 +496,14 @@ Found **139** guides tagged with **Day Hiking**:
 - [Scotchmans Peak](hike/idaho/proposed-scotchman-peaks-wilderness/scotchmans-peak.md)
 - [Selkirk Crest High Traverse](hike/idaho/american-selkirks/selkirk-crest-high-traverse.md)
 - [Settlers Grove Of Ancient Cedars](hike/idaho/silver-valley-area/settlers-grove-of-ancient-cedars.md)
-- [Shefoot Mountain](hike/idaho/north-idaho-hikes/shefoot-mountain.md)
-- [Short Peak 6515 And Lone Tree Peak 6732](hike/idaho/north-idaho-hikes/short-peak-6515-and-lone-tree-peak-6732.md)
+- [Shefoot Mountain (6,349') & Big Dick Point (5,419')](hike/idaho/north-idaho-hikes/shefoot-mountain.md)
+- [Shorty Peak (6,515') & Lone Tree Peak (6,706')](hike/idaho/north-idaho-hikes/short-peak-6515-and-lone-tree-peak-6732.md)
 - [Shorty Peak Trail 95 6515  Lone Tree Peak 6732](hike/idaho/american-selkirks/shorty-peak-trail-95-6515--lone-tree-peak-6732.md)
 - [Shoshone Medical Center Wellness Trail](hike/idaho/silver-valley-area/shoshone-medical-center-wellness-trail.md)
 - [Siamese Lake Loop](hike/montana/lolo-national-forest/siamese-lake-loop.md)
 - [Skyhanging Valley](hike/montana/cabinet-mountains-wilderness/skyhanging-valley.md)
 - [Snow Lake & Peak (Trail #163)](hike/idaho/american-selkirks/snow-l--p.md)
-- [Snow Peak](hike/idaho/north-idaho-hikes/snow-peak.md)
+- [Snow Peak (6,760') — Wildlife Management Area Trail #55](hike/idaho/north-idaho-hikes/snow-peak.md)
 - [Spar Peak Little Spar Lake  Horseshoe Pond](hike/montana/proposed-scotchman-peaks-wilderness/spar-peak-little-spar-lake--horseshoe-pond.md)
 - [St Joe Lake 6472Rsquo Illinois Peak 7690Rsquo](st-joe-lake-6472-illinois-peak-7690.md)
 - [St Paul Lake](hike/montana/cabinet-mountains-wilderness/st-paul-lake.md)
@@ -504,7 +519,7 @@ Found **139** guides tagged with **Day Hiking**:
 - [The Wigwams 7033](hike/idaho/american-selkirks/the-wigwams-7033.md)
 - [Trail 7 To Granite Peak](hike/idaho/silver-valley-area/trail-7-to-granite-peak.md)
 - [Trout 6352  Big Fisher 6732 Lakes Trail 13  41](hike/idaho/american-selkirks/trout-6352--big-fisher-6732-lakes-trail-13--41.md)
-- [Tubbs Hill](hike/idaho/north-idaho-hikes/tubbs-hill.md)
+- [Tubbs Hill Nature Trails](hike/idaho/north-idaho-hikes/tubbs-hill.md)
 - [Two Mouth Lakes 5785](hike/idaho/american-selkirks/two-mouth-lakes-5785.md)
 - [Two Mouth Lakes To The Wigwams High Traverse](hike/idaho/american-selkirks/two-mouth-lakes-to-the-wigwams-high-traverse.md)
 - [Upper  Lower St Regis Lakes](hike/idaho/silver-valley-area/upper--lower-st-regis-lakes.md)
@@ -519,7 +534,7 @@ Found **139** guides tagged with **Day Hiking**:
 
 ## Difficult
 
-Found **19** guides tagged with **Difficult**:
+Found **20** guides tagged with **Difficult**:
 
 - [Baree Lake](hike/montana/cabinet-mountains-wilderness/baree-lake.md)
 - [Cabinet Divide Trail 360](hike/montana/cabinet-mountains-wilderness/cabinet-divide-trail-360.md)
@@ -533,6 +548,7 @@ Found **19** guides tagged with **Difficult**:
 - [Moran Basin](hike/montana/cabinet-mountains-wilderness/moran-basin.md)
 - [Parker Peak 7670](hike/idaho/american-selkirks/parker-peak-7670.md)
 - [Russell Peak 6618 Trail 12  Russell Ridge 92](hike/idaho/american-selkirks/russell-peak-6618-trail-12--russell-ridge-92.md)
+- [Shefoot Mountain (6,349') & Big Dick Point (5,419')](hike/idaho/north-idaho-hikes/shefoot-mountain.md)
 - [Siamese Lake Loop](hike/montana/lolo-national-forest/siamese-lake-loop.md)
 - [Skyhanging Valley](hike/montana/cabinet-mountains-wilderness/skyhanging-valley.md)
 - [Snow Lake & Peak (Trail #163)](hike/idaho/american-selkirks/snow-l--p.md)
@@ -546,7 +562,7 @@ Found **19** guides tagged with **Difficult**:
 
 ## Easy
 
-Found **33** guides tagged with **Easy**:
+Found **34** guides tagged with **Easy**:
 
 - [American Falls Trail 308](hike/idaho/north-idaho-hikes/american-falls-trail-308.md)
 - [Banks Lake](hike/washington/scablands/banks-lake.md)
@@ -561,6 +577,7 @@ Found **33** guides tagged with **Easy**:
 - [Glidden Lakes Upper and Lower](hike/idaho/silver-valley-area/glidden-lakes-upper-and-lower.md)
 - [Hog Canyon Falls](hike/washington/scablands/hog-canyon--falls.md)
 - [Hoodoo Canyon](hike/washington/eastern-washington/hoodoo-canyon.md)
+- [John Day Fossil Bed National Monument](hike/oregon/john-day-fossil-bed-national-monument.md)
 - [Kootenai National Wildlife Refuge](hike/idaho/american-selkirks/kootenai-wlr.md)
 - [Lake Lenore Caves & Mesa](hike/washington/scablands/lake-lenore-caves--mesa.md)
 - [Lake O'Hara (6,939')](hike/canada/lake-ohara.md)
@@ -579,8 +596,17 @@ Found **33** guides tagged with **Easy**:
 - [St Regis Lakes Upper  Lower](hike/montana/lolo-national-forest/st-regis-lakes-upper--lower.md)
 - [Sullivan Lake Shore Line](hike/washington/eastern-washington/sullivan-lake-shore-line.md)
 - [Terrace Lake](hike/montana/lolo-national-forest/terrace-lake.md)
-- [Tubbs Hill](hike/idaho/north-idaho-hikes/tubbs-hill.md)
+- [Tubbs Hill Nature Trails](hike/idaho/north-idaho-hikes/tubbs-hill.md)
 - [Upper  Lower St Regis Lakes](hike/idaho/silver-valley-area/upper--lower-st-regis-lakes.md)
+
+</div>
+<div class="static-tag-section" data-tag="Easy to Moderate" markdown="1">
+
+## Easy to Moderate
+
+Found **1** guide tagged with **Easy to Moderate**:
+
+- [Bernard Peak Overlook & High Point Trail #37](hike/idaho/north-idaho-hikes/bernard-peak-overlook.md)
 
 </div>
 <div class="static-tag-section" data-tag="Equestrian" markdown="1">
@@ -591,7 +617,7 @@ Found **28** guides tagged with **Equestrian**:
 
 - [13 Mile Canyon Trail 23](hike/washington/eastern-washington/13-mile-canyon-trail-23.md)
 - [Abercrombie Mountain](hike/washington/eastern-washington/abercrombie-mountain.md)
-- [Blacktail Mountain](hike/idaho/north-idaho-hikes/blacktail-mountain.md)
+- [Blacktail Mountain (5,495') — Trail #292](hike/idaho/north-idaho-hikes/blacktail-mountain.md)
 - [Bloom Peak](hike/idaho/silver-valley-area/bloom-peak.md)
 - [Caribou Ridge National Recreation Trail #79](hike/idaho/north-idaho-hikes/mount-cda-trail-79-caribou-ridge.md)
 - [Clifty Mountain to Katka Peak](hike/idaho/north-idaho-hikes/clifty-mountain-to-katka-peak.md)
@@ -612,11 +638,20 @@ Found **28** guides tagged with **Equestrian**:
 - [Myrtle Peak Trail](hike/idaho/north-idaho-hikes/myrtle-peak-trail.md)
 - [Packsaddle Mountain (Trail #76)](hike/idaho/north-idaho-hikes/packsaddle-mountain.md)
 - [Pillick Ridge 6167](hike/idaho/proposed-scotchman-peaks-wilderness/pillick-ridge-6167.md)
-- [Short Peak 6515 And Lone Tree Peak 6732](hike/idaho/north-idaho-hikes/short-peak-6515-and-lone-tree-peak-6732.md)
+- [Shorty Peak (6,515') & Lone Tree Peak (6,706')](hike/idaho/north-idaho-hikes/short-peak-6515-and-lone-tree-peak-6732.md)
 - [Siamese Lake Loop](hike/montana/lolo-national-forest/siamese-lake-loop.md)
-- [Snow Peak](hike/idaho/north-idaho-hikes/snow-peak.md)
+- [Snow Peak (6,760') — Wildlife Management Area Trail #55](hike/idaho/north-idaho-hikes/snow-peak.md)
 - [Star Peak](hike/idaho/proposed-scotchman-peaks-wilderness/star-peak.md)
 - [The Green Monarchs](hike/idaho/north-idaho-hikes/the-green-monarchs.md)
+
+</div>
+<div class="static-tag-section" data-tag="Exceptional Beauty" markdown="1">
+
+## Exceptional Beauty
+
+Found **1** guide tagged with **Exceptional Beauty**:
+
+- [John Day Fossil Bed National Monument](hike/oregon/john-day-fossil-bed-national-monument.md)
 
 </div>
 <div class="static-tag-section" data-tag="Fire Lookout Rental" markdown="1">
@@ -628,7 +663,7 @@ Found **5** guides tagged with **Fire Lookout Rental**:
 - [Little Guard Lookout](hike/idaho/silver-valley-area/little-guard-lookout.md)
 - [Little Guard Peak  Lookout](hike/idaho/north-idaho-hikes/little-guard-peak--lookout.md)
 - [Lunch Peak  Mount Pend Orielle](hike/idaho/north-idaho-hikes/lunch-peak--mount-pend-orielle.md)
-- [Short Peak 6515 And Lone Tree Peak 6732](hike/idaho/north-idaho-hikes/short-peak-6515-and-lone-tree-peak-6732.md)
+- [Shorty Peak (6,515') & Lone Tree Peak (6,706')](hike/idaho/north-idaho-hikes/short-peak-6515-and-lone-tree-peak-6732.md)
 - [Shorty Peak Trail 95 6515  Lone Tree Peak 6732](hike/idaho/american-selkirks/shorty-peak-trail-95-6515--lone-tree-peak-6732.md)
 
 </div>
@@ -693,8 +728,9 @@ Found **3** guides tagged with **Flora & Wildlife**:
 
 ## Hiking
 
-Found **3** guides tagged with **Hiking**:
+Found **4** guides tagged with **Hiking**:
 
+- [Ginkgo Petrified Forest](hike/washington/scablands/ginkgo-petrified-forest.md)
 - [Hiking & Scrambling Regional Portal](hike/index.md)
 - [North Idaho Hikes](hike/idaho/north-idaho-hikes/index.md)
 - [St. Joe Lake & Illinois Peak](hike/montana/bitterroots/st-joe-lake--illinois-peak.md)
@@ -862,8 +898,8 @@ Found **48** guides tagged with **Moderate**:
 - [13 Mile Canyon Trail 23](hike/washington/eastern-washington/13-mile-canyon-trail-23.md)
 - [Banks Lake North Trail](hike/washington/scablands/banks-lake-north-trail.md)
 - [Bear Lake](hike/montana/cabinet-mountains-wilderness/bear-lake.md)
-- [Blacktail Mountain](hike/idaho/north-idaho-hikes/blacktail-mountain.md)
-- [Blacktail Mountain Overlook](hike/idaho/north-idaho-hikes/blacktail-mountain-overlook.md)
+- [Blacktail Mountain (5,495') — Trail #292](hike/idaho/north-idaho-hikes/blacktail-mountain.md)
+- [Blacktail Mountain Overlook & Maiden Rock Beach](hike/idaho/north-idaho-hikes/blacktail-mountain-overlook.md)
 - [Bottleneck Lake & Peak](hike/idaho/american-selkirks/bottleneck-lake--peak.md)
 - [Breezy Hill Ancient and Dusty Lakes](hike/washington/scablands/breezy-hill-ancient-and-dusty-lakes.md)
 - [Burton Peak 6844 Trail 9](hike/idaho/american-selkirks/burton-peak-6844-trail-9.md)
@@ -890,16 +926,16 @@ Found **48** guides tagged with **Moderate**:
 - [Mount Roothaan (7326') and Chimney Rock (7124') Trail 256](hike/idaho/american-selkirks/mount-roothaan-7326-and-chimney-rock-7124-trail-256.md)
 - [Myrtle Lake 5950 & Myrtle Peak 7122 Trail 286](hike/idaho/american-selkirks/myrtle-lake-5950--myrtle-peak-7122-trail-286.md)
 - [Myrtle Peak Trail](hike/idaho/north-idaho-hikes/myrtle-peak-trail.md)
-- [North And South Chilco Peak](hike/idaho/north-idaho-hikes/north-and-south-chilco-peak.md)
+- [North & South Chilco Peak National Recreation Trail #14](hike/idaho/north-idaho-hikes/north-and-south-chilco-peak.md)
 - [Packsaddle Mountain (Trail #76)](hike/idaho/north-idaho-hikes/packsaddle-mountain.md)
 - [Pyramid Peak (7355') Trail 13](hike/idaho/american-selkirks/pyramid-peak-7355-trail-13.md)
 - [Pyramid and Ball Lakes Trail 43](hike/idaho/american-selkirks/pyramid-and-ball-lakes-trail-43.md)
-- [Qemlin Park](hike/idaho/north-idaho-hikes/qemlin-park.md)
+- [Q'emiln Park & Post Falls Community Forest](hike/idaho/north-idaho-hikes/qemlin-park.md)
 - [Rock Lake 4958](hike/montana/cabinet-mountains-wilderness/rock-lake-4958.md)
 - [Settlers Grove Of Ancient Cedars](hike/idaho/silver-valley-area/settlers-grove-of-ancient-cedars.md)
-- [Short Peak 6515 And Lone Tree Peak 6732](hike/idaho/north-idaho-hikes/short-peak-6515-and-lone-tree-peak-6732.md)
+- [Shorty Peak (6,515') & Lone Tree Peak (6,706')](hike/idaho/north-idaho-hikes/short-peak-6515-and-lone-tree-peak-6732.md)
 - [Shorty Peak Trail 95 6515  Lone Tree Peak 6732](hike/idaho/american-selkirks/shorty-peak-trail-95-6515--lone-tree-peak-6732.md)
-- [Snow Peak](hike/idaho/north-idaho-hikes/snow-peak.md)
+- [Snow Peak (6,760') — Wildlife Management Area Trail #55](hike/idaho/north-idaho-hikes/snow-peak.md)
 - [St Paul Lake](hike/montana/cabinet-mountains-wilderness/st-paul-lake.md)
 - [The Green Monarchs](hike/idaho/north-idaho-hikes/the-green-monarchs.md)
 - [Trout 6352  Big Fisher 6732 Lakes Trail 13  41](hike/idaho/american-selkirks/trout-6352--big-fisher-6732-lakes-trail-13--41.md)
@@ -958,10 +994,11 @@ Found **1** guide tagged with **Moderately Difficult to Difficult**:
 
 ## Mountain Biking
 
-Found **18** guides tagged with **Mountain Biking**:
+Found **19** guides tagged with **Mountain Biking**:
 
 - [13 Mile Canyon Trail 23](hike/washington/eastern-washington/13-mile-canyon-trail-23.md)
 - [American Falls Trail 308](hike/idaho/north-idaho-hikes/american-falls-trail-308.md)
+- [Bernard Peak Overlook & High Point Trail #37](hike/idaho/north-idaho-hikes/bernard-peak-overlook.md)
 - [Bloom Peak](hike/idaho/silver-valley-area/bloom-peak.md)
 - [Breezy Hill Ancient and Dusty Lakes](hike/washington/scablands/breezy-hill-ancient-and-dusty-lakes.md)
 - [Caribou Ridge National Recreation Trail #79](hike/idaho/north-idaho-hikes/mount-cda-trail-79-caribou-ridge.md)
@@ -977,7 +1014,7 @@ Found **18** guides tagged with **Mountain Biking**:
 - [Packsaddle Mountain (Trail #76)](hike/idaho/north-idaho-hikes/packsaddle-mountain.md)
 - [Pyramid and Ball Lakes Trail 43](hike/idaho/american-selkirks/pyramid-and-ball-lakes-trail-43.md)
 - [Quincy Lakes](hike/washington/scablands/quincy-lakes.md)
-- [Shefoot Mountain](hike/idaho/north-idaho-hikes/shefoot-mountain.md)
+- [Shefoot Mountain (6,349') & Big Dick Point (5,419')](hike/idaho/north-idaho-hikes/shefoot-mountain.md)
 
 </div>
 <div class="static-tag-section" data-tag="Mountaineering & Education" markdown="1">
@@ -1052,11 +1089,20 @@ Found **1** guide tagged with **Orving**:
 - [Elsie Lakes Striped Peak Trail 16](hike/idaho/silver-valley-area/elsie-lakes-striped-peak-trail-16.md)
 
 </div>
+<div class="static-tag-section" data-tag="Paddles" markdown="1">
+
+## Paddles
+
+Found **1** guide tagged with **Paddles**:
+
+- [Tubbs Hill Nature Trails](hike/idaho/north-idaho-hikes/tubbs-hill.md)
+
+</div>
 <div class="static-tag-section" data-tag="Paddling" markdown="1">
 
 ## Paddling
 
-Found **30** guides tagged with **Paddling**:
+Found **29** guides tagged with **Paddling**:
 
 - [Amber Lake Launch](paddle/washington/scablands/amber-lake-launch.md)
 - [Anderson Lake / Thompson Lake Launch](paddle/idaho/cda-river-chain-lakes/anderson-lakethompson-lake-launch.md)
@@ -1087,14 +1133,13 @@ Found **30** guides tagged with **Paddling**:
 - [Rock Lake 4958](hike/montana/cabinet-mountains-wilderness/rock-lake-4958.md)
 - [Spar Peak Little Spar Lake  Horseshoe Pond](hike/montana/proposed-scotchman-peaks-wilderness/spar-peak-little-spar-lake--horseshoe-pond.md)
 - [Sullivan Lake Shore Line](hike/washington/eastern-washington/sullivan-lake-shore-line.md)
-- [Tubbs Hill](hike/idaho/north-idaho-hikes/tubbs-hill.md)
 
 </div>
 <div class="static-tag-section" data-tag="Paddling & Rivers" markdown="1">
 
 ## Paddling & Rivers
 
-Found **7** guides tagged with **Paddling & Rivers**:
+Found **8** guides tagged with **Paddling & Rivers**:
 
 - [Blue Bay Landing](paddle/idaho/north-idaho-launch-sites-cda-lake/blue-bay-landing.md)
 - [Booth Park Launch](paddle/idaho/north-idaho-launch-sites-cda-lake/booth-park-launch.md)
@@ -1103,6 +1148,7 @@ Found **7** guides tagged with **Paddling & Rivers**:
 - [Priest River City Park Launch](paddle/idaho/pend-orielle-river/priest-river-city-park-launch.md)
 - [Priest River Recreation Area Launch](paddle/idaho/pend-orielle-river/priest-river-recreation-area-launch.md)
 - [Rieley Creek Launch](paddle/idaho/pend-orielle-river/rieley-creek-launch.md)
+- [Rockford Bay Launch](paddle/idaho/north-idaho-launch-sites-cda-lake/rockford-bay-launch.md)
 
 </div>
 <div class="static-tag-section" data-tag="Paddling & Water Sports" markdown="1">
@@ -1118,13 +1164,14 @@ Found **1** guide tagged with **Paddling & Water Sports**:
 
 ## Peaks & Mountains
 
-Found **66** guides tagged with **Peaks & Mountains**:
+Found **67** guides tagged with **Peaks & Mountains**:
 
 - [A Peak 8634](hike/montana/cabinet-mountains-wilderness/a-peak-8634.md)
 - [Abercrombie Mountain](hike/washington/eastern-washington/abercrombie-mountain.md)
 - [Apex Mountain Resort](ski/canada/british-columbia/apex-mountain-resort.md)
-- [Blacktail Mountain](hike/idaho/north-idaho-hikes/blacktail-mountain.md)
-- [Blacktail Mountain Overlook](hike/idaho/north-idaho-hikes/blacktail-mountain-overlook.md)
+- [Bernard Peak Overlook & High Point Trail #37](hike/idaho/north-idaho-hikes/bernard-peak-overlook.md)
+- [Blacktail Mountain (5,495') — Trail #292](hike/idaho/north-idaho-hikes/blacktail-mountain.md)
+- [Blacktail Mountain Overlook & Maiden Rock Beach](hike/idaho/north-idaho-hikes/blacktail-mountain-overlook.md)
 - [Blacktail Mountain Ski Area](ski/usa/montana/blacktail-mountain-ski-area.md)
 - [Bloom Peak](hike/idaho/silver-valley-area/bloom-peak.md)
 - [Bridger Bowl](ski/usa/montana/bridger-bowl.md)
@@ -1150,7 +1197,7 @@ Found **66** guides tagged with **Peaks & Mountains**:
 - [Mission Ridge Ski & Board Resort](ski/usa/washington/mission-ridge-ski--board-resort.md)
 - [Moose Mountain Loop Hike](hike/idaho/north-idaho-hikes/moose-mountain-loop-hike.md)
 - [Myrtle Peak Trail](hike/idaho/north-idaho-hikes/myrtle-peak-trail.md)
-- [North And South Chilco Peak](hike/idaho/north-idaho-hikes/north-and-south-chilco-peak.md)
+- [North & South Chilco Peak National Recreation Trail #14](hike/idaho/north-idaho-hikes/north-and-south-chilco-peak.md)
 - [Packsaddle Mountain (Trail #76)](hike/idaho/north-idaho-hikes/packsaddle-mountain.md)
 - [Panorama Mountain Resort](ski/canada/british-columbia/panorama-mountain-resort.md)
 - [Parker Peak 7670](hike/idaho/american-selkirks/parker-peak-7670.md)
@@ -1168,12 +1215,12 @@ Found **66** guides tagged with **Peaks & Mountains**:
 - [Schweitzer Mountain Resort](ski/usa/idaho/schweitzer-mountain-resort.md)
 - [Scotchmans Peak](hike/idaho/proposed-scotchman-peaks-wilderness/scotchmans-peak.md)
 - [Selkirk Crest High Traverse](hike/idaho/american-selkirks/selkirk-crest-high-traverse.md)
-- [Shefoot Mountain](hike/idaho/north-idaho-hikes/shefoot-mountain.md)
-- [Short Peak 6515 And Lone Tree Peak 6732](hike/idaho/north-idaho-hikes/short-peak-6515-and-lone-tree-peak-6732.md)
+- [Shefoot Mountain (6,349') & Big Dick Point (5,419')](hike/idaho/north-idaho-hikes/shefoot-mountain.md)
+- [Shorty Peak (6,515') & Lone Tree Peak (6,706')](hike/idaho/north-idaho-hikes/short-peak-6515-and-lone-tree-peak-6732.md)
 - [Shorty Peak Trail 95 6515  Lone Tree Peak 6732](hike/idaho/american-selkirks/shorty-peak-trail-95-6515--lone-tree-peak-6732.md)
 - [Silver Mountain Resort](ski/usa/idaho/silver-mountain-resort.md)
 - [Silver Star Mountain Resort](ski/canada/british-columbia/silver-star-mountain-resort.md)
-- [Snow Peak](hike/idaho/north-idaho-hikes/snow-peak.md)
+- [Snow Peak (6,760') — Wildlife Management Area Trail #55](hike/idaho/north-idaho-hikes/snow-peak.md)
 - [Snowshoe Peak 8738](hike/montana/cabinet-mountains-wilderness/snowshoe-peak-8738.md)
 - [Solitude Mountain](ski/usa/utah/solitude-mountain.md)
 - [Star Peak](hike/idaho/proposed-scotchman-peaks-wilderness/star-peak.md)
@@ -1192,7 +1239,7 @@ Found **66** guides tagged with **Peaks & Mountains**:
 
 ## Photography
 
-Found **10** guides tagged with **Photography**:
+Found **11** guides tagged with **Photography**:
 
 - [Bloom Peak](hike/idaho/silver-valley-area/bloom-peak.md)
 - [Chicago Peak](hike/montana/cabinet-mountains-wilderness/chicago-peak.md)
@@ -1200,7 +1247,8 @@ Found **10** guides tagged with **Photography**:
 - [Geiger Llost Buck Pass](hike/montana/cabinet-mountains-wilderness/geiger-llost-buck-pass.md)
 - [Hawk Creek S P](hike/washington/scablands/hawk-creek-s-p.md)
 - [Hog Canyon Falls](hike/washington/scablands/hog-canyon--falls.md)
-- [Qemlin Park](hike/idaho/north-idaho-hikes/qemlin-park.md)
+- [John Day Fossil Bed National Monument](hike/oregon/john-day-fossil-bed-national-monument.md)
+- [Q'emiln Park & Post Falls Community Forest](hike/idaho/north-idaho-hikes/qemlin-park.md)
 - [St Paul Lake](hike/montana/cabinet-mountains-wilderness/st-paul-lake.md)
 - [State Line Ridge Trail](hike/idaho/silver-valley-area/state-line-ridge-trail.md)
 - [Ward Peak 7312  Eagle Peak 7333 Trail 250](hike/montana/bitterroots/ward-peak-7312--eagle-peak-7333-trail-250.md)
@@ -1216,12 +1264,22 @@ Found **2** guides tagged with **Picnicking**:
 - [Shoshone Medical Center Wellness Trail](hike/idaho/silver-valley-area/shoshone-medical-center-wellness-trail.md)
 
 </div>
+<div class="static-tag-section" data-tag="Post Falls" markdown="1">
+
+## Post Falls
+
+Found **1** guide tagged with **Post Falls**:
+
+- [Q'emiln Park & Post Falls Community Forest](hike/idaho/north-idaho-hikes/qemlin-park.md)
+
+</div>
 <div class="static-tag-section" data-tag="Priest Lake" markdown="1">
 
 ## Priest Lake
 
-Found **1** guide tagged with **Priest Lake**:
+Found **2** guides tagged with **Priest Lake**:
 
+- [Blacktail Mountain (5,495') — Trail #292](hike/idaho/north-idaho-hikes/blacktail-mountain.md)
 - [Navigation Trail #291 to Upper Priest Lake](hike/idaho/north-idaho-hikes/navigation-trail-291.md)
 
 </div>
@@ -1300,7 +1358,7 @@ Found **1** guide tagged with **Ridge Walking**:
 
 Found **1** guide tagged with **Rock Diving**:
 
-- [Tubbs Hill](hike/idaho/north-idaho-hikes/tubbs-hill.md)
+- [Tubbs Hill Nature Trails](hike/idaho/north-idaho-hikes/tubbs-hill.md)
 
 </div>
 <div class="static-tag-section" data-tag="Roped Snow" markdown="1">
@@ -1356,7 +1414,7 @@ Found **1** guide tagged with **Scenic Nature Hike**:
 
 Found **1** guide tagged with **Scenic Overlook**:
 
-- [Blacktail Mountain Overlook](hike/idaho/north-idaho-hikes/blacktail-mountain-overlook.md)
+- [Blacktail Mountain Overlook & Maiden Rock Beach](hike/idaho/north-idaho-hikes/blacktail-mountain-overlook.md)
 
 </div>
 <div class="static-tag-section" data-tag="Scrambling" markdown="1">
@@ -1395,7 +1453,7 @@ Found **35** guides tagged with **Scrambling**:
 - [St. Joe Lake & Illinois Peak](hike/montana/bitterroots/st-joe-lake--illinois-peak.md)
 - [State Line Ridge Trail](hike/idaho/silver-valley-area/state-line-ridge-trail.md)
 - [The Wigwams 7033](hike/idaho/american-selkirks/the-wigwams-7033.md)
-- [Tubbs Hill](hike/idaho/north-idaho-hikes/tubbs-hill.md)
+- [Tubbs Hill Nature Trails](hike/idaho/north-idaho-hikes/tubbs-hill.md)
 - [Two Mouth Lakes 5785](hike/idaho/american-selkirks/two-mouth-lakes-5785.md)
 - [Two Mouth Lakes To The Wigwams High Traverse](hike/idaho/american-selkirks/two-mouth-lakes-to-the-wigwams-high-traverse.md)
 - [Ward Peak 7312  Eagle Peak 7333 Trail 250](hike/montana/bitterroots/ward-peak-7312--eagle-peak-7333-trail-250.md)
@@ -1424,8 +1482,9 @@ Found **1** guide tagged with **Sight Seeing**:
 
 ## Sightseeing
 
-Found **1** guide tagged with **Sightseeing**:
+Found **2** guides tagged with **Sightseeing**:
 
+- [John Day Fossil Bed National Monument](hike/oregon/john-day-fossil-bed-national-monument.md)
 - [Palouse Falls State Park Heritage Site](hike/washington/scablands/palouse-falls-state-park-heritage-site.md)
 
 </div>
@@ -1519,8 +1578,9 @@ Found **1** guide tagged with **Sshoeing**:
 
 ## State Parks
 
-Found **1** guide tagged with **State Parks**:
+Found **2** guides tagged with **State Parks**:
 
+- [Bernard Peak Overlook & High Point Trail #37](hike/idaho/north-idaho-hikes/bernard-peak-overlook.md)
 - [Dry Falls & Sun Lakes State Park](waterfalls/washington/dry-falls-sun-lakes-sp.md)
 
 </div>
@@ -1552,15 +1612,6 @@ Found **1** guide tagged with **Strenuous to Very Strenuous**:
 - [Fault Lake 5980 Hunt Peak 7058 Trail 59](hike/idaho/american-selkirks/fault-lake-5980--hunt-peak-7058-trail-59.md)
 
 </div>
-<div class="static-tag-section" data-tag="Sun Bathing" markdown="1">
-
-## Sun Bathing
-
-Found **1** guide tagged with **Sun Bathing**:
-
-- [Tubbs Hill](hike/idaho/north-idaho-hikes/tubbs-hill.md)
-
-</div>
 <div class="static-tag-section" data-tag="Swimming" markdown="1">
 
 ## Swimming
@@ -1586,7 +1637,7 @@ Found **2** guides tagged with **Trail Maintenance**:
 
 ## Trails & Scrambles
 
-Found **74** guides tagged with **Trails & Scrambles**:
+Found **76** guides tagged with **Trails & Scrambles**:
 
 - [0Xeye Daisy](wildflowers/white/0xeye-daisy.md)
 - [13 Mile Canyon Trail 23](hike/washington/eastern-washington/13-mile-canyon-trail-23.md)
@@ -1614,11 +1665,13 @@ Found **74** guides tagged with **Trails & Scrambles**:
 - [Gateway Regional Park](paddle/washington/eastern-washington/gateway-regional-park.md)
 - [Geiger Llost Buck Pass](hike/montana/cabinet-mountains-wilderness/geiger-llost-buck-pass.md)
 - [Giant Cedar Grove Trail](hike/idaho/north-idaho-hikes/giant-cedar-grove-trail.md)
+- [Ginkgo Petrified Forest](hike/washington/scablands/ginkgo-petrified-forest.md)
 - [Glacier Lilies](wildflowers/yellow/glacier-lilies.md)
 - [Hawk Creek S P](hike/washington/scablands/hawk-creek-s-p.md)
 - [Hiking & Scrambling Regional Portal](hike/index.md)
 - [Hoodoo Canyon](hike/washington/eastern-washington/hoodoo-canyon.md)
 - [Independence Creek](hike/idaho/silver-valley-area/independence-creek.md)
+- [John Day Fossil Bed National Monument](hike/oregon/john-day-fossil-bed-national-monument.md)
 - [Kinnikinnick](wildflowers/red-and-pink/kinnikinnick.md)
 - [Kootenai National Wildlife Refuge](hike/idaho/american-selkirks/kootenai-wlr.md)
 - [Large Hop Clover](wildflowers/yellow/large-hop-clover.md)
@@ -1639,7 +1692,7 @@ Found **74** guides tagged with **Trails & Scrambles**:
 - [Navigation Trail #291 to Upper Priest Lake](hike/idaho/north-idaho-hikes/navigation-trail-291.md)
 - [Nuttall's Larkspur (Delphinium nuttallianum)](wildflowers/blue/nuttalls-larkspur.md)
 - [Polemonium](wildflowers/white/polemonium.md)
-- [Qemlin Park](hike/idaho/north-idaho-hikes/qemlin-park.md)
+- [Q'emiln Park & Post Falls Community Forest](hike/idaho/north-idaho-hikes/qemlin-park.md)
 - [Red Indian Paint Brush](wildflowers/red-and-pink/red-indian-paint-brush.md)
 - [Red Lodge](red-lodge.md)
 - [Red Twinberry](wildflowers/red-and-pink/red-twinberry.md)
@@ -1659,7 +1712,7 @@ Found **74** guides tagged with **Trails & Scrambles**:
 - [The Green Monarchs](hike/idaho/north-idaho-hikes/the-green-monarchs.md)
 - [The Wigwams 7033](hike/idaho/american-selkirks/the-wigwams-7033.md)
 - [Thimbelberry](wildflowers/white/thimbelberry.md)
-- [Tubbs Hill](hike/idaho/north-idaho-hikes/tubbs-hill.md)
+- [Tubbs Hill Nature Trails](hike/idaho/north-idaho-hikes/tubbs-hill.md)
 - [Whistler Blackcomb](ski/canada/british-columbia/whistler-blackcomb.md)
 - [William Grambauer](hike/montana/cabinet-mountains-wilderness/william-grambauer.md)
 
@@ -2452,7 +2505,18 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
-    "title": "Blacktail Mountain Overlook",
+    "title": "Bernard Peak Overlook & High Point Trail #37",
+    "url": "/hike/idaho/north-idaho-hikes/bernard-peak-overlook/",
+    "tags": [
+      "Peaks & Mountains",
+      "Day Hiking",
+      "Mountain Biking",
+      "Easy to Moderate",
+      "State Parks"
+    ]
+  },
+  {
+    "title": "Blacktail Mountain Overlook & Maiden Rock Beach",
     "url": "/hike/idaho/north-idaho-hikes/blacktail-mountain-overlook/",
     "tags": [
       "Peaks & Mountains",
@@ -2462,14 +2526,15 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
-    "title": "Blacktail Mountain",
+    "title": "Blacktail Mountain (5,495') \u2014 Trail #292",
     "url": "/hike/idaho/north-idaho-hikes/blacktail-mountain/",
     "tags": [
       "Peaks & Mountains",
       "Day Hiking",
       "Backpacking",
       "Moderate",
-      "Equestrian"
+      "Equestrian",
+      "Priest Lake"
     ]
   },
   {
@@ -2539,7 +2604,7 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
-    "title": "North And South Chilco Peak",
+    "title": "North & South Chilco Peak National Recreation Trail #14",
     "url": "/hike/idaho/north-idaho-hikes/north-and-south-chilco-peak/",
     "tags": [
       "Peaks & Mountains",
@@ -2570,17 +2635,18 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
-    "title": "Shefoot Mountain",
+    "title": "Shefoot Mountain (6,349') & Big Dick Point (5,419')",
     "url": "/hike/idaho/north-idaho-hikes/shefoot-mountain/",
     "tags": [
       "Peaks & Mountains",
       "Day Hiking",
       "Backpacking",
-      "Mountain Biking"
+      "Mountain Biking",
+      "Difficult"
     ]
   },
   {
-    "title": "Short Peak 6515 And Lone Tree Peak 6732",
+    "title": "Shorty Peak (6,515') & Lone Tree Peak (6,706')",
     "url": "/hike/idaho/north-idaho-hikes/short-peak-6515-and-lone-tree-peak-6732/",
     "tags": [
       "Peaks & Mountains",
@@ -2592,7 +2658,7 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
-    "title": "Snow Peak",
+    "title": "Snow Peak (6,760') \u2014 Wildlife Management Area Trail #55",
     "url": "/hike/idaho/north-idaho-hikes/snow-peak/",
     "tags": [
       "Peaks & Mountains",
@@ -3089,7 +3155,7 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
-    "title": "Tubbs Hill",
+    "title": "Tubbs Hill Nature Trails",
     "url": "/hike/idaho/north-idaho-hikes/tubbs-hill/",
     "tags": [
       "Scrambling",
@@ -3097,9 +3163,9 @@ Found **1** guide tagged with **waterfalls**:
       "Day Hiking",
       "Trails & Scrambles",
       "Climbing",
-      "Paddling",
       "Rock Diving",
-      "Sun Bathing"
+      "Paddles",
+      "Coeur d'Alene"
     ]
   },
   {
@@ -3917,6 +3983,18 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
+    "title": "John Day Fossil Bed National Monument",
+    "url": "/hike/oregon/john-day-fossil-bed-national-monument/",
+    "tags": [
+      "Easy",
+      "Trails & Scrambles",
+      "Camping",
+      "Photography",
+      "Sightseeing",
+      "Exceptional Beauty"
+    ]
+  },
+  {
     "title": "Crawford State Park & Gardner Cave",
     "url": "/hike/washington/eastern-washington/crawford-sp-gardner-cave/",
     "tags": [
@@ -4052,14 +4130,15 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
-    "title": "Qemlin Park",
+    "title": "Q'emiln Park & Post Falls Community Forest",
     "url": "/hike/idaho/north-idaho-hikes/qemlin-park/",
     "tags": [
       "Day Hiking",
       "Trails & Scrambles",
       "Moderate",
       "Climbing",
-      "Photography"
+      "Photography",
+      "Post Falls"
     ]
   },
   {
@@ -4197,6 +4276,14 @@ Found **1** guide tagged with **waterfalls**:
     "url": "/hike/mexico/sayulita-nayarit/",
     "tags": [
       "Trails & Scrambles"
+    ]
+  },
+  {
+    "title": "Ginkgo Petrified Forest",
+    "url": "/hike/washington/scablands/ginkgo-petrified-forest/",
+    "tags": [
+      "Trails & Scrambles",
+      "Hiking"
     ]
   },
   {
@@ -4521,6 +4608,13 @@ Found **1** guide tagged with **waterfalls**:
   {
     "title": "Loffs Bay Launch",
     "url": "/paddle/idaho/north-idaho-launch-sites-cda-lake/loffs-bay-launch/",
+    "tags": [
+      "Paddling & Rivers"
+    ]
+  },
+  {
+    "title": "Rockford Bay Launch",
+    "url": "/paddle/idaho/north-idaho-launch-sites-cda-lake/rockford-bay-launch/",
     "tags": [
       "Paddling & Rivers"
     ]
