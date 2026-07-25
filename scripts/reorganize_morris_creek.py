@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 tags:
   - Trails & Scrambles
   - Easy
@@ -93,3 +95,10 @@ Check local weather forecasts before departing:
 
 - **NOAA Weather Forecast:** [National Weather Service Elk River / Orofino Forecast](https://forecast.weather.gov)
 - **Forest Alerts:** [Nez Perce-Clearwater National Forests Alerts & Notices](https://www.fs.usda.gov/alerts/nezperceclearwater/alerts-notices)
+"""
+
+target_path = "docs/hike/idaho/north-idaho-hikes/morris-creek-old-growth-cedar-grove.md"
+with open(target_path, "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Reorganized morris-creek-old-growth-cedar-grove.md successfully")
