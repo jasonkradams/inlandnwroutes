@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: Chicken & Rice Soup
 tags:
   - Recipes
@@ -91,3 +93,9 @@ A hearty, flavorful homemade chicken and rice soup featuring slow-simmered chick
 !!! note "On the Trail"
 
     On cool hiking days, pack the soup in a jar and bring a camp stove. Reheat the soup on the trail, fry the garlic bread butter-side down in a pan, and top with optional cheese for an incredible mountain meal!
+"""
+
+with open("docs/recipes/soups/chicken-and-rice-soup.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized chicken-and-rice-soup.md successfully")
