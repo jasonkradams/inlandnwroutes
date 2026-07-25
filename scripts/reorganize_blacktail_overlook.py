@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 tags:
   - Peaks & Mountains
   - Moderate
@@ -139,3 +141,10 @@ _Trail #321 descending down to Maiden Rock boat camp through a cool cedar forest
 
 ![Maiden Rock beach and 800-foot deep shoreline on Lake Pend Oreille](../../../assets/images/202159206.jpg)
 _Maiden Rock beach and 800-foot deep shoreline on Lake Pend Oreille._
+"""
+
+target_path = "docs/hike/idaho/north-idaho-hikes/blacktail-mountain-overlook.md"
+with open(target_path, "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Reorganized blacktail-mountain-overlook.md successfully")
