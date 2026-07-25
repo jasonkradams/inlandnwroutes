@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: "Bonnie Lake Landing (Rock Creek Access)"
 tags:
   - Lakes
@@ -74,3 +76,9 @@ Bonnie Lake is a remote, narrow scabland lake enclosed by dramatic basalt walls 
 
 ![Lava Tree Caves near Bonnie Lake Entrance](../../../assets/images/11142021942p-jpeg.jpg)
 _Two ancient lava caves formed by prehistoric basalt flows around gigantic trees near the lake entrance._
+"""
+
+with open("docs/paddle/washington/scablands/bonnie-lake-landing.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized bonnie-lake-landing.md successfully")
