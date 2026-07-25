@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 tags:
   - Wildflowers
   - Trails & Scrambles
@@ -124,3 +126,9 @@ For detailed identification of toxic look-alikes, read our [Mountain Deathcamas 
 Common Camas thrives in moist subalpine meadows, stream margins, marshy flats, and damp grassy slopes at elevations
 ranging from valley bottoms up to 5,300+ feet. Its native distribution spans California, Idaho, Montana, Nevada,
 Oregon, Utah, Washington, Wyoming, and British Columbia.
+"""
+
+with open("docs/wildflowers/blue/camas.md", "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Updated docs/wildflowers/blue/camas.md without duplicate frontmatter title")
