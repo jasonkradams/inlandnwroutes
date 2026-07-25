@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: "Outdoor Photography Guide"
 tags:
   - Resources
@@ -113,3 +115,9 @@ Avoid using the fully automatic "green camera" mode, which deprives you of creat
 !!! danger "Do NOT Clean Sensors Yourself"
 
     Camera sensors are covered by extremely thin, fragile glass filters. Attempting to clean the sensor yourself can scratch the glass or trigger the mechanical shutter to snap shut on your cleaning tool, causing catastrophic camera damage. Always have your sensor cleaned by professionals at a trusted shop like [Camera Corral](camera-corral.md).
+"""
+
+with open("docs/resources/general/photography.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized photography.md successfully")
