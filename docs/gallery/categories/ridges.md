@@ -1,126 +1,71 @@
 ---
 tags:
+  - Ridges
+  - Photo Gallery
 ---
 
 # Ridges
 
-Click any image to enlarge and view high-resolution photo.
+Click any image to enlarge and view high-resolution photo and caption.
 
 ---
 
 ## Photo Gallery
 
-- ![RIDGE BETWEEN SHORTY PEAK 6515’ AND LONE TREE PEAK 6732’. A.S.](../../assets/images/12192021231p.jpg)
-  _RIDGE BETWEEN SHORTY PEAK 6515’ AND LONE TREE PEAK 6732’. A.S._
-- ![FAULT LAKE RIDGE THE GAP IS THE FAULT A.S.](../../assets/images/12192021237p.jpg)
-  _FAULT LAKE RIDGE THE GAP IS THE FAULT A.S._
-- ![WILLOW RIDGE, STEVENS PEAK AREA](../../assets/images/12192021240p.jpg)
-  _WILLOW RIDGE, STEVENS PEAK AREA_
-- ![PYRAMID LAKE FROM PYRAMID PEAK 7355' A.S.](../../assets/images/12192021238p.jpg)
-  _PYRAMID LAKE FROM PYRAMID PEAK 7355' A.S._
-- ![HIGH RIDGE NORTH OF LION HEAD PEAK. A.S.](../../assets/images/12192021247p.jpg)
-  _HIGH RIDGE NORTH OF LION HEAD PEAK. A.S._
-- ![THE P.S.P.W. & C.M.W. FROM BLACKTAIL OVERLOOK, PEND ORIELLE LAKE](../../assets/images/202154207-jpeg-1.jpg)
-  _THE P.S.P.W. & C.M.W. FROM BLACKTAIL OVERLOOK, PEND ORIELLE LAKE_
-- ![WILLOW RIDGE & STEVENS PEAK 6838'](../../assets/images/12192021243p_orig.jpeg)
-  _WILLOW RIDGE & STEVENS PEAK 6838'_
-- ![STATE LINE RIDGE FROM ST. REGIS L. TRAIL. STEVENS PEAK AREA](../../assets/images/12192021244p.jpg)
-  _STATE LINE RIDGE FROM ST. REGIS L. TRAIL. STEVENS PEAK AREA_
-- ![DESCENT RIDGE FROM SAWTOOTH MOUNTAIN WITH BILLIARD TABLE MT. 6822' P.S.P.W.](../../assets/images/12192021242p.jpg)
-  _DESCENT RIDGE FROM SAWTOOTH MOUNTAIN WITH BILLIARD TABLE MT. 6822' P.S.P.W._
-- ![WILLOW RIDGE LEFT, IDAHO CENTENNIAL RIDGE RIGHT. UPPER SANCTUARY ABOVE LONE LAKE](../../assets/images/12192021245p_orig.jpeg)
-  _WILLOW RIDGE LEFT, IDAHO CENTENNIAL RIDGE RIGHT. UPPER SANCTUARY ABOVE LONE LAKE_
-- ![WEST WILLOW RIDGE, UPPER SANCTUARY, ABOVE LONE LAKE & THE IDAHO CENTENNIAL TRAIL](../../assets/images/12192021248p.jpg)
-  _WEST WILLOW RIDGE, UPPER SANCTUARY, ABOVE LONE LAKE & THE IDAHO CENTENNIAL TRAIL_
-- ![THE ROUTE TO LOOKOUT MOUNTAIN FIRE LOOKOUT. THIS ROUTE IS ALONG A CLIFFS EDGE.](../../assets/images/12192021246p.jpg)
-  _THE ROUTE TO LOOKOUT MOUNTAIN FIRE LOOKOUT. THIS ROUTE IS ALONG A CLIFFS EDGE._
-- ![STEVENS PEAK 6838' FROM WILLOW PEAK RIDGE](../../assets/images/12192021249p.jpg)
-  _STEVENS PEAK 6838' FROM WILLOW PEAK RIDGE_
-- ![STATE LINE RIDGE LUNCH SPOT. STEVENS PEAK AREA](../../assets/images/12192021250p.jpg)
-  _STATE LINE RIDGE LUNCH SPOT. STEVENS PEAK AREA_
-- ![LUNAR LANDSCAPE WITH LION HEAD NEAR BALL LAKES. A.S.](../../assets/images/12192021251p.jpg)
-  _LUNAR LANDSCAPE WITH LION HEAD NEAR BALL LAKES. A.S._
-- ![SMOKY SKY'S FROM WARD PEAK 7312'](../../assets/images/12192021253p.jpg)
-  _SMOKY SKY'S FROM WARD PEAK 7312'_
-- ![GOLD HILL & STEVENS PEAK 6838'](../../assets/images/12192021301p.jpg)
-  _GOLD HILL & STEVENS PEAK 6838'_
-- ![HIGH RIDGE ABOVE LITTLE IBEX LAKE C.M.W.](../../assets/images/12192021300p.jpg)
-  _HIGH RIDGE ABOVE LITTLE IBEX LAKE C.M.W._
-- ![LATOUR PEAK 6408' FROM FROST PEAK 5832'-LATOUR BALDY PEAK 6232'](../../assets/images/12192021302p.jpg)
-  _LATOUR PEAK 6408' FROM FROST PEAK 5832'-LATOUR BALDY PEAK 6232'_
-- ![STATE LINE RIDGE LUNCH SPOT](../../assets/images/12192021254p.jpg)
-  _STATE LINE RIDGE LUNCH SPOT_
-- ![AMY TAKING IN THE SELKIRK CREST ABOVE HARRISON LAKE](../../assets/images/12192021303p.jpg)
-  _AMY TAKING IN THE SELKIRK CREST ABOVE HARRISON LAKE_
-- ![SELKIRK CREST ABOVE BEEHIVE LAKE. NORTH TWIN BEHIND. A.S.](../../assets/images/121920213041p.jpg)
-  _SELKIRK CREST ABOVE BEEHIVE LAKE. NORTH TWIN BEHIND. A.S._
-- ![LUNAR LANDSCAPE NEAR BALL LAKES, A.S.](../../assets/images/121920213052p.jpg)
-  _LUNAR LANDSCAPE NEAR BALL LAKES, A.S._
-- ![P.S.P.W. HIGH RIDGE WITH BILLIARD TABLE MT. 6622'](../../assets/images/12192021308p.jpg)
-  _P.S.P.W. HIGH RIDGE WITH BILLIARD TABLE MT. 6622'_
-- ![SLIVER MOON FROM THE UPPER SANCTUARY, LONE LAKE](../../assets/images/12192021309p.jpg)
-  _SLIVER MOON FROM THE UPPER SANCTUARY, LONE LAKE_
-- ![WILLOW RIDGE & LONE LAKE](../../assets/images/121920213131p.jpg)
-  _WILLOW RIDGE & LONE LAKE_
-- ![WILLOW RIDGE NORTH OF STEVENS PEAK](../../assets/images/12192021311p.jpg)
-  _WILLOW RIDGE NORTH OF STEVENS PEAK_
-- ![CASCADE RIDGE WEST OF K.N.W.R. & THE PURCELL TRENCH.](../../assets/images/12192021312p.png)
-  _CASCADE RIDGE WEST OF K.N.W.R. & THE PURCELL TRENCH._
-- ![IDAHO CENTENNIAL TRAIL RIDGE, AKA WEST WILLOW RIDGE, STEVENS PEAK 6838'](../../assets/images/121920213151p.jpg)
-  _IDAHO CENTENNIAL TRAIL RIDGE, AKA WEST WILLOW RIDGE, STEVENS PEAK 6838'_
-- ![WILLOW RIDGE, STEVENS PEAK AREA](../../assets/images/12192021317p.jpg)
-  _WILLOW RIDGE, STEVENS PEAK AREA_
-- ![IDAHO CENTENNIAL TRAIL RIDGE AKA WEST WILLOW RIDGE STEVENS PEAK 6838'](../../assets/images/12192021315p.jpg)
-  _IDAHO CENTENNIAL TRAIL RIDGE AKA WEST WILLOW RIDGE STEVENS PEAK 6838'_
-- ![CASCADE RIDGE EAST OF BURTON PEAK 6844' A.S.](../../assets/images/12192021316p.png)
-  _CASCADE RIDGE EAST OF BURTON PEAK 6844' A.S._
-- ![STATE LINE RIDGE FROM ST. REGIS LAKE TRAIL](../../assets/images/121920213221p.jpg)
-  _STATE LINE RIDGE FROM ST. REGIS LAKE TRAIL_
-- ![IDAHO CENTENNIAL TRAIL, STEVENS PEAK 6838'](../../assets/images/121920213271p.jpg)
-  _IDAHO CENTENNIAL TRAIL, STEVENS PEAK 6838'_
-- ![SELKIRK CREST FROM PEAK 7171', A.S.](../../assets/images/12192021241p.jpg)
-  _SELKIRK CREST FROM PEAK 7171', A.S._
-- ![STATE LINE RIDGE & STEVENS PEAK 6838'](../../assets/images/121920213181p.jpg)
-  _STATE LINE RIDGE & STEVENS PEAK 6838'_
-- ![WILLOW RIDGE & STEVENS PEAK 6838' FROM STATE LINE RIDGE](../../assets/images/12192021329p.jpg)
-  _WILLOW RIDGE & STEVENS PEAK 6838' FROM STATE LINE RIDGE_
-- ![THE WIGWAMS & EAST RIDGE. A.S.](../../assets/images/12192021330p.jpg)
-  _THE WIGWAMS & EAST RIDGE. A.S._
-- ![WILLOW RIDGE FROM STEVENS PEAK 6838'](../../assets/images/12192021332p.jpg)
-  _WILLOW RIDGE FROM STEVENS PEAK 6838'_
-- ![GOLD HILL & STEVENS PEAK](../../assets/images/12192021333p.jpg)
-  _GOLD HILL & STEVENS PEAK_
-- ![STEVENS PEAK 6838’ FROM WEST WILLOW RIDGE ABOVE LONE LAKE, IDAHO CENTENNIAL TRAIL](../../assets/images/12192021334p.jpg)
-  _STEVENS PEAK 6838’ FROM WEST WILLOW RIDGE ABOVE LONE LAKE, IDAHO CENTENNIAL TRAIL_
-- ![WEST WILLOW RIDGE & IDAHO CENTENNIAL TRAIL ABOVE UPPER SANCTUARY, LONE LAKE](../../assets/images/12192021335.jpg)
-  _WEST WILLOW RIDGE & IDAHO CENTENNIAL TRAIL ABOVE UPPER SANCTUARY, LONE LAKE_
-- ![ELSIE LAKE & THE CDA-ST JOE DIVIDE, SILVER VALLEY](../../assets/images/122020219281p-copy.jpg)
-  _ELSIE LAKE & THE CDA-ST JOE DIVIDE, SILVER VALLEY_
-- ![FOREGROUND IS THE RIDGE BETWEEN L. HARRISON L. & BEEHIVE L. NEAR PEAK IS ROMAN NOSE PEAK 7260' AND THE CABINET MOUNTAIN WILDERNESS IN THE DISTANCE. IMAGE BY CHRIS H.](../../assets/images/122220211206p.jpg)
-  _FOREGROUND IS THE RIDGE BETWEEN L. HARRISON L. & BEEHIVE L. NEAR PEAK IS ROMAN NOSE PEAK 7260' AND THE CABINET MOUNTAIN WILDERNESS IN THE DISTANCE. IMAGE BY CHRIS H._
-- ![THE SUMMIT OF A PEAK 8634' FROM THE N.W. IMAGE BY CHRIS H.](../../assets/images/12220211207p.jpg)
-  _THE SUMMIT OF A PEAK 8634' FROM THE N.W. IMAGE BY CHRIS H._
-- ![SNOWSHOE PEAK 8638' FROM THE N.W. IMAGE BY CHRIS H.](../../assets/images/122220211210p.jpg)
-  _SNOWSHOE PEAK 8638' FROM THE N.W. IMAGE BY CHRIS H._
-- ![LITTLE HARRISON LAKE, AMERICAN SELKIRKS IMAGE BY CHRIS H.](../../assets/images/122220211211p.jpg)
-  _LITTLE HARRISON LAKE, AMERICAN SELKIRKS IMAGE BY CHRIS H._
-- ![A PEAK 8634’ & SNOWSHOE PEAK 8738’ FROM HIGH VALLEY TO N.W. IMAGE BY CHRIS H.](../../assets/images/122220211213p.jpg)
-  _A PEAK 8634’ & SNOWSHOE PEAK 8738’ FROM HIGH VALLEY TO N.W. IMAGE BY CHRIS H._
-- ![BLACKWELL GLACIER, BETWEEN SNOWSHOE & A PEAKS. C.M.W.](../../assets/images/122220211215p.jpg)
-  _BLACKWELL GLACIER, BETWEEN SNOWSHOE & A PEAKS. C.M.W._
-- ![A LUNAR LANDSCAPE ON MYRTLE'S TURTLE, ABOVE UPPER TWO MOUTHN LAKE. A.S.](../../assets/images/122220211217p.jpg)
-  _A LUNAR LANDSCAPE ON MYRTLE'S TURTLE, ABOVE UPPER TWO MOUTHN LAKE. A.S._
-- ![STATE LINE RIDGE ABOVE ST. REGIS LAKES & STEVENS LAKES AREA](../../assets/images/12262021248p.jpg)
-  _STATE LINE RIDGE ABOVE ST. REGIS LAKES & STEVENS LAKES AREA_
-- ![THE CROOKED RIVER AT SMITH ROCKS, OREGON](../../assets/images/12262021279p.jpg)
-  _THE CROOKED RIVER AT SMITH ROCKS, OREGON_
-- ![UNNAMED RIDGE ABOVE BALL LAKES, A.S.](../../assets/images/12262021247p.jpg)
-  _UNNAMED RIDGE ABOVE BALL LAKES, A.S._
-- ![WILLOW RIDGE AND HIGH WINDS FROM THE UPPER SANCTUARY AT LONE LAKE](../../assets/images/12262021246p.jpg)
-  _WILLOW RIDGE AND HIGH WINDS FROM THE UPPER SANCTUARY AT LONE LAKE_
-- ![THE SEVEN SISTERS OF THE AMERICAN SELKIRKS, THE WIGWAMS, A.S.](../../assets/images/img-7947.jpg)
-  _THE SEVEN SISTERS OF THE AMERICAN SELKIRKS, THE WIGWAMS, A.S._
-- ![LONE LAKE (L), WILLOW RIDGE (M), LOWER & UPPER STEVENS LAKES (R)](../../assets/images/3312022852p-copy.jpg "LONE LAKE (L)
-  _LONE LAKE (L), WILLOW RIDGE (M), LOWER & UPPER STEVENS LAKES (R)_
-- ![ONION SKIN GRANITE WITH THE WEST FORK LAKE LOOKOUT TOWER, AND THE LION HEAD GROUP MOUNTAINS,](../../assets/images/8152025417p.jpg)
-  _ONION SKIN GRANITE WITH THE WEST FORK LAKE LOOKOUT TOWER, AND THE LION HEAD GROUP MOUNTAINS,_
+- ![Ridge Between Shorty Peak 6515’ and Lone Tree Peak 6732’. A.S.](../../assets/images/12192021231p.jpg)
+- ![Fault Lake Ridge the Gap Is the Fault A.S.](../../assets/images/12192021237p.jpg)
+- ![Willow Ridge, Stevens Peak Area](../../assets/images/12192021240p.jpg)
+- ![Pyramid Lake from Pyramid Peak 7355' A.S.](../../assets/images/12192021238p.jpg)
+- ![High Ridge North of Lion Head Peak. A.S.](../../assets/images/12192021247p.jpg)
+- ![The P.S.P.W. & C.M.W. from Blacktail Overlook, Pend Orielle Lake](../../assets/images/202154207-jpeg-1.jpg)
+- ![Willow Ridge & Stevens Peak 6838'](../../assets/images/12192021243p_orig.jpeg)
+- ![State Line Ridge from St. Regis L. Trail. Stevens Peak Area](../../assets/images/12192021244p.jpg)
+- ![Descent Ridge from Sawtooth Mountain with Billiard Table MT. 6822' P.S.P.W.](../../assets/images/12192021242p.jpg)
+- ![Willow Ridge Left, Idaho Centennial Ridge Right. Upper Sanctuary Above Lone Lake](../../assets/images/12192021245p_orig.jpeg)
+- ![West Willow Ridge, Upper Sanctuary, Above Lone Lake & the Idaho Centennial Trail](../../assets/images/12192021248p.jpg)
+- ![The Route to Lookout Mountain Fire Lookout. This Route Is Along a Cliffs Edge.](../../assets/images/12192021246p.jpg)
+- ![Stevens Peak 6838' from Willow Peak Ridge](../../assets/images/12192021249p.jpg)
+- ![State Line Ridge Lunch Spot. Stevens Peak Area](../../assets/images/12192021250p.jpg)
+- ![Lunar Landscape with Lion Head Near Ball Lakes. A.S.](../../assets/images/12192021251p.jpg)
+- ![Smoky Sky's from Ward Peak 7312'](../../assets/images/12192021253p.jpg)
+- ![Gold Hill & Stevens Peak 6838'](../../assets/images/12192021301p.jpg)
+- ![High Ridge Above Little Ibex Lake C.M.W.](../../assets/images/12192021300p.jpg)
+- ![Latour Peak 6408' from Frost Peak 5832'-latour Baldy Peak 6232'](../../assets/images/12192021302p.jpg)
+- ![State Line Ridge Lunch Spot](../../assets/images/12192021254p.jpg)
+- ![Amy Taking in the Selkirk Crest Above Harrison Lake](../../assets/images/12192021303p.jpg)
+- ![Selkirk Crest Above Beehive Lake. North Twin Behind. A.S.](../../assets/images/121920213041p.jpg)
+- ![Lunar Landscape Near Ball Lakes, A.S.](../../assets/images/121920213052p.jpg)
+- ![P.S.P.W. High Ridge with Billiard Table MT. 6622'](../../assets/images/12192021308p.jpg)
+- ![Sliver Moon from the Upper Sanctuary, Lone Lake](../../assets/images/12192021309p.jpg)
+- ![Willow Ridge & Lone Lake](../../assets/images/121920213131p.jpg)
+- ![Willow Ridge North of Stevens Peak](../../assets/images/12192021311p.jpg)
+- ![Cascade Ridge West of K.N.W.R. & the Purcell Trench.](../../assets/images/12192021312p.png)
+- ![Idaho Centennial Trail Ridge, Aka West Willow Ridge, Stevens Peak 6838'](../../assets/images/121920213151p.jpg)
+- ![Willow Ridge, Stevens Peak Area](../../assets/images/12192021317p.jpg)
+- ![Idaho Centennial Trail Ridge Aka West Willow Ridge Stevens Peak 6838'](../../assets/images/12192021315p.jpg)
+- ![Cascade Ridge East of Burton Peak 6844' A.S.](../../assets/images/12192021316p.png)
+- ![State Line Ridge from St. Regis Lake Trail](../../assets/images/121920213221p.jpg)
+- ![Idaho Centennial Trail, Stevens Peak 6838'](../../assets/images/121920213271p.jpg)
+- ![Selkirk Crest from Peak 7171', A.S.](../../assets/images/12192021241p.jpg)
+- ![State Line Ridge & Stevens Peak 6838'](../../assets/images/121920213181p.jpg)
+- ![Willow Ridge & Stevens Peak 6838' from State Line Ridge](../../assets/images/12192021329p.jpg)
+- ![The Wigwams & East Ridge. A.S.](../../assets/images/12192021330p.jpg)
+- ![Willow Ridge from Stevens Peak 6838'](../../assets/images/12192021332p.jpg)
+- ![Gold Hill & Stevens Peak](../../assets/images/12192021333p.jpg)
+- ![Stevens Peak 6838’ from West Willow Ridge Above Lone Lake, Idaho Centennial Trail](../../assets/images/12192021334p.jpg)
+- ![West Willow Ridge & Idaho Centennial Trail Above Upper Sanctuary, Lone Lake](../../assets/images/12192021335.jpg)
+- ![Elsie Lake & the Cda-st Joe Divide, Silver Valley](../../assets/images/122020219281p-copy.jpg)
+- ![Foreground Is the Ridge Between L. Harrison L. & Beehive L. Near Peak Is Roman Nose Peak 7260' and the Cabinet Mountain Wilderness in the Distance. Image by Chris H.](../../assets/images/122220211206p.jpg)
+- ![The Summit of a Peak 8634' from the N.W. Image by Chris H.](../../assets/images/12220211207p.jpg)
+- ![Snowshoe Peak 8638' from the N.W. Image by Chris H.](../../assets/images/122220211210p.jpg)
+- ![Little Harrison Lake, American Selkirks Image by Chris H.](../../assets/images/122220211211p.jpg)
+- ![A Peak 8634’ & Snowshoe Peak 8738’ from High Valley to N.W. Image by Chris H.](../../assets/images/122220211213p.jpg)
+- ![Blackwell Glacier, Between Snowshoe & a Peaks. C.M.W.](../../assets/images/122220211215p.jpg)
+- ![A Lunar Landscape on Myrtle's Turtle, Above Upper Two Mouthn Lake. A.S.](../../assets/images/122220211217p.jpg)
+- ![State Line Ridge Above St. Regis Lakes & Stevens Lakes Area](../../assets/images/12262021248p.jpg)
+- ![The Crooked River at Smith Rocks, Oregon](../../assets/images/12262021279p.jpg)
+- ![Unnamed Ridge Above Ball Lakes, A.S.](../../assets/images/12262021247p.jpg)
+- ![Willow Ridge and High Winds from the Upper Sanctuary at Lone Lake](../../assets/images/12262021246p.jpg)
+- ![The Seven Sisters of the American Selkirks, the Wigwams, A.S.](../../assets/images/img-7947.jpg)
+- ![Lone Lake (L), Willow Ridge (m), Lower & Upper Stevens Lakes (r)](../../assets/images/3312022852p-copy.jpg "LONE LAKE (L)
+- ![Onion Skin Granite with the West Fork Lake Lookout Tower, and the Lion Head Group Mountains,](../../assets/images/8152025417p.jpg)

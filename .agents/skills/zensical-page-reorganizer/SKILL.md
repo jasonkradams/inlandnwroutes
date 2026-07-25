@@ -91,6 +91,19 @@ This skill provides a systematic workflow for refactoring unorganized, run-on, o
 
 - **Caption Newline Display Rule**: Always ensure image tags and italicized captions (`_Caption text_`) render on separate block lines (`display: block; clear: both;` in `extra.css`). Small or portrait-oriented photos must never allow caption text to float or wrap inline next to the photo.
 
+### 4.1 Gallery Pages (`docs/gallery/`) Specialized Rule
+
+When reorganizing image gallery category pages located under `docs/gallery/` or `docs/gallery/categories/`:
+
+- **Mixed-Case Captions (No ALL-CAPS)**: Convert raw uppercase image titles and descriptions into Title Case or Sentence Case (e.g. `Ridge Between Shorty Peak 6515' and Lone Tree Peak 6732'. A.S.` instead of `RIDGE BETWEEN...`).
+- **Omit Body Captions Under Grid Images**: Do **NOT** include an italicized `_Caption text_` paragraph under each photo in the gallery grid list. Omitting body text cards maximizes visual real estate so photos display edge-to-edge.
+- **Alt Text Retained for Lightbox Modal**: Retain full descriptive text on the Markdown image tag itself:
+  ```markdown
+  - ![Ridge Between Shorty Peak 6515' and Lone Tree Peak 6732'. A.S.](../../assets/images/12192021231p.jpg)
+  - ![Fault Lake Ridge (The Gap is the Fault). A.S.](../../assets/images/12192021237p.jpg)
+  ```
+  `zensical.extensions.glightbox` (`auto_caption: true`) extracts the `alt` text to populate `data-title` in the GLightbox modal, presenting the title/caption to the user when clicking any photo.
+
 ### 5. Blog Post Detection & Specialized Formatting
 
 When reorganizing a page identified as a blog post (located in `docs/blog/`, `docs/blog/posts/`, or containing blog frontmatter / title `Blog #...`):
