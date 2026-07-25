@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: "Cherry Bend Park Launch (St. Joe River Access)"
 tags:
   - Rivers
@@ -62,3 +64,9 @@ Cherry Bend Boat Park is a popular riverfront park and public boat launch situat
 - **St. Joe River Access Sites:** Explore [First Street Launch](first-street-launch.md), [Aqua Park Launch](aqua-park-launch.md), and [Silvertip Landing](silvertip-landing.md).
 - **Regional Destinations:** Heyburn State Park, St. Joe National Forest, and the Route of the Hiawatha rail-trail.
 - **Rest & Provisions:** Groceries, restaurants, gas, and outfitters are located 10 minutes west in downtown St. Maries, ID.
+"""
+
+with open("docs/paddle/idaho/st-joe-and-st-maries-rivers/cherry-bend-park-launch.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized cherry-bend-park-launch.md successfully")
