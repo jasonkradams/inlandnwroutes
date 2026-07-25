@@ -34,8 +34,8 @@ notes:
 
 # Packsaddle Mountain (Trail #76)
 
-![Panoramic summit view of Lake Pend Oreille from Packsaddle Mountain](../../../assets/images/1202022825p_orig.jpg)
-_Panoramic summit view of Lake Pend Oreille from Packsaddle Mountain._
+![Granite boulder scree and high subalpine ridges from the summit of Packsaddle Mountain](../../../assets/images/1202022825p_orig.jpg)
+_Granite boulder scree and high subalpine ridges from the summit of Packsaddle Mountain._
 
 Rising prominently southeast of Lake Pend Oreille, **Packsaddle Mountain** is the highest peak in the immediate
 surrounding range. Access via Trail #76 provides a rewarding 2.0-mile round-trip hike through subalpine forest to a
@@ -119,12 +119,12 @@ Check local mountain weather forecasts before departing:
 
 ## Photo Gallery
 
-![The rocky summit block of Packsaddle Mountain peeking out above the high-country forest trail](../../../assets/images/1202022827p.jpg)
-_The rocky summit block of Packsaddle Mountain peeking out above the high-country forest trail._
+![The rocky summit ridge of Packsaddle Mountain peeking out above the forest canopy](../../../assets/images/1202022827p.jpg)
+_The rocky summit ridge of Packsaddle Mountain peeking out above the forest canopy._
 """
 
 target_path = "docs/hike/idaho/north-idaho-hikes/packsaddle-mountain.md"
 with open(target_path, "w", encoding="utf-8") as fp:
     fp.write(md_content)
 
-print("Updated line wrapping in packsaddle-mountain.md")
+print("Updated image alt and caption text in packsaddle-mountain.md")
