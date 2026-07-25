@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 tags:
   - Peaks & Mountains
   - Moderate
@@ -137,3 +139,10 @@ _The American Selkirk Range stretching across the eastern horizon from the summi
 
 ![Historic leaning outhouse perched on the ridge near Blacktail Mountain summit](../../../assets/images/p399.png)
 _Historic leaning outhouse perched on the ridge near Blacktail Mountain summit._
+"""
+
+target_path = "docs/hike/idaho/north-idaho-hikes/blacktail-mountain.md"
+with open(target_path, "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Reorganized blacktail-mountain.md successfully")
