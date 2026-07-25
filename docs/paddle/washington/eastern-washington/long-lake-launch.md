@@ -22,6 +22,8 @@ notes:
     url: tel:5094772240
 ---
 
+![Long Lake](../../../assets/images/1119240212.jpg)
+
 Long Lake Launch provides water access to the lower section of Lake Spokane, a 21-mile Spokane River reservoir formed above the Avista Long Lake Dam. Located in western Spokane County, this launch offers a peaceful entry point for exploring the scenic bluffs, sheltered bays, and protected shorelines of Fisk State Park and the McLellan Conservation Area.
 
 !!! info "Trip Planning & Water Safety Alerts"

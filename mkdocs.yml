@@ -426,25 +426,24 @@ nav:
         - Fishtrap Lake, WA: paddle/washington/scablands/fishtrap-lake-wa.md
         - Marshall Lake Launch: paddle/washington/scablands/marshall-lake-launch.md
         - Medical Lake Launch: paddle/washington/scablands/medical-lake-launch.md
-        - West Medical Lake: paddle/washington/scablands/west-medical-lake.md
         - Palouse River Launch: paddle/washington/scablands/palouse-river-launch.md
         - Potholes Reservoir: paddle/washington/scablands/potholes-reservoir.md
+        - West Medical Lake: paddle/washington/scablands/west-medical-lake.md
       - Eastern Washington:
+        - 3rd Street Launch: paddle/washington/eastern-washington/3rd-street-launch.md
         - 9 Mile Recreation Area Launch: paddle/washington/eastern-washington/9-mile-recreation-area-launch.md
         - Bead Lake Launch: paddle/washington/eastern-washington/bead-lake-launch.md
         - Bear Lake Launch: paddle/washington/eastern-washington/bear-lake-launch.md
+        - Boulder Bay Landing: paddle/washington/eastern-washington/boulder-bay-landing.md
         - Davis Lake Launch: paddle/washington/eastern-washington/davis-lake-launch.md
         - Eloika Lake Launch: paddle/washington/eastern-washington/eloika-lake-launch.md
-        - 3rd Street Launch: paddle/washington/eastern-washington/3rd-street-launch.md
+        - Gateway Regional Park: paddle/washington/eastern-washington/gateway-regional-park.md
         - Liberty Lake Regional Park: paddle/washington/eastern-washington/liberty-lake-regional-park.md
         - Long Lake Launch: paddle/washington/eastern-washington/long-lake-launch.md
         - Loon Lake Launch: paddle/washington/eastern-washington/loon-lake-launch.md
         - Newman Lake Road: paddle/washington/eastern-washington/newman-lake-road.md
-        - Pewee Falls, Pend Orielle River: paddle/washington/eastern-washington/pewee-falls-pend-orielle-river.md
-        - Boulder Bay Landing: paddle/washington/eastern-washington/boulder-bay-landing.md
-        - Gateway Regional Park: paddle/washington/eastern-washington/gateway-regional-park.md
         - Nine Mile Recreation Area: paddle/washington/eastern-washington/nine-mile-recreation-area.md
-        - Long Lake Launch (North): paddle/washington/eastern-washington/long-lake-launch.md
+        - Pewee Falls, Pend Orielle River: paddle/washington/eastern-washington/pewee-falls-pend-orielle-river.md
     - Idaho:
       - North Idaho Launch Sites - CDA Lake:
         - Blackwell Island Launch: paddle/idaho/north-idaho-launch-sites-cda-lake/blackwell-island-launch.md
@@ -453,8 +452,8 @@ nav:
         - Carlin Bay Launch: paddle/idaho/north-idaho-launch-sites-cda-lake/carlin-bay-launch.md
         - Cougar Bay Landing: paddle/idaho/north-idaho-launch-sites-cda-lake/cougar-bay-landing.md
         - Gould's Launch: paddle/idaho/north-idaho-launch-sites-cda-lake/goulds-launch.md
-        - Harrison, Idaho Launch: paddle/idaho/north-idaho-launch-sites-cda-lake/harrison-idaho-launch.md
         - Harrison Slough: paddle/idaho/north-idaho-launch-sites-cda-lake/harrison-slough.md
+        - Harrison, Idaho Launch: paddle/idaho/north-idaho-launch-sites-cda-lake/harrison-idaho-launch.md
         - Hawley's Landing: paddle/idaho/north-idaho-launch-sites-cda-lake/hawleys-landing.md
         - Heyburn S.P./Lake Chatcolet Launch: paddle/idaho/north-idaho-launch-sites-cda-lake/heyburn-splakechatcolet-launch.md
         - Higgins Point Launch: paddle/idaho/north-idaho-launch-sites-cda-lake/higgins-point-launc.md
@@ -462,8 +461,8 @@ nav:
         - Loffs Bay Launch: paddle/idaho/north-idaho-launch-sites-cda-lake/loffs-bay-launch.md
         - Mica Bay Launch: paddle/idaho/north-idaho-launch-sites-cda-lake/mica-bay-launch.md
         - Mineral Ridge Launch: paddle/idaho/north-idaho-launch-sites-cda-lake/mineral-ridge-launch.md
-        - Neachen Bay Launch: paddle/idaho/north-idaho-launch-sites-cda-lake/neachen-bay-launch.md
         - N.I.C. Dike Road Landing: paddle/idaho/north-idaho-launch-sites-cda-lake/nic-dike-road-landing.md
+        - Neachen Bay Launch: paddle/idaho/north-idaho-launch-sites-cda-lake/neachen-bay-launch.md
         - Old Mission Launch: paddle/idaho/north-idaho-launch-sites-cda-lake/old-mission-launch.md
         - Rockford Bay Launch: paddle/idaho/north-idaho-launch-sites-cda-lake/rockford-bay-launch.md
         - Sanders Beach Landing: paddle/idaho/north-idaho-launch-sites-cda-lake/sanders-beach-landing.md
@@ -475,21 +474,20 @@ nav:
         - Black Lake Launch: paddle/idaho/cda-river-chain-lakes/black-lake-launch.md
         - Killarney Lake Launch: paddle/idaho/cda-river-chain-lakes/killarney-lake-launch.md
         - Medimont Lake Launch: paddle/idaho/cda-river-chain-lakes/medimont-lake-launch.md
-        - Old Mission Launch: paddle/idaho/north-idaho-launch-sites-cda-lake/old-mission-launch.md
         - Rainy Hill Launch: paddle/idaho/cda-river-chain-lakes/rainy-hill-launch.md
         - Rose Lake Launch: paddle/idaho/cda-river-chain-lakes/rose-lake-launch.md
       - Additional Launches:
-        - Upper CDA River Landing: paddle/idaho/additional-launches/upper-cda-river-landing.md
         - Cocolalla Access Launch: paddle/idaho/additional-launches/cocolalla-access-launch.md
-        - Fernan Lake Park West: paddle/idaho/additional-launches/fernan-lake-park-west.md
         - Fernan Lake Launch East: paddle/idaho/additional-launches/fernan-lake-launch-east.md
+        - Fernan Lake Park West: paddle/idaho/additional-launches/fernan-lake-park-west.md
+        - Hauser Lake Park Launch: paddle/idaho/additional-launches/hauser-lake-park-launch.md
         - Honeysuckle Launch: paddle/idaho/additional-launches/honeysuckle-launch.md
         - Sportsman Access Launch: paddle/idaho/additional-launches/sportsman-access-launch.md
-        - Hauser Lake Park Launch: paddle/idaho/additional-launches/hauser-lake-park-launch.md
+        - Upper CDA River Landing: paddle/idaho/additional-launches/upper-cda-river-landing.md
       - Pend Orielle Lake:
-        - Echo Bay Lake Pend Orielle: paddle/idaho/pend-orielle-lake/echo-bay-lake-pend-orielle.md
         - Bayview City Launch: paddle/idaho/pend-orielle-lake/bayview-city-launch.md
         - Denton Slough: paddle/idaho/pend-orielle-lake/denton-slough.md
+        - Echo Bay Lake Pend Orielle: paddle/idaho/pend-orielle-lake/echo-bay-lake-pend-orielle.md
         - Farrugut State Park Launch: paddle/idaho/pend-orielle-lake/farragut-state-park-launch.md
         - Garfield Bay Launch: paddle/idaho/pend-orielle-lake/garfield-bay-launch.md
         - Granite Creek Landing: paddle/idaho/pend-orielle-lake/granite-creek-landing.md
@@ -516,8 +514,8 @@ nav:
         - Rieley Creek Launch: paddle/idaho/pend-orielle-river/rieley-creek-launch.md
         - Springy Point Camp Ground Launch: paddle/idaho/pend-orielle-river/springy-point-camp-ground-launch.md
       - Lower Priest Lake:
-        - Blue Diamond Marina: paddle/idaho/lower-priest-lake/blue-diamond-marina.md
         - Bishop's Marina: paddle/idaho/lower-priest-lake/bishops-marina.md
+        - Blue Diamond Marina: paddle/idaho/lower-priest-lake/blue-diamond-marina.md
         - Cavanaugh Bay Launch: paddle/idaho/lower-priest-lake/cavanaugh-bay-launch.md
         - Coolin Bay Docks and Ramp: paddle/idaho/lower-priest-lake/coolin-bay-docks-and-ramp.md
         - Indian Creek Camp Ground Launch: paddle/idaho/lower-priest-lake/indian-creek-camp-ground-launch.md
@@ -525,8 +523,8 @@ nav:
         - Tule Bay/Beaver Creek Landing: paddle/idaho/lower-priest-lake/tule-bay-beaver-creek-landing.md
       - Spokane River:
         - Bronze Bay Launch: paddle/idaho/spokane-river/bronze-bay-launch.md
-        - Q'emiln Park Launch: paddle/idaho/spokane-river/qemiln-park-launch.md
         - East Riverview Landing/Launch: paddle/idaho/spokane-river/east-riverview-landinglaunch.md
+        - Q'emiln Park Launch: paddle/idaho/spokane-river/qemiln-park-launch.md
       - Spirit Lake:
         - Bronze Bay Launch (Spirit): paddle/idaho/spokane-river/bronze-bay-launch.md
         - Maiden Rock Launch: paddle/idaho/spirit-lake/maiden-rock-launch.md
@@ -839,7 +837,6 @@ nav:
   - Route Title Here: route_template.md
   - Scotchman No 2: scotchman-no-2.md
   - Spokane County Parks Conservation Futures Properties: spokane-county-parks-conservation-futures-properties.md
-  - Website Notes: website-notes.md
   - Ski: ski/ski.md
 - About:
   - 'Biography :: Chic': biography--chic.md

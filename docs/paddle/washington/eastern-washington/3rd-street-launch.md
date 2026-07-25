@@ -22,6 +22,8 @@ notes:
     url: tel:5094772240
 ---
 
+![Liberty Lake Sattelite Image](../../../assets/images/20201013202827_orig.jpg)
+
 The 3rd Street Launch provides public boat access on the north shore of Liberty Lake, a 708-acre body of water situated just south of Interstate 90 between Spokane and the Idaho state line. Framed by the forested ridges of Mica Peak to the south, Liberty Lake offers an enjoyable 4.7-mile perimeter paddle close to the Spokane metropolitan area.
 
 !!! info "Trip Planning & Access Notes"

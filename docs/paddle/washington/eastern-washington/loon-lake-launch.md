@@ -24,6 +24,8 @@ notes:
     url: tel:5096845296
 ---
 
+![Loon Lake Sattelite Image](../../../assets/images/20201013203958_orig.jpg)
+
 The WDFW Public Access Site provides water access to Loon Lake, an 1,100-acre lake in southern Stevens County adjacent to the community of Loon Lake. Covering 2.6 miles in length with an 8.5-mile shoreline perimeter, Loon Lake is a popular regional destination for paddling, trout and warm-water fishing, and water sports.
 
 !!! info "Trip Planning & Boating Considerations"

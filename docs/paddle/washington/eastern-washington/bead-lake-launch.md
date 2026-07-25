@@ -22,6 +22,8 @@ notes:
     url: tel:5094473151
 ---
 
+![Bead Lake Sattelite Image](../../../assets/images/20201012172607_orig.jpg)
+
 Located in the Colville National Forest north of Newport, Washington, **Bead Lake** is the largest lake in Pend Oreille County at 720 acres. Nestled within forested hills, Bead Lake is famous for its crystal-clear water, kokanee salmon and cutthroat trout fishing, and scenic shoreline paddling.
 
 !!! info "Trip Planning & Regulations"

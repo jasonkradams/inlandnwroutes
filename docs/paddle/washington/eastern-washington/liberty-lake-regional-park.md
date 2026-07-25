@@ -22,6 +22,8 @@ notes:
     url: tel:5094772240
 ---
 
+![Liberty Lake Sattelite Image](../../../assets/images/20201013202827_orig.jpg)
+
 Liberty Lake Regional Park encompasses 3,591 acres on the southern shore of Liberty Lake. Featuring a sandy swimming beach, hand-launch watercraft access, designated picnic areas, campsites, and an extensive hiking trail system through ancient cedar groves and along Liberty Creek, it serves as the primary outdoor recreation destination on the lake.
 
 !!! info "Trip Planning & Park Rules"

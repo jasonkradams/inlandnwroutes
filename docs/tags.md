@@ -13,12 +13,12 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
   <div id="tag-cloud-container" class="tag-cloud-container">
     <button type="button" class="tag-pill-btn" data-tag="Day Hiking">Day Hiking <span class="tag-count">(144)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Backpacking">Backpacking <span class="tag-count">(120)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Lakes">Lakes <span class="tag-count">(89)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Lakes">Lakes <span class="tag-count">(90)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Trails & Scrambles">Trails & Scrambles <span class="tag-count">(87)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Peaks & Mountains">Peaks & Mountains <span class="tag-count">(69)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Skiing & Snowshoeing">Skiing & Snowshoeing <span class="tag-count">(51)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Moderate">Moderate <span class="tag-count">(49)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Paddling & Rivers">Paddling & Rivers <span class="tag-count">(38)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Paddling & Rivers">Paddling & Rivers <span class="tag-count">(42)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Easy">Easy <span class="tag-count">(37)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Scrambling">Scrambling <span class="tag-count">(36)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Equestrian">Equestrian <span class="tag-count">(31)</span></button>
@@ -29,21 +29,23 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
     <button type="button" class="tag-pill-btn" data-tag="Mountain Biking">Mountain Biking <span class="tag-count">(19)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Camping">Camping <span class="tag-count">(16)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Photography">Photography <span class="tag-count">(15)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Waterfalls">Waterfalls <span class="tag-count">(14)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Waterfalls">Waterfalls <span class="tag-count">(15)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Photo Gallery">Photo Gallery <span class="tag-count">(13)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Flora & Plants">Flora & Plants <span class="tag-count">(12)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Strenuous">Strenuous <span class="tag-count">(11)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Recipes">Recipes <span class="tag-count">(10)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Hiking">Hiking <span class="tag-count">(7)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Resources">Resources <span class="tag-count">(6)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Spokane County">Spokane County <span class="tag-count">(6)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Conservation & Organizations">Conservation & Organizations <span class="tag-count">(5)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Fire Lookout Rental">Fire Lookout Rental <span class="tag-count">(5)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Spokane County">Spokane County <span class="tag-count">(4)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Writings">Writings <span class="tag-count">(5)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Birding">Birding <span class="tag-count">(3)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Flora & Wildlife">Flora & Wildlife <span class="tag-count">(3)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="History">History <span class="tag-count">(3)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Loop">Loop <span class="tag-count">(3)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Priest Lake">Priest Lake <span class="tag-count">(3)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Quotes">Quotes <span class="tag-count">(3)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Scenery">Scenery <span class="tag-count">(3)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Swimming">Swimming <span class="tag-count">(3)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Wildflowers">Wildflowers <span class="tag-count">(3)</span></button>
@@ -51,18 +53,22 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
     <button type="button" class="tag-pill-btn" data-tag="Coeur d'Alene">Coeur d'Alene <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Easy to Moderate">Easy to Moderate <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Liberty Lake">Liberty Lake <span class="tag-count">(2)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Pend Oreille County">Pend Oreille County <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Picnicking">Picnicking <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Regional Routes">Regional Routes <span class="tag-count">(2)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Selkirks">Selkirks <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Sightseeing">Sightseeing <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="State Parks">State Parks <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Trail Maintenance">Trail Maintenance <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Walking">Walking <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Washington State Parks">Washington State Parks <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="ADA Accessible">ADA Accessible <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Adages">Adages <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Animal Viewing">Animal Viewing <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Astronomy">Astronomy <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Atmosphere & Skies">Atmosphere & Skies <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Auto Tour">Auto Tour <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Boundary Dam">Boundary Dam <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="British Columbia">British Columbia <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Canada">Canada <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Canadian Rockies">Canadian Rockies <span class="tag-count">(1)</span></button>
@@ -76,6 +82,7 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
     <button type="button" class="tag-pill-btn" data-tag="History & Speakeasy">History & Speakeasy <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Hut Stays">Hut Stays <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Inland Northwest">Inland Northwest <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Lake Spokane">Lake Spokane <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Managing Agencies">Managing Agencies <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Moderate to Difficult">Moderate to Difficult <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Moderate to Moderately Difficult">Moderate to Moderately Difficult <span class="tag-count">(1)</span></button>
@@ -83,6 +90,7 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
     <button type="button" class="tag-pill-btn" data-tag="Moderate to the Mollies">Moderate to the Mollies <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Moderately Difficult to Difficult">Moderately Difficult to Difficult <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Moderately Easy">Moderately Easy <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Mountaineering">Mountaineering <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Mountaineering & Education">Mountaineering & Education <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Mt Biking">Mt Biking <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Mt. Biking Approach">Mt. Biking Approach <span class="tag-count">(1)</span></button>
@@ -94,7 +102,7 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
     <button type="button" class="tag-pill-btn" data-tag="Orving">Orving <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Paddles">Paddles <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Paddling & Water Sports">Paddling & Water Sports <span class="tag-count">(1)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Pend Oreille County">Pend Oreille County <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Poems">Poems <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Post Falls">Post Falls <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Rafting">Rafting <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Regions">Regions <span class="tag-count">(1)</span></button>
@@ -108,14 +116,18 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
     <button type="button" class="tag-pill-btn" data-tag="Safety & Emergency">Safety & Emergency <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Scenic Nature Hike">Scenic Nature Hike <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Scenic Overlook">Scenic Overlook <span class="tag-count">(1)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Selkirks">Selkirks <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Sight Seeing">Sight Seeing <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Silver Mountain">Silver Mountain <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Snow-shoeing">Snow-shoeing <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="So Much More">So Much More <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Spelunking Made Easy">Spelunking Made Easy <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Spokane Mountaineers">Spokane Mountaineers <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Spokane River">Spokane River <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Sshoe Backpacking">Sshoe Backpacking <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Sshoeing">Sshoeing <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Stevens County">Stevens County <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Stewardship & Conservation">Stewardship & Conservation <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Stories">Stories <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Streams & Rivers">Streams & Rivers <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Strenuous to Very Strenuous">Strenuous to Very Strenuous <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Trail Heroes">Trail Heroes <span class="tag-count">(1)</span></button>
@@ -124,6 +136,7 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
     <button type="button" class="tag-pill-btn" data-tag="Very Difficult, Exposure">Very Difficult, Exposure <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Very Strenuous">Very Strenuous <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Washington">Washington <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Weather Trivia">Weather Trivia <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Wildlife">Wildlife <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Wildlife Viewing">Wildlife Viewing <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Winter & Skiing">Winter & Skiing <span class="tag-count">(1)</span></button>
@@ -148,6 +161,15 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
 Found **1** guide tagged with **ADA Accessible**:
 
 - [Roman Nose Lakes & Peak (Trail #160 & #165)](hike/idaho/american-selkirks/roman-nose-lakes--peak-idaho.md)
+
+</div>
+<div class="static-tag-section" data-tag="Adages" markdown="1">
+
+## Adages
+
+Found **1** guide tagged with **Adages**:
+
+- [Writings/Adages](writings/adages.md)
 
 </div>
 <div class="static-tag-section" data-tag="Animal Viewing" markdown="1">
@@ -323,6 +345,15 @@ Found **3** guides tagged with **Birding**:
 - [Columbia National Wildlife Refuge](hike/washington/scablands/columbia-national-wildlife-refuge.md)
 - [Kootenai National Wildlife Refuge](hike/idaho/american-selkirks/kootenai-wlr.md)
 - [Saltese Flats Wetland Trail](hike/washington/spokane-county-parks/saltese-flats-wetland-trail.md)
+
+</div>
+<div class="static-tag-section" data-tag="Boundary Dam" markdown="1">
+
+## Boundary Dam
+
+Found **1** guide tagged with **Boundary Dam**:
+
+- [Paddle/Washington/Eastern Washington/Pewee Falls Pend Orielle River](paddle/washington/eastern-washington/pewee-falls-pend-orielle-river.md)
 
 </div>
 <div class="static-tag-section" data-tag="British Columbia" markdown="1">
@@ -897,11 +928,20 @@ Found **1** guide tagged with **Inland Northwest**:
 - [Washington State Outdoor Routes & Regional Guide](hike/washington/index.md)
 
 </div>
+<div class="static-tag-section" data-tag="Lake Spokane" markdown="1">
+
+## Lake Spokane
+
+Found **1** guide tagged with **Lake Spokane**:
+
+- [Paddle/Washington/Eastern Washington/Long Lake Launch](paddle/washington/eastern-washington/long-lake-launch.md)
+
+</div>
 <div class="static-tag-section" data-tag="Lakes" markdown="1">
 
 ## Lakes
 
-Found **89** guides tagged with **Lakes**:
+Found **90** guides tagged with **Lakes**:
 
 - [Amber Lake Launch](paddle/washington/scablands/amber-lake-launch.md)
 - [Anderson Lake / Thompson Lake Launch](paddle/idaho/cda-river-chain-lakes/anderson-lakethompson-lake-launch.md)
@@ -967,6 +1007,7 @@ Found **89** guides tagged with **Lakes**:
 - [Myrtle Lake 5950 & Myrtle Peak 7122 Trail 286](hike/idaho/american-selkirks/myrtle-lake-5950--myrtle-peak-7122-trail-286.md)
 - [Newman Lake Road Launch](paddle/washington/eastern-washington/newman-lake-road.md)
 - [Old Mission Launch](paddle/idaho/north-idaho-launch-sites-cda-lake/old-mission-launch.md)
+- [Paddle/Washington/Eastern Washington/Loon Lake Launch](paddle/washington/eastern-washington/loon-lake-launch.md)
 - [Parmenter Lake](hike/montana/cabinet-mountains-wilderness/parmenter-lake.md)
 - [Potholes Reservoir](paddle/washington/scablands/potholes-reservoir.md)
 - [Pyramid and Ball Lakes Trail 43](hike/idaho/american-selkirks/pyramid-and-ball-lakes-trail-43.md)
@@ -1162,6 +1203,15 @@ Found **19** guides tagged with **Mountain Biking**:
 - [Upper Priest River Trail #308 to American Falls](hike/idaho/north-idaho-hikes/american-falls-trail-308.md)
 
 </div>
+<div class="static-tag-section" data-tag="Mountaineering" markdown="1">
+
+## Mountaineering
+
+Found **1** guide tagged with **Mountaineering**:
+
+- [Writings/Quotes](writings/quotes.md)
+
+</div>
 <div class="static-tag-section" data-tag="Mountaineering & Education" markdown="1">
 
 ## Mountaineering & Education
@@ -1293,7 +1343,7 @@ Found **29** guides tagged with **Paddling**:
 
 ## Paddling & Rivers
 
-Found **38** guides tagged with **Paddling & Rivers**:
+Found **42** guides tagged with **Paddling & Rivers**:
 
 - [Bayview City Launch](paddle/idaho/pend-orielle-lake/bayview-city-launch.md)
 - [Blackwell Island Launch](paddle/idaho/north-idaho-launch-sites-cda-lake/blackwell-island-launch.md)
@@ -1317,8 +1367,12 @@ Found **38** guides tagged with **Paddling & Rivers**:
 - [Paddle/Washington/Eastern Washington/3Rd Street Launch](paddle/washington/eastern-washington/3rd-street-launch.md)
 - [Paddle/Washington/Eastern Washington/9 Mile Recreation Area Launch](paddle/washington/eastern-washington/9-mile-recreation-area-launch.md)
 - [Paddle/Washington/Eastern Washington/Bead Lake Launch](paddle/washington/eastern-washington/bead-lake-launch.md)
+- [Paddle/Washington/Eastern Washington/Boulder Bay Landing](paddle/washington/eastern-washington/boulder-bay-landing.md)
 - [Paddle/Washington/Eastern Washington/Liberty Lake Regional Park](paddle/washington/eastern-washington/liberty-lake-regional-park.md)
+- [Paddle/Washington/Eastern Washington/Long Lake Launch](paddle/washington/eastern-washington/long-lake-launch.md)
+- [Paddle/Washington/Eastern Washington/Loon Lake Launch](paddle/washington/eastern-washington/loon-lake-launch.md)
 - [Paddle/Washington/Eastern Washington/Nine Mile Recreation Area](paddle/washington/eastern-washington/nine-mile-recreation-area.md)
+- [Paddle/Washington/Eastern Washington/Pewee Falls Pend Orielle River](paddle/washington/eastern-washington/pewee-falls-pend-orielle-river.md)
 - [Priest River City Park Launch](paddle/idaho/pend-orielle-river/priest-river-city-park-launch.md)
 - [Priest River Recreation Area Launch](paddle/idaho/pend-orielle-river/priest-river-recreation-area-launch.md)
 - [Pringle Park Launch](paddle/idaho/pend-orielle-lake/pringle-park-launch.md)
@@ -1425,9 +1479,10 @@ Found **69** guides tagged with **Peaks & Mountains**:
 
 ## Pend Oreille County
 
-Found **1** guide tagged with **Pend Oreille County**:
+Found **2** guides tagged with **Pend Oreille County**:
 
 - [Paddle/Washington/Eastern Washington/Bead Lake Launch](paddle/washington/eastern-washington/bead-lake-launch.md)
+- [Paddle/Washington/Eastern Washington/Pewee Falls Pend Orielle River](paddle/washington/eastern-washington/pewee-falls-pend-orielle-river.md)
 
 </div>
 <div class="static-tag-section" data-tag="Photo Gallery" markdown="1">
@@ -1484,6 +1539,15 @@ Found **2** guides tagged with **Picnicking**:
 - [Shoshone Medical Center Wellness Trail](hike/idaho/silver-valley-area/shoshone-medical-center-wellness-trail.md)
 
 </div>
+<div class="static-tag-section" data-tag="Poems" markdown="1">
+
+## Poems
+
+Found **1** guide tagged with **Poems**:
+
+- [Writings/Poems](writings/poems.md)
+
+</div>
 <div class="static-tag-section" data-tag="Post Falls" markdown="1">
 
 ## Post Falls
@@ -1502,6 +1566,17 @@ Found **3** guides tagged with **Priest Lake**:
 - [Blacktail Mountain (5,495') — Trail #292](hike/idaho/north-idaho-hikes/blacktail-mountain.md)
 - [Navigation Trail #291 to Upper Priest Lake](hike/idaho/north-idaho-hikes/navigation-trail-291.md)
 - [Upper Priest River Trail #308 to American Falls](hike/idaho/north-idaho-hikes/american-falls-trail-308.md)
+
+</div>
+<div class="static-tag-section" data-tag="Quotes" markdown="1">
+
+## Quotes
+
+Found **3** guides tagged with **Quotes**:
+
+- [Writings/Adages](writings/adages.md)
+- [Writings/Notes](writings/notes.md)
+- [Writings/Quotes](writings/quotes.md)
 
 </div>
 <div class="static-tag-section" data-tag="Rafting" markdown="1">
@@ -1713,9 +1788,10 @@ Found **36** guides tagged with **Scrambling**:
 
 ## Selkirks
 
-Found **1** guide tagged with **Selkirks**:
+Found **2** guides tagged with **Selkirks**:
 
 - [American Selkirks](hike/idaho/american-selkirks/index.md)
+- [Writings/Stories](writings/stories.md)
 
 </div>
 <div class="static-tag-section" data-tag="Sight Seeing" markdown="1">
@@ -1735,6 +1811,15 @@ Found **2** guides tagged with **Sightseeing**:
 
 - [John Day Fossil Bed National Monument](hike/oregon/john-day-fossil-bed-national-monument.md)
 - [Palouse Falls State Park Heritage Site](hike/washington/scablands/palouse-falls-state-park-heritage-site.md)
+
+</div>
+<div class="static-tag-section" data-tag="Silver Mountain" markdown="1">
+
+## Silver Mountain
+
+Found **1** guide tagged with **Silver Mountain**:
+
+- [Writings/Poems](writings/poems.md)
 
 </div>
 <div class="static-tag-section" data-tag="Skiing & Snowshoeing" markdown="1">
@@ -1827,12 +1912,32 @@ Found **1** guide tagged with **Spelunking Made Easy**:
 
 ## Spokane County
 
-Found **4** guides tagged with **Spokane County**:
+Found **6** guides tagged with **Spokane County**:
 
 - [Paddle/Washington/Eastern Washington/3Rd Street Launch](paddle/washington/eastern-washington/3rd-street-launch.md)
 - [Paddle/Washington/Eastern Washington/9 Mile Recreation Area Launch](paddle/washington/eastern-washington/9-mile-recreation-area-launch.md)
+- [Paddle/Washington/Eastern Washington/Boulder Bay Landing](paddle/washington/eastern-washington/boulder-bay-landing.md)
 - [Paddle/Washington/Eastern Washington/Liberty Lake Regional Park](paddle/washington/eastern-washington/liberty-lake-regional-park.md)
+- [Paddle/Washington/Eastern Washington/Long Lake Launch](paddle/washington/eastern-washington/long-lake-launch.md)
 - [Paddle/Washington/Eastern Washington/Nine Mile Recreation Area](paddle/washington/eastern-washington/nine-mile-recreation-area.md)
+
+</div>
+<div class="static-tag-section" data-tag="Spokane Mountaineers" markdown="1">
+
+## Spokane Mountaineers
+
+Found **1** guide tagged with **Spokane Mountaineers**:
+
+- [Writings/Stories](writings/stories.md)
+
+</div>
+<div class="static-tag-section" data-tag="Spokane River" markdown="1">
+
+## Spokane River
+
+Found **1** guide tagged with **Spokane River**:
+
+- [Paddle/Washington/Eastern Washington/Boulder Bay Landing](paddle/washington/eastern-washington/boulder-bay-landing.md)
 
 </div>
 <div class="static-tag-section" data-tag="Sshoe Backpacking" markdown="1">
@@ -1863,6 +1968,15 @@ Found **2** guides tagged with **State Parks**:
 - [Dry Falls & Sun Lakes State Park](waterfalls/washington/dry-falls-sun-lakes-sp.md)
 
 </div>
+<div class="static-tag-section" data-tag="Stevens County" markdown="1">
+
+## Stevens County
+
+Found **1** guide tagged with **Stevens County**:
+
+- [Paddle/Washington/Eastern Washington/Loon Lake Launch](paddle/washington/eastern-washington/loon-lake-launch.md)
+
+</div>
 <div class="static-tag-section" data-tag="Stewardship & Conservation" markdown="1">
 
 ## Stewardship & Conservation
@@ -1870,6 +1984,15 @@ Found **2** guides tagged with **State Parks**:
 Found **1** guide tagged with **Stewardship & Conservation**:
 
 - [Trail Heroes](gallery/categories/trail-heros.md)
+
+</div>
+<div class="static-tag-section" data-tag="Stories" markdown="1">
+
+## Stories
+
+Found **1** guide tagged with **Stories**:
+
+- [Writings/Stories](writings/stories.md)
 
 </div>
 <div class="static-tag-section" data-tag="Streams & Rivers" markdown="1">
@@ -2103,7 +2226,7 @@ Found **2** guides tagged with **Washington State Parks**:
 
 ## Waterfalls
 
-Found **14** guides tagged with **Waterfalls**:
+Found **15** guides tagged with **Waterfalls**:
 
 - [American Falls](waterfalls/idaho/american-falls.md)
 - [Copper Falls](waterfalls/idaho/copper-falls.md)
@@ -2112,6 +2235,7 @@ Found **14** guides tagged with **Waterfalls**:
 - [Hog Canyon Falls](hike/washington/scablands/hog-canyon--falls.md)
 - [Little Harrison Lake Falls](waterfalls/idaho/little-harrison-lake-falls.md)
 - [Myrtle Creek Falls](waterfalls/idaho/myrtle-creek-falls.md)
+- [Paddle/Washington/Eastern Washington/Pewee Falls Pend Orielle River](paddle/washington/eastern-washington/pewee-falls-pend-orielle-river.md)
 - [Palouse Falls State Park Heritage Site](hike/washington/scablands/palouse-falls-state-park-heritage-site.md)
 - [Pewee Falls](waterfalls/washington/pewee-falls.md)
 - [Silver Falls S.P.](hike/oregon/silver-falls-sp.md)
@@ -2119,6 +2243,15 @@ Found **14** guides tagged with **Waterfalls**:
 - [Towell Falls](waterfalls/washington/towell-falls.md)
 - [Upper & Lower Snow Creek Falls](waterfalls/idaho/u--l-snow-creek-falls.md)
 - [Upper Priest River Trail #308 to American Falls](hike/idaho/north-idaho-hikes/american-falls-trail-308.md)
+
+</div>
+<div class="static-tag-section" data-tag="Weather Trivia" markdown="1">
+
+## Weather Trivia
+
+Found **1** guide tagged with **Weather Trivia**:
+
+- [Writings/Notes](writings/notes.md)
 
 </div>
 <div class="static-tag-section" data-tag="Wildflowers" markdown="1">
@@ -2175,6 +2308,19 @@ Found **1** guide tagged with **Winter & Snowshoeing**:
 Found **1** guide tagged with **Winter Sports**:
 
 - [Lake Louise Ski Resort](ski/canada/alberta/lake-louise-ski-resort.md)
+
+</div>
+<div class="static-tag-section" data-tag="Writings" markdown="1">
+
+## Writings
+
+Found **5** guides tagged with **Writings**:
+
+- [Writings/Adages](writings/adages.md)
+- [Writings/Notes](writings/notes.md)
+- [Writings/Poems](writings/poems.md)
+- [Writings/Quotes](writings/quotes.md)
+- [Writings/Stories](writings/stories.md)
 
 </div>
 <div class="static-tag-section" data-tag="backpacking" markdown="1">
@@ -4390,6 +4536,15 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
+    "title": "Paddle/Washington/Eastern Washington/Loon Lake Launch",
+    "url": "/paddle/washington/eastern-washington/loon-lake-launch/",
+    "tags": [
+      "Lakes",
+      "Paddling & Rivers",
+      "Stevens County"
+    ]
+  },
+  {
     "title": "Newman Lake Road Launch",
     "url": "/paddle/washington/eastern-washington/newman-lake-road/",
     "tags": [
@@ -5136,6 +5291,26 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
+    "title": "Writings/Stories",
+    "url": "/writings/stories/",
+    "tags": [
+      "Selkirks",
+      "Writings",
+      "Stories",
+      "Spokane Mountaineers"
+    ]
+  },
+  {
+    "title": "Paddle/Washington/Eastern Washington/Pewee Falls Pend Orielle River",
+    "url": "/paddle/washington/eastern-washington/pewee-falls-pend-orielle-river/",
+    "tags": [
+      "Waterfalls",
+      "Paddling & Rivers",
+      "Pend Oreille County",
+      "Boundary Dam"
+    ]
+  },
+  {
     "title": "American Falls",
     "url": "/waterfalls/idaho/american-falls/",
     "tags": [
@@ -5444,12 +5619,30 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
+    "title": "Paddle/Washington/Eastern Washington/Boulder Bay Landing",
+    "url": "/paddle/washington/eastern-washington/boulder-bay-landing/",
+    "tags": [
+      "Paddling & Rivers",
+      "Spokane County",
+      "Spokane River"
+    ]
+  },
+  {
     "title": "Paddle/Washington/Eastern Washington/Liberty Lake Regional Park",
     "url": "/paddle/washington/eastern-washington/liberty-lake-regional-park/",
     "tags": [
       "Paddling & Rivers",
       "Spokane County",
       "Liberty Lake"
+    ]
+  },
+  {
+    "title": "Paddle/Washington/Eastern Washington/Long Lake Launch",
+    "url": "/paddle/washington/eastern-washington/long-lake-launch/",
+    "tags": [
+      "Paddling & Rivers",
+      "Spokane County",
+      "Lake Spokane"
     ]
   },
   {
@@ -5611,6 +5804,42 @@ Found **1** guide tagged with **waterfalls**:
     "url": "/wildflowers/white/threeleaf-foamflower/",
     "tags": [
       "Flora & Wildlife"
+    ]
+  },
+  {
+    "title": "Writings/Adages",
+    "url": "/writings/adages/",
+    "tags": [
+      "Writings",
+      "Adages",
+      "Quotes"
+    ]
+  },
+  {
+    "title": "Writings/Notes",
+    "url": "/writings/notes/",
+    "tags": [
+      "Writings",
+      "Quotes",
+      "Weather Trivia"
+    ]
+  },
+  {
+    "title": "Writings/Poems",
+    "url": "/writings/poems/",
+    "tags": [
+      "Writings",
+      "Poems",
+      "Silver Mountain"
+    ]
+  },
+  {
+    "title": "Writings/Quotes",
+    "url": "/writings/quotes/",
+    "tags": [
+      "Writings",
+      "Quotes",
+      "Mountaineering"
     ]
   }
 ]

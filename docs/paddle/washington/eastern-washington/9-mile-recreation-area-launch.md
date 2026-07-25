@@ -22,6 +22,8 @@ notes:
     url: tel:5094772240
 ---
 
+![Nine Mile Sattelite Image](../../../assets/images/2020125350p_orig.jpeg)
+
 Nine Mile Recreation Area is a popular water access site situated on Lake Spokane (the 21-mile reservoir formed along the Spokane River between Nine Mile Falls Dam and Long Lake Dam). Located within Riverside State Park, this site features paved boat ramps, docks, parking, picnicking, and swimming areas ideal for kayaks, canoes, paddleboards, and motorboats.
 
 !!! info "Trip Planning & Regulations"
