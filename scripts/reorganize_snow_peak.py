@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 tags:
   - Peaks & Mountains
   - Moderate
@@ -128,3 +130,10 @@ _Active USFS fire lookout tower atop Snow Peak (6,760')._
 
 ![Spokane Mountaineers volunteers conducting trail maintenance on Trail #55](../../../assets/images/202139155-jpeg-1.jpg)
 _Spokane Mountaineers volunteers conducting trail maintenance on Trail #55._
+"""
+
+target_path = "docs/hike/idaho/north-idaho-hikes/snow-peak.md"
+with open(target_path, "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Reorganized snow-peak.md successfully")
