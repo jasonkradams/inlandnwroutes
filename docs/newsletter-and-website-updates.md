@@ -152,7 +152,7 @@ we update the routes.
 
 ## 16-may-2020
 
-[Added a table of the land managers and phone numbers](resources/general/managing-agencies.md)
+[Added a table of the land managers and phone numbers](resources/land-management/managing-agencies.md)
 
 ---
 

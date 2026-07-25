@@ -762,24 +762,28 @@ nav:
     - Trail Etiquette & Leave No Trace: resources/trail-etiquette-and-skills/trail-etiquette.md
     - Camp Etiquette & Logistics: resources/trail-etiquette-and-skills/camp-etiquette-and-logistics.md
     - Hiking Techniques & Hydration: resources/trail-etiquette-and-skills/hiking-techniques.md
-  - General:
-    - Camera Corral: resources/general/camera-corral.md
-    - Evans Outdoor Adventures: resources/general/evans-outdoor-adventures.md
-    - 'Gear :: Chic': resources/general/gear-chic.md
-    - 'Gear :: David': resources/general/gear-david.md
-    - Hiking Boise: resources/general/hiking-boise.md
-    - Hiking From Here: resources/general/hiking-from-here.md
-    - Hints: resources/general/hints.md
-    - 'Idaho: A Climbing Guide': resources/general/idaho-a-climbing-guide.md
-    - Inland NW Hikers: resources/general/inland-nw-hikers.md
-    - Managing Agencies: resources/general/managing-agencies.md
-    - Medical Information: resources/general/medical-information.md
-    - Photography: resources/general/photography.md
-    - Restaurants and Pubs: resources/general/restaurants-and-pubs.md
-    - Silverlight: resources/general/silverlight.md
-    - Silverstreak Zipline Tours: resources/general/silverstreak-zipline-tours.md
-    - Trails End Brewery: resources/general/trails-end-brewery.md
-    - Weather, Thunderstorms and Lightning: resources/general/weather-thunderstorms-and-lightning.md
+  - Safety & Field Skills:
+    - Backcountry Hints & Field Advice: resources/safety-and-field-skills/hints.md
+    - Wilderness Medical Information: resources/safety-and-field-skills/medical-information.md
+    - Weather & Lightning Safety: resources/safety-and-field-skills/weather-thunderstorms-and-lightning.md
+  - Gear & Photography:
+    - 'Gear :: Chic': resources/gear-and-photography/gear-chic.md
+    - 'Gear :: David': resources/gear-and-photography/gear-david.md
+    - Outdoor Photography Guide: resources/gear-and-photography/photography.md
+    - Camera Corral: resources/gear-and-photography/camera-corral.md
+  - Land Management:
+    - Managing Agencies Directory: resources/land-management/managing-agencies.md
+  - Regional Guides & Clubs:
+    - Inland NW Hikers: resources/regional-guides-and-clubs/inland-nw-hikers.md
+    - 'Idaho: A Climbing Guide': resources/regional-guides-and-clubs/idaho-a-climbing-guide.md
+    - Hiking Boise: resources/regional-guides-and-clubs/hiking-boise.md
+    - Hiking From Here: resources/regional-guides-and-clubs/hiking-from-here.md
+  - Local Businesses & Dining:
+    - Post-Hike Restaurants & Pubs: resources/local-businesses-and-dining/restaurants-and-pubs.md
+    - Trails End Brewery: resources/local-businesses-and-dining/trails-end-brewery.md
+    - Silverstreak Zipline Tours: resources/local-businesses-and-dining/silverstreak-zipline-tours.md
+    - Evans Outdoor Adventures: resources/local-businesses-and-dining/evans-outdoor-adventures.md
+    - Silverlight: resources/local-businesses-and-dining/silverlight.md
 - Gallery:
   - Gallery: gallery/index.md
   - Contributors:
