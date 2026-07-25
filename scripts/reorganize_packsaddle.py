@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 tags:
   - Peaks & Mountains
   - Moderate
@@ -119,3 +121,10 @@ Check local mountain weather forecasts before departing:
 
 ![The rocky summit block of Packsaddle Mountain peeking out above the high-country forest trail](../../../assets/images/1202022827p.jpg)
 _The rocky summit block of Packsaddle Mountain peeking out above the high-country forest trail._
+"""
+
+target_path = "docs/hike/idaho/north-idaho-hikes/packsaddle-mountain.md"
+with open(target_path, "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Updated line wrapping in packsaddle-mountain.md")
