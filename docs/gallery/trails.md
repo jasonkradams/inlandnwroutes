@@ -1,177 +1,84 @@
 ---
-title: "Trails"
 tags:
-  - trails
+  - Trails
+  - Photo Gallery
 ---
 
 # Trails
 
----
-
-## Trails
-
-## Click on image to enlarge
-
----
-
-<div class="grid cards" markdown>
-
-- ![Image](../assets/images/122120211236p.jpg)
-
-- ![Image](../assets/images/122120211237p.jpg)
-
-- ![Image](../assets/images/122120211239p.jpg)
-
-- ![Image](../assets/images/1221202112372p.jpg)
-
-- ![Image](../assets/images/1221202112371p.jpg)
-
-- ![Image](../assets/images/1221202112401p.jpg)
-
-- ![Image](../assets/images/122120211240p.jpg)
-
-- ![Image](../assets/images/122120211241p.jpg)
-
-</div>
-
-<!-- ![Image](../assets/images/2112021859-1.jpg) -->
-
-<div class="grid cards" markdown>
-
-- ![Image](../assets/images/122120211251p.jpg)
-
-- ![Image](../assets/images/122020211247p.jpg)
-
-- ![Image](../assets/images/122120211252p.jpg)
-
-- ![Image](../assets/images/122020211250p.jpg)
-
-- ![Image](../assets/images/1221202112521p.jpg)
-
-- ![Image](../assets/images/122120211253p.jpg)
-
-- ![Image](../assets/images/122120211259a.jpg)
-
-- ![Image](../assets/images/12212021100p.jpg)
-
-- ![Image](../assets/images/12212021101p.jpg)
-
-- ![Image](../assets/images/12212021102p.jpg)
-
-</div>
-
-![Image](../assets/images/122120211011p_orig.jpg)
-
-<div class="grid cards" markdown>
-
-- ![Image](../assets/images/12212021103p.jpg)
-
-- ![Image](../assets/images/122120211031p.jpg)
-
-- ![Image](../assets/images/12212021104p.jpg)
-
-- ![Image](../assets/images/12212021105p.jpg)
-
-- ![Image](../assets/images/12212021106p.jpg)
-
-- ![Image](../assets/images/12212021108p.jpg)
-
-- ![Image](../assets/images/122120211081p.jpg)
-
-- ![Image](../assets/images/122120211082p.jpg)
-
-- ![Image](../assets/images/12212021109p.jpg)
-
-- ![Image](../assets/images/122120211091p.jpg)
-
-- ![Image](../assets/images/12212021110p.jpg)
-
-</div>
-
-![Image](../assets/images/122120211011p_orig.jpeg)
-
-<div class="grid cards" markdown>
-
-- ![Image](../assets/images/12212021102p.jpg)
-
-- ![Image](../assets/images/12212021115p.jpg)
-
-- ![Image](../assets/images/12212021118p.jpg)
-
-- ![Image](../assets/images/122120211071p.jpg)
-
-- ![Image](../assets/images/12212021116p.jpg)
-
-- ![Image](../assets/images/12212021122p.jpg)
-
-- ![Image](../assets/images/12212021119p.jpg)
-
-- ![Image](../assets/images/12212021120p.jpg)
-
-- ![Image](../assets/images/12212021121p.jpg)
-
-- ![Image](../assets/images/12212021123p.jpg)
-
-- ![Image](../assets/images/12212021124p.jpg)
-
-- ![Image](../assets/images/122120211231p.jpg)
-
-- ![Image](../assets/images/12212021125p.jpg)
-
-- ![Image](../assets/images/12212021126p.jpg)
-
-- ![Image](../assets/images/12212021133p.jpg)
-
-- ![Image](../assets/images/122120211331p.jpg "TRAIL #162 IN \"THE SETTLER'S GROVE OF ANCIENT CEDARS\", SILVER VALLEY")
-
-- ![Image](../assets/images/122120211351p.jpg)
-
-- ![Image](../assets/images/12212021136p.jpg)
-
-- ![Image](../assets/images/122120211361p.jpg)
-
-- ![Image](../assets/images/12212021141p.jpg)
-
-- ![Image](../assets/images/12212021137p.jpg)
-
-- ![Image](../assets/images/12212021138p.jpg)
-
-- ![Image](../assets/images/12212021143p.jpg)
-
-- ![Image](../assets/images/122120211431p.jpg)
-
-- ![Image](../assets/images/12212021142p.jpg)
-
-- ![Image](../assets/images/12212021144p.jpg)
-
-- ![Image](../assets/images/12212021154p.jpg)
-
-- ![Image](../assets/images/12212021155p.jpg)
-
-- ![Image](../assets/images/12262021312p.jpg)
-
-- ![Image](../assets/images/12262021314p.jpg)
-
-- ![Image](../assets/images/12262021315p.jpg)
-
-- ![Image](../assets/images/12262021317p.jpg)
-
-- ![Image](../assets/images/12262021316p.jpg)
-
-- ![Image](../assets/images/12262021318p.jpg)
-
-- ![Image](../assets/images/12262021319p.jpg)
-
-- ![Image](../assets/images/12262021323p.jpg)
-
-- ![Image](../assets/images/12262021324p.jpg)
-
-- ![Image](../assets/images/12262021321p.jpg)
-
-- ![Image](../assets/images/12262021320p.jpg "THIS IS ONE OF MY FAVORITE TRAILS IN THE CABINET MOUNTAIN WILDERNESS. IT GOES TO CLIFF LAKE, & ST. PAUL PEAK. THESE TREES ARE SUB-ALPINE FIRS. \"TREES PNW" WEBSITE CALLS THESE "KRUMMHOLZ". KRUMMHOLZ CAN BE A HUNDRED YEARS OLD AND ONLY STAND 5 FEET TALL. \" SAYS THESE SUB ALPINE FIRS CAN BE 100+ YEARS OLD. THEY ARE CALLED \"KRUMMHOLZ\"")
-
-- ![Image](../assets/images/9520221106a.jpg)
-
-- ![Image](../assets/images/8152025426p.jpg)
-
-</div>
+Click any image to enlarge and view high-resolution photo and caption.
+
+## Photo Gallery
+
+- ![Chris Scrambling to the Stevens Peak Ridge, Silver Valley](../assets/images/122120211236p.jpg)
+- ![Marie Creek Trail](../assets/images/122120211237p.jpg)
+- ![Q'emiln Park, Post Falls, Idaho](../assets/images/122120211239p.jpg)
+- ![A Hunters Trail Out of the Unnamed Double Lake, Ward & Eagle Peak Area](../assets/images/1221202112372p.jpg)
+- ![The Shoshone Medical Center Wellness Trail](../assets/images/1221202112371p.jpg)
+- ![Hikers on the Iller Creek Trail, Dishman Hills Conservancy](../assets/images/1221202112401p.jpg)
+- ![Mineral Ridge Trail to Silver Tip Overlook, Wolf Lodge Bay, Idaho](../assets/images/122120211240p.jpg)
+- ![The Spokane Mountaineers Trail #138 Work Party at Lone Lake, Silver Valley](../assets/images/122120211241p.jpg)
+- ![Regional Trail View](../assets/images/2112021859-1.jpg)
+- ![Hikers / Mountain Bikers on CDA-St. Joe National Recreation Trail #16](../assets/images/122120211251p.jpg)
+- ![A Rare Beargrass Explosion on the Day Mountain Trail #130, Mount Spokane](../assets/images/122020211247p.jpg)
+- ![Cube Iron Mountain 7110' Trail 460](../assets/images/122120211252p.jpg)
+- ![Hikers / Paddlers on the Leigh Lake Trail #132](../assets/images/122020211250p.jpg)
+- ![Liberty Creek Trail, Liberty Lake Regional Park, at the Cedars](../assets/images/1221202112521p.jpg)
+- ![Beargrass Near Leigh Lake, C.M.W.](../assets/images/122120211253p.jpg)
+- ![Trail to Upper Glidden Lake, Silver Valley](../assets/images/122120211259a.jpg)
+- ![Trail #221 to Long Mountain Lake & Parker Peak 7670'](../assets/images/12212021100p.jpg)
+- ![Regional Trail View](../assets/images/12212021101p.jpg)
+- ![Shoshone Medical Center Wellness Trail](../assets/images/12212021102p.jpg)
+- ![Fields of Glacier Lilies Along the Leigh Lake Trail #132. C.M.W., MT](../assets/images/122120211011p_orig.jpg)
+- ![Backpackers from Iowa on Trail #15 to Parker Peak 7670'](../assets/images/12212021103p.jpg)
+- ![Cabinet Divide Trail #360, Lost Buck Pass Above Geiger Lakes, C.M.W.](../assets/images/122120211031p.jpg)
+- ![Marie Creek Trail, Wolf Lodge Area](../assets/images/12212021104p.jpg)
+- ![Regional Trail View](../assets/images/12212021105p.jpg)
+- ![Regional Trail View](../assets/images/12212021106p.jpg)
+- ![Hikers / Paddlers on Way to Leigh Lake, C.M.W.](../assets/images/12212021108p.jpg)
+- ![Mineral Ridge Trail West of Caribou Cabin](../assets/images/122120211081p.jpg)
+- ![Trail #67 to Lunch Peak 6412' & Mount Pend Orielle Peak 7655'](../assets/images/122120211082p.jpg)
+- ![Marsha Enjoying Wildflowers on the Pillick Ridge Trail #1036. P.S.P.W.](../assets/images/12212021109p.jpg)
+- ![Chilco Mountain National Recreation Trail #14, with Pend Orielle Lake](../assets/images/122120211091p.jpg)
+- ![Next to the Ross Creek Cedars Trail, Cabinet Mountain, Montana](../assets/images/12212021110p.jpg)
+- ![Fields of Glacier Lilies Along the Leigh Lake Trail #132. C.M.W., MT](../assets/images/122120211011p_orig.jpeg)
+- ![Roman Nose Lakes Nature Trail. A.S.](../assets/images/12212021115p.jpg)
+- ![Trail #67 to Mount Pend Oreille, N.idaho](../assets/images/12212021118p.jpg)
+- ![American Falls Trail #308 A.S.](../assets/images/122120211071p.jpg)
+- ![Lake Estelle Trail #36](../assets/images/12212021116p.jpg)
+- ![Trout Lake-big Fisher Lake. Trails 13 & 41 A.S.](../assets/images/12212021122p.jpg)
+- ![South Trail to Crystal Lake, Silver Valley](../assets/images/12212021119p.jpg)
+- ![Regional Trail View](../assets/images/12212021120p.jpg)
+- ![Old Foot Bridge on the Trail to Crystal Lake, Silver Valley](../assets/images/12212021121p.jpg)
+- ![Trail #213 to Moose Mountain, with the P.S.P.W. & C.M.W.](../assets/images/12212021123p.jpg)
+- ![Trail #43 Past Pyramid Lake to Ball Lakes. A.S.](../assets/images/12212021124p.jpg)
+- ![Trail #656 to Geiger Lakes, C.M.W.](../assets/images/122120211231p.jpg)
+- ![Trail # 13 to Pyramid Pass, A.S.](../assets/images/12212021125p.jpg)
+- ![Trail #132 to Leigh Lake. C.M.W.](../assets/images/12212021126p.jpg)
+- ![Shoshone Medical Center Wellness Trail](../assets/images/12212021133p.jpg)
+- ![Trail #162 in "the Settler's Grove of Ancient Cedars", Silver Valley](../assets/images/122120211331p.jpg)
+- ![Trail of the Cda's Bridge Over Lake Chatcolet, Heyburn State Park](../assets/images/122120211351p.jpg)
+- ![NW Trail to Canfield Butte via E. Crestwood Ct.](../assets/images/12212021136p.jpg)
+- ![Trail #250 to Ward & Eagle Peaks, Montana](../assets/images/122120211361p.jpg)
+- ![Chris Navigating the Huge Boulder Field on the Way to Bottleneck Lakes & Peak, A..S.](../assets/images/12212021141p.jpg)
+- ![Trail #162 to Settlers Grove of Ancient Cedars](../assets/images/12212021137p.jpg)
+- ![Trail #15 Above Long Mountain Lake and on the Way to Parker Peak, A.S.](../assets/images/12212021138p.jpg)
+- ![Mineral Ridge Upper Trail West of Caribou Cabin](../assets/images/12212021143p.jpg)
+- ![Shoshone Medical Center Wellness Trail](../assets/images/122120211431p.jpg)
+- ![A Field of Glacier Lilies South of Frosty-baldy, Silver Valley](../assets/images/12212021142p.jpg)
+- ![Trail to Gold Hill Along the CDA-St. Joe Divide](../assets/images/12212021144p.jpg)
+- ![Trail #43 High Above Pyramid Lake on the Way to Ball Lakes](../assets/images/12212021154p.jpg)
+- ![Saltese Flats, Near Liberty Lake](../assets/images/12212021155p.jpg)
+- ![The Swinging Bridge on Tubbs Hill, CDA](../assets/images/12262021312p.jpg)
+- ![The Ridge Walk Above Pyramid Lake American Selkirks](../assets/images/12262021314p.jpg)
+- ![The South Shore Trail at Harrison Lake with the Selkirk Crest Above](../assets/images/12262021315p.jpg)
+- ![The Trail to Gold Hill & Stevens Peak via the Moon Pass Road](../assets/images/12262021317p.jpg)
+- ![The Trail in the Shoshone Medical Center Wellness Trail, Kelloogg](../assets/images/12262021316p.jpg)
+- ![Trail #67 to Lunch Peak & Mount Pend Orielle Peak](../assets/images/12262021318p.jpg)
+- ![Trail #165 to Stevens Lakes Mid Winter](../assets/images/12262021319p.jpg)
+- ![Trail #138 to Lone Lake in the Fall](../assets/images/12262021323p.jpg)
+- ![The Southern Trail to Crystal Lake on the Rochat Divide](../assets/images/12262021324p.jpg)
+- ![The Liberty Lake Trail to the Cedars](../assets/images/12262021321p.jpg)
+- ![This Is One of My Favorite Trails in the Cabinet Mountain Wilderness. It Goes to Cliff Lake, & St. Paul Peak. These Trees Are Sub-alpine Firs. "trees Pnw” Website Calls These “krummholz”. Krummholz Can Be a Hundred Years Old and Only Stand 5 Feet Tall. " Says These Sub Alpine Firs Can Be 100+ Years Old. They Are Called "krummholz"](../assets/images/12262021320p.jpg)
+- ![Chilco Mountain National Recreation Trail #14](../assets/images/9520221106a.jpg)
+- ![Priest Lake from Mount Pend Oreille](../assets/images/8152025426p.jpg)
