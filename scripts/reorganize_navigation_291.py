@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 tags:
   - Trails & Scrambles
   - Easy
@@ -170,3 +172,10 @@ _Looking east across Upper Priest Lake from Navigation Campground._
 
 ![Spring Orange Peel Fungus (Caloscypha fulgens) blooming along the damp trail](../../../assets/images/6172022122p.jpg)
 _Spring Orange Peel Fungus (Caloscypha fulgens) blooming along the damp trail._
+"""
+
+target_path = "docs/hike/idaho/north-idaho-hikes/navigation-trail-291.md"
+with open(target_path, "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Reorganized navigation-trail-291.md successfully")
