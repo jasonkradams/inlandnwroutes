@@ -8,7 +8,7 @@ tags:
 ![Camera Corral](../../assets/images/camera-corral-logo-2-1_orig.png)
 _Camera Corral_
 
-## [Camera corral](https://www.cameracorral.com).    208.664.2420.   cameracorral.com
+## [Camera corral](https://www.cameracorral.com).    ([(208) 664-2420](tel:2086642420).   cameracorral.com
 
 Love taking pictures?**So do we...**
 

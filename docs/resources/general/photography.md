@@ -10,8 +10,7 @@ notes:
     url: camera-corral.md
 ---
 
-![Outdoor Photography Guide](../../assets/images/1664054130.jpeg)
-_Outdoor Photography Guide._
+![](../../assets/images/1664054130.jpeg)
 
 Capturing the grandeur of the backcountry requires a blend of field awareness and camera mastery. Drawing from over 68 years of photography experience, Chic shares essential techniques for getting stunning photos using smartphones, mirrorless cameras, and DSLRs.
 
