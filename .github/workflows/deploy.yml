@@ -5,6 +5,10 @@ on:
     branches:
       - gh-pages
       - main
+    paths:
+      - 'docs/**'
+      - 'mkdocs.yml'
+      - 'requirements.txt'
   workflow_dispatch:
 
 # Allow one concurrent deployment
