@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: "Inland NW Hikers"
 tags:
   - Resources
@@ -53,3 +55,9 @@ Every outing posted by Inland NW Hikers includes a streamlined rating code:
 Join upcoming hikes, connect with local outdoor companions, and explore upcoming events on the official Meetup page:
 
 - **Official Meetup Group:** [Inland NW Hikers on Meetup](https://www.meetup.com/Inland-Northwest-Hikers/)
+"""
+
+with open("docs/resources/general/inland-nw-hikers.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized inland-nw-hikers.md successfully")
