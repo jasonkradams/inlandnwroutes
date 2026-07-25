@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: "Saltese Highlands Summit Loop"
 tags:
   - Mountain Biking
@@ -55,3 +57,9 @@ _Overlooking the Saltese Wetland Area from the Turtle Gulch and Uplands Loop jun
 
 ![Uplands Loop and Summit Loop Junction](../assets/images/202204171035-uplands-summit-junction.jpg)
 _Uplands Loop and Summit Loop junction amidst open hillside grasslands._
+"""
+
+with open("docs/bike/saltese-highlands-summit-loop.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized saltese-highlands-summit-loop.md successfully")
