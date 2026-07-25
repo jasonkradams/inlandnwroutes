@@ -8,7 +8,7 @@ tags:
 ![Silverlight](../../assets/images/img-7231_orig.jpeg)
 _Silverlight_
 
-## Silverlight (2)
+## Silverlight
 
 ### Add text here
 

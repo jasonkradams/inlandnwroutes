@@ -122,7 +122,7 @@ Because of logging, the actual trail starts up this logging road. the granite do
 
 ---
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## A high prominence above kent lake that you get to scramble
 
@@ -138,29 +138,29 @@ Because of logging, the actual trail starts up this logging road. the granite do
 
 ## Harrison peak and other peaks including the twins of the seven sisters
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## The approach to near the camp site
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 ## A side ridge along the east to west ridge
 
 ---
 
-### Picture (Image missing) Details (5)
+### Picture (Image missing) Details
 
 The previous image ridge on the left In the center is the first lunar landscape on top of myrtles turtle
 
 ---
 
-### Picture (Image missing) Details (6)
+### Picture (Image missing) Details
 
 ## Near the camp site with harrison peak & some of the seven sisters
 
 ---
 
-### Picture (Image missing) Details (7)
+### Picture (Image missing) Details
 
 ## Chris coming up the last section to the camp site
 
@@ -168,9 +168,9 @@ The previous image ridge on the left In the center is the first lunar landscape 
 
 ## Our dinner site with a sunset, above kent lake 7.23-24.2022 Image by vanette leighty
 
-### Picture (Image missing) Details (8)
+### Picture (Image missing) Details
 
-### Picture (Image missing) Details (9)
+### Picture (Image missing) Details
 
 ## The wigwams at sunset from the camp site
 
@@ -182,7 +182,7 @@ The previous image ridge on the left In the center is the first lunar landscape 
 
 ---
 
-### Picture (Image missing) Details (10)
+### Picture (Image missing) Details
 
 ## A south to north ridge along the east to north route
 
@@ -212,13 +212,13 @@ The previous image ridge on the left In the center is the first lunar landscape 
 
 ---
 
-### Picture (Image missing) Details (11)
+### Picture (Image missing) Details
 
 ## The route is along the rock face on left in the grass
 
 ---
 
-### Picture (Image missing) Details (12)
+### Picture (Image missing) Details
 
 ## A hole in the summit block
 
@@ -234,7 +234,7 @@ The previous image ridge on the left In the center is the first lunar landscape 
 
 ## Lion head and its nearby peaks, looking nne
 
-### Picture (Image missing) Details (13)
+### Picture (Image missing) Details
 
 ## Along the wigs route, with the wall back left
 
@@ -244,7 +244,7 @@ The previous image ridge on the left In the center is the first lunar landscape 
 
 ---
 
-### Picture (Image missing) Details (14)
+### Picture (Image missing) Details
 
 ## The wigs are at the end of this ridge line
 

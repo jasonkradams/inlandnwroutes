@@ -100,7 +100,7 @@ the effort
 
 ## All too soon the view of the falls fades, and then you are at the lake
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 You may wonder where all this water comes from All the benches above the lake hold some degree of snow year
 

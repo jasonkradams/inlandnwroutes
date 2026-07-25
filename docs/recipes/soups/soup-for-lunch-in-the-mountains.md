@@ -6,7 +6,7 @@ tags:
 
 # Soup For Lunch In The Mountains
 
-## Soup for lunch in the mountains (2)
+## Soup for lunch in the mountains
 
 ---
 

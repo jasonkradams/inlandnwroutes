@@ -6,7 +6,7 @@ tags:
 
 # Instant Birthday Cake
 
-## Instant birthday cake (2)
+## Instant birthday cake
 
 ---
 

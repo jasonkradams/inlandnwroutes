@@ -171,7 +171,7 @@ St.paul peak on far left, with elephant peak in the distance. rock peak on far r
 
 ## Scrambling st. paul peak with rock peak left hiker
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## The view looking north. dead center is snowshoe and a peaks
 
@@ -185,7 +185,7 @@ Chicago peak from st paul peak Top left along chicago peak's ridge is the trailh
 
 ---
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## Cliff lake, below st. paul peak, chicago peak in back
 
@@ -215,7 +215,7 @@ Chicago peak from st paul peak Top left along chicago peak's ridge is the trailh
 
 ---
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 ## Elephant peak 7938’ from the summit of rock peak image by chris h. 8.3.2022
 
@@ -225,7 +225,7 @@ Chicago peak from st paul peak Top left along chicago peak's ridge is the trailh
 
 ## St. paul lake from st. paul peak
 
-### Picture (Image missing) Details (5)
+### Picture (Image missing) Details
 
 ## The spokane mountaineers heading to the trailhead, with chicago peak 7018'
 

@@ -104,11 +104,11 @@ NA
 
 ## Spokane mountaineers outing, posing in front of the lower falls
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## Middle elk creek falls 70'
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## Upper elk creek falls 20' a good place to swim, wear shoes
 

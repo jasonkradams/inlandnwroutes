@@ -123,7 +123,7 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint. Burger Express i
 
 ## A gourmet lunch in the wigs.   image by chris herath
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## A hole in the wall with the wigs
 

@@ -414,7 +414,7 @@ the sky. in the southern hemisphere, it is called the aurora australis.
 
 ![Picture](../../assets/images/11252021806.jpg)
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 Most auroras occur in response to energetic particles from a solar storm, which cause the gases of the thin
 
@@ -431,9 +431,9 @@ nitrogen gases being energized by the solar particles.
 
 Crepuscular rays are a bands of sunlight shining through breaks in clouds on the horizon.
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 ## **What are sun dogs?**
 
@@ -446,7 +446,7 @@ otherwise known as cirrus clouds. this can also happen at night. these are calle
 
 ## **What are sun pillars?**
 
-### Picture (Image missing) Details (5)
+### Picture (Image missing) Details
 
 Sun pillars are luminous vertical streaks of light, while or sometimes slightly reddish in color, extending
 

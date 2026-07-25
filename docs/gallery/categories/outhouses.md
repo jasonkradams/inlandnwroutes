@@ -7,7 +7,7 @@ tags:
 
 ---
 
-## Outhouses (2)
+## Outhouses
 
 ## Click on image to enlarge
 

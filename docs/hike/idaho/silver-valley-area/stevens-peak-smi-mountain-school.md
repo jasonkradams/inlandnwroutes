@@ -152,19 +152,19 @@ on the top layer
 
 ---
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## Heading up the ridge on the west from the tents at the lower lake
 
 ---
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## Gaining the ridge and heading to the summit
 
 ---
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 ## It was a bit windy on top
 

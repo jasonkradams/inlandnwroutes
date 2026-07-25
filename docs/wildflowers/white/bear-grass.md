@@ -84,19 +84,19 @@ The great bear grass blooms on mount spokane june, 2016 this bloom created milli
 
 ## Along the trail to cliff lake in the c.m.w
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## Along the cliff lake trail in the c.m.w
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## Old bear grass along the state line trail The lake behind is upper st.regis lake
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 ## The great bloom on mount spokane
 
-### Picture (Image missing) Details (5)
+### Picture (Image missing) Details
 
 While on a scramble of pyramid peak in the american selkirks, i had the team pose among the bear grass
 pyramid

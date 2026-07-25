@@ -45,7 +45,7 @@ tags:
 
 ## Long Lake Launch1
 
-## Long lake launch (2)
+## Long lake launch
 
 ## Description
 
@@ -75,13 +75,13 @@ Avista Dam, Fisk StaTE PARK, AND THE MCLELLAN CONSERVATION AREA
 
 ## NA
 
-## Long Lake Launch1 (2)
+## Long Lake Launch1
 
-## Plan your trip (2)
+## Plan your trip
 
 [Click for Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
 
-## Please everyone... heed this health alert (2)
+## Please everyone... heed this health alert
 
 ![Picture](../../../assets/images/5132025306p-2.jpg)
 

@@ -189,7 +189,7 @@ the left side of the divide.
 
 ## The group sshoeing up the idaho centennial trail, stevens peak area Image by vanette leighty
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 Up high on the idaho centennial trail above the upper sanctuary, lone lake image by vanette leighty
 

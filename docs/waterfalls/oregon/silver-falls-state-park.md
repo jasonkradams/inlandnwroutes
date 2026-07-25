@@ -22,7 +22,7 @@ Your browser does not support viewing this document. Click [here]( to download t
 
 ![Picture](../../assets/images/11222021929p.png)
 
-## Photo gallery (2)
+## Photo gallery
 
 ![Picture](../../assets/images/3222026635p.jpg)
 
@@ -38,13 +38,13 @@ Your browser does not support viewing this document. Click [here]( to download t
 
 ### Picture (Image missing) Details
 
-## North falls 136' (2)
+## North falls 136'
 
 ![Picture](../../assets/images/3222026654p.jpg)
 
 ## North trail from the trail in the above image
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## Most all the trail is outstanding
 

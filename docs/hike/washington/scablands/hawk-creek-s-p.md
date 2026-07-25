@@ -92,7 +92,7 @@ Lenny’s in Cheney
 
 ![Picture](../../../assets/images/2021116-22-jpeg-1-1.jpg)
 
-## Hawk creek falls state park (2)
+## Hawk creek falls state park
 
 ![Picture](../../../assets/images/p69.png)
 

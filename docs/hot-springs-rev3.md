@@ -30,7 +30,7 @@ Website: Phone: Pools: Hours: Amenities: miles from spokane:
 
 ---
 
-## Hot springs (2)
+## Hot springs
 
 ---
 
@@ -42,7 +42,7 @@ Website: Phone: Pools: Hours: Amenities: miles from spokane:
 
 ---
 
-## Photo gallery (2)
+## Photo gallery
 
 ---
 
@@ -52,7 +52,7 @@ Website: Phone: Pools: Hours: Amenities: miles from spokane:
 
 ---
 
-## Hot springs (3)
+## Hot springs
 
 ---
 
@@ -64,7 +64,7 @@ Website: Phone: Pools: Hours: Amenities: miles from spokane:
 
 ---
 
-## Photo gallery (3)
+## Photo gallery
 
 ---
 
@@ -74,7 +74,7 @@ Website: Phone: Pools: Hours: Amenities: miles from spokane:
 
 ---
 
-## Hot springs (4)
+## Hot springs
 
 ---
 
@@ -86,7 +86,7 @@ Website: Phone: Pools: Hours: Amenities: miles from spokane:
 
 ---
 
-## Photo gallery (4)
+## Photo gallery
 
 ---
 
@@ -96,7 +96,7 @@ Website: Phone: Pools: Hours: Amenities: miles from spokane:
 
 ---
 
-## Hot springs (5)
+## Hot springs
 
 ---
 
@@ -108,7 +108,7 @@ Website: Phone: Pools: Hours: Amenities: miles from spokane:
 
 ---
 
-## Photo gallery (5)
+## Photo gallery
 
 ---
 
@@ -118,7 +118,7 @@ Website: Phone: Pools: Hours: Amenities: miles from spokane:
 
 ---
 
-## Hot springs (6)
+## Hot springs
 
 ---
 
@@ -130,7 +130,7 @@ Website: Phone: Pools: Hours: Amenities: miles from spokane:
 
 ---
 
-## Photo gallery (6)
+## Photo gallery
 
 ---
 

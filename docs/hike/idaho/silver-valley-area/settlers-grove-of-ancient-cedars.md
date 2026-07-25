@@ -84,7 +84,7 @@ Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Faint
 Saloon, Wallace Brewing Co., Muchacho's Tacos in Wallace. Radio Brewing in Kellogg. The Snake Pit north of
 Kingston. And Moon Time in CDA.
 
-## Settlers Grove Of Ancient Cedars (2)
+## Settlers Grove Of Ancient Cedars
 
 ## Images from along the trail
 

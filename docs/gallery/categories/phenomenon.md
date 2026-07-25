@@ -7,7 +7,7 @@ tags:
 
 ---
 
-## Phenomenon (2)
+## Phenomenon
 
 ## Click on image to enlarge
 

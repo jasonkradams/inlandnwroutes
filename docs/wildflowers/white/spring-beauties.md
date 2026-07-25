@@ -124,6 +124,6 @@ notably.
 
 ##
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 Image by james colquhoun

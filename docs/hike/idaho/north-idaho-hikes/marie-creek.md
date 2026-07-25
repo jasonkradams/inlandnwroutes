@@ -106,7 +106,7 @@ Moon Time, Franklins Hoagies, the Mexican Food Factory, and the Trails End Brewe
 
 ## Not only is trail work fun, its a lot of work
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## A section of the trail we worked on a years ago this section is just before the meadows
 
@@ -125,7 +125,7 @@ are places to camp
 
 ## Trail #241 nearing the skitwich creek
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## High winds above marie creek
 

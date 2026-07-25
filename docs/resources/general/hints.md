@@ -973,7 +973,7 @@ fresh cloths are a blessing. Spare hiking clothes may fill a gap for stupid fell
 hike, question your hiking partners to be sure they all have what they need to be safe, warm and dry. Each
 hiker should have spare socks, hats and gloves. Wool is much better than synthetics when wet.
 
-### Base layers (2)
+### Base layers
 
 Base layer long johns are a must even in warm weather. They wick moisture away from the core and keep you
 dry. Go online and buy a brand called "Indera". The ones you want are grey and white, only. The outer layer

@@ -160,7 +160,7 @@ referred to in this write up
 
 ## Our lunch spot along the state line ridge See below, please
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## this is our lunch spot, seen from upper stevens lake
 
@@ -170,15 +170,15 @@ referred to in this write up
 
 ## Upper stevens lake
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## Upper & lower st. regis lakes the first lake you come to, is the upper lake
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 ## Avalances on stevens peak's ne face
 
-### Picture (Image missing) Details (5)
+### Picture (Image missing) Details
 
 ## Lookout ski area from the state line ridge
 
@@ -186,13 +186,13 @@ referred to in this write up
 
 ## The route down thru the arrow
 
-### Picture (Image missing) Details (6)
+### Picture (Image missing) Details
 
 ## Chris trekking down the arrow
 
 ## Non snow season
 
-### Picture (Image missing) Details (7)
+### Picture (Image missing) Details
 
 ## The vertical rocks are too dangerous to cross, so drop to the "trail"
 
@@ -200,11 +200,11 @@ referred to in this write up
 
 ## Chicwackin' from the ridge prominence
 
-### Picture (Image missing) Details (8)
+### Picture (Image missing) Details
 
 ## At the back wall, the climb up to the ridge is steep and fun and short
 
-### Picture (Image missing) Details (9)
+### Picture (Image missing) Details
 
 ## Views of the upper stevens lake & peak are incredible
 
@@ -212,15 +212,15 @@ referred to in this write up
 
 ## From the same spot above, turn around and view The upper & lower st. regis lakes
 
-### Picture (Image missing) Details (10)
+### Picture (Image missing) Details
 
 ## This faint "trail" leads to the back ridge that stevens peak is on
 
-### Picture (Image missing) Details (11)
+### Picture (Image missing) Details
 
 ## Once on the back ridge, the view of the state line ridge shows the hazards
 
-### Picture (Image missing) Details (12)
+### Picture (Image missing) Details
 
 ## Once on the back ridge, the views of lower & upper stevens lakes are great
 
@@ -230,7 +230,7 @@ The prize for doing this route is the views from the summit of stevens peak Lone
 lower & upper stevens lakes are on the right The easiest way down is to follow the willow ridge (center) Out
 to the willow peak and drop down to lone lake at a saddle On a much easier user created trail
 
-### Picture (Image missing) Details (13)
+### Picture (Image missing) Details
 
 This image shows the user created route From willow ridge down to the upper sanctuary. Before descending as
 

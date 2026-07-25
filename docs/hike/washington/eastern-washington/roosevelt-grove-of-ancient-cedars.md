@@ -24,7 +24,7 @@ tags:
 
 ## value: 208.263.8417
 
-## Roosevelt Grove Of Ancient Cedars (2)
+## Roosevelt Grove Of Ancient Cedars
 
 ## Description
 

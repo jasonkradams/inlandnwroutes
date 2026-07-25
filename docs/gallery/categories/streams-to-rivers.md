@@ -7,7 +7,7 @@ tags:
 
 ---
 
-## Streams to rivers (2)
+## Streams to rivers
 
 ## Click on image to enlarge
 

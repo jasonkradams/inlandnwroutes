@@ -132,7 +132,7 @@ tags:
 
 ## Pillick ridge 6167'
 
-## Description (2)
+## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
 info. if an emergency ocurrs, evaluate your circumstances and call only if needed. From the trailhead, hike
@@ -144,48 +144,48 @@ Continue on 1036 to the second 1035 and beyond. Star Peak is about 2.25 miles pa
 
 Although this trail is long, it offers great views and solitude.
 
-## Option #1 (2)
+## Option #1
 
 At trail 1035, Napoleon Gulch trail, you can head north down to Highway 56 about 9 miles from the trailhead.
 When we get to Hwy 56, we hitchhiker back to the cars.
 
-## Option #2 (2)
+## Option #2
 
 From Star Peak, you can hike north on trail #1016 to Highway 56, for a nice loop hike. Use a shuttle, or
 hitchhike back to the trailhead.
 
-## Option #3 (2)
+## Option #3
 
 Take the Star Peak trail 998 to star Peak and walk out either of the options above.
 
 ---
 
-## Directions (2)
+## Directions
 
 From Clark Fork, head east on Highway 200 to Highway 56 and turn left (north) onto Highway 56 to near
 milepost 7. Look for the Pillick Ridge sign and narrow road to the small trailhead.
 
-## Hazards (2)
+## Hazards
 
 The biggest hazard at the beginning is the sun on the south face. The trail is great to the high trail
 junctions.
 
-## Cool things close by (2)
+## Cool things close by
 
 Scotchmans Peak, Cabinet Mountain Wilderness, Highway 56, Kootenai Falls, Ross Creek Cedars, and the
 Proposed Scotchman Peaks Wildreness.
 
-## R & P (2)
+## R & P
 
 Clark Fork Pantry, Clark Fork Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
-### Picture (Image missing) (2)
+### Picture (Image missing)
 
-## Photo gallery (2)
+## Photo gallery
 
 <!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](../../../assets/images/p296-1.png) --> -->
 
-## Marsha admiring wildflower mid way along the pillick ridge trail (2)
+## Marsha admiring wildflower mid way along the pillick ridge trail
 
 ---
 

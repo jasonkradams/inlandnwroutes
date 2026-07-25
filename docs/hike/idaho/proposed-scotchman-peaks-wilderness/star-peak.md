@@ -123,7 +123,7 @@ The stone house below the lookout tower. This house uses zero mortor in its cons
 
 ## The main attraction at star peak. this outhouse has an incredible view. A real poop with a view
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## This image was shot by amy v. on the descent of star peak on 11.24.23
 
@@ -326,9 +326,9 @@ tags:
 
 ## Star Peak1
 
-## Star peak 6167’. trail #998 (2)
+## Star peak 6167’. trail #998
 
-## Description (2)
+## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
 info. if an emergency ocurrs, evaluate your circumstances and call only if needed. Star Peak used to be
@@ -350,21 +350,21 @@ River and Hwy 200..
 Take extra care descending this trail. It is steep in places and hard on the knees. In our "Trail Etiquette
 and Skills" section, under resources there is "Hiking Steep Trails Downhill" for hints on saving your knees.
 
-## Directions (2)
+## Directions
 
 From Clark Fork, head east on Highway 200 into Montana for 6 miles and look for a Big Eddy sign along
 Hwy 200. Look for the new parking area. Across from the Big Eddy sign is a steep road that leads to the
 trailhead.
 
-## Hazards (2)
+## Hazards
 
 Long hard up with lots of elevation gain. Take many rest breaks on this hike. And hydrate a lot.
 
-## Cool things close by (2)
+## Cool things close by
 
 The Clark Fork River, Cabinet Gorge Dam, Heron, Pillick Ridge, the Cabinet Mountain Wilderness.
 
-## R & P (2)
+## R & P
 
 Clark Fork Pantry, Clark Fork Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
@@ -372,25 +372,25 @@ Clark Fork Pantry, Clark Fork Jalapeños, Mr. Sub, Burger Express, and Eichardt�
 
 ![Picture](../../../assets/images/6182025140p.jpg)
 
-## Photo gallery (2)
+## Photo gallery
 
 ![Picture](../../../assets/images/20201219141852-1.jpg)
 
 ## On the way up, looking towards clark fork
 
-### Picture (Image missing) (2)
+### Picture (Image missing)
 
 ## Trail junction with big eddy trail
 
 ---
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## Looking north from the summit
 
 ---
 
-### Picture (Image missing) Details (2) (2)
+### Picture (Image missing) Details (2)
 
 ## Billiard table peak 6622' looking north from star peak 6167'
 
@@ -398,12 +398,12 @@ Clark Fork Pantry, Clark Fork Jalapeños, Mr. Sub, Burger Express, and Eichardt�
 
 ![Picture](../../../assets/images/2021116-66-jpeg-1-1-2.jpg)
 
-## The main attraction at star peak. this outhouse has an incredible view. A real poop with a view (2)
+## The main attraction at star peak. this outhouse has an incredible view. A real poop with a view
 
 The below images were sent to me, by a spokane mountaineers hiking friend, Vanette leighty. her images were
 take on 3.2023 in the proposed scotchman peaks wilderness in montana. thank you vanette
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## The route to the top of star peak. Image by vanette leighty
 
@@ -480,7 +480,7 @@ observation post.
 
 **July 12, 1912:**"Sam Shafer has accepted a position as lookout on Squaw peak for the forest service."
 
-### (The Sanders County Ledger) (2)
+### (The Sanders County Ledger)
 
 **September 24, 1915:** "Mr. Hudson a student at Missoula who has been lookout man on Squaw peak, left here
 
@@ -569,7 +569,7 @@ all
 
 summer. She had n o electricity and used a wood stove for heat but she says she is ready for another year."
 
-### (The Independent Record) (2)
+### (The Independent Record)
 
 **October 12, 1967:** "Due to the rains last weekend, Laura Harker came down from Squaw Peak on Monday when
 
@@ -586,9 +586,9 @@ finished." **(Sandpoint News Bulletin)**
 
 ![Picture](../../../assets/images/3192022329p.jpg)
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
-### Picture (Image missing) Details (5)
+### Picture (Image missing) Details
 
 ![Picture](../../../assets/images/3192022338p.jpg)
 

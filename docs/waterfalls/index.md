@@ -193,7 +193,7 @@ Tiered waterfalls tend to fall in a line and each tier can be of varying heights
 
 Hog canyon falls, washington
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## Segmented
 
@@ -226,7 +226,7 @@ Chutes resemble rapids in their descent.
 
 Lower lone lake falls, stevens peak, idaho
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## Slide
 

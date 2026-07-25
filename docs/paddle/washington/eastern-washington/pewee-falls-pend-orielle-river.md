@@ -22,7 +22,7 @@ tags:
 
 ## value: 509.447.3151
 
-## Pewee Falls Pend Orielle River (2)
+## Pewee Falls Pend Orielle River
 
 ## Pewee falls, pend oreille river
 
@@ -130,7 +130,7 @@ NA
 At one time, there used to be a natural arch to paddle under. but the county commissioners thot it would be
 okay to allow jet boat tours. hence the arch is no longer standing
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## One of two caves to paddle into
 
@@ -147,11 +147,11 @@ okay to allow jet boat tours. hence the arch is no longer standing
 On the opposite side of the river is this waterfalls. if you set your paddle down and close your eyes, the
 sounds of the twin falls on each side of the river, produce a stereophonic effect that you can meditate to
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## Boundary dam’s electrical powerlines
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 ## Boundary dam from the vista house across the river
 
@@ -159,7 +159,7 @@ sounds of the twin falls on each side of the river, produce a stereophonic effec
 
 ## Five turbines making power for seattle
 
-### Picture (Image missing) Details (5)
+### Picture (Image missing) Details
 
 ## Powerline exit portal
 
@@ -320,9 +320,9 @@ One night i came back from canada and stayed the night at boundary dam. As i was
 the aurora borealis was building. I went around to each campsite and told the campers of the auroras. Not
 one person got up to see them.their loss. Can you find the big dipper in this image?
 
-### Picture (Image missing) Details (6)
+### Picture (Image missing) Details
 
-### Picture (Image missing) Details (7)
+### Picture (Image missing) Details
 
 ## Gardner caves, crawford state park
 

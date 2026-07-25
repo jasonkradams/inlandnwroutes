@@ -122,7 +122,7 @@ Burger Express in Priest River, Ardy's Cafe,
 
 ## Upper priest lake with little snowy top & snowy top
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## Along the trail, there were many fungi. This is a false morel. it is poisonous
 

@@ -97,7 +97,7 @@ tags:
 
 ## Graham mountain 5727’ trail #41
 
-## Description (2)
+## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
 info. if an emergency ocurrs, evaluate your circumstances and call only if needed. Trail #41 skirts Coal
@@ -107,21 +107,21 @@ CDA River to the
 
 ## north
 
-## Graham Mountain1 (2)
+## Graham Mountain1
 
-## Directions (2)
+## Directions
 
 From CDA drive east on I-90 to exit #43, Kingston, Idaho. Cross over the freeway and drive north on HWY #9
 for 12.5 miles to the Coal Creek trailhead. The parking is up a dirt road to the south.
 
 ---
 
-## Cool things close by (2)
+## Cool things close by
 
 CDA River, Bumblebee Campgrounds, Trail #17 Graham Ridge, Fern & Shadow Falls, Little Guard Lookout, CDA
 River National Recreation Trail #20, and Jordan Camp
 
-## Hazards (2)
+## Hazards
 
 Trail #33 to Graham Mountain is a 5.5 mile trail that climbs steadily on the same aspect to the summit. In
 the spring, there are several creek crossings that may be difficult.
@@ -130,7 +130,7 @@ the spring, there are several creek crossings that may be difficult.
 
 The Snake Pit, and the Radio Brewery in Kellogg,
 
-## Photo gallery (2)
+## Photo gallery
 
 ---
 

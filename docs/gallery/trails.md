@@ -8,7 +8,7 @@ tags:
 
 ---
 
-## Trails (2)
+## Trails
 
 ## Click on image to enlarge
 

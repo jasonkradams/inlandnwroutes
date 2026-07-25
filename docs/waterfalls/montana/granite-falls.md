@@ -99,30 +99,30 @@ From Priest River, drive north on Hwy 57, and bear left at the Dickensheet Junct
 
 ## R.D. From Priest Lake Ranger District travel 4 miles north to Nordman, then 14 miles north of Nordman, Idaho
 
-## Granite Falls  La Sota Fallsb (2)
+## Granite Falls  La Sota Fallsb
 
-## Cool things close by (2)
+## Cool things close by
 
 Roosevelt Grove of Ancient Cedars, Upper & Lower Priest Lake, Little Snowy Top Mountain, Snowy Top Mountain,
 Salmo Priest Wilderness, Gypsy Peak, Blacktail Mountain, and Packer Falls,
 
-## Hazards (2)
+## Hazards
 
 All waterfalls are a hazard, due to their slippery nature. always be extra careful near any waterfall.
 Granite Falls has a loop trail that takes you above the falls. Please be EXTRA CAREFUL on this trail.
 Towards the cedar grove, is La Sota Falls tucked off to the NW in the trees.
 
-## R & P (2)
+## R & P
 
 Stagger Inn
 
 ---
 
-## Plan your trip (2)
+## Plan your trip
 
 Click for Current NOAA Weather Conditions
 
-## Photo gallery (2)
+## Photo gallery
 
 ---
 

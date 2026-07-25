@@ -6,7 +6,7 @@ tags:
 
 # Chicken And Rice Soup
 
-## Chicken and rice soup (2)
+## Chicken and rice soup
 
 ---
 

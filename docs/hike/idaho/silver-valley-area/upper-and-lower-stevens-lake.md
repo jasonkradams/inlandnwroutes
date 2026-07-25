@@ -198,15 +198,15 @@ the braided trail up on the hill side. In 2024 an avalanche brought down dozens 
 
 ## Aerial view of upper & lower stevens lakes, 300verts difference
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## Upper stevens lake fall colors
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## Nancy doing yoga at lower stevens lake
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 ## Upper stevens lake below stevens peak in mid summer
 
@@ -218,7 +218,7 @@ the braided trail up on the hill side. In 2024 an avalanche brought down dozens 
 
 ## Backcountry skier curt almli on way to steven’s summit,  from west willow ridge. 1983
 
-### Picture (Image missing) Details (5)
+### Picture (Image missing) Details
 
 ## Snow ghosts along west willow ridge to stevens peak
 
@@ -226,7 +226,7 @@ the braided trail up on the hill side. In 2024 an avalanche brought down dozens 
 
 ## Upper stevens lake from state line ridge 1984
 
-### Picture (Image missing) Details (6)
+### Picture (Image missing) Details
 
 Does anyone see the image of a lady leaning back against the peak, holding a baby? or is it just me?
 
@@ -249,16 +249,16 @@ all images below are from the "barnard-stockbridge photography collection" And a
 of idaho digital archives. I would like to thank the Northern pacific railroad depot museum For turning me
 on to the below history
 
-### Picture (Image missing) Details (7)
+### Picture (Image missing) Details
 
-### Picture (Image missing) Details (8)
+### Picture (Image missing) Details
 
 ![Picture](../../../assets/images/8420231025a.jpg)
 
 this is an image of the old train reverse "s" shaped bridge That used to be in the area of the trailhead for
 stevens lakes. the current trailhead is marked with a red dot
 
-### Picture (Image missing) Details (9)
+### Picture (Image missing) Details
 
 In this hand colored photo, notice the mine dump near center It is where the gigantic log is above the upper
 
@@ -271,7 +271,7 @@ sunrise, a massive avalanche slid off the mountain wall and destroyed a section 
 stockbridge, of the barnard-stockbridge collection. u of i digital archives. they were shot on 8x10 glass
 negatives. *Picture (Image missing)*
 
-### Picture (Image missing) Details (10)
+### Picture (Image missing) Details
 
 ![Picture](../../../assets/images/9420231044a.jpg)
 
@@ -280,17 +280,17 @@ negatives. *Picture (Image missing)*
 In these images, notice the lack of trees. in 1892-3 a huge fire denuded the entire area. the avalanche came
 right down the slope above the trailhead
 
-### Picture (Image missing) Details (11)
+### Picture (Image missing) Details
 
 ---
 
-### Picture (Image missing) Details (12)
+### Picture (Image missing) Details
 
-### Picture (Image missing) Details (13)
+### Picture (Image missing) Details
 
 ![Picture](../../../assets/images/8420231052a.jpg)
 
-### Picture (Image missing) Details (14)
+### Picture (Image missing) Details
 
 This image of the rotary snow blower, is to illustrate the type of equipment used to clear the line
 

@@ -138,7 +138,7 @@ The south chilco lookout was built in 1915 and abandoned in 1935, when the north
 
 built
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## A spokane mountaineers hike on the summit of south chilco
 
@@ -150,11 +150,11 @@ built
 
 ## Spokane mountaineers at lunch on top of s. chilco
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## Hikers heading back to the trailhead, n. chilco peak
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 The summit cabin fire lookout that was on north chilco. it was built in 1938, and was destroyed in 1959 This
 
@@ -162,7 +162,7 @@ image is
 
 from the spokane mountaineers archive
 
-### Picture (Image missing) Details (5)
+### Picture (Image missing) Details
 
 Consider walking the ridge north of n. chilco. its trail skirts the west side of the ridge for about .5
 miles.
@@ -173,7 +173,7 @@ silverwood sit near the water tower left of center
 
 ## The trail north of n. chilco
 
-### Picture (Image missing) Details (6)
+### Picture (Image missing) Details
 
 ## The trail diminishes as you head further north from n. chilco
 

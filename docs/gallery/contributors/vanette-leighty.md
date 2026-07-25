@@ -7,7 +7,7 @@ tags:
 
 ---
 
-## Vanette leighty (2)
+## Vanette leighty
 
 I met vanette in the spokane mountaineers a few years ago, and have been very impressed with her abilities
 in the mountains and with her photography. enjoy
@@ -36,7 +36,7 @@ in the mountains and with her photography. enjoy
 
 ##
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ##
 
@@ -52,10 +52,10 @@ in the mountains and with her photography. enjoy
 
 ##
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ##
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 ##

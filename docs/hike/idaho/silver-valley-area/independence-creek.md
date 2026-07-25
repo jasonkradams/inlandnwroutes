@@ -78,7 +78,7 @@ Moontime.
 
 ---
 
-## Independence Creek (2)
+## Independence Creek
 
 ## No images. if you would like to contribute, please contact chic
 

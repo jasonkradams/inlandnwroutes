@@ -32,7 +32,7 @@ _Download file: medical_emergency_card.pdf_
 
 ---
 
-## Medical Information (3)
+## Medical Information
 
 ### Picture (Image missing)
 
@@ -322,7 +322,7 @@ to your entire body. Most people apply less than half of that amount, translatin
 With reapplication, a family of four should use one four-ounce bottle of sunscreen per person during a long
 day outdoors.
 
-### Who should use sunscreen? (2)
+### Who should use sunscreen?
 
 Everyone
 

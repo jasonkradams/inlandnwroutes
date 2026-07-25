@@ -124,23 +124,23 @@ herath
 
 ## The route to snowshoe peak. image by chris herath
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## A mountain goat comes over to check out the two climbers. image by chris h
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## The high route to the ridge below snowshoe peak. image by chris herath
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 ## Aaron examining the route above.   image by chris herath
 
-### Picture (Image missing) Details (5)
+### Picture (Image missing) Details
 
 ## Leigh lake below part of the route to snowshoe peak. image by chris herath
 
-### Picture (Image missing) Details (6)
+### Picture (Image missing) Details
 
 From the route to snowshoe peak, with a peak top right, and blackwell glacier, center left. Image by chris
 h.
@@ -149,11 +149,11 @@ The
 
 blackwell glacier is the closest glacier to spokane
 
-### Picture (Image missing) Details (7)
+### Picture (Image missing) Details
 
 Aaron enjoying the view from the snowshoe ridge. Bockman peak 8174' in background image by chris herath
 
-### Picture (Image missing) Details (8)
+### Picture (Image missing) Details
 
 ## Aaron standing on the summit of snowshoe peak. image by chris herath
 

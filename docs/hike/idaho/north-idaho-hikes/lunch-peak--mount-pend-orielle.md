@@ -116,7 +116,7 @@ chris herath
 
 ## As the trail breaks out of the woods The trail comes up towards mount pend oreille
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## Trail #67 as it starts its climb toward mount pend oreille image by chris herath
 
@@ -136,7 +136,7 @@ chris herath
 
 ## After lunch, a nap is always a great idea
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## To the east are the spectacular views of the cabinet mountain wilderness image by chris herath
 
@@ -145,7 +145,7 @@ chris herath
 looking east are the two highest peaks in the cabinet mountain wilderness THE PEAKS ARE A PEAK 8634v AND
 SNOWSHOE PEAK 8738v image by chris herath
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 ## To the west is the american selkirks
 
@@ -153,17 +153,17 @@ SNOWSHOE PEAK 8738v image by chris herath
 
 As we left the summit, the views of pend oreille lake and wildflowers were everywhere image by chris herath
 
-### Picture (Image missing) Details (5)
+### Picture (Image missing) Details
 
 ## This image is from 1995. lupine lined the trail on this day
 
-### Picture (Image missing) Details (6)
+### Picture (Image missing) Details
 
 ## Lupine, beargrass and other wildflowers line the south facing trail
 
 On our way down from the trailhead, this view required us to photograph it image by chris herath
 
-### Picture (Image missing) Details (7)
+### Picture (Image missing) Details
 
 ## This image is the same area, of the july 2023, lightening creek fire
 

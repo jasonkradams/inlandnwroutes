@@ -201,11 +201,11 @@ Muchacho’s Tacos, Pizza Factory, 1313 Club, in Wallace, and Radio Brewing in K
 
 ---
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## The sw shore of unnamed double lake
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## The unnamed double lake has a spectacular shore line
 

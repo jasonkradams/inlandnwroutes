@@ -106,11 +106,11 @@ This braided log was a beautiful part of the cedar, but someone cut it out a few
 
 ---
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## The main trail thru the scenic area
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ![Picture](../../../assets/images/11072021310p.jpg)
 
@@ -130,7 +130,7 @@ This braided log was a beautiful part of the cedar, but someone cut it out a few
 
 ---
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 ## The ross creek cairns
 
@@ -164,9 +164,9 @@ tags:
 
 ## Ross Creek Cedars1
 
-## Ross creek cedars scenic area. trail #405 (2)
+## Ross creek cedars scenic area. trail #405
 
-## Description (2)
+## Description
 
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district
 info. if an emergency ocurrs, evaluate your circumstances and call only if needed. For the most part, this
@@ -175,7 +175,7 @@ trail is level as it winds thru a large stand of Western Red Cedars. Some of the
 instances thru some of the trees. Across from the restrooms are picnic tables, and the creek here has
 hundreds of cairns built on the stream bed. do not miss this walk.
 
-## Option #1 (2)
+## Option #1
 
 As you walk the trail, look for a spur Trail #142 at the very back of the hike, that takes you into the
 backcountry. At about 1 mile, Trail #142 crosses the North Fork Ross Creek, and then Ross Creek. Look in the
@@ -195,7 +195,7 @@ trail for about 1.5 miles to the South Fork Ross Creek Waterfalls. The falls are
 trail. You can continue up into the South Fork Ross Creek trail to the base of the impressive Sawtooth
 Mountain.
 
-## Directions (2)
+## Directions
 
 From Sandpoint, head east on Highway 200 into Montana, and turn left (north) up Hwy 56 for 17 miles to the
 signs for the cedars. This road is about 4 miles to the parking area. On the way out at about 3 miles, there
@@ -203,75 +203,75 @@ is a wide spot on the road. Pull over and take in the views of the Cabinet Mount
 valley. Also, below this pull off, is the Lower Ross Creek Falls. It is, however, a grunt getting down and
 up from the falls, on a crummy path.
 
-## Hazards (2)
+## Hazards
 
 Cedar Grove....none of note, but finding a parking spot in the summer and spring is the crux of this walk.
 Above the grove, the trail is more primitive and is a little used trail, so be careful. Also, I ran into a
 Grizzly Bear after the South Fork waterfalls. But it was so startled at my presence, it ran uphill and
 disappeared.
 
-## Cool things close by (2)
+## Cool things close by
 
 The Proposed Scotchman Peaks Wilderness, the Cabinet Mountain Wilderness, and lots of trails into both
 areas, and the Bull River and Lake. And don’t forget the Clark Fork Pantry.
 
-## R & P (2)
+## R & P
 
 Clark Fork Pantry, Squeeze Inn in Clark Fork & Jalapeños, Mr. Sub, Eichardt’s Sandpoint
 
 ![Picture](../../../assets/images/6182025148p.jpg)
 
-## Photo gallery (2)
+## Photo gallery
 
 ![Picture](../../../assets/images/4132025435p.jpg)
 ![Picture](../../../assets/images/2020971222-copy.jpg)
 ![Picture](../../../assets/images/11112021427p-1.jpg)
 This braided log was a beautiful part of the cedars, but someone cut it out a few years ago. what a bummer
 
-### Picture (Image missing) (2)
+### Picture (Image missing)
 
 ## My friend erwin by a big western red cedar. erwin is almost as old as this cedar
 
-### Picture (Image missing) (2)
+### Picture (Image missing)
 
-## Along the trail in the cedars (2)
+## Along the trail in the cedars
 
 ---
 
-## Ross Creek Cedars1 (2)
+## Ross Creek Cedars1
 
-## Picture (Image missing) (3)
+## Picture (Image missing)
 
-## The main trail thru the scenic area (2)
+## The main trail thru the scenic area
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ![Picture](../../../assets/images/11072021310p-1.jpg)
 
-### Picture (Image missing) Details (2) (2)
+### Picture (Image missing) Details (2)
 
-## Hiking partners david and erwin, standing by a big one (2)
+## Hiking partners david and erwin, standing by a big one
 
 ![Picture](../../../assets/images/p101-1.png)
 
-## People build these cool rock cairns, but nature washes them away every spring runoff (2)
+## People build these cool rock cairns, but nature washes them away every spring runoff
 
 ---
 
-### Picture (Image missing) Details (3) (2)
+### Picture (Image missing) Details
 
-## Building these cairns is an art, no matter how old you are (2)
+## Building these cairns is an art, no matter how old you are
 
 ---
 
-### Picture (Image missing) Details (4) (2)
+### Picture (Image missing) Details
 
-## The ross creek cairns (2)
+## The ross creek cairns
 
 ---
 
 ![Picture](../../../assets/images/11062021150p-1.jpg)
 
-## The cabinet mountain wilderness from near the ross creek cedars (2)
+## The cabinet mountain wilderness from near the ross creek cedars
 
 ---

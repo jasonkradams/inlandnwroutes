@@ -7,7 +7,7 @@ tags:
 
 ---
 
-## Trail heros (2)
+## Trail heros
 
 Below are a few of the trail heros in and around spokane & cda. The next time you see one of them, buy them
 a beer, then give them a hug. most of the heros you see here are members of the spokane mountaineers

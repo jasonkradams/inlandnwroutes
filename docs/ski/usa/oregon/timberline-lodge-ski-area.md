@@ -127,7 +127,7 @@ Summit Meadows. The camp included numerous eight-man canvas tents, a mess hall, 
 often sent their savings to struggling unemployed family members. A caravan of trucks would take the workers
 to the construction site every morning.
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 the shining
 

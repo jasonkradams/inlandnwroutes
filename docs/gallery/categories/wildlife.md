@@ -7,7 +7,7 @@ tags:
 
 ---
 
-## Wildlife (2)
+## Wildlife
 
 ## Click on image to enlarge
 

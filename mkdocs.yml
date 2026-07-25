@@ -36,7 +36,7 @@ theme:
   features:
     - content.action.edit
     - content.code.copy
-    # - navigation.indexes
+    - navigation.indexes
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
@@ -750,7 +750,8 @@ nav:
       - Sego Lily: wildflowers/white/sego-lily.md
 - Resources:
   - Conservation and Like-Minded Organizations:
-    - Washington Trails Association: resources/conservation-and-like-minded-organizations/washington-trails-association.md
+    - Washington Trails Association:
+      - resources/conservation-and-like-minded-organizations/washington-trails-association.md
     - Idaho Trails Association: resources/conservation-and-like-minded-organizations/idaho-trails-association.md
     - Spokane Mountaineers: resources/conservation-and-like-minded-organizations/spokane-mountaineers.md
     - Spokane Canoe and Kayak Club: resources/conservation-and-like-minded-organizations/spokane-canoe-and-kayak-club.md
@@ -835,7 +836,6 @@ nav:
   - Glacier Np: glacier-np.md
   - Home: home.md
   - Hot Springs Rev3: hot-springs-rev3.md
-  - Index Page: index-page.md
   - Red Lodge: red-lodge.md
   - Route Title Here: route_template.md
   - Scotchman No 2: scotchman-no-2.md

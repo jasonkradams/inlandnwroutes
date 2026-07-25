@@ -83,15 +83,15 @@ Click for Current NOAA Weather Conditions
 
 ## The mighty kootenai river
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## The river as it winds its way down stream
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## In the very late fall, the river gives up its secret places
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 ## Opd posing for me as he moves into place for these unusual images
 

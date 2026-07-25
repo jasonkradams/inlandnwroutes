@@ -84,7 +84,7 @@ NA
 
 ## Walking the caldera's rim with mount bachelor in the distance
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## Images coming.   to contribute, contact chic
 

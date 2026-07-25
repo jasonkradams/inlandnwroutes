@@ -128,7 +128,7 @@ herath
 
 ## Boardwalks protect wet areas
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## West fork lake
 
@@ -140,49 +140,49 @@ herath
 
 ---
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## West fork mountain lookout tower
 
 ---
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 ## West fork lookout tower
 
 ---
 
-### Picture (Image missing) Details (5)
+### Picture (Image missing) Details
 
 ## Lion head and surrounding peak from inside the tower
 
 ---
 
-### Picture (Image missing) Details (6)
+### Picture (Image missing) Details
 
 ## A view of the ridge nnw of the tower. do not miss this walk Image by chris herath
 
-### Picture (Image missing) Details (7)
+### Picture (Image missing) Details
 
 ## Descending the tower
 
 ---
 
-### Picture (Image missing) Details (8)
+### Picture (Image missing) Details
 
 ## Chris pausing on the west fork ridge looking north
 
 ---
 
-### Picture (Image missing) Details (9)
+### Picture (Image missing) Details
 
 ## The famous american selkirks granite
 
-### Picture (Image missing) Details (10)
+### Picture (Image missing) Details
 
 ## Middle caribou lake from west fork's nne ridge image by chris herath
 
-### Picture (Image missing) Details (11)
+### Picture (Image missing) Details
 
 ## When hiking tuff routes, always have well prepared lunches
 
@@ -190,7 +190,7 @@ herath
 
 ## The ridge that the tower is on, is a very beautiful. do not miss it image by chris herath
 
-### Picture (Image missing) Details (12)
+### Picture (Image missing) Details
 
 ## Middle caribou lake with the nne ridge above
 

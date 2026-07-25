@@ -149,7 +149,7 @@ tags:
 
 ---
 
-## Paddle Rev (2)
+## Paddle Rev
 
 ## R & P
 

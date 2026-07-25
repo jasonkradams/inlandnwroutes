@@ -11,7 +11,7 @@ _Spokane County Conservation Futures_
 Because the spokane county parks has such a great website, We have decided to show their website for the
 county conservation parks. click on the area you want to visit for details
 
-## Spokane county conservation futures (2)
+## Spokane county conservation futures
 
 Click to set custom HTML
 

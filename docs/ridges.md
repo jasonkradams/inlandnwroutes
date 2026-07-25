@@ -7,7 +7,7 @@ tags:
 
 ---
 
-## Ridges (2)
+## Ridges
 
 ## Click on image to enlarge
 

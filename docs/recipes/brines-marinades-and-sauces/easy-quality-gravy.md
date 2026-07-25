@@ -29,7 +29,7 @@ meats, to taste.
 
 ---
 
-## Easy quality gravy (2)
+## Easy quality gravy
 
 ---
 

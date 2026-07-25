@@ -118,7 +118,7 @@ in Sandpoint The Shed south of Libby a few miles is on Hwy 2
 
 ## The waterfall between lower & upper geiger lakes
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## Upper geiger lake with lost buck pass
 
@@ -128,7 +128,7 @@ in Sandpoint The Shed south of Libby a few miles is on Hwy 2
 
 ---
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## Trail #360 to lost buck pass
 
@@ -146,7 +146,7 @@ in Sandpoint The Shed south of Libby a few miles is on Hwy 2
 
 ---
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 ## Wanless lake and engle peak
 

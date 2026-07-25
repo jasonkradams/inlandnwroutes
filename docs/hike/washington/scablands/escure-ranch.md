@@ -101,6 +101,6 @@ Harvest Resturant in Spangle. Lenny’s in Cheney
 
 ## Upper towell falls
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## Summer time in the scabs can be hot

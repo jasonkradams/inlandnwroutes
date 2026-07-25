@@ -124,11 +124,11 @@ Jalapeños, Eichardt's, Burger Express, Mr. Sub in Sandpoint
 The unnamed peak to the ne of first two mouth lake The ascent of this face is left of center of the image
 Image by chris herath
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## Myrtle's turtle from the trailhead
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## Above the unnamed peak on the way to the wigwams image by chris herath
 
@@ -138,7 +138,7 @@ Two mouth lakes basin with myrtle’s turtle in background On top of myrtles tur
 
 ---
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 ## 0ne of three lunar landscape. it sits atop myrtle's turtle
 
@@ -146,7 +146,7 @@ Two mouth lakes basin with myrtle’s turtle in background On top of myrtles tur
 
 ## The lunar landscape atop myrtle's turtle image by chris herath
 
-### Picture (Image missing) Details (5)
+### Picture (Image missing) Details
 
 ## Another image of the lunar landscape above myrtle's turtle. image by chris herath
 
@@ -156,7 +156,7 @@ Two mouth lakes basin with myrtle’s turtle in background On top of myrtles tur
 
 ---
 
-### Picture (Image missing) Details (6)
+### Picture (Image missing) Details
 
 ## One of the deep bays west of the main body of the lake
 

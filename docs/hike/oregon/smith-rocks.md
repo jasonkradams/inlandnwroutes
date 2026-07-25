@@ -79,7 +79,7 @@ the world's best rock climbers
 
 ---
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## Snoopy resting after a hard climb
 

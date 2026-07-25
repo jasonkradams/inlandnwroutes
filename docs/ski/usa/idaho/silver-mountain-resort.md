@@ -74,7 +74,7 @@ courtesy of silver mountain
 
 ## While riding the gondola, wardner peak 6200' comes into view
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## Chair 3 in the distance, with chair 4 in the foreground
 
@@ -87,11 +87,11 @@ courtesy of silver mountain
 On top of kellogg peak is a replica of a fire lookout cabin On a sunny ski day, the temps are in the 70°
 range and is a great spot to have lunch with a view
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## Wardner peak with mount spokane in the distance
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 ## Looking north north east from the lookout
 
@@ -99,7 +99,7 @@ range and is a great spot to have lunch with a view
 
 ## An illusive snowbird perched on a limb
 
-### Picture (Image missing) Details (5)
+### Picture (Image missing) Details
 
 Silver's backcountry south of the boarder A warning to snowboarders, do not go south out of bounds its a 1.2
 
@@ -115,11 +115,11 @@ out
 
 ## The gang onn the way to the top of wardner peak
 
-### Picture (Image missing) Details (6)
+### Picture (Image missing) Details
 
 ## Face shots abound at silver mountain Image courtesy of silvermt
 
-### Picture (Image missing) Details (7)
+### Picture (Image missing) Details
 
 ## Silver mountain hosts the special olympics trials
 
@@ -172,7 +172,7 @@ chic. 1.26.2017
 
 ## Silver's spring party
 
-### Picture (Image missing) Details (8)
+### Picture (Image missing) Details
 
 ## The party continues
 
@@ -207,7 +207,7 @@ Bunker Hill lode turned out to be Idaho’s largest mining operation, and today 
 finest skiing and riding found in the Northwest. Bill lived to the rip old age of 21 and was forever known
 as "the $12,000,000 burro."
 
-### Picture (Image missing) Details (9)
+### Picture (Image missing) Details
 
 the founding
 
@@ -223,7 +223,7 @@ chairlift and the Tamarack Lodge, designed by local Coeur d’Alene architect, R
 construction took place on lands owned by the Bunker Hill Mining Company, and in 1973, the Jackass Ski Bowl
 fell into bankruptcy and was taken over by the Bunker Hill Mining Company.
 
-### Picture (Image missing) Details (10)
+### Picture (Image missing) Details
 
 silverhorn
 
@@ -240,7 +240,7 @@ company giving the city the right to operate the ski area in exchange for the pa
 levied against the ski area land and improvements. An adult lift ticket increased from $12 to $14 dollars
 for the first time since the resort opened.
 
-### Picture (Image missing) Details (11)
+### Picture (Image missing) Details
 
 silver mountain resortDuring the mid-1980s, city councilman Wayne Ross came up with the concept of
 
@@ -266,7 +266,7 @@ summer time. During the winter people flocked to the greatly expanded ski area, 
 completely new experience. Everything from the ski runs, to the instructors jackets and lodge was fresh and
 new.
 
-### Picture (Image missing) Details (12)
+### Picture (Image missing) Details
 
 eagle crest, inc.
 
@@ -294,7 +294,7 @@ ski runs, added an additional terrain park, and experienced a surge of popularit
 of activities offered, Silver was rediscovered as a year-round destination, and became a popular destination
 for corporate groups and meetings.
 
-### Picture (Image missing) Details (13)
+### Picture (Image missing) Details
 
 new beginnings
 

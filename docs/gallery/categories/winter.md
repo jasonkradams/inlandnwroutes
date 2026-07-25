@@ -7,7 +7,7 @@ tags:
 
 ---
 
-## Winter (2)
+## Winter
 
 ## Click on the image to enlarge
 

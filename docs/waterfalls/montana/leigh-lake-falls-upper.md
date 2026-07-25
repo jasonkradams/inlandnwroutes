@@ -87,11 +87,11 @@ Click for Current NOAA Weather Conditions
 
 ## This is the first big falls along the north shoreline
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## The paddling crew poses below a snow terminus with a 1,000' cascade
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## Although this cascade is only 600' tall, it is spectacular to paddle by
 
@@ -99,19 +99,19 @@ Click for Current NOAA Weather Conditions
 
 ## A snow terminus, towers above paddlers. the center ridge line above is over 1500'
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 Icebergs float on leigh lake. all the vertical groves in the background, have cascades in early spring
 
-### Picture (Image missing) Details (5)
+### Picture (Image missing) Details
 
 ## A single cascade above the snow terminus is left in mid summer
 
-### Picture (Image missing) Details (6)
+### Picture (Image missing) Details
 
 ## Along the west wall, is a 600' cascade folding many waterfalls
 
-### Picture (Image missing) Details (7)
+### Picture (Image missing) Details
 
 ## Snow levels are about 30+ feet pre year. jane poses for an image before the terminus
 
@@ -119,7 +119,7 @@ Icebergs float on leigh lake. all the vertical groves in the background, have ca
 
 They say, the majority of a berg is below the berg this berg's lower section shows 60' below the surface
 
-### Picture (Image missing) Details (8)
+### Picture (Image missing) Details
 
 ## Each snow terminus or snow field up high produces gigantic amounts of snow Photo by deb pierce
 
@@ -127,7 +127,7 @@ They say, the majority of a berg is below the berg this berg's lower section sho
 
 ## Along the west wall dozens of falls drop to the lake
 
-### Picture (Image missing) Details (9)
+### Picture (Image missing) Details
 
 in the dead of winter, snow accumulates to a depth of well over 30' This snow fuels the waterfalls all
 around

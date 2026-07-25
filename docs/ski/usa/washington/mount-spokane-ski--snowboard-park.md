@@ -53,7 +53,7 @@ To contribute images, contact chic via this website
 
 ## Mount spokane from the selkirk lodge
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## A temperature inversion near the selkirk lodge
 
@@ -115,7 +115,7 @@ form when seasonal cycles of freezing and thawing break larger boulders into sma
 cycles were most numerous during the last ice age, prying apart the broad granite fields seen on Mount
 Spokane today.
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## Felsenmeer on the summit of mount spokane photo by dan coe, wgs/dnr
 

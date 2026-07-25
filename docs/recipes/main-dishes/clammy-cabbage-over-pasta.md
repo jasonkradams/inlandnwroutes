@@ -6,7 +6,7 @@ tags:
 
 # Clammy Cabbage Over Pasta
 
-## Clammy cabbage over pasta (2)
+## Clammy cabbage over pasta
 
 ---
 

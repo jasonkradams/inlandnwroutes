@@ -109,11 +109,11 @@ Click for Current NOAA Weather Conditions
 
 ## Chris heating up my homemade chicken & rice soup
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## What a lunch spot
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## The outhouse is down hill to the south
 
@@ -145,7 +145,7 @@ Click for Current NOAA Weather Conditions
 
 ## The mollies 👇🏻                                       phoebe tip 👇🏻
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 ## Looking sw towards upper priest lake
 
@@ -155,11 +155,11 @@ Click for Current NOAA Weather Conditions
 
 ## The american selkirk's "seven sisters"
 
-### Picture (Image missing) Details (5)
+### Picture (Image missing) Details
 
 ## Shorty peak lookout as the sun sets
 
-### Picture (Image missing) Details (6)
+### Picture (Image missing) Details
 
 ## There's nothing like a sunset in the mountains
 

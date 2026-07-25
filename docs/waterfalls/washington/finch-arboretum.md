@@ -76,11 +76,11 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## Garden spring creek cascades often
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## Soon all this grass will be covered in yellow leaves
 
@@ -94,7 +94,7 @@ Click for Current NOAA Weather Conditions
 
 ---
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 ## There are several places to sit and watch the day go by
 
@@ -104,13 +104,13 @@ Click for Current NOAA Weather Conditions
 
 ## This is a one of a kind image. the tree fell a few years ago
 
-### Picture (Image missing) Details (5)
+### Picture (Image missing) Details
 
 ## The next three images show the carpet of yellow along garden spring creek
 
 ![Picture](../../assets/images/11052021551p.jpg)
 
-### Picture (Image missing) Details (6)
+### Picture (Image missing) Details
 
 ![Picture](../../assets/images/11052021553p.jpg)
 

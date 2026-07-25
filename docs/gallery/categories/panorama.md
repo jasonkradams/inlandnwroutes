@@ -7,7 +7,7 @@ tags:
 
 ---
 
-## Panorama (2)
+## Panorama
 
 ---
 

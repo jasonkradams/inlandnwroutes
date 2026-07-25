@@ -92,9 +92,9 @@ Jalapeños, Burger Express, Eichardt’s, Mr. Sub
 
 ## The mickinnick hike from gold hill Image by rick nolting
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
-## The mickinnick hike from gold hill Image by rick nolting (2)
+## The mickinnick hike from gold hill Image by rick nolting
 
 ![Picture](../../../assets/images/103120231041p.jpg)
 

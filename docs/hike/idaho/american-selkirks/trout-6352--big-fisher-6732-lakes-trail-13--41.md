@@ -101,7 +101,7 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
 ---
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## Trout lake & peak from the south east.  image by chris herath
 

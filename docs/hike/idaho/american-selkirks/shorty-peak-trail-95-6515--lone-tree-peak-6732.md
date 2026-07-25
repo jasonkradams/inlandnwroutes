@@ -110,11 +110,11 @@ this lookout
 
 ---
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## The three tallest peak are in the lion head group
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## Chris heating up my homemade chicken & rice soup i made
 
@@ -122,7 +122,7 @@ this lookout
 
 The short hike to lone tree peak 6732'. Shorty peak 6515', the purcell trench, and cascade ridge
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 ## Shorty peak and lookout from lone tree peak 6732'
 
@@ -134,7 +134,7 @@ The short hike to lone tree peak 6732'. Shorty peak 6515', the purcell trench, a
 
 ## Chic taking in the view of the american selkirks
 
-### Picture (Image missing) Details (5)
+### Picture (Image missing) Details
 
 ## Chic sitting on the deck admiring the view
 

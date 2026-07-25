@@ -56,7 +56,7 @@ tags:
 
 ## value: Leaves, flowering tops and flowers
 
-## Red Dead Nettle (2)
+## Red Dead Nettle
 
 ## Photo gallery
 
@@ -70,6 +70,6 @@ tags:
 
 ### Picture (Image missing) Details
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ### Picture (Image missing) Details (3)

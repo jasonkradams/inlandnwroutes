@@ -69,13 +69,13 @@ South Falls Lodge
 
 ![Picture](../../assets/images/11302022848p.jpg)
 
-## North falls 136' (2)
+## North falls 136'
 
 ### Picture (Image missing) Details
 
 ## North falls from the trail in the above image
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## Most all the trail are outstanding
 
@@ -87,11 +87,11 @@ South Falls Lodge
 
 ## Close up of upper north falls
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
-## North falls 136' (2) (2)
+## North falls 136' (2)
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 ## Close up of the bottom of north falls
 
@@ -103,7 +103,7 @@ South Falls Lodge
 
 ## Did i mention lushness, this trail is exceptional
 
-### Picture (Image missing) Details (5)
+### Picture (Image missing) Details
 
 ## Silver creek
 

@@ -134,11 +134,11 @@ NA
 
 ## A pano of stony lake
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## First view of stony lake
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## A spectacular lake, and no one around
 

@@ -127,7 +127,7 @@ tags:
 
 ## Diamond lake, cliff lake, & eagle cliff peak 7543'
 
-## Description (2)
+## Description
 
 Whether before or after the hike, be sure to check out the falls below the parking area. There is an
 outhouse here. Trail #100 follows along side Diamond Lake for one mile to Cliff Lake.
@@ -142,18 +142,18 @@ After spending some time enjoying the lake, hike south to a gap to the SE of the
 1629’ above the lake on a steep "route" that you should not be miss. The views from atop Eagle Cliff Peak
 are stunning.
 
-## Directions (2)
+## Directions
 
 From Interstate 90 take the Dry Creek exit #43 turn south on the Dry Creek Frontage Road 69. Follow Road 69
 to the junction of Dry Creek Road 342. Turn west onto the Dry Creek Road and drive 9.5 miles to the junction
 of Diamond Lake Road 7843. Turn south and drive 4.1 miles to Diamond Lake. There is ample parking in this
 area. Trail #100 starts on the west side of the bridge.
 
-## Hazards (2)
+## Hazards
 
 The route to Eagle Cliff Peak is very steep.
 
-## Cool things close by (2)
+## Cool things close by
 
 Heart Lake, Little Joe Slide, Ward & Eagle Peaks.
 
@@ -163,7 +163,7 @@ Pizza Factory & the 1313 Club in Wallace. Radio Brewing in Kellogg. The Snake Pi
 
 ---
 
-## Photo gallery (2)
+## Photo gallery
 
 ---
 

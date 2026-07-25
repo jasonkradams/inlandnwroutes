@@ -92,7 +92,7 @@ Jalapeños, Eichardt’s, Burger Express, Mr. Sub in Sandpoint
 
 ## In the shoulder months, this hike is excellent
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## This trail offers many unique photo opportunities
 
@@ -100,7 +100,7 @@ Jalapeños, Eichardt’s, Burger Express, Mr. Sub in Sandpoint
 
 The higher you get on the trail towards joe peak & lake the more snow you will encounter in roctober
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## Chris nearing the top of joe peak
 
@@ -112,7 +112,7 @@ The higher you get on the trail towards joe peak & lake the more snow you will e
 
 ## Joe peak from the south end of hidden lake
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 ## Along the south shore, this rock has made a friend
 

@@ -38,14 +38,14 @@ very warm, but lack style i highly recommend them
 
 ![Picture](../../assets/images/12062023933p.jpg)
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ![Picture](../../assets/images/12062023934p.jpg)
 
 Jet fuel by test pilot I bought this product at lookout sports in kellogg. it is very good in most all
 conditions including wet snow
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 Skiboards need wax like cars need oil. Most base damage is due to abrasion, exposure and age. Waxing
 regularly

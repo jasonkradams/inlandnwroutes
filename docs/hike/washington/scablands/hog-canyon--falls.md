@@ -70,7 +70,7 @@ private property.
 Drive west on I-90 to exit 254, and head south on the Sprague Highway almost 2.5 miles, and turn left (east)
 onto the Fishtrap Road for a little over a half a mile to the trailhead on your left.
 
-### Hog Lake Trailhead (2)
+### Hog Lake Trailhead
 
 Drive west on I-90 to exit 254 and cross over the freeway onto Sprague Highway. In about a mile, turn left
 (east) onto the Jack Brown Road for 1.3 miles to the Lake Valley Road and a multi-use parking area.

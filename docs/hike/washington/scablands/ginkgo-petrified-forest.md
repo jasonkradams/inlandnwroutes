@@ -63,7 +63,7 @@ Michael's Market & Bistro in Moses Lake
 
 ---
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## Coyote skeleton?
 
@@ -93,7 +93,7 @@ Michael's Market & Bistro in Moses Lake
 
 ---
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## Overlooking i-90 where it crosses the columbia river at vantage
 
@@ -105,19 +105,19 @@ Michael's Market & Bistro in Moses Lake
 
 ---
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
-## bighorn sheep (2)
+## bighorn sheep
 
 ---
 
-### Picture (Image missing) Details (5)
+### Picture (Image missing) Details
 
 ##
 
 ---
 
-### Picture (Image missing) Details (6)
+### Picture (Image missing) Details
 
 ## American kestrel
 
@@ -135,19 +135,19 @@ Michael's Market & Bistro in Moses Lake
 
 ---
 
-### Picture (Image missing) Details (7)
+### Picture (Image missing) Details
 
-## petrified wood (2)
+## petrified wood
 
 ---
 
-### Picture (Image missing) Details (8)
+### Picture (Image missing) Details
 
 ## Death camas
 
 ---
 
-### Picture (Image missing) Details (9)
+### Picture (Image missing) Details
 
 ##
 
@@ -163,27 +163,27 @@ Michael's Market & Bistro in Moses Lake
 
 ---
 
-### Picture (Image missing) Details (10)
+### Picture (Image missing) Details
 
 ##
 
 ---
 
-### Picture (Image missing) Details (11)
+### Picture (Image missing) Details
 
 ## Simpson hedgehog cactus
 
 ---
 
-### Picture (Image missing) Details (12)
+### Picture (Image missing) Details
 
 ##
 
 ---
 
-### Picture (Image missing) Details (13)
+### Picture (Image missing) Details
 
-## simpson hedgehog cactus (2)
+## simpson hedgehog cactus
 
 ---
 
@@ -193,7 +193,7 @@ Michael's Market & Bistro in Moses Lake
 
 ---
 
-### Picture (Image missing) Details (14)
+### Picture (Image missing) Details
 
 ##
 

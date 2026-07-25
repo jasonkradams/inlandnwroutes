@@ -7,7 +7,7 @@ tags:
 
 ---
 
-## Fireworks (2)
+## Fireworks
 
 Shooting fireworks No matter what system you are using, you need to make long exposure to get the image you
 want. A tripod is the key to not having blurry images. Next you will need a cable release or a bluetooth or

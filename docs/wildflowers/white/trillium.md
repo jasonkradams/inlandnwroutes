@@ -164,6 +164,6 @@ past it's pollination stage. Found in the i.p.n.f
 
 ### Picture (Image missing) Details
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ### Picture (Image missing) Details (3)

@@ -93,7 +93,7 @@ Click for Current NOAA Weather Conditions
 
 ## The cedar grove conservation area
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## The bridge at the cedar grove
 
@@ -101,8 +101,8 @@ Click for Current NOAA Weather Conditions
 
 ## The libert lake regional park waterfalls
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 ## Walking out at twilight. the main road on the left is sprague ave

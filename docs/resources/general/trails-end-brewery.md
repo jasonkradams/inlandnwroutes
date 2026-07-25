@@ -8,7 +8,7 @@ tags:
 ![Trails End Brewery](../../assets/images/logo_orig.png)
 _Trails End Brewery_
 
-## Trails end brewery (2)
+## Trails end brewery
 
 **TRAILS END is a feeling:****** It’s that simultaneous feeling of exhaustion and exhilaration at the end of
 the trail you just hiked, climbed,

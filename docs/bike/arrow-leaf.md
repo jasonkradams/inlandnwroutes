@@ -9,7 +9,7 @@ tags:
 ![Arrow Leaf](../assets/images/889206359.jpg)
 _Arrow Leaf_
 
-## Arrow leaf (2)
+## Arrow leaf
 
 trailforks widget start[ArrowLeaf](https://www.trailforks.com/trails/arrowleaf-245711/) on
 [Trailforks.com](https://www.trailforks.com/)

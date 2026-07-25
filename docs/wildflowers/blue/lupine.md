@@ -119,15 +119,15 @@ and escaped cultivation.
 
 ## Aging lupine
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## Fields of lupine blanket some areas
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
-## Aging lupine (2)
+## Aging lupine
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 ## On the trail to lunch peak & mount pend orielle The lead in image is also from lunch peak
 

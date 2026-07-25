@@ -112,13 +112,13 @@ For more detailed info, on the great fire of 1910, click the url below
 
 ## A scenic creek crossing
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## West fork placer creek and trail
 
 ---
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## The pulaski tool is used world wide, and by our trail crews in smi & wta
 

@@ -109,22 +109,22 @@ trailforks widget end
 
 ## The southern  end of lower priest lake
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## Cairns about half way up the scree slope
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## Baritoo and fourmile islands in the late morning sun. Image by chris herath
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 ## An image of the lookout from the old days
 
 Built in 1932, this gabled-roofed L-4 cab atop a 10' tower was abruptly destroyed in 1941. There was also a
 patrol point 1/2 mile northwest.
 
-### Picture (Image missing) Details (5)
+### Picture (Image missing) Details
 
 ## A horse pack team delivering supplies to the lookout
 
@@ -132,7 +132,7 @@ patrol point 1/2 mile northwest.
 
 ## A telephoto shoot of mount roothaan & chimney rock image by chris herath
 
-### Picture (Image missing) Details (6)
+### Picture (Image missing) Details
 
 ## A telephoto shoot of harrison peak to the north image by chris herath
 
@@ -140,13 +140,13 @@ patrol point 1/2 mile northwest.
 
 When you drop your pack and turn east, the view is outstanding. the entire american selkirks is before you
 
-### Picture (Image missing) Details (7)
+### Picture (Image missing) Details
 
 ## Chris taking a nap next to the alidade (map stand) on the summit
 
 ---
 
-### Picture (Image missing) Details (8)
+### Picture (Image missing) Details
 
 ## If only this outhouse could talk
 
@@ -154,7 +154,7 @@ When you drop your pack and turn east, the view is outstanding. the entire ameri
 
 ## An outhouse with a view
 
-### Picture (Image missing) Details (9)
+### Picture (Image missing) Details
 
 ## The last view before you descend thru the forest
 

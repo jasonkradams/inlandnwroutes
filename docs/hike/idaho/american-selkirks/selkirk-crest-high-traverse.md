@@ -148,7 +148,7 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 ---
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## Chris admiring the meadows between harrison & little harrison lakes
 
@@ -160,13 +160,13 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 ---
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## The crew posing below the selkirk crest, in the meadows
 
 ---
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 ## The selkirk crest with peak 7171’ on right
 
@@ -178,7 +178,7 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 ---
 
-### Picture (Image missing) Details (5)
+### Picture (Image missing) Details
 
 ## The final drop down to little harrison lake
 
@@ -190,13 +190,13 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 ---
 
-### Picture (Image missing) Details (6)
+### Picture (Image missing) Details
 
 ## Taking a break before the scramble up top right
 
 ---
 
-### Picture (Image missing) Details (7)
+### Picture (Image missing) Details
 
 ## Little harrison lake photo by jennifer stone
 
@@ -208,7 +208,7 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 ---
 
-### Picture (Image missing) Details (8)
+### Picture (Image missing) Details
 
 ## The crew making gear changes on the ascent above little harrison lake
 
@@ -220,7 +220,7 @@ Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
 ---
 
-### Picture (Image missing) Details (9)
+### Picture (Image missing) Details
 
 ## The selkirk crest from the ridge to beehive lake
 

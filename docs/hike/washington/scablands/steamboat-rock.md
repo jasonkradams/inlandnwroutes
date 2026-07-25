@@ -82,7 +82,7 @@ Click for Current NOAA Weather Conditions
 
 ## Lunch on the rock
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## Jeniffer walking along the west shore cliffs
 

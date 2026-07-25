@@ -7,7 +7,7 @@ tags:
 
 ---
 
-## Gallery (2)
+## Gallery
 
 ## Click on image to enlarge
 

@@ -101,9 +101,9 @@ The Snake Pit, and the Radio Brewery in Kellogg. The Moon Time in CDA.
 
 ---
 
-## Little Guard Peak  Lookout (2)
+## Little Guard Peak  Lookout
 
-## Picture (Image missing) (2)
+## Picture (Image missing)
 
 One of the cool things about this rental lookout, Is it has a full kitchen on the bottom level of the cinder
 

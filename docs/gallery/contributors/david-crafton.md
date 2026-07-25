@@ -7,7 +7,7 @@ tags:
 
 ---
 
-## David crafton (2)
+## David crafton
 
 Capturing the light, one slice at a time
 

@@ -162,7 +162,7 @@ rock formation similar to one in the american selkirks? see answer at the end of
 
 ## One of the views from our lunch spot
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## As we ate lunch, i noticed the two different types of rock that makes up this mountain
 
@@ -179,7 +179,7 @@ this image
 
 When i first saw this rock structure, i had imagined it being a camouflage fortress in a james bond movie
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## This is ibex peak from a peak, c.m.w. image by chris h
 

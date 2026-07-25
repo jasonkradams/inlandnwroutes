@@ -7,7 +7,7 @@ tags:
 
 ---
 
-## Rocks (2)
+## Rocks
 
 ## Click on image to enlarge
 

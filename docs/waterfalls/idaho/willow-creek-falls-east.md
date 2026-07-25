@@ -60,7 +60,7 @@ Click for Current NOAA Weather Conditions
 
 ![Picture](../../assets/images/11102021309.jpg)
 
-## 1st WATERFALL (2)
+## 1st WATERFALL
 
 ![Picture](../../assets/images/61420221137a.jpg)
 

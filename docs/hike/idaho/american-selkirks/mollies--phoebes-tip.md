@@ -117,7 +117,7 @@ of center on the horizon
 
 ## Priest lake from the summit of the mollies in clearing fog
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 In this turn of the century image, this was the camp, for fire lookout people. image by ernest grambo
 
@@ -125,7 +125,7 @@ In this turn of the century image, this was the camp, for fire lookout people. i
 
 ---
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## Early fire lookout camps were very primitive. image by ernest grambo
 
@@ -137,7 +137,7 @@ In this turn of the century image, this was the camp, for fire lookout people. i
 
 ## The mollies lookout cabin near the turn of the century. PHOTO BY THEON McMAHON
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 ## The old lookout tower
 

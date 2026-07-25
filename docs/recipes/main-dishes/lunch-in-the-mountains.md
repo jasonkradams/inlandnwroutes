@@ -5,7 +5,7 @@ tags:
 
 # Lunch In The Mountains
 
-## Lunch in the mountains (2)
+## Lunch in the mountains
 
 ---
 

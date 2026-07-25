@@ -8,7 +8,7 @@ tags:
 Stories... we encourage you to send us your writing on human powered sports. please keep them clean and
 short. we do reserve the right to refuse any inappropriate content
 
-## Stories (2)
+## Stories
 
 ## This article is from the Spokane Mountaineers Kinnikinnick archives
 

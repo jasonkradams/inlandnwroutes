@@ -112,13 +112,13 @@ Click for Current NOAA Weather Conditions
 
 ![Picture](../../../assets/images/2021116-28-jpeg-1.jpg)
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ![Picture](../../../assets/images/2021116-31-jpeg-1.jpg)
 
 ## A climbers trail to the cliffs
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
 ## One of many quality climbing walls
 
@@ -126,11 +126,11 @@ Click for Current NOAA Weather Conditions
 
 ## A route to above the cliffs where the protection is done
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 ## Some hard routes
 
-### Picture (Image missing) Details (5)
+### Picture (Image missing) Details
 
 ## Two climbers. one is belaying the climber on the wall
 
@@ -138,13 +138,13 @@ Click for Current NOAA Weather Conditions
 
 ## Some of the climbers trails are great walks. but watch out for poison ivy
 
-### Picture (Image missing) Details (6)
+### Picture (Image missing) Details
 
 ## A trail away from the climbing area to the spokane river
 
 ---
 
-### Picture (Image missing) Details (7)
+### Picture (Image missing) Details
 
 ## A new foot bridge to the spokane river
 
@@ -156,7 +156,7 @@ Click for Current NOAA Weather Conditions
 
 ![Picture](../../../assets/images/2021116-41-jpeg-1.jpg)
 
-### Picture (Image missing) Details (8)
+### Picture (Image missing) Details
 
 ## Spokane river’s south channel avista’s power plant, with intermittent over flow waterfall
 

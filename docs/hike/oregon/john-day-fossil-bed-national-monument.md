@@ -143,7 +143,7 @@ colors up
 
 ## Fossil columns
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## The painted hills unit
 
@@ -153,15 +153,15 @@ colors up
 
 ---
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
-## Painted hills unit (2)
+## Painted hills unit
 
 ---
 
 ![Picture](../../assets/images/2021116-20-jpeg-1.jpg)
 
-## Painted hills unit (2) (2)
+## Painted hills unit (2)
 
 ---
 
@@ -169,7 +169,7 @@ colors up
 
 ## The leaf hill trail & painted cove trail map
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 ## Painted cove from the above trail
 

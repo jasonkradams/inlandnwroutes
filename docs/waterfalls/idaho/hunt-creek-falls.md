@@ -42,10 +42,10 @@ Ardy's Cafe and Moose Knuckle Burgers and Brew
 
 ### Picture (Image missing) Details
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 ---

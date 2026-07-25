@@ -84,13 +84,13 @@ Click for Current NOAA Weather Conditions
 
 ## Tucked back in the rocks is this 60' waterfalls. the next images are of it in sections
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ![Picture](../../assets/images/110420211139a.jpg)
 
-### Picture (Image missing) Details (3)
+### Picture (Image missing) Details
 
-### Picture (Image missing) Details (4)
+### Picture (Image missing) Details
 
 ![Picture](../../assets/images/110420211152a.jpg)
 

@@ -6,7 +6,7 @@ tags:
 
 # Tcda Curried Rice
 
-## Tcda curried rice (2)
+## Tcda curried rice
 
 ---
 

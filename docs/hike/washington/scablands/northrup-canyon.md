@@ -96,7 +96,7 @@ FEET DEEP
 
 ## The newer of the houses with the very old behind
 
-### Picture (Image missing) Details (2)
+### Picture (Image missing) Details
 
 ## Some of the out buildings of the old homestead
 

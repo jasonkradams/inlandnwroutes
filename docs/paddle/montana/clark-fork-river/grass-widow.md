@@ -65,7 +65,7 @@ tags:
 
 ## Grass Widow1
 
-## Grass widow (2)
+## Grass widow
 
 ## Description
 
@@ -106,9 +106,9 @@ admit to being a bit biased, as we wed among those millions
 
 ## of flowers during a break in the rain, with the dogs cavorting and the majestic Columbia River below
 
-## Grass Widow1 (2)
+## Grass Widow1
 
-## Photo gallery (2)
+## Photo gallery
 
 ## To contribute images, contact chic via this website
 
