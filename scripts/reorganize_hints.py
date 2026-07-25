@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: "Backcountry Hints & Field Advice"
 tags:
   - Resources
@@ -197,3 +199,9 @@ Allow freeze-dried food pouches to steep for **20+ minutes** (rather than 10–1
 - **Plan B Alternative Trips:** Roughly 40% of planned outdoor trips get altered due to weather, road closures, or wildfire smoke. Keep a box of regional maps, guidebooks, and backup hike printouts in your vehicle.
 - **Campfire Dousing:** Always carry plastic grocery bags to haul water and submerge campfire coals until cold to the touch.
 - **Journaling & Mentoring:** Keep a detailed trip journal to track trail conditions, road changes, and gear performance. Mentor new hikers to pass down backcountry wisdom.
+"""
+
+with open("docs/resources/general/hints.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized hints.md successfully")
