@@ -94,119 +94,130 @@ hooks:
   - hooks/stat_card.py
   - hooks/tags_index.py
   - hooks/blog_index.py
+  - hooks/blog_tags_index.py
 
 nav:
 - Home: index.md
 - Blog:
   - blog/index.md
-  - Browse by Tag: tags.md
-- Blog Archive:
-  - 34 Cabinet Mountain Wilderness: blog/posts/34-cabinet-mountain-wilderness.md
-  - Airflare Rescue App For Your Phone: blog/posts/airflare-rescue-app-for-your-phone.md
-  - August 15Th 2023: blog/posts/august-15th-2023.md
-  - August 22Nd 2023: blog/posts/august-22nd-2023.md
-  - August 25Th 2023: blog/posts/august-25th-2023.md
-  - Be A Good Stewart: blog/posts/be-a-good-stewart.md
-  - Bears Cats And Other Critters: blog/posts/bears-cats-and-other-critters.md
-  - Blog 100 What Hiking Does For Our Well Being: blog/posts/blog-100-what-hiking-does-for-our-well-being.md
-  - Blog 101 Have You Prepared Your Ski Clothes For Winter Yet: blog/posts/blog-101-have-you-prepared-your-ski-clothes-for-winter-yet.md
-  - Blog 102 Winter Hikes In The Scabs: blog/posts/blog-102-winter-hikes-in-the-scabs.md
-  - Blog 103 Taking The Bad With The Good: blog/posts/blog-103-taking-the-bad-with-the-good.md
-  - Blog 105 Its Waterfall Season: blog/posts/blog-105-its-waterfall-season.md
-  - Blog 106 What A Rescue Looks Like And What You Need To Know: blog/posts/blog-106-what-a-rescue-looks-like-and-what-you-need-to-know.md
-  - Blog 107 Forest Alerts And Closures: blog/posts/blog-107-forest-alerts-and-closures.md
-  - Blog 108 Hydration: blog/posts/blog-108-hydration.md
-  - Blog 108 Our Trails Need Our Help: blog/posts/blog-108-our-trails-need-our-help.md
-  - Blog 44 Determining Snow Depth: blog/posts/blog-44-determining-snow-depth.md
-  - Blog 45 El Nino And Winter Sports: blog/posts/blog-45-el-nino-and-winter-sports.md
-  - Blog 46 Forest Road 634 Is Open: blog/posts/blog-46-forest-road-634-is-open.md
-  - Blog 47 Historical Articles: blog/posts/blog-47-historical-articles.md
-  - Blog 48 Be Cautious As Spring Nears: blog/posts/blog-48-be-cautious-as-spring-nears.md
-  - Blog 49 Spring Wildflowers: blog/posts/blog-49-spring-wildflowers.md
-  - Blog 50 A Way To See Where You Are At If Unclear: blog/posts/blog-50-a-way-to-see-where-you-are-at-if-unclear.md
-  - Blog 51 2024 Two Bear Air Rescue Info: blog/posts/blog-51-2024-two-bear-air-rescue-info.md
-  - Blog 52 Ticks Are In Our Future: blog/posts/blog-52-ticks-are-in-our-future.md
-  - Blog 53 Do Not Fail To Plan: blog/posts/blog-53-do-not-fail-to-plan.md
-  - Blog 54 Blisters: blog/posts/blog-54-blisters.md
-  - Blog 55 Plan Ahead: blog/posts/blog-55-plan-ahead.md
-  - Blog 56 The Best Of The Best Regional Hikes: blog/posts/blog-56-the-best-of-the-best-regional-hikes.md
-  - Blog 57 The Best Of The Best: blog/posts/blog-57-the-best-of-the-best.md
-  - Blog 58 Proposed Scotchman Peak Wilderness: blog/posts/blog-58-proposed-scotchman-peak-wilderness.md
-  - Blog 59 The Colors Of Auroras Explained: blog/posts/blog-59-the-colors-of-auroras-explained.md
-  - Blog 60 Washington Scablands: blog/posts/blog-60-washington-scablands.md
-  - Blog 62 Be Preparedbe Safe: blog/posts/blog-62-be-preparedbe-safe.md
-  - Blog 64 Please Use Common Sense: blog/posts/blog-64-please-use-common-sense.md
-  - Blog 65 Campfires And Your Responsibilities: blog/posts/blog-65-campfires-and-your-responsibilities.md
-  - Blog 66 Please Be Fire Smart: blog/posts/blog-66-please-be-fire-smart.md
-  - Blog 67 Camp Fires: blog/posts/blog-67-camp-fires.md
-  - Blog 68 The Stories Of East Willow Creek: blog/posts/blog-68-the-stories-of-east-willow-creek.md
-  - Blog 70 Weather Planning For Your Outing: blog/posts/blog-70-weather-planning-for-your-outing.md
-  - Blog 71 Fall Hikes Around Our Region: blog/posts/blog-71-fall-hikes-around-our-region.md
-  - Blog 73 Camp Fire Etiquette: blog/posts/blog-73-camp-fire-etiquette.md
-  - Blog 76 Toilet Paper And Slobs In The Mountains: blog/posts/blog-76-toilet-paper-and-slobs-in-the-mountains.md
-  - Blog 77 Home Page Clean Up And More: blog/posts/blog-77-home-page-clean-up-and-more.md
-  - Blog 78 What Do You Do In The Winter To Stay Fit: blog/posts/blog-78-what-do-you-do-in-the-winter-to-stay-fit.md
-  - Blog 80 Winter Sshoeng And Hiking: blog/posts/blog-80-winter-sshoeng-and-hiking.md
-  - Blog 81 An Article On Gps Units: blog/posts/blog-81-an-article-on-gps-units.md
-  - Blog 82 Freezing Temperature While Hiking Or Skiing: blog/posts/blog-82-freezing-temperature-while-hiking-or-skiing.md
-  - Blog 83 A Way To Soothe Your Soul: blog/posts/blog-83-a-way-to-soothe-your-soul.md
-  - Blog 84 Our Trails And Forests Are In Peril: blog/posts/blog-84-our-trails-and-forests-are-in-peril.md
-  - Blog 85 Start Preparing Your Pack For Spring Hiking: blog/posts/blog-85-start-preparing-your-pack-for-spring-hiking.md
-  - Blog 86 How To Waterproof Your Technical Gear: blog/posts/blog-86-how-to-waterproof-your-technical-gear.md
-  - Blog 87 This Blog Is Important For Your Trails: blog/posts/blog-87-this-blog-is-important-for-your-trails.md
-  - Blog 88 Miscellaneous: blog/posts/blog-88-miscellaneous.md
-  - Blog 89 Its Time To Talk The 13 Essentials And More: blog/posts/blog-89-its-time-to-talk-the-13-essentials-and-more.md
-  - Blog 90 Maps Andlost And Foundcommunications: blog/posts/blog-90-maps-andlost-and-foundcommunications.md
-  - Blog 92 Please Put Out Your Or Others Campfires: blog/posts/blog-92-please-put-out-your-or-others-campfires.md
-  - Blog 94 Closures Due To Fire Timber Sales And More: blog/posts/blog-94-closures-due-to-fire-timber-sales-and-more.md
-  - Blog 95 Crowded Hikes And Our New Responsibilities: blog/posts/blog-95-crowded-hikes-and-our-new-responsibilities.md
-  - Blog 96 Autumn Hiking Is Here: blog/posts/blog-96-autumn-hiking-is-here.md
-  - Blog 97 Proper Protection For Hikers During Hunting Season: blog/posts/blog-97-proper-protection-for-hikers-during-hunting-season.md
-  - Blog 98 Autumn And Early Winter Hiking Snowshoeing: blog/posts/blog-98-autumn-and-early-winter-hiking-snowshoeing.md
-  - Blog 99 Winter Hiking: blog/posts/blog-99-winter-hiking.md
-  - Call 911 Only In An Emergency: blog/posts/call-911-only-in-an-emergency.md
-  - Call The Ranger District Before You Go: blog/posts/call-the-ranger-district-before-you-go.md
-  - David And I Would Like Your Help: blog/posts/david-and-i-would-like-your-help.md
-  - December 07Th 2024: blog/posts/december-07th-2024.md
-  - Do Not Wear Cotton In The Mountains: blog/posts/do-not-wear-cotton-in-the-mountains.md
-  - Early Season Hiking: blog/posts/early-season-hiking.md
-  - Fall Hiking: blog/posts/fall-hiking.md
-  - Geology Geography And History: blog/posts/geology-geography-and-history.md
-  - Going To The Office In The Wallowas: blog/posts/going-to-the-office-in-the-wallowas.md
-  - Human Caused Wildfires: blog/posts/human-caused-wildfires.md
-  - Hydration: blog/posts/hydration.md
-  - Inaturalist: blog/posts/inaturalist.md
-  - Its Always Fun To Find Your First Flower When The Snow Melts Yellow Bells Fritillaria Pudica: blog/posts/its-always-fun-to-find-your-first-flower-when-the-snow-melts-yellow-bells-fritillaria-pudica.md
-  - July 06Th 2023: blog/posts/july-06th-2023.md
-  - July 29Th 2023: blog/posts/july-29th-2023.md
-  - Learn And Be Safe: blog/posts/learn-and-be-safe.md
-  - Learn To Observe Your Surroundings: blog/posts/learn-to-observe-your-surroundings.md
-  - Liability Release: blog/posts/liability-release.md
-  - Litter: blog/posts/litter.md
-  - March 18Th 2023: blog/posts/march-18th-2023.md
-  - May 05Th 2023: blog/posts/may-05th-2023.md
-  - May 25Th 2024: blog/posts/may-25th-2024.md
-  - National Forest Alerts Blm Alerts And Wildfire Info: blog/posts/national-forest-alerts-blm-alerts-and-wildfire-info.md
-  - Newsletter And Website Updates: newsletter-and-website-updates.md
-  - November 19Th 2023: blog/posts/november-19th-2023.md
-  - October 03Rd 2024: blog/posts/october-03rd-2024.md
-  - October 16Th 2024: blog/posts/october-16th-2024.md
-  - Othello Sandhill Crane Festival: blog/posts/othello-sandhill-crane-festival.md
-  - Regional Forest Closures: blog/posts/regional-forest-closures.md
-  - Rock Wren Lower Crab Creek: blog/posts/rock-wren-lower-crab-creek.md
-  - September 21St 2023: blog/posts/september-21st-2023.md
-  - Sprained Ankles: blog/posts/sprained-ankles.md
-  - Sshoeing Areas Close To Nearby Roads: blog/posts/sshoeing-areas-close-to-nearby-roads.md
-  - Stevens Lakes Peak Massive Avalanche: blog/posts/stevens-lakes-peak-massive-avalanche.md
-  - Sun Protection: blog/posts/sun-protection.md
-  - The Best Fall Colors Hikes In Our Region: blog/posts/the-best-fall-colors-hikes-in-our-region.md
-  - The Importance Of Carrying A Pack 13 Essentials: blog/posts/the-importance-of-carrying-a-pack-13-essentials.md
-  - The Latest From The Montana Fwp: blog/posts/the-latest-from-the-montana-fwp.md
-  - Time To Treat Your Outdoor Gear: blog/posts/time-to-treat-your-outdoor-gear.md
-  - Treespnwcom: blog/posts/treespnwcom.md
-  - Usfs Other Age Closures Alertsncies: blog/posts/usfs-other-age-closures-alertsncies.md
-  - Using Your Phone To Navigate A Hike: blog/posts/using-your-phone-to-navigate-a-hike.md
-  - What Does A Rescue Look Like: blog/posts/what-does-a-rescue-look-like.md
+  - Browse by Tag: blog/tags.md
+  - Archive:
+    - 34 Cabinet Mountain Wilderness: blog/posts/34-cabinet-mountain-wilderness.md
+    - Airflare Rescue App For Your Phone: blog/posts/airflare-rescue-app-for-your-phone.md
+    - August 15Th 2023: blog/posts/august-15th-2023.md
+    - August 22Nd 2023: blog/posts/august-22nd-2023.md
+    - August 25Th 2023: blog/posts/august-25th-2023.md
+    - Be A Good Stewart: blog/posts/be-a-good-stewart.md
+    - Bears Cats And Other Critters: blog/posts/bears-cats-and-other-critters.md
+    - Blog 100 What Hiking Does For Our Well Being: blog/posts/blog-100-what-hiking-does-for-our-well-being.md
+    - Blog 101 Have You Prepared Your Ski Clothes For Winter Yet: blog/posts/blog-101-have-you-prepared-your-ski-clothes-for-winter-yet.md
+    - Blog 102 Winter Hikes In The Scabs: blog/posts/blog-102-winter-hikes-in-the-scabs.md
+    - Blog 103 Taking The Bad With The Good: blog/posts/blog-103-taking-the-bad-with-the-good.md
+    - Blog 105 Its Waterfall Season: blog/posts/blog-105-its-waterfall-season.md
+    - Blog 106 What A Rescue Looks Like And What You Need To Know: blog/posts/blog-106-what-a-rescue-looks-like-and-what-you-need-to-know.md
+    - Blog 107 Forest Alerts And Closures: blog/posts/blog-107-forest-alerts-and-closures.md
+    - Blog 108 Hydration: blog/posts/blog-108-hydration.md
+    - Blog 108 Our Trails Need Our Help: blog/posts/blog-108-our-trails-need-our-help.md
+    - Blog 44 Determining Snow Depth: blog/posts/blog-44-determining-snow-depth.md
+    - Blog 45 El Nino And Winter Sports: blog/posts/blog-45-el-nino-and-winter-sports.md
+    - Blog 46 Forest Road 634 Is Open: blog/posts/blog-46-forest-road-634-is-open.md
+    - Blog 47 Historical Articles: blog/posts/blog-47-historical-articles.md
+    - Blog 48 Be Cautious As Spring Nears: blog/posts/blog-48-be-cautious-as-spring-nears.md
+    - Blog 49 Spring Wildflowers: blog/posts/blog-49-spring-wildflowers.md
+    - Blog 50 A Way To See Where You Are At If Unclear: blog/posts/blog-50-a-way-to-see-where-you-are-at-if-unclear.md
+    - Blog 51 2024 Two Bear Air Rescue Info: blog/posts/blog-51-2024-two-bear-air-rescue-info.md
+    - Blog 52 Ticks Are In Our Future: blog/posts/blog-52-ticks-are-in-our-future.md
+    - Blog 53 Do Not Fail To Plan: blog/posts/blog-53-do-not-fail-to-plan.md
+    - Blog 54 Blisters: blog/posts/blog-54-blisters.md
+    - Blog 55 Plan Ahead: blog/posts/blog-55-plan-ahead.md
+    - Blog 56 The Best Of The Best Regional Hikes: blog/posts/blog-56-the-best-of-the-best-regional-hikes.md
+    - Blog 57 The Best Of The Best: blog/posts/blog-57-the-best-of-the-best.md
+    - Blog 58 Proposed Scotchman Peak Wilderness: blog/posts/blog-58-proposed-scotchman-peak-wilderness.md
+    - Blog 59 The Colors Of Auroras Explained: blog/posts/blog-59-the-colors-of-auroras-explained.md
+    - Blog 60 Washington Scablands: blog/posts/blog-60-washington-scablands.md
+    - Blog 62 Be Preparedbe Safe: blog/posts/blog-62-be-preparedbe-safe.md
+    - Blog 64 Please Use Common Sense: blog/posts/blog-64-please-use-common-sense.md
+    - Blog 65 Campfires And Your Responsibilities: blog/posts/blog-65-campfires-and-your-responsibilities.md
+    - Blog 66 Please Be Fire Smart: blog/posts/blog-66-please-be-fire-smart.md
+    - Blog 67 Camp Fires: blog/posts/blog-67-camp-fires.md
+    - Blog 68 The Stories Of East Willow Creek: blog/posts/blog-68-the-stories-of-east-willow-creek.md
+    - Blog 70 Weather Planning For Your Outing: blog/posts/blog-70-weather-planning-for-your-outing.md
+    - Blog 71 Fall Hikes Around Our Region: blog/posts/blog-71-fall-hikes-around-our-region.md
+    - Blog 73 Camp Fire Etiquette: blog/posts/blog-73-camp-fire-etiquette.md
+    - Blog 76 Toilet Paper And Slobs In The Mountains: blog/posts/blog-76-toilet-paper-and-slobs-in-the-mountains.md
+    - Blog 77 Home Page Clean Up And More: blog/posts/blog-77-home-page-clean-up-and-more.md
+    - Blog 78 What Do You Do In The Winter To Stay Fit: blog/posts/blog-78-what-do-you-do-in-the-winter-to-stay-fit.md
+    - Blog 80 Winter Sshoeng And Hiking: blog/posts/blog-80-winter-sshoeng-and-hiking.md
+    - Blog 81 An Article On Gps Units: blog/posts/blog-81-an-article-on-gps-units.md
+    - Blog 82 Freezing Temperature While Hiking Or Skiing: blog/posts/blog-82-freezing-temperature-while-hiking-or-skiing.md
+    - Blog 83 A Way To Soothe Your Soul: blog/posts/blog-83-a-way-to-soothe-your-soul.md
+    - Blog 84 Our Trails And Forests Are In Peril: blog/posts/blog-84-our-trails-and-forests-are-in-peril.md
+    - Blog 85 Start Preparing Your Pack For Spring Hiking: blog/posts/blog-85-start-preparing-your-pack-for-spring-hiking.md
+    - Blog 86 How To Waterproof Your Technical Gear: blog/posts/blog-86-how-to-waterproof-your-technical-gear.md
+    - Blog 87 This Blog Is Important For Your Trails: blog/posts/blog-87-this-blog-is-important-for-your-trails.md
+    - Blog 88 Miscellaneous: blog/posts/blog-88-miscellaneous.md
+    - Blog 89 Its Time To Talk The 13 Essentials And More: blog/posts/blog-89-its-time-to-talk-the-13-essentials-and-more.md
+    - Blog 90 Maps Andlost And Foundcommunications: blog/posts/blog-90-maps-andlost-and-foundcommunications.md
+    - Blog 92 Please Put Out Your Or Others Campfires: blog/posts/blog-92-please-put-out-your-or-others-campfires.md
+    - Blog 94 Closures Due To Fire Timber Sales And More: blog/posts/blog-94-closures-due-to-fire-timber-sales-and-more.md
+    - Blog 95 Crowded Hikes And Our New Responsibilities: blog/posts/blog-95-crowded-hikes-and-our-new-responsibilities.md
+    - Blog 96 Autumn Hiking Is Here: blog/posts/blog-96-autumn-hiking-is-here.md
+    - Blog 97 Proper Protection For Hikers During Hunting Season: blog/posts/blog-97-proper-protection-for-hikers-during-hunting-season.md
+    - Blog 98 Autumn And Early Winter Hiking Snowshoeing: blog/posts/blog-98-autumn-and-early-winter-hiking-snowshoeing.md
+    - Blog 99 Winter Hiking: blog/posts/blog-99-winter-hiking.md
+    - Call 911 Only In An Emergency: blog/posts/call-911-only-in-an-emergency.md
+    - Call The Ranger District Before You Go: blog/posts/call-the-ranger-district-before-you-go.md
+    - David And I Would Like Your Help: blog/posts/david-and-i-would-like-your-help.md
+    - December 07Th 2024: blog/posts/december-07th-2024.md
+    - Do Not Wear Cotton In The Mountains: blog/posts/do-not-wear-cotton-in-the-mountains.md
+    - Early Season Hiking: blog/posts/early-season-hiking.md
+    - Fall Hiking: blog/posts/fall-hiking.md
+    - Geology Geography And History: blog/posts/geology-geography-and-history.md
+    - Going To The Office In The Wallowas: blog/posts/going-to-the-office-in-the-wallowas.md
+    - Human Caused Wildfires: blog/posts/human-caused-wildfires.md
+    - Hydration: blog/posts/hydration.md
+    - Inaturalist: blog/posts/inaturalist.md
+    - Its Always Fun To Find Your First Flower When The Snow Melts Yellow Bells Fritillaria Pudica: blog/posts/its-always-fun-to-find-your-first-flower-when-the-snow-melts-yellow-bells-fritillaria-pudica.md
+    - July 06Th 2023: blog/posts/july-06th-2023.md
+    - July 29Th 2023: blog/posts/july-29th-2023.md
+    - Learn And Be Safe: blog/posts/learn-and-be-safe.md
+    - Learn To Observe Your Surroundings: blog/posts/learn-to-observe-your-surroundings.md
+    - Liability Release: blog/posts/liability-release.md
+    - Litter: blog/posts/litter.md
+    - March 18Th 2023: blog/posts/march-18th-2023.md
+    - May 05Th 2023: blog/posts/may-05th-2023.md
+    - May 25Th 2024: blog/posts/may-25th-2024.md
+    - National Forest Alerts Blm Alerts And Wildfire Info: blog/posts/national-forest-alerts-blm-alerts-and-wildfire-info.md
+    - Newsletter And Website Updates: newsletter-and-website-updates.md
+    - November 19Th 2023: blog/posts/november-19th-2023.md
+    - October 03Rd 2024: blog/posts/october-03rd-2024.md
+    - October 16Th 2024: blog/posts/october-16th-2024.md
+    - Othello Sandhill Crane Festival: blog/posts/othello-sandhill-crane-festival.md
+    - Regional Forest Closures: blog/posts/regional-forest-closures.md
+    - Rock Wren Lower Crab Creek: blog/posts/rock-wren-lower-crab-creek.md
+    - September 21St 2023: blog/posts/september-21st-2023.md
+    - Sprained Ankles: blog/posts/sprained-ankles.md
+    - Sshoeing Areas Close To Nearby Roads: blog/posts/sshoeing-areas-close-to-nearby-roads.md
+    - Stevens Lakes Peak Massive Avalanche: blog/posts/stevens-lakes-peak-massive-avalanche.md
+    - Sun Protection: blog/posts/sun-protection.md
+    - The Best Fall Colors Hikes In Our Region: blog/posts/the-best-fall-colors-hikes-in-our-region.md
+    - The Importance Of Carrying A Pack 13 Essentials: blog/posts/the-importance-of-carrying-a-pack-13-essentials.md
+    - The Latest From The Montana Fwp: blog/posts/the-latest-from-the-montana-fwp.md
+    - Time To Treat Your Outdoor Gear: blog/posts/time-to-treat-your-outdoor-gear.md
+    - Treespnwcom: blog/posts/treespnwcom.md
+    - Usfs Other Age Closures Alertsncies: blog/posts/usfs-other-age-closures-alertsncies.md
+    - Using Your Phone To Navigate A Hike: blog/posts/using-your-phone-to-navigate-a-hike.md
+    - What Does A Rescue Look Like: blog/posts/what-does-a-rescue-look-like.md
+- 14+ Essentials: 14-essentials.md
+- Activities:
+  - Hike:
+    - hike.md
+    - St. Joe Lake & Illinois Peak: st-joe-lake--illinois-peak.md
+    - Canada:
+      - The Bugaboos: the-bugaboos.md
+    - Idaho:
+      - American Selkirks: american-selkirks.md
+#               - Bottleneck Lake Peak: bottleneck-lake--peak.md
 - Flora & Wildlife:
   - Baker's Mariposa Lily: plants/bakers-mariposa-lily.md
   - Orange Day Lily: plants/orange-day-lily.md
@@ -478,7 +489,6 @@ nav:
   - Adages: adages.md
   - Alpine Laurel: plants/alpine-laurel.md
   - Alpine Sweet Vetch: plants/alpine-sweet-vetch.md
-  - American Selkirks: american-selkirks.md
   - Amy Voeller: amy-voeller.md
   - Arrow Leaf: plants/arrow-leaf.md
   - Atmosphere: atmosphere.md
@@ -777,7 +787,6 @@ nav:
   - Trail Etiquette And Skills: trail-etiquette-and-skills.md
   - Upper & Lower Snow Creek Falls: u--l-snow-creek-falls.md
   - Whitewater Ski Resort: ski/whitewater-ski-resort.md
-- 14+ Essentials: 14-essentials.md
 - About:
   - 'Biography :: Chic': biography--chic.md
   - 'Biography :: David': biography--david.md

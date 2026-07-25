@@ -1,0 +1,14 @@
+"""Generate the dynamic category index for `docs/blog/tags.md`."""
+import os
+import sys
+
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
+from scripts.generate_blog_tags_page import generate_blog_tags_content
+
+
+def on_page_markdown(markdown, page, config, files):
+    if page.file.src_path.replace("\\", "/") == "blog/tags.md":
+        docs_dir = config.get("docs_dir", "docs")
+        return generate_blog_tags_content(docs_dir)
+    return markdown
