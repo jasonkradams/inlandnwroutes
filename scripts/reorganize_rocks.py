@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 tags:
   - Rocks & Geology
   - Photo Gallery
@@ -41,3 +43,10 @@ _Rare Orbicular Rock (Orbiculite) specimen discovered above Ball Lakes in the Am
 On an exploratory hike led in the American Selkirks above Ball Lakes, fellow hiker Darcy Varone discovered a rock formation that none of us had ever encountered before. Detailed field photographs and geological research revealed that this specimen is an **Orbicular Rock** (or *Orbiculite*)—an exceedingly rare igneous rock texture characterized by concentric spherical shells, documented in slightly more than 100 locations worldwide.
 
 Dr. Steven Box, PhD Research Geologist with the U.S. Geological Survey (USGS) in Spokane, officially verified the specimen as authentic orbicular rock. USGS technical papers confirm that this American Selkirks discovery is extraordinarily rare, with the nearest documented regional occurrence located in Nevada.
+"""
+
+target_path = "docs/gallery/categories/rocks.md"
+with open(target_path, "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Reorganized rocks.md successfully")
