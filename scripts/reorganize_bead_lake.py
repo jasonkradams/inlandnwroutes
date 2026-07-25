@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: Bead Lake Launch
 tags:
   - Paddling & Rivers
@@ -61,3 +63,9 @@ Located in the Colville National Forest north of Newport, Washington, **Bead Lak
 
 ![Bead Lake USFS Launch Ramp and Dock](../../../assets/images/20201012172607_orig.jpg)
 _Bead Lake USFS Launch Ramp and Dock._
+"""
+
+with open("docs/paddle/washington/eastern-washington/bead-lake-launch.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized bead-lake-launch.md successfully")
