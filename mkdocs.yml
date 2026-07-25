@@ -1,6 +1,6 @@
 
 site_name: INLAND NW ROUTES
-site_url: http://localhost:8000
+site_url: https://jasonkradams.github.io/inlandnwroutes
 site_description: A comprehensive guide to hiking and scrambling in the American Selkirks, Cabinet Mountain Wilderness, the Bitterroots and more.
 theme:
   name: material
@@ -841,9 +841,6 @@ nav:
   - Spokane County Parks Conservation Futures Properties: spokane-county-parks-conservation-futures-properties.md
   - Website Notes: website-notes.md
   - Ski: ski/ski.md
-- Store:
-  - Store/C1/Featured_Products: store/c1/Featured_Products.md
-  - Store/P1/Washington: store/p1/WASHINGTON.md
 - About:
   - 'Biography :: Chic': biography--chic.md
   - 'Biography :: David': biography--david.md

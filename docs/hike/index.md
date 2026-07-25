@@ -14,8 +14,6 @@ _Hiking & Scrambling Regional Portal_
 
 Welcome to the Inland NW Routes Hiking & Scrambling portal! As you explore the route guides below, select any regional destination to discover detailed trail statistics, historical context, geographic overviews, and regional geology reports for each area.
 
-![Man Hiking Down a Mountain](../assets/images/hike-region-map.jpg)
-
 ---
 
 ## Regional Hiking Areas Map

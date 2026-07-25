@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 tags:
   - Waterfalls
   - Easy
@@ -137,3 +139,10 @@ _Upper Priest River Falls, also known as American Falls._
 
 ![Long exposure view of American Falls cascading over granite ledges](../../../assets/images/10232023120p.jpg)
 _Long exposure view of American Falls cascading over granite ledges._
+"""
+
+target_path = "docs/hike/idaho/north-idaho-hikes/american-falls-trail-308.md"
+with open(target_path, "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Reorganized american-falls-trail-308.md successfully")
