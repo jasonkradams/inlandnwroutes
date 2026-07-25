@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: "Palouse River Paddle & Lyons Ferry Launch"
 tags:
   - Paddling
@@ -64,3 +66,9 @@ The lower Palouse River paddle is one of the most spectacular canyon river journ
 - **Palouse Falls State Park:** Visit the upper overlook to view Washington's official state waterfall plunging 198 feet into the basalt canyon.
 - **Juniper Dunes Wilderness:** Explore the active sand dunes and old-growth juniper groves located southwest near Tri-Cities.
 - **Provisions & Amenities:** Lyons Ferry KOA / Marina offers seasonal fuel, camp supplies, and food near the launch.
+"""
+
+with open("docs/paddle/washington/scablands/palouse-river-launch.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized palouse-river-launch.md successfully")
