@@ -63,7 +63,7 @@ is 2.5 mikes up #402.
 
 Cedar Lakes, William Grambauer Mt., Taylor Peak, and Dome Mt.
 
-## R & P
+## Restaurants & Pubs
 
 Henry’s, The Shed, Pizza Hut,& Rosauers in Libby. Clark Fork Pantry & Squeeze Inn in Clark Fork. Eicharts,
 Mr Sub, Burger Express, & Jalapeños in Sandpoint

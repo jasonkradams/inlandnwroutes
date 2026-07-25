@@ -56,7 +56,7 @@ Another 4000’ gain in 8 miles. No water near the summit.
 
 Ross Creek Cedars, Cedar Lakes, Dome Mountain, Kootenai Falls, and the Proposed Scotchman Peaks Wilderness.
 
-## R & P
+## Restaurants & Pubs
 
 Henry’s in Libby, Pizza Hut, Rosauers, Clark Fork Pantry & Squeeze Inn in Clark Fork. Eicharts, Mr Sub &
 Jalapeños in Sandpoint

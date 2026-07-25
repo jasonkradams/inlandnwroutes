@@ -34,7 +34,7 @@ Indian Canyon Golf Course, John A. Finch Arboretum, Riverside State Park, and th
 All waterfalls are a hazard, due to their slippery nature. always be extra careful near any waterfall. From
 Priest Lake Ranger District travel 4 miles north to Nordman, then 14 miles north of Nordman, Idaho
 
-## R & P
+## Restaurants & Pubs
 
 Its near Spokane, so your choices are unlimited. That is if they can find workers, that is.
 

@@ -49,7 +49,7 @@ take the Hwy 95 exit. At the stop sign, turn right (west) over the Spokane River
 NIC's W. River Road and beach, CDA's City Beach, Tubbs Hill, Sanders Beach, Cougar Bay, Casco Bay, and Kidd
 Island.
 
-## R & P
+## Restaurants & Pubs
 
 Moon Time, Franklins Hoagies, Mexican Food Factory, and the Trail's End Brewery.
 

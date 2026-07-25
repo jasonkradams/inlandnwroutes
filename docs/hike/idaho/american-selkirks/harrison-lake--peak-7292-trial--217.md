@@ -137,7 +137,7 @@ you are approaching Harrison's summit block, **PAY CLOSE ATTENTION TO WHERE YOU 
 Beehive Lake, Myrtle Lake, Fault Lake, Kootenai National Wildlife Refuge, Myrtle Falls, Snow Creek Falls,
 Burton Peak, the Purcell Trench, and Bonners Ferry.
 
-## R & P
+## Restaurants & Pubs
 
 Jalapeños, Eichardt's, Burger Express, Mr. Sub in Sandpoint.
 

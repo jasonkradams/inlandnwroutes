@@ -118,7 +118,7 @@ From Peak 6,514' (reached in Option 2), continue south along the ridge for appro
 - **Peaks & Scrambles:** Gunsight Peak, Mt. Roothaan, Chimney Rock.
 - **Cascades & Parks:** Lions Creek Water Slides.
 
-### Refreshments & Dining (R & P)
+### Restaurants & Pubs
 
 Refuel in nearby Sandpoint, ID:
 

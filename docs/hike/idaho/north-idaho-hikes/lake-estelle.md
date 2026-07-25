@@ -99,7 +99,7 @@ Scotchman Peak.
 
 ---
 
-## Refreshments & Dining (R & P)
+## Restaurants & Pubs
 
 - **Clark Fork:** Squeeze Inn, Clark Fork Pantry
 - **Sandpoint:** Jalapeños, Mr. Sub, Burger Express, Eichardt's Pub & Grill

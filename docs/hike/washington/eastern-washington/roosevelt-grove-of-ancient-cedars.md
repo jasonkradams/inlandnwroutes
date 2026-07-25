@@ -85,7 +85,7 @@ Cave at Crawford State Park.
 The trail to and in the R.G.A.C. is relatively easy, but watch out for slippery roots. if you visit Granite
 Falls, BE EXTRA CAREFUL ANYWHERE AROUND THE FALLS, ITS OVERLOOK AND ASSOCIATED TRAILS.
 
-## R & P
+## Restaurants & Pubs
 
 Burger Express, Stagger Inn
 

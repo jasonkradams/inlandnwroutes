@@ -75,7 +75,7 @@ Lake Darling, Lake Estelle, and Moose Lake & Mountain.
 
 The only hazard on this hike, is wandering off the trail as you gawk at the intense beauty
 
-## R & P
+## Restaurants & Pubs
 
 Mr. Sub, Eichardt’s, Jalapeños and the Burger Express.
 

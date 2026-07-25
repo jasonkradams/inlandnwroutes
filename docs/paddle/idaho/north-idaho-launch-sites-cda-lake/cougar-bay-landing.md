@@ -54,7 +54,7 @@ shoreline trailhead is located at the end of this turn off.
 
 CDA, Spokane River, NIC Beach, CDA City Beach, and Sanders Beach.
 
-## R & P
+## Restaurants & Pubs
 
 The Mexican Food Factory, Trails End Brewery, Franklins Hoagies, and the Moon Time.
 

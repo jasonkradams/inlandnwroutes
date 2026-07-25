@@ -35,7 +35,7 @@ Cools things
 
 Add hazards
 
-## R & P
+## Restaurants & Pubs
 
 Add favorites
 

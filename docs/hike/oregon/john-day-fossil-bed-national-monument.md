@@ -137,7 +137,7 @@ waterfalls. The Strawberry Mountain Wilderness.
 The biggest hazard in the J.D.F.N.M. is that it's so incredibly beautiful, it's hard to concentrate while
 driving and hiking. This is also part of the scablands, so be aware of rattlesnakes.
 
-## R & P
+## Restaurants & Pubs
 
 NA
 

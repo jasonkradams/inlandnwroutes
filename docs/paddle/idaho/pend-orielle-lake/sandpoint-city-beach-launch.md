@@ -43,7 +43,7 @@ Sand Creek, P.O. Lake, the Long Bridge 1 mile walk. As you cross under the RR tr
 park, take a sharp left turn onto Railroad Depot Road to the end. There you will find the lakeside P.O. Bay
 Trail. It goes all the way to the town of Ponderay.
 
-## R & P
+## Restaurants & Pubs
 
 Mr. Sub, Eichardt's, Jalapeños in Sandpoint. And the Burger Express near Dover to the west.
 

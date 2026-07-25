@@ -47,7 +47,7 @@ launch site on your right.
 Hayden Lake, Twin Lakes, Spirit Lake, Hauser Conservation Area, and Newman Lake with the McKenzie
 Conservation Area.
 
-## R & P
+## Restaurants & Pubs
 
 Rustler’s Roost for breakfast, the American Food Factory, Franklins Hoagies, and Trails End Brewery.
 

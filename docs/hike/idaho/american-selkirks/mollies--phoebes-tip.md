@@ -79,7 +79,7 @@ past Coolin to FR 23, then up to the left for about 1/4 a mile and park. Walk ab
 
 None on the hike to the Mollies
 
-## R & P
+## Restaurants & Pubs
 
 Burger Express
 

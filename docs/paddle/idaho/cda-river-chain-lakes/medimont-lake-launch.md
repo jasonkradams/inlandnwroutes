@@ -47,7 +47,7 @@ Road to the launch and campgrounds.
 
 Coeur d'Alene River, Cave Lake, Medicine Lake, and Killarney Lake.
 
-## R & P
+## Restaurants & Pubs
 
 Trail's End Brewery, Mexican Food Factory, Franklins, and Moon Time.
 

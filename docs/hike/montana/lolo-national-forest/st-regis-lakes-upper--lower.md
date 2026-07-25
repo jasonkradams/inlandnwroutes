@@ -82,7 +82,7 @@ During spring’s high water, crossing the river may be more difficult above the
 Lookout Pass Ski Area, Route of the Hiawatha, The Trail of the Coeur d'Alenes, historic Wallace, Idaho, and
 Montana
 
-## R & P
+## Restaurants & Pubs
 
 Radio Brewing in Kellogg, Pizza Factory, 1313 Club, and Muchacho’s Tacos in Wallace
 

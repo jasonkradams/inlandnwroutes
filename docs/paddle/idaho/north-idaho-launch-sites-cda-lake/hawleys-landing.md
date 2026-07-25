@@ -47,7 +47,7 @@ From CDA drive south on 95 to Plummer. At Plummer, turn left (East), onto Hwy 5 
 Heyburn S.P., Trail of the CDA's, Lake Chatcolet, St. Maries River -- the highest navigable river in the
 world -- and Indian Cliffs hiking area.
 
-## R & P
+## Restaurants & Pubs
 
 Trails End Brewery, Mexican Food Factory, the Moon Time.
 

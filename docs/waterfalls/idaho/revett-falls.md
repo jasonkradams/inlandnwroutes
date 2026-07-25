@@ -45,7 +45,7 @@ Cube Iron Mountain.
 
 None to the Lake, unless you who in the snow.
 
-## R & P
+## Restaurants & Pubs
 
 Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ &
 Saloon, Wallace Brewing Co., Muchacho’s Tacos in Wallace. Radio Brewing in Kellogg. , the Snake Pit, Moon

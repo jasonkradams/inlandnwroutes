@@ -76,7 +76,7 @@ the Purcell Trench.
 
 None of note under normal conditions.
 
-## R & P
+## Restaurants & Pubs
 
 Jalapeños, Eichardt's, Burger Express, and Mr. Sub in Sandpoint.
 

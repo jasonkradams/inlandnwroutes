@@ -46,7 +46,7 @@ onto Sam Owen Park Road.
 
 The north shore of P.O. Lake, 4 islands to paddle around, and the David Thompson Game Preserve.
 
-## R & P
+## Restaurants & Pubs
 
 Hope's Ice House Pizzeria.
 

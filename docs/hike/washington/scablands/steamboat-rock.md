@@ -61,7 +61,7 @@ protect from snake bites.
 Northrup Canyon, Summer Falls, Lake Lenore Caves, and the Sun Lakes-Dry Falls State Park, Banks Lake, Banks
 Lake Trail NW.
 
-## R & P
+## Restaurants & Pubs
 
 Harvest Restaurant, Lenny's in Cheney.
 

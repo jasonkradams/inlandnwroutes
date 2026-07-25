@@ -68,7 +68,7 @@ however so be my guest - pioneer a new route.
 
 The terrain is steep and rugged with numerous avalanche chutes. The area is grizzly bear habitat.
 
-## R & P
+## Restaurants & Pubs
 
 ---
 

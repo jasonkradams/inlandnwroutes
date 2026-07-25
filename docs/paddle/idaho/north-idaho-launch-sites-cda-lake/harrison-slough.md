@@ -45,7 +45,7 @@ to the Rose Lake exit Hwy 3. Drive south on Hwy 3 to where Hwy 97 turns right to
 
 The CDA River, Harrison, Trail of the CDA's, the Chain Lakes along Hwy 3, and Anderson Lake.
 
-## R & P
+## Restaurants & Pubs
 
 NA
 

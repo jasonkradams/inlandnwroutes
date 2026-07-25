@@ -104,7 +104,7 @@ Bowman Lake, Flathead River, Waterton Lakes National Park, Bob Marshall Wilderne
 
 ---
 
-## Refreshments & Dining (R & P)
+## Restaurants & Pubs
 
 The Polebridge Mercantile is a local favorite for coffee and fresh pastries. Northern Lights Saloon & Cafe
 is another great option.

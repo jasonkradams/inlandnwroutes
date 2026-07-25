@@ -45,7 +45,7 @@ byway, past Yellowstone Road. The Boothe Park boat launch is about 6 miles on th
 
 Blue Bay, Beauty Bay, Wolf Lodge Bay, Moscow Bay, Squaw Bay.
 
-## R & P
+## Restaurants & Pubs
 
 Moon Time, Mexican Food Factory, Franklins Hoagies, and Trails End Brewery.
 

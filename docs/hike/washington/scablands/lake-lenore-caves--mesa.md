@@ -90,7 +90,7 @@ Grand Coulee Dam, Banks Lake, Northrup Canyon, and Steamboat Rock State Park.
 
 ---
 
-## Refreshments & Dining (R & P)
+## Restaurants & Pubs
 
 Lenny’s in Cheney.
 

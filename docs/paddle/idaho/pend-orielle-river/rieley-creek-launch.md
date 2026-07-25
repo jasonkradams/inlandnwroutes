@@ -45,7 +45,7 @@ on the Riley Creek Park Drive to the park.
 
 Morton Slough, Round Lake State Park, Priest River, and Sandpoint.
 
-## R & P
+## Restaurants & Pubs
 
 Burger Express in Priest River.
 

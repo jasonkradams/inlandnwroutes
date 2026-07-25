@@ -22,7 +22,7 @@ From Spokane, drive north to Newport. At Newport, head east on Hwy 2 for less th
 site.
 ## Cool things close by
 Box Canyon and Boundary Dams, Pewee Falls, Sweetwater Falls, and Sullivan Lake
-## R & P
+## Restaurants & Pubs
 NA
 ---
 

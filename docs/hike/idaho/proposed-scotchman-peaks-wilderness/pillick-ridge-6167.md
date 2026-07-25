@@ -80,7 +80,7 @@ milepost 7. Look for the Pillick Ridge sign and narrow road to the small trailhe
 Scotchmans Peak, Cabinet Mountain Wilderness, Highway 56, Kootenai Falls, Ross Creek Cedars, and the
 Proposed Scotchman Peaks Wildreness.
 
-## R & P
+## Restaurants & Pubs
 
 Clark Fork Pantry, Clark Fork Jalapeños, Mr. Sub, burger Express, Eichardt’s in Sandpoint
 
@@ -175,7 +175,7 @@ junctions.
 Scotchmans Peak, Cabinet Mountain Wilderness, Highway 56, Kootenai Falls, Ross Creek Cedars, and the
 Proposed Scotchman Peaks Wildreness.
 
-## R & P
+## Restaurants & Pubs
 
 Clark Fork Pantry, Clark Fork Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 

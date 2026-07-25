@@ -44,7 +44,7 @@ Byway. Once you pass the Samowen Camp Ground, drive 1 mile to a pullout with a l
 Hope Boat Launch, Samowen Camp Ground, Pend Orielle Wildlife Area, Clark Fork, the Clark Fork River, Johnson
 Creek Recreation Area, and Scotchman's Peak.
 
-## R & P
+## Restaurants & Pubs
 
 In Sandpoint look for Mr. Subs, Eichardts, Jalapeños, and Burger Express.
 

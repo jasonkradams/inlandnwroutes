@@ -96,7 +96,7 @@ to leave.
 Hidden Lake, Red Top Mt., Shorty & Lone Tree Peak, Joe Lake, the Kootenai National Wildlife Refuge, Myrtle
 Falls, and Smith Creek Falls.
 
-## R & P
+## Restaurants & Pubs
 
 Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 

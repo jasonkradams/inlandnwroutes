@@ -49,7 +49,7 @@ Bridge Road, and then right onto E. Appleway Ave. Take the first right turn into
 Spokane River Washington & Idaho, Scraps Dog Park, Liberty Lake -State Line Trail, the Washington Centennial
 Trail, Liberty Lake, Q'emlin Park, Post Falls, and Hauser Lake.
 
-## R & P
+## Restaurants & Pubs
 
 NA
 

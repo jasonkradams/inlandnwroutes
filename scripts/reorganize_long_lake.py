@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: Long Lake Launch
 tags:
   - Paddling & Rivers
@@ -62,3 +64,9 @@ Long Lake Launch provides water access to the lower section of Lake Spokane, a 2
 
 ![Long Lake Launch Shoreline on Lake Spokane](../../../assets/images/5132025306p-2.jpg)
 _Long Lake Launch Shoreline on Lake Spokane._
+"""
+
+with open("docs/paddle/washington/eastern-washington/long-lake-launch.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized long-lake-launch.md successfully")

@@ -110,7 +110,7 @@ for about 3.2 miles to the launch.
 Silverwood Theme Park -- I only list this because the more people at Silverwood, the less on the lake. Other
 cool things are Lake Cocolalla, Packsaddle Mountain, Lakeview, and N. & S. Chilco Peaks.
 
-## R & P
+## Restaurants & Pubs
 
 Trails End Brewery, Mexican Food Factory, Franklins Hoagies, and the Moon Time.
 

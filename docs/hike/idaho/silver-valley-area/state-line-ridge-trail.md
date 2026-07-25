@@ -114,7 +114,7 @@ Of the CDA's, Crystal Lake, Graham Mountain, Silver Mountain, and Lower & Upper 
 Because most of this route is off trail, you must be careful and use extreme caution on the entire hike or
 sshoe.
 
-## R & P
+## Restaurants & Pubs
 
 The Pizza Factory, the 1313 Club, Muchachos Tacos in Wallace. In Kellogg visit the Radio Brewery. In CDA
 visit the Mexican Food Factory, Franklin"s Hoagies, and the Trails End Brewery on 95 by Fred Meyers.

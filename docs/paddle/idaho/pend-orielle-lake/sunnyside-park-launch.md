@@ -19,7 +19,7 @@ After crossing the Long Bridge, take the Hwy 200, Clark Fork exit to Hwy 200. Dr
 Sunnyside Exit. Stay on he Sunnyside Road towards Hawkins Point. The launch is just east oh Hawkins Point.
 ## Cool things close by
 Pack River & Delta, Pack River Wildlife Management Area, and Trestle Creek, and 4 Islands to paddle around.
-## R & P
+## Restaurants & Pubs
 Mr. Sub, Eichardt’s, Jalapeños and the Burger Express
 ---
 

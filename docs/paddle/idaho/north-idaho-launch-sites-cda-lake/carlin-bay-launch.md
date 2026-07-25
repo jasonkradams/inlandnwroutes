@@ -43,7 +43,7 @@ from I-90. The launch is on the right.
 
 Powder Horn Bay, Turner Bay, and Loffs Bay.
 
-## R & P
+## Restaurants & Pubs
 
 Moon Time, Franklins Hoagies, the Mexican Food Factory, and the Trails End Brewery.
 

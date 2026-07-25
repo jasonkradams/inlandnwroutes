@@ -84,7 +84,7 @@ Hub Lake is steep as it gets close to Hub Lake.
 Ward & Eagle Peaks, Lookout Pass Ski Area, historic Wallace, The Pulaski Tunnel Trail, the Route of the
 Hiawatha, Glacier N.P., and the Cabinet Mountain Wilderness.
 
-## R & P
+## Restaurants & Pubs
 
 Pizza Factory, 1313 Club, and Muchacho’s Tacos in Wallace, and the Radio Brewing Company in Kellogg.
 

@@ -54,7 +54,7 @@ F.R. #332 for 6 miles to F.R. #278. Stay on #278 all the way to Lakeview.
 
 Farragut S.P., Packsaddle Mountain, Granite Rock and Whiskey Rock.
 
-## R & P
+## Restaurants & Pubs
 
 To my knowledge, there are few services at Lakeview. Take all you will need.
 

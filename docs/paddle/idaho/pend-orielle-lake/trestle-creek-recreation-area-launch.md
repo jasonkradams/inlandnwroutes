@@ -17,7 +17,7 @@ Drive east of Sandpoint on Hwy 200 to the town of Trestle Creek. Turn right onto
 cross the RR tracks and turn left onto Idaho Country Road to the launch site.
 ## Cool things close by
 Pack River Delta, and the north shore of P.O. Lake.
-## R & P
+## Restaurants & Pubs
 NA
 ---
 

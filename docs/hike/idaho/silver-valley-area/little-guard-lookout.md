@@ -73,7 +73,7 @@ Way too many incredible views. You. may become addicted to fire lookout rentals.
 Shadow Falls, Fern Falls, Continental Falls, the CDA River North N.R.T., Spion Kop Rocks, Cathedral Rocks,
 and Jordan Camp.
 
-## R & P
+## Restaurants & Pubs
 
 Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ &
 Saloon, Wallace Brewing Co., Muchachos Tacos in Wallace. Radio Brewing in Kellogg. The Snake Pit, north of

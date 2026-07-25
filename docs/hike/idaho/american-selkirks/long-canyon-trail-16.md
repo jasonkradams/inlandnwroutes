@@ -95,7 +95,7 @@ Parker Ridge, so pack all the water you will need.
 Pyramid Peak & Lake, Parker Ridge, Long Mountain Lake & Peak, Kootenai National Wildlife Refuge, the Purcell
 Trench, and Bonners Ferry.
 
-## R & P
+## Restaurants & Pubs
 
 Jalapeños, Mr. Sub, Burger Express, Eicharts in Sandpoint
 

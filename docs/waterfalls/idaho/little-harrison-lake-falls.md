@@ -54,7 +54,7 @@ Fault Lake, the Kootenai National Wildlife Refuge, the Purcell Trench, Sandpoint
 
 *South Route*: From Beehive Lake, the scrambling is serious but doable.
 
-## R & P
+## Restaurants & Pubs
 
 Jalapeños, Mr. Sub, and Eichardt’s in Sandpoint.
 

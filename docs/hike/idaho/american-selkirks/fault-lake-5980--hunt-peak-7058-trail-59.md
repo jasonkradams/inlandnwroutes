@@ -82,7 +82,7 @@ the creek you may not make it back to your truck until the water level drops aga
 
 Beehive Lake, Harrison Lake & Peak, the Pack River, Sandpoint, and the Selkirk Crest.
 
-## R & P
+## Restaurants & Pubs
 
 Jalapeños, Mr. Sub, Burger Express, in Sandpoint
 

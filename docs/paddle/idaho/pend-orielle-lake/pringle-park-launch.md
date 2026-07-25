@@ -45,7 +45,7 @@ Launch is 1.1 miles East. If you reach the Pend Oreille Shores resort, you have 
 The north shore of Pend Oreille Lake, Cottage Island, Pearl Island, Warren Island, Memaloose Island, and Sam
 Owen Campground.
 
-## R & P
+## Restaurants & Pubs
 
 Mr. Sub! Eichardt's, Jalapeños, and Burger Express, in Sandpoint.
 

@@ -86,7 +86,7 @@ Many creek crossings. Trail #135 is steep and rugged, with a poorly maintained t
 Ross Creek Cedars, Cedar Lakes, Dome Mountain, Kootenai Falls, the Proposed Scotchman Peaks Wilderness,
 Granite Lake, and Leigh Lake.
 
-## R & P
+## Restaurants & Pubs
 
 Henry’s, Pizza Hut, The Shed, Rosaeurs in Libby. Clark Fork Pantry & Squeeze Inn in Clark Fork. Eicharts, Mr
 Sub, Burger Express, Jalapeños in Sandpoint

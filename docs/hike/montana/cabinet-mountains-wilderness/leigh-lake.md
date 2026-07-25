@@ -147,7 +147,7 @@ wet spot. its tooooo dangerous.
 Kootenai Falls, historic Libby, Montana, U & L Geiger Lakes, Snowshoe Peak, Blackwell Glacier, and A Peak,
 and Ross Creek Cedars
 
-## R & P
+## Restaurants & Pubs
 
 Kaiju Bar & Grill in Libby. Henry’s, Pizza Hut, and The Shed in Libby, Clark Fork Pantry and Squeeze Inn in
 Clark Fork, Eicharts, Mr Sub, Burger Express, & Jalapeños in Sandpoint. In Libby, try The Shed south on Hwy

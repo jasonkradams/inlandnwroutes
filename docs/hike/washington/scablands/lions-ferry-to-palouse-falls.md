@@ -32,7 +32,7 @@ Snakes, sun burns, and bugs. There are commercial leg protection sleeves to ward
 ## Cool things close by
 Sun Lakes State Park & Dry Falls, Summer Falls, Escure Ranch, Bonnie Lake, Palouse Falls State Park, and the
 Snake River.
-## R & P
+## Restaurants & Pubs
 Lenny’s in Cheney. Harvest Restaurant in Spangle
 ## Photo gallery
 ## Images coming soon

@@ -47,7 +47,7 @@ Hwy 211past Sacheen Lake to Davis Lake.
 Newport, Pend Orielle River, Horseshoe Lake, Pend Orielle County Park, Diamond Lake, and Priest River,
 Idaho.
 
-## R & P
+## Restaurants & Pubs
 
 NA
 

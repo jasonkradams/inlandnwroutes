@@ -57,7 +57,7 @@ There is another falls wettish from Elk Creek called Bull Run Falls, bit I have 
 All waterfalls are a hazard, due to their slippery nature. always be extra careful near any waterfall. I
 can't steress enough. keep your children away from the edges of these waterfalls view points.
 
-## R & P
+## Restaurants & Pubs
 
 NA
 

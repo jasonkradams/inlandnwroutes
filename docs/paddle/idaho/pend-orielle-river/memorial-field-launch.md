@@ -23,7 +23,7 @@ Superior. In a block, turn right (north) onto S. 1st Street. At Lake Street, tur
 Hwy 2. Turn left on Hwy 2 to S. Boyer Ave, where you turn left down to Lakeview Parkland
 ## Cool things close by
 Pend Orielle Lake, Round Lake, Priest River, and the Laclede Climbing Area.
-## R & P
+## Restaurants & Pubs
 Burger Express, Mr. Sub, Eichardt’s, and Jalapeños.
 ---
 

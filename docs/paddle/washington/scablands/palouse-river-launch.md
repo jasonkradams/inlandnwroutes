@@ -31,7 +31,7 @@ Drive west on I-90 to Ritzville. At Ritzville turn left (S) onto Hwy 261. Contin
 for 6.4 miles, and stay on Hwy 261 for another 13.8 miles to the Lions Ferry S.P.
 ## Cool things close by
 Upper Palouse Falls (a walk), Juniper Dunes Wilderness near the Tri-Cities.
-## R & P
+## Restaurants & Pubs
 NA
 ---
 

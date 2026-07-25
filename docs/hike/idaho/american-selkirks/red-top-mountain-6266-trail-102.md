@@ -68,7 +68,7 @@ Shorty Peak, Lone Tree Peak, and West Fork Lake & Mountian. There is a waterfall
 
 None of note.
 
-## R & P
+## Restaurants & Pubs
 
 Jalapeños, Eichardt’s, Burger Express, Mr. Sub in Sandpoint
 

@@ -75,7 +75,7 @@ None
 Silver Mountain Resort, Historic Wallace, Elsie Lake & Striped Peak, Stevens Lakes & Peak, Lone Lake, U. &
 L. Glidden Lakes, Trail of the CDA’s, and the Route of the Hiawatha.
 
-## R & P
+## Restaurants & Pubs
 
 Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ &
 Saloon, Wallace Brewing Co., and Muchacho’s Tacos in Wallace. Radio Brewing in Kellogg. the Snake Pit north

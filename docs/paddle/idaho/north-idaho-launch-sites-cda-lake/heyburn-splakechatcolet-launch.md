@@ -54,7 +54,7 @@ From Coeur d'Alene, drive south on US-95 to Plummer, turn left (East) onto Hwy 5
 Indian Cliffs hiking area, Lake Chatcolet, St. Maries River, the Trail of the Coeur d'Alenes, and the
 bicycling bridge over Lake Chatcolet.
 
-## R & P
+## Restaurants & Pubs
 
 Trails End Brewery.
 

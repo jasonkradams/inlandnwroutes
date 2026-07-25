@@ -152,7 +152,7 @@ Click to set custom HTML
 Kootenai Falls & the Kootenai River, the Cabinet Mountain Wilderness, Bull Lake, Ross Creek Cedars, Sawtooth
 Mountain 7663', and the South Fork Ross Creek.
 
-## R & P
+## Restaurants & Pubs
 
 Clark Fork Pantry in Clark Fork, Jalapeños in Sandpoint. Henry's and The Shed in Libby, but don’t miss the
 Kaiju Sushi Bar on 9th Street.

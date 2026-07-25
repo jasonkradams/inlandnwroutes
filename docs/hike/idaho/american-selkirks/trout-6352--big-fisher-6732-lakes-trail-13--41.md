@@ -73,7 +73,7 @@ Pass the Kootenai National Wildlife Refuge, NW of Bonners Ferry, on FR 417, also
 Pyramid Pass & Peak, Long Mountain Lake & Peak, Kootenai National Wildlife Refuge, Sandpoint and Pend
 Orielle Lake.
 
-## R & P
+## Restaurants & Pubs
 
 Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 

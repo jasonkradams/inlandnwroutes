@@ -97,7 +97,7 @@ Red Ives, Avery, North Fork of the Clearwater River, Kelly Creek, Clark Fork Riv
 All the normal hazards of scrambling steep terrain and ridges with drop offs on the other side. Stay away
 from the edge and there is little or no hazard.
 
-## R & P
+## Restaurants & Pubs
 
 Radio Brewing in Kellogg, City Limits Pub in Wallace
 

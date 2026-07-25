@@ -75,7 +75,7 @@ caution and water, as it’s hot in the summer.
 Burton Peak, Myrtle Creek Game Preserve, Two Mouth Lakes, Cooks Peak & Lake, Kootenai National Wildlife
 Refuge, and the northern trail to Harrison Lake.
 
-## R & P
+## Restaurants & Pubs
 
 Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint.
 

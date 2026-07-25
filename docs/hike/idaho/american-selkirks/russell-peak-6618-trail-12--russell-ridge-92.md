@@ -62,7 +62,7 @@ Many switchbacks to the peak. And a short scramble to the summit
 Pyramid Pass, Peak & Lakes, Long Mountain Lake, Fisher Peak, Long Canyon, Parker Peak, the Purcell Trench,
 and the Kootenai National Wildlife Refuge.
 
-## R & P
+## Restaurants & Pubs
 
 Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 

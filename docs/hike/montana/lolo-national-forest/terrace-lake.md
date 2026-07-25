@@ -102,7 +102,7 @@ Stoney Lake, Mount Headley, Mount Vermillion & falls, Cabin Creek and Glacier Na
 
 Finding your way from Hwy 200 to the lake.
 
-## R & P
+## Restaurants & Pubs
 
 NA
 

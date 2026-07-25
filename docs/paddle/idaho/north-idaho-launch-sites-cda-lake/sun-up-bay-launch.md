@@ -42,7 +42,7 @@ miles you will come to W. Sun Up Bay Road. Turn left and follow W. Sun Up Bay Ro
 
 Rockford Bay, Windy Bay, and Rockford Point.
 
-## R & P
+## Restaurants & Pubs
 
 Trails End Brewery, Franklins, Mexican Food Factory, and Moon Time.
 

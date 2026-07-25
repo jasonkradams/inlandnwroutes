@@ -84,7 +84,7 @@ Fishtrap Lake, Crab Creek, Turnbull National Wildlife Refuge, and Pine Lakes.
 Rocky and rough trail, wood ticks, cow pies, and a serious cliff along Hog Lake. Please respect private
 property.
 
-## R & P
+## Restaurants & Pubs
 
 Lenny’s in Cheney
 

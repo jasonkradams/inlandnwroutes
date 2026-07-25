@@ -88,7 +88,7 @@ and make plenty of noise.
 
 Rock Peak, Ojibway Peak, St. Paul Pass, and Libby Lakes.
 
-## Refreshments & Dining (R & P)
+## Restaurants & Pubs
 
 Henry’s & Pizza Hut, The Shed in Libby. Clark Fork Pantry & Squeeze Inn in Clark Fork. Eichardt's, Mr Sub,
 Burger Express, & Jalapeños in Sandpoint.

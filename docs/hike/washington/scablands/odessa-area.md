@@ -42,7 +42,7 @@ Rattlesnakes, sunburns, and do not drink or filter any ground water in the scabs
 Hog Canyon, Fishtrap Lake, Z Lake, Twin Lakes, Palouse Falls S. P., Steamboat Rock, Northrup Canyon & Lake,
 and Fort Spokane.
 
-## R & P
+## Restaurants & Pubs
 
 Harvest Restaurant in Spangle. Lenny’s in Cheney.
 

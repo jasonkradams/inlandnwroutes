@@ -86,7 +86,7 @@ During spring high water, crossing the river may be more difficult above the tra
 Lookout Pass Ski Area, Route of the Hiawatha, The Trail of the Coeur d'Alenes, historic Wallace, Idaho, and
 Montana, Stevens Lakes, and Lone Lake
 
-## R & P
+## Restaurants & Pubs
 
 Radio Brewing in Kellogg, Pizza Factory and Muchacho’s Tacos in Wallace
 

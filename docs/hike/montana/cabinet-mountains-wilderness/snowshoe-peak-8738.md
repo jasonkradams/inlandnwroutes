@@ -97,7 +97,7 @@ Either route to snowshoe peak are very hazardous. please use extreme caution.
 
 Kootenai Falls, historic Libby, Montana, U & L Geiger Lakes, Snowshoe Peak, Blackwell Glacier, and A Peak.
 
-## R & P
+## Restaurants & Pubs
 
 Henry’s & Pizza Hut, The Shed, and Roasters in Libby, Clark Fork Pantry, Eicharts, Mr Sub, Burger Express, &
 Jalapeños in Sandpoint

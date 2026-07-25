@@ -32,7 +32,7 @@ None other than the water is cold in the spring and watch out for the cow pattie
 
 # Fishtrap Lake Wa
 
-## R & P
+## Restaurants & Pubs
 
 Fishtrap Lake Resort, Lenny’s in Cheney
 

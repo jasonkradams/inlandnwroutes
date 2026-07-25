@@ -157,7 +157,7 @@ The route to Eagle Cliff Peak is very steep.
 
 Heart Lake, Little Joe Slide, Ward & Eagle Peaks.
 
-## R & P
+## Restaurants & Pubs
 
 Pizza Factory & the 1313 Club in Wallace. Radio Brewing in Kellogg. The Snake Pit up the CDA River
 

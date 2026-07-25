@@ -89,7 +89,7 @@ My opinion: Because the Idaho Dept. of Lands don't want us on "their" land, they
 large 4 wheel drive trucks with high clearance can access the trailheads in the area. Extremely rough roads
 with car swallowing Kelly Humps.
 
-## R & P
+## Restaurants & Pubs
 
 Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint. Burger Express in Priest River.
 

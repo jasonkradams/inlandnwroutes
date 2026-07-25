@@ -48,7 +48,7 @@ launch on the right.
 
 Wolf Lodge Creek & Bay, Beauty Bay, Blue Bay, and Moscow Bay.
 
-## R & P
+## Restaurants & Pubs
 
 Trails End Brewery, Mexican Food Factory, Moon Time.
 

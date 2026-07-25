@@ -45,7 +45,7 @@ Drive Hwy 2 past the Milan crossroad for 3.2 miles and turn left (W) onto E. Bri
 
 Loon Lake, Deer Lake, Horseshoe Lake, Sacheen Lake, and Diamond Lake.
 
-## R & P
+## Restaurants & Pubs
 
 NA
 

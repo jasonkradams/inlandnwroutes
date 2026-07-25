@@ -86,7 +86,7 @@ Ferry County Rail Trail, Altai Skis Shop, Kettle Crest Trail
 
 Remote mountain pass with no services. The plows came buy regularly and the deputy too.
 
-## R & P
+## Restaurants & Pubs
 
 Curlew Saloon for good beer and food, Tug Boat in Curlew for excellent hand cut and breaded fish and chips,
 Meyers Falls Market in Kettle Falls for groceries and deli items. I recommend the whole grain bread loaves

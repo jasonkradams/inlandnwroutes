@@ -151,7 +151,7 @@ tags:
 
 ## Paddle Rev
 
-## R & P
+## Restaurants & Pubs
 
 ---
 

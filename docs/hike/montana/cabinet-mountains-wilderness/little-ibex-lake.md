@@ -107,7 +107,7 @@ Trail #980 has what felt like hundreds of downfall to climb over. And it’s ste
 A Peak, Snowshoe Peak, Vimy Ridge, Bull River, Snowshoe Lake, Ibex Peak , Ross Creek Cedars, and the
 Proposed Scotchman Peaks Wilderness.
 
-## R & P
+## Restaurants & Pubs
 
 Henry’s, Pizza Hut, The Shed, and Rosaeurs in Libby, Clark Fork Pantry & Squeeze Inn in Clark Fork.
 Eicharts, Mr Sub, Burger Express, & Jalapeños in Sandpoint

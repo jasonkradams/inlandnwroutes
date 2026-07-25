@@ -117,7 +117,7 @@ Lookout Pass Ski Area, the Route of the Hiawatha, and the Trail of the Coeur dâ€
 The terrain is steep and sustained for several miles. Exercise caution around the cornices. They can and do
 break off.
 
-## R & P
+## Restaurants & Pubs
 
 [North Idaho Mountain Brew](https://northidahomountainbrew.com), [1313 Club](https://www.1313club.com),
 [Pizza Factory](https://wallace.pizzafactory.com) in Wallace,

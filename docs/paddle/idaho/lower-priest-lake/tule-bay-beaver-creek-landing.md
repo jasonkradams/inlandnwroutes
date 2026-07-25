@@ -14,7 +14,7 @@ From Priest River, Idaho, take Hwy 57 north to Nordman, then turn right on Reede
 ## Cool things close by
 Indian Creek Camp Grounds, Upper Priest Lake, the Thorough Fare to Upper Priest Lake, Priest Lakes State
 Park Lionshead Unit, Granite Falls, and Blacktail Mountain
-## R & P
+## Restaurants & Pubs
 Burger Express
 ---
 

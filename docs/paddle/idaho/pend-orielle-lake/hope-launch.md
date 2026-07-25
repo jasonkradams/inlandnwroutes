@@ -43,7 +43,7 @@ the launch is off to the left (north).
 Sam Owen Campground, Warren Island, Pearl Island, Ellisport Bay, Memaloose Island, and David Thompson State
 Wildlife Preserve.
 
-## R & P
+## Restaurants & Pubs
 
 Old Ice House Pizzeria
 

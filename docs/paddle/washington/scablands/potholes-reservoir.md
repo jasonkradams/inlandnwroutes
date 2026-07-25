@@ -52,7 +52,7 @@ Mar Don R.V. Resort for about 1 mile to the Blythe Public Access Launch.
 
 Columbia Wildlife Refuge, Columbia River, and Hanford Reach National Monument.
 
-## Refreshments & Dining (R & P)
+## Restaurants & Pubs
 
 N/A
 

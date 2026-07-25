@@ -56,7 +56,7 @@ the landing.
 Wolf Lodge Bay, Beauty Bay, Moscow Bay, and the back waters to the Wolf Lodge Creek, which in itself is a
 nice paddle away from power boats.
 
-## R & P
+## Restaurants & Pubs
 
 Trail's End Brewery, Mexican Food Factory, Moon Time, and Franklins Hoagies.
 

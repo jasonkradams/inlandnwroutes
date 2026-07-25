@@ -68,7 +68,7 @@ trailhead near Weber Saddle
 
 Magee Historical Site, CDA River National Recreation Trail, Faset Peak, Magee Peak, and Shadiw & Fern Falls.
 
-## R & P
+## Restaurants & Pubs
 
 Butter and Herbs Italian in Pinehurst. Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew
 Pub, Fainting Goat, Smoke House BBQ & Saloon, Wallace Brewing Co., Radio Brewing, the Snake Pit, and

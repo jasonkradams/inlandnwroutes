@@ -20,7 +20,7 @@ From Clark Fork, Idaho, drive east on Hwy 200 into Montana. In about 7 miles fro
 ground and launch.
 ## Cool things close by
 Bull River, the Noxon Reservoir, and the Johnson Creek Delta.
-## R & P
+## Restaurants & Pubs
 Clark Fork Pantry, Squeeze Inn (not in winter months), Clark Fork.
 ---
 

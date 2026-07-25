@@ -72,7 +72,7 @@ navigation. There is no water source along the entire ridge; carry more than you
 
 Red Top Mountain, Shorty Peak, Lone Tree Peak, and West Fork Lake.
 
-## R & P
+## Restaurants & Pubs
 
 Jalapeños, Mr. Sub, Burger Express, and Eichardt's in Sandpoint.
 

@@ -24,7 +24,7 @@ Lookout Mountain, Caribou Falls, Priest Lake, Priest Lake State Park, Mount Root
 Lake & Gunsight Peak, and the Wigwams.
 ## Hazards
 All waterfalls are a hazard, due to their slippery nature. always be extra careful near any waterfall.
-## R & P
+## Restaurants & Pubs
 Ardy's Cafe and Moose Knuckle Burgers and Brew
 ---
 

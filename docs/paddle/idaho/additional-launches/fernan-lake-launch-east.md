@@ -50,7 +50,7 @@ sides, grass, or neighborhood.
 The NEW Fernan Lake Natural Area, Lake CDA Drive to Higgins Point, the Fernan Saddle, Mineral Ridge, and the
 Wallace L. Forest Conservation Area.
 
-## R & P
+## Restaurants & Pubs
 
 Moon Time, Mexican Food Factory, Trails End Brewery, and Franklins.
 

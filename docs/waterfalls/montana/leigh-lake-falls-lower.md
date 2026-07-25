@@ -53,7 +53,7 @@ Clark Fork River.
 All waterfalls are a hazard, due to their slippery nature. always be extra careful near any waterfall.
 Please keep a close eye on your children when climbing the vertical section above the Leigh Creek Falls.
 
-## R & P
+## Restaurants & Pubs
 
 Henry"s and The Shed in Libby
 

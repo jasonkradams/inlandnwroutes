@@ -82,7 +82,7 @@ carry your 13 essentials, a water purifier, and dress for all weather conditions
 
 Fault Lake, the Seven Sisters of the American Selkirks, and Pend Orielle Lake.
 
-## R & P
+## Restaurants & Pubs
 
 Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 

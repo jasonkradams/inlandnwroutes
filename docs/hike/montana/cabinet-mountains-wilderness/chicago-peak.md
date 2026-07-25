@@ -97,7 +97,7 @@ Engle Peak, Rock Lake, Star Peak, Pillick Ridge, and Wanless Lake.
 Forest Road #2741 is extremely rough; high clearance and 4WD are required. Reaching St. Paul Peak and Rock
 Peak requires advanced scrambling experience on near-vertical rock and loose scree.
 
-## R & P
+## Restaurants & Pubs
 
 Kaiju Bar & Grill, Henry's, and Pizza Hut in Libby; Clark Fork Pantry in Clark Fork; Eichardt's, Mr. Sub,
 and Jalapeños in Sandpoint.

@@ -26,7 +26,7 @@ Vista or Sandy Point Day Use areas. Once on the island, the trail can be accesse
 ## Cool things close by
 The American Selkirks, Hunt Creek Falls, Indian Creek Camp Grounds, Priest Lake State Park, and Upper Priest
 Lake
-## R & P
+## Restaurants & Pubs
 Burger Express
 ---
 

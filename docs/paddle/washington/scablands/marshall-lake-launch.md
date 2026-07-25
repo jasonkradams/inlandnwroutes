@@ -22,7 +22,7 @@ Turn right onto Bead Lake Rd (3029) continue for 2.5 miles. Turn right onto Mars
 for 1.4 miles. Turn left onto Marshall Lake Dr continue for 0.6 miles to Marshall Lake.
 ## Cool things close by
 Bead Lake, Newport, Pend Orielle River, Diamond Lake, Ione’s Sweetwater Falls, and the American Selkirks.
-## R & P
+## Restaurants & Pubs
 NA
 ---
 

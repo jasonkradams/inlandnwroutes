@@ -83,7 +83,7 @@ Watch and listen for ORV’s everywhere up Big Creek. Striped Peak has no ORV tr
 Stevens Peak & Lakes, U. & L Glidden Lakes, Silver Mountain Resort, Graham Mountain, the Trail of the CDA’s,
 and the Route of the Hiawatha.
 
-## R & P
+## Restaurants & Pubs
 
 Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ &
 Saloon, Wallace Brewing Co., mane Muchacho’s Tacos in Wallace. Radio Brewing in Kellogg. The Snake Pit north

@@ -91,7 +91,7 @@ Sullivan Lake, and Deep Lake.
 
 Lots of elevation gain, long dirt road travel.
 
-## R & P
+## Restaurants & Pubs
 
 Burger Express in Priest River.
 

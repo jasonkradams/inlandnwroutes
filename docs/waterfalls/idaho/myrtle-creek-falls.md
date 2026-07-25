@@ -65,7 +65,7 @@ All waterfalls are a hazard due to their slippery nature. Always be extra carefu
 
 Please watch your children at the overlook and stay behind the cable.
 
-## R & P
+## Restaurants & Pubs
 
 Burger Express, Wok-a-Mole, and the Pizza Factory.
 

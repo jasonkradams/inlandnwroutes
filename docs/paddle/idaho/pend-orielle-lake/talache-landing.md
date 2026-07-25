@@ -28,7 +28,7 @@ resectful.
 ## Cool things close by
 To the north is Umbrella Point and Garfield Bay. To the south is Maiden Rock Boat Camp, and Evans Landing.
 Evans Landingbis foot and boat access only, no roads.
-## R & P
+## Restaurants & Pubs
 In Sandpoint is Mr. Sub, Eichardt’s, Jalapeños, and Burger Express in Dover.
 ---
 

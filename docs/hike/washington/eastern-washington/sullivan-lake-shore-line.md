@@ -62,7 +62,7 @@ Sweetwater Rest Area & Falls.
 
 The east shore water line on Sullivan Lake drops off sharply.
 
-## R & P
+## Restaurants & Pubs
 
 NA
 

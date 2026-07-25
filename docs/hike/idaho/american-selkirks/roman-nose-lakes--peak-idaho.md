@@ -105,7 +105,7 @@ granite.
 Ruby Ridge, Snow Creek Falls, Bottleneck Lake & Peak, Kootenai National Wildlife Refuge, Myrtle Creek Falls,
 Lake Pend Oreille, and Sandpoint.
 
-## Refreshments & Dining (R & P)
+## Restaurants & Pubs
 
 Eichardt's, Jalapeños, Burger Express, and Mr. Sub in Sandpoint and Bonners Ferry.
 

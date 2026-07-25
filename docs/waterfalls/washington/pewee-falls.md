@@ -93,7 +93,7 @@ beautiful Fall Colors drive.
 
 All waterfalls are a hazard, due to their slippery nature. always be extra careful near any waterfall.
 
-## R & P
+## Restaurants & Pubs
 
 NA
 

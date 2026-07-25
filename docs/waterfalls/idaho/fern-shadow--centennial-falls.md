@@ -33,7 +33,7 @@ this bumpy road and follow it over two bridges. You will find the trailhead on a
 Little Guard Lookout, Spion Top Rocks, CDA River N.R.T., Bloom Peak, and Settlers Grove of Ancient Cedars,
 ## Hazards
 All waterfalls are a hazard, due to their slippery nature. always be extra careful near any waterfall.
-## R & P
+## Restaurants & Pubs
 The Snake Pit, Radio Brewery, Moon Time, and Mexican Food Factory.
 ---
 

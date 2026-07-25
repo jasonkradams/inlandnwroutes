@@ -18,7 +18,7 @@ This C. G. is located on the more quiet end of Bull Lake.
 From the Hwy 200 and Hwy 56 junction, drive about 21.4 miles to the Dorr Skeel C. G. turn off.
 ## Cool things close by
 The Halfway House Bar, the Cabinet Mountain Wilderness, Kootenai Falls, and Libby.
-## R & P
+## Restaurants & Pubs
 Henry’s in Libby
 ---
 

@@ -77,7 +77,7 @@ Ward & Eagle Peaks, Lookout Pass Ski Area, the Route of the Hiawatha, and histor
 
 This trail is pretty easy with no hazards to speak of. The trail above Hub Lake is steep.
 
-## R & P
+## Restaurants & Pubs
 
 Pizza Factory, 1313 Club, and Muchacho’s Tacos in Wallace.
 

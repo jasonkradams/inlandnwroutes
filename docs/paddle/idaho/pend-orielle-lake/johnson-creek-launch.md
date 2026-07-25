@@ -53,7 +53,7 @@ further on 200, you will see a Forest Service sign on the right to Johnson Creek
 Johnson Creek Falls is just a bit further on F.R. 278, Pend Oreille Wildlife Area, the Clark Fork River,
 Clark Fork, the Green Monarchs, Sam Owen Campground, 4 islands to paddle around, and the Denton Slough.
 
-## R & P
+## Restaurants & Pubs
 
 The Clark Fork Pantry, and Squeeze Inn Restaurant. Mr. Sub, Eichardt's, and Jalapeños in Sandpoint.
 

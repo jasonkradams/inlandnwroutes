@@ -59,7 +59,7 @@ areas, mind the rules, or pay the price.
 
 All waterfalls are a hazard, due to their slippery nature. always be extra careful near any waterfall
 
-## R & P
+## Restaurants & Pubs
 
 Muchacho’s tacos, pizza factory, in wallace. radio brewery in kellogg.
 

@@ -22,7 +22,7 @@ F.R. #332 for 6 miles to F.R. #278. Stay on FR 278 past Lakeview. Stay on F.R. #
 Whiskey Rock. Look for signs to the left to the Whiskey Rock Camp Grounds.
 ## Cool things close by
 Whiskey Rock with Mountain Goats, and Granite Point.
-## R & P
+## Restaurants & Pubs
 Take all you need, because there’s nothing there.
 ---
 

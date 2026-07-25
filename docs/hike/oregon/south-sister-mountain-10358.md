@@ -92,7 +92,7 @@ Bend, Warm Springs Reservation, Mount Hood, Smith Rocks, the Deschutes River
 The South Sister is about 4900 verts to the summit. The majority of the trail is on small lava rocks to the
 peak's summit. Please plan very carefully when hiking this peak.
 
-## R & P
+## Restaurants & Pubs
 
 NA
 

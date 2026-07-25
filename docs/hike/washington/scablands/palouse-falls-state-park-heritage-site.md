@@ -104,7 +104,7 @@ dangerous. Please use extreme caution while at palouse falls.
 Sun Lakes State Park & Dry Falls, Summer Falls, Escure Ranch, Bonnie Lake, Lions Ferry State Park, and the
 Snake River.
 
-## R & P
+## Restaurants & Pubs
 
 Lenny’s in Cheney
 

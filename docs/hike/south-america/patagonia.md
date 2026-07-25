@@ -55,7 +55,7 @@ That was great advice. The first day up high below the towers, it snowed about 6
 to Camp Pehoe, many feet of snow blew down through the high country onto the valley floor. It snowed 3+ feet
 up high where we were camped.
 
-## R & P
+## Restaurants & Pubs
 
 While you are in Calafate, Argentina, be sure to have a quality dinner at The Los Alamos Resort.
 

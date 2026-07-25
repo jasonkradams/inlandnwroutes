@@ -32,7 +32,7 @@ _Trail 7 To Granite Peak_
 
 ## Hazards
 
-## R & P
+## Restaurants & Pubs
 
 Butter and Herbs Italian in Pinehurst.
 

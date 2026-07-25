@@ -62,7 +62,7 @@ Ranger District in CDA or Smelterville.
 
 Shadow, Fern, and Centennial Falls, Little Guard Lookout Rental, Bloom Peak on the Idaho-Montana border.
 
-## R & P
+## Restaurants & Pubs
 
 Radio Brewery and Noah's at Silver Mountain in Kellogg.
 

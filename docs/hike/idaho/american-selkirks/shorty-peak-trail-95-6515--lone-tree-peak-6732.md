@@ -76,7 +76,7 @@ It’s a long drive, so maybe car camp to get an early start.
 Lone Tree Peak, Canada to the north and the American Selkirks all around you. This is a hike you should not
 miss.
 
-## R & P
+## Restaurants & Pubs
 
 Mr, Sub, Eichardt’s , & Jalapeños, Burger Express in Sandpoint
 

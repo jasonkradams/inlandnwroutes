@@ -37,7 +37,7 @@ them at a distance, and watch your packs and food supplies. Wood ticks are prese
 into your socks. And physically check yourself and children carefully.
 ## Cool things close by
 The Columbia Plateau Trail, Cheney, the Eastern Washington University, and Lenny's Italian Restaurant.
-## R & P
+## Restaurants & Pubs
 Lenny’s in Cheney
 ---
 

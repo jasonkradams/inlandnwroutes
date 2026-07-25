@@ -78,7 +78,7 @@ and continue to the Eagle Boat Launch inside Farragut State Park.
 
 ---
 
-## Refreshments & Dining (R & P)
+## Restaurants & Pubs
 
 - **Hayden:** Rustler’s Roost (on Hwy 95)
 - **Coeur d'Alene:** Mexican Food Factory, Franklin’s Hoagies, Moon Time

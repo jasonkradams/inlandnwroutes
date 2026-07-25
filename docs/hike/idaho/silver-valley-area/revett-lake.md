@@ -105,7 +105,7 @@ exposure, loose scree, and class 3 rock ledges. Helmets and off-trail scrambling
 Upper & Lower Blossom Lakes, Pear Lake, Coeur d'Alene River, Shadow Falls, Fern Falls, and Cube Iron
 Mountain.
 
-## Refreshments & Dining (R & P)
+## Restaurants & Pubs
 
 Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ &
 Saloon, and Wallace Brewing Co. in Wallace; Radio Brewing in Kellogg; The Snake Pit in Enaville; Moon Time

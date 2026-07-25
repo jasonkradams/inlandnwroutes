@@ -74,7 +74,7 @@ Lake.
 The hike to Heart and Pearl Lakes is pretty straightforward. The State Line National Recreation Trail #738
 is a little more technical, with scree and route-finding skills required.
 
-## R & P
+## Restaurants & Pubs
 
 NA
 

@@ -48,7 +48,7 @@ Rock Peak, Ojibway Peak, Libby Lakes, Elephant Peak, Scotchmans Peak, and the Cl
 This Waterfall hold little dangers, unless you climb on the old mining equipment. But just to be safe, use
 caution around the falls.
 
-## R & P
+## Restaurants & Pubs
 
 The Clark Fork Pantry, and the Squeeze Inn (not open in the winter).
 

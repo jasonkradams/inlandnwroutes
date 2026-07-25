@@ -49,7 +49,7 @@ Dike Road.
 
 Cougar Bay, Casco Bay, the Spokane River, City Beach, Tubbs Hill, and Sanders Beach.
 
-## R & P
+## Restaurants & Pubs
 
 Trails End Brewery, Moon Time, Franklins, Mexican Food Factory.
 

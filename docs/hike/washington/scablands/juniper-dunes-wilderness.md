@@ -35,7 +35,7 @@ essentials for safety. On the NW boarder of the wilderness, is an ORV park, so i
 solitude, avoid the NW section.
 ## Cool things close by
 The Tri Cities, the Snake River, Yakima Indian Reservation, and Palouse Falls
-## R & P
+## Restaurants & Pubs
 Lenny’s in Cheney
 ---
 

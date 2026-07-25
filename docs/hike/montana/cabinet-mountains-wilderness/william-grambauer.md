@@ -61,7 +61,7 @@ down. Seemingly endless switchbacks on very steep terrain.
 
 Cedar Lakes, Kootenai Falls, Ross Creek Cedars, and Scenery Mountain.
 
-## R & P
+## Restaurants & Pubs
 
 Henry’s, Rosauers, & Pizza Hut in Libby. Squeeze Inn, Clark Fork Pantry in Clark Fork. Eicharts, Mr. Sub &
 Jalapeño in Sandpoint

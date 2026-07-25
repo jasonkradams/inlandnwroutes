@@ -92,7 +92,7 @@ No notable hazards, until you hike up to Cube Iron Mountain. Then be cautious up
 Lower & Upper Blosson Lakes, Revett Lake, Granite Peak, Siamese Lake Loop, Heart Lake, Hub Lake, Ward &
 Eagle Peaks, St. Regis Lakes.
 
-## R & P
+## Restaurants & Pubs
 
 NA
 

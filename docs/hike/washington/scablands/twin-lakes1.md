@@ -31,7 +31,7 @@ right (east) onto the BLM Twin Lakes Road for 2 miles past the campgrounds and t
 Lack of landmarks to triangulate by, off trail hiking on rough terrain, wind and sun.
 ## Cool things close by
 Coffeepot Lake, Lakeview Ranch, Z Lake, and Crab Creek.
-## R & P
+## Restaurants & Pubs
 Harvest Restaurant. Lenny’s in Cheney
 ## Plan your trip
 Click for Current NOAA Weather Conditions

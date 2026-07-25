@@ -94,7 +94,7 @@ ascents.
 Ancient & Dusty Lakes, Columbia Basin Wildlife Area, the mighty Columbia River, the Gorge Amphitheater,
 Vantage, and the Petrified Forest.
 
-## Refreshments & Dining (R & P)
+## Restaurants & Pubs
 
 N/A
 

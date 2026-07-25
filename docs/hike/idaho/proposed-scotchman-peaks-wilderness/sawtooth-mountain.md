@@ -71,7 +71,7 @@ the ridge. Once on the ridge, hike east to the base of the Sawtooth Mountain.
 Heron, Montana, Clark Fork River, Cabinet Gorge Dam, Sandpoint, Clark Fork, Pend Orielle Lake, the Proposed
 Scotchman Peaks Wilderness, Highway 56, and the Cabinet Mountain Wilderness
 
-## R & P
+## Restaurants & Pubs
 
 Clark Fork Pantry & Squeeze In, in Clark Fork. Jalapeños, Mr. Sub, Burger Express, & Eichardt’s in Sandpoint
 
@@ -190,7 +190,7 @@ have seem bear tracks here, so use caution. yell "Hey Bear" often.
 Heron, Montana, Clark Fork River, Cabinet Gorge Dam, Sandpoint, Clark Fork, Pend Orielle Lake, the Proposed
 Scotchman Peaks Wilderness, Highway 56, and the Cabinet Mountain Wilderness
 
-## R & P
+## Restaurants & Pubs
 
 Clark Fork Pantry& Squeeze In, in Clark Fork. Jalapeños, Mr. Sub, Burger Express, & Eichardt’s in Sandpoint
 

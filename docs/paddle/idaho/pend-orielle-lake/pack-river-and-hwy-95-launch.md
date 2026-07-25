@@ -54,7 +54,7 @@ shorter: Colburn-Culver Road, Rapid Lightning Creek, and Hwy 200.
 
 Pend Oreille Lake, Hawkins Point, Pend Oreille Wildlife Management Area, and Sandpoint.
 
-## R & P
+## Restaurants & Pubs
 
 Mr. Sub, Eichardt's, Jalapeños, and Burger Express.
 

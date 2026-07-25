@@ -68,7 +68,7 @@ Many long switchbacks. A descent into the Moran Basin.
 A Peak, Snowshoe Peak, Vimy Ridge, Bull River, Ross Creek Cedars, and the Proposed Scotchman Peaks
 Wilderness.
 
-## R & P
+## Restaurants & Pubs
 
 Henry’s, Pizza Hut, Clark Fork Pantry & Squeeze Inn in Clark Fork. Eicharts, Burger Express, Mr Sub &
 Jalapeños in Sandpoint

@@ -39,7 +39,7 @@ The Pend Orielle River, Kalispell Falls, Sullivan Lake, Hall Mt, and the Crowell
 ## Hazards
 Because of the trails odd turns and veers, it would be wise to mark the trails back, the way you came up, to
 ensure your safe return to the cars.
-## R & P
+## Restaurants & Pubs
 NA
 ## Photo gallery
 ---

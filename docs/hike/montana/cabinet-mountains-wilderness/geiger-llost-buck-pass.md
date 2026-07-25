@@ -95,7 +95,7 @@ Bear Lakes, Baree Lakes, Leigh Lake, the Sanders County Museum, and historical L
 
 There are few if any hazards, but be aware of Wood Ticks in the tall grasses around the lakes.
 
-## R & P
+## Restaurants & Pubs
 
 Kaiju Bar & Grill in Libby. Henry’s & Pizza Hut, in Libby, Clark Fork Pantry, Eicharts, Mr Sub & Jalapeños
 in Sandpoint The Shed south of Libby a few miles is on Hwy 2

@@ -78,7 +78,7 @@ can become muddy. Watch for rattlesnakes. Discover Pass s required.
 Columbia River and the Lake Roosevelt Reservoir, Lake Roosevelt National Recreation Area, the Colville
 Indian Reservation, the Grand Coulee Dam, Steamboat Rock, and Northrup Canyon.
 
-## R & P
+## Restaurants & Pubs
 
 Lenny’s in Cheney
 

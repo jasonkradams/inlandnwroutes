@@ -71,7 +71,7 @@ clear lake.
 
 All climbing areas have hazards. Be cautious while in the Smith Rocks State Park.
 
-## R & P
+## Restaurants & Pubs
 
 NA
 

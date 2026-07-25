@@ -48,7 +48,7 @@ any of its shore line, except the south shore. The falls The falls are located o
 lake, up in the forest. Because of the steep terrain and wet rocks, take every precaution as you scramble up
 to the many falls.
 
-## R & P
+## Restaurants & Pubs
 
 Henry’s & Pizza Hut, in Libby, Clark Fork Pantry, Eicharts, Mr Sub & Jalapeños in Sandpoint
 

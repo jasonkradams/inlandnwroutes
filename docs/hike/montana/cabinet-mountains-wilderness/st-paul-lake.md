@@ -83,7 +83,7 @@ aware of slips into the lake
 
 Historical Bull River Ranger Station, St. Paul Peak, Libby Lakes, Rock Lake & Peak, and Ojibway Peak.
 
-## R & P
+## Restaurants & Pubs
 
 Kaiju Bar & Grill in Libby. Henry’s & Pizza Hut, TheShed, and Roasters in Libby, Clark Fork Pantry,
 Eicharts, Mr Sub, Burger Express & Jalapeños in Sandpoint

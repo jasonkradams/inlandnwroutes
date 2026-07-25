@@ -46,7 +46,7 @@ Palisades Falls, The Spokane River, and the Riverside State Park
 
 Do not take any pets.they do not allow animals.
 
-## R & P
+## Restaurants & Pubs
 
 NA
 

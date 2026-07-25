@@ -83,7 +83,7 @@ Lake, and Upper & Lower Blossom Lakes.
 
 Motorcycles and ORVs may be active on the road and ridgeline.
 
-## R & P
+## Restaurants & Pubs
 
 The Enaville Snake Pit, and Kingston Hilltop Bar & Grill in Kingston.
 

@@ -73,7 +73,7 @@ To access the Kalispell Bay Boat Launch, travel on Highway 57 for 31 miles to Ka
 
 The American Selkirks, Hunt Creek Falls, Indian Creek Campgrounds, and the Priest Lake State Park.
 
-## R & P
+## Restaurants & Pubs
 
 Burger Express
 

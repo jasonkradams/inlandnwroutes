@@ -114,7 +114,7 @@ As stated above, hiking in the Scablands can be dangerous but very rewarding. Ob
 and discuss them with your hiking partners. Always be on the lookout for rattlesnakes. Practice wise hiking.
 Badgers have been seen on the trail to the falls; steer clear and give them space.
 
-## R & P
+## Restaurants & Pubs
 
 N/A
 

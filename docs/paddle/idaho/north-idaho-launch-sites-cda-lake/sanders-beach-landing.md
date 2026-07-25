@@ -40,7 +40,7 @@ Drive east on I-90 to the 15th Street exit, and head south to Sanders Beach.
 
 See Attractions above.
 
-## R & P
+## Restaurants & Pubs
 
 Trails End Brewery, Franklins, Mexican Food Factory, and Moon Time.
 

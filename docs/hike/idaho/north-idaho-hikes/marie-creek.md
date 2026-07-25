@@ -80,7 +80,7 @@ Mineral Ridge, Wallace L. Forest Conservation Area, Blue Bay Landing, Beauty Bay
 
 At about 3.5 miles up the Marie Creek Trail is a washed out area, use caution if you cross it.
 
-## R & P
+## Restaurants & Pubs
 
 Moon Time, Franklins Hoagies, the Mexican Food Factory, and the Trails End Brewery.
 

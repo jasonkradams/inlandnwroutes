@@ -55,7 +55,7 @@ Cool things close by.
 
 Add hazards.
 
-## R & P
+## Restaurants & Pubs
 
 Add favorites.
 

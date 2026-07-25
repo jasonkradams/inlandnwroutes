@@ -77,7 +77,7 @@ There are safety shin guards you can buy to protect from snake bites.
 Hog Canyon, Fishtrap Lake, Z Lake, Twin Lakes, Palouse Falls S. P., Steamboat Rock, Northrup Canyon & Lake,
 and Fort Spokane.
 
-## R & P
+## Restaurants & Pubs
 
 Harvest Restaurant in Spangle & Lenny’s in Cheney
 

@@ -75,7 +75,7 @@ Long hard up with lots of elevation gain. Take many rest breaks on this hike.
 
 The Clark Fork River, Cabinet Gorge Dam, Heron, Pillick Ridge, the Cabinet Mountain Wilderness.
 
-## R & P
+## Restaurants & Pubs
 
 Clark Fork Pantry, Clark Fork Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 
@@ -364,7 +364,7 @@ Long hard up with lots of elevation gain. Take many rest breaks on this hike. An
 
 The Clark Fork River, Cabinet Gorge Dam, Heron, Pillick Ridge, the Cabinet Mountain Wilderness.
 
-## R & P
+## Restaurants & Pubs
 
 Clark Fork Pantry, Clark Fork Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in Sandpoint
 

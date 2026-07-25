@@ -48,7 +48,7 @@ From the east end of Sherman Avenue, turn right (south) onto Lake CDA Drive. Con
 
 Wolf Lodge Bay, Beauty Bay, and Booth Park Launch.
 
-## R & P
+## Restaurants & Pubs
 
 Trails End Brewery, Franklins Hoagies, Mexican Food Factory, and Moon Time.
 

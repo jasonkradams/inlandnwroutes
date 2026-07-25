@@ -71,7 +71,7 @@ Peak Area, and the Lightning Creek Area.
 
 You may find many downed trees along this trail, so be careful.
 
-## R & P
+## Restaurants & Pubs
 
 Eichart's,, Burger Express, Mr Sub, and Jalapeños ion Sandpoint
 

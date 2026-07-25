@@ -64,7 +64,7 @@ From Salem, take Hwy 22 to the Hwy 214 turn off. From Silverton, take Hwy 214 SE
 Some trails may be slippery on days it rains. Please use caution. There is hiking or snowshoeing in the
 winter, so enjoy this marvelous park year round.
 
-## R & P
+## Restaurants & Pubs
 
 South Falls Lodge
 

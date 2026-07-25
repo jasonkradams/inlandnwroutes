@@ -52,7 +52,7 @@ All waterfalls are a hazard, due to their slippery nature. always be extra caref
 any walks in the Washington Scablands, you must be aware of rattlesnakes. There are lower leg wraps that
 will protect you from snake bites.
 
-## R & P
+## Restaurants & Pubs
 
 Lenny’s in Cheney
 

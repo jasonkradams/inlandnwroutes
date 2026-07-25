@@ -74,7 +74,7 @@ may be required in some places.
 ## Cool things close by
 Banks Lake, Northrup Canyon, Steamboat Rock, Coulee Dam, Moses Lake and the Potholes, Quincy Lake,
 Frenchman’s Coulee, Columbia River, to name a few.
-## R & P
+## Restaurants & Pubs
 Lenny’s in Cheney
 ---
 

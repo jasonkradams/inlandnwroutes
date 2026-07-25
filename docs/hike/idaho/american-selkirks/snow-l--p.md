@@ -82,7 +82,7 @@ lake.
 Kootenai National Wildlife Refuge, Myrtle Creek Falls, Burton Peak, Lower & Upper Snow Creek Falls, and
 Roman Nose Lakes & Peak.
 
-## Refreshments & Dining (R & P)
+## Restaurants & Pubs
 
 Eichardt’s, Mr. Sub, Burger Express, and Jalapeños in Sandpoint.
 

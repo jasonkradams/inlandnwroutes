@@ -786,23 +786,24 @@ nav:
     - Tony Kozlowski: gallery/contributors/tony-kozlowski.md
     - Vanette Leighty: gallery/contributors/vanette-leighty.md
   - Categories:
-    - Mountains: gallery/mountains.md
-    - Lakes: gallery/lakes.md
-    - Panorama: gallery/categories/panorama.md
-    - Streams to Rivers: gallery/categories/streams-to-rivers.md
-    - Wildlife: gallery/categories/wildlife.md
-    - Deserts & Scablands: gallery/categories/deserts--scablands.md
     - Atmosphere: gallery/categories/atmosphere.md
+    - Deserts & Scablands: gallery/categories/deserts--scablands.md
+    - Faces: gallery/categories/faces.md
+    - Fireworks: gallery/categories/fireworks.md
+    - Fungi - Rooms: gallery/categories/fungi---rooms.md
+    - Lakes: gallery/lakes.md
+    - Mountains: gallery/mountains.md
+    - Outhouses: gallery/categories/outhouses.md
+    - Panorama: gallery/categories/panorama.md
+    - Phenomenon: gallery/categories/phenomenon.md
+    - Ridges: gallery/categories/ridges.md
     - Rocks: gallery/categories/rocks.md
+    - Streams to Rivers: gallery/categories/streams-to-rivers.md
+    - Trail Heros: gallery/categories/trail-heros.md
     - Trails: gallery/trails.md
     - Trees: gallery/categories/trees.md
-    - Trail Heros: gallery/categories/trail-heros.md
-    - Outhouses: gallery/categories/outhouses.md
-    - Faces: gallery/categories/faces.md
+    - Wildlife: gallery/categories/wildlife.md
     - Winter: gallery/categories/winter.md
-    - Fungi - Rooms: gallery/categories/fungi---rooms.md
-    - Phenomenon: gallery/categories/phenomenon.md
-    - Fireworks: gallery/categories/fireworks.md
 - Writings:
   - Writings: writings/index.md
   - Adages: writings/adages.md
@@ -830,7 +831,6 @@ nav:
     - Lunch in the Mountains: recipes/main-dishes/lunch-in-the-mountains.md
 - Unsorted (needs review):
   - St Joe Lake 6472Rsquo Illinois Peak 7690Rsquo: st-joe-lake-6472-illinois-peak-7690.md
-  - Ridges: ridges.md
   - Eastern Washington1: eastern-washington1.md
   - Glacier Np: glacier-np.md
   - Home: home.md

@@ -20,7 +20,7 @@ Road. Bear left onto Laclede Ferry Road to the launch. From Sandpoint, drive wes
 miles to the Riley Creek Park Road. Bear left onto Laclede Ferry Road to the launch.
 ## Cool things close by
 Albeni Cove Camp Ground, Morton Slough Game Management Area, and Round Lake State Park.
-## R & P
+## Restaurants & Pubs
 NA
 ---
 

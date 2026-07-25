@@ -149,7 +149,7 @@ Now it is your responsibility to work thru them without hurting yourself or allo
 If at any time you feel uncomfortable, stop. tell the others. make a plan. if you go the distance, it will
 be much harder to get you out.
 
-R & P or restaurants and pubs. Some of these hikes are difficult, and tax your nutritional needs.
+Restaurants & Pubs. Some of these hikes are difficult, and tax your nutritional needs.
 
 So after a hike, the restaurants and pubs listed, will get you good food to resupply your caloric losses
 during the outing.
@@ -160,9 +160,9 @@ your alcohol consumption.
 
 And do not drive drunk or even buzzed.
 
-If you are not satisfied with the food and drink from these R & P’s, please let me know.
+If you are not satisfied with the food and drink from these Restaurants & Pubs’s, please let me know.
 
-Likewise, if you find a R & P. that is outstanding, please email me your thots on them. I will include them
+Likewise, if you find Restaurants & Pubs that is outstanding, please email me your thots on them. I will include them
 as needed.
 
 Please do not drink or partake, and driving.

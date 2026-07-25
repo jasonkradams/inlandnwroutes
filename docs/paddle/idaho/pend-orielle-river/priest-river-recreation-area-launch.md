@@ -46,7 +46,7 @@ mill.
 
 The American Selkirks, Upper & Lower Priest Lakes, Round Lake State Park, and the Pend Orielle River.
 
-## R & P
+## Restaurants & Pubs
 
 Burger Express.
 

@@ -78,7 +78,7 @@ None within the grove. The trail above the grove is over grown in about a mile.
 Crystal Lake, Graham Mountain, Silver Mountain Resort, Chain Lakes, Stevens Peak & Lakes, U. & L. Glidden
 Lakes, Revette Lake, and Blossom Lakes.
 
-## R & P
+## Restaurants & Pubs
 
 Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ &
 Saloon, Wallace Brewing Co., Muchacho's Tacos in Wallace. Radio Brewing in Kellogg. The Snake Pit north of

@@ -88,7 +88,7 @@ MCKAY Creek Road #1022
 Take Hwy 200, to 3 miles past the Noxon Bridge to the McKay Creek Road #1022. It’s turn off is opposite the
 Noxon Rapids Viewpoint. Turn left NE and drive 4 miles to the trailhead.
 
-## R & P
+## Restaurants & Pubs
 
 Henry’s & Pizza Hut, in Libby, Clark Fork Pantry, Eicharts, Mr Sub & Jalapeños in Sandpoint
 

@@ -27,7 +27,7 @@ the lakes stay safe if the winds are up.
 ## Paddles close by
 Premier Lake P.P., Columbia Lake, Faairmont Hot Springs,Wiondermere Lake Invermere, Radium Hot Springs,
 Kootenay National Park, and Banff NationalPark.
-## R & P
+## Restaurants & Pubs
 NA
 ---
 

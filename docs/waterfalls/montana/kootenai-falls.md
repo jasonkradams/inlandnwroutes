@@ -57,7 +57,7 @@ trails to Pillick Ridge, Scotchmans Peak, Ross Creek Cedars, and L.& U. Spar Lak
 All waterfalls are a hazard, due to their slippery nature. always be extra careful near any waterfall. The
 rivers edge are exposed. PLEASE take care of your children while all along the Kootenai River
 
-## R & P
+## Restaurants & Pubs
 
 Henry's, The Shack, in Libby.
 

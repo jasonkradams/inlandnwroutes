@@ -51,7 +51,7 @@ Cedars. Turn left (west) and follow the road to the boat launch.
 Cabinet Mountain Wilderness, Lake Koocanusa, Libby, Rock Lake, Proposed Scotchman Peaks Wilderness, and
 Kootenai Falls.
 
-## R & P
+## Restaurants & Pubs
 
 Clark Fork Pantry in Clark Fork, Henry's in Libby.
 

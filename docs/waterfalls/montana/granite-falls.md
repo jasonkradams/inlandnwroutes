@@ -40,7 +40,7 @@ Summer Outing, member Chuck Huber and his hiking team found dozens of Morel Mush
 All waterfalls are a hazard, due to their slippery nature. always be extra careful near any waterfall.In the
 spring the entire forest around Granite Falls can be flooded due to spring run off.
 
-## R & P
+## Restaurants & Pubs
 
 For a 1950’s dining experience, stop by Henry’s. It is located close to the Roseaurs, Pizza Hut, in Libby,
 Clark Fork Pantry & Squeeze In in Clark Fork. , Eicharts, Mr Sub & Jalapeños in Sandpoint. In Libby, try The
@@ -112,7 +112,7 @@ All waterfalls are a hazard, due to their slippery nature. always be extra caref
 Granite Falls has a loop trail that takes you above the falls. Please be EXTRA CAREFUL on this trail.
 Towards the cedar grove, is La Sota Falls tucked off to the NW in the trees.
 
-## R & P
+## Restaurants & Pubs
 
 Stagger Inn
 

@@ -115,7 +115,7 @@ Plateau.
 
 ---
 
-## Refreshments & Dining (R & P)
+## Restaurants & Pubs
 
 Afternoon Tea at the Lake O'Hara Lodge. Deer Lodge for smoked ham and eggs.
 

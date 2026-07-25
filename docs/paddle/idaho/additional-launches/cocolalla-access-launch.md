@@ -47,7 +47,7 @@ jogs right, then left to the launch.
 
 Round Lake S.P., Talache Landing on P.O.L., the Pend Oreille River, Priest River and Morton Slough.
 
-## R & P
+## Restaurants & Pubs
 
 Rustler's Roost, Franklins Hoagies, Mexican Food Factory, the Moon Time, and Trails End Brewery.
 

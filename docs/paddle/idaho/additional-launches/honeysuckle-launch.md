@@ -51,7 +51,7 @@ launch.
 
 Canfield Mountain, Spades Lookout, Avondale Lake, and Hayden, Idaho.
 
-## R & P
+## Restaurants & Pubs
 
 Rustler's Roast for breakfast, Mexican Food Factory, the Porch, and the Trails End Brewery.
 

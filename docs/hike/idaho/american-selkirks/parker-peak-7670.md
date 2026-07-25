@@ -77,7 +77,7 @@ Fisher Peak, Shorty & Lone Tree Peaks, Cutoff Peak, Red Top Mountain, West Fork 
 Bonners Ferry, and across the Purcell Trench is the Northwest Peaks Scenic Area located in Montana right
 next to Idaho and Canada.
 
-## R & P
+## Restaurants & Pubs
 
 Jalapeños, Mr. Sub, Burger Express, Eichardt's in Sandpoint.
 

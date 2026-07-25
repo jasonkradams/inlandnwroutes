@@ -62,7 +62,7 @@ exposure. This is a sunny and windy place, so bring lots of water. I hydrate 24 
 long day and I carry two liters of water if there is no water source along the route. Do not filter the
 scabs open water. the lakes and streams are full of agriculture runoff.
 
-## R & P
+## Restaurants & Pubs
 
 Michael's Market & Bistro in Moses Lake
 

@@ -102,7 +102,7 @@ down over the edge, lay down and creep towards the edge. PLEASE BE SAFE.
 The Kootenai National Wildlife Refuge, the Purcell Trench, Myrtle Peak, Harrison Lake & Peak, Kent Lake
 Ridge, The Wigwams, and the Two Mouth Lakes Basin.
 
-## R & P
+## Restaurants & Pubs
 
 Jalapeños, Mr. Sub, Burger ExpressEichardt’s in Sandpoint
 

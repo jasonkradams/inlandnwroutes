@@ -102,7 +102,7 @@ snowed 3 to 9" inches on Thursday and then the sun came out on Friday causing we
 the east and west aspects which we saw as we hiked up the basin Saturday morning. Things froze solid
 Saturday night when the sun went down and we peaked out in the morning before it warmed back up.
 
-## R & P
+## Restaurants & Pubs
 
 City Lights Brewery in Wallace and Radio Brewery in Kellogg. They both have exceptionally good food and
 beer. Muchachos Tacos and Pizza Factory in Wallace.

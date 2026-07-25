@@ -106,7 +106,7 @@ must stay together. There are safety shin guards you can buy to protect from sna
 
 Steamboat Rock, Banks Lake, Grand Coulee Dam, Lenore Caves, and Sun Lakes-Dry Falls State Park.
 
-## R & P
+## Restaurants & Pubs
 
 Harvest Restaurant. Lenny's in Cheney.
 

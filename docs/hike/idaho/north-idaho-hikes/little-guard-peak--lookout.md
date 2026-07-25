@@ -81,7 +81,7 @@ Fern, Shadow, and Continental Falls, Upper CDA River National Recreation Trail #
 None to the lookout. From the lookout to the high point 4.3 miles along the Shoshone Ridge Trail #81 is on
 the ridge the whole way. Use caution.
 
-## R & P
+## Restaurants & Pubs
 
 The Snake Pit, and the Radio Brewery in Kellogg. The Moon Time in CDA.
 

@@ -21,7 +21,7 @@ From Spokane, drive north on U.S.395 just over 5 miles from the town of Clayton,
 where McVay becomes Shore Acres Road, then watch for the Loon Lake Public Access on your left (E).
 ## Cool things close by
 NA
-## R & P
+## Restaurants & Pubs
 ---
 
 # Loon Lake Launch

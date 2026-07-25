@@ -100,7 +100,7 @@ experienced off trail hikers only. Do not take kids or dogs on this route.
 
 Upper Priest Lake, The Mollies, Lion Head Peak, and Lion Creek Rock slides.
 
-## R & P
+## Restaurants & Pubs
 
 Burger Express in Priest River.
 

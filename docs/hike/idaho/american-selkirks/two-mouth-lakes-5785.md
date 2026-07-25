@@ -101,7 +101,7 @@ ridge, The Wigwams, and the Two Mouth Lakes basin.
 The Kootenai National Wildlife Refuge, the Purcell Trench, Myrtle Peak, Harrison Lake & Peak, Kent Lake
 Ridge, The Wigwams, and the Two Mouth Lakes Basin.
 
-## R & P
+## Restaurants & Pubs
 
 Jalapeños, Eichardt's, Burger Express, Mr. Sub in Sandpoint
 

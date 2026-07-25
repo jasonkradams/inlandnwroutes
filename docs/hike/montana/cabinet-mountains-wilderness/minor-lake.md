@@ -65,7 +65,7 @@ N/A
 Ross Creek Cedars, Cedar Lakes, Dome Mountain, Kootenai Falls, Proposed Scotchman Peaks Wilderness, Granite
 Lake, and Leigh Lake.
 
-## R & P
+## Restaurants & Pubs
 
 Henry's in Libby, Pizza Hut, Rosauers, Clark Fork Pantry & Squeeze Inn in Clark Fork. Eichardt's, Mr. Sub,
 Burger Express, & Jalapeños in Sandpoint.

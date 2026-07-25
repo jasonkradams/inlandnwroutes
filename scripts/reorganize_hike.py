@@ -117,7 +117,7 @@ With two vehicles, park one car at the main trailhead. Drive the second vehicle 
 ### Local Attractions & Points of Interest
 
 - **Regional Destinations:** Red Ives Ranger Station, Avery, North Fork Clearwater River, Kelly Creek, Clark Fork River.
-- **Refreshments & Pubs (R & P):**
+- **Restaurants & Pubs:**
   - **Radio Brewing Company** (Kellogg, ID)
   - **City Limits Pub & Grill** (Wallace, ID)
 

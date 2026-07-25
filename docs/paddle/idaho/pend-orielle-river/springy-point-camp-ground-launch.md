@@ -18,7 +18,7 @@ As you drive up towards Sandpoint, turn left (west) onto Lakeshore Drive, just b
 Bridge. Stay on Lakeshore Drive for just over 3 miles to the Springy Point Camp Grounds.
 ## Cool things close by
 Dover, Sandpoint, the Long Bridge, Pend Orielle Lake and City Beach, and Round Lake State Park.
-## R & P
+## Restaurants & Pubs
 Burger a Express, Mr Sub, Eichardt’s, and Jalapeños.
 ---
 

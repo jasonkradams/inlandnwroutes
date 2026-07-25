@@ -123,7 +123,7 @@ Some of the trail to Lower Stevens Lake is very slippery in wet conditions. The 
 Lake, up to the summit and down to Lone Lake are hazardous. Use extreme caution. In OPTION #3, you should
 use EXTREME CAUTION PAST THE ROCK PROMINENCE ALONG THIS RIDGE
 
-## R & P
+## Restaurants & Pubs
 
 Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ &
 Saloon, Wallace Brewing Co., and Muchacho’s Tacis in Wallace. Radio Brewing, the Snake Pit, and Moontime.

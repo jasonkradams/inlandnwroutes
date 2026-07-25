@@ -81,7 +81,7 @@ St Joe/CDA
 River Divide, U. & L. Glidden Lakes, Silver Mt., The Trail of the Coeur d’Alenes, Route of the Hiawatha, and
 the CDA River
 
-## R & P
+## Restaurants & Pubs
 
 Pizza Factory, 1313 Club, Brooks Hotel & Restaurant, City Limits Brew Pub, Fainting Goat, Smoke House BBQ &
 Saloon, Wallace Brewing Co., and Muchacho’sTacos in Wallace. Radio Brewing In Kellogg. The Snake Pit north

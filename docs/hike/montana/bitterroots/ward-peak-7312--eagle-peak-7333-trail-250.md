@@ -141,7 +141,7 @@ The St. Joe River, Heart Lake, Siamese Lake, and Eagle Cliff Peak.
 
 None on Ward or Eagle Peaks. A lot on OPTION #4
 
-## R & P
+## Restaurants & Pubs
 
 Muchacho’s Tacos, Pizza Factory, 1313 Club, in Wallace, and Radio Brewing in Kellogg
 

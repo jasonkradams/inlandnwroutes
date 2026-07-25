@@ -43,7 +43,7 @@ turn left almost to the lake, but turn left onto W. Ice Storm Road, to the 4th d
 
 Sun Up Bay, Rockford Bay, Rockford Point, and the main body of Lake CDA.
 
-## R & P
+## Restaurants & Pubs
 
 Trails End Brewery, Franklins, Moon Time, and Mexican Food Factory.
 

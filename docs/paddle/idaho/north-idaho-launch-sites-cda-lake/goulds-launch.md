@@ -51,7 +51,7 @@ launch has very limited parking. Do not let your car block any access.
 
 Mica Bay, Camp Sweyolakan Girl Scout Camp, and Toad Rock.
 
-## R & P
+## Restaurants & Pubs
 
 Mexican Food Factory, Trails End Brewery, Franklins Hoagies, and Moon Time.
 

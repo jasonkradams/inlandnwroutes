@@ -48,7 +48,7 @@ turn onto S. Westway Drive.
 
 Kidd Island (private), and Cougar Bay.
 
-## R & P
+## Restaurants & Pubs
 
 Trails End Brewery, Franklins Hoagies, Mexican Food Factory, and Moon Time.
 

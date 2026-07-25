@@ -48,7 +48,7 @@ staying on E. Hayden Lake Road; at about 6.2 miles, turn right (south) onto N. S
 
 Canfield Mountain, Spades Lookout, Mokins Slough and campground.
 
-## R & P
+## Restaurants & Pubs
 
 Rustler's Roost for breakfast, and the Porch in Hayden. In CDA is the Mexican Food Factory, Franklins
 Hoagies, and the Trails End Brewery.

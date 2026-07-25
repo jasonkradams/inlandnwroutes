@@ -8,7 +8,7 @@ tags:
 ## Attractions
 ## Directions
 ## Cool things close by
-## R & P
+## Restaurants & Pubs
 ---
 
 # Cavanaugh Bay Launch

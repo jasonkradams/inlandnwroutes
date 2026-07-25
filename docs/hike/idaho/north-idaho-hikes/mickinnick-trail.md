@@ -66,7 +66,7 @@ River, and the Proposed Scotchman Peaks Wilderness.
 
 I counted 25 switchbacks, some rocky trail sections, and 2150’ in 3.5 miles
 
-## R & P
+## Restaurants & Pubs
 
 Jalapeños, Burger Express, Eichardt’s, Mr. Sub
 

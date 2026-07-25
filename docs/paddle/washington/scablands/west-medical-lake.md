@@ -20,7 +20,7 @@ Drive west on I-90 to the Hwy 902 turnoff. Stay on Hwy 902 as it turns thru Medi
 of town, turn onto Fancher Road to West Fancher Road, and right into the launch.
 ## Cool things close by
 Medical Lake, Cheney, Turnbull National Wildlife Refuge, Clear Lake and Silver Lake
-## R & P
+## Restaurants & Pubs
 Lenny’s in Cheney
 ---
 

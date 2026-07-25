@@ -46,7 +46,7 @@ Garfield Bay Road, to the launch.
 Talache Landing, Shepherd Lake, and Mirror Lake. If the winds are up on P.O. Lake, these two small lakes are
 an option.
 
-## R & P
+## Restaurants & Pubs
 
 Mr. Sub, Eichardt's, Jalapeños, and Burger Express in Sandpoint.
 

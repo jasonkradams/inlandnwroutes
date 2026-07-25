@@ -48,7 +48,7 @@ Highway 95 Road. Turn left (east) to the launch, which is located near the base 
 
 Mica Bay Boaters Camp, Camp Sweyolakan, and Toad Rock.
 
-## R & P
+## Restaurants & Pubs
 
 Trail's End Brewery, Mexican Food Factory, Franklins Hoagies, and Moon Time.
 

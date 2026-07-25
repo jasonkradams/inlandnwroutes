@@ -106,7 +106,7 @@ can follow Rock Creek north, and you will eventually come across the road in abo
 
 Sprague's Dave's Antique Truck Museum, Crab Creek, Twin Lakes, Z Lake, Fishtrap Lake, and the Snake River.
 
-## R & P
+## Restaurants & Pubs
 
 Harvest Restaurant in Spangle. Lenny's in Cheney.
 

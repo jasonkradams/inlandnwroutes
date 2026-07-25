@@ -40,7 +40,7 @@ Road, for 0.5 miles, and turn right onto W. Cottonwood Road to 1737 W. Cottonwoo
 
 Windy Bay, Harrison, Idaho, the CDA River outlet, and the Chain Lakes up the CDA River.
 
-## R & P
+## Restaurants & Pubs
 
 Trails End Brewery, Franklins, Moon Time, and Mexican Food Factory.
 

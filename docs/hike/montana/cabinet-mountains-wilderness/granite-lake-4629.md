@@ -82,7 +82,7 @@ Historic Libby, Montana; Leigh Lake; Snowshoe Peak; Upper & Lower Geiger Lakes w
 Peak; two of the largest Douglas Firs in Montana are located near the back of the lake. In 2016 during our
 Summer Outing, member Chuck Huber and his hiking team found dozens of Morel Mushrooms along this trail.
 
-## R & P
+## Restaurants & Pubs
 
 Kaiju Bar & Grill in Libby. For a 1950’s dining experience, stop by Henry’s (located close to Rosauers and
 Pizza Hut in Libby). Clark Fork Pantry & Squeeze In in Clark Fork. Eichardt's, Mr. Sub & Jalapeños in

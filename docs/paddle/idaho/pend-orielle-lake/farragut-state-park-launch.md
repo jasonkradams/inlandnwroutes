@@ -49,7 +49,7 @@ off to the launch road.
 
 Blackwell Point, Echo Bay, Lakeview, Idlewilde Bay, Buttonhook Bay, and Bayview.
 
-## R & P
+## Restaurants & Pubs
 
 NA
 

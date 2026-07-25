@@ -24,7 +24,7 @@ into the launch site and park.
 ## Cool things close by
 Pewee Falls, Box Canyon Dam, Crawford State Park & Gardner Cave, Boundary Dam, Ratt Island, and Sullivan
 Lake.
-## R & P
+## Restaurants & Pubs
 NA
 ---
 

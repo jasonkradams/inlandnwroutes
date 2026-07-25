@@ -71,7 +71,7 @@ All waterfalls are a hazard due to their slippery nature. Always be extra carefu
 Stepping off the observation decks can be very dangerous. Please stay on the decks and use extra caution in
 wet conditions.
 
-## R & P
+## Restaurants & Pubs
 
 Oriental Gardens, Chic-N-Chops, Pizza Factory, and Burger Express.
 

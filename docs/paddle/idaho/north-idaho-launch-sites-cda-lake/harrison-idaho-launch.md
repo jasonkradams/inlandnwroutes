@@ -48,7 +48,7 @@ to the Rose Lake exit Hwy 3. Drive south on Hwy 3 to where Hwy 97 turns right to
 
 CDA River at the outlet into Lake CDA, Harrison Slough, and Anderson Lake.
 
-## R & P
+## Restaurants & Pubs
 
 Trails Ends Brewery, the Moon Time, Mexican Food Factory.
 

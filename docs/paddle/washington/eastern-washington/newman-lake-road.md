@@ -49,7 +49,7 @@ intersection with E. Hauser Lake Road for less than 0.5 miles to the Newman Lake
 
 Hauser Lake, Twin Lakes, and Spirit Lake.
 
-## R & P
+## Restaurants & Pubs
 
 N/A
 

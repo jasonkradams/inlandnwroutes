@@ -36,7 +36,7 @@ All waterfalls are a hazard, due to their slippery nature. always be extra caref
 waterfall.Missing the falls as you are driving by is a concern. PLEASE BE CAREFUL. Continue on to a safe
 place to turn around
 
-## R & P
+## Restaurants & Pubs
 
 TFP's 55 Milwaukee Road Avery, Idaho [208.568.2181](tel:208.568.2181) Wood Fired Pizza, Broasted Chicken &
 JoJos, Beer & Wine

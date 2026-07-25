@@ -60,7 +60,7 @@ Falls, and the Roosevelt Grove of Ancient Cedars.
 
 It's a long day hike, so start very early. Do not forget your First Aid Kit.
 
-## R & P
+## Restaurants & Pubs
 
 Stagger Inn
 

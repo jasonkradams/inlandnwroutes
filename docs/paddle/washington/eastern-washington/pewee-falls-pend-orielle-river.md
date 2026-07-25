@@ -85,7 +85,7 @@ to Crawford State Park. Discover Pass required.
 Crawford Caves, Gardner State Park, Sullivan Lake, Priest Lakes, and the American Selkirks. Also, the drive
 from Metaline to Boundary Dam is an exceptional fall color drive.
 
-## R & P
+## Restaurants & Pubs
 
 NA
 

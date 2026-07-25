@@ -69,7 +69,7 @@ Wallace L. Forest Conservation Area, Beauty Bay Overlook, Trail #257, Trail 79, 
 In the winter, the trail can be icy, carry traction devises. Some areas along the trail have very steep
 slopes below. Please use caution.
 
-## R & P
+## Restaurants & Pubs
 
 Moon Time, The Mexican Food Factory, Franklins Hoagies, and the Trails End Brewery.
 

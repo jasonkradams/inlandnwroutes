@@ -64,7 +64,7 @@ Side country skiing
 
 It is not a short hike around the mountain. Bring food, water and warm clothes.
 
-## R & P
+## Restaurants & Pubs
 
 Foggy Bottom Lounge, Big Barn Brewery
 

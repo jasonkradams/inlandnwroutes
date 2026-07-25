@@ -87,7 +87,7 @@ Crags and beyond is also all on scree
 Silver Mountain Resort, Stevens Peak & Lakes, Upper & Lower Glidden Lake, Graham Mountain, and the CDA
 River.
 
-## R & P
+## Restaurants & Pubs
 
 Radio Brewing in Kellogg. The Snake Pit north of Kingston
 

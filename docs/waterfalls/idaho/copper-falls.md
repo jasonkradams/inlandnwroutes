@@ -54,7 +54,7 @@ the Kootenai National Wildlife Refuge.
 
 All waterfalls are a hazard due to their slippery nature. Always be extra careful near any waterfall.
 
-## R & P
+## Restaurants & Pubs
 
 Good Grief Tavern, Jalapeños, and Eichardt's in Sandpoint.
 

@@ -59,7 +59,7 @@ Cave Lake, Medicine Lake, Rose Lake, Heyburn State Park, and Harrison, Idaho.
 
 ---
 
-## Refreshments & Dining (R & P)
+## Restaurants & Pubs
 
 Trails End Brewery, Moon Time, Franklins, and Mexican Food Factory.
 

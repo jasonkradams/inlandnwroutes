@@ -74,7 +74,7 @@ Rattlesnakes, wood ticks, heat, and dust. There are ankle sleeves you can buy to
 Fog Canyon, Lake & Falls, the Turnbull National Wildlife Refuge, Bonnie and Rock Lakes, and Escure Ranch &
 Towell Falls.
 
-## R & P
+## Restaurants & Pubs
 
 Lenny’s in Cheney.
 

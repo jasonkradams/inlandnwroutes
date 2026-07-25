@@ -22,7 +22,7 @@ EAST: Head north on Argonne to E. Upriver Dr., and turn left for about a mile. W
 Climbing Area, drive east on E. Upriver Dr. to Boulder Beach
 ## Cool things close by
 Spokane River, Liberty Lake, Newman Lake, and Hauser Lake.
-## R & P
+## Restaurants & Pubs
 NA
 ---
 

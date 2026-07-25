@@ -58,7 +58,7 @@ launch.
 
 CDA Lake, Hayden Lake, the Idaho Panhandle National Forest, Fernan Saddle, and the old Spades Lookout.
 
-## R & P
+## Restaurants & Pubs
 
 Michael D’s for breakfast, the Moon Time, Franklins Hoagies, Mexican Food Factory, and the Trails End
 Brewery.

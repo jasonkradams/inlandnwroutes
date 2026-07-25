@@ -85,7 +85,7 @@ Little Ibex Lake, Kootenai Falls, and Dad Peak.
 Every aspect of this hike/scramble can be dangerous. Please use every precaution and do not take any risks.
 You will be in grizzly country—plan ahead.
 
-## R & P
+## Restaurants & Pubs
 
 Kaiju Bar & Grill in Libby. Henry's, The Shed, and Rosauers in Libby.
 

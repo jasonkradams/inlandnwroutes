@@ -58,7 +58,7 @@ Saltese Uplands, Mica Peak, and Liberty Lake.
 
 None
 
-## R & P
+## Restaurants & Pubs
 
 Snow Eater Brewery, Trailbreaker Cider, Liberty Lake County Park
 

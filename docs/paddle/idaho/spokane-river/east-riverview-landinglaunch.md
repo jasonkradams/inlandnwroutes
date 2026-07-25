@@ -24,7 +24,7 @@ Q’Emlin Park to the first left (East) turn onto W. Riverview Dr. Continue East
 miles, and watch for the small launch sign.
 ## Cool things close by
 Q’Emlin Park, Post Falls Dam and Park and climbing rocks
-## R & P
+## Restaurants & Pubs
 Franklins Hoagies, the Moon Time, the Mexican Food Factory, and the Trails End Brewery.
 ---
 

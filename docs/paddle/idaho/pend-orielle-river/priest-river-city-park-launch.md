@@ -46,7 +46,7 @@ bridge across P.O. River, turn left (East) onto Railroad Ave to the Bonner Park 
 
 The Priest River confluence. Priest Lake, Upper Priest Lake, and the American Selkirks.
 
-## R & P
+## Restaurants & Pubs
 
 Burger Express.
 

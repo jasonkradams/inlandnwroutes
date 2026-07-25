@@ -36,7 +36,7 @@ the Columbia River, and the Salmo-Priest Wilderness.
 All waterfalls are a hazard, due to their slippery nature. always be extra careful near any waterfall. The
 path above the paved trail can be slippery. Please do not go beyond the railing.
 
-## R & P
+## Restaurants & Pubs
 
 NA
 

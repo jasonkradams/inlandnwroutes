@@ -42,7 +42,7 @@ Shooters Bar & Grill. The launch is just past the marina.
 
 Sun Up Bay, Windy Bay, and the Harrison Slough
 
-## R & P
+## Restaurants & Pubs
 
 Trails End Brewery, Franklins, Moon Time, Mexican Food Factory
 

@@ -92,7 +92,7 @@ The National Recreation Trail #738, Straight Peak, Cedar Peak, and Fish Lake.
 Any time you hike a 25 mile route, there are always hazards. Be careful on all sections of this hike,
 especially the numerous creek crossings.
 
-## R & P
+## Restaurants & Pubs
 
 Hike in the Wall Lodge.
 

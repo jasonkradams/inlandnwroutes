@@ -49,7 +49,7 @@ Area, Saltese Flats, the Spokane River, and the Spokane River Centennial Trail.
 
 All waterfalls are a hazard, due to their slippery nature. always be extra careful near any waterfall.
 
-## R & P
+## Restaurants & Pubs
 
 Mexico Lindo, Brothers Office Pizza, and the Barlows
 

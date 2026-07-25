@@ -47,7 +47,7 @@ stay on this road all the way to the launch.
 
 The main body of Lake CDA, Wolf Lodge Bay, Moscow Bay, Arrow Point Resort.
 
-## R & P
+## Restaurants & Pubs
 
 Trails End Brewery, Franklins, Mexican Food Factory, and Moon Time.
 

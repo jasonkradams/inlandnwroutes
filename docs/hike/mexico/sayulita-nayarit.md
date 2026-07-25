@@ -48,7 +48,7 @@ for waypoints to points of interest.
 Take the water taxi from PV to Jelapa for a short hike to a water fall with a full bar, trail run through
 the jungle to San Poncho, take the bus north to Chacala
 
-## R & P
+## Restaurants & Pubs
 
 - Eric's Bar Mirimar - He releases the turtles with you
 - Odette's "Chiles" and Margarita is pretty darn cool. She has an outdoor court yard and musicians regularly

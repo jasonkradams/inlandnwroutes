@@ -134,7 +134,7 @@ None to Cliff Lake. Sure footedness and lots of experience should be used going 
 Paul Peak. Summitting Rock Peak, take strength, endurance, experience. Do not attempt, unless you are well
 experienced in near vertical rock hopping.
 
-## R & P
+## Restaurants & Pubs
 
 Henry’s & Pizza Hut, in Libby, Clark Fork Pantry, Eicharts, Mr Sub & Jalapeños in Sandpoint
 

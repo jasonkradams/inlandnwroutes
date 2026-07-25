@@ -82,7 +82,7 @@ disappeared.
 The Proposed Scotchman Peaks Wilderness, the Cabinet Mountain Wilderness, and lots of trails into both
 areas, and the Bull River and Lake. And don’t forget the Clark Fork Pantry.
 
-## R & P
+## Restaurants & Pubs
 
 Clark Fork Pantry, Squeeze Inn in Clark Fork & Jalapeños, Mr. Sub, Eichardt’s Sandpoint
 
@@ -215,7 +215,7 @@ disappeared.
 The Proposed Scotchman Peaks Wilderness, the Cabinet Mountain Wilderness, and lots of trails into both
 areas, and the Bull River and Lake. And don’t forget the Clark Fork Pantry.
 
-## R & P
+## Restaurants & Pubs
 
 Clark Fork Pantry, Squeeze Inn in Clark Fork & Jalapeños, Mr. Sub, Eichardt’s Sandpoint
 

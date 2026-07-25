@@ -46,7 +46,7 @@ A special warning about hiking in the palouse falls area. Once you leave the fen
 viewing of the falls becomes very dangerous. Please, please use extra caution everywhere in the palouse
 falls state park.
 
-## R & P
+## Restaurants & Pubs
 
 NA
 

@@ -78,7 +78,7 @@ This is a long, steep trial to the summit. Don't miss it, but be prepared. Mount
 The Clark Fork River, Johnson Creek and the Delta for paddling, Montana, Hwy 56, the Cabinet Mountain
 Wilderness, Star Peak, Pillick Ridge, and Bull Lake.
 
-## R & P
+## Restaurants & Pubs
 
 Jalapeños, Burger Express, in Sandpoint The Squeeze Inn & Clark Fork Fork Pantry, in Clark Fork. This unique
 store sells bulk food, great sandwiches, and to die for Peanut Butter Cookies.

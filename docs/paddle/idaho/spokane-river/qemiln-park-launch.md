@@ -23,7 +23,7 @@ Drive east from Spokane to the Spokane Street exit. Turn right (south) and conti
 river, to the first right (west) turn. The park is on your right.
 ## Cool things close by
 Signal Point Road Idaho Dept. Of Lands section, Post Falls Scenic Area, Treaty Rock, and the Spokane River
-## R & P
+## Restaurants & Pubs
 Moon Time, Mexican Food Factory, Franklins Hoagies, and the Trails End Brewery
 ---
 

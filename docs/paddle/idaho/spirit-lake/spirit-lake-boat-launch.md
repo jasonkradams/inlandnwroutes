@@ -9,7 +9,7 @@ tags:
 ## Attractions
 ## Directions
 ## Cool things close by
-## R & P
+## Restaurants & Pubs
 ---
 
 # Spirit Lake Boat Launch

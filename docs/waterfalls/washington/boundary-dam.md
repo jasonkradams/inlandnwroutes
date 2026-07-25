@@ -20,7 +20,7 @@ tags:
 
 ## Hazards
 
-## R & P
+## Restaurants & Pubs
 
 ---
 

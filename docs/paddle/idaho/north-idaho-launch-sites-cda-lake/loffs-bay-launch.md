@@ -48,7 +48,7 @@ Road all the way to Loft’s Bay. Its a long and windy road, but just stay on S.
 
 Rockford Bay, Mica Bay, and the main body of Lake CDA
 
-## R & P
+## Restaurants & Pubs
 
 Trails End Brewery, Mexican Food Factory, Franklins Hoagies, and Moon Time
 

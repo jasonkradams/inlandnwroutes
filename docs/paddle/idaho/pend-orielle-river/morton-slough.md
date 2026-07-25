@@ -25,7 +25,7 @@ you descend towards duford road.
 ## Cool things close by
 Round Lake, Morton Slough on the back side of its peninsula, Laclede Climbing Area, and the Riley Creek
 Recreation Area.
-## R & P
+## Restaurants & Pubs
 In Sandpoint, Burger Express, Mr Sub, Eichardt’s, and Jalapeñoss
 ---
 

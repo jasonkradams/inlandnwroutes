@@ -70,5 +70,5 @@ Click any image to enlarge and view high-resolution photo and caption.
 - ![Silver Willow Fireworks Display Over Coeur d'Alene Resort](../../assets/images/11242022409p.jpg)
 - ![Sparkling Fireworks Over Coeur d'Alene Resort Waterfront](../../assets/images/11242022410p.jpg)
 - ![Multi-Shell Fireworks Burst Over Coeur d'Alene Lake](../../assets/images/11242022412p.jpg)
-- ![Coeur d'Alene 4th of July Fireworks Celebration](../../assets/images/11212021106a.jpg)
+- ![Coeur d'Alene 4th of July Fireworks Celebration](../../assets/images/112120221106a.jpg)
 - ![Grand Finale Fireworks Sky Bursts Over Coeur d'Alene Resort](../../assets/images/11242022416p.jpg)

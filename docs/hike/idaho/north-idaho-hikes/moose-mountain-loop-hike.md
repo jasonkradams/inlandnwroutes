@@ -114,7 +114,7 @@ and turn right (NNW) on Trail #24 to the main junction and left to the trailhead
 Lake Estelle, Gem Lake, Lake Pend Oreille, Lunch Peak Fire Lookout & Mount Pend Oreille, Char Falls, and
 Scotchman Peak.
 
-## R & P
+## Restaurants & Pubs
 
 Squeeze Inn and the Clark Fork Pantry in Clark Fork. Jalapeños, Mr. Sub, Burger Express, and Eichardt’s in
 Sandpoint.
