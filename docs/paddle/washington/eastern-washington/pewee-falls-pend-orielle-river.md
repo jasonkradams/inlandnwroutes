@@ -29,6 +29,9 @@ notes:
 
 The paddle trip along the northernmost stretch of the Pend Oreille River to Pewee Falls and Z Canyon is widely regarded as one of the most spectacular water routes in the Inland Northwest. Paddling south from the launch near Boundary Dam, watercraft navigate beneath 300-foot sheer limestone canyon cliffs, explore sea-like shoreline caves, view 200-foot waterfalls cascading directly into the river, and experience unique daily river level shifts created by dam operations.
 
+![Pewee Falls Cascading 200 Feet into the Pend Oreille River](../../../assets/images/p52_orig.png)
+_Pewee Falls Cascading 200 Feet into the Pend Oreille River._
+
 !!! warning "Critical Water Level Fluctuation & Navigation Warnings"
 
     - **5 to 16 Foot Daily Water Level Fluctuations:** Boundary Dam and Box Canyon Dam generate hydroelectric power for Seattle throughout the day. Water levels rise and fall by 5 to 16 feet every 24 hours.
@@ -45,6 +48,9 @@ The paddle trip along the northernmost stretch of the Pend Oreille River to Pewe
 - **Z Canyon Sheer Cliffs:** South of Pewee Falls, the river enters Z Canyon, where sheer limestone walls rise 300+ feet directly out of the water. Two paddle-accessible caves appear on the eastern shoreline as water levels drop in the afternoon.
 - **Stereophonic Waterfalls:** Approximately 7.7 miles upstream from the launch, two waterfalls pour into the river from opposite banks. Floating in the middle of the river between the falls creates a stereophonic acoustic effect.
 - **Backcountry Lakeshore Camping:** Primitive campsites are situated along the riverbank at mile 9.3 for overnight trips.
+
+![Pend Oreille River Canyon near Z Canyon](../../../assets/images/6182025208p.jpg)
+_Pend Oreille River Canyon near Z Canyon._
 
 ---
 
@@ -79,8 +85,6 @@ The paddle trip along the northernmost stretch of the Pend Oreille River to Pewe
 
 ## Photo Gallery
 
-- ![Pewee Falls Cascading 200 Feet into the Pend Oreille River](../../../assets/images/p52_orig.png)
-- ![Pend Oreille River Canyon near Z Canyon](../../../assets/images/6182025208p.jpg)
 - ![Boundary Dam Campground and Launch Site](../../../assets/images/p135.png)
 - ![Ratt Island on the Pend Oreille River at Low Water](../../../assets/images/11062021206p.jpg)
 - ![Ratt Island on the Pend Oreille River at High Water](../../../assets/images/20216101015.jpg)
