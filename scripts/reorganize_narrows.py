@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: "Twin Lakes Narrows Channel Guide"
 tags:
   - Lakes
@@ -64,3 +66,9 @@ notes:
 - **Connected Waterways:** Explore [Upper Twin Lakes Launch](upper-twin-lakes-launch.md) and [Lower Twin Lakes Launch](lower-twin-lakes-launch.md).
 - **Regional Destinations:** Spirit Lake, Hauser Lake, and Mt. Spokane State Park.
 - **Rest & Provisions:** Gas, groceries, and dining are available 10 minutes south in Rathdrum, ID, or north in Spirit Lake, ID.
+"""
+
+with open("docs/paddle/idaho/twin-lakes/twin-lakes-narrows.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized twin-lakes-narrows.md successfully")
