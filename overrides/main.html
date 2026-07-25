@@ -46,7 +46,11 @@
 
   {% if page.meta.stats %}
     <div class="admonition info" style="margin-bottom: 1.5rem;">
-      <p class="admonition-title">Quick Facts & Trip Stats</p>
+      {% if page.meta.tags and 'Recipes' in page.meta.tags %}
+        <p class="admonition-title">Quick Facts & Recipe Stats</p>
+      {% else %}
+        <p class="admonition-title">Quick Facts & Trip Stats</p>
+      {% endif %}
       <ul>
         {% for item in page.meta.stats %}
           <li>

@@ -7,10 +7,14 @@ tags:
   - Soups
   - Trail Meals
 stats:
-  - "Author": "Chic Burge"
-  - "Prep Time": "30 mins"
-  - "Cook Time": "4-12 hrs (Broth) + 30 mins"
-  - "Yield": "1-2 Gallons (Canning friendly)"
+  - label: Author
+    value: Chic Burge
+  - label: Prep Time
+    value: 30 mins
+  - label: Cook Time
+    value: 4-12 hrs (Broth) + 30 mins
+  - label: Yield
+    value: 1-2 Gallons (Canning friendly)
 ---
 
 A hearty, flavorful homemade chicken and rice soup featuring slow-simmered chicken stock, broiled sweet peppers, okra, and served alongside broiled garlic French bread. Perfect for canning or packing on cold mountain hikes!
@@ -98,4 +102,4 @@ A hearty, flavorful homemade chicken and rice soup featuring slow-simmered chick
 with open("docs/recipes/soups/chicken-and-rice-soup.md", "w", encoding="utf-8") as f:
     f.write(content)
 
-print("Reorganized chicken-and-rice-soup.md successfully")
+print("Updated chicken-and-rice-soup.md with correct label/value stats schema")
