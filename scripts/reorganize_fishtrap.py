@@ -73,6 +73,8 @@ Fishtrap Lake is a tranquil 190-acre scabland lake surrounded by Bureau of Land 
 
 ## Photo Gallery
 
+Click any photo to view in high resolution with full captions.
+
 ![American White Pelican on Fishtrap Lake](../../../assets/images/20200525140507.jpg)
 _American White Pelican resting on the open waters of Fishtrap Lake._
 
@@ -89,4 +91,4 @@ _Inlet area near the historic World War I dance hall at the head of the lake._
 with open("docs/paddle/washington/scablands/fishtrap-lake-wa.md", "w", encoding="utf-8") as f:
     f.write(content)
 
-print("Reorganized fishtrap-lake-wa.md successfully")
+print("Reorganized fishtrap-lake-wa.md with full-width photo gallery successfully")

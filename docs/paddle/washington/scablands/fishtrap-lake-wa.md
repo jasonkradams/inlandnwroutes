@@ -71,6 +71,8 @@ Fishtrap Lake is a tranquil 190-acre scabland lake surrounded by Bureau of Land 
 
 ## Photo Gallery
 
+Click any photo to view in high resolution with full captions.
+
 ![American White Pelican on Fishtrap Lake](../../../assets/images/20200525140507.jpg)
 _American White Pelican resting on the open waters of Fishtrap Lake._
 
