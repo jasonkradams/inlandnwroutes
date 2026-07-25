@@ -13,7 +13,7 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
   <div id="tag-cloud-container" class="tag-cloud-container">
     <button type="button" class="tag-pill-btn" data-tag="Day Hiking">Day Hiking <span class="tag-count">(144)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Backpacking">Backpacking <span class="tag-count">(120)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Lakes">Lakes <span class="tag-count">(90)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Lakes">Lakes <span class="tag-count">(93)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Trails & Scrambles">Trails & Scrambles <span class="tag-count">(87)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Peaks & Mountains">Peaks & Mountains <span class="tag-count">(69)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Skiing & Snowshoeing">Skiing & Snowshoeing <span class="tag-count">(51)</span></button>
@@ -21,29 +21,31 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
     <button type="button" class="tag-pill-btn" data-tag="Paddling & Rivers">Paddling & Rivers <span class="tag-count">(42)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Easy">Easy <span class="tag-count">(37)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Scrambling">Scrambling <span class="tag-count">(36)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Paddling">Paddling <span class="tag-count">(33)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Equestrian">Equestrian <span class="tag-count">(31)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Paddling">Paddling <span class="tag-count">(29)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Mountain Biking">Mountain Biking <span class="tag-count">(21)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Difficult">Difficult <span class="tag-count">(20)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Climbing">Climbing <span class="tag-count">(19)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Fishing">Fishing <span class="tag-count">(19)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Mountain Biking">Mountain Biking <span class="tag-count">(19)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Resources">Resources <span class="tag-count">(18)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Camping">Camping <span class="tag-count">(16)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Photography">Photography <span class="tag-count">(16)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Waterfalls">Waterfalls <span class="tag-count">(15)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Photo Gallery">Photo Gallery <span class="tag-count">(13)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Flora & Plants">Flora & Plants <span class="tag-count">(12)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Flora & Plants">Flora & Plants <span class="tag-count">(11)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Strenuous">Strenuous <span class="tag-count">(11)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Recipes">Recipes <span class="tag-count">(10)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Spokane County">Spokane County <span class="tag-count">(9)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Hiking">Hiking <span class="tag-count">(7)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Spokane County">Spokane County <span class="tag-count">(6)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Writings">Writings <span class="tag-count">(6)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Conservation & Organizations">Conservation & Organizations <span class="tag-count">(5)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Fire Lookout Rental">Fire Lookout Rental <span class="tag-count">(5)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Writings">Writings <span class="tag-count">(5)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Washington Scablands">Washington Scablands <span class="tag-count">(4)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Birding">Birding <span class="tag-count">(3)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Flora & Wildlife">Flora & Wildlife <span class="tag-count">(3)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="History">History <span class="tag-count">(3)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Loop">Loop <span class="tag-count">(3)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Pend Oreille County">Pend Oreille County <span class="tag-count">(3)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Priest Lake">Priest Lake <span class="tag-count">(3)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Quotes">Quotes <span class="tag-count">(3)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Safety">Safety <span class="tag-count">(3)</span></button>
@@ -53,24 +55,31 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
     <button type="button" class="tag-pill-btn" data-tag="Wildflowers">Wildflowers <span class="tag-count">(3)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Clearwater National Forest">Clearwater National Forest <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Coeur d'Alene">Coeur d'Alene <span class="tag-count">(2)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Conservation Area">Conservation Area <span class="tag-count">(2)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Dining">Dining <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Easy to Moderate">Easy to Moderate <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Liberty Lake">Liberty Lake <span class="tag-count">(2)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Pend Oreille County">Pend Oreille County <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Picnicking">Picnicking <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Regional Routes">Regional Routes <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Selkirks">Selkirks <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Sightseeing">Sightseeing <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Soups">Soups <span class="tag-count">(2)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Spokane Valley">Spokane Valley <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="State Parks">State Parks <span class="tag-count">(2)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Survival">Survival <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Trail Etiquette">Trail Etiquette <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Walking">Walking <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Washington State Parks">Washington State Parks <span class="tag-count">(2)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="14 Essentials">14 Essentials <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="ADA Accessible">ADA Accessible <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Adages">Adages <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Animal Viewing">Animal Viewing <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Antoine Peak">Antoine Peak <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Astronomy">Astronomy <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Atmosphere & Skies">Atmosphere & Skies <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Auto Tour">Auto Tour <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="BLM Recreation Area">BLM Recreation Area <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Backcountry Safety">Backcountry Safety <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Backcountry Skills">Backcountry Skills <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Bears">Bears <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Boundary Dam">Boundary Dam <span class="tag-count">(1)</span></button>
@@ -81,14 +90,14 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
     <button type="button" class="tag-pill-btn" data-tag="Canada">Canada <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Canadian Rockies">Canadian Rockies <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Carpool">Carpool <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Chic Burge">Chic Burge <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Colville National Forest">Colville National Forest <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Community">Community <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Compass">Compass <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Cross-country Skiing">Cross-country Skiing <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Deserts & Scablands">Deserts & Scablands <span class="tag-count">(1)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Dining">Dining <span class="tag-count">(1)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Dinning">Dinning <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Downhill Hiking">Downhill Hiking <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Eastern Washington">Eastern Washington <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Easy to Difficult">Easy to Difficult <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Emergency Preparedness">Emergency Preparedness <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Exceptional Beauty">Exceptional Beauty <span class="tag-count">(1)</span></button>
@@ -108,16 +117,19 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
     <button type="button" class="tag-pill-btn" data-tag="Leave No Trace">Leave No Trace <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Lightning">Lightning <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Logistics">Logistics <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Lyons Ferry">Lyons Ferry <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Main Dishes">Main Dishes <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Managing Agencies">Managing Agencies <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Maps">Maps <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Medical">Medical <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Medical Lake">Medical Lake <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Moderate to Difficult">Moderate to Difficult <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Moderate to Moderately Difficult">Moderate to Moderately Difficult <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Moderate to Strenuous">Moderate to Strenuous <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Moderate to the Mollies">Moderate to the Mollies <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Moderately Difficult to Difficult">Moderately Difficult to Difficult <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Moderately Easy">Moderately Easy <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Mountain Philosophy">Mountain Philosophy <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Mountaineering">Mountaineering <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Mountaineering & Education">Mountaineering & Education <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Mt Biking">Mt Biking <span class="tag-count">(1)</span></button>
@@ -131,7 +143,10 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
     <button type="button" class="tag-pill-btn" data-tag="Orving">Orving <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Paddles">Paddles <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Paddling & Water Sports">Paddling & Water Sports <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Palouse Falls">Palouse Falls <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Palouse River">Palouse River <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Poems">Poems <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Poetry">Poetry <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Poison Ivy">Poison Ivy <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Post Falls">Post Falls <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Pressure Breathing">Pressure Breathing <span class="tag-count">(1)</span></button>
@@ -143,18 +158,23 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
     <button type="button" class="tag-pill-btn" data-tag="Restaurants">Restaurants <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Ridge Walking">Ridge Walking <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Ridges">Ridges <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Rivers">Rivers <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Rock Creek">Rock Creek <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Rock Diving">Rock Diving <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Rocks & Geology">Rocks & Geology <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Roped Snow">Roped Snow <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Route Finding">Route Finding <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Running">Running <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Safety & Emergency">Safety & Emergency <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Saltese Uplands">Saltese Uplands <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Scenic Nature Hike">Scenic Nature Hike <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Scenic Overlook">Scenic Overlook <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Selkirk Foothills">Selkirk Foothills <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Sight Seeing">Sight Seeing <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Silver Mountain">Silver Mountain <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Singletrack">Singletrack <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Snow-shoeing">Snow-shoeing <span class="tag-count">(1)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="So Much More">So Much More <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="South America">South America <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Spelunking Made Easy">Spelunking Made Easy <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Spokane Mountaineers">Spokane Mountaineers <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Spokane River">Spokane River <span class="tag-count">(1)</span></button>
@@ -165,10 +185,10 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
     <button type="button" class="tag-pill-btn" data-tag="Stories">Stories <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Streams & Rivers">Streams & Rivers <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Strenuous to Very Strenuous">Strenuous to Very Strenuous <span class="tag-count">(1)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Survival">Survival <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Ticks">Ticks <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Trail Heroes">Trail Heroes <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Trail Meals">Trail Meals <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Trail Riding">Trail Riding <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Trails">Trails <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Very Difficult">Very Difficult <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Very Difficult, Exposure">Very Difficult, Exposure <span class="tag-count">(1)</span></button>
@@ -176,6 +196,7 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
     <button type="button" class="tag-pill-btn" data-tag="Washington">Washington <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Weather">Weather <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Weather Trivia">Weather Trivia <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Wilderness Preparedness">Wilderness Preparedness <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Wilderness Skills">Wilderness Skills <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Wildlife">Wildlife <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Wildlife Hazards">Wildlife Hazards <span class="tag-count">(1)</span></button>
@@ -195,6 +216,15 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
 ---
 
 <div id="tag-results-container" class="tag-results-container" markdown="1">
+<div class="static-tag-section" data-tag="14 Essentials" markdown="1">
+
+## 14 Essentials
+
+Found **1** guide tagged with **14 Essentials**:
+
+- [14 Essentials](14-essentials.md)
+
+</div>
 <div class="static-tag-section" data-tag="ADA Accessible" markdown="1">
 
 ## ADA Accessible
@@ -220,6 +250,15 @@ Found **1** guide tagged with **Adages**:
 Found **1** guide tagged with **Animal Viewing**:
 
 - [Kootenai National Wildlife Refuge](hike/idaho/american-selkirks/kootenai-wlr.md)
+
+</div>
+<div class="static-tag-section" data-tag="Antoine Peak" markdown="1">
+
+## Antoine Peak
+
+Found **1** guide tagged with **Antoine Peak**:
+
+- [Bike/Arrow Leaf](bike/arrow-leaf.md)
 
 </div>
 <div class="static-tag-section" data-tag="Astronomy" markdown="1">
@@ -249,13 +288,31 @@ Found **1** guide tagged with **Auto Tour**:
 - [Kootenai National Wildlife Refuge](hike/idaho/american-selkirks/kootenai-wlr.md)
 
 </div>
+<div class="static-tag-section" data-tag="BLM Recreation Area" markdown="1">
+
+## BLM Recreation Area
+
+Found **1** guide tagged with **BLM Recreation Area**:
+
+- [Paddle/Washington/Scablands/Fishtrap Lake Wa](paddle/washington/scablands/fishtrap-lake-wa.md)
+
+</div>
+<div class="static-tag-section" data-tag="Backcountry Safety" markdown="1">
+
+## Backcountry Safety
+
+Found **1** guide tagged with **Backcountry Safety**:
+
+- [14 Essentials](14-essentials.md)
+
+</div>
 <div class="static-tag-section" data-tag="Backcountry Skills" markdown="1">
 
 ## Backcountry Skills
 
 Found **1** guide tagged with **Backcountry Skills**:
 
-- [Resources/General/Hints](resources/general/hints.md)
+- [Resources/Safety And Field Skills/Hints](resources/safety-and-field-skills/hints.md)
 
 </div>
 <div class="static-tag-section" data-tag="Backpacking" markdown="1">
@@ -303,6 +360,7 @@ Found **120** guides tagged with **Backpacking**:
 - [Harrison Lake & Peak 7292 (Trail #217 & #6)](hike/idaho/american-selkirks/harrison-lake--peak-7292-trial--217.md)
 - [Hawk Creek S P](hike/washington/scablands/hawk-creek-s-p.md)
 - [Heart Lake](hike/montana/lolo-national-forest/heart-lake.md)
+- [Hike/South America/Patagonia](hike/south-america/patagonia.md)
 - [Hiking & Scrambling Regional Portal](hike/index.md)
 - [Hooknose Mountain](hike/washington/eastern-washington/hooknose-mountain.md)
 - [Hub Lake](hike/montana/bitterroots/hub-lake.md)
@@ -340,7 +398,6 @@ Found **120** guides tagged with **Backpacking**:
 - [Packsaddle Mountain (Trail #76)](hike/idaho/north-idaho-hikes/packsaddle-mountain.md)
 - [Parker Peak 7670](hike/idaho/american-selkirks/parker-peak-7670.md)
 - [Parmenter Lake](hike/montana/cabinet-mountains-wilderness/parmenter-lake.md)
-- [Patagonia](hike/south-america/patagonia.md)
 - [Pillick Ridge 6167](hike/idaho/proposed-scotchman-peaks-wilderness/pillick-ridge-6167.md)
 - [Pyramid and Ball Lakes Trail 43](hike/idaho/american-selkirks/pyramid-and-ball-lakes-trail-43.md)
 - [Quincy Lakes](hike/washington/scablands/quincy-lakes.md)
@@ -430,7 +487,7 @@ Found **1** guide tagged with **British Columbia**:
 
 Found **1** guide tagged with **Camera Advice**:
 
-- [Resources/General/Photography](resources/general/photography.md)
+- [Resources/Gear And Photography/Photography](resources/gear-and-photography/photography.md)
 
 </div>
 <div class="static-tag-section" data-tag="Camp Etiquette" markdown="1">
@@ -502,6 +559,15 @@ Found **1** guide tagged with **Carpool**:
 - [Resources/Trail Etiquette And Skills/Camp Etiquette And Logistics](resources/trail-etiquette-and-skills/camp-etiquette-and-logistics.md)
 
 </div>
+<div class="static-tag-section" data-tag="Chic Burge" markdown="1">
+
+## Chic Burge
+
+Found **1** guide tagged with **Chic Burge**:
+
+- [Writings/Index](writings/index.md)
+
+</div>
 <div class="static-tag-section" data-tag="Clearwater National Forest" markdown="1">
 
 ## Clearwater National Forest
@@ -564,7 +630,7 @@ Found **1** guide tagged with **Colville National Forest**:
 
 Found **1** guide tagged with **Community**:
 
-- [Resources/General/Inland Nw Hikers](resources/general/inland-nw-hikers.md)
+- [Resources/Regional Guides And Clubs/Inland Nw Hikers](resources/regional-guides-and-clubs/inland-nw-hikers.md)
 
 </div>
 <div class="static-tag-section" data-tag="Compass" markdown="1">
@@ -587,6 +653,16 @@ Found **5** guides tagged with **Conservation & Organizations**:
 - [Spokane Mountaineers](resources/conservation-and-like-minded-organizations/spokane-mountaineers.md)
 - [Spokane Nordic Ski Association](resources/conservation-and-like-minded-organizations/spokane-nordic-ski-association.md)
 - [Washington Trails Association](resources/conservation-and-like-minded-organizations/washington-trails-association.md)
+
+</div>
+<div class="static-tag-section" data-tag="Conservation Area" markdown="1">
+
+## Conservation Area
+
+Found **2** guides tagged with **Conservation Area**:
+
+- [Bike/Arrow Leaf](bike/arrow-leaf.md)
+- [Bike/Saltese Highlands Summit Loop](bike/saltese-highlands-summit-loop.md)
 
 </div>
 <div class="static-tag-section" data-tag="Cross-country Skiing" markdown="1">
@@ -791,18 +867,10 @@ Found **20** guides tagged with **Difficult**:
 
 ## Dining
 
-Found **1** guide tagged with **Dining**:
+Found **2** guides tagged with **Dining**:
 
-- [Resources/General/Restaurants And Pubs](resources/general/restaurants-and-pubs.md)
-
-</div>
-<div class="static-tag-section" data-tag="Dinning" markdown="1">
-
-## Dinning
-
-Found **1** guide tagged with **Dinning**:
-
-- [Patagonia](hike/south-america/patagonia.md)
+- [Hike/South America/Patagonia](hike/south-america/patagonia.md)
+- [Resources/Local Businesses And Dining/Restaurants And Pubs](resources/local-businesses-and-dining/restaurants-and-pubs.md)
 
 </div>
 <div class="static-tag-section" data-tag="Downhill Hiking" markdown="1">
@@ -812,6 +880,15 @@ Found **1** guide tagged with **Dinning**:
 Found **1** guide tagged with **Downhill Hiking**:
 
 - [Resources/Trail Etiquette And Skills/Hiking Techniques](resources/trail-etiquette-and-skills/hiking-techniques.md)
+
+</div>
+<div class="static-tag-section" data-tag="Eastern Washington" markdown="1">
+
+## Eastern Washington
+
+Found **1** guide tagged with **Eastern Washington**:
+
+- [Paddle/Washington/Scablands/Marshall Lake Launch](paddle/washington/scablands/marshall-lake-launch.md)
 
 </div>
 <div class="static-tag-section" data-tag="Easy" markdown="1">
@@ -865,7 +942,7 @@ Found **37** guides tagged with **Easy**:
 
 Found **1** guide tagged with **Easy to Difficult**:
 
-- [Patagonia](hike/south-america/patagonia.md)
+- [Hike/South America/Patagonia](hike/south-america/patagonia.md)
 
 </div>
 <div class="static-tag-section" data-tag="Easy to Moderate" markdown="1">
@@ -950,7 +1027,7 @@ Found **1** guide tagged with **Faces in Nature**:
 
 Found **1** guide tagged with **Field Advice**:
 
-- [Resources/General/Photography](resources/general/photography.md)
+- [Resources/Gear And Photography/Photography](resources/gear-and-photography/photography.md)
 
 </div>
 <div class="static-tag-section" data-tag="Fire Lookout Rental" markdown="1">
@@ -972,7 +1049,7 @@ Found **5** guides tagged with **Fire Lookout Rental**:
 
 Found **1** guide tagged with **First Aid**:
 
-- [Resources/General/Medical Information](resources/general/medical-information.md)
+- [Resources/Safety And Field Skills/Medical Information](resources/safety-and-field-skills/medical-information.md)
 
 </div>
 <div class="static-tag-section" data-tag="Fishing" markdown="1">
@@ -1006,9 +1083,8 @@ Found **19** guides tagged with **Fishing**:
 
 ## Flora & Plants
 
-Found **12** guides tagged with **Flora & Plants**:
+Found **11** guides tagged with **Flora & Plants**:
 
-- [Arrow Leaf](bike/arrow-leaf.md)
 - [Baker's Mariposa Lily](wildflowers/white/bakers-mariposa-lily.md)
 - [Clammy Cabbage Over Pasta](recipes/main-dishes/clammy-cabbage-over-pasta.md)
 - [Fungi & Mushrooms](gallery/categories/fungi---rooms.md)
@@ -1039,7 +1115,7 @@ Found **3** guides tagged with **Flora & Wildlife**:
 
 Found **1** guide tagged with **Gear**:
 
-- [Resources/General/Hints](resources/general/hints.md)
+- [Resources/Safety And Field Skills/Hints](resources/safety-and-field-skills/hints.md)
 
 </div>
 <div class="static-tag-section" data-tag="Hiking" markdown="1">
@@ -1049,9 +1125,9 @@ Found **1** guide tagged with **Gear**:
 Found **7** guides tagged with **Hiking**:
 
 - [Ginkgo Petrified Forest](hike/washington/scablands/ginkgo-petrified-forest.md)
+- [Hike/South America/Patagonia](hike/south-america/patagonia.md)
 - [Hiking & Scrambling Regional Portal](hike/index.md)
 - [North Idaho Hikes](hike/idaho/north-idaho-hikes/index.md)
-- [Patagonia](hike/south-america/patagonia.md)
 - [Smith Rocks](hike/oregon/smith-rocks.md)
 - [South Sister Mountain 10358](hike/oregon/south-sister-mountain-10358.md)
 - [St. Joe Lake & Illinois Peak](hike/montana/bitterroots/st-joe-lake--illinois-peak.md)
@@ -1063,7 +1139,7 @@ Found **7** guides tagged with **Hiking**:
 
 Found **1** guide tagged with **Hiking Clubs**:
 
-- [Resources/General/Inland Nw Hikers](resources/general/inland-nw-hikers.md)
+- [Resources/Regional Guides And Clubs/Inland Nw Hikers](resources/regional-guides-and-clubs/inland-nw-hikers.md)
 
 </div>
 <div class="static-tag-section" data-tag="Hiking Techniques" markdown="1">
@@ -1081,7 +1157,7 @@ Found **1** guide tagged with **Hiking Techniques**:
 
 Found **1** guide tagged with **Hints**:
 
-- [Resources/General/Hints](resources/general/hints.md)
+- [Resources/Safety And Field Skills/Hints](resources/safety-and-field-skills/hints.md)
 
 </div>
 <div class="static-tag-section" data-tag="History" markdown="1">
@@ -1128,7 +1204,7 @@ Found **1** guide tagged with **Hydration**:
 
 Found **1** guide tagged with **Inland NW Hikers**:
 
-- [Resources/General/Inland Nw Hikers](resources/general/inland-nw-hikers.md)
+- [Resources/Regional Guides And Clubs/Inland Nw Hikers](resources/regional-guides-and-clubs/inland-nw-hikers.md)
 
 </div>
 <div class="static-tag-section" data-tag="Inland Northwest" markdown="1">
@@ -1153,7 +1229,7 @@ Found **1** guide tagged with **Lake Spokane**:
 
 ## Lakes
 
-Found **90** guides tagged with **Lakes**:
+Found **93** guides tagged with **Lakes**:
 
 - [Amber Lake Launch](paddle/washington/scablands/amber-lake-launch.md)
 - [Anderson Lake / Thompson Lake Launch](paddle/idaho/cda-river-chain-lakes/anderson-lakethompson-lake-launch.md)
@@ -1169,7 +1245,6 @@ Found **90** guides tagged with **Lakes**:
 - [Beehive Lake 6457](hike/idaho/american-selkirks/beehive-lake-6457.md)
 - [Black Lake Launch](paddle/idaho/cda-river-chain-lakes/black-lake-launch.md)
 - [Blossom Lake](hike/montana/lolo-national-forest/blossom-lake.md)
-- [Bonnie Lake Landing](paddle/washington/scablands/bonnie-lake-landing.md)
 - [Bottleneck Lake & Peak](hike/idaho/american-selkirks/bottleneck-lake--peak.md)
 - [Bramlet Lake](hike/montana/cabinet-mountains-wilderness/bramlet-lake.md)
 - [Breezy Hill Ancient and Dusty Lakes](hike/washington/scablands/breezy-hill-ancient-and-dusty-lakes.md)
@@ -1220,6 +1295,10 @@ Found **90** guides tagged with **Lakes**:
 - [Newman Lake Road Launch](paddle/washington/eastern-washington/newman-lake-road.md)
 - [Old Mission Launch](paddle/idaho/north-idaho-launch-sites-cda-lake/old-mission-launch.md)
 - [Paddle/Washington/Eastern Washington/Loon Lake Launch](paddle/washington/eastern-washington/loon-lake-launch.md)
+- [Paddle/Washington/Scablands/Bonnie Lake Landing](paddle/washington/scablands/bonnie-lake-landing.md)
+- [Paddle/Washington/Scablands/Fishtrap Lake Wa](paddle/washington/scablands/fishtrap-lake-wa.md)
+- [Paddle/Washington/Scablands/Marshall Lake Launch](paddle/washington/scablands/marshall-lake-launch.md)
+- [Paddle/Washington/Scablands/West Medical Lake](paddle/washington/scablands/west-medical-lake.md)
 - [Parmenter Lake](hike/montana/cabinet-mountains-wilderness/parmenter-lake.md)
 - [Potholes Reservoir](paddle/washington/scablands/potholes-reservoir.md)
 - [Pyramid and Ball Lakes Trail 43](hike/idaho/american-selkirks/pyramid-and-ball-lakes-trail-43.md)
@@ -1272,7 +1351,7 @@ Found **2** guides tagged with **Liberty Lake**:
 
 Found **1** guide tagged with **Lightning**:
 
-- [Resources/General/Weather Thunderstorms And Lightning](resources/general/weather-thunderstorms-and-lightning.md)
+- [Resources/Safety And Field Skills/Weather Thunderstorms And Lightning](resources/safety-and-field-skills/weather-thunderstorms-and-lightning.md)
 
 </div>
 <div class="static-tag-section" data-tag="Logistics" markdown="1">
@@ -1295,6 +1374,15 @@ Found **3** guides tagged with **Loop**:
 - [Parmenter Lake](hike/montana/cabinet-mountains-wilderness/parmenter-lake.md)
 
 </div>
+<div class="static-tag-section" data-tag="Lyons Ferry" markdown="1">
+
+## Lyons Ferry
+
+Found **1** guide tagged with **Lyons Ferry**:
+
+- [Paddle/Washington/Scablands/Palouse River Launch](paddle/washington/scablands/palouse-river-launch.md)
+
+</div>
 <div class="static-tag-section" data-tag="Main Dishes" markdown="1">
 
 ## Main Dishes
@@ -1310,7 +1398,7 @@ Found **1** guide tagged with **Main Dishes**:
 
 Found **1** guide tagged with **Managing Agencies**:
 
-- [Managing Agencies & Emergency Directory](resources/general/managing-agencies.md)
+- [Managing Agencies & Emergency Directory](resources/land-management/managing-agencies.md)
 
 </div>
 <div class="static-tag-section" data-tag="Maps" markdown="1">
@@ -1328,7 +1416,16 @@ Found **1** guide tagged with **Maps**:
 
 Found **1** guide tagged with **Medical**:
 
-- [Resources/General/Medical Information](resources/general/medical-information.md)
+- [Resources/Safety And Field Skills/Medical Information](resources/safety-and-field-skills/medical-information.md)
+
+</div>
+<div class="static-tag-section" data-tag="Medical Lake" markdown="1">
+
+## Medical Lake
+
+Found **1** guide tagged with **Medical Lake**:
+
+- [Paddle/Washington/Scablands/West Medical Lake](paddle/washington/scablands/west-medical-lake.md)
 
 </div>
 <div class="static-tag-section" data-tag="Moderate" markdown="1">
@@ -1446,10 +1543,12 @@ Found **1** guide tagged with **Moderately Easy**:
 
 ## Mountain Biking
 
-Found **19** guides tagged with **Mountain Biking**:
+Found **21** guides tagged with **Mountain Biking**:
 
 - [13 Mile Canyon Trail 23](hike/washington/eastern-washington/13-mile-canyon-trail-23.md)
 - [Bernard Peak Overlook & High Point Trail #37](hike/idaho/north-idaho-hikes/bernard-peak-overlook.md)
+- [Bike/Arrow Leaf](bike/arrow-leaf.md)
+- [Bike/Saltese Highlands Summit Loop](bike/saltese-highlands-summit-loop.md)
 - [Bloom Peak](hike/idaho/silver-valley-area/bloom-peak.md)
 - [Breezy Hill Ancient and Dusty Lakes](hike/washington/scablands/breezy-hill-ancient-and-dusty-lakes.md)
 - [Caribou Ridge National Recreation Trail #79](hike/idaho/north-idaho-hikes/mount-cda-trail-79-caribou-ridge.md)
@@ -1467,6 +1566,15 @@ Found **19** guides tagged with **Mountain Biking**:
 - [Quincy Lakes](hike/washington/scablands/quincy-lakes.md)
 - [Shefoot Mountain (6,349') & Big Dick Point (5,419')](hike/idaho/north-idaho-hikes/shefoot-mountain.md)
 - [Upper Priest River Trail #308 to American Falls](hike/idaho/north-idaho-hikes/american-falls-trail-308.md)
+
+</div>
+<div class="static-tag-section" data-tag="Mountain Philosophy" markdown="1">
+
+## Mountain Philosophy
+
+Found **1** guide tagged with **Mountain Philosophy**:
+
+- [Writings/Index](writings/index.md)
 
 </div>
 <div class="static-tag-section" data-tag="Mountaineering" markdown="1">
@@ -1581,7 +1689,7 @@ Found **1** guide tagged with **Paddles**:
 
 ## Paddling
 
-Found **29** guides tagged with **Paddling**:
+Found **33** guides tagged with **Paddling**:
 
 - [Amber Lake Launch](paddle/washington/scablands/amber-lake-launch.md)
 - [Anderson Lake / Thompson Lake Launch](paddle/idaho/cda-river-chain-lakes/anderson-lakethompson-lake-launch.md)
@@ -1591,7 +1699,6 @@ Found **29** guides tagged with **Paddling**:
 - [Banks Lake Kayak & Hike](paddle/washington/scablands/banks-lake-kayak-and-hike.md)
 - [Bear Lake Launch](paddle/washington/eastern-washington/bear-lake-launch.md)
 - [Black Lake Launch](paddle/idaho/cda-river-chain-lakes/black-lake-launch.md)
-- [Bonnie Lake Landing](paddle/washington/scablands/bonnie-lake-landing.md)
 - [Bronze Bay Launch](paddle/idaho/spokane-river/bronze-bay-launch.md)
 - [Coeur d'Alene River Trail 20](hike/idaho/silver-valley-area/cda-river-tr-20.md)
 - [Echo Bay & Lake Pend Oreille (2,057')](paddle/idaho/pend-orielle-lake/echo-bay-lake-pend-orielle.md)
@@ -1607,6 +1714,11 @@ Found **29** guides tagged with **Paddling**:
 - [Mica Bay Launch](paddle/idaho/north-idaho-launch-sites-cda-lake/mica-bay-launch.md)
 - [Newman Lake Road Launch](paddle/washington/eastern-washington/newman-lake-road.md)
 - [Old Mission Launch](paddle/idaho/north-idaho-launch-sites-cda-lake/old-mission-launch.md)
+- [Paddle/Washington/Scablands/Bonnie Lake Landing](paddle/washington/scablands/bonnie-lake-landing.md)
+- [Paddle/Washington/Scablands/Fishtrap Lake Wa](paddle/washington/scablands/fishtrap-lake-wa.md)
+- [Paddle/Washington/Scablands/Marshall Lake Launch](paddle/washington/scablands/marshall-lake-launch.md)
+- [Paddle/Washington/Scablands/Palouse River Launch](paddle/washington/scablands/palouse-river-launch.md)
+- [Paddle/Washington/Scablands/West Medical Lake](paddle/washington/scablands/west-medical-lake.md)
 - [Paddling Safety & Kayaking Guide](paddle/index.md)
 - [Rock Lake 4958](hike/montana/cabinet-mountains-wilderness/rock-lake-4958.md)
 - [Smith Rocks](hike/oregon/smith-rocks.md)
@@ -1671,6 +1783,24 @@ Found **42** guides tagged with **Paddling & Rivers**:
 Found **1** guide tagged with **Paddling & Water Sports**:
 
 - [Spokane Canoe and Kayak Club](resources/conservation-and-like-minded-organizations/spokane-canoe-and-kayak-club.md)
+
+</div>
+<div class="static-tag-section" data-tag="Palouse Falls" markdown="1">
+
+## Palouse Falls
+
+Found **1** guide tagged with **Palouse Falls**:
+
+- [Paddle/Washington/Scablands/Palouse River Launch](paddle/washington/scablands/palouse-river-launch.md)
+
+</div>
+<div class="static-tag-section" data-tag="Palouse River" markdown="1">
+
+## Palouse River
+
+Found **1** guide tagged with **Palouse River**:
+
+- [Paddle/Washington/Scablands/Palouse River Launch](paddle/washington/scablands/palouse-river-launch.md)
 
 </div>
 <div class="static-tag-section" data-tag="Peaks & Mountains" markdown="1">
@@ -1754,10 +1884,11 @@ Found **69** guides tagged with **Peaks & Mountains**:
 
 ## Pend Oreille County
 
-Found **2** guides tagged with **Pend Oreille County**:
+Found **3** guides tagged with **Pend Oreille County**:
 
 - [Paddle/Washington/Eastern Washington/Bead Lake Launch](paddle/washington/eastern-washington/bead-lake-launch.md)
 - [Paddle/Washington/Eastern Washington/Pewee Falls Pend Orielle River](paddle/washington/eastern-washington/pewee-falls-pend-orielle-river.md)
+- [Paddle/Washington/Scablands/Marshall Lake Launch](paddle/washington/scablands/marshall-lake-launch.md)
 
 </div>
 <div class="static-tag-section" data-tag="Photo Gallery" markdown="1">
@@ -1794,11 +1925,11 @@ Found **16** guides tagged with **Photography**:
 - [Fireworks Photography](gallery/categories/fireworks.md)
 - [Geiger Llost Buck Pass](hike/montana/cabinet-mountains-wilderness/geiger-llost-buck-pass.md)
 - [Hawk Creek S P](hike/washington/scablands/hawk-creek-s-p.md)
+- [Hike/South America/Patagonia](hike/south-america/patagonia.md)
 - [Hog Canyon Falls](hike/washington/scablands/hog-canyon--falls.md)
 - [John Day Fossil Bed National Monument](hike/oregon/john-day-fossil-bed-national-monument.md)
-- [Patagonia](hike/south-america/patagonia.md)
 - [Q'emiln Park & Post Falls Community Forest](hike/idaho/north-idaho-hikes/qemlin-park.md)
-- [Resources/General/Photography](resources/general/photography.md)
+- [Resources/Gear And Photography/Photography](resources/gear-and-photography/photography.md)
 - [Silver Falls S.P.](hike/oregon/silver-falls-sp.md)
 - [St Paul Lake](hike/montana/cabinet-mountains-wilderness/st-paul-lake.md)
 - [State Line Ridge Trail](hike/idaho/silver-valley-area/state-line-ridge-trail.md)
@@ -1822,6 +1953,15 @@ Found **2** guides tagged with **Picnicking**:
 Found **1** guide tagged with **Poems**:
 
 - [Writings/Poems](writings/poems.md)
+
+</div>
+<div class="static-tag-section" data-tag="Poetry" markdown="1">
+
+## Poetry
+
+Found **1** guide tagged with **Poetry**:
+
+- [Writings/Index](writings/index.md)
 
 </div>
 <div class="static-tag-section" data-tag="Poison Ivy" markdown="1">
@@ -1868,7 +2008,7 @@ Found **3** guides tagged with **Priest Lake**:
 
 Found **1** guide tagged with **Pubs**:
 
-- [Resources/General/Restaurants And Pubs](resources/general/restaurants-and-pubs.md)
+- [Resources/Local Businesses And Dining/Restaurants And Pubs](resources/local-businesses-and-dining/restaurants-and-pubs.md)
 
 </div>
 <div class="static-tag-section" data-tag="Quotes" markdown="1">
@@ -1888,7 +2028,7 @@ Found **3** guides tagged with **Quotes**:
 
 Found **1** guide tagged with **Rafting**:
 
-- [Patagonia](hike/south-america/patagonia.md)
+- [Hike/South America/Patagonia](hike/south-america/patagonia.md)
 
 </div>
 <div class="static-tag-section" data-tag="Rattlesnakes" markdown="1">
@@ -1953,13 +2093,13 @@ Found **1** guide tagged with **Resort**:
 Found **18** guides tagged with **Resources**:
 
 - [Idaho Trails Association](resources/conservation-and-like-minded-organizations/idaho-trails-association.md)
-- [Managing Agencies & Emergency Directory](resources/general/managing-agencies.md)
-- [Resources/General/Hints](resources/general/hints.md)
-- [Resources/General/Inland Nw Hikers](resources/general/inland-nw-hikers.md)
-- [Resources/General/Medical Information](resources/general/medical-information.md)
-- [Resources/General/Photography](resources/general/photography.md)
-- [Resources/General/Restaurants And Pubs](resources/general/restaurants-and-pubs.md)
-- [Resources/General/Weather Thunderstorms And Lightning](resources/general/weather-thunderstorms-and-lightning.md)
+- [Managing Agencies & Emergency Directory](resources/land-management/managing-agencies.md)
+- [Resources/Gear And Photography/Photography](resources/gear-and-photography/photography.md)
+- [Resources/Local Businesses And Dining/Restaurants And Pubs](resources/local-businesses-and-dining/restaurants-and-pubs.md)
+- [Resources/Regional Guides And Clubs/Inland Nw Hikers](resources/regional-guides-and-clubs/inland-nw-hikers.md)
+- [Resources/Safety And Field Skills/Hints](resources/safety-and-field-skills/hints.md)
+- [Resources/Safety And Field Skills/Medical Information](resources/safety-and-field-skills/medical-information.md)
+- [Resources/Safety And Field Skills/Weather Thunderstorms And Lightning](resources/safety-and-field-skills/weather-thunderstorms-and-lightning.md)
 - [Resources/Trail Etiquette And Skills/Camp Etiquette And Logistics](resources/trail-etiquette-and-skills/camp-etiquette-and-logistics.md)
 - [Resources/Trail Etiquette And Skills/Hiking Techniques](resources/trail-etiquette-and-skills/hiking-techniques.md)
 - [Resources/Trail Etiquette And Skills/Index](resources/trail-etiquette-and-skills/index.md)
@@ -1978,7 +2118,7 @@ Found **18** guides tagged with **Resources**:
 
 Found **1** guide tagged with **Restaurants**:
 
-- [Resources/General/Restaurants And Pubs](resources/general/restaurants-and-pubs.md)
+- [Resources/Local Businesses And Dining/Restaurants And Pubs](resources/local-businesses-and-dining/restaurants-and-pubs.md)
 
 </div>
 <div class="static-tag-section" data-tag="Ridge Walking" markdown="1">
@@ -1997,6 +2137,24 @@ Found **1** guide tagged with **Ridge Walking**:
 Found **1** guide tagged with **Ridges**:
 
 - [Ridges](gallery/categories/ridges.md)
+
+</div>
+<div class="static-tag-section" data-tag="Rivers" markdown="1">
+
+## Rivers
+
+Found **1** guide tagged with **Rivers**:
+
+- [Paddle/Washington/Scablands/Palouse River Launch](paddle/washington/scablands/palouse-river-launch.md)
+
+</div>
+<div class="static-tag-section" data-tag="Rock Creek" markdown="1">
+
+## Rock Creek
+
+Found **1** guide tagged with **Rock Creek**:
+
+- [Paddle/Washington/Scablands/Bonnie Lake Landing](paddle/washington/scablands/bonnie-lake-landing.md)
 
 </div>
 <div class="static-tag-section" data-tag="Rock Diving" markdown="1">
@@ -2050,8 +2208,8 @@ Found **1** guide tagged with **Running**:
 
 Found **3** guides tagged with **Safety**:
 
-- [Resources/General/Medical Information](resources/general/medical-information.md)
-- [Resources/General/Weather Thunderstorms And Lightning](resources/general/weather-thunderstorms-and-lightning.md)
+- [Resources/Safety And Field Skills/Medical Information](resources/safety-and-field-skills/medical-information.md)
+- [Resources/Safety And Field Skills/Weather Thunderstorms And Lightning](resources/safety-and-field-skills/weather-thunderstorms-and-lightning.md)
 - [Resources/Trail Etiquette And Skills/Index](resources/trail-etiquette-and-skills/index.md)
 
 </div>
@@ -2061,7 +2219,16 @@ Found **3** guides tagged with **Safety**:
 
 Found **1** guide tagged with **Safety & Emergency**:
 
-- [Managing Agencies & Emergency Directory](resources/general/managing-agencies.md)
+- [Managing Agencies & Emergency Directory](resources/land-management/managing-agencies.md)
+
+</div>
+<div class="static-tag-section" data-tag="Saltese Uplands" markdown="1">
+
+## Saltese Uplands
+
+Found **1** guide tagged with **Saltese Uplands**:
+
+- [Bike/Saltese Highlands Summit Loop](bike/saltese-highlands-summit-loop.md)
 
 </div>
 <div class="static-tag-section" data-tag="Scenery" markdown="1">
@@ -2137,6 +2304,15 @@ Found **36** guides tagged with **Scrambling**:
 - [West Fork Lake Mountain 6416  Lookout Tower Trail 347](hike/idaho/american-selkirks/west-fork-lake-mountain-6416--lookout-tower-trail-347.md)
 
 </div>
+<div class="static-tag-section" data-tag="Selkirk Foothills" markdown="1">
+
+## Selkirk Foothills
+
+Found **1** guide tagged with **Selkirk Foothills**:
+
+- [Paddle/Washington/Scablands/Marshall Lake Launch](paddle/washington/scablands/marshall-lake-launch.md)
+
+</div>
 <div class="static-tag-section" data-tag="Selkirks" markdown="1">
 
 ## Selkirks
@@ -2173,6 +2349,15 @@ Found **2** guides tagged with **Sightseeing**:
 Found **1** guide tagged with **Silver Mountain**:
 
 - [Writings/Poems](writings/poems.md)
+
+</div>
+<div class="static-tag-section" data-tag="Singletrack" markdown="1">
+
+## Singletrack
+
+Found **1** guide tagged with **Singletrack**:
+
+- [Bike/Arrow Leaf](bike/arrow-leaf.md)
 
 </div>
 <div class="static-tag-section" data-tag="Skiing & Snowshoeing" markdown="1">
@@ -2243,15 +2428,6 @@ Found **1** guide tagged with **Snow-shoeing**:
 - [Saltese Flats Wetland Trail](hike/washington/spokane-county-parks/saltese-flats-wetland-trail.md)
 
 </div>
-<div class="static-tag-section" data-tag="So Much More" markdown="1">
-
-## So Much More
-
-Found **1** guide tagged with **So Much More**:
-
-- [Patagonia](hike/south-america/patagonia.md)
-
-</div>
 <div class="static-tag-section" data-tag="Soups" markdown="1">
 
 ## Soups
@@ -2260,6 +2436,15 @@ Found **2** guides tagged with **Soups**:
 
 - [Recipes/Soups/Chicken And Rice Soup](recipes/soups/chicken-and-rice-soup.md)
 - [Recipes/Soups/Chicken Mushroom Mashed Potato Soup](recipes/soups/chicken-mushroom-mashed-potato-soup.md)
+
+</div>
+<div class="static-tag-section" data-tag="South America" markdown="1">
+
+## South America
+
+Found **1** guide tagged with **South America**:
+
+- [Hike/South America/Patagonia](hike/south-america/patagonia.md)
 
 </div>
 <div class="static-tag-section" data-tag="Spelunking Made Easy" markdown="1">
@@ -2275,7 +2460,7 @@ Found **1** guide tagged with **Spelunking Made Easy**:
 
 ## Spokane County
 
-Found **6** guides tagged with **Spokane County**:
+Found **9** guides tagged with **Spokane County**:
 
 - [Paddle/Washington/Eastern Washington/3Rd Street Launch](paddle/washington/eastern-washington/3rd-street-launch.md)
 - [Paddle/Washington/Eastern Washington/9 Mile Recreation Area Launch](paddle/washington/eastern-washington/9-mile-recreation-area-launch.md)
@@ -2283,6 +2468,9 @@ Found **6** guides tagged with **Spokane County**:
 - [Paddle/Washington/Eastern Washington/Liberty Lake Regional Park](paddle/washington/eastern-washington/liberty-lake-regional-park.md)
 - [Paddle/Washington/Eastern Washington/Long Lake Launch](paddle/washington/eastern-washington/long-lake-launch.md)
 - [Paddle/Washington/Eastern Washington/Nine Mile Recreation Area](paddle/washington/eastern-washington/nine-mile-recreation-area.md)
+- [Paddle/Washington/Scablands/Bonnie Lake Landing](paddle/washington/scablands/bonnie-lake-landing.md)
+- [Paddle/Washington/Scablands/Fishtrap Lake Wa](paddle/washington/scablands/fishtrap-lake-wa.md)
+- [Paddle/Washington/Scablands/West Medical Lake](paddle/washington/scablands/west-medical-lake.md)
 
 </div>
 <div class="static-tag-section" data-tag="Spokane Mountaineers" markdown="1">
@@ -2301,6 +2489,16 @@ Found **1** guide tagged with **Spokane Mountaineers**:
 Found **1** guide tagged with **Spokane River**:
 
 - [Paddle/Washington/Eastern Washington/Boulder Bay Landing](paddle/washington/eastern-washington/boulder-bay-landing.md)
+
+</div>
+<div class="static-tag-section" data-tag="Spokane Valley" markdown="1">
+
+## Spokane Valley
+
+Found **2** guides tagged with **Spokane Valley**:
+
+- [Bike/Arrow Leaf](bike/arrow-leaf.md)
+- [Bike/Saltese Highlands Summit Loop](bike/saltese-highlands-summit-loop.md)
 
 </div>
 <div class="static-tag-section" data-tag="Sshoe Backpacking" markdown="1">
@@ -2399,9 +2597,10 @@ Found **1** guide tagged with **Strenuous to Very Strenuous**:
 
 ## Survival
 
-Found **1** guide tagged with **Survival**:
+Found **2** guides tagged with **Survival**:
 
-- [Resources/General/Hints](resources/general/hints.md)
+- [14 Essentials](14-essentials.md)
+- [Resources/Safety And Field Skills/Hints](resources/safety-and-field-skills/hints.md)
 
 </div>
 <div class="static-tag-section" data-tag="Swimming" markdown="1">
@@ -2463,6 +2662,15 @@ Found **1** guide tagged with **Trail Meals**:
 - [Recipes/Soups/Chicken And Rice Soup](recipes/soups/chicken-and-rice-soup.md)
 
 </div>
+<div class="static-tag-section" data-tag="Trail Riding" markdown="1">
+
+## Trail Riding
+
+Found **1** guide tagged with **Trail Riding**:
+
+- [Bike/Saltese Highlands Summit Loop](bike/saltese-highlands-summit-loop.md)
+
+</div>
 <div class="static-tag-section" data-tag="Trails" markdown="1">
 
 ## Trails
@@ -2512,6 +2720,7 @@ Found **87** guides tagged with **Trails & Scrambles**:
 - [Hawk Creek S P](hike/washington/scablands/hawk-creek-s-p.md)
 - [Hawleys Landing](paddle/idaho/north-idaho-launch-sites-cda-lake/hawleys-landing.md)
 - [Higgins Point Launch](paddle/idaho/north-idaho-launch-sites-cda-lake/higgins-point-launc.md)
+- [Hike/South America/Patagonia](hike/south-america/patagonia.md)
 - [Hiking & Scrambling Regional Portal](hike/index.md)
 - [Hoodoo Canyon](hike/washington/eastern-washington/hoodoo-canyon.md)
 - [Independence Creek](hike/idaho/silver-valley-area/independence-creek.md)
@@ -2537,7 +2746,6 @@ Found **87** guides tagged with **Trails & Scrambles**:
 - [Navigation Trail #291 to Upper Priest Lake](hike/idaho/north-idaho-hikes/navigation-trail-291.md)
 - [Northrup Canyon](hike/washington/scablands/northrup-canyon.md)
 - [Nuttall's Larkspur (Delphinium nuttallianum)](wildflowers/blue/nuttalls-larkspur.md)
-- [Patagonia](hike/south-america/patagonia.md)
 - [Polemonium](wildflowers/white/polemonium.md)
 - [Q'emiln Park & Post Falls Community Forest](hike/idaho/north-idaho-hikes/qemlin-park.md)
 - [Red Indian Paint Brush](wildflowers/red-and-pink/red-indian-paint-brush.md)
@@ -2613,6 +2821,18 @@ Found **1** guide tagged with **Washington**:
 - [Washington State Outdoor Routes & Regional Guide](hike/washington/index.md)
 
 </div>
+<div class="static-tag-section" data-tag="Washington Scablands" markdown="1">
+
+## Washington Scablands
+
+Found **4** guides tagged with **Washington Scablands**:
+
+- [Paddle/Washington/Scablands/Bonnie Lake Landing](paddle/washington/scablands/bonnie-lake-landing.md)
+- [Paddle/Washington/Scablands/Fishtrap Lake Wa](paddle/washington/scablands/fishtrap-lake-wa.md)
+- [Paddle/Washington/Scablands/Palouse River Launch](paddle/washington/scablands/palouse-river-launch.md)
+- [Paddle/Washington/Scablands/West Medical Lake](paddle/washington/scablands/west-medical-lake.md)
+
+</div>
 <div class="static-tag-section" data-tag="Washington State Parks" markdown="1">
 
 ## Washington State Parks
@@ -2652,7 +2872,7 @@ Found **15** guides tagged with **Waterfalls**:
 
 Found **1** guide tagged with **Weather**:
 
-- [Resources/General/Weather Thunderstorms And Lightning](resources/general/weather-thunderstorms-and-lightning.md)
+- [Resources/Safety And Field Skills/Weather Thunderstorms And Lightning](resources/safety-and-field-skills/weather-thunderstorms-and-lightning.md)
 
 </div>
 <div class="static-tag-section" data-tag="Weather Trivia" markdown="1">
@@ -2662,6 +2882,15 @@ Found **1** guide tagged with **Weather**:
 Found **1** guide tagged with **Weather Trivia**:
 
 - [Writings/Notes](writings/notes.md)
+
+</div>
+<div class="static-tag-section" data-tag="Wilderness Preparedness" markdown="1">
+
+## Wilderness Preparedness
+
+Found **1** guide tagged with **Wilderness Preparedness**:
+
+- [14 Essentials](14-essentials.md)
 
 </div>
 <div class="static-tag-section" data-tag="Wilderness Skills" markdown="1">
@@ -2742,9 +2971,10 @@ Found **1** guide tagged with **Winter Sports**:
 
 ## Writings
 
-Found **5** guides tagged with **Writings**:
+Found **6** guides tagged with **Writings**:
 
 - [Writings/Adages](writings/adages.md)
+- [Writings/Index](writings/index.md)
 - [Writings/Notes](writings/notes.md)
 - [Writings/Poems](writings/poems.md)
 - [Writings/Quotes](writings/quotes.md)
@@ -2810,89 +3040,266 @@ Found **1** guide tagged with **waterfalls**:
 <script id="tag-data" type="application/json">
 [
   {
-    "title": "Arrow Leaf",
+    "title": "14 Essentials",
+    "url": "/14-essentials/",
+    "tags": [
+      "Backcountry Safety",
+      "14 Essentials",
+      "Wilderness Preparedness",
+      "Survival"
+    ]
+  },
+  {
+    "title": "Resources/Safety And Field Skills/Hints",
+    "url": "/resources/safety-and-field-skills/hints/",
+    "tags": [
+      "Survival",
+      "Resources",
+      "Hints",
+      "Backcountry Skills",
+      "Gear"
+    ]
+  },
+  {
+    "title": "Bike/Arrow Leaf",
     "url": "/bike/arrow-leaf/",
     "tags": [
-      "Flora & Plants"
+      "Mountain Biking",
+      "Antoine Peak",
+      "Spokane Valley",
+      "Conservation Area",
+      "Singletrack"
     ]
   },
   {
-    "title": "Fungi & Mushrooms",
-    "url": "/gallery/categories/fungi---rooms/",
+    "title": "Bike/Saltese Highlands Summit Loop",
+    "url": "/bike/saltese-highlands-summit-loop/",
     "tags": [
-      "Flora & Plants",
-      "Photo Gallery"
+      "Mountain Biking",
+      "Spokane Valley",
+      "Conservation Area",
+      "Saltese Uplands",
+      "Trail Riding"
     ]
   },
   {
-    "title": "Trees",
-    "url": "/gallery/categories/trees/",
+    "title": "Fault Lake 5980 Hunt Peak 7058 Trail 59",
+    "url": "/hike/idaho/american-selkirks/fault-lake-5980--hunt-peak-7058-trail-59/",
     "tags": [
-      "Flora & Plants",
-      "Photo Gallery"
+      "Mountain Biking",
+      "Scrambling",
+      "Lakes",
+      "Day Hiking",
+      "Backpacking",
+      "Strenuous to Very Strenuous"
     ]
   },
   {
-    "title": "Roosevelt Grove Of Ancient Cedars",
-    "url": "/hike/washington/eastern-washington/roosevelt-grove-of-ancient-cedars/",
+    "title": "Long Canyon Trail 16",
+    "url": "/hike/idaho/american-selkirks/long-canyon-trail-16/",
     "tags": [
-      "Flora & Plants"
+      "Mountain Biking",
+      "Day Hiking",
+      "Backpacking",
+      "Trails & Scrambles",
+      "Difficult"
     ]
   },
   {
-    "title": "Clammy Cabbage Over Pasta",
-    "url": "/recipes/main-dishes/clammy-cabbage-over-pasta/",
+    "title": "Long Mountain Peak 7,265' & Lake",
+    "url": "/hike/idaho/american-selkirks/long-mountain-7265-and-lake/",
     "tags": [
-      "Flora & Plants"
+      "Mountain Biking",
+      "Lakes",
+      "Day Hiking",
+      "Backpacking",
+      "Moderate"
     ]
   },
   {
-    "title": "Orange Day Lily",
-    "url": "/wildflowers/orange/orange-day-lily/",
+    "title": "Myrtle Lake 5950 & Myrtle Peak 7122 Trail 286",
+    "url": "/hike/idaho/american-selkirks/myrtle-lake-5950--myrtle-peak-7122-trail-286/",
     "tags": [
-      "Flora & Plants"
+      "Mountain Biking",
+      "Lakes",
+      "Day Hiking",
+      "Backpacking",
+      "Moderate"
     ]
   },
   {
-    "title": "Wild Honeysuckle",
-    "url": "/wildflowers/orange/wild-honeysuckle/",
+    "title": "Pyramid and Ball Lakes Trail 43",
+    "url": "/hike/idaho/american-selkirks/pyramid-and-ball-lakes-trail-43/",
     "tags": [
-      "Flora & Plants"
+      "Mountain Biking",
+      "Lakes",
+      "Day Hiking",
+      "Backpacking",
+      "Moderate"
     ]
   },
   {
-    "title": "Threadleaf Phacilia",
-    "url": "/wildflowers/purple/threadleaf-phacilia/",
+    "title": "Upper Priest River Trail #308 to American Falls",
+    "url": "/hike/idaho/north-idaho-hikes/american-falls-trail-308/",
     "tags": [
-      "Flora & Plants"
+      "Mountain Biking",
+      "Easy",
+      "Day Hiking",
+      "Backpacking",
+      "Waterfalls",
+      "Swimming",
+      "Priest Lake"
     ]
   },
   {
-    "title": "Woodland Pinedrop",
-    "url": "/wildflowers/purple/woodland-pinedrop/",
+    "title": "Bernard Peak Overlook & High Point Trail #37",
+    "url": "/hike/idaho/north-idaho-hikes/bernard-peak-overlook/",
     "tags": [
-      "Flora & Plants"
+      "Mountain Biking",
+      "Peaks & Mountains",
+      "Day Hiking",
+      "Easy to Moderate",
+      "State Parks"
     ]
   },
   {
-    "title": "Red Dead Nettle",
-    "url": "/wildflowers/red-and-pink/red-dead-nettle/",
+    "title": "Mount Coeur d'Alene Trail #257",
+    "url": "/hike/idaho/north-idaho-hikes/mount-cda-trail-257/",
     "tags": [
-      "Flora & Plants"
+      "Mountain Biking",
+      "Day Hiking",
+      "Backpacking",
+      "Trails & Scrambles",
+      "Moderate",
+      "Equestrian"
     ]
   },
   {
-    "title": "Baker's Mariposa Lily",
-    "url": "/wildflowers/white/bakers-mariposa-lily/",
+    "title": "Caribou Ridge National Recreation Trail #79",
+    "url": "/hike/idaho/north-idaho-hikes/mount-cda-trail-79-caribou-ridge/",
     "tags": [
-      "Flora & Plants"
+      "Mountain Biking",
+      "Peaks & Mountains",
+      "Day Hiking",
+      "Backpacking",
+      "Difficult",
+      "Equestrian"
     ]
   },
   {
-    "title": "Star-Flowered Lily of the Valley",
-    "url": "/wildflowers/white/star-flowered-lily-of-the-valley/",
+    "title": "Packsaddle Mountain (Trail #76)",
+    "url": "/hike/idaho/north-idaho-hikes/packsaddle-mountain/",
     "tags": [
-      "Flora & Plants"
+      "Mountain Biking",
+      "Peaks & Mountains",
+      "Day Hiking",
+      "Backpacking",
+      "Moderate",
+      "Equestrian"
+    ]
+  },
+  {
+    "title": "Shefoot Mountain (6,349') & Big Dick Point (5,419')",
+    "url": "/hike/idaho/north-idaho-hikes/shefoot-mountain/",
+    "tags": [
+      "Mountain Biking",
+      "Peaks & Mountains",
+      "Day Hiking",
+      "Backpacking",
+      "Difficult"
+    ]
+  },
+  {
+    "title": "Bloom Peak",
+    "url": "/hike/idaho/silver-valley-area/bloom-peak/",
+    "tags": [
+      "Mountain Biking",
+      "Photography",
+      "Peaks & Mountains",
+      "Easy",
+      "Day Hiking",
+      "Backpacking",
+      "Equestrian"
+    ]
+  },
+  {
+    "title": "Hub Lake",
+    "url": "/hike/montana/bitterroots/hub-lake/",
+    "tags": [
+      "Mountain Biking",
+      "Lakes",
+      "Day Hiking",
+      "Backpacking",
+      "Moderate"
+    ]
+  },
+  {
+    "title": "Hub Lake & Dipper Falls",
+    "url": "/hike/montana/lolo-national-forest/hub-lake--dipper-falls/",
+    "tags": [
+      "Mountain Biking",
+      "Lakes",
+      "Day Hiking",
+      "Backpacking",
+      "Moderate"
+    ]
+  },
+  {
+    "title": "13 Mile Canyon Trail 23",
+    "url": "/hike/washington/eastern-washington/13-mile-canyon-trail-23/",
+    "tags": [
+      "Mountain Biking",
+      "Day Hiking",
+      "Backpacking",
+      "Trails & Scrambles",
+      "Moderate",
+      "Equestrian"
+    ]
+  },
+  {
+    "title": "Breezy Hill Ancient and Dusty Lakes",
+    "url": "/hike/washington/scablands/breezy-hill-ancient-and-dusty-lakes/",
+    "tags": [
+      "Mountain Biking",
+      "Lakes",
+      "Day Hiking",
+      "Moderate"
+    ]
+  },
+  {
+    "title": "Fishtrap Lake",
+    "url": "/hike/washington/scablands/fishtrap-lake/",
+    "tags": [
+      "Mountain Biking",
+      "Lakes",
+      "Easy",
+      "Day Hiking",
+      "Fishing",
+      "Equestrian",
+      "Paddling"
+    ]
+  },
+  {
+    "title": "Frenchman's Coulee",
+    "url": "/hike/washington/scablands/frenchmans-coulee/",
+    "tags": [
+      "Mountain Biking",
+      "Day Hiking",
+      "Backpacking",
+      "Trails & Scrambles",
+      "Climbing",
+      "Equestrian"
+    ]
+  },
+  {
+    "title": "Quincy Lakes",
+    "url": "/hike/washington/scablands/quincy-lakes/",
+    "tags": [
+      "Mountain Biking",
+      "Lakes",
+      "Easy",
+      "Day Hiking",
+      "Backpacking"
     ]
   },
   {
@@ -2929,6 +3336,14 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
+    "title": "Fungi & Mushrooms",
+    "url": "/gallery/categories/fungi---rooms/",
+    "tags": [
+      "Photo Gallery",
+      "Flora & Plants"
+    ]
+  },
+  {
     "title": "Ridges",
     "url": "/gallery/categories/ridges/",
     "tags": [
@@ -2959,6 +3374,14 @@ Found **1** guide tagged with **waterfalls**:
       "Photo Gallery",
       "Trail Heroes",
       "Stewardship & Conservation"
+    ]
+  },
+  {
+    "title": "Trees",
+    "url": "/gallery/categories/trees/",
+    "tags": [
+      "Photo Gallery",
+      "Flora & Plants"
     ]
   },
   {
@@ -2995,19 +3418,6 @@ Found **1** guide tagged with **waterfalls**:
       "Moderate",
       "Climbing",
       "Post Falls"
-    ]
-  },
-  {
-    "title": "Bloom Peak",
-    "url": "/hike/idaho/silver-valley-area/bloom-peak/",
-    "tags": [
-      "Photography",
-      "Peaks & Mountains",
-      "Easy",
-      "Day Hiking",
-      "Backpacking",
-      "Mountain Biking",
-      "Equestrian"
     ]
   },
   {
@@ -3110,7 +3520,7 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
-    "title": "Patagonia",
+    "title": "Hike/South America/Patagonia",
     "url": "/hike/south-america/patagonia/",
     "tags": [
       "Photography",
@@ -3118,9 +3528,9 @@ Found **1** guide tagged with **waterfalls**:
       "Trails & Scrambles",
       "Hiking",
       "Easy to Difficult",
-      "Dinning",
+      "Dining",
       "Rafting",
-      "So Much More"
+      "South America"
     ]
   },
   {
@@ -3159,8 +3569,8 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
-    "title": "Resources/General/Photography",
-    "url": "/resources/general/photography/",
+    "title": "Resources/Gear And Photography/Photography",
+    "url": "/resources/gear-and-photography/photography/",
     "tags": [
       "Photography",
       "Resources",
@@ -3180,6 +3590,69 @@ Found **1** guide tagged with **waterfalls**:
       "Climbing",
       "Rock Diving",
       "Paddles"
+    ]
+  },
+  {
+    "title": "Roosevelt Grove Of Ancient Cedars",
+    "url": "/hike/washington/eastern-washington/roosevelt-grove-of-ancient-cedars/",
+    "tags": [
+      "Flora & Plants"
+    ]
+  },
+  {
+    "title": "Clammy Cabbage Over Pasta",
+    "url": "/recipes/main-dishes/clammy-cabbage-over-pasta/",
+    "tags": [
+      "Flora & Plants"
+    ]
+  },
+  {
+    "title": "Orange Day Lily",
+    "url": "/wildflowers/orange/orange-day-lily/",
+    "tags": [
+      "Flora & Plants"
+    ]
+  },
+  {
+    "title": "Wild Honeysuckle",
+    "url": "/wildflowers/orange/wild-honeysuckle/",
+    "tags": [
+      "Flora & Plants"
+    ]
+  },
+  {
+    "title": "Threadleaf Phacilia",
+    "url": "/wildflowers/purple/threadleaf-phacilia/",
+    "tags": [
+      "Flora & Plants"
+    ]
+  },
+  {
+    "title": "Woodland Pinedrop",
+    "url": "/wildflowers/purple/woodland-pinedrop/",
+    "tags": [
+      "Flora & Plants"
+    ]
+  },
+  {
+    "title": "Red Dead Nettle",
+    "url": "/wildflowers/red-and-pink/red-dead-nettle/",
+    "tags": [
+      "Flora & Plants"
+    ]
+  },
+  {
+    "title": "Baker's Mariposa Lily",
+    "url": "/wildflowers/white/bakers-mariposa-lily/",
+    "tags": [
+      "Flora & Plants"
+    ]
+  },
+  {
+    "title": "Star-Flowered Lily of the Valley",
+    "url": "/wildflowers/white/star-flowered-lily-of-the-valley/",
+    "tags": [
+      "Flora & Plants"
     ]
   },
   {
@@ -3719,17 +4192,6 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
-    "title": "Bernard Peak Overlook & High Point Trail #37",
-    "url": "/hike/idaho/north-idaho-hikes/bernard-peak-overlook/",
-    "tags": [
-      "Peaks & Mountains",
-      "Day Hiking",
-      "Mountain Biking",
-      "Easy to Moderate",
-      "State Parks"
-    ]
-  },
-  {
     "title": "Blacktail Mountain Overlook & Maiden Rock Beach",
     "url": "/hike/idaho/north-idaho-hikes/blacktail-mountain-overlook/",
     "tags": [
@@ -3795,18 +4257,6 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
-    "title": "Caribou Ridge National Recreation Trail #79",
-    "url": "/hike/idaho/north-idaho-hikes/mount-cda-trail-79-caribou-ridge/",
-    "tags": [
-      "Peaks & Mountains",
-      "Day Hiking",
-      "Backpacking",
-      "Mountain Biking",
-      "Difficult",
-      "Equestrian"
-    ]
-  },
-  {
     "title": "Myrtle Peak Trail",
     "url": "/hike/idaho/north-idaho-hikes/myrtle-peak-trail/",
     "tags": [
@@ -3828,35 +4278,12 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
-    "title": "Packsaddle Mountain (Trail #76)",
-    "url": "/hike/idaho/north-idaho-hikes/packsaddle-mountain/",
-    "tags": [
-      "Peaks & Mountains",
-      "Day Hiking",
-      "Backpacking",
-      "Moderate",
-      "Mountain Biking",
-      "Equestrian"
-    ]
-  },
-  {
     "title": "Scenic Lodge on Rathdrum Mountain (3,658')",
     "url": "/hike/idaho/north-idaho-hikes/scenic-lodge-rathdrum-mountain/",
     "tags": [
       "Peaks & Mountains",
       "Day Hiking",
       "History & Speakeasy"
-    ]
-  },
-  {
-    "title": "Shefoot Mountain (6,349') & Big Dick Point (5,419')",
-    "url": "/hike/idaho/north-idaho-hikes/shefoot-mountain/",
-    "tags": [
-      "Peaks & Mountains",
-      "Day Hiking",
-      "Backpacking",
-      "Mountain Biking",
-      "Difficult"
     ]
   },
   {
@@ -4219,18 +4646,6 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
-    "title": "Fault Lake 5980 Hunt Peak 7058 Trail 59",
-    "url": "/hike/idaho/american-selkirks/fault-lake-5980--hunt-peak-7058-trail-59/",
-    "tags": [
-      "Scrambling",
-      "Lakes",
-      "Day Hiking",
-      "Backpacking",
-      "Strenuous to Very Strenuous",
-      "Mountain Biking"
-    ]
-  },
-  {
     "title": "Harrison Lake & Peak 7292 (Trail #217 & #6)",
     "url": "/hike/idaho/american-selkirks/harrison-lake--peak-7292-trial--217/",
     "tags": [
@@ -4493,39 +4908,6 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
-    "title": "Long Mountain Peak 7,265' & Lake",
-    "url": "/hike/idaho/american-selkirks/long-mountain-7265-and-lake/",
-    "tags": [
-      "Lakes",
-      "Day Hiking",
-      "Backpacking",
-      "Moderate",
-      "Mountain Biking"
-    ]
-  },
-  {
-    "title": "Myrtle Lake 5950 & Myrtle Peak 7122 Trail 286",
-    "url": "/hike/idaho/american-selkirks/myrtle-lake-5950--myrtle-peak-7122-trail-286/",
-    "tags": [
-      "Lakes",
-      "Day Hiking",
-      "Backpacking",
-      "Moderate",
-      "Mountain Biking"
-    ]
-  },
-  {
-    "title": "Pyramid and Ball Lakes Trail 43",
-    "url": "/hike/idaho/american-selkirks/pyramid-and-ball-lakes-trail-43/",
-    "tags": [
-      "Lakes",
-      "Day Hiking",
-      "Backpacking",
-      "Moderate",
-      "Mountain Biking"
-    ]
-  },
-  {
     "title": "Trout 6352  Big Fisher 6732 Lakes Trail 13  41",
     "url": "/hike/idaho/american-selkirks/trout-6352--big-fisher-6732-lakes-trail-13--41/",
     "tags": [
@@ -4588,17 +4970,6 @@ Found **1** guide tagged with **waterfalls**:
     "tags": [
       "Lakes",
       "Moderate to Moderately Difficult"
-    ]
-  },
-  {
-    "title": "Hub Lake",
-    "url": "/hike/montana/bitterroots/hub-lake/",
-    "tags": [
-      "Lakes",
-      "Day Hiking",
-      "Backpacking",
-      "Moderate",
-      "Mountain Biking"
     ]
   },
   {
@@ -4698,17 +5069,6 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
-    "title": "Hub Lake & Dipper Falls",
-    "url": "/hike/montana/lolo-national-forest/hub-lake--dipper-falls/",
-    "tags": [
-      "Lakes",
-      "Day Hiking",
-      "Backpacking",
-      "Moderate",
-      "Mountain Biking"
-    ]
-  },
-  {
     "title": "Siamese Lake Loop",
     "url": "/hike/montana/lolo-national-forest/siamese-lake-loop/",
     "tags": [
@@ -4762,29 +5122,6 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
-    "title": "Breezy Hill Ancient and Dusty Lakes",
-    "url": "/hike/washington/scablands/breezy-hill-ancient-and-dusty-lakes/",
-    "tags": [
-      "Lakes",
-      "Day Hiking",
-      "Moderate",
-      "Mountain Biking"
-    ]
-  },
-  {
-    "title": "Fishtrap Lake",
-    "url": "/hike/washington/scablands/fishtrap-lake/",
-    "tags": [
-      "Lakes",
-      "Easy",
-      "Day Hiking",
-      "Mountain Biking",
-      "Fishing",
-      "Equestrian",
-      "Paddling"
-    ]
-  },
-  {
     "title": "Lake Lenore Caves & Mesa",
     "url": "/hike/washington/scablands/lake-lenore-caves--mesa/",
     "tags": [
@@ -4806,17 +5143,6 @@ Found **1** guide tagged with **waterfalls**:
       "Fishing",
       "Equestrian",
       "Picnicking"
-    ]
-  },
-  {
-    "title": "Quincy Lakes",
-    "url": "/hike/washington/scablands/quincy-lakes/",
-    "tags": [
-      "Lakes",
-      "Easy",
-      "Day Hiking",
-      "Backpacking",
-      "Mountain Biking"
     ]
   },
   {
@@ -5015,11 +5341,14 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
-    "title": "Bonnie Lake Landing",
+    "title": "Paddle/Washington/Scablands/Bonnie Lake Landing",
     "url": "/paddle/washington/scablands/bonnie-lake-landing/",
     "tags": [
       "Lakes",
-      "Paddling"
+      "Paddling",
+      "Spokane County",
+      "Washington Scablands",
+      "Rock Creek"
     ]
   },
   {
@@ -5027,6 +5356,28 @@ Found **1** guide tagged with **waterfalls**:
     "url": "/paddle/washington/scablands/clear-lake-launch/",
     "tags": [
       "Lakes"
+    ]
+  },
+  {
+    "title": "Paddle/Washington/Scablands/Fishtrap Lake Wa",
+    "url": "/paddle/washington/scablands/fishtrap-lake-wa/",
+    "tags": [
+      "Lakes",
+      "Paddling",
+      "Spokane County",
+      "Washington Scablands",
+      "BLM Recreation Area"
+    ]
+  },
+  {
+    "title": "Paddle/Washington/Scablands/Marshall Lake Launch",
+    "url": "/paddle/washington/scablands/marshall-lake-launch/",
+    "tags": [
+      "Lakes",
+      "Paddling",
+      "Pend Oreille County",
+      "Eastern Washington",
+      "Selkirk Foothills"
     ]
   },
   {
@@ -5042,6 +5393,17 @@ Found **1** guide tagged with **waterfalls**:
     "url": "/paddle/washington/scablands/potholes-reservoir/",
     "tags": [
       "Lakes"
+    ]
+  },
+  {
+    "title": "Paddle/Washington/Scablands/West Medical Lake",
+    "url": "/paddle/washington/scablands/west-medical-lake/",
+    "tags": [
+      "Lakes",
+      "Paddling",
+      "Spokane County",
+      "Washington Scablands",
+      "Medical Lake"
     ]
   },
   {
@@ -5071,19 +5433,6 @@ Found **1** guide tagged with **waterfalls**:
       "Auto Tour",
       "Birding",
       "Animal Viewing"
-    ]
-  },
-  {
-    "title": "Upper Priest River Trail #308 to American Falls",
-    "url": "/hike/idaho/north-idaho-hikes/american-falls-trail-308/",
-    "tags": [
-      "Easy",
-      "Day Hiking",
-      "Backpacking",
-      "Mountain Biking",
-      "Waterfalls",
-      "Swimming",
-      "Priest Lake"
     ]
   },
   {
@@ -5222,17 +5571,6 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
-    "title": "Long Canyon Trail 16",
-    "url": "/hike/idaho/american-selkirks/long-canyon-trail-16/",
-    "tags": [
-      "Day Hiking",
-      "Backpacking",
-      "Trails & Scrambles",
-      "Mountain Biking",
-      "Difficult"
-    ]
-  },
-  {
     "title": "Mount Roothaan (7326') and Chimney Rock (7124') Trail 256",
     "url": "/hike/idaho/american-selkirks/mount-roothaan-7326-and-chimney-rock-7124-trail-256/",
     "tags": [
@@ -5273,18 +5611,6 @@ Found **1** guide tagged with **waterfalls**:
       "Day Hiking",
       "Backpacking",
       "Trails & Scrambles",
-      "Equestrian"
-    ]
-  },
-  {
-    "title": "Mount Coeur d'Alene Trail #257",
-    "url": "/hike/idaho/north-idaho-hikes/mount-cda-trail-257/",
-    "tags": [
-      "Day Hiking",
-      "Backpacking",
-      "Trails & Scrambles",
-      "Moderate",
-      "Mountain Biking",
       "Equestrian"
     ]
   },
@@ -5359,30 +5685,6 @@ Found **1** guide tagged with **waterfalls**:
       "Backpacking",
       "Trails & Scrambles",
       "Very Strenuous"
-    ]
-  },
-  {
-    "title": "13 Mile Canyon Trail 23",
-    "url": "/hike/washington/eastern-washington/13-mile-canyon-trail-23/",
-    "tags": [
-      "Day Hiking",
-      "Backpacking",
-      "Trails & Scrambles",
-      "Moderate",
-      "Mountain Biking",
-      "Equestrian"
-    ]
-  },
-  {
-    "title": "Frenchman's Coulee",
-    "url": "/hike/washington/scablands/frenchmans-coulee/",
-    "tags": [
-      "Day Hiking",
-      "Backpacking",
-      "Trails & Scrambles",
-      "Mountain Biking",
-      "Climbing",
-      "Equestrian"
     ]
   },
   {
@@ -5806,6 +6108,28 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
+    "title": "Paddle/Washington/Scablands/Palouse River Launch",
+    "url": "/paddle/washington/scablands/palouse-river-launch/",
+    "tags": [
+      "Paddling",
+      "Washington Scablands",
+      "Rivers",
+      "Palouse River",
+      "Lyons Ferry",
+      "Palouse Falls"
+    ]
+  },
+  {
+    "title": "Resources/Local Businesses And Dining/Restaurants And Pubs",
+    "url": "/resources/local-businesses-and-dining/restaurants-and-pubs/",
+    "tags": [
+      "Dining",
+      "Resources",
+      "Restaurants",
+      "Pubs"
+    ]
+  },
+  {
     "title": "Cocolalla Access Launch",
     "url": "/paddle/idaho/additional-launches/cocolalla-access-launch/",
     "tags": [
@@ -6212,19 +6536,17 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
-    "title": "Resources/General/Hints",
-    "url": "/resources/general/hints/",
+    "title": "Managing Agencies & Emergency Directory",
+    "url": "/resources/land-management/managing-agencies/",
     "tags": [
       "Resources",
-      "Hints",
-      "Backcountry Skills",
-      "Survival",
-      "Gear"
+      "Managing Agencies",
+      "Safety & Emergency"
     ]
   },
   {
-    "title": "Resources/General/Inland Nw Hikers",
-    "url": "/resources/general/inland-nw-hikers/",
+    "title": "Resources/Regional Guides And Clubs/Inland Nw Hikers",
+    "url": "/resources/regional-guides-and-clubs/inland-nw-hikers/",
     "tags": [
       "Resources",
       "Hiking Clubs",
@@ -6233,17 +6555,8 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
-    "title": "Managing Agencies & Emergency Directory",
-    "url": "/resources/general/managing-agencies/",
-    "tags": [
-      "Resources",
-      "Managing Agencies",
-      "Safety & Emergency"
-    ]
-  },
-  {
-    "title": "Resources/General/Medical Information",
-    "url": "/resources/general/medical-information/",
+    "title": "Resources/Safety And Field Skills/Medical Information",
+    "url": "/resources/safety-and-field-skills/medical-information/",
     "tags": [
       "Resources",
       "Medical",
@@ -6252,18 +6565,8 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
-    "title": "Resources/General/Restaurants And Pubs",
-    "url": "/resources/general/restaurants-and-pubs/",
-    "tags": [
-      "Resources",
-      "Restaurants",
-      "Pubs",
-      "Dining"
-    ]
-  },
-  {
-    "title": "Resources/General/Weather Thunderstorms And Lightning",
-    "url": "/resources/general/weather-thunderstorms-and-lightning/",
+    "title": "Resources/Safety And Field Skills/Weather Thunderstorms And Lightning",
+    "url": "/resources/safety-and-field-skills/weather-thunderstorms-and-lightning/",
     "tags": [
       "Resources",
       "Safety",
@@ -6372,6 +6675,16 @@ Found **1** guide tagged with **waterfalls**:
       "Writings",
       "Adages",
       "Quotes"
+    ]
+  },
+  {
+    "title": "Writings/Index",
+    "url": "/writings/",
+    "tags": [
+      "Writings",
+      "Poetry",
+      "Mountain Philosophy",
+      "Chic Burge"
     ]
   },
   {
