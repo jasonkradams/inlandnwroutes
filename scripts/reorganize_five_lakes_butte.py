@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 tags:
   - Lakes
   - Moderate
@@ -124,3 +126,10 @@ Check local mountain weather forecasts before departing:
 
 - **NOAA Weather Forecast:** [National Weather Service Pierce / Clearwater Forecast](https://forecast.weather.gov)
 - **Forest Alerts:** [Nez Perce-Clearwater National Forests Alerts & Notices](https://www.fs.usda.gov/alerts/nezperceclearwater/alerts-notices)
+"""
+
+target_path = "docs/hike/idaho/north-idaho-hikes/five-lakes-butte.md"
+with open(target_path, "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Reorganized five-lakes-butte.md successfully")
