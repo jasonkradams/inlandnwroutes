@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: "Upper Twin Lakes Launch"
 tags:
   - Lakes
@@ -63,3 +65,9 @@ Upper Twin Lake (525 acres) is the northern basin of the Twin Lakes system in Ko
 - **Connected Waterways:** Explore [Lower Twin Lakes Launch](lower-twin-lakes-launch.md) and [Twin Lakes Narrows](twin-lakes-narrows.md).
 - **Nearby Lakes:** Spirit Lake, Hauser Lake, and Mt. Spokane State Park.
 - **Rest & Provisions:** Gas, groceries, and dining are available 10 minutes south in Rathdrum, ID, or north in Spirit Lake, ID.
+"""
+
+with open("docs/paddle/idaho/twin-lakes/upper-twin-lakes-launch.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized upper-twin-lakes-launch.md successfully")
