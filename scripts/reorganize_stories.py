@@ -9,6 +9,9 @@ tags:
   - Selkirks
 ---
 
+![Panoramic view of alpine mountain range in the Inland Northwest](assets/images/282022942p_orig.jpg)
+_Panoramic view of alpine mountain range in the Inland Northwest._
+
 A collection of mountaineering stories, trail journals, and archival reflections from Chic Burge and the Spokane Mountaineers.
 
 !!! info "Submissions Welcome"
