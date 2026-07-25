@@ -160,7 +160,7 @@ here.
 
 ### Escure Ranch & Towell Falls
 
-[Escure Ranch Guide](../../hike/washington/scablands/escure-ranch.md) | [Towell Falls Guide](../../towell-falls.md)
+[Escure Ranch Guide](../../hike/washington/scablands/escure-ranch.md) | [Towell Falls Guide](../../waterfalls/washington/towell-falls.md)
 
 The first thing you notice driving into the parking area is the unique farm buildings across Rock Creek.
 While hiking here, walk over to the buildings and see how to build a building that will last many

@@ -45,7 +45,7 @@ canoes, and paddleboards.
 Link</th> </tr> </thead> <tbody> <tr> <td><strong>Banks Lake</strong></td> <td>Grand Coulee Reservoir &
 Scablands</td> <td><a href="../../paddle/washington/scablands/banks-lake-kayak-and-hike.md">Banks Lake Kayak & Hike</a></td> </tr> <tr>
 <td><strong>Hawk Creek Falls</strong></td> <td>Lake Roosevelt & Waterfall Access</td> <td><a
-href="../../hawk-creek-falls-sp.md">Hawk Creek Falls Guide</a></td> </tr> <tr> <td><strong>Pewee
+href="../../waterfalls/washington/hawk-creek-falls-sp.md">Hawk Creek Falls Guide</a></td> </tr> <tr> <td><strong>Pewee
 Falls</strong></td> <td>Pend Oreille River & Boundary Reservoir</td> <td><a
 href="../../paddle/washington/eastern-washington/pewee-falls-pend-orielle-river.md">Pewee Falls Paddle Guide</a></td> </tr> <tr> <td><strong>Palouse
 River & Lyons Ferry</strong></td> <td>Snake & Palouse River Confluence</td> <td><a

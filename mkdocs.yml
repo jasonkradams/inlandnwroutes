@@ -627,6 +627,53 @@ nav:
         - Marmot Basin: ski/canada/alberta/marmot-basin.md
         - Mount Norquay: ski/canada/alberta/mount-norquay.md
         - Sunshine Ski Resort: ski/canada/alberta/sunshine-ski-resort.md
+  - Waterfalls:
+    - Waterfalls: waterfalls/index.md
+    - Washington:
+      - Crystal Falls: waterfalls/washington/crystal-falls.md
+      - Douglas Falls Grange Parkb: waterfalls/washington/douglas-falls-grange-parkb.md
+      - Dry Falls, Sun Lakes S.P.: waterfalls/washington/dry-falls-sun-lakes-sp.md
+      - Finch Arboretum: waterfalls/washington/finch-arboretum.md
+      - Hawk Creek Falls S.P.: waterfalls/washington/hawk-creek-falls-sp.md
+      - Liberty Creek Falls: waterfalls/washington/liberty-creek-falls.md
+      - Palisades Creek Falls: waterfalls/washington/palisades-creek-falls.md
+      - U. & L. Palouse Falls: waterfalls/washington/u--l-palouse-falls.md
+      - Boundrary Dam: waterfalls/washington/boundary-dam.md
+      - Pewee Falls: waterfalls/washington/pewee-falls.md
+      - Sweet Creek Falls: waterfalls/washington/sweet-creek-falls.md
+      - Towell Falls: waterfalls/washington/towell-falls.md
+    - Idaho:
+      - American Falls: waterfalls/idaho/american-falls.md
+      - Copper Falls: waterfalls/idaho/copper-falls.md
+      - Elk Creek Falls Recreation Area: waterfalls/idaho/elk-creek-falls-recreation-area.md
+      - Falls Creek Falls, Idaho: waterfalls/idaho/falls-creek-falls-idaho.md
+      - Fern, Shadow & Centennial Falls: waterfalls/idaho/fern-shadow--centennial-falls.md
+      - Hunt Creek Falls: waterfalls/idaho/hunt-creek-falls.md
+      - Moyie Falls: waterfalls/idaho/moyie-falls.md
+      - Little Harrison Lake Falls: waterfalls/idaho/little-harrison-lake-falls.md
+      - Myrtle Creek Falls: waterfalls/idaho/myrtle-creek-falls.md
+      - Post Falls, Falls: waterfalls/idaho/post-falls-falls.md
+      - Revett Falls: waterfalls/idaho/revett-falls.md
+      - U. & L. Snow Creek Falls: waterfalls/idaho/u--l-snow-creek-falls.md
+      - Torrelle Falls: waterfalls/idaho/torrelle-falls.md
+      - Wellington Falls: waterfalls/idaho/wellington-falls.md
+      - Willow Creek Falls East: waterfalls/idaho/willow-creek-falls-east.md
+      - Willow Creek West Cascades: waterfalls/idaho/willow-creek-west-cascades.md
+    - Montana:
+      - Cascade Falls: waterfalls/montana/cascade-falls.md
+      - Dipper Falls: waterfalls/montana/dipper-falls.md
+      - Granite Falls: waterfalls/montana/granite-falls.md
+      - Graves Creek Falls: waterfalls/montana/graves-creek-falls.md
+      - Kootenai Falls: waterfalls/montana/kootenai-falls.md
+      - Leigh Lake Falls Upper: waterfalls/montana/leigh-lake-falls-upper.md
+      - Leigh Lake Falls Lower: waterfalls/montana/leigh-lake-falls-lower.md
+      - Rock Creek Falls: waterfalls/montana/rock-creek-falls.md
+      - St. Paul Lake Falls: waterfalls/montana/st-paul-lake-falls.md
+      - Vermillion Falls: waterfalls/montana/vermillion-falls.md
+      - Upper Yaak Falls: waterfalls/montana/upper-yaak-falls.md
+      - Lower Yaak Falls: waterfalls/montana/lower-yaak-falls.md
+    - Oregon:
+      - Silver Falls State Park: waterfalls/oregon/silver-falls-state-park.md
 - Flora & Wildlife:
   - Baker's Mariposa Lily: plants/bakers-mariposa-lily.md
   - Orange Day Lily: plants/orange-day-lily.md
@@ -635,13 +682,8 @@ nav:
   - Trees: trees.md
   - Western Moss Heather: plants/western-moss-heather.md
 - Lakes:
-  - Dry Falls & Sun Lakes State Park: dry-falls-sun-lakes-sp.md
   - Lakes: lakes/index.md
-  - Leigh Lake Falls Lower: leigh-lake-falls-lower.md
-  - Leigh Lake Falls Upper: leigh-lake-falls-upper.md
-  - Little Harrison Lake Falls: little-harrison-lake-falls.md
   - St Joe Lake 6472Rsquo Illinois Peak 7690Rsquo: st-joe-lake-6472-illinois-peak-7690.md
-  - St Paul Lake Falls: st-paul-lake-falls.md
 - Paddling & Rivers:
   - Paddling Safety & Kayaking Guide: paddle/index.md
   - Spokane Canoe And Kayak Club: spokane-canoe-and-kayak-club.md
@@ -679,7 +721,6 @@ nav:
   - Birdsfoot Trefoil: plants/birdsfoot-trefoil.md
   - Bitterroot: bitterroot.md
   - Blank: blank.md
-  - Boundrary Dam: boundary-dam.md
   - Brides Bonnet: plants/brides-bonnet.md
   - Broad Leaf Sweet Pea: broad-leaf-sweet-pea.md
   - Camas: plants/camas.md
@@ -702,7 +743,6 @@ nav:
   - Evans Outdoor Adventures: evans-outdoor-adventures.md
   - Faces in Nature: faces.md
   - False Hellebore: plants/false-hellebore.md
-  - Finch Arboretum: finch-arboretum.md
   - Fireweed: fireweed.md
   - Fireworks: fireworks.md
   - Fungi   Rooms: fungi---rooms.md
@@ -786,46 +826,13 @@ nav:
   - Website Notes: website-notes.md
   - Wild Honeysuckle: plants/wild-honeysuckle.md
   - Wildlife: wildlife.md
-  - Willow Creek West Cascades: willow-creek-west-cascades.md
   - Winter: winter.md
   - Woodland Pinedrop: plants/woodland-pinedrop.md
   - Woodland Star: plants/woodland-star.md
   - Writings: writings.md
   - Yellow Columbine: plants/yellow-columbine.md
 - Waterfalls:
-  - American Falls: american-falls.md
-  - Cascade Falls: cascade-falls.md
-  - Copper Falls: copper-falls.md
-  - Crystal Falls: crystal-falls.md
-  - Dipper Falls: dipper-falls.md
-  - Douglas Falls Grange Parkb: douglas-falls-grange-parkb.md
-  - Elk Creek Falls Recreation Area: elk-creek-falls-recreation-area.md
-  - Falls Creek Falls Idaho: falls-creek-falls-idaho.md
-  - Fern Shadow  Centennial Falls: fern-shadow--centennial-falls.md
-  - Granite Falls: granite-falls.md
-  - Graves Creek Falls: graves-creek-falls.md
-  - Hawk Creek Falls Sp: hawk-creek-falls-sp.md
-  - Hunt Creek Falls: hunt-creek-falls.md
-  - Kootenai Falls: kootenai-falls.md
-  - Liberty Creek Falls: liberty-creek-falls.md
-  - Lower Yaak Falls: lower-yaak-falls.md
-  - Moyie Falls: moyie-falls.md
-  - Myrtle Creek Falls: myrtle-creek-falls.md
-  - Palisades Creek Falls: palisades-creek-falls.md
-  - Pewee Falls: pewee-falls.md
-  - Post Falls Falls: post-falls-falls.md
-  - Revett Falls: revett-falls.md
-  - Rock Creek Falls: rock-creek-falls.md
-  - Silver Falls State Park: silver-falls-state-park.md
-  - Sweet Creek Falls: sweet-creek-falls.md
-  - Torrelle Falls: torrelle-falls.md
-  - Towell Falls: towell-falls.md
-  - U  L Palouse Falls: u--l-palouse-falls.md
-  - Upper Yaak Falls: upper-yaak-falls.md
-  - Vermillion Falls: vermillion-falls.md
   - Waterfalls: waterfalls/index.md
-  - Wellington Falls: wellington-falls.md
-  - Willow Creek Falls East: willow-creek-falls-east.md
 - Winter & Skiing:
   - Ski: ski/ski.md
   - Ski History & Avalanche Safety: ski/index.md
@@ -833,7 +840,6 @@ nav:
   - Spokane Nordic Ski Association: ski/spokane-nordic-ski-association.md
   - Tony Kozlowski: ski/tony-kozlowski.md
   - Trail Etiquette And Skills: trail-etiquette-and-skills.md
-  - Upper & Lower Snow Creek Falls: u--l-snow-creek-falls.md
 - About:
   - 'Biography :: Chic': biography--chic.md
   - 'Biography :: David': biography--david.md
