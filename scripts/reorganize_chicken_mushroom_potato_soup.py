@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: Chicken Mushroom Mashed Potato Soup
 tags:
   - Recipes
@@ -61,3 +63,9 @@ A quick, comforting, and hearty dish featuring seasoned chicken, sautéed mushro
 
 1. **Season & Combine:** Once the gravy sets up, add salt, black pepper, garlic powder, the fried mushrooms and onions, and the chopped chicken meat.
 2. **Serve:** Divide warm mashed potatoes into medium glass bowls, ladle the rich chicken mushroom gravy generously over the top, and serve immediately!
+"""
+
+with open("docs/recipes/soups/chicken-mushroom-mashed-potato-soup.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized chicken-mushroom-mashed-potato-soup.md successfully")
