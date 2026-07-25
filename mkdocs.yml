@@ -799,6 +799,14 @@ nav:
     - Fungi - Rooms: gallery/categories/fungi---rooms.md
     - Phenomenon: gallery/categories/phenomenon.md
     - Fireworks: gallery/categories/fireworks.md
+- Writings:
+  - Writings: writings/index.md
+  - Adages: writings/adages.md
+  - Essays: writings/essays.md
+  - Notes: writings/notes.md
+  - Poems: writings/poems.md
+  - Quotes: writings/quotes.md
+  - Stories: writings/stories.md
 - Lakes:
   - St Joe Lake 6472Rsquo Illinois Peak 7690Rsquo: st-joe-lake-6472-illinois-peak-7690.md
 - Paddling & Rivers:
@@ -814,7 +822,6 @@ nav:
 - Trails & Scrambles:
   - About: about/index.md
   - About Us: about/about-us.md
-  - Adages: adages.md
   - Basil Shrimp Poscuitto Ham Wraps: recipes/basil-shrimp-poscuitto-ham-wraps.md
   - Biography  Chic: about/biography--chic.md
   - Biography  David: about/biography--david.md
@@ -825,7 +832,6 @@ nav:
   - Contact: about/contact.md
   - Eastern Washington1: eastern-washington1.md
   - Easy Quality Gravy: recipes/easy-quality-gravy.md
-  - Essays: essays.md
   - Gallery: gallery.md
   - Glacier Np: glacier-np.md
   - Home: home.md
@@ -835,19 +841,14 @@ nav:
   - Instant Birthday Cake: recipes/instant-birthday-cake.md
   - Liability Release: about/liability-release.md
   - Moma Morenos Chicken Green Chili Soup: recipes/moma-morenos-chicken-green-chili-soup.md
-  - Notes: notes.md
-  - Poems: poems.md
-  - Quotes: quotes.md
   - Red Lodge: red-lodge.md
   - Route Title Here: route_template.md
   - Scotchman No 2: scotchman-no-2.md
   - Spokane County Parks Conservation Futures Properties: spokane-county-parks-conservation-futures-properties.md
-  - Stories: stories.md
   - Tcda Curried Rice: recipes/tcda-curried-rice.md
   - Uncle Chucks Manhatten Style Clam Chowder: recipes/uncle-chucks-manhatten-style-clam-chowder.md
   - Uncle Chucks World Famous Blondies: recipes/uncle-chucks-world-famous-blondies.md
   - Website Notes: website-notes.md
-  - Writings: writings.md
 - Waterfalls:
   - Waterfalls: waterfalls/index.md
 - Winter & Skiing:
