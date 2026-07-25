@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: "West Medical Lake Launch"
 tags:
   - Lakes
@@ -56,3 +58,9 @@ West Medical Lake is renowned for its quiet waters, trout fishing, and abundant 
 
 - **Nearby Waterways:** Combine your paddle with visits to Medical Lake, Clear Lake, Silver Lake, or Turnbull National Wildlife Refuge.
 - **Rest & Provisions:** Local dining, coffee, and supplies are available in downtown Medical Lake and nearby Cheney, WA (Lenny's).
+"""
+
+with open("docs/paddle/washington/scablands/west-medical-lake.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized west-medical-lake.md successfully")
