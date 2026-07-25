@@ -4,6 +4,7 @@ site_url: http://localhost:8000
 site_description: A comprehensive guide to hiking and scrambling in the American Selkirks, Cabinet Mountain Wilderness, the Bitterroots and more.
 theme:
   name: material
+  favicon: assets/images/favicon.ico
   custom_dir: overrides
   palette:
     # Scheme 1: Inland Emerald (Nature Light)
@@ -775,6 +776,7 @@ nav:
     - Hints: resources/general/hints.md
     - Restaurants and Pubs: resources/general/restaurants-and-pubs.md
 - Gallery:
+  - Gallery: gallery/index.md
   - Contributors:
     - Amy Voeller: gallery/contributors/amy-voeller.md
     - Chris Herath: gallery/contributors/chris-herath.md
@@ -824,41 +826,25 @@ nav:
     - Clammy Cabbage Over Pasta: recipes/main-dishes/clammy-cabbage-over-pasta.md
     - Tcda Curried Rice: recipes/main-dishes/tcda-curried-rice.md
     - Lunch in the Mountains: recipes/main-dishes/lunch-in-the-mountains.md
-- Lakes:
+- Unsorted (needs review):
   - St Joe Lake 6472Rsquo Illinois Peak 7690Rsquo: st-joe-lake-6472-illinois-peak-7690.md
-- Paddling & Rivers:
-  - Paddling Safety & Kayaking Guide: paddle/index.md
-- Peaks & Mountains:
   - Ridges: ridges.md
   - Scenic Lodge Rathdrum Mountain: scenic-lodge-rathdrum-mountain.md
-- Store:
-  - Store/C1/Featured_Products: store/c1/Featured_Products.md
-  - Store/P1/Washington: store/p1/WASHINGTON.md
-- Trails & Scrambles:
-  - About: about/index.md
-  - About Us: about/about-us.md
-  - Biography  Chic: about/biography--chic.md
-  - Biography  David: about/biography--david.md
   - Blank: blank.md
-  - Contact: about/contact.md
   - Eastern Washington1: eastern-washington1.md
-  - Gallery: gallery.md
   - Glacier Np: glacier-np.md
   - Home: home.md
   - Hot Springs Rev3: hot-springs-rev3.md
   - Index Page: index-page.md
-  - Inland NW Routes Blog: blog/index.md
-  - Liability Release: about/liability-release.md
   - Red Lodge: red-lodge.md
   - Route Title Here: route_template.md
   - Scotchman No 2: scotchman-no-2.md
   - Spokane County Parks Conservation Futures Properties: spokane-county-parks-conservation-futures-properties.md
   - Website Notes: website-notes.md
-- Waterfalls:
-  - Waterfalls: waterfalls/index.md
-- Winter & Skiing:
   - Ski: ski/ski.md
-  - Ski History & Avalanche Safety: ski/index.md
+- Store:
+  - Store/C1/Featured_Products: store/c1/Featured_Products.md
+  - Store/P1/Washington: store/p1/WASHINGTON.md
 - About:
   - 'Biography :: Chic': biography--chic.md
   - 'Biography :: David': biography--david.md

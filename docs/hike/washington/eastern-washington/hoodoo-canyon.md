@@ -27,10 +27,10 @@ stats:
   value: "48\xB0 37' 33\" N 118\xB0 15' 26\" W"
 - label: Managing Agency
   icon: domain
-  value: Three Rivers R.D. [509.738.6111](../../../tel:509.738.6111)
+  value: Three Rivers R.D. [509.738.6111](tel:509.738.6111)
 - label: Ferry County Sheriff
   icon: shield-account
-  value: CALL 911 FIRST or [509.775.3132](../../../tel:509.775.3132)
+  value: CALL 911 FIRST or [509.775.3132](tel:509.775.3132)
 notes:
 - label: NW Trailhead Coordinates
   url: "48\xB0 39' 46\" N 118\xB0 16' 50\" W"

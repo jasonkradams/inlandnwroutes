@@ -27,10 +27,10 @@ stats:
   value: 48°42′25″ N 116°24′54″ W
 - label: Ranger District
   icon: pine-tree
-  value: Bonners Ferry R.D. [208.267.5561](../../../tel:208.267.5561)
+  value: Bonners Ferry R.D. [208.267.5561](tel:208.267.5561)
 - label: Boundary County Sheriff
   icon: shield-account
-  value: CALL 911 FIRST or [208.267.3151](../../../tel:208.267.3151)
+  value: CALL 911 FIRST or [208.267.3151](tel:208.267.3151)
 notes:
 - label: Idaho Panhandle National Forest Alerts & Notices
   url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices

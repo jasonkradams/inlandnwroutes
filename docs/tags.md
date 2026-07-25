@@ -14,7 +14,7 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
     <button type="button" class="tag-pill-btn" data-tag="Day Hiking">Day Hiking <span class="tag-count">(136)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Backpacking">Backpacking <span class="tag-count">(115)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Lakes">Lakes <span class="tag-count">(88)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Trails & Scrambles">Trails & Scrambles <span class="tag-count">(70)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Trails & Scrambles">Trails & Scrambles <span class="tag-count">(71)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Peaks & Mountains">Peaks & Mountains <span class="tag-count">(64)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Skiing & Snowshoeing">Skiing & Snowshoeing <span class="tag-count">(51)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Moderate">Moderate <span class="tag-count">(48)</span></button>
@@ -36,6 +36,7 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
     <button type="button" class="tag-pill-btn" data-tag="Loop">Loop <span class="tag-count">(3)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Scenery">Scenery <span class="tag-count">(3)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Swimming">Swimming <span class="tag-count">(3)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Wildflowers">Wildflowers <span class="tag-count">(3)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Birding">Birding <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Hiking">Hiking <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="History">History <span class="tag-count">(2)</span></button>
@@ -80,7 +81,6 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
     <button type="button" class="tag-pill-btn" data-tag="Very Strenuous">Very Strenuous <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Walking">Walking <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Washington">Washington <span class="tag-count">(1)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Wildflowers">Wildflowers <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Wildlife Viewing">Wildlife Viewing <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Winter Sports">Winter Sports <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="backpacking">backpacking <span class="tag-count">(1)</span></button>
@@ -1420,7 +1420,7 @@ Found **3** guides tagged with **Swimming**:
 
 ## Trails & Scrambles
 
-Found **70** guides tagged with **Trails & Scrambles**:
+Found **71** guides tagged with **Trails & Scrambles**:
 
 - [0Xeye Daisy](wildflowers/white/0xeye-daisy.md)
 - [13 Mile Canyon Trail 23](hike/washington/eastern-washington/13-mile-canyon-trail-23.md)
@@ -1445,7 +1445,6 @@ Found **70** guides tagged with **Trails & Scrambles**:
 - [Fireweed](wildflowers/purple/fireweed.md)
 - [Frenchman's Coulee](hike/washington/scablands/frenchmans-coulee.md)
 - [Geiger Llost Buck Pass](hike/montana/cabinet-mountains-wilderness/geiger-llost-buck-pass.md)
-- [Gentian](wildflowers/blue/gentian.md)
 - [Giant Cedar Grove Trail](hike/idaho/north-idaho-hikes/giant-cedar-grove-trail.md)
 - [Glacier Lilies](wildflowers/yellow/glacier-lilies.md)
 - [Hawk Creek S P](hike/washington/scablands/hawk-creek-s-p.md)
@@ -1470,11 +1469,13 @@ Found **70** guides tagged with **Trails & Scrambles**:
 - [Mount Norquay](ski/canada/alberta/mount-norquay.md)
 - [Mount Roothaan (7326') and Chimney Rock (7124') Trail 256](hike/idaho/american-selkirks/mount-roothaan-7326-and-chimney-rock-7124-trail-256.md)
 - [Navigation Trail 291](hike/idaho/north-idaho-hikes/navigation-trail-291.md)
+- [Nuttall's Larkspur (Delphinium nuttallianum)](wildflowers/blue/nuttalls-larkspur.md)
 - [Polemonium](wildflowers/white/polemonium.md)
 - [Qemlin Park](hike/idaho/north-idaho-hikes/qemlin-park.md)
 - [Red Indian Paint Brush](wildflowers/red-and-pink/red-indian-paint-brush.md)
 - [Red Lodge](red-lodge.md)
 - [Red Twinberry](wildflowers/red-and-pink/red-twinberry.md)
+- [Rocky Mountain Gentian (Gentiana affinis)](wildflowers/blue/gentian.md)
 - [Ross Creek Cedars](hike/idaho/proposed-scotchman-peaks-wilderness/ross-creek-cedars.md)
 - [Sagebrush Mariposa](wildflowers/purple/sagebrush-mariposa.md)
 - [Scarlet Beebalm](wildflowers/red-and-pink/scarlet-beebalm.md)
@@ -1555,9 +1556,11 @@ Found **13** guides tagged with **Waterfalls**:
 
 ## Wildflowers
 
-Found **1** guide tagged with **Wildflowers**:
+Found **3** guides tagged with **Wildflowers**:
 
 - [Common Camas (Camassia quamash)](wildflowers/blue/camas.md)
+- [Nuttall's Larkspur (Delphinium nuttallianum)](wildflowers/blue/nuttalls-larkspur.md)
+- [Rocky Mountain Gentian (Gentiana affinis)](wildflowers/blue/gentian.md)
 
 </div>
 <div class="static-tag-section" data-tag="Wildlife Viewing" markdown="1">
@@ -1668,7 +1671,7 @@ Found **1** guide tagged with **waterfalls**:
   },
   {
     "title": "Clammy Cabbage Over Pasta",
-    "url": "/plants/clammy-cabbage-over-pasta/",
+    "url": "/recipes/main-dishes/clammy-cabbage-over-pasta/",
     "tags": [
       "Flora & Plants"
     ]
@@ -4040,10 +4043,11 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
-    "title": "Gentian",
+    "title": "Rocky Mountain Gentian (Gentiana affinis)",
     "url": "/wildflowers/blue/gentian/",
     "tags": [
-      "Trails & Scrambles"
+      "Trails & Scrambles",
+      "Wildflowers"
     ]
   },
   {
@@ -4051,6 +4055,14 @@ Found **1** guide tagged with **waterfalls**:
     "url": "/wildflowers/blue/lupine/",
     "tags": [
       "Trails & Scrambles"
+    ]
+  },
+  {
+    "title": "Nuttall's Larkspur (Delphinium nuttallianum)",
+    "url": "/wildflowers/blue/nuttalls-larkspur/",
+    "tags": [
+      "Trails & Scrambles",
+      "Wildflowers"
     ]
   },
   {
@@ -4264,71 +4276,71 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
-    "title": "Basil Shrimp Poscuitto Ham Wraps",
-    "url": "/recipes/basil-shrimp-poscuitto-ham-wraps/",
-    "tags": [
-      "Recipes"
-    ]
-  },
-  {
-    "title": "Chicken And Rice Soup",
-    "url": "/recipes/chicken-and-rice-soup/",
-    "tags": [
-      "Recipes"
-    ]
-  },
-  {
-    "title": "Chicken Mushroom Mashed Potoaoe Soup",
-    "url": "/recipes/chicken-mushroom-mashed-potato-soup/",
-    "tags": [
-      "Recipes"
-    ]
-  },
-  {
     "title": "Easy Quality Gravy",
-    "url": "/recipes/easy-quality-gravy/",
+    "url": "/recipes/brines-marinades-and-sauces/easy-quality-gravy/",
     "tags": [
       "Recipes"
     ]
   },
   {
     "title": "Instant Birthday Cake",
-    "url": "/recipes/instant-birthday-cake/",
-    "tags": [
-      "Recipes"
-    ]
-  },
-  {
-    "title": "Moma Morenos Chicken Green Chili Soup",
-    "url": "/recipes/moma-morenos-chicken-green-chili-soup/",
-    "tags": [
-      "Recipes"
-    ]
-  },
-  {
-    "title": "Soup For Lunch In The Mountains",
-    "url": "/recipes/soup-for-lunch-in-the-mountains/",
-    "tags": [
-      "Recipes"
-    ]
-  },
-  {
-    "title": "Tcda Curried Rice",
-    "url": "/recipes/tcda-curried-rice/",
-    "tags": [
-      "Recipes"
-    ]
-  },
-  {
-    "title": "Uncle Chucks Manhatten Style Clam Chowder",
-    "url": "/recipes/uncle-chucks-manhatten-style-clam-chowder/",
+    "url": "/recipes/desserts/instant-birthday-cake/",
     "tags": [
       "Recipes"
     ]
   },
   {
     "title": "Uncle Chucks World Famous Blondies",
-    "url": "/recipes/uncle-chucks-world-famous-blondies/",
+    "url": "/recipes/desserts/uncle-chucks-world-famous-blondies/",
+    "tags": [
+      "Recipes"
+    ]
+  },
+  {
+    "title": "Basil Shrimp Poscuitto Ham Wraps",
+    "url": "/recipes/main-dishes/basil-shrimp-poscuitto-ham-wraps/",
+    "tags": [
+      "Recipes"
+    ]
+  },
+  {
+    "title": "Tcda Curried Rice",
+    "url": "/recipes/main-dishes/tcda-curried-rice/",
+    "tags": [
+      "Recipes"
+    ]
+  },
+  {
+    "title": "Chicken And Rice Soup",
+    "url": "/recipes/soups/chicken-and-rice-soup/",
+    "tags": [
+      "Recipes"
+    ]
+  },
+  {
+    "title": "Chicken Mushroom Mashed Potoaoe Soup",
+    "url": "/recipes/soups/chicken-mushroom-mashed-potato-soup/",
+    "tags": [
+      "Recipes"
+    ]
+  },
+  {
+    "title": "Moma Morenos Chicken Green Chili Soup",
+    "url": "/recipes/soups/moma-morenos-chicken-green-chili-soup/",
+    "tags": [
+      "Recipes"
+    ]
+  },
+  {
+    "title": "Soup For Lunch In The Mountains",
+    "url": "/recipes/soups/soup-for-lunch-in-the-mountains/",
+    "tags": [
+      "Recipes"
+    ]
+  },
+  {
+    "title": "Uncle Chucks Manhatten Style Clam Chowder",
+    "url": "/recipes/soups/uncle-chucks-manhatten-style-clam-chowder/",
     "tags": [
       "Recipes"
     ]

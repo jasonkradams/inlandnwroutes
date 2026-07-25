@@ -11,9 +11,9 @@ tags:
 - label: Difficulty icon: speedometer value: Moderately easy
 - label: Maps icon: map value: Smith Rocks State Park
 - label: GPS icon: crosshairs-gps value: 44° 21’ 32"n 121° 09’ 00"w
-- label: Sisters Ranger District icon: pine-tree value: '[541.549.7700](../../tel:541.549.7700)'
+- label: Sisters Ranger District icon: pine-tree value: '[541.549.7700](tel:541.549.7700)'
 - label: Deschutes County Sheriff icon: shield-account
-## value: CALL 911 FIRST or [541.388.6655](../../tel:541.388.6655)
+## value: CALL 911 FIRST or [541.388.6655](tel:541.388.6655)
 ## Smith Rocks
 ## Description
 We have added the areas sheriff’s emergency phone numbers for each trip write up under the ranger district

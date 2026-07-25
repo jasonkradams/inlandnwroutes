@@ -24,10 +24,10 @@ stats:
     value: 48°59′46″ N 117°22′15″ W
   - label: Managing Agency
     icon: domain
-    value: Washington State Parks & Rec. [509.238.4258](../../../tel:509.238.4258)
+    value: Washington State Parks & Rec. [509.238.4258](tel:509.238.4258)
   - label: Pend Oreille County Sheriff
     icon: shield-account
-    value: "[509.447.3151](../../../tel:509.447.3151)"
+    value: "[509.447.3151](tel:509.447.3151)"
 ---
 
 # Crawford State Park & Gardner Cave
@@ -114,7 +114,7 @@ Tours run Thursday through Monday at **10 a.m., 12 p.m., 2 p.m., and 4 p.m.** du
 ## Additional Information
 
 - Tour groups are limited to 25 people. On holidays and busy summer days, extra tours may be added. Large
-  groups should call Crawford State Park in advance at [(509) 446-4065](../../../tel:5094464065).
+  groups should call Crawford State Park in advance at [(509) 446-4065](tel:5094464065).
 - Sturdy walking shoes or hiking boots are recommended for touring the cave and surrounding trails.
 - Explore nearby outdoor events and activities through the Metaline Falls Chamber of Commerce and Colville
   National Forest.

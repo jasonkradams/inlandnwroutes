@@ -38,7 +38,7 @@ place to turn around
 
 ## R & P
 
-TFP's 55 Milwaukee Road Avery, Idaho [208.568.2181](../../tel:208.568.2181) Wood Fired Pizza, Broasted Chicken &
+TFP's 55 Milwaukee Road Avery, Idaho [208.568.2181](tel:208.568.2181) Wood Fired Pizza, Broasted Chicken &
 JoJos, Beer & Wine
 
 ---

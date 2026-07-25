@@ -28,10 +28,10 @@ stats:
   value: 47°08′38″ N 119°59′52″ W
 - label: Managing Agency
   icon: domain
-  value: WDFW [509.765.6641](../../../tel:509.765.6641)
+  value: WDFW [509.765.6641](tel:509.765.6641)
 - label: Grant County Sheriff
   icon: shield-account
-  value: CALL 911 FIRST or [509.754.2011](../../../tel:509.754.2011)
+  value: CALL 911 FIRST or [509.754.2011](tel:509.754.2011)
 ---
 
 # Frenchman's Coulee

@@ -25,13 +25,13 @@ stats:
   value: 46°53′56.2″ N 119°15′57.4″ W
 - label: Managing Agency
   icon: domain
-  value: U.S. Fish & Wildlife Service [509.546.8300](../../../tel:509.546.8300)
+  value: U.S. Fish & Wildlife Service [509.546.8300](tel:509.546.8300)
 - label: Grant County Sheriff
   icon: shield-account
-  value: '[509.754.2011](../../../tel:509.754.2011)'
+  value: '[509.754.2011](tel:509.754.2011)'
 - label: Adams County Sheriff
   icon: shield-account
-  value: CALL 911 FIRST or [508.659.1122](../../../tel:508.659.1122)
+  value: CALL 911 FIRST or [508.659.1122](tel:508.659.1122)
 ---
 
 # Columbia National Wildlife Refuge

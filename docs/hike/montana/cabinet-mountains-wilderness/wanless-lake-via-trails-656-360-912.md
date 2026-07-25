@@ -28,12 +28,12 @@ stats:
   value: "48\xB000\u201945\" n 45\xB034\u201953\" w"
 - label: Ranger District
   icon: pine-tree
-  value: Cabinet Ranger District [406.827.3533](../../../tel:406.827.3533)
+  value: Cabinet Ranger District [406.827.3533](tel:406.827.3533)
 - label: Lincoln County Sheriff
   icon: shield-account
   value: CALL 911 FIRST or [406.293.4112
 notes:
-- label: '](../../../tel:406.293.4112)Kootenai national forest/alerts'
+- label: '](tel:406.293.4112)Kootenai national forest/alerts'
   url: '#'
 - url: https://www.fs.usda.gov/alerts/kootenai/alerts-notices
 ---

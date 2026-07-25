@@ -17,7 +17,7 @@ patagonia. see... <https://www.inlandnwroutes.com/patagonia.html>
 
 ## Click on the image to enlarge
 
-![Picture](../../../../assets/images/4202024436p.jpg)
+![Picture](../../assets/images/4202024436p.jpg)
 
 ## This is a "broken spectre"  a shadow cast on an underlying cloud
 
@@ -41,7 +41,7 @@ patagonia. see... <https://www.inlandnwroutes.com/patagonia.html>
 
 ## A view along the route to billiard table mountain  (pspw)
 
-![Picture](../../../../assets/images/4292024427p.jpg)
+![Picture](../../assets/images/4292024427p.jpg)
 
 ## 1 of 3 libby lakes at sunset cabinet mountain wilderness, mt
 

@@ -146,10 +146,10 @@ tags:
 - label: Difficulty icon: speedometer value: Strenuous
 - label: Maps icon: map value: Kootenai N.F., Heron & Sawtooth topos
 - label: GPS icon: crosshairs-gps value: 48°16’38"n 115°97’78"w
-- label: Ranger District icon: pine-tree value: Three Rivers R.D. [406.295.4693](../../../tel:406.295.4693)
+- label: Ranger District icon: pine-tree value: Three Rivers R.D. [406.295.4693](tel:406.295.4693)
 - label: Lincoln County Sheriff icon: shield-account
 
-## value: CALL 911 FIRST or [406.293.4112](../../../tel:406.293.4112)Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
+## value: CALL 911 FIRST or [406.293.4112](tel:406.293.4112)Kootenai national forest/alerts<https://www.fs.usda.gov/alerts/kootenai/alerts-notices>
 
 ## Sawtooth Mountain1 (2)
 
