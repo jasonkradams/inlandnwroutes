@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: "Fishtrap Lake Paddle Guide"
 tags:
   - Lakes
@@ -82,3 +84,9 @@ _Western Painted Turtles basking in the spring sun on a submerged log._
 
 ![Lake Inlet and Historic Dance Hall](../../../assets/images/20200525140448.jpg)
 _Inlet area near the historic World War I dance hall at the head of the lake._
+"""
+
+with open("docs/paddle/washington/scablands/fishtrap-lake-wa.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized fishtrap-lake-wa.md successfully")
