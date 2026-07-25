@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 description: >-
   Your comprehensive guide to hiking, scrambling, skiing, paddling, and exploring the wilderness of the Inland
   Northwest.
@@ -99,3 +101,9 @@ backcountry trails of North Idaho, Western Montana, Eastern Washington, Oregon, 
     > — **Steve Jobs**
 
 *This shared passion guided Chic Burge and David Crafton while building Inland NW Routes. Thank you for exploring with us!*
+"""
+
+with open("docs/index.md", "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Updated docs/index.md for linting compliance")
