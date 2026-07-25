@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 tags:
   - Peaks & Mountains
   - Difficult
@@ -138,3 +140,10 @@ Check local weather forecasts before departing:
 
 - **NOAA Weather Forecast:** [National Weather Service Wallace / Moon Pass Forecast](https://forecast.weather.gov)
 - **Forest Alerts:** [Idaho Panhandle National Forests Alerts & Notices](https://www.fs.usda.gov/alerts/ipnf/alerts-notices)
+"""
+
+target_path = "docs/hike/idaho/north-idaho-hikes/shefoot-mountain.md"
+with open(target_path, "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Updated line wrapping in shefoot-mountain.md")

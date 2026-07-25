@@ -11,11 +11,11 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
     <span id="filter-count-badge" class="filter-count-badge"></span>
   </div>
   <div id="tag-cloud-container" class="tag-cloud-container">
-    <button type="button" class="tag-pill-btn" data-tag="Day Hiking">Day Hiking <span class="tag-count">(137)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Day Hiking">Day Hiking <span class="tag-count">(139)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Backpacking">Backpacking <span class="tag-count">(116)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Lakes">Lakes <span class="tag-count">(88)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Trails & Scrambles">Trails & Scrambles <span class="tag-count">(74)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Peaks & Mountains">Peaks & Mountains <span class="tag-count">(65)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Peaks & Mountains">Peaks & Mountains <span class="tag-count">(66)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Skiing & Snowshoeing">Skiing & Snowshoeing <span class="tag-count">(51)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Moderate">Moderate <span class="tag-count">(48)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Scrambling">Scrambling <span class="tag-count">(35)</span></button>
@@ -33,16 +33,16 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
     <button type="button" class="tag-pill-btn" data-tag="Photography">Photography <span class="tag-count">(10)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Recipes">Recipes <span class="tag-count">(10)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Paddling & Rivers">Paddling & Rivers <span class="tag-count">(7)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Resources">Resources <span class="tag-count">(6)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Conservation & Organizations">Conservation & Organizations <span class="tag-count">(5)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Fire Lookout Rental">Fire Lookout Rental <span class="tag-count">(5)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Resources">Resources <span class="tag-count">(5)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Flora & Wildlife">Flora & Wildlife <span class="tag-count">(3)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Hiking">Hiking <span class="tag-count">(3)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Loop">Loop <span class="tag-count">(3)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Scenery">Scenery <span class="tag-count">(3)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Swimming">Swimming <span class="tag-count">(3)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Wildflowers">Wildflowers <span class="tag-count">(3)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Birding">Birding <span class="tag-count">(2)</span></button>
-    <button type="button" class="tag-pill-btn" data-tag="Hiking">Hiking <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="History">History <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Picnicking">Picnicking <span class="tag-count">(2)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Regional Routes">Regional Routes <span class="tag-count">(2)</span></button>
@@ -54,8 +54,10 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
     <button type="button" class="tag-pill-btn" data-tag="British Columbia">British Columbia <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Canada">Canada <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Canadian Rockies">Canadian Rockies <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="History & Speakeasy">History & Speakeasy <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Hut Stays">Hut Stays <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Inland Northwest">Inland Northwest <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Managing Agencies">Managing Agencies <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Moderate to Difficult">Moderate to Difficult <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Moderate to Moderately Difficult">Moderate to Moderately Difficult <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Moderate to Strenuous">Moderate to Strenuous <span class="tag-count">(1)</span></button>
@@ -65,15 +67,19 @@ Every route, trail, launch, ski area, lake, and flora guide on Inland NW Routes 
     <button type="button" class="tag-pill-btn" data-tag="Mt Biking">Mt Biking <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Mt. Biking Approach">Mt. Biking Approach <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Near Difficult">Near Difficult <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="North Idaho">North Idaho <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Off-Trail Ridge Walk">Off-Trail Ridge Walk <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Old Growth & Cedars">Old Growth & Cedars <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Orving">Orving <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Paddling & Water Sports">Paddling & Water Sports <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Priest Lake">Priest Lake <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Regions">Regions <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Resort">Resort <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Ridge Walking">Ridge Walking <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Rock Diving">Rock Diving <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Roped Snow">Roped Snow <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Running">Running <span class="tag-count">(1)</span></button>
+    <button type="button" class="tag-pill-btn" data-tag="Safety & Emergency">Safety & Emergency <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Scenic Nature Hike">Scenic Nature Hike <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Scenic Overlook">Scenic Overlook <span class="tag-count">(1)</span></button>
     <button type="button" class="tag-pill-btn" data-tag="Selkirks">Selkirks <span class="tag-count">(1)</span></button>
@@ -162,6 +168,7 @@ Found **116** guides tagged with **Backpacking**:
 - [Bramlet Lake](hike/montana/cabinet-mountains-wilderness/bramlet-lake.md)
 - [Burton Peak 6844 Trail 9](hike/idaho/american-selkirks/burton-peak-6844-trail-9.md)
 - [Cabinet Divide Trail 360](hike/montana/cabinet-mountains-wilderness/cabinet-divide-trail-360.md)
+- [Caribou Ridge National Recreation Trail #79](hike/idaho/north-idaho-hikes/mount-cda-trail-79-caribou-ridge.md)
 - [Cedar Lake 5914](hike/montana/cabinet-mountains-wilderness/cedar-lake-5914.md)
 - [Chicago Peak](hike/montana/cabinet-mountains-wilderness/chicago-peak.md)
 - [Cliff Lake & Eagle Cliff Peak](hike/montana/bitterroots/cliff-lake--eagle-cliff-peak.md)
@@ -212,14 +219,13 @@ Found **116** guides tagged with **Backpacking**:
 - [Mollies  Phoebes Tip](hike/idaho/american-selkirks/mollies--phoebes-tip.md)
 - [Moose Mountain Loop Hike](hike/idaho/north-idaho-hikes/moose-mountain-loop-hike.md)
 - [Moran Basin](hike/montana/cabinet-mountains-wilderness/moran-basin.md)
-- [Mount CDA Trail 257](hike/idaho/north-idaho-hikes/mount-cda-trail-257.md)
-- [Mount Cda Trail 79 Caribou Ridge](hike/idaho/north-idaho-hikes/mount-cda-trail-79-caribou-ridge.md)
+- [Mount Coeur d'Alene Trail #257](hike/idaho/north-idaho-hikes/mount-cda-trail-257.md)
 - [Mount Roothaan (7326') and Chimney Rock (7124') Trail 256](hike/idaho/american-selkirks/mount-roothaan-7326-and-chimney-rock-7124-trail-256.md)
 - [Myrtle Lake 5950 & Myrtle Peak 7122 Trail 286](hike/idaho/american-selkirks/myrtle-lake-5950--myrtle-peak-7122-trail-286.md)
 - [Myrtle Peak Trail](hike/idaho/north-idaho-hikes/myrtle-peak-trail.md)
-- [Navigation Trail 291](hike/idaho/north-idaho-hikes/navigation-trail-291.md)
+- [Navigation Trail #291 to Upper Priest Lake](hike/idaho/north-idaho-hikes/navigation-trail-291.md)
 - [North And South Chilco Peak](hike/idaho/north-idaho-hikes/north-and-south-chilco-peak.md)
-- [Packsaddle Mountain](hike/idaho/north-idaho-hikes/packsaddle-mountain.md)
+- [Packsaddle Mountain (Trail #76)](hike/idaho/north-idaho-hikes/packsaddle-mountain.md)
 - [Parker Peak 7670](hike/idaho/american-selkirks/parker-peak-7670.md)
 - [Parmenter Lake](hike/montana/cabinet-mountains-wilderness/parmenter-lake.md)
 - [Pillick Ridge 6167](hike/idaho/proposed-scotchman-peaks-wilderness/pillick-ridge-6167.md)
@@ -366,7 +372,7 @@ Found **5** guides tagged with **Conservation & Organizations**:
 
 ## Day Hiking
 
-Found **137** guides tagged with **Day Hiking**:
+Found **139** guides tagged with **Day Hiking**:
 
 - [13 Mile Canyon Trail 23](hike/washington/eastern-washington/13-mile-canyon-trail-23.md)
 - [A Peak 8634](hike/montana/cabinet-mountains-wilderness/a-peak-8634.md)
@@ -387,6 +393,7 @@ Found **137** guides tagged with **Day Hiking**:
 - [Breezy Hill Ancient and Dusty Lakes](hike/washington/scablands/breezy-hill-ancient-and-dusty-lakes.md)
 - [Burton Peak 6844 Trail 9](hike/idaho/american-selkirks/burton-peak-6844-trail-9.md)
 - [Cabinet Divide Trail 360](hike/montana/cabinet-mountains-wilderness/cabinet-divide-trail-360.md)
+- [Caribou Ridge National Recreation Trail #79](hike/idaho/north-idaho-hikes/mount-cda-trail-79-caribou-ridge.md)
 - [Cedar Lake 5914](hike/montana/cabinet-mountains-wilderness/cedar-lake-5914.md)
 - [Chicago Peak](hike/montana/cabinet-mountains-wilderness/chicago-peak.md)
 - [Cliff Lake & Eagle Cliff Peak](hike/montana/bitterroots/cliff-lake--eagle-cliff-peak.md)
@@ -447,14 +454,14 @@ Found **137** guides tagged with **Day Hiking**:
 - [Mollies  Phoebes Tip](hike/idaho/american-selkirks/mollies--phoebes-tip.md)
 - [Moose Mountain Loop Hike](hike/idaho/north-idaho-hikes/moose-mountain-loop-hike.md)
 - [Moran Basin](hike/montana/cabinet-mountains-wilderness/moran-basin.md)
-- [Mount CDA Trail 257](hike/idaho/north-idaho-hikes/mount-cda-trail-257.md)
-- [Mount Cda Trail 79 Caribou Ridge](hike/idaho/north-idaho-hikes/mount-cda-trail-79-caribou-ridge.md)
+- [Morris Creek Old Growth Cedar Grove](hike/idaho/north-idaho-hikes/morris-creek-old-growth-cedar-grove.md)
+- [Mount Coeur d'Alene Trail #257](hike/idaho/north-idaho-hikes/mount-cda-trail-257.md)
 - [Mount Roothaan (7326') and Chimney Rock (7124') Trail 256](hike/idaho/american-selkirks/mount-roothaan-7326-and-chimney-rock-7124-trail-256.md)
 - [Myrtle Lake 5950 & Myrtle Peak 7122 Trail 286](hike/idaho/american-selkirks/myrtle-lake-5950--myrtle-peak-7122-trail-286.md)
 - [Myrtle Peak Trail](hike/idaho/north-idaho-hikes/myrtle-peak-trail.md)
-- [Navigation Trail 291](hike/idaho/north-idaho-hikes/navigation-trail-291.md)
+- [Navigation Trail #291 to Upper Priest Lake](hike/idaho/north-idaho-hikes/navigation-trail-291.md)
 - [North And South Chilco Peak](hike/idaho/north-idaho-hikes/north-and-south-chilco-peak.md)
-- [Packsaddle Mountain](hike/idaho/north-idaho-hikes/packsaddle-mountain.md)
+- [Packsaddle Mountain (Trail #76)](hike/idaho/north-idaho-hikes/packsaddle-mountain.md)
 - [Palouse Falls State Park Heritage Site](hike/washington/scablands/palouse-falls-state-park-heritage-site.md)
 - [Parker Peak 7670](hike/idaho/american-selkirks/parker-peak-7670.md)
 - [Parmenter Lake](hike/montana/cabinet-mountains-wilderness/parmenter-lake.md)
@@ -470,6 +477,7 @@ Found **137** guides tagged with **Day Hiking**:
 - [Russell Peak 6618 Trail 12  Russell Ridge 92](hike/idaho/american-selkirks/russell-peak-6618-trail-12--russell-ridge-92.md)
 - [Sawtooth Mountain](hike/idaho/proposed-scotchman-peaks-wilderness/sawtooth-mountain.md)
 - [Scenery Mountain](hike/montana/cabinet-mountains-wilderness/scenery-mountain.md)
+- [Scenic Lodge on Rathdrum Mountain (3,658')](hike/idaho/north-idaho-hikes/scenic-lodge-rathdrum-mountain.md)
 - [Scotchmans Peak](hike/idaho/proposed-scotchman-peaks-wilderness/scotchmans-peak.md)
 - [Selkirk Crest High Traverse](hike/idaho/american-selkirks/selkirk-crest-high-traverse.md)
 - [Settlers Grove Of Ancient Cedars](hike/idaho/silver-valley-area/settlers-grove-of-ancient-cedars.md)
@@ -515,6 +523,7 @@ Found **19** guides tagged with **Difficult**:
 
 - [Baree Lake](hike/montana/cabinet-mountains-wilderness/baree-lake.md)
 - [Cabinet Divide Trail 360](hike/montana/cabinet-mountains-wilderness/cabinet-divide-trail-360.md)
+- [Caribou Ridge National Recreation Trail #79](hike/idaho/north-idaho-hikes/mount-cda-trail-79-caribou-ridge.md)
 - [Cedar Lake 5914](hike/montana/cabinet-mountains-wilderness/cedar-lake-5914.md)
 - [Dome Mountain](hike/montana/cabinet-mountains-wilderness/dome-mountain.md)
 - [Fisher Peak Trail 27](hike/idaho/american-selkirks/fisher-peak-trail-27.md)
@@ -522,7 +531,6 @@ Found **19** guides tagged with **Difficult**:
 - [Long Canyon Trail 16](hike/idaho/american-selkirks/long-canyon-trail-16.md)
 - [Minor Lake](hike/montana/cabinet-mountains-wilderness/minor-lake.md)
 - [Moran Basin](hike/montana/cabinet-mountains-wilderness/moran-basin.md)
-- [Mount Cda Trail 79 Caribou Ridge](hike/idaho/north-idaho-hikes/mount-cda-trail-79-caribou-ridge.md)
 - [Parker Peak 7670](hike/idaho/american-selkirks/parker-peak-7670.md)
 - [Russell Peak 6618 Trail 12  Russell Ridge 92](hike/idaho/american-selkirks/russell-peak-6618-trail-12--russell-ridge-92.md)
 - [Siamese Lake Loop](hike/montana/lolo-national-forest/siamese-lake-loop.md)
@@ -562,7 +570,7 @@ Found **33** guides tagged with **Easy**:
 - [Mickinnick Trail](hike/idaho/north-idaho-hikes/mickinnick-trail.md)
 - [Mineral Ridge](hike/idaho/north-idaho-hikes/mineral-ridge.md)
 - [Morris Creek Old Growth Cedar Grove](hike/idaho/north-idaho-hikes/morris-creek-old-growth-cedar-grove.md)
-- [Navigation Trail 291](hike/idaho/north-idaho-hikes/navigation-trail-291.md)
+- [Navigation Trail #291 to Upper Priest Lake](hike/idaho/north-idaho-hikes/navigation-trail-291.md)
 - [Palouse Falls State Park Heritage Site](hike/washington/scablands/palouse-falls-state-park-heritage-site.md)
 - [Pulaski Tunnel Trail](hike/idaho/silver-valley-area/pulaski-tunnel-trail.md)
 - [Quincy Lakes](hike/washington/scablands/quincy-lakes.md)
@@ -585,6 +593,7 @@ Found **28** guides tagged with **Equestrian**:
 - [Abercrombie Mountain](hike/washington/eastern-washington/abercrombie-mountain.md)
 - [Blacktail Mountain](hike/idaho/north-idaho-hikes/blacktail-mountain.md)
 - [Bloom Peak](hike/idaho/silver-valley-area/bloom-peak.md)
+- [Caribou Ridge National Recreation Trail #79](hike/idaho/north-idaho-hikes/mount-cda-trail-79-caribou-ridge.md)
 - [Clifty Mountain to Katka Peak](hike/idaho/north-idaho-hikes/clifty-mountain-to-katka-peak.md)
 - [Crystal Lake](hike/idaho/silver-valley-area/crystal-lake.md)
 - [Fishtrap Lake](hike/washington/scablands/fishtrap-lake.md)
@@ -599,10 +608,9 @@ Found **28** guides tagged with **Equestrian**:
 - [Little Guard Peak  Lookout](hike/idaho/north-idaho-hikes/little-guard-peak--lookout.md)
 - [Lunch Peak  Mount Pend Orielle](hike/idaho/north-idaho-hikes/lunch-peak--mount-pend-orielle.md)
 - [Marie Creek](hike/idaho/north-idaho-hikes/marie-creek.md)
-- [Mount CDA Trail 257](hike/idaho/north-idaho-hikes/mount-cda-trail-257.md)
-- [Mount Cda Trail 79 Caribou Ridge](hike/idaho/north-idaho-hikes/mount-cda-trail-79-caribou-ridge.md)
+- [Mount Coeur d'Alene Trail #257](hike/idaho/north-idaho-hikes/mount-cda-trail-257.md)
 - [Myrtle Peak Trail](hike/idaho/north-idaho-hikes/myrtle-peak-trail.md)
-- [Packsaddle Mountain](hike/idaho/north-idaho-hikes/packsaddle-mountain.md)
+- [Packsaddle Mountain (Trail #76)](hike/idaho/north-idaho-hikes/packsaddle-mountain.md)
 - [Pillick Ridge 6167](hike/idaho/proposed-scotchman-peaks-wilderness/pillick-ridge-6167.md)
 - [Short Peak 6515 And Lone Tree Peak 6732](hike/idaho/north-idaho-hikes/short-peak-6515-and-lone-tree-peak-6732.md)
 - [Siamese Lake Loop](hike/montana/lolo-national-forest/siamese-lake-loop.md)
@@ -685,9 +693,10 @@ Found **3** guides tagged with **Flora & Wildlife**:
 
 ## Hiking
 
-Found **2** guides tagged with **Hiking**:
+Found **3** guides tagged with **Hiking**:
 
 - [Hiking & Scrambling Regional Portal](hike/index.md)
+- [North Idaho Hikes](hike/idaho/north-idaho-hikes/index.md)
 - [St. Joe Lake & Illinois Peak](hike/montana/bitterroots/st-joe-lake--illinois-peak.md)
 
 </div>
@@ -699,6 +708,15 @@ Found **2** guides tagged with **History**:
 
 - [Lake Lenore Caves & Mesa](hike/washington/scablands/lake-lenore-caves--mesa.md)
 - [Pulaski Tunnel Trail](hike/idaho/silver-valley-area/pulaski-tunnel-trail.md)
+
+</div>
+<div class="static-tag-section" data-tag="History & Speakeasy" markdown="1">
+
+## History & Speakeasy
+
+Found **1** guide tagged with **History & Speakeasy**:
+
+- [Scenic Lodge on Rathdrum Mountain (3,658')](hike/idaho/north-idaho-hikes/scenic-lodge-rathdrum-mountain.md)
 
 </div>
 <div class="static-tag-section" data-tag="Hut Stays" markdown="1">
@@ -826,6 +844,15 @@ Found **3** guides tagged with **Loop**:
 - [Parmenter Lake](hike/montana/cabinet-mountains-wilderness/parmenter-lake.md)
 
 </div>
+<div class="static-tag-section" data-tag="Managing Agencies" markdown="1">
+
+## Managing Agencies
+
+Found **1** guide tagged with **Managing Agencies**:
+
+- [Managing Agencies & Emergency Directory](resources/general/managing-agencies.md)
+
+</div>
 <div class="static-tag-section" data-tag="Moderate" markdown="1">
 
 ## Moderate
@@ -859,12 +886,12 @@ Found **48** guides tagged with **Moderate**:
 - [Lunch Peak  Mount Pend Orielle](hike/idaho/north-idaho-hikes/lunch-peak--mount-pend-orielle.md)
 - [Maiden Rock Trail](hike/idaho/north-idaho-hikes/maiden-rock-trail.md)
 - [Moose Mountain Loop Hike](hike/idaho/north-idaho-hikes/moose-mountain-loop-hike.md)
-- [Mount CDA Trail 257](hike/idaho/north-idaho-hikes/mount-cda-trail-257.md)
+- [Mount Coeur d'Alene Trail #257](hike/idaho/north-idaho-hikes/mount-cda-trail-257.md)
 - [Mount Roothaan (7326') and Chimney Rock (7124') Trail 256](hike/idaho/american-selkirks/mount-roothaan-7326-and-chimney-rock-7124-trail-256.md)
 - [Myrtle Lake 5950 & Myrtle Peak 7122 Trail 286](hike/idaho/american-selkirks/myrtle-lake-5950--myrtle-peak-7122-trail-286.md)
 - [Myrtle Peak Trail](hike/idaho/north-idaho-hikes/myrtle-peak-trail.md)
 - [North And South Chilco Peak](hike/idaho/north-idaho-hikes/north-and-south-chilco-peak.md)
-- [Packsaddle Mountain](hike/idaho/north-idaho-hikes/packsaddle-mountain.md)
+- [Packsaddle Mountain (Trail #76)](hike/idaho/north-idaho-hikes/packsaddle-mountain.md)
 - [Pyramid Peak (7355') Trail 13](hike/idaho/american-selkirks/pyramid-peak-7355-trail-13.md)
 - [Pyramid and Ball Lakes Trail 43](hike/idaho/american-selkirks/pyramid-and-ball-lakes-trail-43.md)
 - [Qemlin Park](hike/idaho/north-idaho-hikes/qemlin-park.md)
@@ -937,6 +964,7 @@ Found **18** guides tagged with **Mountain Biking**:
 - [American Falls Trail 308](hike/idaho/north-idaho-hikes/american-falls-trail-308.md)
 - [Bloom Peak](hike/idaho/silver-valley-area/bloom-peak.md)
 - [Breezy Hill Ancient and Dusty Lakes](hike/washington/scablands/breezy-hill-ancient-and-dusty-lakes.md)
+- [Caribou Ridge National Recreation Trail #79](hike/idaho/north-idaho-hikes/mount-cda-trail-79-caribou-ridge.md)
 - [Fault Lake 5980 Hunt Peak 7058 Trail 59](hike/idaho/american-selkirks/fault-lake-5980--hunt-peak-7058-trail-59.md)
 - [Fishtrap Lake](hike/washington/scablands/fishtrap-lake.md)
 - [Frenchman's Coulee](hike/washington/scablands/frenchmans-coulee.md)
@@ -944,10 +972,9 @@ Found **18** guides tagged with **Mountain Biking**:
 - [Hub Lake & Dipper Falls](hike/montana/lolo-national-forest/hub-lake--dipper-falls.md)
 - [Long Canyon Trail 16](hike/idaho/american-selkirks/long-canyon-trail-16.md)
 - [Long Mountain Peak 7,265' & Lake](hike/idaho/american-selkirks/long-mountain-7265-and-lake.md)
-- [Mount CDA Trail 257](hike/idaho/north-idaho-hikes/mount-cda-trail-257.md)
-- [Mount Cda Trail 79 Caribou Ridge](hike/idaho/north-idaho-hikes/mount-cda-trail-79-caribou-ridge.md)
+- [Mount Coeur d'Alene Trail #257](hike/idaho/north-idaho-hikes/mount-cda-trail-257.md)
 - [Myrtle Lake 5950 & Myrtle Peak 7122 Trail 286](hike/idaho/american-selkirks/myrtle-lake-5950--myrtle-peak-7122-trail-286.md)
-- [Packsaddle Mountain](hike/idaho/north-idaho-hikes/packsaddle-mountain.md)
+- [Packsaddle Mountain (Trail #76)](hike/idaho/north-idaho-hikes/packsaddle-mountain.md)
 - [Pyramid and Ball Lakes Trail 43](hike/idaho/american-selkirks/pyramid-and-ball-lakes-trail-43.md)
 - [Quincy Lakes](hike/washington/scablands/quincy-lakes.md)
 - [Shefoot Mountain](hike/idaho/north-idaho-hikes/shefoot-mountain.md)
@@ -989,6 +1016,15 @@ Found **1** guide tagged with **Near Difficult**:
 - [Leigh Lake](hike/montana/cabinet-mountains-wilderness/leigh-lake.md)
 
 </div>
+<div class="static-tag-section" data-tag="North Idaho" markdown="1">
+
+## North Idaho
+
+Found **1** guide tagged with **North Idaho**:
+
+- [North Idaho Hikes](hike/idaho/north-idaho-hikes/index.md)
+
+</div>
 <div class="static-tag-section" data-tag="Off-Trail Ridge Walk" markdown="1">
 
 ## Off-Trail Ridge Walk
@@ -996,6 +1032,15 @@ Found **1** guide tagged with **Near Difficult**:
 Found **1** guide tagged with **Off-Trail Ridge Walk**:
 
 - [Cutoff Peak 6844 and Smith Peak's North Ridge](hike/idaho/american-selkirks/cutoff-peak-6844-and-smith-peaks-north-ridge.md)
+
+</div>
+<div class="static-tag-section" data-tag="Old Growth & Cedars" markdown="1">
+
+## Old Growth & Cedars
+
+Found **1** guide tagged with **Old Growth & Cedars**:
+
+- [Morris Creek Old Growth Cedar Grove](hike/idaho/north-idaho-hikes/morris-creek-old-growth-cedar-grove.md)
 
 </div>
 <div class="static-tag-section" data-tag="Orving" markdown="1">
@@ -1073,7 +1118,7 @@ Found **1** guide tagged with **Paddling & Water Sports**:
 
 ## Peaks & Mountains
 
-Found **65** guides tagged with **Peaks & Mountains**:
+Found **66** guides tagged with **Peaks & Mountains**:
 
 - [A Peak 8634](hike/montana/cabinet-mountains-wilderness/a-peak-8634.md)
 - [Abercrombie Mountain](hike/washington/eastern-washington/abercrombie-mountain.md)
@@ -1085,6 +1130,7 @@ Found **65** guides tagged with **Peaks & Mountains**:
 - [Bridger Bowl](ski/usa/montana/bridger-bowl.md)
 - [Brundage Mountain Resort](ski/usa/idaho/brundage-mountain-resort.md)
 - [Burton Peak 6844 Trail 9](hike/idaho/american-selkirks/burton-peak-6844-trail-9.md)
+- [Caribou Ridge National Recreation Trail #79](hike/idaho/north-idaho-hikes/mount-cda-trail-79-caribou-ridge.md)
 - [Chicago Peak](hike/montana/cabinet-mountains-wilderness/chicago-peak.md)
 - [Clifty Mountain to Katka Peak](hike/idaho/north-idaho-hikes/clifty-mountain-to-katka-peak.md)
 - [Cutoff Peak 6844 and Smith Peak's North Ridge](hike/idaho/american-selkirks/cutoff-peak-6844-and-smith-peaks-north-ridge.md)
@@ -1103,10 +1149,9 @@ Found **65** guides tagged with **Peaks & Mountains**:
 - [Mineral Ridge](hike/idaho/north-idaho-hikes/mineral-ridge.md)
 - [Mission Ridge Ski & Board Resort](ski/usa/washington/mission-ridge-ski--board-resort.md)
 - [Moose Mountain Loop Hike](hike/idaho/north-idaho-hikes/moose-mountain-loop-hike.md)
-- [Mount Cda Trail 79 Caribou Ridge](hike/idaho/north-idaho-hikes/mount-cda-trail-79-caribou-ridge.md)
 - [Myrtle Peak Trail](hike/idaho/north-idaho-hikes/myrtle-peak-trail.md)
 - [North And South Chilco Peak](hike/idaho/north-idaho-hikes/north-and-south-chilco-peak.md)
-- [Packsaddle Mountain](hike/idaho/north-idaho-hikes/packsaddle-mountain.md)
+- [Packsaddle Mountain (Trail #76)](hike/idaho/north-idaho-hikes/packsaddle-mountain.md)
 - [Panorama Mountain Resort](ski/canada/british-columbia/panorama-mountain-resort.md)
 - [Parker Peak 7670](hike/idaho/american-selkirks/parker-peak-7670.md)
 - [Pillick Ridge 6167](hike/idaho/proposed-scotchman-peaks-wilderness/pillick-ridge-6167.md)
@@ -1119,6 +1164,7 @@ Found **65** guides tagged with **Peaks & Mountains**:
 - [Russell Peak 6618 Trail 12  Russell Ridge 92](hike/idaho/american-selkirks/russell-peak-6618-trail-12--russell-ridge-92.md)
 - [Sawtooth Mountain](hike/idaho/proposed-scotchman-peaks-wilderness/sawtooth-mountain.md)
 - [Scenery Mountain](hike/montana/cabinet-mountains-wilderness/scenery-mountain.md)
+- [Scenic Lodge on Rathdrum Mountain (3,658')](hike/idaho/north-idaho-hikes/scenic-lodge-rathdrum-mountain.md)
 - [Schweitzer Mountain Resort](ski/usa/idaho/schweitzer-mountain-resort.md)
 - [Scotchmans Peak](hike/idaho/proposed-scotchman-peaks-wilderness/scotchmans-peak.md)
 - [Selkirk Crest High Traverse](hike/idaho/american-selkirks/selkirk-crest-high-traverse.md)
@@ -1168,6 +1214,15 @@ Found **2** guides tagged with **Picnicking**:
 
 - [Lakeview Ranch](hike/washington/scablands/lakeview-ranch.md)
 - [Shoshone Medical Center Wellness Trail](hike/idaho/silver-valley-area/shoshone-medical-center-wellness-trail.md)
+
+</div>
+<div class="static-tag-section" data-tag="Priest Lake" markdown="1">
+
+## Priest Lake
+
+Found **1** guide tagged with **Priest Lake**:
+
+- [Navigation Trail #291 to Upper Priest Lake](hike/idaho/north-idaho-hikes/navigation-trail-291.md)
 
 </div>
 <div class="static-tag-section" data-tag="Recipes" markdown="1">
@@ -1220,9 +1275,10 @@ Found **1** guide tagged with **Resort**:
 
 ## Resources
 
-Found **5** guides tagged with **Resources**:
+Found **6** guides tagged with **Resources**:
 
 - [Idaho Trails Association](resources/conservation-and-like-minded-organizations/idaho-trails-association.md)
+- [Managing Agencies & Emergency Directory](resources/general/managing-agencies.md)
 - [Spokane Canoe and Kayak Club](resources/conservation-and-like-minded-organizations/spokane-canoe-and-kayak-club.md)
 - [Spokane Mountaineers](resources/conservation-and-like-minded-organizations/spokane-mountaineers.md)
 - [Spokane Nordic Ski Association](resources/conservation-and-like-minded-organizations/spokane-nordic-ski-association.md)
@@ -1263,6 +1319,15 @@ Found **1** guide tagged with **Roped Snow**:
 Found **1** guide tagged with **Running**:
 
 - [Shoshone Medical Center Wellness Trail](hike/idaho/silver-valley-area/shoshone-medical-center-wellness-trail.md)
+
+</div>
+<div class="static-tag-section" data-tag="Safety & Emergency" markdown="1">
+
+## Safety & Emergency
+
+Found **1** guide tagged with **Safety & Emergency**:
+
+- [Managing Agencies & Emergency Directory](resources/general/managing-agencies.md)
 
 </div>
 <div class="static-tag-section" data-tag="Scenery" markdown="1">
@@ -1567,11 +1632,11 @@ Found **74** guides tagged with **Trails & Scrambles**:
 - [Mollies  Phoebes Tip](hike/idaho/american-selkirks/mollies--phoebes-tip.md)
 - [Moran Basin](hike/montana/cabinet-mountains-wilderness/moran-basin.md)
 - [Morris Creek Old Growth Cedar Grove](hike/idaho/north-idaho-hikes/morris-creek-old-growth-cedar-grove.md)
-- [Mount CDA Trail 257](hike/idaho/north-idaho-hikes/mount-cda-trail-257.md)
+- [Mount Coeur d'Alene Trail #257](hike/idaho/north-idaho-hikes/mount-cda-trail-257.md)
 - [Mount Hood Meadows](ski/usa/oregon/mount-hood-meadows.md)
 - [Mount Norquay](ski/canada/alberta/mount-norquay.md)
 - [Mount Roothaan (7326') and Chimney Rock (7124') Trail 256](hike/idaho/american-selkirks/mount-roothaan-7326-and-chimney-rock-7124-trail-256.md)
-- [Navigation Trail 291](hike/idaho/north-idaho-hikes/navigation-trail-291.md)
+- [Navigation Trail #291 to Upper Priest Lake](hike/idaho/north-idaho-hikes/navigation-trail-291.md)
 - [Nuttall's Larkspur (Delphinium nuttallianum)](wildflowers/blue/nuttalls-larkspur.md)
 - [Polemonium](wildflowers/white/polemonium.md)
 - [Qemlin Park](hike/idaho/north-idaho-hikes/qemlin-park.md)
@@ -2451,7 +2516,7 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
-    "title": "Mount Cda Trail 79 Caribou Ridge",
+    "title": "Caribou Ridge National Recreation Trail #79",
     "url": "/hike/idaho/north-idaho-hikes/mount-cda-trail-79-caribou-ridge/",
     "tags": [
       "Peaks & Mountains",
@@ -2484,7 +2549,7 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
-    "title": "Packsaddle Mountain",
+    "title": "Packsaddle Mountain (Trail #76)",
     "url": "/hike/idaho/north-idaho-hikes/packsaddle-mountain/",
     "tags": [
       "Peaks & Mountains",
@@ -2493,6 +2558,15 @@ Found **1** guide tagged with **waterfalls**:
       "Moderate",
       "Mountain Biking",
       "Equestrian"
+    ]
+  },
+  {
+    "title": "Scenic Lodge on Rathdrum Mountain (3,658')",
+    "url": "/hike/idaho/north-idaho-hikes/scenic-lodge-rathdrum-mountain/",
+    "tags": [
+      "Peaks & Mountains",
+      "Day Hiking",
+      "History & Speakeasy"
     ]
   },
   {
@@ -3803,17 +3877,20 @@ Found **1** guide tagged with **waterfalls**:
     "url": "/hike/idaho/north-idaho-hikes/morris-creek-old-growth-cedar-grove/",
     "tags": [
       "Easy",
-      "Trails & Scrambles"
+      "Day Hiking",
+      "Trails & Scrambles",
+      "Old Growth & Cedars"
     ]
   },
   {
-    "title": "Navigation Trail 291",
+    "title": "Navigation Trail #291 to Upper Priest Lake",
     "url": "/hike/idaho/north-idaho-hikes/navigation-trail-291/",
     "tags": [
       "Easy",
       "Day Hiking",
       "Backpacking",
-      "Trails & Scrambles"
+      "Trails & Scrambles",
+      "Priest Lake"
     ]
   },
   {
@@ -3963,7 +4040,7 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
-    "title": "Mount CDA Trail 257",
+    "title": "Mount Coeur d'Alene Trail #257",
     "url": "/hike/idaho/north-idaho-hikes/mount-cda-trail-257/",
     "tags": [
       "Day Hiking",
@@ -4413,6 +4490,14 @@ Found **1** guide tagged with **waterfalls**:
     ]
   },
   {
+    "title": "North Idaho Hikes",
+    "url": "/hike/idaho/north-idaho-hikes/",
+    "tags": [
+      "Hiking",
+      "North Idaho"
+    ]
+  },
+  {
     "title": "Paddling Safety & Kayaking Guide",
     "url": "/paddle/",
     "tags": [
@@ -4581,6 +4666,15 @@ Found **1** guide tagged with **waterfalls**:
       "Resources",
       "Conservation & Organizations",
       "Trail Maintenance"
+    ]
+  },
+  {
+    "title": "Managing Agencies & Emergency Directory",
+    "url": "/resources/general/managing-agencies/",
+    "tags": [
+      "Resources",
+      "Managing Agencies",
+      "Safety & Emergency"
     ]
   },
   {
