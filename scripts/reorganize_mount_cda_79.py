@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 tags:
   - Peaks & Mountains
   - Difficult
@@ -136,3 +138,10 @@ _One-sided Mitrewort (Orthilia secunda) blooming along Trail #79 in May._
 
 ![Alpine stars wildflowers blooming along Caribou Ridge Trail #79](../../../assets/images/1202022758p.jpg)
 _Alpine stars wildflowers blooming along Caribou Ridge Trail #79._
+"""
+
+target_path = "docs/hike/idaho/north-idaho-hikes/mount-cda-trail-79-caribou-ridge.md"
+with open(target_path, "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Reorganized mount-cda-trail-79-caribou-ridge.md successfully")
