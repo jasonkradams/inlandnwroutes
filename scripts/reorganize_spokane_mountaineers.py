@@ -51,8 +51,9 @@ passionate volunteer instructors who have progressed through the club's own curr
 
 ## Over 100 Years of Heritage
 
-Founded in **1915** by a group of Spokane Public Library staff members (originally established as the *Spokane
-Walking Club*), the organization celebrated its **Centennial Anniversary in 2015**.
+Founded in **1915** by a group of Spokane Public Library staff members
+(originally established as the *Spokane Walking Club*),
+the organization celebrated its **Centennial Anniversary in 2015**.
 
 - **Historical Legacy:** Over 100 years of leading climbs, trail explorations, and conservation initiatives across the
   Selkirks, Cabinets, Cascades, and Canadian Rockies.
@@ -140,4 +141,4 @@ To learn more, view course schedules, or become a member, visit the [Spokane Mou
 with open("docs/resources/conservation-and-like-minded-organizations/spokane-mountaineers.md", "w", encoding="utf-8") as fp:
     fp.write(md_content)
 
-print("Updated docs/resources/conservation-and-like-minded-organizations/spokane-mountaineers.md with high-fidelity logo image")
+print("Updated docs/resources/conservation-and-like-minded-organizations/spokane-mountaineers.md for MD013 and clean formatting")

@@ -49,8 +49,9 @@ passionate volunteer instructors who have progressed through the club's own curr
 
 ## Over 100 Years of Heritage
 
-Founded in **1915** by a group of Spokane Public Library staff members (originally established as the *Spokane
-Walking Club*), the organization celebrated its **Centennial Anniversary in 2015**.
+Founded in **1915** by a group of Spokane Public Library staff members
+(originally established as the *Spokane Walking Club*),
+the organization celebrated its **Centennial Anniversary in 2015**.
 
 - **Historical Legacy:** Over 100 years of leading climbs, trail explorations, and conservation initiatives across the
   Selkirks, Cabinets, Cascades, and Canadian Rockies.
