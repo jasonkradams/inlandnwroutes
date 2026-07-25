@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 tags:
   - Peaks & Mountains
   - Moderate
@@ -119,3 +121,10 @@ Check local mountain weather forecasts before departing:
 ## Photo Gallery
 
 _Photo contributions for Graham Mountain are welcome. To submit photography, contact the editorial team._
+"""
+
+target_path = "docs/hike/idaho/north-idaho-hikes/graham-mountain.md"
+with open(target_path, "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Reorganized graham-mountain.md successfully")
