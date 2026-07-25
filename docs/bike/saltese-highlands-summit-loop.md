@@ -31,7 +31,7 @@ than one lap may be called for.
 
 ---
 
-![Picture](assets/images/202204171030-turtle-gulch.jpg)
+![Picture](../assets/images/202204171030-turtle-gulch.jpg)
 
 ## Turtle gulch and uplands loop junction
 
@@ -43,6 +43,6 @@ than one lap may be called for.
 
 ---
 
-![Picture](assets/images/202204171035-uplands-summit-junction.jpg)
+![Picture](../assets/images/202204171035-uplands-summit-junction.jpg)
 
 ## Uplands loop and summit loop junction
