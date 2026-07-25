@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: Adages, Proverbs & Words of Wisdom
 tags:
   - Writings
@@ -336,3 +338,9 @@ A collection of classic adages, outdoor proverbs, mountain wisdom, and humorous 
 
     "I may be crazy... but crazy is better than stupid."
     — **Unknown**
+"""
+
+with open("docs/writings/adages.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized adages.md as series of quote admonitions successfully")
