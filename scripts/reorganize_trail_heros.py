@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 tags:
   - Trail Heroes
   - Stewardship & Conservation
@@ -82,3 +84,10 @@ Few individuals have contributed more to trail construction, maintenance, and ad
 _Lynn Smith — Lone Lake & Regional Trail Steward._
 
 Super trail hero Lynn Smith, pictured at Lone Lake following a trail maintenance work day. Lynn's tireless work clearing blowdowns, rebuilding tread, and maintaining remote backcountry routes across North Idaho and Eastern Washington has earned him icon status among the Spokane Mountaineers, WTA, and all who hike regional trails.
+"""
+
+target_path = "docs/gallery/categories/trail-heros.md"
+with open(target_path, "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Reorganized trail-heros.md successfully")
