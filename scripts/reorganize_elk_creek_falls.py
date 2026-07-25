@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 tags:
   - Waterfalls
   - Day Hiking
@@ -127,3 +129,10 @@ Check local weather forecasts before departing:
 
 ![Lower Elk Creek Falls plunging 50 feet through a basalt canyon wall](../../../assets/images/10242023432p.jpg)
 _Lower Elk Creek Falls plunging 50 feet through a basalt canyon wall._
+"""
+
+target_path = "docs/hike/idaho/north-idaho-hikes/elk-creek-falls-national-recreation-area.md"
+with open(target_path, "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Reorganized elk-creek-falls-national-recreation-area.md successfully")
