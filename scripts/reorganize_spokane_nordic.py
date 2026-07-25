@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 tags:
   - Winter & Skiing
   - Resources
@@ -106,3 +108,9 @@ _Junior Nordic ski lesson program in action._
 
 ![Panoramic view of Mt. Spokane winter trail network](../../assets/images/202210021217.jpg)
 _Panoramic view of Mt. Spokane winter trail network._
+"""
+
+with open("docs/resources/conservation-and-like-minded-organizations/spokane-nordic-ski-association.md", "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Reorganized spokane-nordic-ski-association.md successfully")
