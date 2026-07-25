@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: Quotes & Reflections
 tags:
   - Writings
@@ -352,3 +354,9 @@ A curated collection of quotes on nature, mountaineering, life, wisdom, and humo
 
     "I've reached an age where my train of thought often leaves the station without me."
     — **Unknown**
+"""
+
+with open("docs/writings/quotes.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized quotes.md as series of quote admonitions successfully")
