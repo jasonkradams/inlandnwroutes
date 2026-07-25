@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: Outdoor Poems & Verses
 tags:
   - Writings
@@ -122,3 +124,9 @@ A collection of outdoor poems, ski verses, and creative trail-name wordplay comp
     So load up that old **Saddleback** car of yours and set your **T2D2** navigation system east to **Silver Mountain**!
 
     — **Chic Burge** *(January 26, 2017)*
+"""
+
+with open("docs/writings/poems.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized poems.md as series of quote admonitions successfully")
