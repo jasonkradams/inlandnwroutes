@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: Notes, Quotes & Weather Trivia
 tags:
   - Writings
@@ -203,3 +205,9 @@ A collection of reflections on nature, favorite quotations, witty observations, 
 - **Planetary Rotation:** Venus is the only planet in the solar system that spins clockwise.
 - **Lead-Acid Battery Invention:** The lead-acid car battery was patented in 1859 by 17-year-old Martha C. Weston; Alessandro Volta reported his electric battery discovery to the Royal Society in March 1800.
 - **Astronomical Discoveries:** William Herschel discovered Uranus in 1781 (mistaking it for a comet); Clyde Tombaugh discovered Pluto at Lowell Observatory in 1930.
+"""
+
+with open("docs/writings/notes.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized notes.md as series of quote admonitions and structured trivia successfully")
