@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: "Patagonia Expedition (Chile & Argentina)"
 tags:
   - Trails & Scrambles
@@ -156,3 +158,9 @@ Click any photo to view in high resolution with full captions.
   _Walking through El Calafate to study local residential architecture and wind-resilience._
 
 </div>
+"""
+
+with open("docs/hike/south-america/patagonia.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized patagonia.md with markdown=1 successfully")
