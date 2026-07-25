@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: Weather, Thunderstorms & Lightning Safety
 tags:
   - Resources
@@ -165,3 +167,9 @@ _Crepuscular Rays and Sun Pillars Diagram._
 - **Crepuscular Rays:** Alternating shafts of sunlight and shadow radiating through cloud gaps on the horizon.
 - **Sun Dogs (Parhelia):** Bright mock suns appearing 22° to the left and right of the Sun when ice crystals in high cirrus clouds refract light.
 - **Sun Pillars:** Vertical columns of light extending above or below the Sun near sunrise or sunset, caused by light reflecting off hexagonal ice plates floating horizontally in cold air.
+"""
+
+with open("docs/resources/general/weather-thunderstorms-and-lightning.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized weather-thunderstorms-and-lightning.md successfully")
