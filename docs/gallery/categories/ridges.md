@@ -8,8 +8,6 @@ tags:
 
 Click any image to enlarge and view high-resolution photo and caption.
 
----
-
 ## Photo Gallery
 
 - ![Ridge Between Shorty Peak 6515’ and Lone Tree Peak 6732’. A.S.](../../assets/images/12192021231p.jpg)
@@ -67,5 +65,5 @@ Click any image to enlarge and view high-resolution photo and caption.
 - ![Unnamed Ridge Above Ball Lakes, A.S.](../../assets/images/12262021247p.jpg)
 - ![Willow Ridge and High Winds from the Upper Sanctuary at Lone Lake](../../assets/images/12262021246p.jpg)
 - ![The Seven Sisters of the American Selkirks, the Wigwams, A.S.](../../assets/images/img-7947.jpg)
-- ![Lone Lake (L), Willow Ridge (m), Lower & Upper Stevens Lakes (r)](../../assets/images/3312022852p-copy.jpg "LONE LAKE (L)
+- ![Lone Lake (L), Willow Ridge (m), Lower & Upper Stevens Lakes (r)](../../assets/images/3312022852p-copy.jpg)
 - ![Onion Skin Granite with the West Fork Lake Lookout Tower, and the Lion Head Group Mountains,](../../assets/images/8152025417p.jpg)
