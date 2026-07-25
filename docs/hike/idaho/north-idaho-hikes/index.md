@@ -1,6 +1,7 @@
 ---
-title: "North Idaho Hikes"
 tags:
+  - Hiking
+  - North Idaho
 ---
 
 # North Idaho Hikes
@@ -128,7 +129,6 @@ couple campgrounds. Wonderful isn't it!**
 
 ## Links to Route Descriptions
 
-[Lake estelle & moose lake trail system](lake-estelle.md)
-[Moose mountain loop hike](moose-mountain-loop-hike.md)
-
-Click to set custom HTML
+- [Lake Estelle & Moose Lake Trail System](lake-estelle.md)
+- [Moose Mountain Loop Hike](moose-mountain-loop-hike.md)
+- [Scenic Lodge on Rathdrum Mountain](scenic-lodge-rathdrum-mountain.md)

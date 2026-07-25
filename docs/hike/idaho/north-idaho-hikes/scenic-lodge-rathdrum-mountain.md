@@ -29,7 +29,7 @@ notes:
 
 # Scenic Lodge on Rathdrum Mountain (3,658')
 
-![Concrete entrance steps leading into the historical Scenic Lodge speakeasy foundation](assets/images/202311180703.jpg)
+![Concrete entrance steps leading into the historical Scenic Lodge speakeasy foundation](../../../assets/images/202311180703.jpg)
 _Concrete entrance steps leading into the historical Scenic Lodge speakeasy foundation._
 
 Perched high on the south ridge of Rathdrum Mountain (3,658') in North Idaho, the ruins of the **Scenic Lodge** offer
@@ -100,25 +100,25 @@ Check mountain weather forecasts before embarking, as the exposed fire road can 
 
 ## Photo Gallery
 
-![Parking pull-out at the end of Hidden Valley Road near the gated fire road access](assets/images/202311180631.jpg)
+![Parking pull-out at the end of Hidden Valley Road near the gated fire road access](../../../assets/images/202311180631.jpg)
 _Parking pull-out at the end of Hidden Valley Road near the gated fire road access._
 
 ---
 
-![Inland Empire Paper Company property boundary and permit notice sign](assets/images/202311180648.jpg)
+![Inland Empire Paper Company property boundary and permit notice sign](../../../assets/images/202311180648.jpg)
 _Inland Empire Paper Company property boundary and permit notice sign._
 
 ---
 
-![Hiking the steep Inland Empire Paper fire road toward Rathdrum Mountain](assets/images/202311180657.jpg)
+![Hiking the steep Inland Empire Paper fire road toward Rathdrum Mountain](../../../assets/images/202311180657.jpg)
 _Hiking the steep Inland Empire Paper fire road toward Rathdrum Mountain._
 
 ---
 
-![Large cottonwood trees standing in front of the Scenic Lodge speakeasy site](assets/images/202311180659.jpg)
+![Large cottonwood trees standing in front of the Scenic Lodge speakeasy site](../../../assets/images/202311180659.jpg)
 _Large cottonwood trees standing in front of the Scenic Lodge speakeasy site._
 
 ---
 
-![Concrete entrance steps leading into the historical Scenic Lodge speakeasy foundation](assets/images/202311180703.jpg)
+![Concrete entrance steps leading into the historical Scenic Lodge speakeasy foundation](../../../assets/images/202311180703.jpg)
 _Concrete entrance steps leading into the historical Scenic Lodge speakeasy foundation._
