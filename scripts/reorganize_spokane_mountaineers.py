@@ -29,6 +29,9 @@ notes:
 
 # Spokane Mountaineers
 
+![Spokane Mountaineers Logo](../../assets/images/spokane-mountaineers-logo-orig.png)
+_Spokane Mountaineers Logo._
+
 The Spokane Mountaineers is an all-volunteer 501(c)(3) non-profit outdoor organization dedicated to mountain
 climbing, backpacking, backcountry skiing, mountain biking, conservation, and outdoor safety in the Inland
 Northwest.
@@ -137,4 +140,4 @@ To learn more, view course schedules, or become a member, visit the [Spokane Mou
 with open("docs/resources/conservation-and-like-minded-organizations/spokane-mountaineers.md", "w", encoding="utf-8") as fp:
     fp.write(md_content)
 
-print("Updated docs/resources/conservation-and-like-minded-organizations/spokane-mountaineers.md for MD013 compliance")
+print("Updated docs/resources/conservation-and-like-minded-organizations/spokane-mountaineers.md with high-fidelity logo image")
