@@ -768,7 +768,13 @@ nav:
     - Trails End Brewery: resources/general/trails-end-brewery.md
     - Medical Information: resources/general/medical-information.md
     - Weather, Thunderstorms and Lightning: resources/general/weather-thunderstorms-and-lightning.md
-    - Trail Etiquette and Skills: resources/general/trail-etiquette-and-skills.md
+    - Trail Etiquette and Skills:
+      - Overview: resources/trail-etiquette-and-skills/index.md
+      - Route Finding & Navigation: resources/trail-etiquette-and-skills/route-finding.md
+      - Wildlife & Trail Hazards: resources/trail-etiquette-and-skills/wildlife-hazards.md
+      - Trail Etiquette & Leave No Trace: resources/trail-etiquette-and-skills/trail-etiquette.md
+      - Camp Etiquette & Logistics: resources/trail-etiquette-and-skills/camp-etiquette-and-logistics.md
+      - Hiking Techniques & Hydration: resources/trail-etiquette-and-skills/hiking-techniques.md
     - 'Gear :: David': resources/general/gear-david.md
     - 'Gear :: Chic': resources/general/gear-chic.md
     - Photography: resources/general/photography.md
