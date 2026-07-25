@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 tags:
   - Wildflowers
   - Trails & Scrambles
@@ -86,3 +88,9 @@ ridges at 10,000 feet.
       allotments. Young spring growth and seed pods contain the highest concentrations of toxins.
     - **Treatment:** There is no proven chemical antidote for severe larkspur poisoning. Avoid ingesting any part of the
       plant and keep domestic animals from grazing near dense larkspur patches.
+"""
+
+with open("docs/wildflowers/blue/nuttalls-larkspur.md", "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Reorganized docs/wildflowers/blue/nuttalls-larkspur.md successfully")
