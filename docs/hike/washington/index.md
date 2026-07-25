@@ -43,16 +43,16 @@ canoes, and paddleboards.
 
 <table> <thead> <tr> <th>Destination / Waterway</th> <th>Water Type & Location</th> <th>Route Guide
 Link</th> </tr> </thead> <tbody> <tr> <td><strong>Banks Lake</strong></td> <td>Grand Coulee Reservoir &
-Scablands</td> <td><a href="../../banks-lake-kayak-and-hike.md">Banks Lake Kayak & Hike</a></td> </tr> <tr>
+Scablands</td> <td><a href="../../paddle/washington/scablands/banks-lake-kayak-and-hike.md">Banks Lake Kayak & Hike</a></td> </tr> <tr>
 <td><strong>Hawk Creek Falls</strong></td> <td>Lake Roosevelt & Waterfall Access</td> <td><a
 href="../../hawk-creek-falls-sp.md">Hawk Creek Falls Guide</a></td> </tr> <tr> <td><strong>Pewee
 Falls</strong></td> <td>Pend Oreille River & Boundary Reservoir</td> <td><a
-href="../../pewee-falls-pend-orielle-river.md">Pewee Falls Paddle Guide</a></td> </tr> <tr> <td><strong>Palouse
+href="../../paddle/washington/eastern-washington/pewee-falls-pend-orielle-river.md">Pewee Falls Paddle Guide</a></td> </tr> <tr> <td><strong>Palouse
 River & Lyons Ferry</strong></td> <td>Snake & Palouse River Confluence</td> <td><a
-href="../../paddle/palouse-river-launch.md">Palouse River Launch Guide</a></td> </tr> <tr> <td><strong>Eloika
-Lake</strong></td> <td>North Spokane County Quiet Water</td> <td><a href="../../paddle/eloika-lake-launch.md">Eloika Lake
+href="../../paddle/washington/scablands/palouse-river-launch.md">Palouse River Launch Guide</a></td> </tr> <tr> <td><strong>Eloika
+Lake</strong></td> <td>North Spokane County Quiet Water</td> <td><a href="../../paddle/washington/eastern-washington/eloika-lake-launch.md">Eloika Lake
 Launch Guide</a></td> </tr> <tr> <td><strong>Amber Lake</strong></td> <td>Southwest Spokane County Scabland
-Lake</td> <td><a href="../../paddle/amber-lake-launch.md">Amber Lake Launch Guide</a></td> </tr> </tbody> </table>
+Lake</td> <td><a href="../../paddle/washington/scablands/amber-lake-launch.md">Amber Lake Launch Guide</a></td> </tr> </tbody> </table>
 
 ---
 

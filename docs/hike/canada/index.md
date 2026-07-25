@@ -54,7 +54,7 @@ From the granite spires of the Purcells to emerald alpine lakes in Yoho and the 
 | Destination / Park | Range / Area | Highlights & Features | Route Guide Link |
 | :--- | :--- | :--- | :--- |
 | **The Bugaboos** | Purcells, BC | Alpine spires, glaciers & Kain Hut | [Bugaboos Guide](the-bugaboos.md) |
-| **Whiteswan Park** | Kootenays, BC | Hot springs & alpine camping | [Whiteswan Guide](../../whiteswan-provintial-park.md) |
+| **Whiteswan Park** | Kootenays, BC | Hot springs & alpine camping | [Whiteswan Guide](../../paddle/canada/whiteswan-provintial-park.md) |
 | **Lake O'Hara** | Yoho NP, BC | Alpine larch forests & high passes | [Lake O'Hara Guide](lake-ohara.md) |
 
 ---

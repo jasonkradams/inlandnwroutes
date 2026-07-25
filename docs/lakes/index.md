@@ -92,15 +92,15 @@ scenic water accesses.
 
 | Lake / Launch Location | Waterway Feature | Route & Launch Guide |
 | :--- | :--- | :--- |
-| **Liberty Lake Regional Park** | Lake Trail Loop & Paddling | [Liberty Lake Guide](../liberty-lake-regional-park.md) |
-| **Amber Lake Launch** | Fishing & Flatwater Paddling | [Amber Lake Guide](../paddle/amber-lake-launch.md) |
-| **Badger Lake Launch** | Public Launch Access | [Badger Lake Guide](../paddle/badger-lake-launch.md) |
+| **Liberty Lake Regional Park** | Lake Trail Loop & Paddling | [Liberty Lake Guide](../paddle/washington/eastern-washington/liberty-lake-regional-park.md) |
+| **Amber Lake Launch** | Fishing & Flatwater Paddling | [Amber Lake Guide](../paddle/washington/scablands/amber-lake-launch.md) |
+| **Badger Lake Launch** | Public Launch Access | [Badger Lake Guide](../paddle/washington/scablands/badger-lake-launch.md) |
 | **Banks Lake & Sun Lakes** | Scablands Kayaking | [Banks Lake Guide](../hike/washington/scablands/banks-lake.md) |
-| **Clear Lake Launch** | Boat Ramp & Beach | [Clear Lake Guide](../paddle/clear-lake-launch.md) |
-| **Eloika Lake Launch** | Shallow Water Paddling | [Eloika Lake Guide](../paddle/eloika-lake-launch.md) |
+| **Clear Lake Launch** | Boat Ramp & Beach | [Clear Lake Guide](../paddle/washington/scablands/clear-lake-launch.md) |
+| **Eloika Lake Launch** | Shallow Water Paddling | [Eloika Lake Guide](../paddle/washington/eastern-washington/eloika-lake-launch.md) |
 | **Fishtrap Lake** | Scablands Rock Formations | [Fishtrap Lake Guide](../hike/washington/scablands/fishtrap-lake.md) |
-| **Spirit Lake Launch** | Lake Access Ramp | [Spirit Lake Guide](../paddle/spirit-lake-boat-launch.md) |
-| **Twin Lakes Narrows** | Channel | [Twin Lakes Guide](../twin-lakes-narrows.md) |
+| **Spirit Lake Launch** | Lake Access Ramp | [Spirit Lake Guide](../paddle/idaho/spirit-lake/spirit-lake-boat-launch.md) |
+| **Twin Lakes Narrows** | Channel | [Twin Lakes Guide](../paddle/idaho/twin-lakes/twin-lakes-narrows.md) |
 
 ## Photo Gallery
 

@@ -141,7 +141,7 @@ we update the routes.
 
 ## 25-may-2020
 
-[Added Fishtrap Lake Paddle](fishtrap-lake-wa.md)
+[Added Fishtrap Lake Paddle](paddle/washington/scablands/fishtrap-lake-wa.md)
 
 ![Picture](assets/images/20200525140601.jpg)
 
