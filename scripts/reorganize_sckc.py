@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 tags:
   - Resources
   - Conservation & Organizations
@@ -63,3 +65,9 @@ SCKC sponsors a wide variety of activities designed to enhance paddling skills a
 
 To view upcoming trips, join the club, or access local river logs, visit the
 [Spokane Canoe & Kayak Club Website](https://www.sckc.club).
+"""
+
+with open("docs/resources/conservation-and-like-minded-organizations/spokane-canoe-and-kayak-club.md", "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Reorganized spokane-canoe-and-kayak-club.md successfully")
