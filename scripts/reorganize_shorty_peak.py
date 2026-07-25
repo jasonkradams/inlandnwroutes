@@ -1,4 +1,6 @@
----
+import os
+
+md_content = """---
 tags:
   - Peaks & Mountains
   - Moderate
@@ -167,3 +169,10 @@ _Creston Valley in British Columbia, Canada looking northeast from the ridge._
 
 ![The American Selkirk's Seven Sisters peaks viewed from the ridge](../../../assets/images/822025110p.jpg)
 _The American Selkirk's Seven Sisters peaks viewed from the ridge._
+"""
+
+target_path = "docs/hike/idaho/north-idaho-hikes/short-peak-6515-and-lone-tree-peak-6732.md"
+with open(target_path, "w", encoding="utf-8") as fp:
+    fp.write(md_content)
+
+print("Reorganized short-peak-6515-and-lone-tree-peak-6732.md successfully")
