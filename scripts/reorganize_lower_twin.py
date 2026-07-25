@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: "Lower Twin Lakes Launch"
 tags:
   - Lakes
@@ -63,3 +65,9 @@ Lower Twin Lake (390 acres) forms the southern basin of the Twin Lakes system in
 - **Connected Waterways:** Explore [Twin Lakes Narrows](twin-lakes-narrows.md) and [Upper Twin Lakes Launch](upper-twin-lakes-launch.md).
 - **Regional Lakes:** Spirit Lake, Hauser Lake, and Mt. Spokane State Park.
 - **Rest & Provisions:** Full groceries, gas, and local dining are available 10 minutes south in Rathdrum, ID, or north in Spirit Lake, ID.
+"""
+
+with open("docs/paddle/idaho/twin-lakes/lower-twin-lakes-launch.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized lower-twin-lakes-launch.md successfully")
