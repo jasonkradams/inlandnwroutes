@@ -1,4 +1,6 @@
----
+import os
+
+content = """---
 title: "Atmospheric Phenomena"
 tags:
   - Gallery
@@ -31,3 +33,9 @@ Glories appear when sunlight hits tiny, uniform water droplets that compose clou
 When a glory surrounds an observer's shadow projected against underlying clouds, the resulting illusion is called a **Brocken Spectre** (named after the Brocken peak in the Harz Mountains of Germany).
 
 Because the shadow is cast onto cloud droplets at varying distances, depth perception is distorted. The light exaggerates the shadow's scale, making the observer appear gigantic and long-limbed. As wind shifts the cloud droplets, the shadow appears to move independently, creating an eerie effect that fueled mountain folklore and alpine superstitions for centuries.
+"""
+
+with open("docs/gallery/categories/phenomenon.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Reorganized phenomenon.md successfully")
