@@ -1,17 +1,23 @@
 ---
 tags:
-- Paddling & Rivers stats:
-- label: Launch GPS icon: crosshairs-gps
-## value: ??° ??’ ??.?"n ???° ??’ ??.?"w
-## Maiden Rock Launch
-## Description
-## Attractions
-## Directions
-## Cool things close by
-## Restaurants & Pubs
+  - Paddling & Rivers
+stats:
+  - label: Launch GPS
+    icon: crosshairs-gps
+    value: "??° ??’ ??.?\"n ???° ??’ ??.?\"w"
 ---
 
 # Maiden Rock Launch
+
+## Description
+
+## Attractions
+
+## Directions
+
+## Cool things close by
+
+## Restaurants & Pubs
 
 ## Plan your trip
 

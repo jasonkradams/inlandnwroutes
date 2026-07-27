@@ -10,8 +10,7 @@ stats:
   value: Hiking & backpacking
 - label: Distance
   icon: map-marker-distance
-  value: '2.6 miles to Russell Peak, 2.8 miles to the junction with trail 92, trail
-    #92 is less then 5 miles long.'
+  value: '2.6 miles to Russell Peak, 2.8 miles to the junction with trail 92, trail #92 is less then 5 miles long.'
 - label: Elevation
   icon: terrain
   value: 1666' gain to Peak. Peak to end of trail 92 533' loss
@@ -23,8 +22,7 @@ stats:
   value: pyramid Peak & Farnham Peak
 - label: GPS
   icon: crosshairs-gps
-  value: 'Trail #12 N48° 49’ 1°3′.8″ W116° 32’ 40" & N48° 47’ 4°7′.0″ W116° 31’ 3°2′.6″,
-    Trail #92 N48° 48’ 3°4′.4″ w116° 32’ 27"'
+  value: 'Trail #12 N48° 49’ 1°3′.8″ W116° 32’ 40" & N48° 47’ 4°7′.0″ W116° 31’ 3°2′.6″, Trail #92 N48° 48’ 3°4′.4″ w116° 32’ 27"'
 - label: Ranger District
   icon: pine-tree
   value: Bonners Ferry R.D. 208.267.5561
@@ -32,9 +30,8 @@ stats:
   icon: shield-account
   value: 911 or 208.267.3151
 notes:
-- label: Idaho panhandle national forest/alerts
-  url: '#'
-- url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
+- label: Idaho Panhandle National Forest Alerts
+  url: https://www.fs.usda.gov/alerts/ipnf/alerts-notices
 ---
 
 # Russell Peak 6618 Trail 12  Russell Ridge 92
@@ -68,18 +65,4 @@ Jalapeños, Mr. Sub, Burger Express, Eichardt’s in Sandpoint
 
 ## Photo gallery
 
----
-
-## Images coming soon
-
----
-
----
-
----
-
----
-
----
-
----
+Images coming soon

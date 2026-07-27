@@ -1,33 +1,51 @@
 ---
 tags:
-- Paddling & Rivers stats:
-- label: Paddle Distance icon: map-marker-distance value: varies
-- label: Elevation icon: terrain value: 2066’
-- label: Length and Acreage icon: vector-square value: varies
-- label: Launch GPS icon: crosshairs-gps value: 48°09’40" n 116°45’15" w
-- label: Bonner County Sheriff icon: shield-account
-## value: 208.263.8417
-## Laclede Launch
-## Description
-The Laclede Launch is located about 8.3 miles East of the Priest River, just east of the town of Priest
-River. And about 13.6 miles west of Sandpoint. Theres plenty of parking, two docks and a swimming area.
-## Attractions
-Laclede is half way between Sandpoint and Albeni Dam. Riley Creek Recreation Area, Round Lake State Park,
-Morton Slough, and the Morton Slough Game Management Area,
-## Directions
-From The Priest River, drive east on Hwy 2 for about 8 miles and turn right (south) onto Riley Creek Park
-Road. Bear left onto Laclede Ferry Road to the launch. From Sandpoint, drive west on Hwy 2 for just over 13
-miles to the Riley Creek Park Road. Bear left onto Laclede Ferry Road to the launch.
-## Cool things close by
-Albeni Cove Camp Ground, Morton Slough Game Management Area, and Round Lake State Park.
-## Restaurants & Pubs
-NA
+  - Paddling & Rivers
+stats:
+  - label: Paddle Distance
+    icon: map-marker-distance
+    value: varies
+  - label: Elevation
+    icon: terrain
+    value: 2066'
+  - label: Length and Acreage
+    icon: vector-square
+    value: varies
+  - label: Launch GPS
+    icon: crosshairs-gps
+    value: 48°09'40" N 116°45'15" W
+  - label: Bonner County Sheriff
+    icon: shield-account
+    value: 208.263.8417
+notes:
+  - label: Current NOAA Weather Conditions
+    url: https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63
 ---
 
 # Laclede Launch
 
-## Plan your trip
+## Description
 
-[Click for Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
+The Laclede Launch is located about 8.3 miles East of the Priest River, just east of the town of
+Priest River. And about 13.6 miles west of Sandpoint. There's plenty of parking, two docks and a swimming area.
 
-## Photo gallery
+## Attractions
+
+Laclede is half way between Sandpoint and Albeni Dam. Riley Creek Recreation Area, Round Lake State Park,
+Morton Slough, and the Morton Slough Game Management Area.
+
+## Directions
+
+From The Priest River, drive east on Hwy 2 for about 8 miles and turn right (south) onto Riley Creek Park
+Road. Bear left onto Laclede Ferry Road to the launch. From Sandpoint, drive west on Hwy 2 for just over 13
+miles to the Riley Creek Park Road. Bear left onto Laclede Ferry Road to the launch.
+
+## Cool Things Close By
+
+Albeni Cove Camp Ground, Morton Slough Game Management Area, and Round Lake State Park.
+
+## Restaurants & Pubs
+
+NA
+
+## Photo Gallery

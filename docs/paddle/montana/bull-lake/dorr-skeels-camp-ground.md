@@ -1,33 +1,58 @@
 ---
 tags:
-- Trails & Scrambles stats:
-- label: Paddle Distance icon: map-marker-distance value: about 4.5 miles
-- label: Elevation icon: terrain value: 2320’
-- label: Length and Acreage icon: vector-square value: 4.5 miles and 1202 acres
-- label: Maps icon: map value: Kootenai N.F., Bull Lake Topo
-- label: Launch GPS icon: crosshairs-gps value: ', 48°16’20" n 115°513". w'
-- label: Lincoln County Sheriff icon: shield-account
-## value: 406.293.4112
-## Dorr Skeels Camp Ground
-## Description
-The Dorr Skeel Camp Ground is located at the north end of Bull Lake. The Dorr Skeel C. G. is large, with
-many camp site, some on the shore line. The C. G. launch is located on the south end of the C.G.
-## Attractions
-This C. G. is located on the more quiet end of Bull Lake.
-## Directions
-From the Hwy 200 and Hwy 56 junction, drive about 21.4 miles to the Dorr Skeel C. G. turn off.
-## Cool things close by
-The Halfway House Bar, the Cabinet Mountain Wilderness, Kootenai Falls, and Libby.
-## Restaurants & Pubs
-Henry’s in Libby
+  - Trails & Scrambles
+  - Paddle
+stats:
+  - label: Paddle Distance
+    icon: map-marker-distance
+    value: about 4.5 miles
+  - label: Elevation
+    icon: terrain
+    value: 2320'
+  - label: Length and Acreage
+    icon: vector-square
+    value: 4.5 miles and 1202 acres
+  - label: Maps
+    icon: map
+    value: Kootenai N.F., Bull Lake Topo
+  - label: Launch GPS
+    icon: crosshairs-gps
+    value: 48°16'20" N 115°51'3" W
+  - label: Lincoln County Sheriff
+    icon: shield-account
+    value: 406.293.4112
 ---
 
 # Dorr Skeels Camp Ground
 
-## Plan your trip
+## Description
 
-[Click for Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
+The Dorr Skeel Camp Ground is located at the north end of Bull Lake. The Dorr Skeel C. G. is large, with
+many camp sites, some on the shore line. The C. G. launch is located on the south end of the C.G.
 
-## Photo gallery
+## Attractions
 
-## Images coming soon. to contribute, contact chic
+This C. G. is located on the more quiet end of Bull Lake.
+
+## Directions
+
+From the Hwy 200 and Hwy 56 junction, drive about 21.4 miles to the Dorr Skeel C. G. turn off.
+
+## Nearby Points of Interest
+
+- The Halfway House Bar
+- Cabinet Mountain Wilderness
+- Kootenai Falls
+- Libby
+
+## Restaurants & Pubs
+
+- Henry's in Libby
+
+## Plan Your Trip
+
+- [Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
+
+## Photo Gallery
+
+Images coming soon. To contribute, contact Chic.
