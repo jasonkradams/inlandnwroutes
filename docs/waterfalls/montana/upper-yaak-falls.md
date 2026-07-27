@@ -1,35 +1,52 @@
 ---
 tags:
-- Waterfalls stats:
-- label: Waterfall icon: waterfall value: ????
-- label: Drop icon: arrow-collapse-down value: ???
-- label: Waterfall Type icon: waterfall value: ???
-- label: Distance Car to Falls icon: map-marker-distance value: ???
-- label: Maps icon: map value: ???
-- label: GPS icon: crosshairs-gps
-## value: ??°??’??" n ???°??’??" w
-## Upper Yaak Falls
-## Description
-Add Desc
-## Option #1
-Add Options
-## Option #2
-Add Options
-## Option #3
-Add option
+  - Waterfalls
+stats:
+  - label: Waterfall
+    icon: waterfall
+    value: "????"
+  - label: Drop
+    icon: arrow-collapse-down
+    value: "???"
+  - label: Waterfall Type
+    icon: waterfall
+    value: "???"
+  - label: Distance Car to Falls
+    icon: map-marker-distance
+    value: "???"
+  - label: Maps
+    icon: map
+    value: "???"
+  - label: GPS
+    icon: crosshairs-gps
+    value: "??°??′??″ N ???°??′??″ W"
 ---
 
 # Upper Yaak Falls
+
+## Description
+
+Add Desc
+
+### Option #1
+
+Add Options
+
+### Option #2
+
+Add Options
+
+### Option #3
+
+Add option
 
 ## Directions
 
 Add descriptions
 
----
+## Cool Things Close By
 
-## Cool things close by
-
-Cools things
+Cool things
 
 ## Hazards
 
@@ -39,16 +56,10 @@ Add hazards
 
 Add favorites
 
----
+## Plan Your Trip
 
-## Plan your trip
+[National Weather Service Forecast](https://forecast.weather.gov)
 
-Click for Current NOAA Weather Conditions
+## Photo Gallery
 
-## Photo gallery
-
----
-
-##
-
-<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](../../assets/images/img-1826-256.jpg) --> -->
+Additional images coming soon. To contribute, contact Chic via this website.

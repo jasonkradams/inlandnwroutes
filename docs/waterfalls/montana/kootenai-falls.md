@@ -1,113 +1,127 @@
 ---
 tags:
-- Waterfalls stats:
-- label: Waterfall icon: waterfall value: Kootenai Falls
-- label: Drop icon: arrow-collapse-down value: Several
-- label: Waterfall Type icon: waterfall value: several
-- label: Distance Car to Falls icon: map-marker-distance value: .5 miles
-- label: Maps icon: map value: Kootenai National Forest, Cabinet Ranger District 406.827.3533,
-- label: GPS icon: crosshairs-gps
-## value: 48°45’53" n 115°76’?38" w
-## Kootenai Falls
-## Description
-While on your way to the Cabinet Mountain Wilderness via Libby, Montana, be sure to stop at the Kootenai
-Falls on Hwy 2. As you start your walk to the falls, read the kiosk for info on the falls, like History,
-Native American involvement, and directions.
-After a short walk, you come to a railroad overpass. Please use this method to cross the tracks. Then you
-will come to a "Y" in the trail. Going right will take you to the bulk of the falls, while going left will
-take you to the swinging bridge. Keep in mind, after seeing one, you will go to the other.
-All waterfalls are a hazard, due to their slippery nature. always be extra careful near any waterfall.
-Going right. The falls come into view after about 5 minutes. from the "Y". There are great Block type drops
-that are very wide, as well as bowls that the river drops into. You will also notice several islands all
-along the river course. Hike east, up stream for many more views of this mighty river. If you are a photo
-enthusiast, be sure to take your tripod, polarizing filter, and cable release.
-After spending some time here, head back on the trail you came in on.
-At the sign Head west to the swinging bridge. As you approach the bridge, notice the Stromatolites fossils
-at the base of the swinging bridge. Stromatolites are a laminated usually mounded sedimentary fossil formed
-from layers of cyanobacteria, calcium carbonate, and trapped sediment. They are a type of reef.
-Stromatolites date back to 3.5 billion years. But these samples are not that old. They are very rare, but
-there are still living in Tasmania. Stomatolite mean "layer rock".
-Not too long ago, the swinging bridge was replaced, with a new modern one. Take a walk over to the other
-side. There are additional views of the Kootenai River, and even a trail along its north shore. But be
-aware, the drop offs are dangerous. When you head back to your car, stop by the concession stand for an ice
-cream or other treats.
-The kootenai river is huge and very dangerous if you get too close to the edge. please keep your children
-safe.
-## Directions
-95 & Hwy 2 North of Bonners Ferry. From Hwy 95 north of Bonners Ferry, turn right (E) onto Hwy 2.. You will
-drive thru Troy, Montana, and past Hwy 56. There are restrooms at this intersection. At about 4.4 miles from
-Hwy 56, the falls parking is on the left (N) side of the highway. Please, use extra care as you cross over
-the on coming lane of traffic.
-From Clark Fork Head east on Hwy 200 to the left (N) turn onto Hwy 56. Hwy 56 is by far the most beautiful
-drive in the area. On your right (E) is the Cabinet Mountain Wilderness, while on your left (W) is the
-Proposed Scotchman Peaks Wilderness. Do this drive slow, and look around as you head north. After a little
-over 35 miles, you will come the junction with Hwy 2. (Restrooms) Turn right (E) onto Hwy 2 to the parking
-area for Kootenai Falls. Please, use extra care as you cross over the on coming lane of traffic
+  - Waterfalls
+stats:
+  - label: Waterfall
+    icon: waterfall
+    value: Kootenai Falls
+  - label: Drop
+    icon: arrow-collapse-down
+    value: Several
+  - label: Waterfall Type
+    icon: waterfall
+    value: Block-type cascades across multiple wide drops and bowls
+  - label: Distance Car to Falls
+    icon: map-marker-distance
+    value: .5 miles
+  - label: Maps
+    icon: map
+    value: Kootenai National Forest, Cabinet Ranger District 406.827.3533
+  - label: GPS
+    icon: crosshairs-gps
+    value: Approximate coordinates 48°45′53″ N 115°76′38″ W
+notes:
+  - label: Kootenai National Forest Alerts
+    url: https://www.fs.usda.gov/alerts/kootenai/alerts-notices
 ---
 
 # Kootenai Falls
 
-## Cool things close by
+![Kootenai Falls, the bowl on the right is very photogenic](../../assets/images/11122012838.jpg)
+_Kootenai Falls, the bowl on the right is very photogenic._
 
-The Cabinet Mountain Wilderness, with trails to Cedar Lakes. The Proposed Scotchman Peaks Wilderness with
-trails to Pillick Ridge, Scotchmans Peak, Ross Creek Cedars, and L.& U. Spar Lakes
+## Description
+
+While on your way to the Cabinet Mountain Wilderness via Libby, Montana, be sure to stop at Kootenai Falls
+on Hwy 2. As you start your walk to the falls, read the kiosk for information on the falls, including its
+history, Native American involvement, and directions.
+
+After a short walk, you come to a railroad overpass; use the crossing to get over the tracks safely. From
+there, the trail splits at a "Y" — going right takes you to the bulk of the falls, while going left leads to
+the swinging bridge. After seeing one, plan on visiting the other.
+
+### Right at the "Y": The Falls
+
+The falls come into view after about five minutes from the "Y." There are impressive block-type drops that
+are very wide, along with bowls that the river drops into, and several islands along the river's course.
+Hike east upstream for many more views of this mighty river. If you're a photo enthusiast, bring a tripod, a
+polarizing filter, and a cable release.
+
+### Left at the "Y": The Swinging Bridge
+
+Head west to the swinging bridge. As you approach it, look for stromatolite fossils at its base.
+Stromatolites are laminated, usually mounded, sedimentary formations built from layers of cyanobacteria,
+calcium carbonate, and trapped sediment — a type of reef. Stromatolites date back 3.5 billion years, though
+these particular samples aren't that old; they're rare today, but living examples still exist in Tasmania.
+The name "stromatolite" means "layered rock."
+
+The swinging bridge was replaced not too long ago with a new, modern span. Cross over to the far side for
+additional views of the Kootenai River and a trail along its north shore — but stay alert, since the
+drop-offs there are dangerous. On your way back to the car, stop by the concession stand for ice cream or
+other treats.
+
+!!! warning "River Hazard"
+    The Kootenai River is huge and very dangerous if you get too close to the edge. Please keep a close eye
+    on your children anywhere along the river.
+
+## Directions
+
+### From Bonners Ferry, Idaho
+
+From Hwy 95 north of Bonners Ferry, turn right (east) onto Hwy 2. Drive through Troy, Montana, and past Hwy
+56 (there are restrooms at this intersection). About 4.4 miles past Hwy 56, the falls parking area is on the
+left (north) side of the highway. Use extra care crossing the oncoming lane of traffic.
+
+### From Clark Fork, Idaho
+
+Head east on Hwy 200 to the left (north) turn onto Hwy 56. Hwy 56 is one of the most scenic drives in the
+area — the Cabinet Mountain Wilderness is on your right (east), and the Proposed Scotchman Peaks Wilderness
+is on your left (west). Take it slow and enjoy the views heading north. After a little over 35 miles, you'll
+reach the junction with Hwy 2 (restrooms available). Turn right (east) onto Hwy 2 to reach the parking area
+for Kootenai Falls. Use extra care crossing the oncoming lane of traffic.
+
+## Cool Things Close By
+
+The Cabinet Mountain Wilderness, with trails to Cedar Lakes, and the Proposed Scotchman Peaks Wilderness,
+with trails to Pillick Ridge, Scotchman Peak, Ross Creek Cedars, and Upper & Lower Spar Lakes.
 
 ## Hazards
 
-All waterfalls are a hazard, due to their slippery nature. always be extra careful near any waterfall. The
-rivers edge are exposed. PLEASE take care of your children while all along the Kootenai River
+All waterfalls are a hazard due to their slippery nature. Always be extra careful near any waterfall. The
+river's edge is exposed all along the Kootenai River — please watch your children closely.
 
 ## Restaurants & Pubs
 
-Henry's, The Shack, in Libby.
+Henry's and The Shack, in Libby.
+
+## Plan Your Trip
 
 Click for Current NOAA Weather Conditions
 
-## Photo gallery
+## Photo Gallery
 
----
+![This is a view of the falls at its widest](../../assets/images/11122012840.jpg)
+_This is a view of the falls at its widest._
 
-### Picture (Image missing)
+![Opd posing for the camera as he moves into place for these unusual images](../../assets/images/28140028.jpg)
+_Opd posing for the camera as he moves into place for these unusual images._
 
-## Kootenai falls. the bowl on the right is very photogenic
+![The photo ops are everywhere if you just look](../../assets/images/28140025.jpg)
+_The photo ops are everywhere if you just look._
 
-![Picture](../../assets/images/11122012838.jpg)
+![During runoff, this area is inundated with raging water](../../assets/images/28140017.jpg)
+_During runoff, this area is inundated with raging water._
 
-## This is a view of the falls at tis widest
+![As the water moves, it creates many photo ops](../../assets/images/img-0635.jpg)
+_As the water moves, it creates many photo ops._
 
-![Picture](../../assets/images/11122012840.jpg)
+### Also Along the Trail
 
-## The river rounds one island then another as it winds down its course
+A few more sights along the way, described here since photos of them didn't survive:
 
-### Picture (Image missing) Details
-
-## The mighty kootenai river
-
-### Picture (Image missing) Details
-
-## The river as it winds its way down stream
-
-### Picture (Image missing) Details
-
-## In the very late fall, the river gives up its secret places
-
-### Picture (Image missing) Details
-
-## Opd posing for me as he moves into place for these unusual images
-
-![Picture](../../assets/images/28140028.jpg)
-
-## The photo ops are everywhere if you just look
-
-![Picture](../../assets/images/28140025.jpg)
-
-## During run off, this area is inundated with raging water
-
-![Picture](../../assets/images/28140017.jpg)
-
-## As the water moves, it creates many photo ops
-
-![Picture](../../assets/images/img-0635.jpg)
-
-David, our it guy on the left, with erwin on the swinging bridge Although the stromalites aren't in this
-image, they are below the bridge
+- The river rounds one island after another as it winds down its course.
+- Views of the mighty Kootenai River.
+- The river winding its way downstream.
+- In late fall, the river reveals hidden pools and channels.
+- David (our IT guy) and Erwin on the swinging bridge — the stromatolites aren't visible in this shot, but
+  they're just below the bridge.

@@ -1,54 +1,52 @@
 ---
 tags:
-- Waterfalls stats:
-- label: Waterfall icon: waterfall value: ????
-- label: Drop icon: arrow-collapse-down value: ???
-- label: Waterfall Type icon: waterfall value: ???
-- label: Distance Car to Falls icon: map-marker-distance value: ???
-- label: Maps icon: map value: ???
-- label: GPS icon: crosshairs-gps
-## value: ??°??’??" n ???°??’??" w
-## Lower Yaak Falls
-## Description
-Add Desc
-## Option #1
-Add Options
-## Option #2
-Add Options
-## Option #3
-Add option
+  - Waterfalls
+stats:
+  - label: Waterfall
+    icon: waterfall
+    value: Lower Yaak Falls
+  - label: Drop
+    icon: arrow-collapse-down
+    value: Coming soon
+  - label: Waterfall Type
+    icon: waterfall
+    value: Coming soon
+  - label: Distance Car to Falls
+    icon: map-marker-distance
+    value: Coming soon
+  - label: Maps
+    icon: map
+    value: Kootenai N.F., Yaak Ranger District
+  - label: GPS
+    icon: crosshairs-gps
+    value: Coming soon
 ---
 
 # Lower Yaak Falls
 
+![Lower Yaak Falls](../../assets/images/img-1826-255.jpg)
+_Lower Yaak Falls._
+
+## Description
+
+Full trip write-up coming soon.
+
 ## Directions
 
-Add descriptions
+Full driving and trailhead directions coming soon.
 
----
+## Cool Things Close By
 
-## Cool things close by
-
-Cools things
+Additional details coming soon.
 
 ## Hazards
 
-Add hazards
+All waterfalls are a hazard due to their slippery nature. Always be extra careful near any waterfall.
 
 ## Restaurants & Pubs
 
-Add favorites
+Additional details coming soon.
 
----
+## Photo Gallery
 
-## Plan your trip
-
-Click for Current NOAA Weather Conditions
-
-## Photo gallery
-
----
-
-##
-
-<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](../../assets/images/img-1826-255.jpg) --> -->
+Additional images coming soon. To contribute, contact Chic via this website.

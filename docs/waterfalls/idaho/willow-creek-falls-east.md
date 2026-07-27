@@ -1,121 +1,125 @@
 ---
 tags:
-- Waterfalls stats:
-- label: Waterfall icon: waterfall value: Willow Creek Falls East
-- label: Drop icon: arrow-collapse-down value: Several drops
-- label: Waterfall Type icon: waterfall value: Several types
-- label: Distance Car to Falls icon: map-marker-distance value: Lower falls are below the trailhead for
-  about .5 milesUpper falls is about 2.25 miles
-- label: Maps icon: map value: I.P.N.F., CDA River Ranger District 208.769.3000 & 208. 752.1221
-- label: GPS icon: crosshairs-gps
-## value: The Stevens Lakes and Lone Lake trailhead is 47°26′16″ N 115°45′57″ W
-## Willow Creek Falls East
-## Willow creek fall East
-## Description
-The description of these waterfalls are very complicated, but I'll do my best. In the Gallery below the
-falls will match the number in the description here. Starting at the trailhead and heading up stream towards
-L. & U. Stevens Lakes. The 1st falls up the trail are about 40' off the trail and are about a 3' Block type
-falls. The 2nd falls are a ways past the first and are only 40' off the trial. The 3rd falls are the best of
-the lower falls The 4rd falls are up in the clearing below the headwall, and drops about 20' in a Plunge
-type. On your hike to the lakes, you have to cross the falls to continue. The 5th falls is up past the first
-large switchback. It is actually two falls that descend thru a split in a huge rock. They are both Plunge
-types. The 6th and 7th falls are real close to each other and can be seen by dropping down to the 4th falls.
-They are Plunge type falls. Please be very careful here.
-Below the trailhead are 3 more falls, but the area around them is too overgrown to get good images of.
-## Directions
-Drive east on I-90 to Exit #69. At the stop sign turn left (N) over the freeway to the next stop sign, and
-turn right (E) onto
-Friday Ave. Continue past the Lucky Friday mine site to a "Y", and bear right. In a short distance, you will
-cross back over the freeway where you will be on Willow Creek Road. In a little over a 1 miles , the
-trailhead will be on your left. There is a pit toilet and picnic bench at the trailhead. The Stevens Lakes
-Trail #165, is on the left (E( side of the creek.
+  - Waterfalls
+stats:
+  - label: Waterfall
+    icon: waterfall
+    value: Willow Creek Falls East
+  - label: Drop
+    icon: arrow-collapse-down
+    value: Several drops
+  - label: Waterfall Type
+    icon: waterfall
+    value: Several types
+  - label: Distance Car to Falls
+    icon: map-marker-distance
+    value: Lower falls are below the trailhead, about .5 miles; Upper falls are about 2.25 miles
+  - label: Maps
+    icon: map
+    value: I.P.N.F., CDA River Ranger District 208.769.3000 & 208.752.1221
+  - label: GPS
+    icon: crosshairs-gps
+    value: Stevens Lakes & Lone Lake trailhead 47°26′16″ N 115°45′57″ W
 ---
 
 # Willow Creek Falls East
 
-## Cool things close by
+## Description
+
+The description of these waterfalls is very complicated, but I'll do my best. In the gallery below, the
+falls will match the number in the description here. Starting at the trailhead and heading upstream towards
+L. & U. Stevens Lakes:
+
+- **1st falls**: About 40' off the trail, a 3' Block type falls.
+- **2nd falls**: A ways past the first and only 40' off the trail.
+- **3rd falls**: The best of the lower falls.
+- **4th falls**: Up in the clearing below the headwall, dropping about 20' in a Plunge type. On your hike to
+  the lakes, you have to cross the falls to continue.
+- **5th falls**: Up past the first large switchback. It is actually two falls that descend through a split
+  in a huge rock. Both are Plunge types.
+- **6th & 7th falls**: Real close to each other and can be seen by dropping down to the 4th falls. Both are
+  Plunge type falls.
+
+!!! warning "Use Caution"
+
+    Please be very careful here.
+
+Below the trailhead are 3 more falls, but the area around them is too overgrown to get good images of.
+
+## Directions
+
+Drive east on I-90 to Exit #69. At the stop sign, turn left (N) over the freeway to the next stop sign, and
+turn right (E) onto Friday Ave. Continue past the Lucky Friday mine site to a "Y", and bear right. In a
+short distance, you will cross back over the freeway where you will be on Willow Creek Road. In a little
+over a mile, the trailhead will be on your left. There is a pit toilet and picnic bench at the trailhead.
+The Stevens Lakes Trail #165 is on the left (E) side of the creek.
+
+## Cool Things Close By
 
 Lower & Upper Stevens Lakes, Stevens Peak 6838', Lone Lake & the Upper Sanctuary, St. Regis Lakes, Lookout
-Pass Ski Area, Route of the Hiawatha, Trail of the CDA, and the Shoshone County Park,
+Pass Ski Area, Route of the Hiawatha, Trail of the CDA, and the Shoshone County Park.
 
 ## Hazards
 
-All waterfalls are a hazard, due to their slippery nature. always be extra careful near any waterfall.
+All waterfalls are a hazard due to their slippery nature. Always be extra careful near any waterfall.
 
 ## Restaurants & Pubs
 
-Muchackos Tacos Pizza Factory in Wallace. Radio Brewery in Keellogg
+Muchackos Tacos Pizza Factory in Wallace. Radio Brewery in Kellogg.
 
----
-
-## Plan your trip
+## Plan Your Trip
 
 Click for Current NOAA Weather Conditions
 
-## Photo gallery
+## Photo Gallery
 
-![Picture](../../assets/images/11102021307.jpg)
+![The 1st waterfall along the trail](../../assets/images/11102021307.jpg)
+_The 1st waterfall along the trail._
 
-## 1st WATERFALL
+![The 1st waterfall along the trail, another view](../../assets/images/11102021309.jpg)
+_The 1st waterfall along the trail, another view._
 
-![Picture](../../assets/images/11102021309.jpg)
+![The same waterfall as above, but in heavy runoff on 5/31/22](../../assets/images/61420221137a.jpg)
+_The same waterfall as above, but in heavy runoff on 5/31/22._
 
-## 1st WATERFALL
+![Falls #1: hoar frost popping up through the dirt on the trail](../../assets/images/11102021312.jpg)
+_Falls #1: hoar frost popping up through the dirt on the trail._
 
-![Picture](../../assets/images/61420221137a.jpg)
+![Falls #1: ice balls form when the flow is high](../../assets/images/11102021315.jpg)
+_Falls #1: ice balls form when the flow is high._
 
-## This is the same waterfall as above, but in heavy runoff on 5.31.22
+![Falls #2: this waterfall is noisy and about .4 mile upstream](../../assets/images/61420221133a.jpg)
+_Falls #2: this waterfall is noisy and about .4 mile upstream._
 
-![Picture](../../assets/images/11102021312.jpg)
+![Falls #2: the same waterfall, but in lower flow](../../assets/images/11102021344.jpg)
+_Falls #2: the same waterfall, but in lower flow._
 
-## #1    usually you see hoar frost popping up thru the dirt on a trail
+![Falls #3: the biggest of the lower falls](../../assets/images/11102021348.jpg)
+_Falls #3: the biggest of the lower falls._
 
-![Picture](../../assets/images/11102021315.jpg)
+![Falls #4: at the bottom of the headwall you must cross](../../assets/images/11102021355.jpg)
+_Falls #4: at the bottom of the headwall you must cross._
 
-## #1    ice balls form when the flow is high
+![Falls #4: at the bottom of the headwall you must cross, another view](../../assets/images/11102021401.jpg)
+_Falls #4: at the bottom of the headwall you must cross, another view._
 
-![Picture](../../assets/images/61420221133a.jpg)
+![Falls #4: headwall falls taken from the log crossing](../../assets/images/11102021402.jpg)
+_Falls #4: headwall falls taken from the log crossing._
 
-## #2.  this falls is noisy and up stream about .4 mile
+![Falls #4: headwall falls](../../assets/images/11102021406.jpg)
+_Falls #4: headwall falls._
 
-![Picture](../../assets/images/11102021344.jpg)
+![Falls #4: the start of winter at the headwall falls](../../assets/images/1102021409.jpg)
+_Falls #4: the start of winter at the headwall falls._
 
-## #2.   the same as above, but in lower flow
+![Falls #4: the headwall falls in the dead of winter](../../assets/images/1102021412.jpg)
+_Falls #4: the headwall falls in the dead of winter._
 
-![Picture](../../assets/images/11102021348.jpg)
+![Falls #4: the headwall falls](../../assets/images/11102021414.gif)
+_Falls #4: the headwall falls._
 
-## #3.   this is the biggest of the lower falls
+![Falls #5: these waterfalls are halfway up the headwall, dropping through a crack in the rocks](../../assets/images/11102021419.jpg)
+_Falls #5: these waterfalls are halfway up the headwall, dropping through a crack in the rocks._
 
-![Picture](../../assets/images/11102021355.jpg)
-
-## #4.   this  falls is at the bottom of the headwall that you have to cross
-
-![Picture](../../assets/images/11102021401.jpg)
-
-![Picture](../../assets/images/11102021402.jpg)
-
-## #4.  headwall falls taken from the log crossing
-
-![Picture](../../assets/images/11102021406.jpg)
-
-## #4.  headwall falls
-
-![Picture](../../assets/images/1102021409.jpg)
-
-## #4.   the start of winter at the headwall falls
-
-![Picture](../../assets/images/1102021412.jpg)
-
-## #4.  the headwall falls in the dead of winter
-
-![Picture](../../assets/images/11102021414.gif)
-
-## #4.  the headwall falls
-
-![Picture](../../assets/images/11102021419.jpg)
-
-## #5.  these waterfalls are half way up the headwall &   the drop between a crack in the rocks
-
-![Picture](../../assets/images/11102021424.gif)
-
-## #5.  in early spring
+![Falls #5: in early spring](../../assets/images/11102021424.gif)
+_Falls #5: in early spring._

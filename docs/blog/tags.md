@@ -1,3 +1,7 @@
+---
+tags:
+---
+
 # Browse by Category
 
 Every post on the Inland NW Routes blog is tagged by category -- trail safety,
