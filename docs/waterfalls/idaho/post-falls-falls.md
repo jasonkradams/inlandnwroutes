@@ -1,54 +1,66 @@
 ---
 tags:
-- Waterfalls stats:
-- label: Waterfall icon: waterfall value: ????
-- label: Drop icon: arrow-collapse-down value: ???
-- label: Waterfall Type icon: waterfall value: ???
-- label: Distance Car to Falls icon: map-marker-distance value: ???
-- label: Maps icon: map value: ???
-- label: GPS icon: crosshairs-gps
-## value: ??°??’??" n ???°??’??" w
-## Post Falls Falls
-## Description
-Add Desc
-## Option #1
-Add Options
-## Option #2
-Add Options
-## Option #3
-Add option
+  - Waterfalls
+stats:
+  - label: Waterfall
+    icon: waterfall
+    value: Post Falls Falls
+  - label: Drop
+    icon: arrow-collapse-down
+    value: TBD
+  - label: Waterfall Type
+    icon: waterfall
+    value: TBD
+  - label: Distance Car to Falls
+    icon: map-marker-distance
+    value: TBD
+  - label: Maps
+    icon: map
+    value: TBD
+  - label: GPS
+    icon: crosshairs-gps
+    value: TBD
 ---
 
 # Post Falls Falls
 
+## Description
+
+Add description.
+
+### Option #1
+
+Add options.
+
+### Option #2
+
+Add options.
+
+### Option #3
+
+Add option.
+
 ## Directions
 
-Add descriptions
+Add descriptions.
 
----
+## Cool Things Close By
 
-## Cool things close by
-
-Cools things
+Cool things close by.
 
 ## Hazards
 
-Add hazards
+Add hazards.
 
 ## Restaurants & Pubs
 
-Add favorites
+Add favorites.
 
----
-
-## Plan your trip
+## Plan Your Trip
 
 Click for Current NOAA Weather Conditions
 
-## Photo gallery
+## Photo Gallery
 
----
-
-##
-
-![Picture](../../assets/images/img-1826-246.jpg)
+![Post Falls Falls](../../assets/images/img-1826-246.jpg)
+_Post Falls Falls._
