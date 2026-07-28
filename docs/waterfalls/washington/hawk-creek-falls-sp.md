@@ -37,22 +37,31 @@ can buy a day pass at the parking areas. The falls are located SE of the campgro
 walk out to the Columbia River is west of the campgrounds. After visiting the falls, hike the shoreline west
 out to the Columbia River.
 
-### Option #1
+## Hiking Options
+
+### Hawk Bay & Columbia River Shoreline
 
 As you enter the area, the campground sits below the road. A short distance upstream is beautiful Hawk
 Creek Falls, dropping about 40' in a chasm beneath the road. From the parking area, the trail heads west
 along the north side of Hawk Bay. There are several beaches to swim at. Further away from the parking area,
-the trail eventually reaches the Columbia River. As you see Moonshine Canyon Bay across Hawk Bay, you will
-have to climb up and over the hills to get to a spot with unobstructed views of the Columbia River. Paddling
-this bay, and out into the Columbia River, offers great views and a nice paddling experience. Back on land,
-out near the river is a ridge line coming down from above. On a step above the bay, there is a small sand
-dune to explore. It's also a great place for lunch. Most of the bay is lined in basalt columns, that give it
-an eerie feeling. Be aware that the land around Hawk Bay is private, and may require kayaking to beaches out
-on Lake Roosevelt. There is another attraction worth exploring north of the bay. There are dozens of caves
-etched out of the basalt cliffs. From the parking area, look north up hill at one of the larger caves in the
-area.
+the trail eventually reaches the Columbia River.
 
-### Option #2
+As you see Moonshine Canyon Bay across Hawk Bay, you will have to climb up and over the hills to get to a
+spot with unobstructed views of the Columbia River. Paddling this bay, and out into the Columbia River,
+offers great views and a nice paddling experience.
+
+Back on land, out near the river is a ridge line coming down from above. On a step above the bay, there is a
+small sand dune to explore. It's also a great place for lunch. Most of the bay is lined in basalt columns,
+that give it an eerie feeling.
+
+!!! warning "Private Land Around Hawk Bay"
+    Be aware that the land around Hawk Bay is private, and may require kayaking to beaches out on Lake
+    Roosevelt.
+
+There is another attraction worth exploring north of the bay. There are dozens of caves etched out of the
+basalt cliffs. From the parking area, look north up hill at one of the larger caves in the area.
+
+### North Shore to the Columbia River
 
 By hiking the north shore, you can reach the beaches of the Mighty Columbia River.
 
@@ -66,14 +75,19 @@ for about 3 miles and bear right staying on Miles-Creston Road N. all the way to
 
 ## Cool Things Close By
 
-Columbia River and the Lake Roosevelt Reservoir, Lake Roosevelt National Recreation Area, the Colville
-Indian Reservation, the Grand Coulee Dam, Steamboat Rock, and Northrup Canyon.
+- Columbia River & the Lake Roosevelt Reservoir
+- Lake Roosevelt National Recreation Area
+- The Colville Indian Reservation
+- The Grand Coulee Dam
+- Steamboat Rock
+- Northrup Canyon
 
 ## Hazards
 
-All waterfalls are a hazard, due to their slippery nature. Always be extra careful near any waterfall. As in
-any walks in the Washington Scablands, you must be aware of rattlesnakes. There are lower leg wraps that
-will protect you from snake bites.
+All waterfalls are a hazard, due to their slippery nature. Always be extra careful near any waterfall.
+
+- **Rattlesnakes:** As on any walk in the Washington Scablands, you must be aware of rattlesnakes. Lower
+  leg wraps will protect you from snake bites.
 
 ## Restaurants & Pubs
 

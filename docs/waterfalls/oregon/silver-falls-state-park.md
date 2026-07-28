@@ -1,53 +1,64 @@
 ---
 tags:
-- Waterfalls stats:
-- label: Waterfall icon: waterfall value: Silver Falls State park
-- label: Drop icon: arrow-collapse-down value: 31 feet to 178 feet
-- label: Waterfall Type icon: waterfall value: All types of falls
-- label: Maps icon: map value: ???
-- label: GPS icon: crosshairs-gps
-## value: ??°??’??" n ???°??’??" w
-## Silver Falls State Park
-## History provided by oregon state parks
-Your browser does not support viewing this document. Click [here]( to download the document.
-Your browser does not support viewing this document. Click [here]( to download the document.
-## Photo gallery
+  - Waterfalls
+stats:
+  - label: Waterfall
+    icon: waterfall
+    value: Silver Falls State Park
+  - label: Drop
+    icon: arrow-collapse-down
+    value: 31' to 178'
+  - label: Waterfall Type
+    icon: waterfall
+    value: All types of falls
+  - label: Maps
+    icon: map
+    value: Not documented
+  - label: GPS
+    icon: crosshairs-gps
+    value: Not documented
 ---
 
 # Silver Falls State Park
 
-<!-- Missing Image: <!-- Missing Image: [*Picture (Image missing)*](../../assets/images/11222021926p.jpg) --> -->
+![Silver Falls State Park](../../assets/images/11222021928p.jpg)
+_Silver Falls State Park._
 
-![Picture](../../assets/images/11222021928p.jpg)
+![Scenic view within Silver Falls State Park](../../assets/images/11222021929p.png)
+_Scenic view within Silver Falls State Park._
 
-![Picture](../../assets/images/11222021929p.png)
+## Description
 
-## Photo gallery
+Silver Falls State Park is home to falls ranging from 31 feet to 178 feet in drop, with all types of falls
+represented along its trail system.
 
-![Picture](../../assets/images/3222026635p.jpg)
+## History
 
-## The trail in is about as good as it gets
+!!! quote "History provided by Oregon State Parks"
 
-### Picture (Image missing)
+    The park's history document, originally provided by Oregon State Parks, could not be archived on this
+    page.
 
-## The lushness of this area is worth the walk
+## Photo Gallery
 
-![Picture](../../assets/images/3222026639p.jpg)
+### On the Trail
 
-## North falls 136'
+![The trail in is about as good as it gets](../../assets/images/3222026635p.jpg)
+_The trail in is about as good as it gets._
 
-### Picture (Image missing) Details
+_Photo unavailable: The lushness of this area is worth the walk._
 
-## North falls 136'
+### North Falls (136')
 
-![Picture](../../assets/images/3222026654p.jpg)
+![North Falls (136 feet)](../../assets/images/3222026639p.jpg)
+_North Falls (136 feet)._
 
-## North trail from the trail in the above image
+_Photo unavailable: North Falls (136 feet), second view._
 
-### Picture (Image missing) Details
+![North trail from the trail in the above image](../../assets/images/3222026654p.jpg)
+_North trail from the trail in the above image._
 
-## Most all the trail is outstanding
+_Photo unavailable: Most all the trail is outstanding._
 
-![Picture](../../assets/images/3222026644p.jpg)
-
-## Close up of upper north falls
+![Close up of upper North Falls](../../assets/images/3222026644p.jpg)
+_Close up of upper North Falls._
