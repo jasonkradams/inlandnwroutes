@@ -47,6 +47,9 @@ stats:
 
 # Trillium
 
+![Trillium](../../assets/images/11232021552_orig.jpg)
+_Trillium._
+
 ## Western trillium. aka waking robin
 
 ## Description
@@ -155,17 +158,23 @@ takes 18 years.
 
 ## Photo gallery
 
-![Picture](../../assets/images/11232021627.jpg)
+![Trillium colony blooming among violets and false lily of the valley](../../assets/images/11232021627.jpg)
+_Trillium colony blooming among violets and false lily of the valley._
 
 The below images are trilliums that are past their prime, which gives notice to insects that the flower is
 past its pollination stage. Found in the I.P.N.F.
 
-![Picture](../../assets/images/11232021628.jpg)
+![Trillium flower fading to deep rose-purple](../../assets/images/11232021628.jpg)
+_Trillium flower fading to deep rose-purple._
 
-### Picture (Image missing)
+![Faded trillium petals resting on a broad leaf](../../assets/images/11232021629-1.jpg)
+_Faded trillium petals resting on a broad leaf._
 
-### Picture (Image missing) Details (1)
+![Trillium past its prime among a colony of blooms](../../assets/images/11232021630-1.jpg)
+_Trillium past its prime among a colony of blooms._
 
-### Picture (Image missing) Details (2)
+![Overhead view of a trillium colony with fading pink blooms](../../assets/images/1123202163-1.jpg)
+_Overhead view of a trillium colony with fading pink blooms._
 
-### Picture (Image missing) Details (3)
+![Trillium colony past bloom alongside a young conifer seedling](../../assets/images/1123202164-1.jpg)
+_Trillium colony past bloom alongside a young conifer seedling._
