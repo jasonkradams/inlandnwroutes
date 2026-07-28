@@ -45,6 +45,10 @@ def render_tag_browser(heading, description, tag_map, noun="guide", root_prefix=
     sorted_tags = sorted(tag_map.items(), key=lambda x: (-len(x[1]), x[0]))
 
     lines = [
+        "---",
+        "tags:",
+        "---",
+        "",
         f"# {heading}",
         "",
         description,
