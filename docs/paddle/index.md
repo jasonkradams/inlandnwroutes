@@ -1,12 +1,29 @@
 ---
 tags:
-- Paddling
+  - Paddling
+  - Paddling & Rivers
+  - Easy
+  - Flat Water Paddling
+stats:
+  - label: Event Type
+    icon: kayaking
+    value: Flat Water Paddling
+  - label: Distance
+    icon: map-marker-distance
+    value: 5 miles RT
+  - label: Elevation
+    icon: terrain
+    value: "2,067'"
+  - label: Difficulty
+    icon: speedometer
+    value: Easy
+  - label: GPS
+    icon: crosshairs-gps
 ---
 
 # Paddling Safety & Kayaking Guide
 
 ![Paddling Safety & Kayaking Guide](../assets/images/915109717.jpg)
-_Paddling Safety & Kayaking Guide_
 
 ## Useful Information All Paddlers Need to Know
 
@@ -95,17 +112,12 @@ In a medium-to-large dry bag, pack the following essential items for every paddl
 
 ## International Scale of River Difficulty
 
-<table> <thead> <tr> <th>Grade</th> <th>Difficulty</th> <th>Description</th> </tr> </thead> <tbody> <tr>
-<td><strong>Grade I</strong></td> <td><strong>Easy</strong></td> <td> Moving water with small, regular waves
-and clear passages. Low river speeds; easy navigation around minor gravel bars or snags. </td> </tr> <tr>
-<td><strong>Grade II</strong></td> <td><strong>Medium</strong></td> <td> Unobstructed rapids with regular
-waves, easy eddies, and clear channels. River speed occasionally exceeds back-paddling speed. </td> </tr>
-<tr> <td><strong>Grade III</strong></td> <td><strong>Difficult</strong></td> <td> Rapids requiring precise
-maneuvering. High waves, small drops, and fast currents near overhanging branches. Requires scouting during
-high spring runoff (April–July). </td> </tr> <tr> <td><strong>Grade IV</strong></td> <td><strong>Very
-Difficult</strong></td> <td> Long, turbulent rapids with powerful hydraulics requiring precise boat control.
-Shore scouting is mandatory. Not suitable for open canoes or recreational kayaks. </td> </tr> </tbody>
-</table>
+| Grade | Difficulty | Description |
+| :--- | :--- | :--- |
+| **Grade I** | **Easy** | Moving water with small, regular waves and clear passages. Low river speeds; easy navigation around minor gravel bars or snags. |
+| **Grade II** | **Medium** | Unobstructed rapids with regular waves, easy eddies, and clear channels. River speed occasionally exceeds back-paddling speed. |
+| **Grade III** | **Difficult** | Rapids requiring precise maneuvering. High waves, small drops, and fast currents near overhanging branches. Requires scouting during high spring runoff (April–July). |
+| **Grade IV** | **Very Difficult** | Long, turbulent rapids with powerful hydraulics requiring precise boat control. Shore scouting is mandatory. Not suitable for open canoes or recreational kayaks. |
 
 ---
 
@@ -118,63 +130,3 @@ Shore scouting is mandatory. Not suitable for open canoes or recreational kayaks
 | **Idaho** | [Idaho Routes](../hike/idaho/index.md) | Priest Lake, Lake Pend Oreille, St. Joe, and CDA water routes. |
 | **Montana** | [Montana Routes](../hike/montana/index.md) | Clark Fork, Kootenai River, and MT river access. |
 | **Oregon** | [Oregon Routes](../hike/oregon/index.md) | Columbia River and Oregon regional paddling destinations. |
-
----
-
----
-tags:
-
-- Paddling & Rivers
-- Easy
-- Flat Water Paddling stats:
-- label: Event Type icon: kayaking value: Flat Water Paddling
-- label: Distance icon: map-marker-distance value: 5 miles RT
-- label: Elevation icon: terrain value: 2,067'
-- label: Difficulty icon: speedometer value: Easy
-- label: GPS icon: crosshairs-gps
-
-## value: n??° ??’ ??.?" w???° ??’ ??.?"
-
-## Paddle Rev
-
-## Echo Bay, Lake Pend Orielle, Idaho
-
-## Paddling instructions
-
-## Items of interest
-
-## Directions
-
-## Hazards
-
----
-
-## Paddle Rev
-
-## Restaurants & Pubs
-
----
-
-## Plan your trip
-
-[Click for Current NOAA Weather Conditions](https://www.nws.noaa.gov/wtf/udaf/MapClick.php?lel=4000&uel=9000&polygon=49.016%2C-114.180%2C48.994%2C-114.381%2C48.890%2C-114.341%2C48.924%2C-114.151%2C&area=63)
-
-## Photo gallery
-
----
-
-## Merganser diving duck
-
-![Picture](../assets/images/p242.png)
-
----
-
-## Legacy aircraft meets drone
-
-![Picture](../assets/images/p244.png)
-
----
-
-## Dark sky and shooting star
-
-![Picture](../assets/images/p245.png)

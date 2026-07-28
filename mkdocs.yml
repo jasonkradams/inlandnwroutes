@@ -848,8 +848,10 @@ nav:
   - Spokane County Parks Conservation Futures Properties: spokane-county-parks-conservation-futures-properties.md
   - Ski: ski/ski.md
 - About:
-  - 'Biography :: Chic': biography--chic.md
-  - 'Biography :: David': biography--david.md
-  - About Us: about-us.md
-  - Contact: contact.md
-  - Liability Release: liability-release.md
+  - about/index.md
+  - About Us:
+    - about/about-us.md
+    - 'Biography :: Chic': about/biography--chic.md
+    - 'Biography :: David': about/biography--david.md
+  - Contact: about/contact.md
+  - Liability Release: about/liability-release.md

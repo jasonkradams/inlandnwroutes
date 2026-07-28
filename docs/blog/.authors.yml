@@ -1,11 +1,12 @@
-chic:
-  name: Chic Burge
-  description: Co-founder & Historian, Inland NW Routes
-  avatar: ../assets/images/124371024-3497102010375806-1168553335872609808-o.jpg
-  url: ../biography--chic.md
+authors:
+  chic:
+    name: Chic Burge
+    description: Co-founder & Historian, Inland NW Routes
+    avatar: ../assets/images/124371024-3497102010375806-1168553335872609808-o.jpg
+    url: ../biography--chic.md
 
-david:
-  name: David Crafton
-  description: Co-founder & Contributor, Inland NW Routes
-  avatar: ../assets/images/img-0203.jpg
-  url: ../biography--david.md
+  david:
+    name: David Crafton
+    description: Co-founder & Contributor, Inland NW Routes
+    avatar: ../assets/images/img-0203.jpg
+    url: ../biography--david.md

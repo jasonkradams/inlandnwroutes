@@ -22,7 +22,7 @@ def _build_card(stats):
     for item in stats:
         icon = item.get("icon") or "information-outline"
         label = item["label"]
-        value = item["value"]
+        value = item.get("value", "")
         lines.append(f"| :material-{icon}: **{label}** | {value} |")
     lines += ["", "</div>"]
     return "\n".join(lines)

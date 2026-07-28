@@ -11,6 +11,7 @@
     --md-primary-fg-color: #1b4332;
     --md-primary-fg-color--dark: #0f281e;
     --md-primary-bg-color: #ffffff;
+    --md-primary-bg-color--light: rgba(255, 255, 255, 0.7);
     --md-accent-fg-color: #2d6a4f;
     --md-accent-fg-color--transparent: rgba(45, 106, 79, 0.1);
     --md-default-fg-color: #1e293b;
@@ -36,6 +37,7 @@
     --md-primary-fg-color: #2c363f;
     --md-primary-fg-color--dark: #1e252b;
     --md-primary-bg-color: #ffffff;
+    --md-primary-bg-color--light: rgba(255, 255, 255, 0.7);
     --md-accent-fg-color: #d97706;
     --md-accent-fg-color--transparent: rgba(217, 119, 6, 0.1);
     --md-default-fg-color: #292524;
@@ -618,6 +620,103 @@ body,
     border-color: var(--md-typeset-a-color);
     transform: translateY(-1px);
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+}
+
+/* Header contrast improvements – force header navigation text to white for readability across themes.
+   Scoped to avoid clobbering the search bar, which needs its own palette-aware styling. */
+.md-header,
+.md-header__inner,
+.md-header__title,
+.md-header__title a,
+.md-header__topic,
+.md-header__ellipsis,
+.md-header .md-nav__link,
+.md-header .md-nav__link:hover,
+.md-header .md-nav__link:focus,
+.md-header .md-nav__button,
+.md-header .md-nav__button:hover,
+.md-header .md-nav__button:focus,
+.md-header .md-logo,
+.md-header .md-logo img,
+.md-header .md-icon:not(.md-search__icon) {
+    color: #ffffff !important;
+}
+
+/* --------------------------------------------------------------------------
+   SEARCH BAR – consistent rendering across all themes
+   Material's search bar at desktop is a semi-transparent overlay on the dark
+   header, so text/icon/placeholder must be light (white). The variables
+   --md-primary-bg-color and --md-primary-bg-color--light control this in
+   Material's built-in CSS, but custom schemes / non-standard primary colors
+   (like 'emerald') can leave them undefined or conflicting. We explicitly
+   set the search element colors to white to match all three dark headers.
+   -------------------------------------------------------------------------- */
+
+/* Search form background – visible against dark headers */
+.md-search__form {
+    background-color: rgba(255, 255, 255, 0.12) !important;
+}
+
+.md-search__form:hover {
+    background-color: rgba(255, 255, 255, 0.22) !important;
+}
+
+/* Search input text – white on dark header */
+.md-search__input {
+    color: #ffffff !important;
+}
+
+/* Placeholder text – semi-transparent white */
+.md-search__input::placeholder {
+    color: rgba(255, 255, 255, 0.7) !important;
+}
+
+/* Search magnify icon */
+.md-search__icon {
+    color: #ffffff !important;
+}
+
+/* ⌘K keyboard shortcut badge */
+.md-search__shortcut {
+    color: rgba(255, 255, 255, 0.7) !important;
+    border-color: rgba(255, 255, 255, 0.3) !important;
+}
+
+/* When search is opened (full search overlay), revert to theme-aware colors
+   since the search results pane has its own background */
+[data-md-toggle="search"]:checked ~ .md-header .md-search__input {
+    color: var(--md-default-fg-color) !important;
+}
+
+[data-md-toggle="search"]:checked ~ .md-header .md-search__input::placeholder {
+    color: transparent !important;
+}
+
+[data-md-toggle="search"]:checked ~ .md-header .md-search__icon {
+    color: var(--md-default-fg-color--light) !important;
+}
+
+/* Top navigation tabs contrast – default and amber themes */
+[data-md-color-scheme="default"] .md-tabs,
+[data-md-color-scheme="default"] .md-tabs__link,
+[data-md-color-scheme="amber-theme"] .md-tabs,
+[data-md-color-scheme="amber-theme"] .md-tabs__link {
+    background-color: var(--md-primary-bg-color) !important;
+    color: var(--md-primary-fg-color) !important;
+}
+
+/* Top navigation tabs contrast – slate (dark) theme */
+[data-md-color-scheme="slate"] .md-tabs,
+[data-md-color-scheme="slate"] .md-tabs__link {
+    background-color: var(--md-primary-bg-color) !important;
+    color: var(--md-typeset-a-color) !important;
+}
+
+/* Top navigation tabs contrast */
+.md-tabs,
+.md-tabs__link {
+    background-color: var(--md-primary-bg-color) !important;
+    color: var(--md-primary-fg-color) !important;
 }
 
 .tag-pill-btn.active {
