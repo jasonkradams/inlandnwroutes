@@ -12,50 +12,42 @@ tags:
 I met vanette in the spokane mountaineers a few years ago, and have been very impressed with her abilities
 in the mountains and with her photography. enjoy
 
-### Picture (Image missing)
+## Photo gallery
 
-##
+Click on an image to enlarge.
 
-![Picture](../../assets/images/10272024919p.jpg)
+![Snowshoers ascending a ridge above snow-covered peaks](../../assets/images/10272024917p-1.jpg)
+_Snowshoers ascending a ridge above snow-covered peaks._
 
-##
+![Mountain goat peering out from beside a weathered snag](../../assets/images/10272024919p.jpg)
+_Mountain goat peering out from beside a weathered snag._
 
-![Picture](../../assets/images/10272024916p.jpg)
+![Hikers perched on wind-sculpted rime ice formations](../../assets/images/10272024916p.jpg)
+_Hikers perched on wind-sculpted rime ice formations._
 
-##
+![Ski tracks curving up a sunlit snow slope](../../assets/images/10272024920p-1.jpg)
+_Ski tracks curving up a sunlit snow slope._
 
-### Picture (Image missing) Details
+![Snow ghosts and a lookout tower atop a winter summit](../../assets/images/10272024915p.jpg)
+_Snow ghosts and a lookout tower atop a winter summit._
 
-##
+![Snowshoers hiking through a snow-laden forest corridor](../../assets/images/10272024923p.jpg)
+_Snowshoers hiking through a snow-laden forest corridor._
 
-![Picture](../../assets/images/10272024915p.jpg)
+![Mountain goats grazing below a granite spire at an alpine lake](../../assets/images/10272024921p-1.jpg)
+_Mountain goats grazing below a granite spire at an alpine lake._
 
-##
+![Group resting on a ridge at sunset overlooking forested peaks](../../assets/images/10272024928p.jpg)
+_Group resting on a ridge at sunset overlooking forested peaks._
 
-![Picture](../../assets/images/10272024923p.jpg)
+![Hikers watching the sunset from a mountain ridge](../../assets/images/10272024929p.jpg)
+_Hikers watching the sunset from a mountain ridge._
 
-##
+![Hikers watching the sunset from a mountain ridge](../../assets/images/10272024929p.jpg)
+_Hikers watching the sunset from a mountain ridge._
 
-### Picture (Image missing) Details
+![Three hikers watching the sun set over the mountains](../../assets/images/10272024822p-1.jpg)
+_Three hikers watching the sun set over the mountains._
 
-##
-
-![Picture](../../assets/images/10272024928p.jpg)
-
-##
-
-![Picture](../../assets/images/10272024929p.jpg)
-
-##
-
-![Picture](../../assets/images/10272024929p.jpg)
-
-##
-
-### Picture (Image missing) Details
-
-##
-
-### Picture (Image missing) Details
-
-##
+![Aurora borealis glowing above a tent at night](../../assets/images/10272024927p-1.jpg)
+_Aurora borealis glowing above a tent at night._
